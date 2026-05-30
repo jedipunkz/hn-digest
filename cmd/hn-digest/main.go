@@ -30,6 +30,8 @@ const (
 	userAgent       = "hn-digest/0.1 (+https://github.com/jedipunkz/hn-digest)"
 )
 
+const defaultTitleKeywords = "sre,site reliability,devops,dev ops,platform engineering,incident,on-call,observability,kubernetes,k8s,terraform,ci/cd,google cloud,gcp,cloud run,cloud sql,bigquery,gemini,ai,llm,llms,artificial intelligence,machine learning,ml,openai,anthropic,claude,deepmind,neural network"
+
 func main() {
 	if err := run(context.Background(), os.Args[1:]); err != nil {
 		log.Fatal(err)
@@ -45,6 +47,7 @@ func run(ctx context.Context, args []string) error {
 	maxArticleChars := fs.Int("max-article-chars", 12000, "maximum extracted article characters to translate per story")
 	timeout := fs.Duration("timeout", 25*time.Second, "HTTP request timeout")
 	since := fs.Duration("since", 24*time.Hour, "only process stories posted within this duration; 0 disables time filtering")
+	titleKeywords := fs.String("title-keywords", defaultTitleKeywords, "comma-separated title keywords to include; empty means no title filtering")
 	date := fs.String("date", time.Now().Format(time.DateOnly), "output date directory")
 	if err := fs.Parse(args); err != nil {
 		return err
@@ -69,6 +72,7 @@ func run(ctx context.Context, args []string) error {
 		section:         *section,
 		limit:           *limit,
 		since:           *since,
+		titleKeywords:   parseKeywords(*titleKeywords),
 		now:             now,
 	}
 	return runner.run(ctx)
@@ -84,6 +88,7 @@ type crawler struct {
 	section         string
 	limit           int
 	since           time.Duration
+	titleKeywords   []string
 	now             func() time.Time
 }
 
@@ -148,11 +153,19 @@ func (c *crawler) run(ctx context.Context) error {
 		if !cutoff.IsZero() && time.Unix(item.Time, 0).Before(cutoff) {
 			continue
 		}
+		matched, keyword := titleMatchesKeywords(item.Title, c.titleKeywords)
+		if !matched {
+			continue
+		}
 		if seen.has(item) {
 			log.Printf("[%d/%d] skipping duplicate %s", i+1, len(ids), item.Title)
 			continue
 		}
-		log.Printf("translating %d: %s", translatedCount+1, item.Title)
+		if keyword == "" {
+			log.Printf("translating %d: %s", translatedCount+1, item.Title)
+		} else {
+			log.Printf("translating %d [%s]: %s", translatedCount+1, keyword, item.Title)
+		}
 		if err := c.writeStory(ctx, item); err != nil {
 			log.Printf("write story %d: %v", item.ID, err)
 			continue
@@ -179,6 +192,7 @@ func (c *crawler) fetchIDs(ctx context.Context) ([]int, error) {
 type algoliaResponse struct {
 	Hits []struct {
 		ObjectID string `json:"objectID"`
+		Title    string `json:"title"`
 	} `json:"hits"`
 	Page    int `json:"page"`
 	NBPages int `json:"nbPages"`
@@ -205,6 +219,9 @@ func (c *crawler) fetchAlgoliaIDs(ctx context.Context) ([]int, error) {
 			return nil, fmt.Errorf("fetch algolia page %d: %w", page, err)
 		}
 		for _, hit := range result.Hits {
+			if matched, _ := titleMatchesKeywords(hit.Title, c.titleKeywords); !matched {
+				continue
+			}
 			id, err := strconv.Atoi(hit.ObjectID)
 			if err != nil {
 				continue
@@ -212,7 +229,7 @@ func (c *crawler) fetchAlgoliaIDs(ctx context.Context) ([]int, error) {
 			ids = append(ids, id)
 		}
 		if page+1 >= result.NBPages || len(result.Hits) == 0 {
-			log.Printf("loaded %d story IDs from Algolia (%d reported hits)", len(ids), result.NBHits)
+			log.Printf("loaded %d matching story IDs from Algolia (%d reported hits)", len(ids), result.NBHits)
 			return ids, nil
 		}
 	}
@@ -340,6 +357,59 @@ func frontMatterString(text, key string) string {
 		return ""
 	}
 	return strings.TrimSpace(match[1])
+}
+
+func parseKeywords(input string) []string {
+	var out []string
+	for _, part := range strings.Split(input, ",") {
+		part = strings.TrimSpace(part)
+		if part != "" {
+			out = append(out, part)
+		}
+	}
+	return out
+}
+
+func titleMatchesKeywords(title string, keywords []string) (bool, string) {
+	if len(keywords) == 0 {
+		return true, ""
+	}
+
+	titleTokens := tokenizeForMatch(title)
+	titleTokenSet := map[string]bool{}
+	for _, token := range titleTokens {
+		titleTokenSet[token] = true
+	}
+	normalizedTitle := " " + strings.Join(titleTokens, " ") + " "
+
+	for _, keyword := range keywords {
+		keywordTokens := tokenizeForMatch(keyword)
+		if len(keywordTokens) == 0 {
+			continue
+		}
+		if len(keywordTokens) == 1 {
+			if titleTokenSet[keywordTokens[0]] {
+				return true, keyword
+			}
+			continue
+		}
+		if strings.Contains(normalizedTitle, " "+strings.Join(keywordTokens, " ")+" ") {
+			return true, keyword
+		}
+	}
+	return false, ""
+}
+
+func tokenizeForMatch(input string) []string {
+	var b strings.Builder
+	for _, r := range strings.ToLower(input) {
+		if unicode.IsLetter(r) || unicode.IsDigit(r) {
+			b.WriteRune(r)
+			continue
+		}
+		b.WriteRune(' ')
+	}
+	return strings.Fields(b.String())
 }
 
 func storyTranslationInput(item hnItem, article article) string {

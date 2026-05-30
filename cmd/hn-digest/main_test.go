@@ -66,3 +66,23 @@ func TestParseGoogleTranslateResponse(t *testing.T) {
 		t.Fatalf("parseGoogleTranslateResponse() = %q", got)
 	}
 }
+
+func TestTitleMatchesKeywords(t *testing.T) {
+	keywords := parseKeywords("sre,devops,google cloud,gcp,ai,llm")
+	tests := []struct {
+		title string
+		want  bool
+	}{
+		{"Running PostgreSQL on Google Cloud SQL", true},
+		{"Show HN: AI code review for pull requests", true},
+		{"A guide to SRE incident reviews", true},
+		{"Avoiding said-bookisms in technical writing", false},
+		{"A small compiler written in C", false},
+	}
+	for _, tt := range tests {
+		got, _ := titleMatchesKeywords(tt.title, keywords)
+		if got != tt.want {
+			t.Fatalf("titleMatchesKeywords(%q) = %v, want %v", tt.title, got, tt.want)
+		}
+	}
+}

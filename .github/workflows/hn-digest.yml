@@ -33,7 +33,7 @@ jobs:
         run: go build -o bin/hn-digest ./cmd/hn-digest
 
       - name: Crawl and translate
-        run: ./bin/hn-digest --source algolia --since 24h --limit 0
+        run: ./bin/hn-digest --source algolia --since 24h --limit 0 --title-keywords "${{ vars.HN_DIGEST_TITLE_KEYWORDS || 'sre,site reliability,devops,dev ops,platform engineering,incident,on-call,observability,kubernetes,k8s,terraform,ci/cd,google cloud,gcp,cloud run,cloud sql,bigquery,gemini,ai,llm,llms,artificial intelligence,machine learning,ml,openai,anthropic,claude,deepmind,neural network' }}"
 
       - name: Commit and push changes
         run: |

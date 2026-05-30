@@ -33,7 +33,7 @@ jobs:
         run: go build -o bin/hn-digest ./cmd/hn-digest
 
       - name: Crawl and translate
-        run: ./bin/hn-digest --section newstories --since 24h --limit 0
+        run: ./bin/hn-digest --section topstories --since 24h --limit 0 --max-translations 50
 
       - name: Commit and push changes
         run: |

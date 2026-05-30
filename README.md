@@ -6,7 +6,7 @@ and saved under `contents/YYYY-MM-DD/`.
 ## Local run
 
 ```sh
-go run ./cmd/hn-digest --section newstories --since 24h --limit 0
+go run ./cmd/hn-digest --section topstories --since 24h --limit 0 --max-translations 50
 ```
 
 The GitHub Actions workflow runs once a day and can also be started manually

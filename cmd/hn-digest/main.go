@@ -40,6 +40,7 @@ func run(ctx context.Context, args []string) error {
 	fs := flag.NewFlagSet("hn-digest", flag.ExitOnError)
 	section := fs.String("section", "topstories", "HN section: topstories, newstories, beststories, askstories, showstories, jobstories")
 	limit := fs.Int("limit", 0, "maximum number of HN stories to process; 0 means no limit")
+	maxTranslations := fs.Int("max-translations", 50, "maximum number of stories to translate; 0 means no limit")
 	outDir := fs.String("out", "contents", "base output directory")
 	maxArticleChars := fs.Int("max-article-chars", 12000, "maximum extracted article characters to translate per story")
 	timeout := fs.Duration("timeout", 25*time.Second, "HTTP request timeout")
@@ -50,6 +51,9 @@ func run(ctx context.Context, args []string) error {
 	}
 	if *limit < 0 {
 		return errors.New("--limit must be zero or positive")
+	}
+	if *maxTranslations < 0 {
+		return errors.New("--max-translations must be zero or positive")
 	}
 
 	now := time.Now
@@ -63,6 +67,7 @@ func run(ctx context.Context, args []string) error {
 		outputDir:       filepath.Join(*outDir, *date),
 		section:         *section,
 		limit:           *limit,
+		maxTranslations: *maxTranslations,
 		since:           *since,
 		now:             now,
 	}
@@ -77,6 +82,7 @@ type crawler struct {
 	outputDir       string
 	section         string
 	limit           int
+	maxTranslations int
 	since           time.Duration
 	now             func() time.Time
 }
@@ -129,7 +135,12 @@ func (c *crawler) run(ctx context.Context) error {
 		cutoff = c.now().Add(-c.since)
 	}
 
+	translatedCount := 0
 	for i, id := range ids {
+		if c.maxTranslations > 0 && translatedCount >= c.maxTranslations {
+			log.Printf("stopping after %d translated stories", translatedCount)
+			break
+		}
 		item, err := c.fetchItem(ctx, id)
 		if err != nil {
 			log.Printf("fetch item %d: %v", id, err)
@@ -145,13 +156,15 @@ func (c *crawler) run(ctx context.Context) error {
 			log.Printf("[%d/%d] skipping duplicate %s", i+1, len(ids), item.Title)
 			continue
 		}
-		log.Printf("[%d/%d] translating %s", i+1, len(ids), item.Title)
+		log.Printf("translating %d/%s: %s", translatedCount+1, maxLabel(c.maxTranslations), item.Title)
 		if err := c.writeStory(ctx, item); err != nil {
 			log.Printf("write story %d: %v", item.ID, err)
 			continue
 		}
 		seen.add(item)
+		translatedCount++
 	}
+	log.Printf("translated %d stories", translatedCount)
 	return nil
 }
 
@@ -285,6 +298,13 @@ func frontMatterString(text, key string) string {
 		return ""
 	}
 	return strings.TrimSpace(match[1])
+}
+
+func maxLabel(max int) string {
+	if max == 0 {
+		return "unlimited"
+	}
+	return strconv.Itoa(max)
 }
 
 func storyTranslationInput(item hnItem, article article) string {

@@ -55,3 +55,14 @@ hn_id: 123
 		t.Fatal("unexpected duplicate")
 	}
 }
+
+func TestParseGoogleTranslateResponse(t *testing.T) {
+	data := []byte(`[[["こんにちは","Hello",null,null,10],["世界"," world",null,null,10]],null,"en"]`)
+	got, err := parseGoogleTranslateResponse(data)
+	if err != nil {
+		t.Fatal(err)
+	}
+	if got != "こんにちは世界" {
+		t.Fatalf("parseGoogleTranslateResponse() = %q", got)
+	}
+}

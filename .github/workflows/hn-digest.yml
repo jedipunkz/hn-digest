@@ -33,8 +33,6 @@ jobs:
         run: go build -o bin/hn-digest ./cmd/hn-digest
 
       - name: Crawl and translate
-        env:
-          GOOGLE_TRANSLATE_API_KEY: ${{ secrets.GOOGLE_TRANSLATE_API_KEY }}
         run: ./bin/hn-digest --section newstories --since 24h --limit 0
 
       - name: Commit and push changes

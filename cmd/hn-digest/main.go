@@ -41,7 +41,6 @@ func run(ctx context.Context, args []string) error {
 	section := fs.String("section", "topstories", "HN section: topstories, newstories, beststories, askstories, showstories, jobstories")
 	limit := fs.Int("limit", 0, "maximum number of HN stories to process; 0 means no limit")
 	outDir := fs.String("out", "contents", "base output directory")
-	apiKey := fs.String("google-api-key", os.Getenv("GOOGLE_TRANSLATE_API_KEY"), "Google Translate API key")
 	maxArticleChars := fs.Int("max-article-chars", 12000, "maximum extracted article characters to translate per story")
 	timeout := fs.Duration("timeout", 25*time.Second, "HTTP request timeout")
 	since := fs.Duration("since", 24*time.Hour, "only process stories posted within this duration; 0 disables time filtering")
@@ -49,16 +48,13 @@ func run(ctx context.Context, args []string) error {
 	if err := fs.Parse(args); err != nil {
 		return err
 	}
-	if *apiKey == "" {
-		return errors.New("GOOGLE_TRANSLATE_API_KEY is required")
-	}
 	if *limit < 0 {
 		return errors.New("--limit must be zero or positive")
 	}
 
 	now := time.Now
 	client := &http.Client{Timeout: *timeout}
-	translator := &googleTranslator{client: client, apiKey: *apiKey}
+	translator := &googleTranslator{client: client}
 	runner := &crawler{
 		client:          client,
 		translator:      translator,
@@ -427,11 +423,10 @@ func trimRunes(input string, max int) string {
 
 type googleTranslator struct {
 	client *http.Client
-	apiKey string
 }
 
 func (g *googleTranslator) translate(ctx context.Context, text string) (string, error) {
-	chunks := splitForTranslate(text, 4500)
+	chunks := splitForTranslate(text, 1800)
 	out := make([]string, 0, len(chunks))
 	for _, chunk := range chunks {
 		translated, err := g.translateChunk(ctx, chunk)
@@ -444,17 +439,19 @@ func (g *googleTranslator) translate(ctx context.Context, text string) (string, 
 }
 
 func (g *googleTranslator) translateChunk(ctx context.Context, text string) (string, error) {
-	values := url.Values{}
-	values.Set("key", g.apiKey)
-	values.Set("q", text)
-	values.Set("target", "ja")
-	values.Set("format", "text")
-	req, err := http.NewRequestWithContext(ctx, http.MethodPost, "https://translation.googleapis.com/language/translate/v2", strings.NewReader(values.Encode()))
+	params := url.Values{}
+	params.Set("client", "gtx")
+	params.Set("sl", "auto")
+	params.Set("tl", "ja")
+	params.Set("dt", "t")
+	params.Set("q", text)
+
+	endpoint := "https://translate.googleapis.com/translate_a/single?" + params.Encode()
+	req, err := http.NewRequestWithContext(ctx, http.MethodGet, endpoint, nil)
 	if err != nil {
 		return "", err
 	}
 	req.Header.Set("User-Agent", userAgent)
-	req.Header.Set("Content-Type", "application/x-www-form-urlencoded")
 
 	resp, err := g.client.Do(req)
 	if err != nil {
@@ -469,20 +466,42 @@ func (g *googleTranslator) translateChunk(ctx context.Context, text string) (str
 		return "", fmt.Errorf("google translate status %s: %s", resp.Status, strings.TrimSpace(string(data)))
 	}
 
-	var parsed struct {
-		Data struct {
-			Translations []struct {
-				TranslatedText string `json:"translatedText"`
-			} `json:"translations"`
-		} `json:"data"`
+	translated, err := parseGoogleTranslateResponse(data)
+	if err != nil {
+		return "", err
 	}
+	return html.UnescapeString(translated), nil
+}
+
+func parseGoogleTranslateResponse(data []byte) (string, error) {
+	var parsed []any
 	if err := json.Unmarshal(data, &parsed); err != nil {
 		return "", err
 	}
-	if len(parsed.Data.Translations) == 0 {
+	if len(parsed) == 0 {
 		return "", errors.New("google translate returned no translations")
 	}
-	return html.UnescapeString(parsed.Data.Translations[0].TranslatedText), nil
+
+	sentences, ok := parsed[0].([]any)
+	if !ok || len(sentences) == 0 {
+		return "", errors.New("google translate returned no translations")
+	}
+	var b strings.Builder
+	for _, rawSentence := range sentences {
+		sentence, ok := rawSentence.([]any)
+		if !ok || len(sentence) == 0 {
+			continue
+		}
+		part, ok := sentence[0].(string)
+		if ok {
+			b.WriteString(part)
+		}
+	}
+	translated := strings.TrimSpace(b.String())
+	if translated == "" {
+		return "", errors.New("google translate returned empty translation")
+	}
+	return translated, nil
 }
 
 func splitForTranslate(text string, maxBytes int) []string {

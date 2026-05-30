@@ -38,9 +38,9 @@ func main() {
 
 func run(ctx context.Context, args []string) error {
 	fs := flag.NewFlagSet("hn-digest", flag.ExitOnError)
+	source := fs.String("source", "firebase", "story ID source: firebase or algolia")
 	section := fs.String("section", "topstories", "HN section: topstories, newstories, beststories, askstories, showstories, jobstories")
 	limit := fs.Int("limit", 0, "maximum number of HN stories to process; 0 means no limit")
-	maxTranslations := fs.Int("max-translations", 50, "maximum number of stories to translate; 0 means no limit")
 	outDir := fs.String("out", "contents", "base output directory")
 	maxArticleChars := fs.Int("max-article-chars", 12000, "maximum extracted article characters to translate per story")
 	timeout := fs.Duration("timeout", 25*time.Second, "HTTP request timeout")
@@ -52,8 +52,8 @@ func run(ctx context.Context, args []string) error {
 	if *limit < 0 {
 		return errors.New("--limit must be zero or positive")
 	}
-	if *maxTranslations < 0 {
-		return errors.New("--max-translations must be zero or positive")
+	if *source != "firebase" && *source != "algolia" {
+		return errors.New("--source must be firebase or algolia")
 	}
 
 	now := time.Now
@@ -65,9 +65,9 @@ func run(ctx context.Context, args []string) error {
 		maxArticleChars: *maxArticleChars,
 		baseOutputDir:   *outDir,
 		outputDir:       filepath.Join(*outDir, *date),
+		source:          *source,
 		section:         *section,
 		limit:           *limit,
-		maxTranslations: *maxTranslations,
 		since:           *since,
 		now:             now,
 	}
@@ -80,9 +80,9 @@ type crawler struct {
 	maxArticleChars int
 	baseOutputDir   string
 	outputDir       string
+	source          string
 	section         string
 	limit           int
-	maxTranslations int
 	since           time.Duration
 	now             func() time.Time
 }
@@ -137,10 +137,6 @@ func (c *crawler) run(ctx context.Context) error {
 
 	translatedCount := 0
 	for i, id := range ids {
-		if c.maxTranslations > 0 && translatedCount >= c.maxTranslations {
-			log.Printf("stopping after %d translated stories", translatedCount)
-			break
-		}
 		item, err := c.fetchItem(ctx, id)
 		if err != nil {
 			log.Printf("fetch item %d: %v", id, err)
@@ -156,7 +152,7 @@ func (c *crawler) run(ctx context.Context) error {
 			log.Printf("[%d/%d] skipping duplicate %s", i+1, len(ids), item.Title)
 			continue
 		}
-		log.Printf("translating %d/%s: %s", translatedCount+1, maxLabel(c.maxTranslations), item.Title)
+		log.Printf("translating %d: %s", translatedCount+1, item.Title)
 		if err := c.writeStory(ctx, item); err != nil {
 			log.Printf("write story %d: %v", item.ID, err)
 			continue
@@ -169,11 +165,57 @@ func (c *crawler) run(ctx context.Context) error {
 }
 
 func (c *crawler) fetchIDs(ctx context.Context) ([]int, error) {
+	if c.source == "algolia" {
+		return c.fetchAlgoliaIDs(ctx)
+	}
+
 	var ids []int
 	if err := c.getJSON(ctx, fmt.Sprintf("%s/%s.json", hnAPIBase, c.section), &ids); err != nil {
 		return nil, fmt.Errorf("fetch %s: %w", c.section, err)
 	}
 	return ids, nil
+}
+
+type algoliaResponse struct {
+	Hits []struct {
+		ObjectID string `json:"objectID"`
+	} `json:"hits"`
+	Page    int `json:"page"`
+	NBPages int `json:"nbPages"`
+	NBHits  int `json:"nbHits"`
+}
+
+func (c *crawler) fetchAlgoliaIDs(ctx context.Context) ([]int, error) {
+	if c.since <= 0 {
+		return nil, errors.New("--source algolia requires --since")
+	}
+
+	cutoff := c.now().Add(-c.since).Unix()
+	var ids []int
+	for page := 0; ; page++ {
+		params := url.Values{}
+		params.Set("tags", "story")
+		params.Set("numericFilters", fmt.Sprintf("created_at_i>=%d", cutoff))
+		params.Set("hitsPerPage", "100")
+		params.Set("page", strconv.Itoa(page))
+		endpoint := "https://hn.algolia.com/api/v1/search_by_date?" + params.Encode()
+
+		var result algoliaResponse
+		if err := c.getJSON(ctx, endpoint, &result); err != nil {
+			return nil, fmt.Errorf("fetch algolia page %d: %w", page, err)
+		}
+		for _, hit := range result.Hits {
+			id, err := strconv.Atoi(hit.ObjectID)
+			if err != nil {
+				continue
+			}
+			ids = append(ids, id)
+		}
+		if page+1 >= result.NBPages || len(result.Hits) == 0 {
+			log.Printf("loaded %d story IDs from Algolia (%d reported hits)", len(ids), result.NBHits)
+			return ids, nil
+		}
+	}
 }
 
 func (c *crawler) fetchItem(ctx context.Context, id int) (hnItem, error) {
@@ -298,13 +340,6 @@ func frontMatterString(text, key string) string {
 		return ""
 	}
 	return strings.TrimSpace(match[1])
-}
-
-func maxLabel(max int) string {
-	if max == 0 {
-		return "unlimited"
-	}
-	return strconv.Itoa(max)
 }
 
 func storyTranslationInput(item hnItem, article article) string {

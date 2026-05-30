@@ -66,12 +66,3 @@ func TestParseGoogleTranslateResponse(t *testing.T) {
 		t.Fatalf("parseGoogleTranslateResponse() = %q", got)
 	}
 }
-
-func TestMaxLabel(t *testing.T) {
-	if got := maxLabel(0); got != "unlimited" {
-		t.Fatalf("maxLabel(0) = %q", got)
-	}
-	if got := maxLabel(50); got != "50" {
-		t.Fatalf("maxLabel(50) = %q", got)
-	}
-}

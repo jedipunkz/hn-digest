@@ -16,7 +16,7 @@ concurrency:
 jobs:
   digest:
     runs-on: ubuntu-latest
-    timeout-minutes: 30
+    timeout-minutes: 360
     steps:
       - uses: actions/checkout@v4
         with:
@@ -33,7 +33,7 @@ jobs:
         run: go build -o bin/hn-digest ./cmd/hn-digest
 
       - name: Crawl and translate
-        run: ./bin/hn-digest --section topstories --since 24h --limit 0 --max-translations 50
+        run: ./bin/hn-digest --source algolia --since 24h --limit 0
 
       - name: Commit and push changes
         run: |

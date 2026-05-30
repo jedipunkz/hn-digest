@@ -39,11 +39,12 @@ func main() {
 func run(ctx context.Context, args []string) error {
 	fs := flag.NewFlagSet("hn-digest", flag.ExitOnError)
 	section := fs.String("section", "topstories", "HN section: topstories, newstories, beststories, askstories, showstories, jobstories")
-	limit := fs.Int("limit", 20, "maximum number of HN stories to process")
+	limit := fs.Int("limit", 0, "maximum number of HN stories to process; 0 means no limit")
 	outDir := fs.String("out", "contents", "base output directory")
 	apiKey := fs.String("google-api-key", os.Getenv("GOOGLE_TRANSLATE_API_KEY"), "Google Translate API key")
 	maxArticleChars := fs.Int("max-article-chars", 12000, "maximum extracted article characters to translate per story")
 	timeout := fs.Duration("timeout", 25*time.Second, "HTTP request timeout")
+	since := fs.Duration("since", 24*time.Hour, "only process stories posted within this duration; 0 disables time filtering")
 	date := fs.String("date", time.Now().Format(time.DateOnly), "output date directory")
 	if err := fs.Parse(args); err != nil {
 		return err
@@ -51,20 +52,23 @@ func run(ctx context.Context, args []string) error {
 	if *apiKey == "" {
 		return errors.New("GOOGLE_TRANSLATE_API_KEY is required")
 	}
-	if *limit <= 0 {
-		return errors.New("--limit must be positive")
+	if *limit < 0 {
+		return errors.New("--limit must be zero or positive")
 	}
 
+	now := time.Now
 	client := &http.Client{Timeout: *timeout}
 	translator := &googleTranslator{client: client, apiKey: *apiKey}
 	runner := &crawler{
 		client:          client,
 		translator:      translator,
 		maxArticleChars: *maxArticleChars,
+		baseOutputDir:   *outDir,
 		outputDir:       filepath.Join(*outDir, *date),
 		section:         *section,
 		limit:           *limit,
-		now:             time.Now,
+		since:           *since,
+		now:             now,
 	}
 	return runner.run(ctx)
 }
@@ -73,9 +77,11 @@ type crawler struct {
 	client          *http.Client
 	translator      translator
 	maxArticleChars int
+	baseOutputDir   string
 	outputDir       string
 	section         string
 	limit           int
+	since           time.Duration
 	now             func() time.Time
 }
 
@@ -111,11 +117,20 @@ func (c *crawler) run(ctx context.Context) error {
 	if err != nil {
 		return err
 	}
-	if len(ids) > c.limit {
+	if c.limit > 0 && len(ids) > c.limit {
 		ids = ids[:c.limit]
 	}
 	if err := os.MkdirAll(c.outputDir, 0o755); err != nil {
 		return err
+	}
+	seen, err := loadSeen(c.baseOutputDir)
+	if err != nil {
+		return err
+	}
+
+	cutoff := time.Time{}
+	if c.since > 0 {
+		cutoff = c.now().Add(-c.since)
 	}
 
 	for i, id := range ids {
@@ -127,10 +142,19 @@ func (c *crawler) run(ctx context.Context) error {
 		if item.Deleted || item.Dead || item.Type != "story" || strings.TrimSpace(item.Title) == "" {
 			continue
 		}
+		if !cutoff.IsZero() && time.Unix(item.Time, 0).Before(cutoff) {
+			continue
+		}
+		if seen.has(item) {
+			log.Printf("[%d/%d] skipping duplicate %s", i+1, len(ids), item.Title)
+			continue
+		}
 		log.Printf("[%d/%d] translating %s", i+1, len(ids), item.Title)
 		if err := c.writeStory(ctx, item); err != nil {
 			log.Printf("write story %d: %v", item.ID, err)
+			continue
 		}
+		seen.add(item)
 	}
 	return nil
 }
@@ -188,6 +212,83 @@ func (c *crawler) writeStory(ctx context.Context, item hnItem) error {
 	path := filepath.Join(c.outputDir, uniqueFilename(item.Title, item.ID))
 	content := renderMarkdown(c.now(), item, article, translated)
 	return os.WriteFile(path, []byte(content), 0o644)
+}
+
+type seenIndex struct {
+	hnIDs   map[int]bool
+	sources map[string]bool
+}
+
+func loadSeen(root string) (*seenIndex, error) {
+	seen := &seenIndex{
+		hnIDs:   map[int]bool{},
+		sources: map[string]bool{},
+	}
+	if _, err := os.Stat(root); errors.Is(err, os.ErrNotExist) {
+		return seen, nil
+	} else if err != nil {
+		return nil, err
+	}
+
+	err := filepath.WalkDir(root, func(path string, entry os.DirEntry, err error) error {
+		if err != nil {
+			return err
+		}
+		if entry.IsDir() || filepath.Ext(path) != ".md" {
+			return nil
+		}
+		data, err := os.ReadFile(path)
+		if err != nil {
+			return err
+		}
+		text := string(data)
+		if id := frontMatterInt(text, "hn_id"); id > 0 {
+			seen.hnIDs[id] = true
+		}
+		if source := frontMatterString(text, "source"); source != "" {
+			seen.sources[source] = true
+		}
+		return nil
+	})
+	if err != nil {
+		return nil, err
+	}
+	return seen, nil
+}
+
+func (s *seenIndex) has(item hnItem) bool {
+	if s.hnIDs[item.ID] {
+		return true
+	}
+	return item.URL != "" && s.sources[item.URL]
+}
+
+func (s *seenIndex) add(item hnItem) {
+	s.hnIDs[item.ID] = true
+	if item.URL != "" {
+		s.sources[item.URL] = true
+	}
+}
+
+func frontMatterInt(text, key string) int {
+	value := frontMatterString(text, key)
+	if value == "" {
+		return 0
+	}
+	n, err := strconv.Atoi(value)
+	if err != nil {
+		return 0
+	}
+	return n
+}
+
+func frontMatterString(text, key string) string {
+	re := regexp.MustCompile(`(?m)^` + regexp.QuoteMeta(key) + `:\s*"?([^"\n]+)"?\s*$`)
+	match := re.FindStringSubmatch(text)
+	if len(match) < 2 {
+		return ""
+	}
+	return strings.TrimSpace(match[1])
 }
 
 func storyTranslationInput(item hnItem, article article) string {

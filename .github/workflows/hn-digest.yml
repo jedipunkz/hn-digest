@@ -2,8 +2,8 @@ name: HN digest
 
 on:
   schedule:
-    # every 6 hours (UTC)
-    - cron: "0 */6 * * *"
+    # once a day (UTC)
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 permissions:
@@ -35,7 +35,7 @@ jobs:
       - name: Crawl and translate
         env:
           GOOGLE_TRANSLATE_API_KEY: ${{ secrets.GOOGLE_TRANSLATE_API_KEY }}
-        run: ./bin/hn-digest --section topstories --limit 20
+        run: ./bin/hn-digest --section newstories --since 24h --limit 0
 
       - name: Commit and push changes
         run: |

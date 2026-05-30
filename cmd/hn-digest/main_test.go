@@ -1,6 +1,8 @@
 package main
 
 import (
+	"os"
+	"path/filepath"
 	"strings"
 	"testing"
 )
@@ -22,5 +24,34 @@ func TestSplitForTranslate(t *testing.T) {
 		if len(chunk) > 5 {
 			t.Fatalf("chunk too large: %q", chunk)
 		}
+	}
+}
+
+func TestLoadSeen(t *testing.T) {
+	root := t.TempDir()
+	if err := os.MkdirAll(filepath.Join(root, "2026-05-30"), 0o755); err != nil {
+		t.Fatal(err)
+	}
+	content := `---
+source: "https://example.com/story"
+hn_id: 123
+---
+`
+	if err := os.WriteFile(filepath.Join(root, "2026-05-30", "story.md"), []byte(content), 0o644); err != nil {
+		t.Fatal(err)
+	}
+
+	seen, err := loadSeen(root)
+	if err != nil {
+		t.Fatal(err)
+	}
+	if !seen.has(hnItem{ID: 123}) {
+		t.Fatal("expected HN ID to be seen")
+	}
+	if !seen.has(hnItem{ID: 456, URL: "https://example.com/story"}) {
+		t.Fatal("expected source URL to be seen")
+	}
+	if seen.has(hnItem{ID: 789, URL: "https://example.com/other"}) {
+		t.Fatal("unexpected duplicate")
 	}
 }

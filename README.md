@@ -7,8 +7,9 @@ and saved under `contents/YYYY-MM-DD/`.
 
 ```sh
 export GOOGLE_TRANSLATE_API_KEY=...
-go run ./cmd/hn-digest --section topstories --limit 20
+go run ./cmd/hn-digest --section newstories --since 24h --limit 0
 ```
 
 The GitHub Actions workflow expects a repository secret named
-`GOOGLE_TRANSLATE_API_KEY`.
+`GOOGLE_TRANSLATE_API_KEY`. It runs once a day and can also be started manually
+with workflow dispatch.

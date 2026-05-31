@@ -1,0 +1,14 @@
+{
+  "name": "hn-digest-site",
+  "type": "module",
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "astro": "astro"
+  },
+  "dependencies": {
+    "@astrojs/rss": "^4.0.7",
+    "astro": "^4.16.0"
+  }
+}

@@ -1,0 +1,127 @@
+---
+import { getSummaries, type Article } from '../lib/summaries';
+
+const articles = getSummaries(7);
+
+const byDate = new Map<string, Article[]>();
+for (const article of articles) {
+  const list = byDate.get(article.date) ?? [];
+  list.push(article);
+  byDate.set(article.date, list);
+}
+const dates = [...byDate.keys()].sort().reverse();
+---
+
+<!doctype html>
+<html lang="ja">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>HN Digest</title>
+    <link rel="alternate" type="application/rss+xml" title="HN Digest RSS" href="/rss.xml" />
+    <style>
+      *, *::before, *::after { box-sizing: border-box; }
+      body {
+        font-family: system-ui, -apple-system, sans-serif;
+        max-width: 780px;
+        margin: 0 auto;
+        padding: 1.5rem;
+        color: #1a1a1a;
+        background: #fafaf8;
+        line-height: 1.6;
+      }
+      header { margin-bottom: 2rem; border-bottom: 2px solid #f60; padding-bottom: 1rem; }
+      h1 { font-size: 1.4rem; margin: 0 0 0.25rem; }
+      .tagline { color: #666; font-size: 0.875rem; margin: 0; }
+      .rss-btn {
+        display: inline-flex;
+        align-items: center;
+        gap: 0.35rem;
+        margin-top: 0.75rem;
+        background: #f60;
+        color: #fff;
+        padding: 0.3rem 0.75rem;
+        border-radius: 4px;
+        text-decoration: none;
+        font-size: 0.8rem;
+        font-weight: 600;
+      }
+      .date-heading {
+        font-size: 0.8rem;
+        font-weight: 700;
+        color: #888;
+        text-transform: uppercase;
+        letter-spacing: 0.05em;
+        margin: 2rem 0 0.75rem;
+        padding-bottom: 0.4rem;
+        border-bottom: 1px solid #eee;
+      }
+      .article { display: flex; gap: 0.75rem; margin-bottom: 1.25rem; }
+      .rank { color: #ccc; font-size: 0.8rem; min-width: 1.5rem; padding-top: 0.15rem; text-align: right; }
+      .body { flex: 1; min-width: 0; }
+      .title a {
+        color: #1a1a1a;
+        font-weight: 600;
+        text-decoration: none;
+        font-size: 0.95rem;
+      }
+      .title a:hover { color: #f60; }
+      .meta { font-size: 0.75rem; color: #999; margin: 0.2rem 0 0.4rem; }
+      .meta a { color: #999; }
+      .score-raw { color: #bbb; }
+      .summary { font-size: 0.875rem; color: #444; margin: 0; }
+      .badge {
+        display: inline-block;
+        font-size: 0.65rem;
+        font-weight: 700;
+        padding: 0.1rem 0.4rem;
+        border-radius: 3px;
+        vertical-align: middle;
+        margin-left: 0.3rem;
+      }
+      .badge-ai  { background: #e8f4ff; color: #0066cc; }
+      .badge-sre { background: #fff0e8; color: #cc4400; }
+      .badge-plt { background: #e8ffe8; color: #006600; }
+    </style>
+  </head>
+  <body>
+    <header>
+      <h1>HN Digest</h1>
+      <p class="tagline">AI · Platform · SRE 分野の Hacker News トップ記事を毎日 10 件ピックアップ</p>
+      <a class="rss-btn" href="/rss.xml">
+        <svg width="12" height="12" viewBox="0 0 24 24" fill="currentColor">
+          <circle cx="6.18" cy="17.82" r="2.18"/>
+          <path d="M4 4.44v2.83c7.03 0 12.73 5.7 12.73 12.73h2.83c0-8.59-6.97-15.56-15.56-15.56zm0 5.66v2.83c3.9 0 7.07 3.17 7.07 7.07h2.83c0-5.47-4.43-9.9-9.9-9.9z"/>
+        </svg>
+        RSS
+      </a>
+    </header>
+
+    {dates.length === 0 ? (
+      <p style="color:#999">まだサマリーがありません。GitHub Actions が初回実行されるまでお待ちください。</p>
+    ) : dates.map((date) => (
+      <section>
+        <p class="date-heading">{date}</p>
+        {byDate.get(date)!.map((article) => (
+          <div class="article">
+            <span class="rank">#{article.rank}</span>
+            <div class="body">
+              <div class="title">
+                <a href={article.hn_url} target="_blank" rel="noopener">{article.title}</a>
+              </div>
+              <div class="meta">
+                スコア {article.final_score}
+                <span class="score-raw">（HN: {article.score}）</span>
+                &nbsp;·&nbsp; コメント {article.comments}
+                {article.source_url && (
+                  <> &nbsp;·&nbsp; <a href={article.source_url} target="_blank" rel="noopener">元記事</a></>
+                )}
+              </div>
+              <p class="summary">{article.summary_ja}</p>
+            </div>
+          </div>
+        ))}
+      </section>
+    ))}
+  </body>
+</html>

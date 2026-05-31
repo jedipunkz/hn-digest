@@ -22,8 +22,8 @@ import (
 const (
 	githubModelsEndpoint = "https://models.inference.ai.azure.com/chat/completions"
 	summaryModel         = "gpt-4o-mini"
-	topN                 = 10
-	maxTranslationChars  = 2000
+	topN                 = 30
+	maxTranslationChars  = 4000
 )
 
 // Interest categories: each matched category contributes its bonus once.
@@ -42,7 +42,7 @@ var interests = []interest{
 			"claude", "gpt", "gemini", "neural", "artificial intelligence", "deepmind",
 			"embedding", "rag", "inference", "fine-tun", "foundation model",
 		},
-		bonus: 0.5,
+		bonus: 0.3,
 	},
 	{
 		name: "sre",
@@ -51,7 +51,7 @@ var interests = []interest{
 			"monitoring", "alerting", "postmortem", "runbook", "pagerduty", "chaos engineering",
 			"toil", "error budget",
 		},
-		bonus: 0.4,
+		bonus: 0.5,
 	},
 	{
 		name: "platform",
@@ -60,7 +60,7 @@ var interests = []interest{
 			"infrastructure", "devops", "dev ops", "ci/cd", "cloud run", "gcp",
 			"google cloud", "gitops", "helm", "argo", "pulumi", "internal developer",
 		},
-		bonus: 0.3,
+		bonus: 0.8,
 	},
 }
 
@@ -280,19 +280,23 @@ func callModel(ctx context.Context, client *http.Client, token, title, translati
 		Messages: []message{
 			{
 				Role:    "system",
-				Content: "あなたは技術ニュースの要約者です。Hacker Newsの記事を日本語で簡潔に要約してください。",
+				Content: "あなたは技術ニュースの要約者です。Hacker Newsの記事を日本語で詳しく要約してください。",
 			},
 			{
 				Role: "user",
 				Content: fmt.Sprintf(
-					"以下のHacker News記事を2〜3文の日本語で要約してください。\n"+
-						"技術的なポイントとHNコミュニティでの注目理由を含めてください。\n\n"+
+					"以下のHacker News記事を日本語で詳しく要約してください。\n"+
+						"以下の点を必ず含めて、600〜900文字程度（6〜10文）で記述してください。\n"+
+						"- 記事の主題と背景\n"+
+						"- 技術的な要点や仕組み、利用されている技術スタック\n"+
+						"- 著者の主張や結論\n"+
+						"- HNコミュニティで注目されている理由や論点\n\n"+
 						"タイトル: %s\n\n本文:\n%s",
 					title, translation,
 				),
 			},
 		},
-		MaxTokens:   300,
+		MaxTokens:   1200,
 		Temperature: 0.3,
 	}
 

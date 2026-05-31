@@ -1,0 +1,55 @@
+name: Summarize HN digest
+
+on:
+  workflow_run:
+    workflows: ["HN digest"]
+    types: [completed]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  models: read
+
+jobs:
+  summarize:
+    runs-on: ubuntu-latest
+    if: ${{ github.event_name == 'workflow_dispatch' || github.event.workflow_run.conclusion == 'success' }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+          persist-credentials: true
+
+      - uses: actions/setup-go@v5
+        with:
+          go-version-file: go.mod
+          cache: true
+
+      - name: Build
+        run: go build -o bin/summarize ./cmd/summarize
+
+      - name: Generate summaries
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: ./bin/summarize
+
+      - name: Commit and push summaries
+        run: |
+          set -euo pipefail
+          if [[ -z "$(git status --porcelain -- summaries)" ]]; then
+            echo "No summary changes to commit."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add summaries/
+          git commit -m "chore: update summaries"
+          git pull --rebase origin main || {
+            echo "::warning::Could not rebase; skipping push."
+            exit 0
+          }
+          git push origin HEAD:main || {
+            echo "::warning::Could not push; skipping."
+            exit 0
+          }

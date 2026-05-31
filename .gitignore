@@ -1,2 +1,6 @@
 /bin/
 /hn-digest
+/summarize
+/site/node_modules/
+/site/dist/
+/site/.astro/

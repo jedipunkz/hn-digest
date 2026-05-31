@@ -57,6 +57,11 @@ const dates = [...byDate.keys()].sort().reverse();
         border-bottom: 1px solid #eee;
       }
       .article { display: flex; gap: 0.75rem; margin-bottom: 1.25rem; }
+      .article:focus-within {
+        outline: 2px solid #f60;
+        outline-offset: 0.35rem;
+        border-radius: 4px;
+      }
       .rank { color: #ccc; font-size: 0.8rem; min-width: 1.5rem; padding-top: 0.15rem; text-align: right; }
       .body { flex: 1; min-width: 0; }
       .title a {
@@ -103,11 +108,11 @@ const dates = [...byDate.keys()].sort().reverse();
       <section>
         <p class="date-heading">{date}</p>
         {byDate.get(date)!.map((article) => (
-          <div class="article">
+          <div class="article" data-article>
             <span class="rank">#{article.rank}</span>
             <div class="body">
               <div class="title">
-                <a href={article.hn_url} target="_blank" rel="noopener">{article.title}</a>
+                <a href={article.hn_url} target="_blank" rel="noopener" data-article-link>{article.title}</a>
               </div>
               <div class="meta">
                 スコア {article.final_score}
@@ -123,5 +128,34 @@ const dates = [...byDate.keys()].sort().reverse();
         ))}
       </section>
     ))}
+    <script>
+      const isEditableTarget = (target) => {
+        if (!(target instanceof HTMLElement)) return false;
+        return Boolean(target.closest('input, textarea, select, button, [contenteditable="true"]'));
+      };
+
+      const getArticleLinks = () => [...document.querySelectorAll('[data-article-link]')];
+
+      document.addEventListener('keydown', (event) => {
+        if (event.defaultPrevented || event.metaKey || event.ctrlKey || event.altKey || isEditableTarget(event.target)) {
+          return;
+        }
+
+        if (event.key !== 'j' && event.key !== 'k') return;
+
+        const links = getArticleLinks();
+        if (links.length === 0) return;
+
+        const currentArticle = document.activeElement?.closest?.('[data-article]');
+        const currentLink = currentArticle?.querySelector('[data-article-link]');
+        const currentIndex = currentLink ? links.indexOf(currentLink) : -1;
+        const fallbackIndex = event.key === 'j' ? -1 : links.length;
+        const nextIndex = Math.max(0, Math.min(links.length - 1, (currentIndex === -1 ? fallbackIndex : currentIndex) + (event.key === 'j' ? 1 : -1)));
+
+        event.preventDefault();
+        links[nextIndex].focus();
+        links[nextIndex].closest('[data-article]')?.scrollIntoView({ block: 'nearest' });
+      });
+    </script>
   </body>
 </html>

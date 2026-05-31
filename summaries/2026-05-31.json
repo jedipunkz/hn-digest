@@ -1,0 +1,126 @@
+{
+  "date": "2026-05-31",
+  "generated_at": "2026-05-31T00:42:24Z",
+  "articles": [
+    {
+      "rank": 1,
+      "hn_id": 48336233,
+      "title": "Anthropic surpasses OpenAI to become most valuable AI startup",
+      "hn_url": "https://news.ycombinator.com/item?id=48336233",
+      "source_url": "https://qazinform.com/news/anthropic-surpasses-openai-to-become-worlds-most-valuable-ai-startup",
+      "score": 386,
+      "final_score": 579,
+      "comments": 440,
+      "posted_at": "2026-05-30T13:56:34Z",
+      "summary_ja": "AnthropicがOpenAIを超え、最も価値のあるAIスタートアップとなりました。シリーズH資金調達ラウンドで650億ドルを調達し、評価額は約3,800億ドルに達しました。Claude AIアシスタントの人気が成長の原動力であり、AI市場の競争が一層激化していることがHNコミュニティで注目されています。"
+    },
+    {
+      "rank": 2,
+      "hn_id": 48335388,
+      "title": "Corporate America Is Starting to Ration AI as Cost Skyrockets",
+      "hn_url": "https://news.ycombinator.com/item?id=48335388",
+      "source_url": "https://www.wsj.com/tech/ai/corporate-america-is-starting-to-ration-ai-as-cost-skyrockets-1eb99d7a",
+      "score": 141,
+      "final_score": 211,
+      "comments": 137,
+      "posted_at": "2026-05-30T12:17:33Z",
+      "summary_ja": "アメリカの企業がAIの導入コストの急激な上昇を受けて、AIリソースの配給を始めているという記事です。企業はコスト管理のためにAIの利用を制限し、効率的な運用を模索しています。HNコミュニティでは、AIの経済的影響や企業の戦略的対応に対する関心が高まっています。"
+    },
+    {
+      "rank": 3,
+      "hn_id": 48337676,
+      "title": "To have a moral stance on AI is to be an outcast, and it sucks",
+      "hn_url": "https://news.ycombinator.com/item?id=48337676",
+      "source_url": "https://musings.martyn.berlin/to-have-a-moral-stance-on-ai-is-to-be-an-outcast-and-it-sucks",
+      "score": 122,
+      "final_score": 183,
+      "comments": 267,
+      "posted_at": "2026-05-30T16:04:00Z",
+      "summary_ja": "この記事では、AIに対して道徳的な立場を持つことが、テクノロジー業界や社会での孤立を招くと著者が述べています。著者は、AIの導入がもたらす悪影響や倫理的懸念を強調し、周囲の人々がその危険性を理解していないことに失望しています。このテーマは、AIの急速な普及に対する懸念を抱くHNコミュニティで特に注目されており、技術の倫理的側面についての議論を促進しています。"
+    },
+    {
+      "rank": 4,
+      "hn_id": 48336760,
+      "title": "AI job grief: A psychological crisis hitting tech workers",
+      "hn_url": "https://news.ycombinator.com/item?id=48336760",
+      "source_url": "https://jackmaguire.org/blog/ai-job-grief/",
+      "score": 96,
+      "final_score": 144,
+      "comments": 104,
+      "posted_at": "2026-05-30T14:41:26Z",
+      "summary_ja": "この記事では、AIの進展に伴い、テクノロジー労働者が経験している「AI雇用の悲しみ」という新たな心理的危機について述べています。労働者は職を失う恐怖だけでなく、自らのアイデンティティや専門性の喪失をも悲しんでおり、これに対する社会的な理解や語彙が不足していることが問題視されています。このテーマは、AIによる雇用の変化がもたらす感情的な影響に関心を持つHNコミュニティで注目されており、労働者の心理的健康への影響が議論されています。"
+    },
+    {
+      "rank": 5,
+      "hn_id": 48339753,
+      "title": "Show HN: 500 years of Joseon court omens as an observability dashboard",
+      "hn_url": "https://news.ycombinator.com/item?id=48339753",
+      "source_url": "https://ajin.im/is/building/omen.ops/",
+      "score": 71,
+      "final_score": 99,
+      "comments": 10,
+      "posted_at": "2026-05-30T19:23:36Z",
+      "summary_ja": "「朝鮮宮廷の500年の予兆を可視化したダッシュボード」が紹介されており、歴史的な天文現象や自然災害が王朝の運営に与えた影響を記録しています。このプロジェクトは、過去のデータを現代の運用テレメトリとして再解釈する試みであり、HNコミュニティでは歴史と技術の融合に対する関心が高まっています。"
+    },
+    {
+      "rank": 6,
+      "hn_id": 48340216,
+      "title": "768GB Intel Optane DIMMs to run 1T-parameter LLM with single GPU at 4tps",
+      "hn_url": "https://news.ycombinator.com/item?id=48340216",
+      "source_url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/enthusiast-runs-1-trillion-parameter-llm-from-768gb-of-intel-optane-dimm-memory-sticks-local-kimi-k2-5-install-achieved-roughly-4-tokens-per-second",
+      "score": 21,
+      "final_score": 31,
+      "comments": 0,
+      "posted_at": "2026-05-30T20:17:49Z",
+      "summary_ja": "768GBのIntel Optane DIMMを使用して、単一GPUで1兆パラメータの大規模言語モデル（LLM）を実行し、1秒あたり約4トークンを処理することに成功したという報告がありました。この技術は、コスト効率の良いハードウェアで高性能なAIモデルを運用できる可能性を示唆しており、Hacker Newsコミュニティではその実用性と革新性が注目されています。特に、中古で手に入る手頃な価格のメモリを活用するアイデアが話題となっています。"
+    },
+    {
+      "rank": 7,
+      "hn_id": 48339605,
+      "title": "Meta is reportedly developing an AI pendant",
+      "hn_url": "https://news.ycombinator.com/item?id=48339605",
+      "source_url": "https://techcrunch.com/2026/05/30/meta-is-reportedly-developing-an-ai-pendant/",
+      "score": 17,
+      "final_score": 25,
+      "comments": 23,
+      "posted_at": "2026-05-30T19:05:29Z",
+      "summary_ja": "MetaがAIを搭載したペンダントを開発中で、2024年にテストを開始する予定です。このデバイスは、Metaが買収したスタートアップLimitlessの技術を基にしており、ユーザーが会話を記録できる機能を持つとされています。HNコミュニティでは、過去のAIウェアラブルが消費者に受け入れられなかった中で、Metaが新たな挑戦をすることに注目が集まっています。"
+    },
+    {
+      "rank": 8,
+      "hn_id": 48338810,
+      "title": "",
+      "hn_url": "https://news.ycombinator.com/item?id=48338810",
+      "source_url": "https://www.osnews.com/story/145130/open-source-project-contains-hidden-instruction-for-ai-agents-delete-my-code/",
+      "score": 12,
+      "final_score": 18,
+      "comments": 2,
+      "posted_at": "2026-05-30T17:42:05Z",
+      "summary_ja": "オープンソースプロジェクト「jqwik」には、AIエージェントに対して「私のコードを削除してください」という隠された命令が含まれており、これはAIの利用に対する抵抗の一環として注目されています。この命令は特定のエスケープシーケンスを使用して隠されており、AIによる不正利用を防ぐための試みとされています。HNコミュニティでは、AIの影響を懸念する開発者たちの間で議論が活発化しており、今後のオープンソース開発における倫理的な課題が浮き彫りになっています。"
+    },
+    {
+      "rank": 9,
+      "hn_id": 48341210,
+      "title": "Starbucks Abandons Borked AI Inventory Tool That Couldn't Count",
+      "hn_url": "https://news.ycombinator.com/item?id=48341210",
+      "source_url": "https://gizmodo.com/starbucks-abandons-borked-ai-inventory-tool-that-couldnt-count-report-2000762252",
+      "score": 8,
+      "final_score": 12,
+      "comments": 2,
+      "posted_at": "2026-05-30T22:27:52Z",
+      "summary_ja": "スターバックスは、在庫管理のために導入したAIツールが正確にカウントできない問題を抱え、これを放棄することを決定しました。このニュースは、AI技術の実用性や信頼性に対する懸念を呼び起こし、HNコミュニティではAI導入のリスクや限界についての議論が盛り上がっています。"
+    },
+    {
+      "rank": 10,
+      "hn_id": 48336646,
+      "title": "Coders are refusing to work without AI – and that could come back to bite them",
+      "hn_url": "https://news.ycombinator.com/item?id=48336646",
+      "source_url": "https://techcrunch.com/2026/05/29/coders-are-refusing-to-work-without-ai-and-that-could-come-back-to-bite-them/",
+      "score": 7,
+      "final_score": 10,
+      "comments": 0,
+      "posted_at": "2026-05-30T14:32:21Z",
+      "summary_ja": "プログラマーがAIなしでの作業を拒否する傾向が強まっており、これが将来的に問題を引き起こす可能性があると研究者が警告しています。AIは確かに作業の速度を向上させるものの、エラー修正やタスク管理に余分な時間を要するため、実際の生産性は低下することがあると指摘されています。この問題は、HNコミュニティでも注目されており、AIの過信がもたらすリスクについての議論が活発化しています。"
+    }
+  ]
+}

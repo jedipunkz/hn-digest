@@ -21,17 +21,18 @@ jobs:
           fetch-depth: 0
           persist-credentials: true
 
-      - uses: actions/setup-python@v5
+      - uses: actions/setup-go@v5
         with:
-          python-version: "3.12"
+          go-version-file: go.mod
+          cache: true
 
-      - name: Install dependencies
-        run: pip install openai pyyaml
+      - name: Build
+        run: go build -o bin/summarize ./cmd/summarize
 
       - name: Generate summaries
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: python scripts/summarize.py
+        run: ./bin/summarize
 
       - name: Commit and push summaries
         run: |

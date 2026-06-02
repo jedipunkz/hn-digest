@@ -275,6 +275,26 @@ func interestMultiplier(title, translation string) float64 {
 }
 
 func callModel(ctx context.Context, client *http.Client, token, title, translation string) (string, error) {
+	const maxAttempts = 4
+	for attempt := 0; attempt < maxAttempts; attempt++ {
+		summary, retryAfter, err := callModelOnce(ctx, client, token, title, translation)
+		if err == nil {
+			return summary, nil
+		}
+		if retryAfter == 0 || attempt == maxAttempts-1 {
+			return "", err
+		}
+		log.Printf("rate limited, waiting %s before retry (%d/%d)", retryAfter, attempt+1, maxAttempts-1)
+		select {
+		case <-time.After(retryAfter):
+		case <-ctx.Done():
+			return "", ctx.Err()
+		}
+	}
+	panic("unreachable")
+}
+
+func callModelOnce(ctx context.Context, client *http.Client, token, title, translation string) (string, time.Duration, error) {
 	reqBody := chatRequest{
 		Model: summaryModel,
 		Messages: []message{
@@ -302,42 +322,57 @@ func callModel(ctx context.Context, client *http.Client, token, title, translati
 
 	body, err := json.Marshal(reqBody)
 	if err != nil {
-		return "", err
+		return "", 0, err
 	}
 
 	req, err := http.NewRequestWithContext(ctx, http.MethodPost, githubModelsEndpoint, bytes.NewReader(body))
 	if err != nil {
-		return "", err
+		return "", 0, err
 	}
 	req.Header.Set("Content-Type", "application/json")
 	req.Header.Set("Authorization", "Bearer "+token)
 
 	resp, err := client.Do(req)
 	if err != nil {
-		return "", err
+		return "", 0, err
 	}
 	defer resp.Body.Close()
 
 	data, err := io.ReadAll(io.LimitReader(resp.Body, 1<<20))
 	if err != nil {
-		return "", err
+		return "", 0, err
 	}
 
 	var chatResp chatResponse
 	if err := json.Unmarshal(data, &chatResp); err != nil {
-		return "", fmt.Errorf("parse response: %w", err)
+		return "", 0, fmt.Errorf("parse response: %w", err)
 	}
+
+	if resp.StatusCode == http.StatusTooManyRequests {
+		retryAfter := 65 * time.Second
+		if ra := resp.Header.Get("Retry-After"); ra != "" {
+			if secs, err2 := strconv.Atoi(ra); err2 == nil {
+				retryAfter = time.Duration(secs+5) * time.Second
+			}
+		}
+		msg := resp.Status
+		if chatResp.Error != nil {
+			msg = chatResp.Error.Message
+		}
+		return "", retryAfter, fmt.Errorf("API %s: %s", resp.Status, msg)
+	}
+
 	if resp.StatusCode < 200 || resp.StatusCode >= 300 {
 		msg := resp.Status
 		if chatResp.Error != nil {
 			msg = chatResp.Error.Message
 		}
-		return "", fmt.Errorf("API %s: %s", resp.Status, msg)
+		return "", 0, fmt.Errorf("API %s: %s", resp.Status, msg)
 	}
 	if len(chatResp.Choices) == 0 {
-		return "", errors.New("no choices in response")
+		return "", 0, errors.New("no choices in response")
 	}
-	return strings.TrimSpace(chatResp.Choices[0].Message.Content), nil
+	return strings.TrimSpace(chatResp.Choices[0].Message.Content), 0, nil
 }
 
 func frontMatterInt(text, key string) int {

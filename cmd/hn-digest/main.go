@@ -46,7 +46,7 @@ func run(ctx context.Context, args []string) error {
 	outDir := fs.String("out", "contents", "base output directory")
 	maxArticleChars := fs.Int("max-article-chars", 12000, "maximum extracted article characters to translate per story")
 	timeout := fs.Duration("timeout", 25*time.Second, "HTTP request timeout")
-	since := fs.Duration("since", 24*time.Hour, "only process stories posted within this duration; 0 disables time filtering")
+	since := fs.Duration("since", 3*time.Hour, "only process stories posted within this duration; 0 disables time filtering")
 	titleKeywords := fs.String("title-keywords", defaultTitleKeywords, "comma-separated title keywords to include; empty means no title filtering")
 	date := fs.String("date", time.Now().Format(time.DateOnly), "output date directory")
 	if err := fs.Parse(args); err != nil {

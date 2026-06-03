@@ -2,8 +2,8 @@ name: HN digest
 
 on:
   schedule:
-    # once a day (UTC)
-    - cron: "0 0 * * *"
+    # once a day at 3:00 AM JST (18:00 UTC)
+    - cron: "0 18 * * *"
   workflow_dispatch:
 
 permissions:

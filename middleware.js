@@ -1,5 +1,5 @@
 export const config = {
-  matcher: '/rss.xml',
+  matcher: ['/', '/index.html', '/rss.xml'],
 };
 
 export default function middleware(request) {
@@ -12,5 +12,5 @@ export default function middleware(request) {
       headers: { 'content-type': 'text/plain; charset=utf-8' },
     });
   }
-  // token 一致時は何も返さず静的 rss.xml の配信を継続
+  // token 一致時は何も返さず静的ファイルの配信を継続
 }

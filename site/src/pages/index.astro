@@ -18,7 +18,6 @@ const dates = [...byDate.keys()].sort().reverse();
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>HN Digest</title>
-    <link rel="alternate" type="application/rss+xml" title="HN Digest RSS" href="/rss.xml" />
     <style>
       *, *::before, *::after { box-sizing: border-box; }
       body {
@@ -33,19 +32,6 @@ const dates = [...byDate.keys()].sort().reverse();
       header { margin-bottom: 2rem; border-bottom: 2px solid #f60; padding-bottom: 1rem; }
       h1 { font-size: 1.4rem; margin: 0 0 0.25rem; }
       .tagline { color: #666; font-size: 0.875rem; margin: 0; }
-      .rss-btn {
-        display: inline-flex;
-        align-items: center;
-        gap: 0.35rem;
-        margin-top: 0.75rem;
-        background: #f60;
-        color: #fff;
-        padding: 0.3rem 0.75rem;
-        border-radius: 4px;
-        text-decoration: none;
-        font-size: 0.8rem;
-        font-weight: 600;
-      }
       .date-heading {
         font-size: 0.8rem;
         font-weight: 700;
@@ -93,13 +79,6 @@ const dates = [...byDate.keys()].sort().reverse();
     <header>
       <h1>HN Digest</h1>
       <p class="tagline">AI · Platform · SRE 分野の Hacker News トップ記事を毎日 10 件ピックアップ</p>
-      <a class="rss-btn" href="/rss.xml">
-        <svg width="12" height="12" viewBox="0 0 24 24" fill="currentColor">
-          <circle cx="6.18" cy="17.82" r="2.18"/>
-          <path d="M4 4.44v2.83c7.03 0 12.73 5.7 12.73 12.73h2.83c0-8.59-6.97-15.56-15.56-15.56zm0 5.66v2.83c3.9 0 7.07 3.17 7.07 7.07h2.83c0-5.47-4.43-9.9-9.9-9.9z"/>
-        </svg>
-        RSS
-      </a>
     </header>
 
     {dates.length === 0 ? (

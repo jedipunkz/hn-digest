@@ -76,6 +76,8 @@ GitHub Models は `GITHUB_TOKEN` だけで使える OpenAI 互換 API。**料金
 
 出力上限は `max_tokens = 1200`、入力本文は `## Translation` セクションを先頭 4000 文字まで切り詰めて渡す。
 
+サマリーとは別に、記事タイトルも同じモデルで日本語へ翻訳し `title_ja` として保存する（製品名・固有名詞・技術用語は原語のまま残す）。翻訳に失敗または空文字の場合は英語タイトルにフォールバックする。
+
 ### 3. summaries JSON スキーマ
 
 `summaries/YYYY-MM-DD.json` に保存:
@@ -89,6 +91,7 @@ GitHub Models は `GITHUB_TOKEN` だけで使える OpenAI 互換 API。**料金
       "rank": 1,
       "hn_id": 48334157,
       "title": "Show HN: AI-org – org-mode powered by AI",
+      "title_ja": "Show HN: AI-org – AI で動く org-mode",
       "hn_url": "https://news.ycombinator.com/item?id=48334157",
       "source_url": "https://ai-org.net/",
       "score": 312,
@@ -107,7 +110,7 @@ GitHub Models は `GITHUB_TOKEN` だけで使える OpenAI 互換 API。**料金
 | フォーマット | RSS 2.0 |
 | 配信 URL | `https://<your-site>.vercel.app/rss.xml` |
 | アイテム数 | 直近 14 日分 × 30 記事 = 最大 420 件 |
-| `<title>` | 記事タイトル（英語のまま） |
+| `<title>` | 記事タイトル（日本語訳 `title_ja`、無ければ英語タイトル） |
 | `<description>` | AI サマリー（日本語） |
 | `<link>` | HN のディスカッション URL |
 | `<pubDate>` | `posted_at` |

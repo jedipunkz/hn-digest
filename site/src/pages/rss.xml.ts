@@ -11,7 +11,7 @@ export function GET(context: APIContext) {
       'Hacker News のトップ記事を AI が日本語でサマリー（AI・Platform・SRE 分野中心、毎日 10 件）',
     site: context.site!,
     items: articles.map((article) => ({
-      title: article.title,
+      title: article.title_ja || article.title,
       pubDate: new Date(article.posted_at || article.date),
       description: article.summary_ja,
       link: article.hn_url,

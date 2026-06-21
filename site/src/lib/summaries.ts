@@ -10,6 +10,7 @@ export interface Article {
   rank: number;
   hn_id: number;
   title: string;
+  title_ja?: string;
   hn_url: string;
   source_url: string;
   score: number;

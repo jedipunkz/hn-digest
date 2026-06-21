@@ -82,6 +82,7 @@ type summaryArticle struct {
 	Rank       int    `json:"rank"`
 	HnID       int    `json:"hn_id"`
 	Title      string `json:"title"`
+	TitleJA    string `json:"title_ja"`
 	HnURL      string `json:"hn_url"`
 	SourceURL  string `json:"source_url"`
 	Score      int    `json:"score"`
@@ -169,7 +170,15 @@ func run(ctx context.Context, args []string) error {
 	for i, art := range articles {
 		rank := i + 1
 		log.Printf("[%d/%d] final=%d hn=%d title=%s", rank, len(articles), art.finalScore, art.score, truncate(art.title, 60))
-		summary, err := callModel(ctx, client, token, art.title, art.translation)
+		titleJA, err := callModel(ctx, client, token, titleMessages(art.title))
+		if err != nil {
+			return fmt.Errorf("translate title %q: %w", art.title, err)
+		}
+		titleJA = cleanTitle(titleJA)
+		if titleJA == "" {
+			titleJA = art.title
+		}
+		summary, err := callModel(ctx, client, token, summaryMessages(art.title, art.translation))
 		if err != nil {
 			return fmt.Errorf("summarize %q: %w", art.title, err)
 		}
@@ -177,6 +186,7 @@ func run(ctx context.Context, args []string) error {
 			Rank:       rank,
 			HnID:       art.hnID,
 			Title:      art.title,
+			TitleJA:    titleJA,
 			HnURL:      art.hnURL,
 			SourceURL:  art.sourceURL,
 			Score:      art.score,
@@ -274,12 +284,55 @@ func interestMultiplier(title, translation string) float64 {
 	return multiplier
 }
 
-func callModel(ctx context.Context, client *http.Client, token, title, translation string) (string, error) {
+// summaryMessages builds the chat messages for summarising an article.
+func summaryMessages(title, translation string) []message {
+	return []message{
+		{
+			Role:    "system",
+			Content: "あなたは技術ニュースの要約者です。Hacker Newsの記事を日本語で詳しく要約してください。",
+		},
+		{
+			Role: "user",
+			Content: fmt.Sprintf(
+				"以下のHacker News記事を日本語で詳しく要約してください。\n"+
+					"以下の点を必ず含めて、600〜900文字程度（6〜10文）で記述してください。\n"+
+					"- 記事の主題と背景\n"+
+					"- 技術的な要点や仕組み、利用されている技術スタック\n"+
+					"- 著者の主張や結論\n"+
+					"- HNコミュニティで注目されている理由や論点\n\n"+
+					"タイトル: %s\n\n本文:\n%s",
+				title, translation,
+			),
+		},
+	}
+}
+
+// titleMessages builds the chat messages for translating an article title.
+func titleMessages(title string) []message {
+	return []message{
+		{
+			Role:    "system",
+			Content: "あなたは技術ニュースの翻訳者です。Hacker Newsの記事タイトルを自然な日本語に翻訳してください。",
+		},
+		{
+			Role: "user",
+			Content: fmt.Sprintf(
+				"以下のHacker News記事のタイトルを自然な日本語に翻訳してください。\n"+
+					"訳文のみを1行で出力し、引用符や説明、前置きは付けないでください。\n"+
+					"製品名・固有名詞・技術用語はそのまま残して構いません。\n\n"+
+					"タイトル: %s",
+				title,
+			),
+		},
+	}
+}
+
+func callModel(ctx context.Context, client *http.Client, token string, messages []message) (string, error) {
 	const maxAttempts = 4
 	for attempt := 0; attempt < maxAttempts; attempt++ {
-		summary, retryAfter, err := callModelOnce(ctx, client, token, title, translation)
+		content, retryAfter, err := callModelOnce(ctx, client, token, messages)
 		if err == nil {
-			return summary, nil
+			return content, nil
 		}
 		if retryAfter == 0 || attempt == maxAttempts-1 {
 			return "", err
@@ -294,28 +347,10 @@ func callModel(ctx context.Context, client *http.Client, token, title, translati
 	panic("unreachable")
 }
 
-func callModelOnce(ctx context.Context, client *http.Client, token, title, translation string) (string, time.Duration, error) {
+func callModelOnce(ctx context.Context, client *http.Client, token string, messages []message) (string, time.Duration, error) {
 	reqBody := chatRequest{
-		Model: summaryModel,
-		Messages: []message{
-			{
-				Role:    "system",
-				Content: "あなたは技術ニュースの要約者です。Hacker Newsの記事を日本語で詳しく要約してください。",
-			},
-			{
-				Role: "user",
-				Content: fmt.Sprintf(
-					"以下のHacker News記事を日本語で詳しく要約してください。\n"+
-						"以下の点を必ず含めて、600〜900文字程度（6〜10文）で記述してください。\n"+
-						"- 記事の主題と背景\n"+
-						"- 技術的な要点や仕組み、利用されている技術スタック\n"+
-						"- 著者の主張や結論\n"+
-						"- HNコミュニティで注目されている理由や論点\n\n"+
-						"タイトル: %s\n\n本文:\n%s",
-					title, translation,
-				),
-			},
-		},
+		Model:       summaryModel,
+		Messages:    messages,
 		MaxTokens:   1200,
 		Temperature: 0.3,
 	}
@@ -394,6 +429,17 @@ func frontMatterString(text, key string) string {
 		return ""
 	}
 	return strings.TrimSpace(match[1])
+}
+
+// cleanTitle normalises a translated title: collapse to a single line and strip
+// surrounding quotes the model may add.
+func cleanTitle(s string) string {
+	if idx := strings.IndexByte(s, '\n'); idx >= 0 {
+		s = s[:idx]
+	}
+	s = strings.TrimSpace(s)
+	s = strings.Trim(s, `"'「」`)
+	return strings.TrimSpace(s)
 }
 
 func truncate(s string, n int) string {

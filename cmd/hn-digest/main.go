@@ -25,9 +25,11 @@ import (
 )
 
 const (
-	hnAPIBase       = "https://hacker-news.firebaseio.com/v0"
-	hnItemURLFormat = "https://news.ycombinator.com/item?id=%d"
-	userAgent       = "hn-digest/0.1 (+https://github.com/jedipunkz/hn-digest)"
+	hnAPIBase          = "https://hacker-news.firebaseio.com/v0"
+	hnItemURLFormat    = "https://news.ycombinator.com/item?id=%d"
+	userAgent          = "hn-digest/0.1 (+https://github.com/jedipunkz/hn-digest)"
+	articleUserAgent   = "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+	articleFetchRetries = 3
 )
 
 const defaultTitleKeywords = "sre,site reliability,devops,dev ops,platform engineering,incident,on-call,observability,kubernetes,k8s,terraform,ci/cd,google cloud,gcp,cloud run,cloud sql,bigquery,gemini,ai,llm,llms,artificial intelligence,machine learning,ml,openai,anthropic,claude,deepmind,neural network"
@@ -265,7 +267,7 @@ func (c *crawler) writeStory(ctx context.Context, item hnItem) error {
 	if item.URL != "" {
 		fetched, err := fetchArticle(ctx, c.client, item.URL, c.maxArticleChars)
 		if err != nil {
-			log.Printf("fetch article %d: %v", item.ID, err)
+			log.Printf("fetch article %d (url=%s): %v — translation will use title only", item.ID, item.URL, err)
 		} else {
 			article = fetched
 		}
@@ -431,19 +433,54 @@ func storyTranslationInput(item hnItem, article article) string {
 }
 
 func fetchArticle(ctx context.Context, client *http.Client, rawURL string, maxChars int) (article, error) {
+	var lastErr error
+	for attempt := 0; attempt < articleFetchRetries; attempt++ {
+		if attempt > 0 {
+			select {
+			case <-ctx.Done():
+				return article{}, ctx.Err()
+			case <-time.After(time.Duration(attempt*attempt) * time.Second):
+			}
+		}
+		a, err := fetchArticleOnce(ctx, client, rawURL, maxChars)
+		if err == nil {
+			return a, nil
+		}
+		lastErr = err
+		// Only retry on network errors or 5xx server errors.
+		var fetchErr *articleFetchError
+		if !errors.As(err, &fetchErr) || fetchErr.status < 500 {
+			break
+		}
+	}
+	return article{}, lastErr
+}
+
+type articleFetchError struct {
+	status int
+	msg    string
+}
+
+func (e *articleFetchError) Error() string { return e.msg }
+
+func fetchArticleOnce(ctx context.Context, client *http.Client, rawURL string, maxChars int) (article, error) {
 	req, err := http.NewRequestWithContext(ctx, http.MethodGet, rawURL, nil)
 	if err != nil {
 		return article{}, err
 	}
-	req.Header.Set("User-Agent", userAgent)
+	req.Header.Set("User-Agent", articleUserAgent)
 	req.Header.Set("Accept", "text/html,application/xhtml+xml,application/xml;q=0.9,text/plain;q=0.8,*/*;q=0.5")
+	req.Header.Set("Accept-Language", "en-US,en;q=0.9")
 	resp, err := client.Do(req)
 	if err != nil {
 		return article{}, err
 	}
 	defer resp.Body.Close()
 	if resp.StatusCode < 200 || resp.StatusCode >= 300 {
-		return article{}, fmt.Errorf("unexpected status %s", resp.Status)
+		return article{}, &articleFetchError{
+			status: resp.StatusCode,
+			msg:    fmt.Sprintf("unexpected status %s", resp.Status),
+		}
 	}
 	contentType := strings.ToLower(resp.Header.Get("Content-Type"))
 	if !strings.Contains(contentType, "text/html") && !strings.Contains(contentType, "text/plain") && contentType != "" {

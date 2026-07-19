@@ -1,0 +1,67 @@
+---
+source: "https://hail.so/costs"
+hn_url: "https://news.ycombinator.com/item?id=48968115"
+title: "Pricing for 145 models LLM/STT/TTS aggregated and comparable"
+article_title: "Model costs — Hail"
+author: "r13i"
+captured_at: "2026-07-19T14:20:50Z"
+capture_tool: "hn-digest"
+hn_id: 48968115
+score: 2
+comments: 0
+posted_at: "2026-07-19T13:36:44Z"
+tags:
+  - hacker-news
+  - translated
+---
+
+# Pricing for 145 models LLM/STT/TTS aggregated and comparable
+
+- HN: [48968115](https://news.ycombinator.com/item?id=48968115)
+- Source: [hail.so](https://hail.so/costs)
+- Score: 2
+- Comments: 0
+- Posted: 2026-07-19T13:36:44Z
+
+## Translation
+
+タイトル: 145 モデルの LLM/STT/TTS の価格を集約し比較
+記事のタイトル: モデルのコスト — あられ
+説明: AI モデル プロバイダー (LLM、音声合成、テキスト読み上げ、SMS、テレフォニー) の検証済みの公開価格および機能データ。スキーマ検証済み、CC-BY-4.0、毎週更新。
+
+記事本文:
+モデルコスト — あられ あられ .so COSTS ● HAIL.SO / DISPATCH · 2026-07-19 · モデルコスト ファイル: COSTS · CC-BY-4.0 · v0.2.0 モデルコスト
+比較 $0.10 $0.10 — 262,144 8,192 2026-07-19 ミストラル ミニストラル 3 8B ministral-8b-2512 比較 $0.15 $0.15 — 262,144 8,192 2026-07-19 ミストラル ミニストラル 3 14B ministral-14b-2512 比較 $0.20 $0.20 — 262,144 8,192 2026-07-19 DeepSeek DeepSeek V4 Flash deepseek-v4-flash 比較 $0.28 $0.14 $0.0028 1,048,576 384,000 2026-07-19 DeepSeek DeepSeek V3 ディープシーク チャットの比較 $0.28 $0.14 $0.0028 1,048,576 384,000 2026-07-19 DeepSeek DeepSeek R1 ディープシーク リーズナーの比較 $0.28 $0.14 $0.0028 1,048,576 384,000 2026-07-19 ミストラル ミストラル Small 3 misstral-small-2501 比較 $0.30 $0.10 — 32,768 8,192 2026-07-19 OpenAI GPT-5 nano gpt-5-nano 比較 $0.40 $0.05 $0.0050 400,000 128,000 2026-07-19 Google Gemini 2.5 Flash-Lite gemini-2.5-flash-lite 比較 $0.40 $0.10 $0.0100 1,048,576 65,536 2026-07-19 Google Gemini 2.0 Flash gemini-2.0-flash 比較 $0.40 $0.10 $0.0250 1,048,576 8,192 2026-07-19 Meta Llama 4 Scout ラマ-4-スカウト 比較 $0.59 $0.18 — 10,485,760 8,192 2026-07-19 OpenAI GPT-4o mini gpt-4o-mini 比較 $0.60 $0.15 $0.0750 128,000 16,384 2026-07-19 ミストラル ミストラル Small 4 misstral-small-2603 比較 $0.60 $0.15 — 262,144 8,192 2026-07-19 メタ ラマ 3.3 70B 命令ラマ-3.3-70b 比較 $0.79 $0.59 — 131,072 8,192 2026-07-19 Meta Llama 4 Maverick ラマ-4-マーベリック 比較 $0.85 $0.27 — 1,048,576 8,192 2026-07-19 DeepSeek DeepSeek V4 Pro deepseek-v4-pro 比較 $0.87 $0.43 $0.0036 1,048,576 384,000 2026-07-19 ミストラル コードストラル 25.08 コードストラル-2508 比較 $0.90 $0.30 — 131,072 8,192 2026-07-19 パープレクシティ ソナー ソナー 比較 $1.00 $1.00 — 128,000 8,000 2026-07-19 OpenAI GPT-5.4 nano gpt-5.4-nano 比較 $1.25 $0.2
+
+0 $0.0200 400,000 128,000 2026-07-19 Google Gemini 3.1 Flash-Lite gemini-3.1-flash-lite 比較 $1.50 $0.25 $0.0250 1,048,576 65,536 2026-07-19 ミストラル ミストラル ラージ 3 misstral-large-2512 比較 $1.50 $0.50 — 262,144 8,192 2026-07-19 Cohereaya Expanse 32B c4ai-aya-expanse-32b 比較 $1.50 $0.50 — 128,000 4,000 2026-07-19 xAI Grok コード Fast 1 grok-code-fast-1 比較
+[切り捨てられた]
+比較 $0.0007 — — 99+ サポートなし 2026-07-19 Soniox Soniox STT Async v4 stt-async-v4 比較 $0.0017 — — 60+ 含む 2026-07-19 Soniox Soniox STT Async v5 stt-async-v5 比較 $0.0017 — — 60+ 含む2026-07-19 Groq Whisper V3 Large (Groq) Whisper-large-v3 比較 $0.0019 — — 99+ サポートなし 2026-07-19 Soniox Soniox STT リアルタイム v4 stt-rt-v4 比較 $0.0020 — ✓ 60+ 含む 2026-07-19 Soniox Soniox STT リアルタイムv5 stt-rt-v5 比較 $0.0020 — ✓ 60 個以上が含まれる 2026-07-19 スピーチマティクス スピーチマティクス 強化 強化された比較 $0.0022 — ✓ 56 個以上が含まれる 2026-07-19 スピーチマティクス スピーチマティクス Melia 1 melia-1 比較 $0.0022 — — 68 個以上が含まれる2026-07-19 AssemblyAI Universal-2 universal-2 比較 $0.0025 — — 99+ 追加コスト 2026-07-19 AssemblyAI Universal-Streaming ユニバーサル ストリーミング比較 $0.0025 — ✓ 追加コスト 2026-07-19 AssemblyAI Universal-Streaming English universal-streaming-english 比較 $0.0025 — ✓ 追加コスト2026-07-19 AssemblyAI Universal-Streaming Multilingual universal-streaming-multilingual 比較 $0.0025 — ✓ en、es、pt、de、fr、it 追加料金 2026-07-19 Cartesia Ink Whisper ink-Whisper 比較 $0.0030 $0.0015 ✓ 99+ サポートなし 2026-07-19 OpenAI GPT-4o mini Transcribe gpt-4o-mini-transcribe 比較 $0.0030 — — 99+ 未サポート 2026-07-19 Microsoft Azure Azure Speech (バッチ) azure-speech-batch 比較 $0.0030 — — 100+ 含む
+
+ed 2026-07-19 Rev.ai Rev.ai Reverb リバーブ比較 $0.0033 — — ja 付属 2026-07-19 AssemblyAI Universal-3.5 Pro universal-3-pro 比較 $0.0035 — — en、es、fr、de、it、pt、ar、da、nl、fi、he、hi、ja、zh、no、sv、tr、 vi 追加料金 2026-07-19 Deepgram Nova-3 モノリンガル nova-3-モノリンガル比較 $0.0048 $0.0077 ✓ en 追加料金 2026-07-19 Deepgram Nova-3 Medical nova-3-medical 比較 $0.0048 $0.0043 ✓ en、en-US、en-AU、en-CA、en-GB、en-IE、 en-IN、en-NZ 追加料金 2026-07-19 AssemblyAI Whisper-Streaming ウィスパーストリーミング比較 $0.0050 — ✓ 99+ 追加料金 2026-07-19 Rev.ai Rev.ai Whisper Fusion ウィスパーフュージョン比較 $0.0050 — ✓ en 含む
+[切り捨てられた]
+比較 $4.00 ニューラル — 40+ — 2026-07-19 OpenAI TTS-1 tts-1 比較 $15.00 ニューラル — ja — 2026-07-19 Microsoft Azure Azure AI Speech — ニューラル azure-tts-neural 比較 $15.00 ニューラル — 100+ — 2026-07-19 Inworld Inworld リアルタイム TTS 1.5 Mini inworld-tts-1.5-mini 比較 $15.00 ニューラル ✓ en、zh、ja、ko、ru、it、es、pt、fr、de、pl、nl、hi、he、ar — 2026-07-19 Google Google Cloud TTS — Neural2 google-tts-neural2 比較 $16.00 ニューラル — 40+ — 2026-07-19 Smallest.ai Lightning v3.1 lightning_v3.1 比較 $17.50 ニューラル ✓ en、hi、es、mr、kn、ta、bn、gu、te、ml、pa、または 200ms 2026-07-19 Smallest.ai Lightning v3.1 Pro lightning_v3.1_pro 比較 $19.50 ニューラル — en、 hi、mr、ta、ml、te、kn、pa、bn、or、gu、ar、zh、id、ja、ko、ms、tr、vi、de、es、fr、it、pt、ru、el、fi、no、pl 200ms 2026-07-19 OpenAI GPT-4o mini TTS gpt-4o-mini-tts 比較 $20.00 neural — ja — 2026-07-19 Groq Canopy Labs Orpheus English (Groq) canopy-labs-orpheus-english 比較 $22.00 neural — en — 2026-07-19 Microsoft Azure Azure AI Speech — Neural HD (DragonHD) azure-tts-hd 比較 $22.00 neural — en-US、zh-CN、de-DE、
+
+es-ES、fr-FR、ja-JP — 2026-07-19 Microsoft Azure Azure AI Speech — Personal Voice azure-tts-personal-voice 比較 $24.00 ニューラル ✓ 90+ — 2026-07-19 Inworld Inworld Realtime TTS-2 inworld-tts-2 比較 $25.00 ニューラル ✓ 100+ — 2026-07-19 OpenAI TTS-1 HD tts-1-hd 比較 $30.00 ニューラル — ja — 2026-07-19 Google Google Cloud TTS — Chirp 3: HD google-tts-chirp-3-hd 比較 $30.00 ニューラル — 30+ — 2026-07-19 Rime Rime Mist v3 misstv3 比較$30.00 ニューラル — en 37ms 2026-07-19 Deepgram Deepgram Aura 2 aura-2 比較 $30.00 ニューラル — en、es、de、fr、nl、it、ja — 2026-07-19 Inworld Inworld Realtime TTS 1.5 Max inworld-tts-1.5-max 比較 $35.00 ニューラル ✓ en、zh、ja、 ko、ru、it、es、pt、fr、de、pl、nl、hi、he、ar — 2026-07-19 Groq Canopy Labs Orpheus Arabic Saudi (Groq) canopy-labs-orpheus-arabic-saudi 比較 $40.00 ニューラル — ar-SA — 2026-07-19 イレブンラボ イレブン フラッシュ v2.5 eleven_flash_v2_5 比較 $50.00 ニューラル ✓ 32+ 75
+[切り捨てられた]
+完全なデータセットは JSON および Markdown として公開されます。エージェントとスクリプトは直接フェッチする必要があります。
+/costs.md · マークダウン ビュー (このページ)
+電話 (COGS 数 + 10DLC 料金): https://raw.githubusercontent.com/hail-hq/hail/main/costs/telephony.json
+SMS プロバイダーの基本料金: https://raw.githubusercontent.com/hail-hq/hail/main/costs/sms.json
+適用されたデータを参照してください: AI 音声エージェントのコスト計算ツール · SMS 長さとセグメントの計算ツール - これらの数値に基づいて構築された無料ツール。
+
+## Original Extract
+
+Public, validated pricing and capability data for AI model providers — LLMs, speech-to-text, text-to-speech, SMS, and telephony. Schema-validated, CC-BY-4.0, refreshed weekly.
+
+Model costs — Hail hail .so COSTS ● HAIL.SO / DISPATCH · 2026-07-19 · MODEL COSTS FILE: COSTS · CC-BY-4.0 · v0.2.0 MODEL COSTS
+compare $0.10 $0.10 — 262,144 8,192 2026-07-19 Mistral Ministral 3 8B ministral-8b-2512 compare $0.15 $0.15 — 262,144 8,192 2026-07-19 Mistral Ministral 3 14B ministral-14b-2512 compare $0.20 $0.20 — 262,144 8,192 2026-07-19 DeepSeek DeepSeek V4 Flash deepseek-v4-flash compare $0.28 $0.14 $0.0028 1,048,576 384,000 2026-07-19 DeepSeek DeepSeek V3 deepseek-chat compare $0.28 $0.14 $0.0028 1,048,576 384,000 2026-07-19 DeepSeek DeepSeek R1 deepseek-reasoner compare $0.28 $0.14 $0.0028 1,048,576 384,000 2026-07-19 Mistral Mistral Small 3 mistral-small-2501 compare $0.30 $0.10 — 32,768 8,192 2026-07-19 OpenAI GPT-5 nano gpt-5-nano compare $0.40 $0.05 $0.0050 400,000 128,000 2026-07-19 Google Gemini 2.5 Flash-Lite gemini-2.5-flash-lite compare $0.40 $0.10 $0.0100 1,048,576 65,536 2026-07-19 Google Gemini 2.0 Flash gemini-2.0-flash compare $0.40 $0.10 $0.0250 1,048,576 8,192 2026-07-19 Meta Llama 4 Scout llama-4-scout compare $0.59 $0.18 — 10,485,760 8,192 2026-07-19 OpenAI GPT-4o mini gpt-4o-mini compare $0.60 $0.15 $0.0750 128,000 16,384 2026-07-19 Mistral Mistral Small 4 mistral-small-2603 compare $0.60 $0.15 — 262,144 8,192 2026-07-19 Meta Llama 3.3 70B Instruct llama-3.3-70b compare $0.79 $0.59 — 131,072 8,192 2026-07-19 Meta Llama 4 Maverick llama-4-maverick compare $0.85 $0.27 — 1,048,576 8,192 2026-07-19 DeepSeek DeepSeek V4 Pro deepseek-v4-pro compare $0.87 $0.43 $0.0036 1,048,576 384,000 2026-07-19 Mistral Codestral 25.08 codestral-2508 compare $0.90 $0.30 — 131,072 8,192 2026-07-19 Perplexity Sonar sonar compare $1.00 $1.00 — 128,000 8,000 2026-07-19 OpenAI GPT-5.4 nano gpt-5.4-nano compare $1.25 $0.20 $0.0200 400,000 128,000 2026-07-19 Google Gemini 3.1 Flash-Lite gemini-3.1-flash-lite compare $1.50 $0.25 $0.0250 1,048,576 65,536 2026-07-19 Mistral Mistral Large 3 mistral-large-2512 compare $1.50 $0.50 — 262,144 8,192 2026-07-19 Cohere Aya Expanse 32B c4ai-aya-expanse-32b compare $1.50 $0.50 — 128,000 4,000 2026-07-19 xAI Grok Code Fast 1 grok-code-fast-1 compar
+[truncated]
+compare $0.0007 — — 99+ unsupported 2026-07-19 Soniox Soniox STT Async v4 stt-async-v4 compare $0.0017 — — 60+ included 2026-07-19 Soniox Soniox STT Async v5 stt-async-v5 compare $0.0017 — — 60+ included 2026-07-19 Groq Whisper V3 Large (Groq) whisper-large-v3 compare $0.0019 — — 99+ unsupported 2026-07-19 Soniox Soniox STT Real-time v4 stt-rt-v4 compare $0.0020 — ✓ 60+ included 2026-07-19 Soniox Soniox STT Real-time v5 stt-rt-v5 compare $0.0020 — ✓ 60+ included 2026-07-19 Speechmatics Speechmatics Enhanced enhanced compare $0.0022 — ✓ 56+ included 2026-07-19 Speechmatics Speechmatics Melia 1 melia-1 compare $0.0022 — — 68+ included 2026-07-19 AssemblyAI Universal-2 universal-2 compare $0.0025 — — 99+ extra-cost 2026-07-19 AssemblyAI Universal-Streaming universal-streaming compare $0.0025 — ✓ en extra-cost 2026-07-19 AssemblyAI Universal-Streaming English universal-streaming-english compare $0.0025 — ✓ en extra-cost 2026-07-19 AssemblyAI Universal-Streaming Multilingual universal-streaming-multilingual compare $0.0025 — ✓ en, es, pt, de, fr, it extra-cost 2026-07-19 Cartesia Ink Whisper ink-whisper compare $0.0030 $0.0015 ✓ 99+ unsupported 2026-07-19 OpenAI GPT-4o mini Transcribe gpt-4o-mini-transcribe compare $0.0030 — — 99+ unsupported 2026-07-19 Microsoft Azure Azure Speech (Batch) azure-speech-batch compare $0.0030 — — 100+ included 2026-07-19 Rev.ai Rev.ai Reverb reverb compare $0.0033 — — en included 2026-07-19 AssemblyAI Universal-3.5 Pro universal-3-pro compare $0.0035 — — en, es, fr, de, it, pt, ar, da, nl, fi, he, hi, ja, zh, no, sv, tr, vi extra-cost 2026-07-19 Deepgram Nova-3 Monolingual nova-3-monolingual compare $0.0048 $0.0077 ✓ en extra-cost 2026-07-19 Deepgram Nova-3 Medical nova-3-medical compare $0.0048 $0.0043 ✓ en, en-US, en-AU, en-CA, en-GB, en-IE, en-IN, en-NZ extra-cost 2026-07-19 AssemblyAI Whisper-Streaming whisper-streaming compare $0.0050 — ✓ 99+ extra-cost 2026-07-19 Rev.ai Rev.ai Whisper Fusion whisper-fusion compare $0.0050 — ✓ en incl
+[truncated]
+compare $4.00 neural — 40+ — 2026-07-19 OpenAI TTS-1 tts-1 compare $15.00 neural — en — 2026-07-19 Microsoft Azure Azure AI Speech — Neural azure-tts-neural compare $15.00 neural — 100+ — 2026-07-19 Inworld Inworld Realtime TTS 1.5 Mini inworld-tts-1.5-mini compare $15.00 neural ✓ en, zh, ja, ko, ru, it, es, pt, fr, de, pl, nl, hi, he, ar — 2026-07-19 Google Google Cloud TTS — Neural2 google-tts-neural2 compare $16.00 neural — 40+ — 2026-07-19 Smallest.ai Lightning v3.1 lightning_v3.1 compare $17.50 neural ✓ en, hi, es, mr, kn, ta, bn, gu, te, ml, pa, or 200ms 2026-07-19 Smallest.ai Lightning v3.1 Pro lightning_v3.1_pro compare $19.50 neural — en, hi, mr, ta, ml, te, kn, pa, bn, or, gu, ar, zh, id, ja, ko, ms, tr, vi, de, es, fr, it, pt, ru, el, fi, no, pl 200ms 2026-07-19 OpenAI GPT-4o mini TTS gpt-4o-mini-tts compare $20.00 neural — en — 2026-07-19 Groq Canopy Labs Orpheus English (Groq) canopy-labs-orpheus-english compare $22.00 neural — en — 2026-07-19 Microsoft Azure Azure AI Speech — Neural HD (DragonHD) azure-tts-hd compare $22.00 neural — en-US, zh-CN, de-DE, es-ES, fr-FR, ja-JP — 2026-07-19 Microsoft Azure Azure AI Speech — Personal Voice azure-tts-personal-voice compare $24.00 neural ✓ 90+ — 2026-07-19 Inworld Inworld Realtime TTS-2 inworld-tts-2 compare $25.00 neural ✓ 100+ — 2026-07-19 OpenAI TTS-1 HD tts-1-hd compare $30.00 neural — en — 2026-07-19 Google Google Cloud TTS — Chirp 3: HD google-tts-chirp-3-hd compare $30.00 neural — 30+ — 2026-07-19 Rime Rime Mist v3 mistv3 compare $30.00 neural — en 37ms 2026-07-19 Deepgram Deepgram Aura 2 aura-2 compare $30.00 neural — en, es, de, fr, nl, it, ja — 2026-07-19 Inworld Inworld Realtime TTS 1.5 Max inworld-tts-1.5-max compare $35.00 neural ✓ en, zh, ja, ko, ru, it, es, pt, fr, de, pl, nl, hi, he, ar — 2026-07-19 Groq Canopy Labs Orpheus Arabic Saudi (Groq) canopy-labs-orpheus-arabic-saudi compare $40.00 neural — ar-SA — 2026-07-19 ElevenLabs Eleven Flash v2.5 eleven_flash_v2_5 compare $50.00 neural ✓ 32+ 75
+[truncated]
+The full dataset is published as JSON and Markdown. Agents and scripts should fetch directly:
+/costs.md · markdown view (this page)
+Telephony (number COGS + 10DLC fees): https://raw.githubusercontent.com/hail-hq/hail/main/costs/telephony.json
+SMS provider base rates: https://raw.githubusercontent.com/hail-hq/hail/main/costs/sms.json
+See this data applied: AI voice agent cost calculator · SMS length & segment calculator — free tools built on these numbers.

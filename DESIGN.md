@@ -9,7 +9,7 @@ Hacker News の記事を日次クロール→日本語翻訳→AI サマリー�
         ↓
 contents/YYYY-MM-DD/*.md (翻訳済み Markdown)
         ↓
-[GitHub Actions] AI サマリー (GitHub Models — 無料)
+[GitHub Actions] AI サマリー (OpenAI 互換 API — 無料枠)
         ↓
 summaries/YYYY-MM-DD.json
         ↓
@@ -47,17 +47,37 @@ summaries/YYYY-MM-DD.json
   - 各カテゴリは最大 1 回しか加算されない（複数キーワードがヒットしても重複加算なし）
 - すでに日本語翻訳済みの `.md` を読むだけなので追加クロール不要
 
-### 2. AI サマリー（GitHub Models — 無料）
+### 2. AI サマリー（OpenAI 互換 API — 無料枠）
 
-GitHub Models は `GITHUB_TOKEN` だけで使える OpenAI 互換 API。**料金なし**（レート制限あり）。
+> **2026-07-30**: GitHub Models は完全廃止された（`models.inference.ai.azure.com` は本文空の 404 を返す）。
+> サマリー生成は任意の **OpenAI 互換** プロバイダーへ移行し、環境変数で切り替え可能にした。
 
 | 項目 | 仕様 |
 |------|------|
-| エンドポイント | `https://models.inference.ai.azure.com` |
-| モデル | `gpt-4o-mini`（高速・無料・要約に十分） |
-| レート制限 | 15 req/min、150 req/day（個人アカウント） |
-| 1日の使用量 | 30 記事 = 30 リクエスト → 余裕あり |
-| 認証 | GitHub Actions 組み込みの `${{ secrets.GITHUB_TOKEN }}` |
+| エンドポイント | `SUMMARIZE_API_BASE`（既定: `https://generativelanguage.googleapis.com/v1beta/openai`） |
+| モデル | `SUMMARIZE_MODEL`（既定: `gemini-3.5-flash-lite`） |
+| 認証 | `SUMMARIZE_API_KEY`（リポジトリ Secret） |
+| 呼び出し間隔 | `-min-interval`（既定 4 秒 ≒ 15 req/min）で無料枠の RPM 制限に収める |
+| 1日の使用量 | 初回実行で 30 記事 × 2 = 60 リクエスト、以降は新規記事分のみ |
+
+`SUMMARIZE_API_BASE` / `SUMMARIZE_MODEL` を差し替えれば OpenAI・Groq・OpenRouter など
+他の OpenAI 互換プロバイダーにもそのまま切り替えられる。
+
+**既存サマリーの再利用（無料枠を守る仕組み）**
+
+このジョブは毎時同じ日付に対して実行されるため、`summaries/YYYY-MM-DD.json` を読み込み、
+`hn_id` が一致する記事の `title_ja` / `summary_ja` を再利用して API 呼び出しを省略する。
+順位・スコア・コメント数などのメタデータは毎回更新する。
+再利用しない場合は毎時 60 リクエスト（= 1日 1,440 リクエスト）が発生し、
+どの無料枠でも超過するため、この再利用が無料運用の前提となる。
+`-refresh` を付けると再利用せず全件を生成し直す。
+
+**失敗時の挙動**
+
+- 記事単位で失敗した場合はログに残してスキップし、成功分だけを保存する
+- 全記事が失敗した場合は既存の JSON を上書きせずエラー終了する（内容の消失を防ぐ）
+- HTTP ステータスを JSON パースより先に判定するため、本文が空のエラー応答でも
+  `unexpected end of JSON input` ではなく実際の HTTP エラーが表示される
 
 **サマリープロンプト（例）:**
 
@@ -162,7 +182,7 @@ Vercel のプロジェクト設定:
             └─ [summarize.yml] hn-digest.yml 完了をトリガーに起動
                  ├─ contents/2026-05-31/*.md を interest bonus 適用後の final_score でソート
                  ├─ 上位 30 件を選定
-                 ├─ GitHub Models API で各記事をサマリー
+                 ├─ OpenAI 互換 API で各記事をサマリー（既存分は再利用）
                  ├─ summaries/2026-05-31.json を生成
                  └─ commit & push → Vercel が自動ビルド → rss.xml 更新
 ```
@@ -184,7 +204,6 @@ on:
 
 permissions:
   contents: write
-  models: read   # GitHub Models へのアクセス
 
 jobs:
   summarize:
@@ -200,7 +219,9 @@ jobs:
         run: go build -o bin/summarize ./cmd/summarize
       - name: Generate summaries
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          SUMMARIZE_API_KEY: ${{ secrets.SUMMARIZE_API_KEY }}
+          SUMMARIZE_API_BASE: ${{ vars.SUMMARIZE_API_BASE }}
+          SUMMARIZE_MODEL: ${{ vars.SUMMARIZE_MODEL }}
         run: ./bin/summarize
       - name: Commit summaries
         run: |
@@ -218,8 +239,10 @@ jobs:
 2. YAML フロントマターから `score` と `title` を取得
 3. `title + ## Translation` 本文に対して interest bonus を計算し、`final_score` 降順でソート
 4. 上位 30 件の `## Translation` セクションを先頭 4000 文字まで抽出
-5. GitHub Models API (`gpt-4o-mini`) でサマリー生成（`max_tokens=1200`）
-6. `summaries/YYYY-MM-DD.json` に保存
+5. 既存の `summaries/YYYY-MM-DD.json` を読み、`hn_id` が一致する記事は生成済みの
+   `title_ja` / `summary_ja` を再利用（API 呼び出しをスキップ）
+6. 未生成の記事のみ OpenAI 互換 API でサマリー生成（`max_tokens=1200`）
+7. `summaries/YYYY-MM-DD.json` に保存
 
 ---
 
@@ -257,10 +280,10 @@ hn-digest/
 
 | 技術 | 理由 |
 |------|------|
-| GitHub Models (`gpt-4o-mini`) | `GITHUB_TOKEN` だけで無料利用可。サマリー程度なら品質十分 |
+| OpenAI 互換 API（既定: Gemini `gemini-3.5-flash-lite`） | 無料枠があり、要約用途には十分な品質。環境変数だけで他プロバイダーへ切替可能 |
 | Astro | 静的サイト生成が得意。`@astrojs/rss` で RSS 生成が簡単 |
 | Vercel | Astro との相性が良い。git push で自動デプロイ。無料プランで十分 |
-| Go (`cmd/summarize`) | クローラーと同じ言語で統一。標準ライブラリだけで GitHub Models API を叩ける |
+| Go (`cmd/summarize`) | クローラーと同じ言語で統一。標準ライブラリだけで OpenAI 互換 API を叩ける |
 | RSS 2.0 | 幅広い RSS リーダーで対応 |
 
 ---
@@ -270,7 +293,7 @@ hn-digest/
 | サービス | 料金 |
 |----------|------|
 | GitHub Actions | 無料（パブリックリポジトリ） |
-| GitHub Models API | 無料（`GITHUB_TOKEN` で利用、レート制限内） |
+| サマリー生成 API | 無料枠内（既存サマリーを再利用し、新規記事分のみ呼び出す） |
 | Vercel | 無料（Hobby プラン） |
 | 合計 | **$0** |
 

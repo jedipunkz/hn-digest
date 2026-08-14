@@ -8,7 +8,6 @@ on:
 
 permissions:
   contents: write
-  models: read
 
 jobs:
   summarize:
@@ -31,8 +30,18 @@ jobs:
 
       - name: Generate summaries
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: ./bin/summarize
+          # GitHub Models was retired on 2026-07-30, so summaries now use an
+          # OpenAI-compatible provider. Defaults target the Gemini API; override
+          # SUMMARIZE_API_BASE / SUMMARIZE_MODEL to switch providers.
+          SUMMARIZE_API_KEY: ${{ secrets.SUMMARIZE_API_KEY }}
+          SUMMARIZE_API_BASE: ${{ vars.SUMMARIZE_API_BASE }}
+          SUMMARIZE_MODEL: ${{ vars.SUMMARIZE_MODEL }}
+        run: |
+          if [[ -z "${SUMMARIZE_API_KEY}" ]]; then
+            echo "::error::SUMMARIZE_API_KEY secret is not set; cannot generate summaries."
+            exit 1
+          fi
+          ./bin/summarize
 
       - name: Commit and push summaries
         run: |

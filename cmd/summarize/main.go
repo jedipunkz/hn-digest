@@ -20,10 +20,19 @@ import (
 )
 
 const (
-	githubModelsEndpoint = "https://models.inference.ai.azure.com/chat/completions"
-	summaryModel         = "gpt-4o-mini"
-	topN                 = 30
-	maxTranslationChars  = 4000
+	// GitHub Models (https://models.inference.ai.azure.com) was fully retired on
+	// 2026-07-30, so the summariser now talks to any OpenAI-compatible chat
+	// completions API. The default targets the Gemini API's OpenAI-compatible
+	// endpoint, which has a free tier; override with SUMMARIZE_API_BASE /
+	// SUMMARIZE_MODEL to use OpenAI, Groq, OpenRouter, etc.
+	defaultAPIBase      = "https://generativelanguage.googleapis.com/v1beta/openai"
+	defaultModel        = "gemini-3.5-flash-lite"
+	topN                = 30
+	maxTranslationChars = 4000
+
+	// defaultMinInterval spaces out model calls so a burst stays inside the
+	// per-minute request limits that free tiers impose.
+	defaultMinInterval = 4 * time.Second
 )
 
 // Interest categories: each matched category contributes its bonus once.
@@ -133,13 +142,15 @@ func run(ctx context.Context, args []string) error {
 	outDir := fs.String("out", "summaries", "output directory for summary JSON files")
 	contentsDir := fs.String("contents", "contents", "base contents directory")
 	n := fs.Int("n", topN, "number of top articles to include")
+	refresh := fs.Bool("refresh", false, "regenerate summaries even if they already exist")
+	minInterval := fs.Duration("min-interval", defaultMinInterval, "minimum delay between model calls")
 	if err := fs.Parse(args); err != nil {
 		return err
 	}
 
-	token := os.Getenv("GITHUB_TOKEN")
-	if token == "" {
-		return errors.New("GITHUB_TOKEN is not set")
+	cfg, err := loadAPIConfig()
+	if err != nil {
+		return err
 	}
 
 	dayDir := filepath.Join(*contentsDir, *date)
@@ -164,43 +175,91 @@ func run(ctx context.Context, args []string) error {
 		articles = articles[:*n]
 	}
 
+	outPath := filepath.Join(*outDir, *date+".json")
+
+	// This job re-runs hourly over the same day, so previously generated
+	// summaries are reused instead of being paid for again. Without this the
+	// job burns len(articles)*2 model calls every hour for mostly identical work.
+	cached := map[int]summaryArticle{}
+	if !*refresh {
+		cached = loadExistingSummaries(outPath)
+	}
+
 	client := &http.Client{Timeout: 60 * time.Second}
 	results := make([]summaryArticle, 0, len(articles))
+	throttle := newThrottle(*minInterval)
+	var generated, reused, failed int
 
 	for i, art := range articles {
 		rank := i + 1
-		log.Printf("[%d/%d] final=%d hn=%d title=%s", rank, len(articles), art.finalScore, art.score, truncate(art.title, 60))
-		titleJA, err := callModel(ctx, client, token, titleMessages(art.title))
-		if err != nil {
-			return fmt.Errorf("translate title %q: %w", art.title, err)
-		}
-		titleJA = cleanTitle(titleJA)
-		if titleJA == "" {
-			titleJA = art.title
-		}
-		summary, err := callModel(ctx, client, token, summaryMessages(art.title, art.translation))
-		if err != nil {
-			return fmt.Errorf("summarize %q: %w", art.title, err)
-		}
-		results = append(results, summaryArticle{
+		entry := summaryArticle{
 			Rank:       rank,
 			HnID:       art.hnID,
 			Title:      art.title,
-			TitleJA:    titleJA,
 			HnURL:      art.hnURL,
 			SourceURL:  art.sourceURL,
 			Score:      art.score,
 			FinalScore: art.finalScore,
 			Comments:   art.comments,
 			PostedAt:   art.postedAt,
-			SummaryJA:  summary,
-		})
+		}
+
+		// Scores and ranks move between runs, so only the generated text is
+		// carried over from the cache; the metadata above is always refreshed.
+		if prev, ok := cached[art.hnID]; ok && prev.SummaryJA != "" {
+			entry.TitleJA = prev.TitleJA
+			entry.SummaryJA = prev.SummaryJA
+			if entry.TitleJA == "" {
+				entry.TitleJA = art.title
+			}
+			results = append(results, entry)
+			reused++
+			continue
+		}
+
+		log.Printf("[%d/%d] final=%d hn=%d title=%s", rank, len(articles), art.finalScore, art.score, truncate(art.title, 60))
+
+		throttle.wait(ctx)
+		titleJA, err := callModel(ctx, client, cfg, titleMessages(art.title))
+		if err != nil {
+			log.Printf("skip %q: translate title: %v", truncate(art.title, 60), err)
+			failed++
+			continue
+		}
+		titleJA = cleanTitle(titleJA)
+		if titleJA == "" {
+			titleJA = art.title
+		}
+
+		throttle.wait(ctx)
+		summary, err := callModel(ctx, client, cfg, summaryMessages(art.title, art.translation))
+		if err != nil {
+			log.Printf("skip %q: summarize: %v", truncate(art.title, 60), err)
+			failed++
+			continue
+		}
+
+		entry.TitleJA = titleJA
+		entry.SummaryJA = summary
+		results = append(results, entry)
+		generated++
+	}
+
+	log.Printf("generated=%d reused=%d failed=%d total=%d", generated, reused, failed, len(results))
+
+	// Never replace a good file with an empty one: if every article failed and
+	// nothing was reused, the provider is down and the existing file is better.
+	if len(results) == 0 {
+		if failed > 0 {
+			return fmt.Errorf("all %d articles failed; leaving %s unchanged", failed, outPath)
+		}
+		log.Println("No summaries produced.")
+		return nil
 	}
 
 	if err := os.MkdirAll(*outDir, 0o755); err != nil {
 		return err
 	}
-	outPath := filepath.Join(*outDir, *date+".json")
 	data, err := json.MarshalIndent(daySummary{
 		Date:        *date,
 		GeneratedAt: time.Now().UTC().Format(time.RFC3339),
@@ -214,6 +273,80 @@ func run(ctx context.Context, args []string) error {
 	}
 	log.Printf("Saved %d summaries to %s", len(results), outPath)
 	return nil
+}
+
+// apiConfig describes the OpenAI-compatible endpoint used for inference.
+type apiConfig struct {
+	endpoint string
+	key      string
+	model    string
+}
+
+func loadAPIConfig() (apiConfig, error) {
+	key := os.Getenv("SUMMARIZE_API_KEY")
+	if key == "" {
+		return apiConfig{}, errors.New("SUMMARIZE_API_KEY is not set (GitHub Models was retired on 2026-07-30; " +
+			"set an API key for an OpenAI-compatible provider)")
+	}
+	base := strings.TrimSuffix(firstNonEmpty(os.Getenv("SUMMARIZE_API_BASE"), defaultAPIBase), "/")
+	return apiConfig{
+		endpoint: base + "/chat/completions",
+		key:      key,
+		model:    firstNonEmpty(os.Getenv("SUMMARIZE_MODEL"), defaultModel),
+	}, nil
+}
+
+func firstNonEmpty(values ...string) string {
+	for _, v := range values {
+		if v != "" {
+			return v
+		}
+	}
+	return ""
+}
+
+// loadExistingSummaries reads already-generated summaries so they can be reused.
+// A missing or unreadable file simply means nothing is cached.
+func loadExistingSummaries(path string) map[int]summaryArticle {
+	out := map[int]summaryArticle{}
+	data, err := os.ReadFile(path)
+	if err != nil {
+		return out
+	}
+	var day daySummary
+	if err := json.Unmarshal(data, &day); err != nil {
+		log.Printf("ignoring unreadable %s: %v", path, err)
+		return out
+	}
+	for _, a := range day.Articles {
+		out[a.HnID] = a
+	}
+	return out
+}
+
+// throttle enforces a minimum delay between successive model calls.
+type throttle struct {
+	interval time.Duration
+	last     time.Time
+}
+
+func newThrottle(interval time.Duration) *throttle {
+	return &throttle{interval: interval}
+}
+
+func (t *throttle) wait(ctx context.Context) {
+	if t.interval <= 0 {
+		return
+	}
+	if !t.last.IsZero() {
+		if d := t.interval - time.Since(t.last); d > 0 {
+			select {
+			case <-time.After(d):
+			case <-ctx.Done():
+			}
+		}
+	}
+	t.last = time.Now()
 }
 
 func loadArticles(dir string) ([]parsedArticle, error) {
@@ -327,10 +460,10 @@ func titleMessages(title string) []message {
 	}
 }
 
-func callModel(ctx context.Context, client *http.Client, token string, messages []message) (string, error) {
+func callModel(ctx context.Context, client *http.Client, cfg apiConfig, messages []message) (string, error) {
 	const maxAttempts = 4
 	for attempt := 0; attempt < maxAttempts; attempt++ {
-		content, retryAfter, err := callModelOnce(ctx, client, token, messages)
+		content, retryAfter, err := callModelOnce(ctx, client, cfg, messages)
 		if err == nil {
 			return content, nil
 		}
@@ -347,9 +480,9 @@ func callModel(ctx context.Context, client *http.Client, token string, messages 
 	panic("unreachable")
 }
 
-func callModelOnce(ctx context.Context, client *http.Client, token string, messages []message) (string, time.Duration, error) {
+func callModelOnce(ctx context.Context, client *http.Client, cfg apiConfig, messages []message) (string, time.Duration, error) {
 	reqBody := chatRequest{
-		Model:       summaryModel,
+		Model:       cfg.model,
 		Messages:    messages,
 		MaxTokens:   1200,
 		Temperature: 0.3,
@@ -360,12 +493,12 @@ func callModelOnce(ctx context.Context, client *http.Client, token string, messa
 		return "", 0, err
 	}
 
-	req, err := http.NewRequestWithContext(ctx, http.MethodPost, githubModelsEndpoint, bytes.NewReader(body))
+	req, err := http.NewRequestWithContext(ctx, http.MethodPost, cfg.endpoint, bytes.NewReader(body))
 	if err != nil {
 		return "", 0, err
 	}
 	req.Header.Set("Content-Type", "application/json")
-	req.Header.Set("Authorization", "Bearer "+token)
+	req.Header.Set("Authorization", "Bearer "+cfg.key)
 
 	resp, err := client.Do(req)
 	if err != nil {
@@ -378,10 +511,12 @@ func callModelOnce(ctx context.Context, client *http.Client, token string, messa
 		return "", 0, err
 	}
 
+	// The status code is inspected before the body is parsed: a retired or
+	// misconfigured endpoint answers with an empty body, and parsing first turns
+	// that into a misleading "unexpected end of JSON input" instead of the
+	// actual HTTP error.
 	var chatResp chatResponse
-	if err := json.Unmarshal(data, &chatResp); err != nil {
-		return "", 0, fmt.Errorf("parse response: %w", err)
-	}
+	parseErr := json.Unmarshal(data, &chatResp)
 
 	if resp.StatusCode == http.StatusTooManyRequests {
 		retryAfter := 65 * time.Second
@@ -390,24 +525,31 @@ func callModelOnce(ctx context.Context, client *http.Client, token string, messa
 				retryAfter = time.Duration(secs+5) * time.Second
 			}
 		}
-		msg := resp.Status
-		if chatResp.Error != nil {
-			msg = chatResp.Error.Message
-		}
-		return "", retryAfter, fmt.Errorf("API %s: %s", resp.Status, msg)
+		return "", retryAfter, fmt.Errorf("API %s: %s", resp.Status, apiErrorMessage(chatResp, data, resp.Status))
 	}
 
 	if resp.StatusCode < 200 || resp.StatusCode >= 300 {
-		msg := resp.Status
-		if chatResp.Error != nil {
-			msg = chatResp.Error.Message
-		}
-		return "", 0, fmt.Errorf("API %s: %s", resp.Status, msg)
+		return "", 0, fmt.Errorf("API %s: %s", resp.Status, apiErrorMessage(chatResp, data, resp.Status))
+	}
+	if parseErr != nil {
+		return "", 0, fmt.Errorf("parse response: %w", parseErr)
 	}
 	if len(chatResp.Choices) == 0 {
 		return "", 0, errors.New("no choices in response")
 	}
 	return strings.TrimSpace(chatResp.Choices[0].Message.Content), 0, nil
+}
+
+// apiErrorMessage prefers the provider's structured error, falling back to the
+// raw body so empty or non-JSON responses still produce a usable message.
+func apiErrorMessage(resp chatResponse, body []byte, status string) string {
+	if resp.Error != nil && resp.Error.Message != "" {
+		return resp.Error.Message
+	}
+	if snippet := strings.TrimSpace(string(body)); snippet != "" {
+		return truncate(snippet, 200)
+	}
+	return status + " (empty response body)"
 }
 
 func frontMatterInt(text, key string) int {

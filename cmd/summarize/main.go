@@ -72,6 +72,7 @@ type parsedArticle struct {
 	title       string
 	hnURL       string
 	sourceURL   string
+	imageURL    string
 	score       int
 	finalScore  int
 	comments    int
@@ -87,6 +88,7 @@ type summaryArticle struct {
 	TitleJA    string `json:"title_ja"`
 	HnURL      string `json:"hn_url"`
 	SourceURL  string `json:"source_url"`
+	ImageURL   string `json:"image_url,omitempty"`
 	Score      int    `json:"score"`
 	FinalScore int    `json:"final_score"`
 	Comments   int    `json:"comments"`
@@ -160,6 +162,7 @@ func run(ctx context.Context, args []string) error {
 			TitleJA:    titleJA,
 			HnURL:      art.hnURL,
 			SourceURL:  art.sourceURL,
+			ImageURL:   art.imageURL,
 			Score:      art.score,
 			FinalScore: art.finalScore,
 			Comments:   art.comments,
@@ -216,6 +219,7 @@ func loadArticles(dir string) ([]parsedArticle, error) {
 			title:       title,
 			hnURL:       frontmatter.String(text, "hn_url"),
 			sourceURL:   frontmatter.String(text, "source"),
+			imageURL:    frontmatter.String(text, "image"),
 			score:       score,
 			finalScore:  int(float64(score) * multiplier),
 			comments:    frontmatter.Int(text, "comments"),

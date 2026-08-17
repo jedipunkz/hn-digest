@@ -13,6 +13,21 @@ The GitHub Actions workflow runs once a day and can also be started manually
 with workflow dispatch. No API key is required. Set the repository variable
 `HN_DIGEST_TITLE_KEYWORDS` to override the default title filter.
 
+## Summaries
+
+`cmd/summarize` picks the top 30 stories of the day by `final_score` and writes
+`summaries/YYYY-MM-DD.json`, which feeds the RSS feed. Titles are translated
+with Google Translate; `summary_ja` is the lead of the translated article body,
+cut at a sentence boundary.
+
+This used to be an LLM summary via GitHub Models, but that service was retired
+(`410 github_models_retirement_brownout`), so summarising is now extractive and
+needs no API key at all. See DESIGN.md for the tradeoff.
+
+```sh
+go run ./cmd/summarize --date 2026-08-17 --out /tmp/summaries --n 5
+```
+
 ## Protected RSS feed
 
 `/rss.xml` is gated by `middleware.js` (Vercel Routing Middleware). It returns

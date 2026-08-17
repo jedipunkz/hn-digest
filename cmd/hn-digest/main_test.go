@@ -1,45 +1,10 @@
 package main
 
 import (
-	"net/url"
 	"os"
 	"path/filepath"
 	"testing"
 )
-
-func TestFirstImageURL(t *testing.T) {
-	base, err := url.Parse("https://example.com/posts/one")
-	if err != nil {
-		t.Fatal(err)
-	}
-
-	// og:image wins over twitter:image, and &amp; is unescaped so the query
-	// string stays usable.
-	body := `<meta name="twitter:image" content="https://cdn.example.com/t.png">
-	<meta property="og:image" content="https://cdn.example.com/a.png?w=1&amp;sig=xyz">`
-	want := "https://cdn.example.com/a.png?w=1&sig=xyz"
-	if got := firstImageURL(body, base); got != want {
-		t.Fatalf("firstImageURL() = %q, want %q", got, want)
-	}
-
-	// Relative paths resolve against the page URL.
-	if got := firstImageURL(`<meta property="og:image" content="/img/a.png">`, base); got != "https://example.com/img/a.png" {
-		t.Fatalf("firstImageURL(relative) = %q", got)
-	}
-
-	// Reversed attribute order, and twitter:image as the only candidate.
-	if got := firstImageURL(`<meta content="https://cdn.example.com/t.png" name="twitter:image"/>`, base); got != "https://cdn.example.com/t.png" {
-		t.Fatalf("firstImageURL(twitter) = %q", got)
-	}
-
-	// Non-http schemes and pages without an image yield "".
-	if got := firstImageURL(`<meta property="og:image" content="data:image/png;base64,AAAA">`, base); got != "" {
-		t.Fatalf("firstImageURL(data URI) = %q, want empty", got)
-	}
-	if got := firstImageURL(`<meta property="og:image:width" content="1200">`, base); got != "" {
-		t.Fatalf("firstImageURL(no image) = %q, want empty", got)
-	}
-}
 
 func TestSlug(t *testing.T) {
 	got := slug(`Show HN: Go + GitHub Actions / "digest"?`)

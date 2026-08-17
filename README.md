@@ -18,7 +18,9 @@ with workflow dispatch. No API key is required. Set the repository variable
 `cmd/summarize` picks the top 30 stories of the day by `final_score` and writes
 `summaries/YYYY-MM-DD.json`, which feeds the RSS feed. Titles are translated
 with Google Translate; `summary_ja` is the lead of the translated article body,
-cut at a sentence boundary.
+cut at a sentence boundary. `image_url` carries the linked page's `og:image` (or
+`twitter:image`) when it declares one, so RSS items ship with a thumbnail — no
+extra request, it comes from the HTML the crawler already fetched.
 
 This used to be an LLM summary via GitHub Models, but that service was retired
 (`410 github_models_retirement_brownout`), so summarising is now extractive and

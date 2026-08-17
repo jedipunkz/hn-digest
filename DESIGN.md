@@ -25,7 +25,7 @@ summaries/YYYY-MM-DD.json
 | クロール | Go ツール (`cmd/hn-digest`) が Algolia API で 24h 以内の記事を取得 |
 | 翻訳 | Google Translate (非公式 API、無料) で日本語化 |
 | 保存先 | `contents/YYYY-MM-DD/*.md` (1日あたり約 150〜200 記事) |
-| フロントマター | `hn_id`, `score`, `title`, `hn_url`, `posted_at` など |
+| フロントマター | `hn_id`, `score`, `title`, `hn_url`, `posted_at`, `image` など |
 | 本文 | `## Translation` に日本語訳、`## Original Extract` に原文 |
 | CI | GitHub Actions (`hn-digest.yml`) が毎日 UTC 0:00 に実行 |
 
@@ -95,6 +95,7 @@ summaries/YYYY-MM-DD.json
       "title_ja": "Show HN: AI-org – AI で動く org-mode",
       "hn_url": "https://news.ycombinator.com/item?id=48334157",
       "source_url": "https://ai-org.net/",
+      "image_url": "https://ai-org.net/og.png",
       "score": 312,
       "comments": 87,
       "posted_at": "2026-05-30T08:59:47Z",
@@ -104,7 +105,31 @@ summaries/YYYY-MM-DD.json
 }
 ```
 
-### 4. RSS フィード設計
+### 4. 記事画像（og:image）
+
+リンク先サイトの HTML から `og:image`（無ければ `twitter:image`）を取り出し、RSS のアイテム画像として配信する。
+追加のリクエストは発生しない（本文取得のために既に HTML を GET しているので、そのレスポンスから抽出するだけ）。
+
+| 項目 | 仕様 |
+|------|------|
+| 優先順 | `og:image:secure_url` → `og:image` → `twitter:image` |
+| 相対 URL | リダイレクト後の最終 URL（`resp.Request.URL`）を基準に絶対 URL 化 |
+| 除外 | `http` / `https` 以外のスキーム（`data:` など）とホスト無しの URL |
+| 保存先 | フロントマターの `image` → `summaries/*.json` の `image_url` |
+
+`firstMeta` は値を `htmlToText` に通して 300 文字で切るため URL には使えない（CDN の署名付き URL が壊れる）。
+画像 URL 専用に `firstImageURL` を用意し、HTML エンティティのアンエスケープのみ行う。
+
+取得できない記事もある（Reuters / Bloomberg など本文取得自体が 401 / 403 になるサイト）。
+その場合 `image_url` は省略され、RSS は従来通りテキストのみのアイテムになる。
+
+RSS では 3 通りの方法で同じ画像を渡し、リーダー側の対応差を吸収する:
+
+1. `<media:content>` / `<media:thumbnail>`（Media RSS）— Inoreader・Feedly のサムネイル用
+2. `<content:encoded>` の `<img>` — HTML を描画するリーダーでの本文内表示用
+3. `<description>` は従来通りプレーンテキストのまま — 上記に未対応のリーダーでも壊れない
+
+### 5. RSS フィード設計
 
 | 項目 | 仕様 |
 |------|------|
@@ -116,10 +141,11 @@ summaries/YYYY-MM-DD.json
 | `<link>` | HN のディスカッション URL |
 | `<pubDate>` | `posted_at` |
 | `<category>` | `Hacker News` |
+| 画像 | `<media:content>` / `<media:thumbnail>`（Media RSS）と `<content:encoded>` の `<img>` |
 
 RSS アイテムは記事単位（1日まとめではなく個別）にする方が RSS リーダーで読みやすい。
 
-### 5. Astro サイト構成
+### 6. Astro サイト構成
 
 ```
 site/
@@ -140,7 +166,7 @@ Astro のビルド時に `summaries/*.json` を読み込んで静的 RSS を生�
 - `output: 'static'`（SSG）
 - `@astrojs/rss` パッケージで RSS 生成
 
-### 6. Vercel デプロイ設定
+### 7. Vercel デプロイ設定
 
 Vercel のプロジェクト設定:
 
@@ -218,7 +244,7 @@ jobs:
 2. YAML フロントマターから `score` と `title` を取得
 3. `title + ## Translation` 本文に対して interest bonus を計算し、`final_score` 降順でソート
 4. 上位 30 件の `## Translation` セクションを先頭 4000 文字まで抽出
-5. Google Translate でタイトルを日本語化（`title_ja`）
+5. Google Translate でタイトルを日本語化（`title_ja`）、フロントマターの `image` を `image_url` に引き継ぐ
 6. `## Translation` 本文の冒頭 900 文字を句点で切って `summary_ja` を生成
 7. `summaries/YYYY-MM-DD.json` に保存
 

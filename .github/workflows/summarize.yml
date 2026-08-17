@@ -5,6 +5,11 @@ on:
     workflows: ["HN digest"]
     types: [completed]
   workflow_dispatch:
+    inputs:
+      date:
+        description: '対象日 (YYYY-MM-DD)。空なら当日。過去日を指定すると画像をバックフィルできる'
+        required: false
+        type: string
 
 permissions:
   contents: write
@@ -32,18 +37,29 @@ jobs:
         run: go build -o bin/summarize ./cmd/summarize
 
       - name: Generate summaries
-        run: ./bin/summarize
+        env:
+          DATE: ${{ inputs.date }}
+        run: |
+          set -euo pipefail
+          if [[ -n "$DATE" ]]; then
+            ./bin/summarize --date "$DATE"
+          else
+            ./bin/summarize
+          fi
 
       - name: Commit and push summaries
         run: |
           set -euo pipefail
-          if [[ -z "$(git status --porcelain -- summaries)" ]]; then
+          # contents/ is included because summarize backfills the image front
+          # matter of older articles; without committing that, every run would
+          # re-fetch the same pages.
+          if [[ -z "$(git status --porcelain -- summaries contents)" ]]; then
             echo "No summary changes to commit."
             exit 0
           fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add summaries/
+          git add summaries/ contents/
           git commit -m "chore: update summaries"
           git pull --rebase origin main || {
             echo "::warning::Could not rebase; skipping push."

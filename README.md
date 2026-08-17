@@ -19,8 +19,13 @@ with workflow dispatch. No API key is required. Set the repository variable
 `summaries/YYYY-MM-DD.json`, which feeds the RSS feed. Titles are translated
 with Google Translate; `summary_ja` is the lead of the translated article body,
 cut at a sentence boundary. `image_url` carries the linked page's `og:image` (or
-`twitter:image`) when it declares one, so RSS items ship with a thumbnail — no
-extra request, it comes from the HTML the crawler already fetched.
+`twitter:image`) when it declares one, so RSS items ship with a thumbnail.
+
+Articles crawled before image extraction existed have no image in their front
+matter, and the crawler never revisits them, so `cmd/summarize` backfills those:
+it fetches the page once, records the result in the front matter (`image: ""`
+meaning "checked, none"), and never fetches it again. Pass `--date` (or the
+workflow's `date` input) to backfill an earlier day.
 
 This used to be an LLM summary via GitHub Models, but that service was retired
 (`410 github_models_retirement_brownout`), so summarising is now extractive and

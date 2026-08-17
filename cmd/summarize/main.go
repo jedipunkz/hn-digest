@@ -17,6 +17,7 @@ import (
 
 	"github.com/jedipunkz/hn-digest/internal/frontmatter"
 	"github.com/jedipunkz/hn-digest/internal/gtranslate"
+	"github.com/jedipunkz/hn-digest/internal/ogimage"
 )
 
 const (
@@ -68,16 +69,20 @@ var interests = []interest{
 
 // parsedArticle holds data extracted from a markdown file.
 type parsedArticle struct {
-	hnID        int
-	title       string
-	hnURL       string
-	sourceURL   string
-	imageURL    string
-	score       int
-	finalScore  int
-	comments    int
-	postedAt    string
-	translation string
+	path      string
+	hnID      int
+	title     string
+	hnURL     string
+	sourceURL string
+	imageURL  string
+	// imageChecked distinguishes `image: ""` (the crawler looked and the page
+	// declares none) from a missing key (crawled before image extraction existed).
+	imageChecked bool
+	score        int
+	finalScore   int
+	comments     int
+	postedAt     string
+	translation  string
 }
 
 // summaryArticle is the JSON-serialisable output per article.
@@ -141,6 +146,7 @@ func run(ctx context.Context, args []string) error {
 	}
 
 	translator := &gtranslate.Translator{Client: &http.Client{Timeout: 60 * time.Second}}
+	imageClient := &http.Client{Timeout: 20 * time.Second}
 	results := make([]summaryArticle, 0, len(articles))
 
 	for i, art := range articles {
@@ -153,6 +159,9 @@ func run(ctx context.Context, args []string) error {
 			log.Printf("warning: translate title %q: %v", art.title, err)
 		} else if cleaned := cleanTitle(translated); cleaned != "" {
 			titleJA = cleaned
+		}
+		if !art.imageChecked && art.sourceURL != "" {
+			art.imageURL = backfillImage(ctx, imageClient, art)
 		}
 		summary := leadSummary(art.translation, summaryChars)
 		results = append(results, summaryArticle{
@@ -200,7 +209,8 @@ func loadArticles(dir string) ([]parsedArticle, error) {
 		if entry.IsDir() || filepath.Ext(entry.Name()) != ".md" {
 			continue
 		}
-		data, err := os.ReadFile(filepath.Join(dir, entry.Name()))
+		path := filepath.Join(dir, entry.Name())
+		data, err := os.ReadFile(path)
 		if err != nil {
 			log.Printf("read %s: %v", entry.Name(), err)
 			continue
@@ -215,19 +225,86 @@ func loadArticles(dir string) ([]parsedArticle, error) {
 		translation := extractTranslation(text)
 		multiplier := interestMultiplier(title, translation)
 		articles = append(articles, parsedArticle{
-			hnID:        hnID,
-			title:       title,
-			hnURL:       frontmatter.String(text, "hn_url"),
-			sourceURL:   frontmatter.String(text, "source"),
-			imageURL:    frontmatter.String(text, "image"),
-			score:       score,
-			finalScore:  int(float64(score) * multiplier),
-			comments:    frontmatter.Int(text, "comments"),
-			postedAt:    frontmatter.String(text, "posted_at"),
-			translation: translation,
+			path:         path,
+			hnID:         hnID,
+			title:        title,
+			hnURL:        frontmatter.String(text, "hn_url"),
+			sourceURL:    frontmatter.String(text, "source"),
+			imageURL:     frontmatter.String(text, "image"),
+			imageChecked: frontmatter.Has(text, "image"),
+			score:        score,
+			finalScore:   int(float64(score) * multiplier),
+			comments:     frontmatter.Int(text, "comments"),
+			postedAt:     frontmatter.String(text, "posted_at"),
+			translation:  translation,
 		})
 	}
 	return articles, nil
+}
+
+// backfillImage fetches the preview image for an article that was crawled
+// before image extraction existed, and records the result in the markdown front
+// matter so the page is fetched once per article rather than once per run.
+//
+// Without this, the feed would only ever show images on stories crawled after
+// the feature shipped — the crawler skips stories already in contents/, so it
+// never revisits them.
+func backfillImage(ctx context.Context, client *http.Client, art parsedArticle) string {
+	imageURL, err := ogimage.Fetch(ctx, client, art.sourceURL)
+	if err != nil {
+		// Transient (timeout, 403, ...): leave the key absent so a later run
+		// retries instead of recording "no image" forever.
+		log.Printf("warning: fetch image for %s: %v", art.sourceURL, err)
+		return ""
+	}
+	if err := persistImage(art.path, imageURL); err != nil {
+		log.Printf("warning: record image for %s: %v", art.path, err)
+	}
+	return imageURL
+}
+
+func persistImage(path, imageURL string) error {
+	data, err := os.ReadFile(path)
+	if err != nil {
+		return err
+	}
+	updated, ok := withImage(string(data), imageURL)
+	if !ok {
+		return fmt.Errorf("no front matter in %s", path)
+	}
+	return os.WriteFile(path, []byte(updated), 0o644)
+}
+
+var (
+	imageLineRe        = regexp.MustCompile(`(?m)^image:.*$`)
+	articleTitleLineRe = regexp.MustCompile(`(?m)^article_title:.*$`)
+)
+
+// withImage sets the front matter image key, matching how cmd/hn-digest writes
+// it (%q-quoted). Edits stay inside the front matter block: the article body can
+// contain a line starting with "image:" too.
+func withImage(text, imageURL string) (string, bool) {
+	const closing = "\n---\n"
+	if !strings.HasPrefix(text, "---\n") {
+		return text, false
+	}
+	end := strings.Index(text, closing)
+	if end < 0 {
+		return text, false
+	}
+	head, rest := text[:end], text[end:]
+	line := fmt.Sprintf("image: %q", imageURL)
+	switch {
+	case imageLineRe.MatchString(head):
+		head = imageLineRe.ReplaceAllLiteralString(head, line)
+	case articleTitleLineRe.MatchString(head):
+		// Keep the crawler's field order for files written before `image` existed.
+		loc := articleTitleLineRe.FindStringIndex(head)
+		head = head[:loc[1]] + "\n" + line + head[loc[1]:]
+	default:
+		head += "\n" + line
+	}
+	return head + rest, true
 }
 
 var translationRe = regexp.MustCompile(`(?s)## Translation\n\n(.*?)(?:\n## |\z)`)

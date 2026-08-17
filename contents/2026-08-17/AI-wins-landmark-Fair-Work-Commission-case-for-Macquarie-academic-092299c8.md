@@ -3,6 +3,7 @@ source: "https://www.afr.com/work-and-careers/workplace/ai-wins-landmark-fair-wo
 hn_url: "https://news.ycombinator.com/item?id=49326817"
 title: "AI wins landmark Fair Work Commission case for Macquarie academic"
 article_title: "Macquarie University academic Greg Baker uses AI to win landmark Fair Work Commission case against employer"
+image: "https://static.ffx.io/images/$zoom_0.2383%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_153%2C$y_329/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/1cc4740bad3cd856f7456df3cbdd0344a69761de"
 author: "solresol"
 captured_at: "2026-08-17T05:26:39Z"
 capture_tool: "hn-digest"

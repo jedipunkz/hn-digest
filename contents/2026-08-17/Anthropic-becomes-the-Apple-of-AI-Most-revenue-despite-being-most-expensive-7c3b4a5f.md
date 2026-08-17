@@ -3,6 +3,7 @@ source: "https://www.techradar.com/pro/anthropic-becomes-the-apple-of-ai-as-it-g
 hn_url: "https://news.ycombinator.com/item?id=49329003"
 title: "Anthropic becomes the 'Apple of AI': Most revenue despite being most expensive"
 article_title: "Anthropic is the 'Apple of AI': high prices, lower volume, maximum revenue | TechRadar"
+image: "https://cdn.mos.cms.futurecdn.net/scxFkyfYSQbrtGvqrmFqgU-2560-80.jpg"
 author: "TMWNN"
 captured_at: "2026-08-17T11:17:11Z"
 capture_tool: "hn-digest"

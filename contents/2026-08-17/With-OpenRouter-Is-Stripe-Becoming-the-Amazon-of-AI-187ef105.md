@@ -3,6 +3,7 @@ source: "https://github.com/getlago/lago/wiki/With-OpenRouter,-is-Stripe-becomin
 hn_url: "https://news.ycombinator.com/item?id=49324994"
 title: "With OpenRouter, Is Stripe Becoming the Amazon of AI"
 article_title: "With OpenRouter, is Stripe becoming the Amazon of AI · getlago/lago Wiki · GitHub"
+image: "https://opengraph.githubassets.com/c65302f82071a26becdd7e0fb33d82f92727f64acb5a5c0f5d2f2d2be51e5111/getlago/lago"
 author: "AnhTho_FR"
 captured_at: "2026-08-17T00:39:16Z"
 capture_tool: "hn-digest"

@@ -3,6 +3,7 @@ source: "https://gnu.support/large-language-models-llm/The-LLM-Freedom-Manifesto
 hn_url: "https://news.ycombinator.com/item?id=49327121"
 title: "The LLM Freedom Manifesto: Open-Weight Models and User Responsibility"
 article_title: "The LLM Freedom Manifesto: Open-Weight Models and User Responsibility"
+image: ""
 author: "rcdwealth"
 captured_at: "2026-08-17T06:33:56Z"
 capture_tool: "hn-digest"

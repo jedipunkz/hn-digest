@@ -3,6 +3,7 @@ source: "https://www.theguardian.com/australia-news/2026/aug/17/australia-social
 hn_url: "https://news.ycombinator.com/item?id=49327382"
 title: "Report supporting Australia's teen social media ban appears to contain AI"
 article_title: "Report supporting Australia’s teen social media ban appears to contain AI hallucinations, Senate hears | Social media ban | The Guardian"
+image: "https://i.guim.co.uk/img/media/428083c3e499e85ef5be906b41a991f175fc77bf/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=90046472c1c18eef04641123ff96780a"
 author: "sbulaev"
 captured_at: "2026-08-17T07:43:44Z"
 capture_tool: "hn-digest"

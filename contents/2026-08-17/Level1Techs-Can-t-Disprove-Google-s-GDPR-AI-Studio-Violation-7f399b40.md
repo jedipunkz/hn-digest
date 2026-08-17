@@ -3,6 +3,7 @@ source: "https://forum.level1techs.com/t/google-illegally-retains-customer-data-
 hn_url: "https://news.ycombinator.com/item?id=49326185"
 title: "Level1Techs Can't Disprove Google's GDPR AI Studio Violation"
 article_title: "Google illegally retains customer data, and I am taking legal action against them - Thoughts on AI - Level1Techs Forums"
+image: "https://level1techs.us-east-1.linodeobjects.com/optimized/4X/f/c/6/fc6496cce1b5877bffe6e9ecc9979a0d8b3af8da_2_1024x576.jpeg"
 author: "Bitu79"
 captured_at: "2026-08-17T03:40:48Z"
 capture_tool: "hn-digest"

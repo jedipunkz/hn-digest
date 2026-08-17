@@ -13,6 +13,7 @@ export interface Article {
   title_ja?: string;
   hn_url: string;
   source_url: string;
+  image_url?: string;
   score: number;
   final_score: number;
   comments: number;

@@ -1,29 +1,31 @@
 package main
 
 import (
-	"bytes"
 	"context"
 	"encoding/json"
-	"errors"
 	"flag"
 	"fmt"
-	"io"
 	"log"
 	"net/http"
 	"os"
 	"path/filepath"
 	"regexp"
 	"sort"
-	"strconv"
 	"strings"
 	"time"
+	"unicode/utf8"
+
+	"github.com/jedipunkz/hn-digest/internal/frontmatter"
+	"github.com/jedipunkz/hn-digest/internal/gtranslate"
 )
 
 const (
-	githubModelsEndpoint = "https://models.inference.ai.azure.com/chat/completions"
-	summaryModel         = "gpt-4o-mini"
-	topN                 = 30
-	maxTranslationChars  = 4000
+	topN                = 30
+	maxTranslationChars = 4000
+	// summaryChars caps the extractive summary. GitHub Models was retired
+	// (410 github_models_retirement_brownout), so there is no free LLM to
+	// abstract the article with; the lead of the Japanese translation stands in.
+	summaryChars = 900
 )
 
 // Interest categories: each matched category contributes its bonus once.
@@ -98,29 +100,6 @@ type daySummary struct {
 	Articles    []summaryArticle `json:"articles"`
 }
 
-type chatRequest struct {
-	Model       string    `json:"model"`
-	Messages    []message `json:"messages"`
-	MaxTokens   int       `json:"max_tokens"`
-	Temperature float64   `json:"temperature"`
-}
-
-type message struct {
-	Role    string `json:"role"`
-	Content string `json:"content"`
-}
-
-type chatResponse struct {
-	Choices []struct {
-		Message struct {
-			Content string `json:"content"`
-		} `json:"message"`
-	} `json:"choices"`
-	Error *struct {
-		Message string `json:"message"`
-	} `json:"error,omitempty"`
-}
-
 func main() {
 	if err := run(context.Background(), os.Args[1:]); err != nil {
 		log.Fatal(err)
@@ -135,11 +114,6 @@ func run(ctx context.Context, args []string) error {
 	n := fs.Int("n", topN, "number of top articles to include")
 	if err := fs.Parse(args); err != nil {
 		return err
-	}
-
-	token := os.Getenv("GITHUB_TOKEN")
-	if token == "" {
-		return errors.New("GITHUB_TOKEN is not set")
 	}
 
 	dayDir := filepath.Join(*contentsDir, *date)
@@ -164,24 +138,21 @@ func run(ctx context.Context, args []string) error {
 		articles = articles[:*n]
 	}
 
-	client := &http.Client{Timeout: 60 * time.Second}
+	translator := &gtranslate.Translator{Client: &http.Client{Timeout: 60 * time.Second}}
 	results := make([]summaryArticle, 0, len(articles))
 
 	for i, art := range articles {
 		rank := i + 1
 		log.Printf("[%d/%d] final=%d hn=%d title=%s", rank, len(articles), art.finalScore, art.score, truncate(art.title, 60))
-		titleJA, err := callModel(ctx, client, token, titleMessages(art.title))
-		if err != nil {
-			return fmt.Errorf("translate title %q: %w", art.title, err)
+		// A failed title translation must not drop the article: fall back to the
+		// original English title, exactly as summaries fall back to the lead.
+		titleJA := art.title
+		if translated, err := translator.Translate(ctx, art.title); err != nil {
+			log.Printf("warning: translate title %q: %v", art.title, err)
+		} else if cleaned := cleanTitle(translated); cleaned != "" {
+			titleJA = cleaned
 		}
-		titleJA = cleanTitle(titleJA)
-		if titleJA == "" {
-			titleJA = art.title
-		}
-		summary, err := callModel(ctx, client, token, summaryMessages(art.title, art.translation))
-		if err != nil {
-			return fmt.Errorf("summarize %q: %w", art.title, err)
-		}
+		summary := leadSummary(art.translation, summaryChars)
 		results = append(results, summaryArticle{
 			Rank:       rank,
 			HnID:       art.hnID,
@@ -232,23 +203,23 @@ func loadArticles(dir string) ([]parsedArticle, error) {
 			continue
 		}
 		text := string(data)
-		hnID := frontMatterInt(text, "hn_id")
-		score := frontMatterInt(text, "score")
+		hnID := frontmatter.Int(text, "hn_id")
+		score := frontmatter.Int(text, "score")
 		if hnID == 0 || score == 0 {
 			continue
 		}
-		title := frontMatterString(text, "title")
+		title := frontmatter.String(text, "title")
 		translation := extractTranslation(text)
 		multiplier := interestMultiplier(title, translation)
 		articles = append(articles, parsedArticle{
 			hnID:        hnID,
 			title:       title,
-			hnURL:       frontMatterString(text, "hn_url"),
-			sourceURL:   frontMatterString(text, "source"),
+			hnURL:       frontmatter.String(text, "hn_url"),
+			sourceURL:   frontmatter.String(text, "source"),
 			score:       score,
 			finalScore:  int(float64(score) * multiplier),
-			comments:    frontMatterInt(text, "comments"),
-			postedAt:    frontMatterString(text, "posted_at"),
+			comments:    frontmatter.Int(text, "comments"),
+			postedAt:    frontmatter.String(text, "posted_at"),
 			translation: translation,
 		})
 	}
@@ -284,151 +255,35 @@ func interestMultiplier(title, translation string) float64 {
 	return multiplier
 }
 
-// summaryMessages builds the chat messages for summarising an article.
-func summaryMessages(title, translation string) []message {
-	return []message{
-		{
-			Role:    "system",
-			Content: "あなたは技術ニュースの要約者です。Hacker Newsの記事を日本語で詳しく要約してください。",
-		},
-		{
-			Role: "user",
-			Content: fmt.Sprintf(
-				"以下のHacker News記事を日本語で詳しく要約してください。\n"+
-					"以下の点を必ず含めて、600〜900文字程度（6〜10文）で記述してください。\n"+
-					"- 記事の主題と背景\n"+
-					"- 技術的な要点や仕組み、利用されている技術スタック\n"+
-					"- 著者の主張や結論\n"+
-					"- HNコミュニティで注目されている理由や論点\n\n"+
-					"タイトル: %s\n\n本文:\n%s",
-				title, translation,
-			),
-		},
-	}
-}
-
-// titleMessages builds the chat messages for translating an article title.
-func titleMessages(title string) []message {
-	return []message{
-		{
-			Role:    "system",
-			Content: "あなたは技術ニュースの翻訳者です。Hacker Newsの記事タイトルを自然な日本語に翻訳してください。",
-		},
-		{
-			Role: "user",
-			Content: fmt.Sprintf(
-				"以下のHacker News記事のタイトルを自然な日本語に翻訳してください。\n"+
-					"訳文のみを1行で出力し、引用符や説明、前置きは付けないでください。\n"+
-					"製品名・固有名詞・技術用語はそのまま残して構いません。\n\n"+
-					"タイトル: %s",
-				title,
-			),
-		},
-	}
-}
-
-func callModel(ctx context.Context, client *http.Client, token string, messages []message) (string, error) {
-	const maxAttempts = 4
-	for attempt := 0; attempt < maxAttempts; attempt++ {
-		content, retryAfter, err := callModelOnce(ctx, client, token, messages)
-		if err == nil {
-			return content, nil
-		}
-		if retryAfter == 0 || attempt == maxAttempts-1 {
-			return "", err
-		}
-		log.Printf("rate limited, waiting %s before retry (%d/%d)", retryAfter, attempt+1, maxAttempts-1)
-		select {
-		case <-time.After(retryAfter):
-		case <-ctx.Done():
-			return "", ctx.Err()
-		}
-	}
-	panic("unreachable")
-}
-
-func callModelOnce(ctx context.Context, client *http.Client, token string, messages []message) (string, time.Duration, error) {
-	reqBody := chatRequest{
-		Model:       summaryModel,
-		Messages:    messages,
-		MaxTokens:   1200,
-		Temperature: 0.3,
-	}
-
-	body, err := json.Marshal(reqBody)
-	if err != nil {
-		return "", 0, err
-	}
-
-	req, err := http.NewRequestWithContext(ctx, http.MethodPost, githubModelsEndpoint, bytes.NewReader(body))
-	if err != nil {
-		return "", 0, err
-	}
-	req.Header.Set("Content-Type", "application/json")
-	req.Header.Set("Authorization", "Bearer "+token)
-
-	resp, err := client.Do(req)
-	if err != nil {
-		return "", 0, err
-	}
-	defer resp.Body.Close()
-
-	data, err := io.ReadAll(io.LimitReader(resp.Body, 1<<20))
-	if err != nil {
-		return "", 0, err
-	}
-
-	var chatResp chatResponse
-	if err := json.Unmarshal(data, &chatResp); err != nil {
-		return "", 0, fmt.Errorf("parse response: %w", err)
-	}
-
-	if resp.StatusCode == http.StatusTooManyRequests {
-		retryAfter := 65 * time.Second
-		if ra := resp.Header.Get("Retry-After"); ra != "" {
-			if secs, err2 := strconv.Atoi(ra); err2 == nil {
-				retryAfter = time.Duration(secs+5) * time.Second
+// translationBody drops the "タイトル: / 記事タイトル: / 説明:" preamble that
+// cmd/hn-digest puts above the translated article, so the summary leads with
+// actual prose. Falls back to the whole text when there is no body marker.
+func translationBody(translation string) string {
+	// 記事本文 first: 説明 only stands in when the article body was not fetched.
+	for _, marker := range []string{"記事本文:", "説明:"} {
+		if idx := strings.Index(translation, marker); idx >= 0 {
+			if body := strings.TrimSpace(translation[idx+len(marker):]); body != "" {
+				return body
 			}
 		}
-		msg := resp.Status
-		if chatResp.Error != nil {
-			msg = chatResp.Error.Message
-		}
-		return "", retryAfter, fmt.Errorf("API %s: %s", resp.Status, msg)
 	}
-
-	if resp.StatusCode < 200 || resp.StatusCode >= 300 {
-		msg := resp.Status
-		if chatResp.Error != nil {
-			msg = chatResp.Error.Message
-		}
-		return "", 0, fmt.Errorf("API %s: %s", resp.Status, msg)
-	}
-	if len(chatResp.Choices) == 0 {
-		return "", 0, errors.New("no choices in response")
-	}
-	return strings.TrimSpace(chatResp.Choices[0].Message.Content), 0, nil
+	return strings.TrimPrefix(strings.TrimSpace(translation), "タイトル: ")
 }
 
-func frontMatterInt(text, key string) int {
-	value := frontMatterString(text, key)
-	if value == "" {
-		return 0
+// leadSummary stands in for an abstractive summary: the lead of the Japanese
+// translation, cut at the last sentence boundary so it does not end mid-word.
+func leadSummary(translation string, max int) string {
+	text := strings.TrimSpace(translationBody(translation))
+	runes := []rune(text)
+	if len(runes) <= max {
+		return text
 	}
-	n, err := strconv.Atoi(value)
-	if err != nil {
-		return 0
+	head := string(runes[:max])
+	if idx := strings.LastIndexAny(head, "。！？"); idx > 0 {
+		_, size := utf8.DecodeRuneInString(head[idx:])
+		return head[:idx+size]
 	}
-	return n
-}
-
-func frontMatterString(text, key string) string {
-	re := regexp.MustCompile(`(?m)^` + regexp.QuoteMeta(key) + `:\s*"?([^"\n]+)"?\s*$`)
-	match := re.FindStringSubmatch(text)
-	if len(match) < 2 {
-		return ""
-	}
-	return strings.TrimSpace(match[1])
+	return strings.TrimSpace(head) + "…"
 }
 
 // cleanTitle normalises a translated title: collapse to a single line and strip

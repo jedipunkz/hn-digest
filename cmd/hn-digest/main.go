@@ -119,6 +119,7 @@ type hnItem struct {
 type article struct {
 	Title       string
 	Description string
+	ImageURL    string
 	Text        string
 }
 
@@ -479,7 +480,10 @@ func fetchArticleOnce(ctx context.Context, client *http.Client, rawURL string, m
 	return article{
 		Title:       firstMatch(body, `<title[^>]*>(.*?)</title>`),
 		Description: firstMeta(body, "description"),
-		Text:        extractReadableText(body, maxChars),
+		// resp.Request.URL is the URL after redirects, so relative image paths
+		// resolve against the page that actually served the HTML.
+		ImageURL: firstImageURL(body, resp.Request.URL),
+		Text:     extractReadableText(body, maxChars),
 	}, nil
 }
 
@@ -531,6 +535,50 @@ func firstMeta(input, name string) string {
 	return ""
 }
 
+// Social preview images, in preference order. og:image is near-universal on
+// news sites; twitter:image is the common fallback.
+var imageMetaPatterns = []string{
+	`<meta[^>]+property=["']og:image:secure_url["'][^>]+content=["']([^"']+)["']`,
+	`<meta[^>]+property=["']og:image["'][^>]+content=["']([^"']+)["']`,
+	`<meta[^>]+content=["']([^"']+)["'][^>]+property=["']og:image["']`,
+	`<meta[^>]+name=["']twitter:image["'][^>]+content=["']([^"']+)["']`,
+	`<meta[^>]+content=["']([^"']+)["'][^>]+name=["']twitter:image["']`,
+}
+
+// firstImageURL returns the article's preview image as an absolute URL, or ""
+// when the page declares none usable. Unlike firstMeta it does not run the
+// value through htmlToText: that truncates at 300 characters, which would
+// corrupt the long signed URLs CDNs hand out.
+func firstImageURL(body string, base *url.URL) string {
+	for _, pattern := range imageMetaPatterns {
+		re := regexp.MustCompile("(?is)" + pattern)
+		match := re.FindStringSubmatch(body)
+		if len(match) < 2 {
+			continue
+		}
+		raw := html.UnescapeString(strings.TrimSpace(match[1]))
+		if resolved := resolveImageURL(raw, base); resolved != "" {
+			return resolved
+		}
+	}
+	return ""
+}
+
+func resolveImageURL(raw string, base *url.URL) string {
+	ref, err := url.Parse(raw)
+	if err != nil {
+		return ""
+	}
+	if base != nil {
+		ref = base.ResolveReference(ref)
+	}
+	// Feed readers only render http(s) images; skip data: and friends.
+	if ref.Scheme != "http" && ref.Scheme != "https" || ref.Host == "" {
+		return ""
+	}
+	return ref.String()
+}
+
 func htmlToText(input string, maxChars int) string {
 	replacer := strings.NewReplacer(
 		"<br>", "\n", "<br/>", "\n", "<br />", "\n",
@@ -570,6 +618,7 @@ func renderMarkdown(now time.Time, item hnItem, article article, translated stri
 	writeYAMLString(&b, "hn_url", fmt.Sprintf(hnItemURLFormat, item.ID))
 	writeYAMLString(&b, "title", item.Title)
 	writeYAMLString(&b, "article_title", article.Title)
+	writeYAMLString(&b, "image", article.ImageURL)
 	writeYAMLString(&b, "author", item.By)
 	writeYAMLString(&b, "captured_at", now.Format(time.RFC3339))
 	writeYAMLString(&b, "capture_tool", "hn-digest")

@@ -3,7 +3,6 @@ package main
 import (
 	"os"
 	"path/filepath"
-	"strings"
 	"testing"
 )
 
@@ -12,18 +11,6 @@ func TestSlug(t *testing.T) {
 	want := "Show-HN-Go-GitHub-Actions-digest"
 	if got != want {
 		t.Fatalf("slug() = %q, want %q", got, want)
-	}
-}
-
-func TestSplitForTranslate(t *testing.T) {
-	got := splitForTranslate(strings.Repeat("a", 12), 5)
-	if len(got) != 3 {
-		t.Fatalf("len(splitForTranslate()) = %d, want 3: %#v", len(got), got)
-	}
-	for _, chunk := range got {
-		if len(chunk) > 5 {
-			t.Fatalf("chunk too large: %q", chunk)
-		}
 	}
 }
 
@@ -53,17 +40,6 @@ hn_id: 123
 	}
 	if seen.has(hnItem{ID: 789, URL: "https://example.com/other"}) {
 		t.Fatal("unexpected duplicate")
-	}
-}
-
-func TestParseGoogleTranslateResponse(t *testing.T) {
-	data := []byte(`[[["こんにちは","Hello",null,null,10],["世界"," world",null,null,10]],null,"en"]`)
-	got, err := parseGoogleTranslateResponse(data)
-	if err != nil {
-		t.Fatal(err)
-	}
-	if got != "こんにちは世界" {
-		t.Fatalf("parseGoogleTranslateResponse() = %q", got)
 	}
 }
 

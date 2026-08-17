@@ -1,6 +1,6 @@
 {
   "date": "2026-08-17",
-  "generated_at": "2026-08-17T11:18:45Z",
+  "generated_at": "2026-08-17T11:24:35Z",
   "articles": [
     {
       "rank": 1,
@@ -71,7 +71,7 @@
       "rank": 6,
       "hn_id": 49327257,
       "title": "Show HN: Kubara a package manager and framework for Kubernetes platforms",
-      "title_ja": "Show HN: Kubara は Kubernetes プラットフォーム用のパッケージ マネージャーおよびフレームワークです",
+      "title_ja": "Show HN: Kubara は、Kubernetes プラットフォーム用のパッケージ マネージャーおよびフレームワークです",
       "hn_url": "https://news.ycombinator.com/item?id=49327257",
       "source_url": "https://github.com/kubara-io/kubara",
       "score": 2,
@@ -175,7 +175,7 @@
       "rank": 14,
       "hn_id": 49327308,
       "title": "Ask HN: When do you think LLM capacity will reach its ceiling?",
-      "title_ja": "HN に質問してください: LLM のキャパシティが上限に達するのはいつ頃だと思いますか?",
+      "title_ja": "HN に質問します。LLM のキャパシティが上限に達するのはいつ頃だと思いますか?",
       "hn_url": "https://news.ycombinator.com/item?id=49327308",
       "source_url": "",
       "score": 2,
@@ -188,7 +188,7 @@
       "rank": 15,
       "hn_id": 49328514,
       "title": "Beyond the AI Layoff Fear",
-      "title_ja": "AIによるレイオフの恐怖を超えて",
+      "title_ja": "AIによる人員削減の恐怖を超えて",
       "hn_url": "https://news.ycombinator.com/item?id=49328514",
       "source_url": "https://urnicus.com/blog/beyond-the-ai-layoff-fear/",
       "score": 2,

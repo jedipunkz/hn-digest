@@ -1,6 +1,6 @@
 {
   "date": "2026-08-18",
-  "generated_at": "2026-08-18T18:23:59Z",
+  "generated_at": "2026-08-18T19:23:15Z",
   "articles": [
     {
       "rank": 1,
@@ -18,6 +18,20 @@
     },
     {
       "rank": 2,
+      "hn_id": 49350637,
+      "title": "Show HN: PantheonGPU – GPU health testing and AI workload benchmarking",
+      "title_ja": "Show HN: PantheonGPU – GPU 健全性テストと AI ワークロード ベンチマーク",
+      "hn_url": "https://news.ycombinator.com/item?id=49350637",
+      "source_url": "https://pantheongpu.com/",
+      "image_url": "https://pantheongpu.com/assets/logo.png",
+      "score": 6,
+      "final_score": 12,
+      "comments": 0,
+      "posted_at": "2026-08-18T18:47:51Z",
+      "summary_ja": "パンテオン\nコンテンツにスキップ\nパンテオン\nホーム\n検索を初期化しています\nホーム\nホーム\nホーム\n目次\nクイックスタート\n1. 前提条件をインストールする\nパフォーマンスデータベース\nパフォーマンスデータベース\nライブベンチマーク\n調査とレポート\n調査とレポート\n概要\nテスト文書\nテスト文書\n概要\nコアとコンピューティング\nコアとコンピューティング\nオムニウイルス\n固定関数とアクセラレータ\n固定関数とアクセラレータ\nRTウイルス\nメモリとキャッシュ\nメモリとキャッシュ\n原子ウイルス\n相互接続とアーキテクチャ\n相互接続とアーキテクチャ\nP2Pスラッシャー\nAI と機械学習\nAI と機械学習\nAI ワークロード スイート\nクイックスタート\n1. 前提条件をインストールする\nGPUのストレステストと診断\nPantheon は、GPU のコンピューティング、メモリ、キャッシュ、相互接続、電力の動作をテストします。集中したワークロードを実行し、テレメトリをキャプチャし、比較のために結果を保存します。\nDebian パッケージは、Ubuntu および Debian システムの最も簡単なインストール パスです。\n基本的なビルド ツールをインストールします。\nsudo apt-get アップデート\nsudo apt-get install -y make g++\n次に、GPU プラットフォーム用のコンパイラーをインストールします。必要なのは 1 つだけです:\nsudo apt-get install -y nvidia-cuda-toolkit\nsudo apt-get install -y hipcc\n2.パンテオンをインストールする\n最新の Debian パッケージをダウンロードしてインストールします。"
+    },
+    {
+      "rank": 3,
       "hn_id": 49345448,
       "title": "AI to help planes avoid climate-warming 'sky graffiti'",
       "title_ja": "気候温暖化を引き起こす「空の落書き」を航空機が回避できるよう AI が支援",
@@ -31,7 +45,20 @@
       "summary_ja": "コンテンツへスキップ 英国放送協会のライブを視聴する ホーム\nホーム ニュース スポーツ ビジネス テクノロジー 健康 文化 芸術 旅行 地球 オーディオ ビデオ ライブ ドキュメンタリー 天気 ニュースレター ウォッチ ライブ AI が飛行機による気候温暖化を引き起こす「空の落書き」を回避\n共有 保存 Google でお気に入りに追加 シオナ・マッカラム シニアテクノロジーレポーター Getty Images 飛行機雲は、飛行機の排気ガスが氷の結晶に変わるときに形成されます 私たちは皆、空を見上げて、飛行機の後ろに白い線が続いているのを見たことがあるでしょう。\n飛行機雲として知られるこれらの氷の雲は気候変動の一因となっており、科学者たちは飛行機雲を阻止する方法を模索してきた。\n現在、英国で500万ポンドを投じて試験が​​行われており、温暖化による飛行機雲が発生しそうな場所を予測し、飛行機がその地域を避けることができるかどうかがテストされる予定だ。\n地球規模の飛行機雲温暖化の約５％を占める北大西洋回廊の東半分にあるシャンウィック海洋空域に焦点を当てる。\n30 か月にわたるオペレーション ブルー スカイズ プロジェクトには、Google、英国政府、気象庁、航空交通管制プロバイダーである National Air Traffic Services (NATS)、ケンブリッジ大学とインペリアル カレッジ ロンドンの研究者が結集します。\n飛行機雲 (蒸気跡とも呼ばれる) は、航空機エンジンからの熱い排気が高高度で冷たい空気と出会い、氷の結晶を生成するときに発生します。\n多くはすぐに消えてしまいますが、特に寒く湿気の多い条件では持続して広がり、雲を形成して、地球から逃げてしまう熱を閉じ込めることがあります。\nGoogleのこの作戦の技術責任者であるポール・ホジソン博士は、BBCのTech Lifeプログラムで、彼の5歳の息子は白い線をよりカラフルに表現している、「空の落書き」だと語った。\n「私たちは飛行機雲の温暖化が航空宇宙全体の 3 分の 1 の原因であると考えています。"
     },
     {
-      "rank": 3,
+      "rank": 4,
+      "hn_id": 49350432,
+      "title": "Google Workspace will enable AI note-taking by default for some customers",
+      "title_ja": "Google Workspace は一部の顧客に対してデフォルトで AI メモ作成を有効にします",
+      "hn_url": "https://news.ycombinator.com/item?id=49350432",
+      "source_url": "https://workspaceupdates.googleblog.com/2026/07/new-google-meet-take-notes-for-me-settings-for-admins-and-end-users.html",
+      "score": 6,
+      "final_score": 7,
+      "comments": 0,
+      "posted_at": "2026-08-18T18:36:34Z",
+      "summary_ja": "Google Workspace は一部の顧客に対してデフォルトで AI メモ作成を有効にします"
+    },
+    {
+      "rank": 5,
       "hn_id": 49339349,
       "title": "Un-AI Your Internet",
       "title_ja": "インターネットを非 AI 化する",
@@ -45,7 +72,7 @@
       "summary_ja": "UN-AI あなたのインターネット\nUN-AI あなたのインターネット\n[ 各セクションをクリックして開始してください。 】\n現状\nLLM の惨劇は、テクノロジーブロの支配者たちによって私たちの喉に突きつけられてきました。なぜなら、LLM のおかげで、ますます多くの人が LLM を使用していることを示すことができるからです。\n私たちが興味がないことは気にしないでください。彼らが「AI」と名付けたものは何のようなものではないことは気にしないでください。\n彼らは実際にそれを販売しています。テクノロジーを「使用」する人が多ければ多いほど、テクノロジーを販売するのは容易になります。この場合、「使用」という言葉は、\n「より多くの人が使っているように見えるように、すべてをバンドルした」ため、多くの重労働が発生しました。\n「エージェント」と「アシスタント」は新しい流行語ですが、すべて同じものです。予測テキストを使用して、プロンプトへの応答として最も可能性が高く、最も使用される単語をつなぎ合わせる複雑なアルゴリズムです。これまでこれらのものを利用できなかった理由は、プロセッサと記憶媒体が、盗まれたデータのライブラリ全体から構築された応答をブルートフォースで実行できるほど十分に強力でなく、安価でなかったからです。これは考える機械ではありません。「最も可能性の高い」予測応答を生成する超高速プロセッサーの能力を使用して、それがどのようになるかを適切にシミュレーションしたものです。それは詐欺です。ヘビ油です。そして、それは非常に遍在しているため、実際には実際のAI開発の妨げになる可能性があります。これは実際の AI をシミュレートする最悪かつ非効率的な方法です。\n2 つの道があります。1 つは、成長しつつある知性に考え方や方法を教える、時間と労力のかかるプロセスです。\nプロセスと理由付け方法。それから100年後です。もう 1 つの方法は、予測アルゴリズムと盗まれた大量のデータを使用して、「AI が言いそうな」応答を非効率的に総当たり攻撃することです。"
     },
     {
-      "rank": 4,
+      "rank": 6,
       "hn_id": 49348311,
       "title": "The AI Slop Spiral",
       "title_ja": "AI スロップスパイラル",
@@ -59,7 +86,7 @@
       "summary_ja": "AI スロップ スパイラル — On Resonance On Resonance 執筆について 購読 すべての執筆 ノーラン フラウスト 2026 年 8 月 18 日 13 分で読む AI スロップ スパイラル\nAI is an incredibly powerful tool, but it also makes it easy not to think while producing something that looks very much like thinking.その結果、出力は速くなり、引き継ぎは悪化し、組織プロセスは徐々に悪化していきます。\nI open the document. My computer screen glares brightly as the sun sets outside my home office windows. A dying lamp hums faintly in the background, interrupted only by the click of the mouse wheel as I scroll.\n少なくともこれはわずか 12 ページです。\nIt is the seventh document I have received today. A steady stream of PRDs, technical specifications, incident reports, and QA testing plans.それぞれが印象的に見えます。"
     },
     {
-      "rank": 5,
+      "rank": 7,
       "hn_id": 49345796,
       "title": "What We Learned Moving Our Agent Loops from Anthropic to GLM",
       "title_ja": "エージェント ループを人為的から GLM に移行して学んだこと",
@@ -73,7 +100,7 @@
       "summary_ja": "エージェント ループを GLM 製品に移行して学んだこと 成果 リソース お客様 セキュリティ ドキュメント 価格 もっと見る ログイン 始める デモを予約する 製品 コンテキスト エンジン コーディング エージェントと MCP AI コード レビュー 開発者 Q\u0026A の結果 マージ可能なコード 保存トークン 手戻り削減 リソース ブログ オープンソース ビデオ AI 導入評価 お客様 セキュリティ ドキュメント 価格 ログイン 始める デモを予約する すべての記事 エージェント ループの移行で学んだこと人間から GLM へ\nUnblocked のエージェント トラフィックのほとんどを Claude Opus から GLM 5.2 に移行した理由、ブラインド A/B と台帳が実際に示したもの、そして途中で何が壊れたのか。\nTL;DR: Unblocked のエージェント トラフィックの大部分を Claude Opus から GLM 5.2 に移動しました。\n「トークンごと」の計算では 95% の節約が約束されました。タスクごとの生産現実は 68% 達成されました。そこに到達するには、実際のコード レビューでのブラインド A/B 評価、回線が切断されたマルチプロバイダーのサービング プール、そして数週間にわたる「OpenAI 互換」の驚きが必要でした。\n背景: Unblocked により、エージェントは優秀なエンジニアを組織的に理解できるようになります。そのコンテキスト エンジンは、コード、会話、問題、ドキュメント、運用システム全体にわたる知識を結び付けて調整し、作業が行われる場所に関係なくその理解を利用できるようにします。エージェントは MCP/CLI/API を通じてコン​​テキストにアクセスし、Code Review や Unblocked Code などの Unblocked 製品は、そのコンテキストをコードのレビューと作成に直接適用します。その結果、より少ないトークン、より少ない反復、より少ないやり取りで生成される、より優れたソフトウェアが得られます。"
     },
     {
-      "rank": 6,
+      "rank": 8,
       "hn_id": 49347822,
       "title": "Automating quality support at scale: AI and human in the loop",
       "title_ja": "大規模な品質サポートの自動化: AI と人間の関与",
@@ -86,7 +113,7 @@
       "summary_ja": "メイン コンテンツにスキップ Windmill プラットフォーム スクリプト エディター フロー エディター アプリ ビルダー トリガー データ テーブル デプロイとバージョン管理 ローカル開発ワーカー AI サンドボックス 可観測性 RBAC No-ops セルフホスト 価格設定 ドキュメント Cloud Hub OpenAPI ブログ 変更ログ ロードマップ 大規模な品質サポートの自動化: AI と人間の関与\n私たちはサポートに迅速かつ適切に回答できることを少し誇りに思っており、成長するにつれてどちらも失われることを望んでいませんでした。\nまた、製品の構築に費やす時間をサポートに費やすことも望ましくありませんでした。小規模なチームの場合、これら 2 つは通常互いに対立します。\nそこで、できる限り多くの作業を自動化しました。\nハードルを下げるわけではありません。多くの場合、コードベース、ドキュメント、顧客のテレメトリを手にした AI は、スレッドをざっと読んでいる人間よりも根本原因を見つけるのが得意です。\nしかし、顧客は AI が作成した返信を信頼するのは、その返信が良好なままであるため、送信前に人間がすべてを承認することになります。\n顧客のメッセージからリリースされた修正までのリクエストは次のようになります。\n私たちのサポートは、共有 Slack/Discord チャネル、電子メールの受信箱、GitHub の問題など、顧客やユーザーがすでにいる場所で行われます。\n私たちはすべてを 1 つの Discord キューに集め、その上に独自の Windmill で実行するパイプラインを置きました。パイプラインはコンテキストを取得し、返信の下書きを作成し、多くの場合は修正の下書きも作成します。\nすべてはクロードと一緒に地元で構築されました。\n仕組みは次のとおりです。\n多くのチャネルのうちの 1 つのキュー\n各チャネルには独自の入口があり、すべて同じ入口フローを供給します。\nSlack Connect チャネルが Webhook にヒットします。"
     },
     {
-      "rank": 7,
+      "rank": 9,
       "hn_id": 49345378,
       "title": "Is there room for an AI-powered webmail service built on a single-letter domain?",
       "title_ja": "単一文字ドメイン上に AI を活用した Web メール サービスを構築する余地はあるでしょうか?",
@@ -99,20 +126,7 @@
       "summary_ja": "単一文字ドメイン上に構築された AI を活用した Web メール サービスの余地はありますか?\nHN テキスト: こんにちは、HN。私は、プレミアム 1 文字ドメイン (https://w.xyz) 上に構築された AI を活用した Web メール サービスである W に取り組んでいる、技術者ではないソロの創設者です。私はドメインを保護し、AI エージェントを使用してクライアント向けの機能的な概念実証を構築しました。インフラストラクチャを処理するために、アプリケーション ロジックを Mailgun 経由でルーティングしました。内部的には、プロトタイプは完全に動作しており、@w.xyz ハンドルから電子メールが正常に送受信されています。 W は、高度に最適化されたインターフェイスと、スパム スキャン、スマート リプライ、テキスト サマリーなどの組み込み AI 機能を組み合わせています。最終仕上げを終えてプロトタイプスタックから離れる準備をしているため、現在 30 人以上のオーガニック待機リストがあります。コミュニティへの質問: コンセプトの検証: 電子メールの分野がどれほど混雑しているかを考えると、AI ネイティブのプレミアム Web メール サービスには実行可能な市場があると思いますか、それともユーザーにとって Gmail/Outlook からの切り替えコストは高すぎると思いますか?スケーリング ロードマップ: AI 生成のプロトタイプ スタックから移行しようとしている非技術的な創業者として、システムをスムーズにスケーリングするために今優先すべき最も重要なアーキテクチャ ベースラインは何ですか?追伸新しい種類の電子メール プラットフォームを一から構築することに興味がある場合は、以下にコメントを入力してください。"
     },
     {
-      "rank": 8,
-      "hn_id": 49340602,
-      "title": "A candy brand discovered TikTok made an AI clone of its founder to run ads [video]",
-      "title_ja": "キャンディーブランドが、TikTokが広告を流すために創業者のAIクローンを作っていたことを発見 [ビデオ]",
-      "hn_url": "https://news.ycombinator.com/item?id=49340602",
-      "source_url": "https://www.youtube.com/watch?v=itovmsMwus0",
-      "score": 4,
-      "final_score": 5,
-      "comments": 0,
-      "posted_at": "2026-08-18T02:45:56Z",
-      "summary_ja": "- YouTube About Press Copyright Contact us Creators Advertise Developers Terms Privacy Policy \u0026 Safety How YouTube works Test new features NFL サンデー チケット © 2026 Google LLC"
-    },
-    {
-      "rank": 9,
+      "rank": 10,
       "hn_id": 49339918,
       "title": "Follow-Up Thoughts on Watermarking Schemes for AI-Generated Text",
       "title_ja": "AI 生成テキストの透かしスキームに関するフォローアップの考察",
@@ -126,21 +140,20 @@
       "summary_ja": "Drata の Agentic Trust Management プラットフォームで GRC をより迅速に管理\nAI 生成テキストの透かしスキームに関するフォローアップの考察\n今週末のステムワインダー「クロードにおけるアンスロピックの「ウォーターマーク」テキスト不正行為は、ライティングの倒錯である」のフォローアップの一部:\nHacker News やその他の場所にいる愚か者たちとは対照的に、人気のある LLM が各決定点で単に「最良の」トークン (単語) を選択するわけではないことを私は理解しています。直感に反しますが、常に最も確率の高いオプションを選択すると、望ましくない結果が生じます。したがって、モデルはある程度のランダム化を適用します。「温度」は、「より良い」(モデルによってランクが高い) 選択肢が選択される可能性が高くなるように適用される重み付けを表す用語です。\n温度が 1 の場合、モデルは組み込みの確率分布を使用します。温度が 1 より大きい場合、この分布はより平坦になります。つまり、可能性の低い代替案が選択される確率は高く、可能性の高い代替案は選択される確率が低くなります。温度が 1 より低い場合、確率分布はより上位のオプションに偏ります。温度が 0 の場合、最高ランクのオプションが常に選択されます。温度が 0 の場合、一般に望ましくない結果が生じます。予測可能すぎて、行き詰まる可能性が高すぎます。カメラ センサーからの画像を過度に平滑化するのと同様、すべてのノイズを除去すると、たとえ個別に評価された「ノイズ」の各ビットが何らかの意味で間違っていたとしても、全体の結果が悪化します。\n温度ベースのランダム性 (LLM 出力を非決定的にするもの) は、出力を改善するために設けられています。散文は、温度 0 (ランダム性なし) よりも温度 1 (重み付きランダム性あり) の方が明らかに優れています。一方、透かし入れスキームは予測を適用しています。"
     },
     {
-      "rank": 10,
-      "hn_id": 49346284,
-      "title": "Show HN: K7d – Fork live Kubernetes clusters in \u003c1s –\u003e GRPO-train AI on infra",
-      "title_ja": "HN を表示: K7d – ライブ Kubernetes クラスターを \u003c1 秒でフォーク –\u003e インフラ上で GRPO トレーニング AI",
-      "hn_url": "https://news.ycombinator.com/item?id=49346284",
-      "source_url": "https://github.com/katakate/k7d",
-      "image_url": "https://opengraph.githubassets.com/7c94a154d1e072fcf00032aef50689858137ee5a7b2d06bce9ced4dcdcad887f/Katakate/k7d",
-      "score": 2,
-      "final_score": 4,
+      "rank": 11,
+      "hn_id": 49340602,
+      "title": "A candy brand discovered TikTok made an AI clone of its founder to run ads [video]",
+      "title_ja": "TikTokが広告を流すために創業者のAIクローンを作っていたことをキャンディブランドが発見 [ビデオ]",
+      "hn_url": "https://news.ycombinator.com/item?id=49340602",
+      "source_url": "https://www.youtube.com/watch?v=itovmsMwus0",
+      "score": 4,
+      "final_score": 5,
       "comments": 0,
-      "posted_at": "2026-08-18T14:38:58Z",
-      "summary_ja": "GitHub - Katakate/k7d: ⚡ 約 100 ミリ秒でライブ Kubernetes クラスターのフォークのロックを解除した Rust VMM ⭐ 気に入ったらスターを付けてください! · GitHub\nコンテンツにスキップ\nナビゲーションメニュー\nサインイン 外観設定 プラットフォーム AI コード作成 GitHub Copilot AI を使用してより良いコードを作成する\nGitHub Copilot アプリ エージェントが発行からマージまで直接担当\nMCP レジストリ 外部ツールの統合\n開発者のワークフロー アクション あらゆるワークフローを自動化します\nコードスペース インスタント開発環境\nコードレビュー コードの変更を管理する\nコードの品質 マージ時に品質を強制する\nアプリケーションセキュリティ GitHub Advanced Security 脆弱性を見つけて修正する\nコードのセキュリティ 構築時にコードを保護する\n機密保護 漏洩が始まる前に阻止\n企業規模別のソリューション\nタイプごとに詳しく見る お客様の事例\nサポートとサービスのドキュメント\nオープンソース コミュニティ GitHub スポンサー オープンソース開発者に資金を提供する\nエンタープライズ エンタープライズ ソリューション エンタープライズ プラットフォーム AI を活用した開発者プラットフォーム\n利用可能なアドオン GitHub Advanced Security エンタープライズ グレードのセキュリティ機能\nCopilot for Business エンタープライズ グレードの AI 機能\nプレミアム サポート エンタープライズ レベルの 24 時間年中無休のサポート\n検索 / サインイン サインアップ 外観設定\n別のタブまたはウィンドウでサインインしました。リロードしてセッションを更新します。\n別のタブまたはウィンドウでサインアウトしました。リロードしてセッションを更新します。\n別のタブまたはウィンドウでアカウントを切り替えました。リロードしてセッションを更新します。"
+      "posted_at": "2026-08-18T02:45:56Z",
+      "summary_ja": "- YouTube About Press Copyright Contact us Creators Advertise Developers Terms Privacy Policy \u0026 Safety How YouTube works Test new features NFL サンデー チケット © 2026 Google LLC"
     },
     {
-      "rank": 11,
+      "rank": 12,
       "hn_id": 49349738,
       "title": "Show HN: Unigram: encode bytes as words that cost one LLM token",
       "title_ja": "HN を表示: Unigram: バイトを 1 つの LLM トークンを消費するワードとしてエンコードします",
@@ -154,7 +167,7 @@
       "summary_ja": "GitHub - bleugreen/unigram: ちょうど 1 つの LLM トークンを必要とするバイトとワードの間の全単射コーデック · GitHub\nコンテンツにスキップ\nナビゲーションメニュー\nサインイン 外観設定 プラットフォーム AI コード作成 GitHub Copilot AI を使用してより良いコードを作成する\nGitHub Copilot アプリ エージェントが発行からマージまで直接担当\nMCP レジストリ 外部ツールの統合\n開発者のワークフロー アクション あらゆるワークフローを自動化します\nコードスペース インスタント開発環境\nコードレビュー コードの変更を管理する\nコードの品質 マージ時に品質を強制する\nアプリケーションセキュリティ GitHub Advanced Security 脆弱性を見つけて修正する\nコードのセキュリティ 構築時にコードを保護する\n機密保護 漏洩が始まる前に阻止\n企業規模別のソリューション\nタイプごとに詳しく見る お客様の事例\nサポートとサービスのドキュメント\nオープンソース コミュニティ GitHub スポンサー オープンソース開発者に資金を提供する\nエンタープライズ エンタープライズ ソリューション エンタープライズ プラットフォーム AI を活用した開発者プラットフォーム\n利用可能なアドオン GitHub Advanced Security エンタープライズ グレードのセキュリティ機能\nCopilot for Business エンタープライズ グレードの AI 機能\nプレミアム サポート エンタープライズ レベルの 24 時間年中無休のサポート\n検索 / サインイン サインアップ 外観設定\n別のタブまたはウィンドウでサインインしました。リロードしてセッションを更新します。\n別のタブまたはウィンドウでサインアウトしました。リロードしてセッションを更新します。\n別のタブまたはウィンドウでアカウントを切り替えました。リロードしてセッションを更新します。"
     },
     {
-      "rank": 12,
+      "rank": 13,
       "hn_id": 49343559,
       "title": "Google buys crashed airline Spirit's data at auction, because AI",
       "title_ja": "Google、墜落した航空会社スピリットのデータをオークションで購入、理由はAI",
@@ -168,48 +181,47 @@
       "summary_ja": "メインコンテンツへジャンプ\n検索\nトピックス\n特別な機能\nすべての特別な機能\n2026 年クラウド インフラストラクチャ月間\nFIS と AWS による金融サービスの最新化\nCapgemini と AWS でそれを実現する\nNutanix: Kubernetes をスケールします。カオスではありません。\nGoogle、墜落した航空会社スピリットのデータをオークションで購入、理由はAI\n1,000 万ドルで、1 億件を超える電子メール、3,000 万件の通話録音、Teams、Oracle、SAP からの大量のデータを購入します。\nサイモン・シャーウッド\nサイモン\nシャーウッド\nアジア太平洋編集者\nアジア太平洋編集者\n発行済み\n2026年8月18日火曜日 // 07:43 UTC\nグーグルは経営破綻した米航空会社スピリットのデータを取得した。\nスピリットは、2020年に新型コロナウイルス感染症（COVID-19）が猛威を振るったことで金融混乱に見舞われ、損失を出し始めた。同社のバランスシートは安全な高度に戻ることはなく、2026年5月に同社は永久運航を停止した。\n格安航空会社は清算のために清算に入り、現在、現金を調達し、少なくとも債務の一部を解決するために資産を競売にかけている。\n先週提出された法廷文書 [PDF] では、売りに出されている資産の 1 つが匿名化された膨大なデータの山であり、Google がそれを入札し、わずか 1,000 万ドルで落札したことが明らかになりました。\nこの金額で、Google は Microsoft Teams から 1 億件のメールと 5 億件のアイテム、1,700 万件の OneDrive ファイルと SharePoint から 2,050 万件のアイテムを自社で購入しました。検索大手である同社は現在、3,000 万件を超えるカスタマー サービスの通話記録と 1,500 万件を超えるカスタマー サービスのチャット記録を所有しています。"
     },
     {
-      "rank": 13,
-      "hn_id": 49345255,
-      "title": "Ask HN: Good content on using AI to modernize professional services delivery",
-      "title_ja": "HN に質問: AI を使用してプロフェッショナル サービスの提供を最新化するための優れたコンテンツ",
-      "hn_url": "https://news.ycombinator.com/item?id=49345255",
-      "source_url": "",
-      "score": 3,
-      "final_score": 3,
-      "comments": 1,
-      "posted_at": "2026-08-18T13:21:38Z",
-      "summary_ja": "HN に聞く: AI を使用してプロフェッショナル サービスの提供を最新化することに関する優れたコンテンツ\nHN テキスト: HN コミュニティに、プロフェッショナル サービス (財務のアウトソーシングなど) を改善するための SOTA AI の実践的な使用方法に関する優れたリソース (ブログ、ポッドキャスト、その他のコンテンツ) があるかどうか知りたいです。私は人々が行うべきだと考えていること (理論) をかなりの量読みましたが、実際にそれを実行した人 (実践) からの大量のコンテンツは見つかりませんでした。"
-    },
-    {
       "rank": 14,
-      "hn_id": 49345154,
-      "title": "Show HN: I canceled my AI code reviewer and wrote a free local one",
-      "title_ja": "Show HN: AI コードレビューアーをキャンセルして、無料のローカルコードレビューアーを作成しました",
-      "hn_url": "https://news.ycombinator.com/item?id=49345154",
-      "source_url": "https://github.com/mukundzha/avouch",
-      "image_url": "https://repository-images.githubusercontent.com/1312017997/eed8069b-df0f-499e-9c1a-7aec7003c172",
-      "score": 3,
-      "final_score": 3,
-      "comments": 2,
-      "posted_at": "2026-08-18T13:13:17Z",
-      "summary_ja": "GitHub - mukundzha/avouch: 継承した Python ではなく、変更した Python を確認してください。 git プッシュ前の数秒で実行される Git 対応 AST コード レビュー。 · GitHub\nコンテンツにスキップ\nナビゲーションメニュー\nサインイン 外観設定 プラットフォーム AI コード作成 GitHub Copilot AI を使用してより良いコードを作成する\nGitHub Copilot アプリ エージェントが発行からマージまで直接担当\nMCP レジストリ 外部ツールの統合\n開発者のワークフロー アクション あらゆるワークフローを自動化します\nコードスペース インスタント開発環境\nコードレビュー コードの変更を管理する\nコードの品質 マージ時に品質を強制する\nアプリケーションセキュリティ GitHub Advanced Security 脆弱性を見つけて修正する\nコードのセキュリティ 構築時にコードを保護する\n機密保護 漏洩が始まる前に阻止\n企業規模別のソリューション\nタイプごとに詳しく見る お客様の事例\nサポートとサービスのドキュメント\nオープンソース コミュニティ GitHub スポンサー オープンソース開発者に資金を提供する\nエンタープライズ エンタープライズ ソリューション エンタープライズ プラットフォーム AI を活用した開発者プラットフォーム\n利用可能なアドオン GitHub Advanced Security エンタープライズ グレードのセキュリティ機能\nCopilot for Business エンタープライズ グレードの AI 機能\nプレミアム サポート エンタープライズ レベルの 24 時間年中無休のサポート\n検索 / サインイン サインアップ 外観設定\n別のタブまたはウィンドウでサインインしました。リロードしてセッションを更新します。\n別のタブまたはウィンドウでサインアウトしました。リロードしてセッションを更新します。\n別のタブまたはウィンドウでアカウントを切り替えました。"
+      "hn_id": 49346284,
+      "title": "Show HN: K7d – Fork live Kubernetes clusters in \u003c1s –\u003e GRPO-train AI on infra",
+      "title_ja": "HN を表示: K7d – ライブ Kubernetes クラスターを \u003c1 秒でフォーク –\u003e インフラ上で GRPO トレーニング AI",
+      "hn_url": "https://news.ycombinator.com/item?id=49346284",
+      "source_url": "https://github.com/katakate/k7d",
+      "image_url": "https://opengraph.githubassets.com/7c94a154d1e072fcf00032aef50689858137ee5a7b2d06bce9ced4dcdcad887f/Katakate/k7d",
+      "score": 2,
+      "final_score": 4,
+      "comments": 0,
+      "posted_at": "2026-08-18T14:38:58Z",
+      "summary_ja": "GitHub - Katakate/k7d: ⚡ 約 100 ミリ秒でライブ Kubernetes クラスターのフォークのロックを解除した Rust VMM ⭐ 気に入ったらスターを付けてください! · GitHub\nコンテンツにスキップ\nナビゲーションメニュー\nサインイン 外観設定 プラットフォーム AI コード作成 GitHub Copilot AI を使用してより良いコードを作成する\nGitHub Copilot アプリ エージェントが発行からマージまで直接担当\nMCP レジストリ 外部ツールの統合\n開発者のワークフロー アクション あらゆるワークフローを自動化します\nコードスペース インスタント開発環境\nコードレビュー コードの変更を管理する\nコードの品質 マージ時に品質を強制する\nアプリケーションセキュリティ GitHub Advanced Security 脆弱性を見つけて修正する\nコードのセキュリティ 構築時にコードを保護する\n機密保護 漏洩が始まる前に阻止\n企業規模別のソリューション\nタイプごとに詳しく見る お客様の事例\nサポートとサービスのドキュメント\nオープンソース コミュニティ GitHub スポンサー オープンソース開発者に資金を提供する\nエンタープライズ エンタープライズ ソリューション エンタープライズ プラットフォーム AI を活用した開発者プラットフォーム\n利用可能なアドオン GitHub Advanced Security エンタープライズ グレードのセキュリティ機能\nCopilot for Business エンタープライズ グレードの AI 機能\nプレミアム サポート エンタープライズ レベルの 24 時間年中無休のサポート\n検索 / サインイン サインアップ 外観設定\n別のタブまたはウィンドウでサインインしました。リロードしてセッションを更新します。\n別のタブまたはウィンドウでサインアウトしました。リロードしてセッションを更新します。\n別のタブまたはウィンドウでアカウントを切り替えました。リロードしてセッションを更新します。"
     },
     {
       "rank": 15,
-      "hn_id": 49342345,
-      "title": "Show HN: I built an M2M payment loop where AI Agents pay for data via x402",
-      "title_ja": "Show HN: AI エージェントが x402 経由でデータの支払いを行う M2M 支払いループを構築しました",
-      "hn_url": "https://news.ycombinator.com/item?id=49342345",
-      "source_url": "https://github.com/tianzizhiming-svg/agentbridge",
-      "image_url": "https://opengraph.githubassets.com/9ce05743d4fea47885e72890779b8d0d302ab1e556d9683e9daf4c7e9e1623c3/tianzizhiming-svg/agentbridge",
-      "score": 3,
-      "final_score": 3,
+      "hn_id": 49350978,
+      "title": "Africa Is Not Waiting for AI. We're Building the Infrastructure to Use It",
+      "title_ja": "アフリカはAIを待っていません。それを使用するためのインフラストラクチャを構築しています",
+      "hn_url": "https://news.ycombinator.com/item?id=49350978",
+      "source_url": "https://medium.com/@SamuelMbugua254/africa-is-not-waiting-for-ai-were-building-the-infrastructure-to-use-it-dc5e92e3ca1c",
+      "score": 2,
+      "final_score": 4,
       "comments": 0,
-      "posted_at": "2026-08-18T07:07:00Z",
-      "summary_ja": "GitHub - tianzizhiming-svg/agentbridge: x402 経由の AI エージェント向けのペイパーフェッチ中国データと分析 (api.060504.shop) — 他の「AgentBridge」プロジェクトとは提携していません · GitHub\nコンテンツにスキップ\nナビゲーションメニュー\nサインイン 外観設定 プラットフォーム AI コード作成 GitHub Copilot AI を使用してより良いコードを作成する\nGitHub Copilot アプリ エージェントが発行からマージまで直接担当\nMCP レジストリ 外部ツールの統合\n開発者のワークフロー アクション あらゆるワークフローを自動化します\nコードスペース インスタント開発環境\nコードレビュー コードの変更を管理する\nコードの品質 マージ時に品質を強制する\nアプリケーションセキュリティ GitHub Advanced Security 脆弱性を見つけて修正する\nコードのセキュリティ 構築時にコードを保護する\n機密保護 漏洩が始まる前に阻止\n企業規模別のソリューション\nタイプごとに詳しく見る お客様の事例\nサポートとサービスのドキュメント\nオープンソース コミュニティ GitHub スポンサー オープンソース開発者に資金を提供する\nエンタープライズ エンタープライズ ソリューション エンタープライズ プラットフォーム AI を活用した開発者プラットフォーム\n利用可能なアドオン GitHub Advanced Security エンタープライズ グレードのセキュリティ機能\nCopilot for Business エンタープライズ グレードの AI 機能\nプレミアム サポート エンタープライズ レベルの 24 時間年中無休のサポート\n検索 / サインイン サインアップ 外観設定\n別のタブまたはウィンドウでサインインしました。リロードしてセッションを更新します。\n別のタブまたはウィンドウでサインアウトしました。リロードしてセッションを更新します。"
+      "posted_at": "2026-08-18T19:07:42Z",
+      "summary_ja": "アフリカは AI を待っていない。それを使用するためのインフラストラクチャを構築しています"
     },
     {
       "rank": 16,
+      "hn_id": 49348255,
+      "title": "Recent grads say AI is making it harder to get a job. Economists aren't sure",
+      "title_ja": "最近の卒業生らは、AIのせいで就職が難しくなっていると話している。経済学者は確信が持てない",
+      "hn_url": "https://news.ycombinator.com/item?id=49348255",
+      "source_url": "https://text.npr.org/nx-s1-5910677",
+      "score": 3,
+      "final_score": 3,
+      "comments": 0,
+      "posted_at": "2026-08-18T16:34:13Z",
+      "summary_ja": "テキストのみのバージョン フルサイトに移動\nNPR \u003e\nAI時代の学び\n最近の卒業生の多くは、AI のせいで就職が難しくなっていると言っています。経済学者はそれほど確信していない\n2026 年 8 月 18 日火曜日 • 午前 5:00 EDT\n朝刊で知りました\nアイリーン・チャンさん（21 歳）は、問題を解決することが好きなので、大学で工学を学びました。彼女はまた、安定したキャリアにつながると思われるものを専攻したいと考えていました。\n「大学卒業後はすぐに就職したかったのです」と彼女は言う。\nしかし、それは課題でした。 Chang 氏は 5 月にジョージア工科大学を卒業し、工業およびシステム エンジニアリングの学士号を取得しました。彼女は、約 1 年前、まだ在学中にエントリーレベルのデータ アナリストの役割に応募し始めたと言います。チャンさんは、昨年 9 月以来約 450 件の応募を提出し、約 19 件の面接を受けたと推定していますが、これまでのところ内定は得られていません。\nジャクリーン・クラインさん（25）も同じ立場だ。彼女はこの春、コミュニケーションの修士号を取得してフロリダ州立大学を卒業しました。\nクラインさんは、大学卒業後に仕事を見つけるためにできる限りのことをしたと言います。彼女はネットワークを作り、複数のインターンシップを完了し、学位を取得する前に仕事に応募し始めました。\n昨年 12 月以来、これまでに 500 件以上の初級レベルの求人に応募したと彼女は言います。\n「成功するために全力を尽くしているのに、それだけでは十分ではないと感じるのはつらいことです」とクラインさんは言う。\nクライン氏もチャン氏も、それぞれの分野で仕事を見つけることが非常に難しい理由の一部は AI かもしれないと考えていると述べています。\n「あなたが持っている初心者レベルのスキルは重要ですが、AI が非常に効率的に実行できるものでもあると感じています」とチャン氏は言います。"
+    },
+    {
+      "rank": 17,
       "hn_id": 49345004,
       "title": "Show HN: Engrava – a local graph memory database for AI agents (SQLite, MIT)",
       "title_ja": "HN を表示: Engrava – AI エージェント用のローカル グラフ メモリ データベース (SQLite、MIT)",
@@ -221,19 +233,6 @@
       "comments": 0,
       "posted_at": "2026-08-18T13:01:08Z",
       "summary_ja": "GitHub - sovantica/engrava: AI エージェント用のメモリ データベース - グラフ メモリ、ハイブリッド検索、改ざん防止思考/エッジ ジャーナル。 · GitHub\nコンテンツにスキップ\nナビゲーションメニュー\nサインイン 外観設定 プラットフォーム AI コード作成 GitHub Copilot AI を使用してより良いコードを作成する\nGitHub Copilot アプリ エージェントが発行からマージまで直接担当\nMCP レジストリ 外部ツールの統合\n開発者のワークフロー アクション あらゆるワークフローを自動化します\nコードスペース インスタント開発環境\nコードレビュー コードの変更を管理する\nコードの品質 マージ時に品質を強制する\nアプリケーションセキュリティ GitHub Advanced Security 脆弱性を見つけて修正する\nコードのセキュリティ 構築時にコードを保護する\n機密保護 漏洩が始まる前に阻止\n企業規模別のソリューション\nタイプごとに詳しく見る お客様の事例\nサポートとサービスのドキュメント\nオープンソース コミュニティ GitHub スポンサー オープンソース開発者に資金を提供する\nエンタープライズ エンタープライズ ソリューション エンタープライズ プラットフォーム AI を活用した開発者プラットフォーム\n利用可能なアドオン GitHub Advanced Security エンタープライズ グレードのセキュリティ機能\nCopilot for Business エンタープライズ グレードの AI 機能\nプレミアム サポート エンタープライズ レベルの 24 時間年中無休のサポート\n検索 / サインイン サインアップ 外観設定\n別のタブまたはウィンドウでサインインしました。リロードしてセッションを更新します。\n別のタブまたはウィンドウでサインアウトしました。リロードしてセッションを更新します。\n別のタブまたはウィンドウでアカウントを切り替えました。リロードしてセッションを更新します。"
-    },
-    {
-      "rank": 17,
-      "hn_id": 49348255,
-      "title": "Recent grads say AI is making it harder to get a job. Economists aren't sure",
-      "title_ja": "最近の卒業生らは、AIのせいで就職が難しくなっていると語る。経済学者は確信が持てない",
-      "hn_url": "https://news.ycombinator.com/item?id=49348255",
-      "source_url": "https://text.npr.org/nx-s1-5910677",
-      "score": 3,
-      "final_score": 3,
-      "comments": 0,
-      "posted_at": "2026-08-18T16:34:13Z",
-      "summary_ja": "テキストのみのバージョン フルサイトに移動\nNPR \u003e\nAI時代の学び\n最近の卒業生の多くは、AI のせいで就職が難しくなっていると言っています。経済学者はそれほど確信していない\n2026 年 8 月 18 日火曜日 • 午前 5:00 EDT\n朝刊で知りました\nアイリーン・チャンさん（21 歳）は、問題を解決することが好きなので、大学で工学を学びました。彼女はまた、安定したキャリアにつながると思われるものを専攻したいと考えていました。\n「大学卒業後はすぐに就職したかったのです」と彼女は言う。\nしかし、それは課題でした。 Chang 氏は 5 月にジョージア工科大学を卒業し、工業およびシステム エンジニアリングの学士号を取得しました。彼女は、約 1 年前、まだ在学中にエントリーレベルのデータ アナリストの役割に応募し始めたと言います。チャンさんは、昨年 9 月以来約 450 件の応募を提出し、約 19 件の面接を受けたと推定していますが、これまでのところ内定は得られていません。\nジャクリーン・クラインさん（25）も同じ立場だ。彼女はこの春、コミュニケーションの修士号を取得してフロリダ州立大学を卒業しました。\nクラインさんは、大学卒業後に仕事を見つけるためにできる限りのことをしたと言います。彼女はネットワークを作り、複数のインターンシップを完了し、学位を取得する前に仕事に応募し始めました。\n昨年 12 月以来、これまでに 500 件以上の初級レベルの求人に応募したと彼女は言います。\n「成功するために全力を尽くしているのに、それだけでは十分ではないと感じるのはつらいことです」とクラインさんは言う。\nクライン氏もチャン氏も、それぞれの分野で仕事を見つけることが非常に難しい理由の一部は AI かもしれないと考えていると述べています。\n「あなたが持っている初心者レベルのスキルは重要ですが、AI が非常に効率的に実行できるものでもあると感じています」とチャン氏は言います。"
     },
     {
       "rank": 18,
@@ -251,9 +250,91 @@
     },
     {
       "rank": 19,
+      "hn_id": 49350212,
+      "title": "OpenAI introduces 'ChatGPT for Teens' as AI safety concerns mount",
+      "title_ja": "AI の安全性への懸念が高まる中、OpenAI が「ChatGPT for Teens」を導入",
+      "hn_url": "https://news.ycombinator.com/item?id=49350212",
+      "source_url": "https://www.latimes.com/business/story/2026-08-18/openai-introduces-chatgpt-for-teens-as-ai-safety-concerns-mount",
+      "image_url": "https://ca-times.brightspotcdn.com/dims4/default/25f0aa6/2147483647/strip/true/crop/5760x3024+0+408/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F7f%2Fff%2F74fe002b4233b028fbecc672742a%2Fai-dating-guidelines-7-591.jpg",
+      "score": 3,
+      "final_score": 3,
+      "comments": 0,
+      "posted_at": "2026-08-18T18:24:50Z",
+      "summary_ja": "AI の安全性への懸念が高まる中、OpenAI が「ChatGPT for Teens」を導入 - Los Angeles Times News Home Page\nビジネス用人工知能\nカリフォルニア カリフォルニアの政治\n気候と環境 気候変動\nLAのベストレストラン 101\n世界と国家 移民と国境\nLAタイムズのタイムズ・エブリウェア404\nサブスクリプション サブスクリプションの管理\n権利、許可、許可\nメディア キット: なぜ LA タイムズなのか?\nサザビーズ インターナショナル リアルティ\n特別なサプリメントの健康的な生活\nタップすると、記事に焦点を当てたレイアウトが有効になります。フォーカス モード 検索を表示 検索クエリを送信 検索を送信 広告 Business OpenAI、AI の安全性への懸念が高まる中、「ChatGPT for Teens」を導入\nOpenAIは、十代の若者向けのChatGPT製品はより安全な保護機能を備えていると述べた。 （リチャード・ドリュー／AP通信） クイニー・ウォン スタッフライター フォローする 2026年8月18日午前7時25分（PT）\n4 分 この記事を聞くにはここをクリックしてください\n追加の共有オプションを閉じる 電子メールで共有\n自動音声で読み上げます。問題や矛盾がある場合は、ここで報告してください。\nGoogle 検索で L.A. Times の記事をさらにご覧ください。私たちを優先として設定してください\n人工知能チャットボット ChatGPT のメーカーである OpenAI は、安全性と学習機能を含む十代の若者向けのエクスペリエンスを展開しています。\n「ChatGPT for Teens」の世界的な導入は、AIチャットボットが銃乱射事件や自殺計画に使用された情報を提供することで若者に危害を与えているとして、OpenAIや他のテクノロジー企業が訴訟に直面している中で行われた。"
+    },
+    {
+      "rank": 20,
+      "hn_id": 49350191,
+      "title": "OpenAI Partnering with CodeAI to prepare the first AI generation",
+      "title_ja": "OpenAI CodeAI と提携して第一世代の AI を準備",
+      "hn_url": "https://news.ycombinator.com/item?id=49350191",
+      "source_url": "https://openai.com/index/partnering-with-codeai/",
+      "score": 3,
+      "final_score": 3,
+      "comments": 0,
+      "posted_at": "2026-08-18T18:24:03Z",
+      "summary_ja": "OpenAI、CodeAI と提携して第一世代の AI を準備"
+    },
+    {
+      "rank": 21,
+      "hn_id": 49342345,
+      "title": "Show HN: I built an M2M payment loop where AI Agents pay for data via x402",
+      "title_ja": "Show HN: AI エージェントが x402 経由でデータの支払いを行う M2M 支払いループを構築しました",
+      "hn_url": "https://news.ycombinator.com/item?id=49342345",
+      "source_url": "https://github.com/tianzizhiming-svg/agentbridge",
+      "image_url": "https://opengraph.githubassets.com/9ce05743d4fea47885e72890779b8d0d302ab1e556d9683e9daf4c7e9e1623c3/tianzizhiming-svg/agentbridge",
+      "score": 3,
+      "final_score": 3,
+      "comments": 0,
+      "posted_at": "2026-08-18T07:07:00Z",
+      "summary_ja": "GitHub - tianzizhiming-svg/agentbridge: x402 経由の AI エージェント向けのペイパーフェッチ中国データと分析 (api.060504.shop) — 他の「AgentBridge」プロジェクトとは提携していません · GitHub\nコンテンツにスキップ\nナビゲーションメニュー\nサインイン 外観設定 プラットフォーム AI コード作成 GitHub Copilot AI を使用してより良いコードを作成する\nGitHub Copilot アプリ エージェントが発行からマージまで直接担当\nMCP レジストリ 外部ツールの統合\n開発者のワークフロー アクション あらゆるワークフローを自動化します\nコードスペース インスタント開発環境\nコードレビュー コードの変更を管理する\nコードの品質 マージ時に品質を強制する\nアプリケーションセキュリティ GitHub Advanced Security 脆弱性を見つけて修正する\nコードのセキュリティ 構築時にコードを保護する\n機密保護 漏洩が始まる前に阻止\n企業規模別のソリューション\nタイプごとに詳しく見る お客様の事例\nサポートとサービスのドキュメント\nオープンソース コミュニティ GitHub スポンサー オープンソース開発者に資金を提供する\nエンタープライズ エンタープライズ ソリューション エンタープライズ プラットフォーム AI を活用した開発者プラットフォーム\n利用可能なアドオン GitHub Advanced Security エンタープライズ グレードのセキュリティ機能\nCopilot for Business エンタープライズ グレードの AI 機能\nプレミアム サポート エンタープライズ レベルの 24 時間年中無休のサポート\n検索 / サインイン サインアップ 外観設定\n別のタブまたはウィンドウでサインインしました。リロードしてセッションを更新します。\n別のタブまたはウィンドウでサインアウトしました。リロードしてセッションを更新します。"
+    },
+    {
+      "rank": 22,
+      "hn_id": 49345255,
+      "title": "Ask HN: Good content on using AI to modernize professional services delivery",
+      "title_ja": "HN に質問: AI を使用してプロフェッショナル サービスの提供を最新化するための優れたコンテンツ",
+      "hn_url": "https://news.ycombinator.com/item?id=49345255",
+      "source_url": "",
+      "score": 3,
+      "final_score": 3,
+      "comments": 1,
+      "posted_at": "2026-08-18T13:21:38Z",
+      "summary_ja": "HN に聞く: AI を使用してプロフェッショナル サービスの提供を最新化することに関する優れたコンテンツ\nHN テキスト: HN コミュニティに、プロフェッショナル サービス (財務のアウトソーシングなど) を改善するための SOTA AI の実践的な使用方法に関する優れたリソース (ブログ、ポッドキャスト、その他のコンテンツ) があるかどうか知りたいです。私は人々が行うべきだと考えていること (理論) をかなりの量読みましたが、実際にそれを実行した人 (実践) からの大量のコンテンツは見つかりませんでした。"
+    },
+    {
+      "rank": 23,
+      "hn_id": 49345154,
+      "title": "Show HN: I canceled my AI code reviewer and wrote a free local one",
+      "title_ja": "Show HN: AI コードレビューアーをキャンセルして、無料のローカルコードレビューアーを作成しました",
+      "hn_url": "https://news.ycombinator.com/item?id=49345154",
+      "source_url": "https://github.com/mukundzha/avouch",
+      "image_url": "https://repository-images.githubusercontent.com/1312017997/eed8069b-df0f-499e-9c1a-7aec7003c172",
+      "score": 3,
+      "final_score": 3,
+      "comments": 2,
+      "posted_at": "2026-08-18T13:13:17Z",
+      "summary_ja": "GitHub - mukundzha/avouch: 継承した Python ではなく、変更した Python を確認してください。 git プッシュ前の数秒で実行される Git 対応 AST コード レビュー。 · GitHub\nコンテンツにスキップ\nナビゲーションメニュー\nサインイン 外観設定 プラットフォーム AI コード作成 GitHub Copilot AI を使用してより良いコードを作成する\nGitHub Copilot アプリ エージェントが発行からマージまで直接担当\nMCP レジストリ 外部ツールの統合\n開発者のワークフロー アクション あらゆるワークフローを自動化します\nコードスペース インスタント開発環境\nコードレビュー コードの変更を管理する\nコードの品質 マージ時に品質を強制する\nアプリケーションセキュリティ GitHub Advanced Security 脆弱性を見つけて修正する\nコードのセキュリティ 構築時にコードを保護する\n機密保護 漏洩が始まる前に阻止\n企業規模別のソリューション\nタイプごとに詳しく見る お客様の事例\nサポートとサービスのドキュメント\nオープンソース コミュニティ GitHub スポンサー オープンソース開発者に資金を提供する\nエンタープライズ エンタープライズ ソリューション エンタープライズ プラットフォーム AI を活用した開発者プラットフォーム\n利用可能なアドオン GitHub Advanced Security エンタープライズ グレードのセキュリティ機能\nCopilot for Business エンタープライズ グレードの AI 機能\nプレミアム サポート エンタープライズ レベルの 24 時間年中無休のサポート\n検索 / サインイン サインアップ 外観設定\n別のタブまたはウィンドウでサインインしました。リロードしてセッションを更新します。\n別のタブまたはウィンドウでサインアウトしました。リロードしてセッションを更新します。\n別のタブまたはウィンドウでアカウントを切り替えました。"
+    },
+    {
+      "rank": 24,
+      "hn_id": 49350962,
+      "title": "I Turned AI to the Dark Side",
+      "title_ja": "AIをダークサイドに変えてしまった",
+      "hn_url": "https://news.ycombinator.com/item?id=49350962",
+      "source_url": "https://spectrum.ieee.org/jailbreaking-llms",
+      "image_url": "https://spectrum.ieee.org/media-library/glossy-red-robot-devil-standing-on-a-bundle-of-dynamite-against-blue-glow-background.png?id=67163741\u0026width=1200\u0026height=600\u0026coordinates=0%2C750%2C0%2C750",
+      "score": 3,
+      "final_score": 3,
+      "comments": 0,
+      "posted_at": "2026-08-18T19:06:57Z",
+      "summary_ja": "--\u003e\nRaven.config('https://6b64f5cc8af542cbb920e0238864390a@sentry.io/147999').install();\nLLM を脱獄すると暗い秘密が現れる - IEEE Spectrum\nIEEE.org IEEE Explore IEEE 標準 IEEE 求人サイト その他のサイト サイン イン 参加 IEEE 私が AI をダークサイドに変えた方法 テクノロジー インサイダー向けに共有 検索: トピック別に探索 航空宇宙 AI 生物医学 気候 テクノロジー コンピューティング 家庭用電化製品 エネルギー 技術の歴史 ロボット工学 半導体 電気通信 輸送\nIEEEスペクトル\nテクノロジー関係者向けトピック\nアカウントを作成すると、さらに無料のコンテンツや特典をお楽しみいただけます\n後で読むために記事を保存するには、IEEE Spectrum アカウントが必要です\nインスティチュートのコンテンツはメンバーのみが利用できます\nPDF 版全号のダウンロードは IEEE メンバー限定です\nこの電子ブックのダウンロードは IEEE メンバー限定です\nへのアクセス\nスペクトル\nのデジタル版は IEEE メンバー限定です\n以下のトピックは IEEE メンバー限定の機能です\n記事に回答を追加するには、IEEE Spectrum アカウントが必要です\nアカウントを作成すると、さらに多くのコンテンツや機能にアクセスできます\nIEEEスペクトル\n、後で読むために記事を保存したり、スペクトル コレクションをダウンロードしたり、イベントに参加したりする機能が含まれます。\n読者や編集者との会話。より独占的なコンテンツと機能については、次のことを検討してください。\nIEEEに参加する\n。\nエンジニアリングと応用科学を専門とする世界最大の専門組織に参加し、次の情報にアクセスしましょう。\nSpectrum のすべての記事、アーカイブ、PDF ダウンロード、その他の特典を利用できます。"
+    },
+    {
+      "rank": 25,
       "hn_id": 49344577,
       "title": "State Farm defense lawyers admit AI generated fake cases in LA lawsuit",
-      "title_ja": "ステート・ファームの弁護人、ロサンゼルス訴訟でAIが生成した偽訴訟を認める",
+      "title_ja": "ステート・ファームの弁護人、LA訴訟でAIが生成した偽訴訟を認める",
       "hn_url": "https://news.ycombinator.com/item?id=49344577",
       "source_url": "https://calmatters.org/economy/2026/08/state-farm-lawsuit-ai-hallucinations/",
       "image_url": "https://i0.wp.com/calmatters.org/wp-content/uploads/2026/08/010324_State_Farm_GETTY_CM_01.jpg?fit=2000%2C1333\u0026ssl=1",
@@ -264,7 +345,7 @@
       "summary_ja": "ステート・ファームの弁護士、LA訴訟でAIが捏造した訴訟を認めた - CalMatters\n非営利および無党派のニュース\n私たちについて\nについて\nニュースレター\n検索\n政治\nメンタルヘルス報告イニシアチブ\nステート・ファームの弁護人、ロサンゼルス訴訟でAIが生成した偽訴訟を認める\nX で共有 (新しいウィンドウで開きます)\n×\nFacebook で共有 (新しいウィンドウで開きます)\nフェイスブック\nWhatsApp で共有 (新しいウィンドウで開きます)\nワッツアップ\nロサンゼルスの元住宅所有者の弁護士は、ステート・ファームの提出書類の中でAIが生成した「幻覚」を発見した。\nCalMatters へようこそ。カリフォルニア州民全員に影響を与える問題を専門に扱う唯一の非営利ニュースルームです。 WhatMatters にサインアップして、ゴールデンステートの最も重要な問題に関する最新ニュースと解説を受け取ります。\n火災後の住宅再建に関する訴訟でステート・ファームを代理するロサンゼルスの会社の弁護士は、提出書類の中で人工知能による幻覚について謝罪した。\nファアラギラギ・メニ・シリガの代理人であるエリック・コーダディアン氏の提出文書によると、住宅所有者の弁護士は、ステート・ファームが提出した申し立ての中に「存在しない訴訟、存在しない見積書、存在しない所蔵」を発見したという。\nメニ・シリガさんは2024年7月に訴訟を起こし、請負業者と請負業者の保険会社、公的鑑定人、および彼女の住宅所有者保険会社であるステート・ファームを被告として挙げた。\n訴状によると、2020年にロサンゼルス郡カーソンにある彼女の自宅で起きた火災により、彼女の家は居住不能になったという。彼女の請負業者が家の工事をしていたときに、嵐により水害が発生しました。 1月の裁判所への提出書類によると、彼女が州立農場の修繕承認を得るのが遅れたと主張した後、自宅の工事は決して完了しなかったという。彼女と彼女の夫は、貯蓄と退職金口座を使い果たしました。\n\n破産の危機に瀕し、差し押さえで家を失ったと彼女は書いた。"
     },
     {
-      "rank": 20,
+      "rank": 26,
       "hn_id": 49343892,
       "title": "We still don't know how people are using AI",
       "title_ja": "人々がAIをどのように利用しているかはまだわかりません",
@@ -278,7 +359,21 @@
       "summary_ja": "コンテンツへスキップ MIT テクノロジー レビュー\nMIT テクノロジー レビューの特集\n人工知能 人々が実際に AI をどのように使用しているのかはまだわかっていません\nしかし、新しい調査によると、AI企業が主張するほど、業務のユースケースが全体像に占める割合は少ないことが判明した。\nAnthropic や OpenAI などの AI 企業は、人々が Claude や ChatGPT などの製品をどのように使用しているかに関するレポートを定期的に公開していますが、彼らが公開しているのは、私たちに見てもらいたいデータだけであると AI 研究者は述べています。\n「それを裏付ける独立した情報源はありません」と、スタンフォード Trustworthy AI Research (STAIR) Lab のコンピューター サイエンス博士候補者である Anka Reuel 氏は言います。\nロイエル氏は、そのギャップを埋めることを目的とした、AI Observatory と呼ばれる新しい研究プロジェクトの共同リーダーです。これは、7 つの既存のデータセットを通じてユーザーの同意を得て収集された、Claude や Gemini などの人気モデルとの実際の AI 会話を集約して分析したパブリック プラットフォームです。同天文台の目的は、研究者や政策立案者が人々が生成型 AI をどのように利用しているかを評価するための独立した情報源を提供することです。関係者は現在、非常に限られたデータに基づいて、AI の利点とリスクについて非常に重大な決定を下しているとロイエル氏は言います。\nAI Observatory は、AI の使用はモデルによって大きく異なり、時間の経過とともに変化していることを発見しました。その調査では、大手 AI 企業のレポートで捕らえられているよりも多くの機密性の高い行動が示されており、彼らは個人的な使用よりも仕事に重点を置いていると述べています。\n人間経済指数は、AI 使用状況データのソースとして最もよく知られ、最も広く引用されていますが、盲点もあります。"
     },
     {
-      "rank": 21,
+      "rank": 27,
+      "hn_id": 49350964,
+      "title": "Show HN: Sealed evidence record of an AI agent run – broken twice, credited",
+      "title_ja": "HN を表示: AI エージェント実行の封印された証拠記録 - 2 回破られ、クレジットされた",
+      "hn_url": "https://news.ycombinator.com/item?id=49350964",
+      "source_url": "https://github.com/cjchanh/aaap-challenge",
+      "image_url": "https://opengraph.githubassets.com/8fbb000fcfc06da017e8fe610686fa8d50accbd4399bba6b9a51a1cf91b865c5/cjchanh/aaap-challenge",
+      "score": 3,
+      "final_score": 3,
+      "comments": 0,
+      "posted_at": "2026-08-18T19:07:02Z",
+      "summary_ja": "GitHub - cjchanh/aaap-challenge · GitHub\nコンテンツにスキップ\nナビゲーションメニュー\nサインイン 外観設定 プラットフォーム AI コード作成 GitHub Copilot AI を使用してより良いコードを作成する\nGitHub Copilot アプリ エージェントが発行からマージまで直接担当\nMCP レジストリ 外部ツールの統合\n開発者のワークフロー アクション あらゆるワークフローを自動化します\nコードスペース インスタント開発環境\nコードレビュー コードの変更を管理する\nコードの品質 マージ時に品質を強制する\nアプリケーションセキュリティ GitHub Advanced Security 脆弱性を見つけて修正する\nコードのセキュリティ 構築時にコードを保護する\n機密保護 漏洩が始まる前に阻止\n企業規模別のソリューション\nタイプごとに詳しく見る お客様の事例\nサポートとサービスのドキュメント\nオープンソース コミュニティ GitHub スポンサー オープンソース開発者に資金を提供する\nエンタープライズ エンタープライズ ソリューション エンタープライズ プラットフォーム AI を活用した開発者プラットフォーム\n利用可能なアドオン GitHub Advanced Security エンタープライズ グレードのセキュリティ機能\nCopilot for Business エンタープライズ グレードの AI 機能\nプレミアム サポート エンタープライズ レベルの 24 時間年中無休のサポート\n検索 / サインイン サインアップ 外観設定\n別のタブまたはウィンドウでサインインしました。リロードしてセッションを更新します。\n別のタブまたはウィンドウでサインアウトしました。リロードしてセッションを更新します。\n別のタブまたはウィンドウでアカウントを切り替えました。リロードしてセッションを更新します。"
+    },
+    {
+      "rank": 28,
       "hn_id": 49349562,
       "title": "A Texas University Becomes a Petri Dish for a Conservative Overhaul [Using AI]",
       "title_ja": "テキサス大学が保守派の改革のためにシャーレになる [AI を使用]",
@@ -291,21 +386,21 @@
       "summary_ja": "テキサス大学が保守的な見直しのためにシャーレになる [AI を使用]"
     },
     {
-      "rank": 22,
-      "hn_id": 49339547,
-      "title": "Show HN: Cogni: MCP memory for LLMs, with no LLM in the retrieval path",
-      "title_ja": "HN を表示: Cogni: LLM の MCP メモリ (取得パスに LLM なし)",
-      "hn_url": "https://news.ycombinator.com/item?id=49339547",
-      "source_url": "https://getcogni.io/",
-      "image_url": "https://getcogni.io/og.png",
+      "rank": 29,
+      "hn_id": 49350362,
+      "title": "Show HN: Deft Writing, an AI lab for non-slop LLMs",
+      "title_ja": "Show HN: Deft Writing、ノンスロップ LLM 向けの AI ラボ",
+      "hn_url": "https://news.ycombinator.com/item?id=49350362",
+      "source_url": "https://deftwriting.com",
+      "image_url": "https://deftwriting.com/og.png",
       "score": 2,
       "final_score": 2,
       "comments": 0,
-      "posted_at": "2026-08-18T00:21:14Z",
-      "summary_ja": "C \" /\u003e\nC\nコグニ\n比較する\n仕組み\n価格設定\nアップデート\nドキュメント\nサインイン\n無料で始めましょう\nLLM の認知層\n記憶以上のもの。\n理由づける記憶。\nCogni は、作業に応じて増加する接続メモリを LLM に提供する MCP サーバーです。それ\nエンティティ グラフ拡散アクティベーションは事実の連鎖に従います。\nプレーン ベクター ストアはアクセスできないため、エージェントは単に調べるのではなく、記憶している内容を推論します。\n物事はうまくいきました。\nChain-recall@8: 単一のリコール コールが表面化する 4 つのドキュメント チェーンのシェア — Cogni が発見\n4 のうち 3.4 、ベクトル ストアでは 2.6 が見つかります。答えの正確さではありません。\n決定的で、ループ内にモデルがなく、出荷時のリコール パスでは、すべてのアカウントが次の設定を取得します。\n300 枚のディストラクタ文書に対して 5 チェーン × 3 シード。両面\n同じ 8 行を返すため、追加のコンテキストでマージンが購入されることはありません。\nすべての数字と、同点または 2 位になる場所。\n✓ あらゆるモデルで動作: クロード、GPT、ジェミニ、ローカル\n✓ 取得パスに LLM も GPU もありません\n✓ 実行するベクター DB がありません\n✓ 貼り付ける API キーはありません\nベクトル ストアが取得します。コグニが接続します。\n違いは、明確で測定された 1 つの機能です。それは、語彙横断検索のためのエンティティ グラフ拡散アクティベーションです。答えが質問と単語を共有しない質問であり、 k をどれだけ広く設定しても、単一の類似性検索のスコアは 0 になります。\n質問と語彙を共有しない文書内に答えが存在するもの、つまり名前につながるバッチにつながる部品番号を尋ねてください。 1 回の取得呼び出しで、Cogni はエンティティ チェーンをたどります。"
+      "posted_at": "2026-08-18T18:33:05Z",
+      "summary_ja": "AI とは思えない巧みな AI ライティング DEFT 製品リサーチの価格設定 API 大規模な人間による本物のライティング\nアイデアや雑な下書きを持ち込んでも、Deft は人間的なスタイルできれいな散文を提供します。\n上手に書くのは難しいです。私たちは、クリエイターがアイデアを入力するのではなくアイデアの開発に集中できるように、他の人が読みやすく理解しやすい方法でアイデアを共有できるようにしたいと考えています。私たちの目標は、編集や修正に何時間も費やすことなく、専門家が知識を明確で自然で洗練された文章に変える方法を提供することです。\n知識生産の将来は、ますます自動化されながらも創造的にカスタマイズされた執筆および編集システムで構成されるでしょう。最も洗練された作家や出版社は、AI と人間の心を一緒に使用し、それぞれを適切な場所に正確に適用するオーダーメイドのワークフローを開発します。\nAI のおかげで、より多くの人が、専門的な文章を書く技術を習得しなくても、オリジナルのアイデアを開発し、洗練された形で世界に発表できるようになるはずです。\n私たちは、将来の最高の執筆および編集ワークフローは、幻覚を引き起こしたり、作者の意図を歪曲したり、作者の声を平板にしたりすることなく、人間の思考を増幅させるものであると信じています。これらは、Deft が構築しているシステムです。\n貴社のスタイルに合わせてカスタムモデルをトレーニングします\nディストリビューションの微調整による LLM 書き込みの修正\nディストリビューション微調整の導入\nDEFT 本物の人間による大規模な文章"
     },
     {
-      "rank": 23,
+      "rank": 30,
       "hn_id": 49348114,
       "title": "Magnitude – Open-source AI coding agent that runs local models offline",
       "title_ja": "Magnitude – ローカル モデルをオフラインで実行するオープンソース AI コーディング エージェント",
@@ -316,100 +411,6 @@
       "comments": 0,
       "posted_at": "2026-08-18T16:25:35Z",
       "summary_ja": "Magnitude – ローカル モデルをオフラインで実行するオープンソース AI コーディング エージェント"
-    },
-    {
-      "rank": 24,
-      "hn_id": 49341070,
-      "title": "Why It Hasn't Happened Yet: Capable AI and Malicious Intent",
-      "title_ja": "なぜそれがまだ起こらないのか: 有能な AI と悪意のある意図",
-      "hn_url": "https://news.ycombinator.com/item?id=49341070",
-      "source_url": "https://substack.norabble.com/p/why-it-hasnt-happened-yet",
-      "image_url": "https://substackcdn.com/image/fetch/$s_!Qilg!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3ac0da1f-d6d5-45f4-8ecd-8b5058671df1_680x346.svg",
-      "score": 2,
-      "final_score": 2,
-      "comments": 0,
-      "posted_at": "2026-08-18T03:54:28Z",
-      "summary_ja": "AI サイバー攻撃からあなたを守るもの\n荒ぶる\n購読 サインイン なぜそれがまだ起こっていないのか\n有能な AI を悪意から遠ざける保護機能が弱くなっています。開発者とソフトウェア会社が古い技術と新しい技術を使って今やるべきこと\nRyan Baker 2026 年 8 月 17 日 シェア OpenAI、Anthropic、AISI で始まった最近のハッキング イベントについて聞いたとき、これはさまざまな意味で警鐘だと思いました。誰もが同意しているわけではないことがわかりました。反応の 1 つは、AI ベースの攻撃に備えるという緊迫感を含んでいません。一般の開発者、ソフトウェア会社、およびソフトウェアに依存する企業による総力を挙げた対応が必要である、というのが私の反応です。この対応により、利用可能なあらゆるツールを使用して運用上のセキュリティ体制が改善されるはずです。\n最初は衝撃的ですが、少し考えてみると、その影響がまだ十分に浸透していないことがわかります。ニュース記事としては、それは 1 回の攻撃によって引き起こされ、被害はほとんどありませんでした。報道を読んでいるときにパニックの色合いを見逃すのは難しいでしょうが、常にリスクを誇大宣伝する証券の販売など、執拗な証券報道のせいで人々はパニックに鈍感になっているのかもしれません。\nこれは違います。この攻撃は不注意を示すものであると同時に、強力な AI モデルの機能を示すものでもありました。これらの攻撃は悪意とこれらの機能を組み合わせていないため、被害は最小限で済みました。この攻撃は、テストに合格しようとするモデルというより悪意のない意図で発生しました。そして、これはモデルの効果が最も低いものになります。\nモデルが改良されると、防御者と攻撃者は新しい機能にアクセスできるようになります。研究室がこれをどのように管理するかは重要ですが、それらの機能をどのように採用して機能させるかも重要です。現状維持は標準ではない\n\nできる。世界はまだそれほど変わっていませんが、必ず変わります。\nもっと詳しく掘り下げるべきだと思いました。"
-    },
-    {
-      "rank": 25,
-      "hn_id": 49346906,
-      "title": "Ask HN: Do you feel comfortable admitting that you use AI?",
-      "title_ja": "HN に質問してください: AI を使用していることを認めることに抵抗はありませんか?",
-      "hn_url": "https://news.ycombinator.com/item?id=49346906",
-      "source_url": "",
-      "score": 2,
-      "final_score": 2,
-      "comments": 1,
-      "posted_at": "2026-08-18T15:16:15Z",
-      "summary_ja": "HN に質問: AI を使用していることを認めることに抵抗はありませんか?\nHN テキスト: AI は業界に旋風を巻き起こしましたが、当然のことながら、これには多くの抵抗が生じます。この抵抗が表現されているのは、AI の使用を拒否する人によるある種の優越感と、コードを書くために AI 支援を使用することを認めるときの恥ずかしさの形であると私は見ています。ただし、(この主張を裏付けるデータはありませんが)、ほとんどの開発者はそれを使用することを選択しているか、雇用主によって要求されていると私は主張します。未来を予測することはできないので、これが ASM 対 C のような瞬間なのか、それとも利便性に屈した人が何年も後にスキルが衰えたときに後悔することになるのかはわかりません。私自身もこれを使用していますが、これまで以上に生産性が向上していると感じています。とはいえ、それを認めると少し恥ずかしさを感じずにはいられません。 AI が生成したコードは使い物にならず、修正には手書きよりも時間がかかると多くの人が言うのを聞くと、彼らは非常に特殊な分野に取り組んでいるのではないか、それとも私のスキルに問題があるだけなのかと疑問に思います。あるいは両方かもしれません。 AIはどれくらい使っていますか？もしそうなら、それを喜んで認めますか？"
-    },
-    {
-      "rank": 26,
-      "hn_id": 49341102,
-      "title": "What If I Told You Humans Are Moving Faster Than AI?",
-      "title_ja": "人間の方が AI よりも速く動いていると言ったらどうしますか?",
-      "hn_url": "https://news.ycombinator.com/item?id=49341102",
-      "source_url": "https://medium.com/freedomofthought/what-if-i-told-you-humans-are-moving-faster-than-ai-833441f3fb21",
-      "score": 2,
-      "final_score": 2,
-      "comments": 0,
-      "posted_at": "2026-08-18T04:01:28Z",
-      "summary_ja": "人間が AI よりも速く動いていると言ったらどうしますか?"
-    },
-    {
-      "rank": 27,
-      "hn_id": 49342406,
-      "title": "Ask HN: Part of your job LLMs replaced and which part got harder?",
-      "title_ja": "HN に質問してください: あなたの仕事の一部が LLM に置き換えられましたが、どの部分が難しくなりましたか?",
-      "hn_url": "https://news.ycombinator.com/item?id=49342406",
-      "source_url": "",
-      "score": 2,
-      "final_score": 2,
-      "comments": 0,
-      "posted_at": "2026-08-18T07:12:57Z",
-      "summary_ja": "HN に聞く: あなたの仕事の一部が LLM に置き換わりましたが、どの部分が難しくなりましたか?"
-    },
-    {
-      "rank": 28,
-      "hn_id": 49341617,
-      "title": "A/B testing LLMs in production",
-      "title_ja": "本番環境での LLM の A/B テスト",
-      "hn_url": "https://news.ycombinator.com/item?id=49341617",
-      "source_url": "https://www.together.ai/blog/a-b-test-models-in-production",
-      "image_url": "https://cdn.prod.website-files.com/69654e88dce9154b5f12070c/6a83d4464bad620dc1d00390_OG-image_20260817_a-b-testing.png",
-      "score": 2,
-      "final_score": 2,
-      "comments": 0,
-      "posted_at": "2026-08-18T05:28:23Z",
-      "summary_ja": "本番環境での A/B テスト モデル Webflow 追跡ブリッジの分析/最適化 --\u003e\n💰 シリーズ C を発表します。"
-    },
-    {
-      "rank": 29,
-      "hn_id": 49346337,
-      "title": "A VCR to test your backend – record/replay K8s env as deterministic sandboxes",
-      "title_ja": "バックエンドをテストするための VCR – K8s 環境を確定的なサンドボックスとして記録/再生します",
-      "hn_url": "https://news.ycombinator.com/item?id=49346337",
-      "source_url": "https://github.com/keploy/keploy",
-      "image_url": "https://repository-images.githubusercontent.com/449649393/3df356de-a8d9-43a5-925b-a75a795af9e3",
-      "score": 1,
-      "final_score": 2,
-      "comments": 0,
-      "posted_at": "2026-08-18T14:42:02Z",
-      "summary_ja": "GitHub - keploy/keploy: API、統合、E2E テスト用の安全で隔離された運用サンドボックスを作成するためのオープンソース プラットフォーム。 · GitHub\nコンテンツにスキップ\nナビゲーションメニュー\nサインイン 外観設定 プラットフォーム AI コード作成 GitHub Copilot AI を使用してより良いコードを作成する\nGitHub Copilot アプリ エージェントが発行からマージまで直接担当\nMCP レジストリ 外部ツールの統合\n開発者のワークフロー アクション あらゆるワークフローを自動化します\nコードスペース インスタント開発環境\nコードレビュー コードの変更を管理する\nコードの品質 マージ時に品質を強制する\nアプリケーションセキュリティ GitHub Advanced Security 脆弱性を見つけて修正する\nコードのセキュリティ 構築時にコードを保護する\n機密保護 漏洩が始まる前に阻止\n企業規模別のソリューション\nタイプごとに詳しく見る お客様の事例\nサポートとサービスのドキュメント\nオープンソース コミュニティ GitHub スポンサー オープンソース開発者に資金を提供する\nエンタープライズ エンタープライズ ソリューション エンタープライズ プラットフォーム AI を活用した開発者プラットフォーム\n利用可能なアドオン GitHub Advanced Security エンタープライズ グレードのセキュリティ機能\nCopilot for Business エンタープライズ グレードの AI 機能\nプレミアム サポート エンタープライズ レベルの 24 時間年中無休のサポート\n検索 / サインイン サインアップ 外観設定\n別のタブまたはウィンドウでサインインしました。リロードしてセッションを更新します。\n別のタブまたはウィンドウでサインアウトしました。リロードしてセッションを更新します。\n別のタブまたはウィンドウでアカウントを切り替えました。リロードしてセッションを更新します。"
-    },
-    {
-      "rank": 30,
-      "hn_id": 49345869,
-      "title": "US advisory body says China's data dominance gives it AI advantage",
-      "title_ja": "米国の諮問機関、中国のデータ優位性がAIの優位性をもたらしていると主張",
-      "hn_url": "https://news.ycombinator.com/item?id=49345869",
-      "source_url": "https://www.reuters.com/world/china/us-advisory-body-says-chinas-data-dominance-gives-it-ai-advantage-2026-08-18/",
-      "score": 2,
-      "final_score": 2,
-      "comments": 0,
-      "posted_at": "2026-08-18T14:08:29Z",
-      "summary_ja": "米国の諮問機関、中国のデータ支配がAIの優位性をもたらしていると発言"
     }
   ]
 }

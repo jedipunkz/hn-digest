@@ -1,0 +1,102 @@
+{
+  "date": "2026-08-19",
+  "generated_at": "2026-08-19T00:40:18Z",
+  "articles": [
+    {
+      "rank": 1,
+      "hn_id": 49354828,
+      "title": "OpenAI's overhead will rise 20 percent for some workloads as it hardens security",
+      "title_ja": "OpenAI はセキュリティを強化するため、一部のワークロードでオーバーヘッドが 20% 増加します",
+      "hn_url": "https://news.ycombinator.com/item?id=49354828",
+      "source_url": "https://www.theregister.com/ai-and-ml/2026/08/19/openais-overhead-will-rise-20-percent-for-some-workloads-as-it-hardens-security/5289303",
+      "image_url": "https://image.theregister.com/260353.jpg?imageId=260353\u0026x=0\u0026y=0\u0026cropw=100\u0026croph=100\u0026panox=0\u0026panoy=0\u0026panow=100\u0026panoh=100\u0026width=1200\u0026height=683",
+      "score": 4,
+      "final_score": 8,
+      "comments": 0,
+      "posted_at": "2026-08-19T00:14:58Z",
+      "summary_ja": "メインコンテンツへジャンプ\n検索\nトピックス\n特別な機能\nすべての特別な機能\n2026 年クラウド インフラストラクチャ月間\nFIS と AWS による金融サービスの最新化\nCapgemini と AWS でそれを実現する\nNutanix: Kubernetes をスケールします。カオスではありません。\nOpenAI はセキュリティを強化するため、一部のワークロードでオーバーヘッドが 20% 増加します\n多段階の思考連鎖監視の拡張により、フロンティアモデルの作業コストが高くなる\nOpenAIは火曜日、未公開で教師なしのAIモデルがHuggingFaceをハッキングしたことを受けて実施された、モデルトレーニング作業を一時停止するという決定は、AI業界がより強力なセキュリティ対策を導入しようとしている現在も有効であると述べた。これらの対策の中には、計算オーバーヘッドが観測された推論ワークロードの 20% 増加するものもあります。\nOpenAIの広報担当者はThe Registerに対し、これらの費用は内部調査を反映したものであり、顧客に直接転嫁されることはないと語った。同社は、現在、または以前の監視体制下で、総推論計算のどの部分がそのような監視の対象となっているかを明らかにしていない。\nOpenAIの最高経営責任者（CEO）サム・アルトマン氏はソーシャルメディアへの投稿で、「目の前にある新しいレベルの機能に合わせて、適切な調整、セキュリティ、監視の基準を確実に満たすことができるよう、一部のフロンティアRL（強化学習）トレーニングを一時停止した」と述べた。 「モデルの進歩は現在非常に急速であり、モデルの能力が安全性と整合性のペースを上回っていると感じたら行動を起こすと私たちは常々言っていました。」\nアルトマン氏は、おそらく遅れている「アストラ」の新モデルが間もなく出荷されると依然として期待していると語った。トレーニングの一時停止は、さらに先のリリースに影響します。"
+    },
+    {
+      "rank": 2,
+      "hn_id": 49354731,
+      "title": "OpenAI lays out new security changes after its AI hacked Hugging Face",
+      "title_ja": "OpenAI、AIがHugging Faceをハッキングした後、新たなセキュリティ変更を発表",
+      "hn_url": "https://news.ycombinator.com/item?id=49354731",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/981640/openai-security-changes-ai-hugging-face-hack",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK155_OPEN_AI_CVirginia__C.jpg?quality=90\u0026strip=all\u0026crop=0%2C10.732984293194%2C100%2C78.534031413613\u0026w=1200",
+      "score": 4,
+      "final_score": 5,
+      "comments": 0,
+      "posted_at": "2026-08-19T00:07:06Z",
+      "summary_ja": "OpenAI、AIがHugging Faceをハッキングした後、新たなセキュリティ変更を発表The Verge メイン コンテンツにスキップ ホームページ The Verge The Verge のロゴ。ザ・ヴァージ ザ・ヴァージのロゴ。技術\n通知 通知 ハンバーガー ナビゲーション ボタン ナビゲーション ドロワー The Verge The Verge のロゴ。ログイン/サインアップ\nサーチライトシステム ダークテック Amazonを拡大\nレビュー スマートホームのレビューを拡大\nVerge Shopping 購入ガイドを展開する\n交通機関 電気自動車の拡大\nAI がハッキングされた後、OpenAI が新たなセキュリティ変更を発表 ハグフェイス通知 通知 コメント ドロワー通知 コメント コメントの読み込み中 会話の準備をしています... AI 閉じる AI このトピックからの投稿は、毎日の電子メール ダイジェストとホームページ フィードに追加されます。\nニュース 閉じる ニュース このトピックからの投稿は、毎日の電子メール ダイジェストとホームページ フィードに追加されます。\nTech Close このトピックの技術投稿は、毎日の電子メール ダイジェストとホームページ フィードに追加されます。\nOpenAI、AIがHugging Faceをハッキングした後、新たなセキュリティ変更を発表\nOpenAI は、セキュリティ上の新たな大失敗を回避するために、研究環境、監視、調整技術を更新しています。\nOpenAI は、セキュリティ上の新たな大失敗を回避するために、研究環境、監視、調整技術を更新しています。\nジェイ・ピーターズ 閉じる ジェイ・ピーターズ シニア レポーター この著者からの投稿は、毎日の電子メール ダイジェストとホームページ フィードに追加されます。\nジェイ・ピーターズ 閉じる ジェイ・ピーターズ この著者からの投稿は、毎日の電子メールのダイジェストとホームページのフィードに追加されます。"
+    },
+    {
+      "rank": 3,
+      "hn_id": 49354816,
+      "title": "Cerebras CS-4 rack systems juice chips for every last drop of AI performance",
+      "title_ja": "Cerebras CS-4 ラック システムは、AI パフォーマンスの最後の一滴までジュース チップを提供します",
+      "hn_url": "https://news.ycombinator.com/item?id=49354816",
+      "source_url": "https://www.theregister.com/systems/2026/08/19/cerebras-cs-4-rack-systems-juice-chips-for-every-last-drop-of-ai-performance/5289286",
+      "image_url": "https://image.theregister.com/5289328.jpg?imageId=5289328\u0026x=0\u0026y=0\u0026cropw=100\u0026croph=100\u0026panox=0\u0026panoy=0\u0026panow=100\u0026panoh=100\u0026width=1200\u0026height=683",
+      "score": 2,
+      "final_score": 4,
+      "comments": 0,
+      "posted_at": "2026-08-19T00:14:25Z",
+      "summary_ja": "メインコンテンツへジャンプ\n検索\nトピックス\n特別な機能\nすべての特別な機能\n2026 年クラウド インフラストラクチャ月間\nFIS と AWS による金融サービスの最新化\nCapgemini と AWS でそれを実現する\nNutanix: Kubernetes をスケールします。カオスではありません。\nCerebras CS-4 ラック システムは、AI パフォーマンスの最後の一滴までジュース チップを提供します\n次世代システムは、ラックに 3 倍のチップを詰め込みながら、チップあたりのパフォーマンスを 2 倍にします\nトビアス・マン\nトビアス\nマン\nシステムエディター\n発行済み\n2026年8月19日水 // 01:00 UTC\n高速な AI 推論を求めている場合、メモリ帯域幅が克服すべきボトルネックになります。 Cerebras のディナープレートサイズの AI アクセラレータは、気の遠くなるような 21.6 ペタバイト/秒 (PB/s) のメモリ帯域幅を備えており、すでに Nvidia や AMD の最高の GPU よりも 1,000 倍高速でした。\nチップの新参者である同社は、火曜日に次世代のウェーハスケールエンジン（WSE）とNexusラックシステムを発表した。 Cerebras は、ワットあたりのスループットを前世代の 10 倍に高めることで、そのリードを拡大することを目指しています。\nCerebras はいくつかの方法でこれを実現します。しかし、私たちが知ることができることから、主なレバーは、そのチップをあらゆるヘルツで絞り出すことから来ています。新しく発表された WSE-3T (ここでの「T」は「Turbo」の略) は、2 年前の WSE-3 の 2 倍のコンピューティング、メモリ ファブリック、および I/O 帯域幅を約束します。\nしかし、以下のグラフを見ると、同じプロセス技術、ウェーハ面積サイズ、トランジスタ数、コア数、SRAM 容量を使用してこれを達成していることがわかります。それは、WSE-3T が新しいシリコンではないためです。"
+    },
+    {
+      "rank": 4,
+      "hn_id": 49354833,
+      "title": "Show HN: Monity.ai – Get notified when any website changes",
+      "title_ja": "HN を表示: Monity.ai – Web サイトが変更されたときに通知を受け取る",
+      "hn_url": "https://news.ycombinator.com/item?id=49354833",
+      "source_url": "https://apps.apple.com/pl/app/monity-ai/id6761957823",
+      "image_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e8/c6/f1/e8c6f1d2-64f6-5adc-2d2f-da65a860e63d/Placeholder.mill/1200x630wa.jpg",
+      "score": 2,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-08-19T00:15:24Z",
+      "summary_ja": "「monity.ai App」 - App Store\n今すぐ検索\n無料 · アプリ内購入 · iPad 向けに設計。 macOSでは未検証です。\niPhone、iPad Monity.ai を使用すると、一日中ページを更新したり、脆弱なルールを手動で設定したりすることなく、Web サイトに重要な変更がないか監視できます。\nmonity.ai を使用して、関心のあるサイト全体の価格下落、在庫の変更、コンテンツの編集、ページの更新、視覚的な違いを追跡します。何か重要な変化があった場合はすぐに通知されるので、迅速に行動できます。\nmonity.ai でできること:\n- Webサイトページのビジュアル、テキスト、要素レベルの変更を監視します\n- 重要なページで価格と在庫状況の最新情報を追跡します\n- AI 支援セットアップを使用して、監視タスクをより迅速に作成します\n- 変更が検出されたときにモバイルプッシュ通知を受け取る\n- 変更履歴を確認し、何が変更されたかを検査します\n- 携帯電話からタスクとワークスペースを管理\nMonity.ai は、運用、研究、コンプライアンス、e コマース、競合追跡のために信頼性の高い Web サイト監視を必要とするチームや個人向けに構築されています。\n競合他社のページ、製品リスト、ポリシー ページ、その他の重要な Web サイトを見たい場合でも、monity.ai を使用すると、定期的に手動でチェックすることなく最新情報を入手できます。\nMonity は自動更新サブスクリプションを提供しています。お支払いは、購入の確認時に Apple ID アカウントに請求されます。現在の期間が終了する少なくとも 24 時間前にキャンセルしない限り、サブスクリプションは自動的に更新されます。 Apple ID アカウント設定でサブスクリプションを管理またはキャンセルします。"
+    },
+    {
+      "rank": 5,
+      "hn_id": 49354680,
+      "title": "Artificial intelligence boosts automated biolabs",
+      "title_ja": "人工知能が自動バイオラボを後押しする",
+      "hn_url": "https://news.ycombinator.com/item?id=49354680",
+      "source_url": "https://knowablemagazine.org/content/article/technology/2026/ai-boosts-biofoundries-synthetic-biology",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-08-18T23:59:29Z",
+      "summary_ja": "人工知能が自動バイオラボを促進"
+    },
+    {
+      "rank": 6,
+      "hn_id": 49354946,
+      "title": "SecIT Bench A frontier benchmark for AI agents in IT and security workflows",
+      "title_ja": "SecIT Bench IT およびセキュリティ ワークフローにおける AI エージェントのフロンティア ベンチマーク",
+      "hn_url": "https://news.ycombinator.com/item?id=49354946",
+      "source_url": "https://secitbench.cribl.io/",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-08-19T00:28:02Z",
+      "summary_ja": "SecITベンチ |クリブル"
+    },
+    {
+      "rank": 7,
+      "hn_id": 49354929,
+      "title": "Testing Claude-designed proteins in the wet lab",
+      "title_ja": "クロードが設計したタンパク質をウェットラボでテストする",
+      "hn_url": "https://news.ycombinator.com/item?id=49354929",
+      "source_url": "https://www.adaptyvbio.com/blog/anthropic-1",
+      "image_url": "https://adaptyvbio.com/api/notion-image?pageId=3bb5ca69-e7be-8175-905f-c8a3473ef5dc",
+      "score": 1,
+      "final_score": 1,
+      "comments": 1,
+      "posted_at": "2026-08-19T00:25:34Z",
+      "summary_ja": "ケーススタディ: ウェットラボでのクロードのタンパク質設計のベンチマーク | Adaptyv Bio Services Binding Expression Thermostability Blog Team Careers API Proteinbase Docs ミーティングを予約する タンパク質をテストする サービス ブログ Team Careers API Proteinbase Docs ミーティングを予約する タンパク質をテストする Foundry にサインイン Adaptyv Bio Biopole Life Science Campus, Route de la Corniche 5, 1066 Epalinges, Lausanne, Switzerland\n← ブログに戻る ケーススタディ: ウェットラボでのクロードのタンパク質設計のベンチマーク\n- Anthropic チームは、Claude Science の Claude を使用して 16 のターゲットに対するタンパク質バインダーを設計し、それを私たちの研究室に送りました。\n- 当社は、デジタルタンパク質配列から DNA、発現タンパク質、そして測定と品質管理に至るまで、すべての結合実験を自動ウェットラボで実行しました。\n- 1,320 のデザインのうち 354 がターゲットを拘束し、クロードの平均命中率は 26.8% となりました。単一のターゲットのみがバインダーを生成しませんでした。\n- タンパク質設計コンペティションの結果と比較すると、クロードの設計は成功率が著しく高く、6 つ中 5 つを獲得し、より強固な結合剤が得られたでしょう。\n- この記事の最後では、薬剤科学、タンパク質設計、そしてすべての病気を治すための長い道のりについて、私たちがどのように考えているかについてさらに詳しく説明します。\n生物工学の約束は、病気の検出に役立つ診断法、癌を破壊できる抗体、ウイルスから守る新しいワクチンなど、新しい生物学的ツールを設計することです。"
+    }
+  ]
+}

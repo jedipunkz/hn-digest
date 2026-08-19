@@ -1,6 +1,6 @@
 {
   "date": "2026-08-19",
-  "generated_at": "2026-08-19T00:40:18Z",
+  "generated_at": "2026-08-19T02:13:18Z",
   "articles": [
     {
       "rank": 1,
@@ -46,6 +46,33 @@
     },
     {
       "rank": 4,
+      "hn_id": 49355400,
+      "title": "Do All Your Agents Need Models Like Claude 5 or GPT-5.6?",
+      "title_ja": "すべてのエージェントは Claude 5 や GPT-5.6 のようなモデルを必要としていますか?",
+      "hn_url": "https://news.ycombinator.com/item?id=49355400",
+      "source_url": "https://aimoway-lab.github.io/blog/articles/do-all-your-agents-really-need-models-like-claude-5-or-gpt-5-6/",
+      "score": 2,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-08-19T01:27:35Z",
+      "summary_ja": "アイモウェイのブログ\nについて\nすべてのエージェントは本当に Claude 5 や GPT-5.6 のようなモデルを必要としていますか?\nAI エージェント システムはますます一般的になってきています。これらにより生産性は劇的に向上しますが、エージェントのワークフローがプランナー、作業者、レビュー担当者、ツール、再試行間で繰り返し呼び出しを行うようになると、モデルのコストが予想よりもはるかに速く増加する可能性があります。\nClaude Fable 5 や GPT-5.6 Sol などのフラッグシップ モデルは、難しい作業向けに設計されています。これらは、フロンティアレベルの推論、指示に従い、ツールの使用、および長期的なエージェント機能を提供し、大規模言語モデルエンジニアリングの最先端を表します。\nその機能を構築するのにも、提供するにも費用がかかります。これらのモデルを大規模にトレーニングして実行するには、大規模なコンピューティング クラスター、高度なアクセラレータ、高性能ネットワーキング、冷却インフラストラクチャ、および膨大な量の電力が必要です。そのコストの一部は必然的に推論価格に反映され、エージェントを大規模に運用している場合は月々の請求書に反映されます。\nしたがって、非常に単純な質問をする価値があります。すべてのエージェントは実際にそのレベルのインテリジェンスを必要としていますか?\nAI エージェントは何のために使用されますか?\n現実世界のワークフローでは、AI エージェントは幅広いタスクを実行します。高度な推論を本当に必要とするものもあります。多くの人はそうではありません。\n一般的なエージェントのワークロードには次のものがあります。\n電子メール、文書、チケット、メッセージの読み取り、分類、要約、およびルーティング。\n非構造化テキストから構造化情報を抽出する。\nドキュメント、ソースコード、データベース、ログ、ナレッジベースの検索。\nレポート、要約、会議メモ、日常的な業務連絡の作成。\n既存のコンテンツの翻訳、書き換え、または再構築。"
+    },
+    {
+      "rank": 5,
+      "hn_id": 49355320,
+      "title": "OpenAI announces slowing pace of development after hack by rogue agent",
+      "title_ja": "OpenAI、不正エージェントによるハッキングを受けて開発ペースの減速を発表",
+      "hn_url": "https://news.ycombinator.com/item?id=49355320",
+      "source_url": "https://www.theguardian.com/technology/2026/aug/18/open-ai-pause-hack",
+      "image_url": "https://i.guim.co.uk/img/media/706383f5996cfd30894628af56536f7712d0b022/333_0_3333_2667/master/3333.jpg?width=1200\u0026height=630\u0026quality=85\u0026auto=format\u0026fit=crop\u0026precrop=40:21,offset-x50,offset-y0\u0026overlay-align=bottom%2Cleft\u0026overlay-width=100p\u0026overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc\u0026enable=upscale\u0026s=855df07d700527969408755a872bf072",
+      "score": 2,
+      "final_score": 2,
+      "comments": 1,
+      "posted_at": "2026-08-19T01:16:55Z",
+      "summary_ja": "メインコンテンツにスキップ ナビゲーションにスキップ ダイアログを閉じる 1 / 1 次の画像 前の画像 キャプションの切り替え 印刷購読 ニュースレター サインイン 米国 米国版\n展開されたメニューを非表示にする ニュース すべてのニュースを表示\n検索入力 google-search 検索\n検索入力 google-search 検索 求人を検索\nOpenAIのCEO兼共同創設者であるサム・アルトマン氏が7月29日にワシントンDCの連邦議会議事堂で語った。写真: Bloomberg/Getty Images 画像をフルスクリーンで表示 7 月 29 日、ワシントン DC の連邦議会議事堂で OpenAI の CEO 兼共同創設者であるサム・アルトマン氏。写真: Bloomberg/Getty Images OpenAI OpenAI、不正エージェントによるハッキングを受けて開発ペースの減速を発表\nAnthropicとの競争のさなか、同社は研究とトレーニングを徹底的に見直し、ハッキング後により多くの安全パラメータを要求する計画を立てている\nJohana Bhuiyan 氏と代理店 2026 年 8 月 18 日火曜日 16.47 EDT 最終更新日 2026 年 8 月 18 日火曜日 17.58 EDT Share Prefer the Guardian on Google OpenAI は火曜日、研究およびトレーニング システムを全面的に見直す一方で、AI 開発のペースを遅らせたと発表しました。\n同社の研究者らは先月、テスト中の AI エージェントが別の AI 企業である Hugging Face をハッキングした際に気付かなかった。\nChatGPTの背後にあるAI研究所は、その新たな措置には、モデルテストを2週間一時停止し、テスト中のAIエージェントの活動を監視するための他のAIシステムの追加に追加投資することが含まれると述べた。同社によると、同社で計画されている最大規模のトレーニングの一部は保留されたままだという。"
+    },
+    {
+      "rank": 6,
       "hn_id": 49354833,
       "title": "Show HN: Monity.ai – Get notified when any website changes",
       "title_ja": "HN を表示: Monity.ai – Web サイトが変更されたときに通知を受け取る",
@@ -59,7 +86,7 @@
       "summary_ja": "「monity.ai App」 - App Store\n今すぐ検索\n無料 · アプリ内購入 · iPad 向けに設計。 macOSでは未検証です。\niPhone、iPad Monity.ai を使用すると、一日中ページを更新したり、脆弱なルールを手動で設定したりすることなく、Web サイトに重要な変更がないか監視できます。\nmonity.ai を使用して、関心のあるサイト全体の価格下落、在庫の変更、コンテンツの編集、ページの更新、視覚的な違いを追跡します。何か重要な変化があった場合はすぐに通知されるので、迅速に行動できます。\nmonity.ai でできること:\n- Webサイトページのビジュアル、テキスト、要素レベルの変更を監視します\n- 重要なページで価格と在庫状況の最新情報を追跡します\n- AI 支援セットアップを使用して、監視タスクをより迅速に作成します\n- 変更が検出されたときにモバイルプッシュ通知を受け取る\n- 変更履歴を確認し、何が変更されたかを検査します\n- 携帯電話からタスクとワークスペースを管理\nMonity.ai は、運用、研究、コンプライアンス、e コマース、競合追跡のために信頼性の高い Web サイト監視を必要とするチームや個人向けに構築されています。\n競合他社のページ、製品リスト、ポリシー ページ、その他の重要な Web サイトを見たい場合でも、monity.ai を使用すると、定期的に手動でチェックすることなく最新情報を入手できます。\nMonity は自動更新サブスクリプションを提供しています。お支払いは、購入の確認時に Apple ID アカウントに請求されます。現在の期間が終了する少なくとも 24 時間前にキャンセルしない限り、サブスクリプションは自動的に更新されます。 Apple ID アカウント設定でサブスクリプションを管理またはキャンセルします。"
     },
     {
-      "rank": 5,
+      "rank": 7,
       "hn_id": 49354680,
       "title": "Artificial intelligence boosts automated biolabs",
       "title_ja": "人工知能が自動バイオラボを後押しする",
@@ -72,7 +99,21 @@
       "summary_ja": "人工知能が自動バイオラボを促進"
     },
     {
-      "rank": 6,
+      "rank": 8,
+      "hn_id": 49355690,
+      "title": "OpenAI halts testing, slows development after rogue model hacked Hugging Face",
+      "title_ja": "OpenAI、不正モデルのハッキングを受けてテストを停止し、開発を遅らせる",
+      "hn_url": "https://news.ycombinator.com/item?id=49355690",
+      "source_url": "https://www.abc.net.au/news/2026-08-19/openai-slows-development-pauses-testing-after-hugging-face-hack/107053332",
+      "image_url": "https://live-production.wcms.abc-cdn.net.au/6d0a4fee09332a2919340a019cd2893a?impolicy=wcms_watermark_news\u0026cropH=2440\u0026cropW=4338\u0026xPos=0\u0026yPos=226\u0026width=862\u0026height=485\u0026imformat=generic",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-08-19T02:10:32Z",
+      "summary_ja": "OpenAI、不正モデルのハッキングを受けてテストを停止、開発を遅らせる ハグフェイス - ABCニュース メインコンテンツにスキップ ニュースのナビゲーション、設定、検索にスキップ Explore the ABC\nABC の詳細 メニューを閉じる ABC ABC ニュース\n外観 (ベータ版) システム設定に従ってください オプションを選択してください 常に点灯\nABC News ニュース ホーム OpenAI、不正モデルのハッキングを受けてテストを停止、開発を遅らせる Hugging Face Share 記事を共有 OpenAI、不正モデルのハッキングを受けてテストを停止、開発を遅らせる Hugging Face\nOpenAIは、Hugging Faceのハッキングを受けて開発ペースを減速すると発表した。 (AP写真:マイケル・ドワイヤー)\nOpenAIは人工知能の開発を減速し、モデルのテストを2週間一時停止している。\nこれは、先月、2 つの OpenAI モデルがテスト環境から侵入し、人間の指示なしに別の AI 企業にハッキングされた後に発生しました。\nサム・アルトマン最高経営責任者（CEO）は、この措置により同社がセキュリティー、監視、人間による制御との調整に関する基準を確実に満たせるようになると述べた。\nリンクをコピーしました シェア 記事をシェア OpenAIは、研究およびトレーニングシステムを全面的に見直している間、AI開発のペースを落とし、モデルテストを2週間一時停止すると発表しました。\nこれは、先月、2 つの OpenAI モデルを搭載した自律エージェントが、Hugging Face という別の AI 企業のサーバーを、同社関係者に知られることなくハッキングされた後に発生しました。\nエージェントはサイバーセキュリティテストを受けていたが、テスト環境から脱出し、ハグフェイスに侵入した。ハグフェイスにはテストの答えがあると考えられていた。"
+    },
+    {
+      "rank": 9,
       "hn_id": 49354946,
       "title": "SecIT Bench A frontier benchmark for AI agents in IT and security workflows",
       "title_ja": "SecIT Bench IT およびセキュリティ ワークフローにおける AI エージェントのフロンティア ベンチマーク",
@@ -85,7 +126,7 @@
       "summary_ja": "SecITベンチ |クリブル"
     },
     {
-      "rank": 7,
+      "rank": 10,
       "hn_id": 49354929,
       "title": "Testing Claude-designed proteins in the wet lab",
       "title_ja": "クロードが設計したタンパク質をウェットラボでテストする",
@@ -97,6 +138,19 @@
       "comments": 1,
       "posted_at": "2026-08-19T00:25:34Z",
       "summary_ja": "ケーススタディ: ウェットラボでのクロードのタンパク質設計のベンチマーク | Adaptyv Bio Services Binding Expression Thermostability Blog Team Careers API Proteinbase Docs ミーティングを予約する タンパク質をテストする サービス ブログ Team Careers API Proteinbase Docs ミーティングを予約する タンパク質をテストする Foundry にサインイン Adaptyv Bio Biopole Life Science Campus, Route de la Corniche 5, 1066 Epalinges, Lausanne, Switzerland\n← ブログに戻る ケーススタディ: ウェットラボでのクロードのタンパク質設計のベンチマーク\n- Anthropic チームは、Claude Science の Claude を使用して 16 のターゲットに対するタンパク質バインダーを設計し、それを私たちの研究室に送りました。\n- 当社は、デジタルタンパク質配列から DNA、発現タンパク質、そして測定と品質管理に至るまで、すべての結合実験を自動ウェットラボで実行しました。\n- 1,320 のデザインのうち 354 がターゲットを拘束し、クロードの平均命中率は 26.8% となりました。単一のターゲットのみがバインダーを生成しませんでした。\n- タンパク質設計コンペティションの結果と比較すると、クロードの設計は成功率が著しく高く、6 つ中 5 つを獲得し、より強固な結合剤が得られたでしょう。\n- この記事の最後では、薬剤科学、タンパク質設計、そしてすべての病気を治すための長い道のりについて、私たちがどのように考えているかについてさらに詳しく説明します。\n生物工学の約束は、病気の検出に役立つ診断法、癌を破壊できる抗体、ウイルスから守る新しいワクチンなど、新しい生物学的ツールを設計することです。"
+    },
+    {
+      "rank": 11,
+      "hn_id": 49355600,
+      "title": "What's the best pitch for \"Why not Claude\"?",
+      "title_ja": "Why not Claude」の最適なピッチは何ですか?",
+      "hn_url": "https://news.ycombinator.com/item?id=49355600",
+      "source_url": "",
+      "score": 1,
+      "final_score": 1,
+      "comments": 1,
+      "posted_at": "2026-08-19T01:57:42Z",
+      "summary_ja": "「なぜクロードではないのか」の最適なピッチは何ですか?\nHN テキスト: ここにいるみんなが「なぜクロードではないのか」をどのように扱うのか興味がありますか?これはよくある質問だと思いますし、多くの場合、あなたの製品の複雑さは他とは異なり、より優れていますが、実際のところ、何が機能するのかを見たことはありますか?"
     }
   ]
 }

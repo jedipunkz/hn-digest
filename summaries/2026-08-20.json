@@ -1,6 +1,6 @@
 {
   "date": "2026-08-20",
-  "generated_at": "2026-08-20T00:39:56Z",
+  "generated_at": "2026-08-20T02:12:25Z",
   "articles": [
     {
       "rank": 1,
@@ -31,6 +31,20 @@
     },
     {
       "rank": 3,
+      "hn_id": 49369546,
+      "title": "Claude Code adds new \"concise\" output style setting",
+      "title_ja": "Claude Code は新しい「簡潔な」出力スタイル設定を追加します",
+      "hn_url": "https://news.ycombinator.com/item?id=49369546",
+      "source_url": "https://twitter.com/ClaudeDevs/status/2090245922685063634",
+      "image_url": "https://pbs.twimg.com/media/HQIKUlgbYAAd03G.jpg:large",
+      "score": 2,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-08-20T01:49:57Z",
+      "summary_ja": "X の ClaudeDevs: 「クロード コードの出力スタイルを簡潔に設定できるようになりました。\nクロードは結果を導き、返答は短く保ちながら、質問すると詳細をすべて教えてくれます。\n/config→出力スタイルでオンにするか、settings.jsonで「outputStyle」:「Concise」を設定してください。 /Xポスト\nX の ClaudeDevs: 「クロード コードの出力スタイルを簡潔に設定できるようになりました。\nクロードは結果を導き、返答は短く保ちながら、質問すると詳細をすべて教えてくれます。\n/config→出力スタイルでオンにするか、settings.jsonで「outputStyle」:「Concise」を設定してください。\nClaudeDevs @ClaudeDevs クロード コードの出力スタイルを Concise に設定できるようになりました。\nクロードは結果を導き、返答は短く保ちながら、質問すると詳細をすべて教えてくれます。\n/config → 出力スタイルでオンにするか、settings.json で \"outputStyle\": \"Concise\" を設定します。 1:13 AM · 2026 年 8 月 20 日 107.2K 再生数 160 133 2.6K 1K\nFabrico @demfabris 53m 出力の耐荷重を軽減するスモーキングガンを見つけましたか? 4 3 241 5.9K\nIshu Agrawal @ishagra02 55 メートル ああ、なんてことだ、これが適切に機能するなら、作品 5 1 122 よりも良いリリースになるかもしれない 3.4K\nブライアン・エマニュエル @bryanemanuel 56m オーパスにニュースを伝えましたか? 28 1.7K\n何が起こっているかを確認して会話に参加してください\n電話で続行 Apple で続行 Google で続行、またはユーザー名または電子メールでログイン 関係者"
+    },
+    {
+      "rank": 4,
       "hn_id": 49368765,
       "title": "Multi-Level Analysis of GPU Utilization in ML Training Workloads [pdf]",
       "title_ja": "ML トレーニング ワークロードにおける GPU 使用率のマルチレベル分析 [pdf]",
@@ -43,7 +57,7 @@
       "summary_ja": "ML トレーニング ワークロードにおける GPU 使用率のマルチレベル分析 [pdf]"
     },
     {
-      "rank": 4,
+      "rank": 5,
       "hn_id": 49368828,
       "title": "Universality of Gradient Descent Neural Network Training",
       "title_ja": "勾配降下法ニューラル ネットワーク トレーニングの普遍性",
@@ -57,7 +71,48 @@
       "summary_ja": "メインコンテンツにスキップ\n検索\n送信する\n寄付する\nログイン\narXiv を検索\nEnter を押して検索 · 高度な検索\n--\u003e\nコンピューターサイエンス \u003e 機械学習\n[2020年7月27日提出]\nタイトル: 勾配降下法ニューラル ネットワーク トレーニングの普遍性\n要約: 最適化を成功させるには、ニューラル ネットワークの設計選択がしばしば重要であることが観察されています。したがって、この記事では、勾配降下法で適切にトレーニングできるようにニューラル ネットワークを再設計することが常に可能かどうかという問題について説明します。これにより、次のような普遍性の結果が得られます。特定のネットワークに対して、分類タスクに適したネットワークの重みを見つけることができるアルゴリズムが存在する場合、これらの重みと対応する順方向出力を単なる勾配降下トレーニングによって再現する、このネットワークの拡張が存在します。この構築は実際の計算を目的としたものではありませんが、メタ学習および関連するアプローチの可能性についてある程度の方向性を提供します。\nもっと学ぶために集中する\narXiv が DataCite 経由で発行した DOI\n投稿履歴\n書誌および引用ツール\nこの記事に関連するコード、データ、およびメディア\narXivLabs: コミュニティの協力者との実験的プロジェクト\narXivLabs は、共同作業者が新しい arXiv 機能を開発し、Web サイト上で直接共有できるようにするフレームワークです。\narXivLabs と協力する個人と組織はどちらも、オープン性、コミュニティ、卓越性、ユーザー データのプライバシーという当社の価値観を受け入れ、受け入れています。 arXiv はこれらの価値観を遵守し、それらを遵守するパートナーとのみ連携します。\narXiv コミュニティに価値を加えるプロジェクトのアイデアはありますか? arXivLabs について詳しくは、こちらをご覧ください。"
     },
     {
-      "rank": 5,
+      "rank": 6,
+      "hn_id": 49369311,
+      "title": "Agentic AI has made CPUs the new performance bottleneck",
+      "title_ja": "Agentic AI により CPU が新たなパフォーマンスのボトルネックになっている",
+      "hn_url": "https://news.ycombinator.com/item?id=49369311",
+      "source_url": "https://spectrum.ieee.org/ai-cpu-comeback",
+      "image_url": "https://spectrum.ieee.org/media-library/the-cpu-comeback-is-upon-us.jpg?id=67615384\u0026width=1200\u0026height=600\u0026coordinates=0%2C718%2C0%2C532",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-08-20T01:14:05Z",
+      "summary_ja": "--\u003e\nRaven.config('https://6b64f5cc8af542cbb920e0238864390a@sentry.io/147999').install();\nAgentic AI クランチにより CPU が復活 - IEEE Spectrum\nIEEE.org IEEE Explore IEEE Standards IEEE Job Site その他のサイト サインイン IEEE に参加 CPU の復活が近づいています テクノロジー インサイダーのためにシェア 検索: トピック別に探索 航空宇宙 AI 生物医学 気候 テクノロジー コンピューティング 家庭用電化製品 エネルギー 技術の歴史 ロボット工学 半導体 電気通信 輸送\nIEEEスペクトル\nテクノロジー関係者向けトピック\nアカウントを作成すると、さらに無料のコンテンツや特典をお楽しみいただけます\n後で読むために記事を保存するには、IEEE Spectrum アカウントが必要です\nインスティテュートのコンテンツはメンバーのみが利用できます\n全号 PDF のダウンロードは IEEE メンバー限定です\nこの電子ブックのダウンロードは IEEE メンバー限定です\nへのアクセス\nスペクトル\nのデジタル版は IEEE メンバー限定です\n以下のトピックは IEEE メンバー限定の機能です\n記事に回答を追加するには、IEEE Spectrum アカウントが必要です\nアカウントを作成すると、さらに多くのコンテンツや機能にアクセスできます\nIEEEスペクトル\n、後で読むために記事を保存したり、スペクトル コレクションをダウンロードしたり、イベントに参加したりする機能が含まれます。\n読者や編集者との会話。より独占的なコンテンツと機能については、次のことを検討してください。\nIEEEに参加する\n。\nエンジニアリングと応用科学を専門とする世界最大の専門組織に参加し、次の情報にアクセスしましょう。\nSpectrum のすべての記事、アーカイブ、PDF ダウンロード、その他の特典を利用できます。"
+    },
+    {
+      "rank": 7,
+      "hn_id": 49369402,
+      "title": "Credentialism is coming for AI agents",
+      "title_ja": "AIエージェントに資格主義が到来する",
+      "hn_url": "https://news.ycombinator.com/item?id=49369402",
+      "source_url": "https://betocmn.com/blog/credentialism-is-coming-for-ai-agents/",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-08-20T01:27:46Z",
+      "summary_ja": "AI エージェントに資格主義が登場 |ベト・モレイラ\nホーム 興味について 本棚の質問 仕事のブログ ベト・モレイラ AI エージェントに資格制度が登場\n今朝、私は好意的なエージェントに関するスコット・ベルスキーの指摘を読んでいました。彼は次のように述べています。\n「これらのエージェント企業の堀が、Uber、Airbnb、Amazon、Amex などのサービスや、ボットを防御している企業のロングテールなどのサービスに直接優先的にアクセスできる『優先エージェント』のステータスを獲得することだとしたらどうでしょうか?」\nそして、これは実際には、より大きな問題の一部であると思います。それは、誰がオンラインで私たちに代わって行動できるのかということです。\nこれについて私が考えているのは、確かに、これがどのように展開するかを形作る、より大きな賭けの規制がおそらく存在するだろうということです。しかし、いずれにせよ、AI エージェントが特定の市場やサービスへのアクセスをブロックされるのは間違いなく今後も続くでしょう。\nAI エージェントがより個人的な主体性と自由をもたらすことを期待していた人々にとって、これは驚くべきことかもしれませんが、エージェントの資格はおそらく重要なものになるでしょう。新しい扉を開こうとするときに、通っていた大学（または通っていなかった大学）や最後に勤めていた会社が重要であるのと同じように。\nたとえば、一部の銀行に OpenAI エージェントまたは GrokBot による API へのアクセスを許可し始めるとします。あるいは、それらはそうではないかもしれません。おそらく、Microsoft の Copilot のみが許可されるでしょう。それは、顧客の導入を促進したり、既存の企業関係を伴う可能性があるからです。\nこれによりさらに力が集中するかどうかを見るのは興味深いでしょう。"
+    },
+    {
+      "rank": 8,
+      "hn_id": 49369333,
+      "title": "How to use AI for your next job interview",
+      "title_ja": "次の就職面接で AI を活用する方法",
+      "hn_url": "https://news.ycombinator.com/item?id=49369333",
+      "source_url": "https://www.lennysnewsletter.com/p/how-to-use-ai-in-your-next-job-interview",
+      "image_url": "https://substackcdn.com/image/fetch/$s_!d0dw!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F05d5d17e-053e-4b41-bf16-243d1ee4b865_2912x1940.png",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-08-20T01:18:17Z",
+      "summary_ja": "次の就職面接で AI を使用する方法 - ノーム・シーガル著\n購読 サインイン 次の就職面接で AI を使用する方法\n30 人以上のテクノロジー専門家からの洞察と、それらを実践するための無料の AI コーチ\nノーム・シーガル Feb 24, 2026 ∙ 有料 724 25 50 シェア 👋 こんにちは、レニーです。私は毎週、製品の構築、成長の推進、キャリアの加速に関する読者の質問に答えています。詳細については、Lenny のポッドキャスト |レニーボット | AI の仕組み\n追伸Insider サブスクライバーになると、Lovable、Manus、Replit、Gamma、n8n、Canva、イレブンラボ、Amp、Factory、Devin、Bolt、Wispr Flow、Linear、PostHog、Framer、Railway、Granola、Warp、Perplexity、Magic Patterns、Mobbin、ChatPRD、および Stripe Atlas を 1 年間完全に無料で入手できます。\nこのコミュニティで最もよく聞かれる質問の 1 つは、AI が面接対象者と採用担当者の両方の面接プロセスにどのような影響を与えているかというものです。\nそれを知るために、私のコミュニティ リサーチ リーダーのノーム シーガルは、AI が採用プロセスの両面でどのように変革を起こしているかを知るために、現在および最近の求職者および採用担当者数十人にインタビューしました。\nこの調査結果のパート 1 (下記) は求職者に焦点を当てており、ノームがここでとったアプローチは非常に並外れたものです。彼が学んだことを分析し始めたとき、その結果がきちんとしたアドバイスやヒントに凝縮されていないことに気づきました。優秀な候補者は、面接プロセスのあらゆる段階に備えて相互接続されたシステムを構築していました。そこで、ノームはこの投稿でユニークなことを行いました。"
+    },
+    {
+      "rank": 9,
       "hn_id": 49368649,
       "title": "Jugwalking: Exercise Your Mind, Your Body, and the Neural Network That Connects",
       "title_ja": "ジャグウォーキング: 心、体、そして接続する神経ネットワークを鍛えましょう",
@@ -70,7 +125,7 @@
       "summary_ja": "ジャグウォーキング: 心、体、そしてそれらをつなぐニューラル ネットワークを鍛えましょう |デビッド メイナード デビッド メイナード ホーム ブログについて ☀️ ジャグウォーキング: 心、体、そしてそれらをつなぐニューラル ネットワークを鍛える\nまずジャグリングの方法を学ぶ必要があります\n簡単なので、誰でもジャグリングを学ぶことができます。ある程度の練習は必要ですが、楽器の演奏を習ったり、外国語を習ったりするよりもずっと簡単です。それも楽しいですね。\nジャグリングを学ぶことの利点。\n新しい灰白質と白質の脳細胞を成長させる\nポータブル、ポケットに運動器具を入れて持ち運べます\n脳には、処理と計算が行われる神経細胞体である灰白質と、神経細胞と中枢神経系の間で電気信号を伝達する神経線維の長い束である白質が含まれています。別の科学的研究では、構造の成長と変化が示されています。\nジャグリングを学んだ人々のMRIで見られるように、7日以内に灰白質と白質の両方が観察されます。興味深いのは、実験参加者全員が 30 日間の実験中にジャグリングを習得したということです。だからあなたもできます！\nTL;DR ジャグリングを 1 週間以内に新しい脳細胞が成長することを証明した科学論文。学習による灰白質の変化\nTL;DR ジャグリングによる新しい白血球の成長を証明する科学論文。ジャグリングは脳内のつながりを強化する\nこれは、ジャグリングの方法を教えるステップバイステップのチュートリアルです。\nジャグリングを学ぶ (15 分のビデオ)\n私がこれまで会ったジャグラーは皆、ジャグリングが活動的な瞑想の一種になっていると感じています。それは確かにあなたに集中し、現在に完全に気づき、完全に集中することを強制します。 Joe Hart は、この 3 分間のビデオ「アクティブな瞑想としてのジャグリングの紹介」でこれについて説明しています。同様に、「瞑想を理解する |」を参照してください。"
     },
     {
-      "rank": 6,
+      "rank": 10,
       "hn_id": 49368932,
       "title": "Make shareable software for free using Gemini 3.7 flash on Reachpad",
       "title_ja": "Reachpad の Gemini 3.7 フラッシュを使用して共有可能なソフトウェアを無料で作成する",
@@ -82,6 +137,19 @@
       "comments": 0,
       "posted_at": "2026-08-20T00:21:24Z",
       "summary_ja": "Gemini 3.7 フラッシュが無料で提供 · リーチパッド 無料モデル Gemma 4 31B + Gemini 3.7 すべてのパッドにフラッシュ → リーチパッド CLI ドキュメント 価格 ブログ お問い合わせ ログイン トライアル ブログを開始\nGemini 3.7 Flash が無料で提供される\nGemini 3.7 Flash がすべてのパッドに含まれるようになりました。 Gemma 4 31B および Gemini 3.6 Flash に加わります。OpenCode の 3 つのモデル、プロバイダー アカウントなし、貼り付けるキーなし、使用法はパッドに含まれています。\n各モデルは OpenCode の独自のプロバイダー エントリであり、agent.reachpad.dev のリーチパッド モデル ゲートウェイから提供されます。ピッカーは 3 つすべてをパッド上に表示します。\nインストールするものや貼り付けるものは何もありません。パッドはプロバイダーが構成され、独自の資格情報とともに届くため、シェルを開く前にモデルの準備ができています。パッドの機能を OpenCode に尋ねます。\n$ opencode models モデルごとに 1 行、プロバイダーを最初に出力します。同じ ID で 3.7 に対してワンショットを実行します。\n$ opencode run -m reversepad-gemini-3-7/gemini-3-7-flash \"explain this repo\" OpenCode TUI では、/model によってピッカーが開き、ステータス バーにどのプロバイダーが応答したかが表示されます。各モデルが個別のエントリであり、間違ったモデルも同じように流暢に応答するため、一見の価値があります。デフォルトを固定するには、 ~/.config/opencode/opencode.json でモデルを設定します。パッドはその選択肢を保持します。"
+    },
+    {
+      "rank": 11,
+      "hn_id": 49369538,
+      "title": "Misconfigured Admin System Prompts Can Invert an LLM's Safety Layer",
+      "title_ja": "管理システムのプロンプトの構成が間違っていると、LLM の安全層が逆転する可能性がある",
+      "hn_url": "https://news.ycombinator.com/item?id=49369538",
+      "source_url": "https://medium.com/@aadvait.cr/how-misconfigured-admin-system-prompts-can-invert-every-single-llm-safety-layer-1085a1d79b55",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-08-20T01:48:42Z",
+      "summary_ja": "管理システム プロンプトの設定が間違っていると、LLM の安全層が反転する可能性があります"
     }
   ]
 }

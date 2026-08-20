@@ -1,6 +1,6 @@
 {
   "date": "2026-08-20",
-  "generated_at": "2026-08-20T14:27:19Z",
+  "generated_at": "2026-08-20T15:26:01Z",
   "articles": [
     {
       "rank": 1,
@@ -60,7 +60,7 @@
       "rank": 5,
       "hn_id": 49372781,
       "title": "Dutch data protection authority advises Twitch users to opt out from Amazon AI",
-      "title_ja": "オランダのデータ保護当局、TwitchユーザーにAmazon AIからオプトアウトするよう勧告",
+      "title_ja": "オランダのデータ保護当局がTwitchユーザーにAmazon AIからオプトアウトするよう勧告",
       "hn_url": "https://news.ycombinator.com/item?id=49372781",
       "source_url": "https://www.autoriteitpersoonsgegevens.nl/en/current/ap-advises-twitch-users-opt-out-from-sharing-data-with-amazon-ai",
       "image_url": "https://www.autoriteitpersoonsgegevens.nl/uploads/styles/og/public/2026-08/Gamer%20livestream.jpg?itok=sWtbtFnJ",
@@ -87,7 +87,7 @@
       "rank": 7,
       "hn_id": 49374772,
       "title": "Hacking with Claude on a $27 Smart Watch",
-      "title_ja": "27 ドルのスマートウォッチでクロードとハッキング",
+      "title_ja": "27 ドルのスマート ウォッチでクロードとハッキング",
       "hn_url": "https://news.ycombinator.com/item?id=49374772",
       "source_url": "https://www.mikekasberg.com/blog/2026/08/19/hacking-with-claude-on-a-27-smart-watch.html",
       "image_url": "https://www.mikekasberg.com//images/posts/hacking-with-claude-on-a-27-smartwatch-full.jpg",
@@ -115,7 +115,7 @@
       "rank": 9,
       "hn_id": 49374743,
       "title": "'Not a theoretical risk,' feds warn as attackers use AI-made code",
-      "title_ja": "攻撃者がAIで作ったコードを使用、「理論上のリスクではない」と連邦当局が警告",
+      "title_ja": "攻撃者がAIで作ったコードを使用していることに「理論上のリスクではない」と連邦当局が警告",
       "hn_url": "https://news.ycombinator.com/item?id=49374743",
       "source_url": "https://www.theregister.com/security/2026/08/19/not-a-theoretical-risk-feds-warn-as-attackers-use-ai-made-code-to-hack-critical-infrastructure-controllers/5289960",
       "image_url": "https://image.theregister.com/5289987.jpg?imageId=5289987\u0026x=0\u0026y=0\u0026cropw=100\u0026croph=100\u0026panox=0\u0026panoy=0\u0026panow=100\u0026panoh=100\u0026width=1200\u0026height=683",
@@ -210,6 +210,19 @@
     },
     {
       "rank": 16,
+      "hn_id": 49375033,
+      "title": "ONNX.css – Neural network inference using stylesheets",
+      "title_ja": "ONNX.css – スタイルシートを使用したニューラル ネットワーク推論",
+      "hn_url": "https://news.ycombinator.com/item?id=49375033",
+      "source_url": "https://onnx.css.evanking.io/",
+      "score": 3,
+      "final_score": 3,
+      "comments": 0,
+      "posted_at": "2026-08-20T14:26:08Z",
+      "summary_ja": "O ONNX.css\nデモについて\nONNX モデル → CSS スタイルシート\nONNX モデルを選択し、CSS スタイルシートにコンパイルして、ブラウザーのスタイル エンジンに推論を実行させます。\nブラウザのスタイル エンジンは、CSS で表現されたニューラル ネットワークを使用して結果を推測します。\nマウス、トラックパッド、またはタッチを使用して描画します。\nモデルのソース: ONNX Model Zoo / MNIST 。 ONNX opset 8 を使用して公式に検証された mnist-8.onnx モデル。\nブラウザのスタイル エンジンは、CSS で表現されたニューラル ネットワークを使用して画像を生成します。\nコントロールは 2 つの CSS カスタム プロパティに直接バインドされます。\n事前トレーニングされたチェックポイント: pszmk/mnist-vae-latent2 。このプロジェクトによって生成されたデコーダー専用の固定形状 ONNX エクスポート。\n音声をロードし、固定の 32 ミリ秒ウィンドウを選択し、CSS のニューラル ネットワークを使用して音声の確率を推定します。\nオーディオのデコードとリサンプリングは JavaScript で行われます。\nモデルソース: Silero VAD v6.2.1 。動的形状を削除するための小規模なモデル手術により、事前オーディオ コンテキストを含む 8 kHz ブランチが修正され、LSTM がプリミティブ オペレーターに引き下げられました。"
+    },
+    {
+      "rank": 17,
       "hn_id": 49372802,
       "title": "AI fired an S.F. store employee. Will California crack down on 'robobosses'?",
       "title_ja": "AI が S.F. を発射しました。店員。カリフォルニア州は「ロボボス」を取り締まるだろうか？",
@@ -222,7 +235,7 @@
       "summary_ja": "クライアントの課題\nこのサイトの必要な部分を読み込めませんでした。ブラウザが原因である可能性があります\n拡張機能、ネットワークの問題、またはブラウザの設定。ご確認ください。\n接続を再検討するか、広告ブロッカーを無効にするか、別のブラウザを使用してみてください。"
     },
     {
-      "rank": 17,
+      "rank": 18,
       "hn_id": 49374539,
       "title": "Mermaid as the Orchestration Layer for Claude Dynamic Workflows",
       "title_ja": "クロードダイナミックワークフローのオーケストレーションレイヤーとしての Mermaid",
@@ -235,7 +248,7 @@
       "summary_ja": "AI および LLM エージェント用のツール (オーケストレーション、サンドボックス、それらにフィードを供給するデータ パイプライン) を構築しています。\nPython、Rust、Linux の内部で何が起こっているかを体験してください。\n私の経歴はバックエンドと AI/データ エンジニアリングであり、Doist と BuildingRadar での仕事によって形作られました。\nこのページでは、私のプロジェクト、私が模索しているアイデア、その過程で学んだことについて書いています。\nサブエージェントのコード駆動型オーケストレーション。\nエージェントのワークフローとループの構成要素。\nLLM エージェントのツール呼び出しオーケストレーション。\nリクエストはアセンブリ DSL で表される制御フローに一度コンパイルされます。\nデータ パイプラインと並列/分散コンピューティングのフレームワーク。\nデータ処理用のPythonライブラリ。\nそのアドレスはここでは何も一致しません。"
     },
     {
-      "rank": 18,
+      "rank": 19,
       "hn_id": 49373851,
       "title": "LinkedIn cracks down on automated content with AI detection button",
       "title_ja": "LinkedIn、AI検出ボタンで自動コンテンツを取り締まる",
@@ -248,7 +261,7 @@
       "summary_ja": "LinkedIn、新しい「AI のスロップのような」検出ボタンで自動コンテンツを取り締まる\nプロフェッショナル ネットワーキング プラットフォームは、AI スロップ分類器の節度を強化していますが、この動きはオンラインで議論を引き起こしています。\nこのコンテンツを引き続きお楽しみいただくには、以下からサインインしてください。無料で登録すると、さらにアクセスが制限されます\nまたは、今すぐ購読してすべてのコンテンツにフルアクセスしてください。\nサインインできませんか?\nパスワードをリセット: ここをクリックしてください\n✓ 毎月、限定された無料記事にアクセスできます\n✓ 電子メール速報 - 業界のトップニュースと洞察が直接受信箱に配信されます\n✓ ローカルおよびグローバルの最新の業界ニュースすべて\n✓ 最もインスピレーションを与える革新的なキャンペーン\n✓ 業界の主要人物からのインタビューと意見\n参加、共有、いいね、フォローしてください:"
     },
     {
-      "rank": 19,
+      "rank": 20,
       "hn_id": 49368725,
       "title": "If You're Not Studying for Retention, Just Use AI",
       "title_ja": "記憶力を維持するために勉強していない場合は、AI を使用してください",
@@ -261,7 +274,7 @@
       "summary_ja": "Felipe Mattosinho Felipe Jordão A.P Mattosinho 定着率を高めるために勉強していない場合は、AI を使用してください\nかつて勉強すると、知識へのアクセスと頭の中にある知識という 2 つのものが得られました。 AI は最初のものを採用し、これまでよりも優れた方法でそれを実行します。継続性は依然として追求する価値のある唯一の部分です。\n知識の保持を最適化するための 6 つのヒントを次に示します。\n頭が最も鋭敏なときに勉強する\nほとんどの人にとって、それは午前 4 時 30 分から 11 時の間です。学習には時間がかかります\n本当のエネルギーと努力 - 時には痛みを伴うことさえあります - だから、あなたはそれに取り組みたいのです\n疲れた脳ではなく、新鮮な脳で。あなたの保持に感謝します。\n実際に定着するのは遅い学習です。のための学習を誤解しないでください。\n学習の外観: 何かをその瞬間に理解しても、忘れてしまうだけ\n翌日までに終わらせるのは時間の無駄です。ゆっくり考えて、注釈を付けたり、\nそしてもう一度見てみましょう - 最も基本的なトピックであっても、あなたに教えられることがまだ残っています。\nあらゆるショートカットは、後で同じことを再学習するために費やす時間になります。\n各トピックを身近なものに結び付けながら風景をマッピングする\nこれは、ニューロンが新しいものを何かに強制的に配線することだと思います。\nあらかじめ確立された知識。これは基本的に質問をするプロセスです\n大声で脳内に情報を問いかけます。用語やトピックに出会っても、\nご存知のように、詳細に入る前に、まず風景のかなりの部分をカバーします\nサブブランチ - 新しいブランチに接続するのに役立つブランチは例外です。\n私がすでに知っていることの材料。それは簡単に実現できる成果です。\nつながりがより早く形成され、主題全体がより明確になります。私はこれらすべてを意図的に手作業で行っています - 最初にペンと紙、Obsidian\nその後については、以下で詳しく説明します。"
     },
     {
-      "rank": 20,
+      "rank": 21,
       "hn_id": 49373895,
       "title": "Show HN: Sentrint, a security scanner for projects build with LLMs",
       "title_ja": "HN を表示: LLM で構築されたプロジェクト用のセキュリティ スキャナー、Sentrint",
@@ -274,7 +287,7 @@
       "summary_ja": "HN を表示: Sentrint、LLM で構築されたプロジェクト用のセキュリティ スキャナー"
     },
     {
-      "rank": 21,
+      "rank": 22,
       "hn_id": 49374304,
       "title": "Frustrated GP patients hang up as Yorkshire accent baffles AI receptionist",
       "title_ja": "ヨークシャーアクセントが AI 受付係を困惑させ、イライラした一般医の患者が電話を切る",
@@ -288,34 +301,34 @@
       "summary_ja": "メインコンテンツにスキップ ナビゲーションにスキップ ダイアログを閉じる 1 / 1 次の画像 前の画像 キャプションの切り替え 印刷購読 ニュースレター サインイン 米国 米国版\n展開されたメニューを非表示にする ニュース すべてのニュースを表示\n検索入力 google-search 検索\n検索入力 google-search 検索 求人を検索\nある患者はAIシステムについてこう語った：「私のことを理解してもらえなかった。結局、電話を切るだけで、予約しようとする気も起きなかった。」写真：ジュリアン・クラクストン／アラミー 画像を全画面で表示 ある患者は、AIシステムについて次のように述べた：「私のことを理解してもらうことはできなかった。結局、電話を切るだけで、予約しようとする気も起きなかった。」写真：ジュリアン・クラクストン／アラミー 一般医 イライラした一般医の患者はヨークシャー訛りで電話を切るAI受付係を困惑させる\nロザラムのチャットボット「エマ」は 17 か国語を備えていると AI 企業が発表 – しかし健康監視団体は、システムがローカルの「癖」に苦戦していると発表\nマーク・ブラウン イングランド北部特派員 2026年8月20日木曜日 05.25 EDT 最終更新日 2026年8月20日木曜日 08.22 EDT Share Prefer the Guardian on Google サウスヨークシャーの町の患者は、AI GPの受付係が自分たちの「広範なアクセント」を理解していないことに不満を抱いている、と保健監視機関が発表した。\n地元の医療・社会福祉監視機関であるヘルスウォッチ・ロザラム氏は、この地域の多くの診療所でエマと呼ばれる新しいAI受付係が導入されたと述べた。\nAIが現地のアクセントを理解していないという報告を聞いていると述べた。そのマネージャーのキム・グリーソン氏はBBCに次のように語った。「問題の1つは、人々のヨークシャー訛りの広さのせいで、このシステムが人々の問い合わせの内容を必ずしも理解できないことだ。"
     },
     {
-      "rank": 22,
-      "hn_id": 49372258,
-      "title": "Run frontier LLMs on sovereign EU infrastructure",
-      "title_ja": "EU の主権インフラ上でフロンティア LLM を実行する",
-      "hn_url": "https://news.ycombinator.com/item?id=49372258",
-      "source_url": "https://corti.ai/models",
-      "image_url": "https://cdn.prod.website-files.com/679910de24e675a93f045f3b/6a22c7ca245ae393869f6e42_pricing.png",
-      "score": 1,
-      "final_score": 2,
-      "comments": 0,
-      "posted_at": "2026-08-20T09:19:21Z",
-      "summary_ja": "モデル\nSVG としてロゴをコピー ブランド キットにアクセス\nAPI キーの取得 サインイン プラットフォームのビルド\nアヒルに襲われたレポート スタートアップ 新しいエンタープライズ開発者が構築を開始\n最初の API 呼び出しは 5 分以内に完了\nキー、テスト、50 ドルの無料クレジット\n配送担当者へのインタビュー\nアヒルに襲われたレポート Speech-to-Text API の比較 NEW\nCorti 会社についてのバイヤーズ ガイド 採用情報 イベント お問い合わせ ログイン corti モデルのサインアップ EU の主権インフラ上でフロンティア LLM を実行する\nGPU に至るまで準拠し、安全で、検証可能です。ヨーロッパのハードウェア上のフロンティア モデル、コーディング エージェント内、またはアプリケーションから直接呼び出されます。データが地域を離れることはありません。"
-    },
-    {
       "rank": 23,
-      "hn_id": 49373363,
-      "title": "Kingmakers: Crypto, AI, betting firms fuel record spending on the 2026 midterms",
-      "title_ja": "キングメーカー: 仮想通貨、AI、賭博企業が 2026 年の中間選挙で記録的な支出を加速",
-      "hn_url": "https://news.ycombinator.com/item?id=49373363",
-      "source_url": "https://www.reuters.com/legal/legalindustry/new-kingmakers-crypto-ai-betting-firms-fuel-record-spending-2026-midterms-2026-08-20/",
+      "hn_id": 49374235,
+      "title": "Relationship Engineering: the fifth phase of building with AI",
+      "title_ja": "リレーションシップ エンジニアリング: AI を使用した構築の第 5 フェーズ",
+      "hn_url": "https://news.ycombinator.com/item?id=49374235",
+      "source_url": "https://twitter.com/swombat/status/2090421410887880771",
+      "image_url": "https://pbs.twimg.com/media/HQKqdtCXcAA7dqx.jpg",
       "score": 2,
       "final_score": 2,
       "comments": 0,
-      "posted_at": "2026-08-20T11:52:42Z",
-      "summary_ja": "キングメーカー: 仮想通貨、AI、賭博会社が 2026 年の中間選挙で記録的な支出を加速"
+      "posted_at": "2026-08-20T13:19:23Z",
+      "summary_ja": "ダニエル・テナーが X について語る: \"https://t.co/a879faQpVD\" / X Post\nDaniel Tenner @swombat リレーションシップ エンジニアリング: AI を使用した構築の第 5 フェーズ\nAI を使用したものづくりは、すでに 4 つの主要な段階を経ています。 5つ目はもうすぐだと思います。第 4 弾が来るのは目に見えていますが、私の予想を文章に書いてみてはいかがでしょうか。\n未来が私たちをどこへ連れて行ってくれるのか見てみましょう。まずは、過去と現在を簡単に振り返ってみましょう。\n簡単な注意: これはソフトウェア開発に焦点を当てていますが、同じ概念がすべての知識作業 (財務/税務作業などの他の分野にも適用されているため)、そして最終的にはすべての作業に適用されると考えています。\nまず、プロンプトエンジニアリングがありました。プロンプト エンジニアリングでは、ユーザーがプロジェクト、ファイル、コンセプトなどすべてを担当しました。そして彼らは、ある種の非常にシンプルで非常に迅速なミニハーネスを使用して、エージェントに質問しました。\nこのフェーズでは、作業は AI 以前とそれほど変わりませんが、少し効率化されただけです。抱えている奇妙な問題を解決するための、よくわからない呪文を見つけるために Google の検索結果を 10 ページも読み歩く必要はもうありません。前回どのように解決したか思い出せない一般的な問題の解決方法を StackOverflow で確認する必要はもうありません。\nこの段階では、主な概念は...質問であり、主な主体はこれまでと同様に人間でした。\nしかし人々は、「\u003cdiv\u003e を中央に配置するにはどうすればよいですか?」のような短い質問をする代わりに、大量の関連データ (コードやドキュメントなど) を含めることができることに気付き、出力の品質を向上させ、出力の関連性を高めることができました。最終的には、多くのコンテキスト (コンテキスト ウィンドウ内に収まる場合はコードベース全体) を含めるようになりました。"
     },
     {
       "rank": 24,
+      "hn_id": 49371163,
+      "title": "Ask HN: When will the AI bubble burst and eradicate all life in the planet?",
+      "title_ja": "HN に質問してください: AI バブルが崩壊し、地球上のすべての生命が絶滅するのはいつですか?",
+      "hn_url": "https://news.ycombinator.com/item?id=49371163",
+      "source_url": "",
+      "score": 2,
+      "final_score": 2,
+      "comments": 1,
+      "posted_at": "2026-08-20T06:36:56Z",
+      "summary_ja": "HN に聞く: AI バブルが崩壊し、地球上のすべての生命が絶滅するのはいつですか?"
+    },
+    {
+      "rank": 25,
       "hn_id": 49368828,
       "title": "Universality of Gradient Descent Neural Network Training",
       "title_ja": "勾配降下法ニューラル ネットワーク トレーニングの普遍性",
@@ -329,7 +342,7 @@
       "summary_ja": "メインコンテンツにスキップ\n検索\n送信する\n寄付する\nログイン\narXiv を検索\nEnter を押して検索 · 高度な検索\n--\u003e\nコンピューターサイエンス \u003e 機械学習\n[2020年7月27日提出]\nタイトル: 勾配降下法ニューラル ネットワーク トレーニングの普遍性\n要約: 最適化を成功させるには、ニューラル ネットワークの設計選択がしばしば重要であることが観察されています。したがって、この記事では、勾配降下法で適切にトレーニングできるようにニューラル ネットワークを再設計することが常に可能かどうかという問題について説明します。これにより、次のような普遍性の結果が得られます。特定のネットワークに対して、分類タスクに適したネットワークの重みを見つけることができるアルゴリズムが存在する場合、これらの重みと対応する順方向出力を単なる勾配降下トレーニングによって再現する、このネットワークの拡張が存在します。この構築は実際の計算を目的としたものではありませんが、メタ学習および関連するアプローチの可能性についてある程度の方向性を提供します。\nもっと学ぶために集中する\narXiv が DataCite 経由で発行した DOI\n投稿履歴\n書誌および引用ツール\nこの記事に関連するコード、データ、およびメディア\narXivLabs: コミュニティの協力者との実験的プロジェクト\narXivLabs は、共同作業者が新しい arXiv 機能を開発し、Web サイト上で直接共有できるようにするフレームワークです。\narXivLabs と協力する個人と組織はどちらも、オープン性、コミュニティ、卓越性、ユーザー データのプライバシーという当社の価値観を受け入れ、受け入れています。 arXiv はこれらの価値観を遵守し、それらを遵守するパートナーとのみ連携します。\narXiv コミュニティに価値を加えるプロジェクトのアイデアはありますか? arXivLabs について詳しくは、こちらをご覧ください。"
     },
     {
-      "rank": 25,
+      "rank": 26,
       "hn_id": 49374727,
       "title": "A registry and transparency log for discovering and verifying AI agents by name",
       "title_ja": "AI エージェントを名前で検出および検証するためのレジストリおよび透明性ログ",
@@ -341,20 +354,6 @@
       "comments": 0,
       "posted_at": "2026-08-20T14:03:42Z",
       "summary_ja": "エージェント名サービス · GitHub\nコンテンツにスキップ\nナビゲーションメニュー\nサインイン 外観設定 プラットフォーム AI コード作成 GitHub Copilot AI を使用してより良いコードを作成する\nGitHub Copilot アプリ エージェントが発行からマージまで直接担当\nMCP レジストリ 外部ツールの統合\n開発者のワークフロー アクション あらゆるワークフローを自動化します\nコードスペース インスタント開発環境\nコードレビュー コードの変更を管理する\nコードの品質 マージ時に品質を強制する\nアプリケーションセキュリティ GitHub Advanced Security 脆弱性を見つけて修正する\nコードのセキュリティ 構築時にコードを保護する\n機密保護 漏洩が始まる前に阻止\n企業規模別のソリューション\nタイプごとに詳しく見る お客様の事例\nサポートとサービスのドキュメント\nオープンソース コミュニティ GitHub スポンサー オープンソース開発者に資金を提供する\nエンタープライズ エンタープライズ ソリューション エンタープライズ プラットフォーム AI を活用した開発者プラットフォーム\n利用可能なアドオン GitHub Advanced Security エンタープライズ グレードのセキュリティ機能\nCopilot for Business エンタープライズ グレードの AI 機能\nプレミアム サポート エンタープライズ レベルの 24 時間年中無休のサポート\n検索 / サインイン サインアップ 外観設定\n別のタブまたはウィンドウでサインインしました。リロードしてセッションを更新します。\n別のタブまたはウィンドウでサインアウトしました。リロードしてセッションを更新します。\n別のタブまたはウィンドウでアカウントを切り替えました。リロードしてセッションを更新します。\nアラートを閉じる\n{{ メッセージ }}\nああ、ああ！\n読み込み中にエラーが発生しました。このページをリロードしてください。\n読み込み中にエラーが発生しました。"
-    },
-    {
-      "rank": 26,
-      "hn_id": 49374202,
-      "title": "Draft spec for an offline emergency dispatch protocol in on-device LLMs url",
-      "title_ja": "オンデバイス LLM URL のオフライン緊急派遣プロトコルの仕様草案",
-      "hn_url": "https://news.ycombinator.com/item?id=49374202",
-      "source_url": "https://github.com/kapustin-i/offline-dispatch-protocol",
-      "image_url": "https://opengraph.githubassets.com/fc6b60b9841820c4ab1fe036285cc552c762c50991321703c4396d17d254f5e3/kapustin-i/offline-dispatch-protocol",
-      "score": 2,
-      "final_score": 2,
-      "comments": 0,
-      "posted_at": "2026-08-20T13:16:09Z",
-      "summary_ja": "GitHub - kapustin-i/offline-dispatch-protocol: オンデバイス AI モデルにおけるオフライン緊急派遣プロトコルの仕様草案 · GitHub\nコンテンツにスキップ\nナビゲーションメニュー\nサインイン 外観設定 プラットフォーム AI コード作成 GitHub Copilot AI を使用してより良いコードを作成する\nGitHub Copilot アプリ エージェントが発行からマージまで直接担当\nMCP レジストリ 外部ツールの統合\n開発者のワークフロー アクション あらゆるワークフローを自動化します\nコードスペース インスタント開発環境\nコードレビュー コードの変更を管理する\nコードの品質 マージ時に品質を強制する\nアプリケーションセキュリティ GitHub Advanced Security 脆弱性を見つけて修正する\nコードのセキュリティ 構築時にコードを保護する\n機密保護 漏洩が始まる前に阻止\n企業規模別のソリューション\nタイプごとに詳しく見る お客様の事例\nサポートとサービスのドキュメント\nオープンソース コミュニティ GitHub スポンサー オープンソース開発者に資金を提供する\nエンタープライズ エンタープライズ ソリューション エンタープライズ プラットフォーム AI を活用した開発者プラットフォーム\n利用可能なアドオン GitHub Advanced Security エンタープライズ グレードのセキュリティ機能\nCopilot for Business エンタープライズ グレードの AI 機能\nプレミアム サポート エンタープライズ レベルの 24 時間年中無休のサポート\n検索 / サインイン サインアップ 外観設定\n別のタブまたはウィンドウでサインインしました。リロードしてセッションを更新します。\n別のタブまたはウィンドウでサインアウトしました。リロードしてセッションを更新します。\n別のタブまたはウィンドウでアカウントを切り替えました。リロードしてセッションを更新します。"
     },
     {
       "rank": 27,
@@ -372,17 +371,17 @@
     },
     {
       "rank": 28,
-      "hn_id": 49373160,
-      "title": "Eron on X: \"LLMs do one thing: predict the next word",
-      "title_ja": "Eron on X: 「LLM が行うことは 1 つあります。それは次の単語を予測することです",
-      "hn_url": "https://news.ycombinator.com/item?id=49373160",
-      "source_url": "https://twitter.com/0xEronn/status/2089079333885198384",
-      "image_url": "https://pbs.twimg.com/media/HP3Ej3SWMAAJB-F.jpg",
+      "hn_id": 49374202,
+      "title": "Draft spec for an offline emergency dispatch protocol in on-device LLMs url",
+      "title_ja": "オンデバイス LLM URL のオフライン緊急派遣プロトコルの仕様草案",
+      "hn_url": "https://news.ycombinator.com/item?id=49374202",
+      "source_url": "https://github.com/kapustin-i/offline-dispatch-protocol",
+      "image_url": "https://opengraph.githubassets.com/fc6b60b9841820c4ab1fe036285cc552c762c50991321703c4396d17d254f5e3/kapustin-i/offline-dispatch-protocol",
       "score": 2,
       "final_score": 2,
       "comments": 0,
-      "posted_at": "2026-08-20T11:28:26Z",
-      "summary_ja": "エロンが X に投稿: \"https://t.co/fQgIxVyHZJ\" / X ポスト\nEron @0xEronn LLM が行うことは 1 つあります。それは、次の単語を予測することです。考えているようなものを作成する方法は次のとおりです\nChatGPT、Claude、または Gemini にメッセージを送信するたびに、同じことが起こります。モデルは、あなたが書いたすべてを見て、次にどの単語が来るかという 1 つの決定を下します。その後、それが再び行われます。そしてまた。応答が完了するまで。\nそれでおしまい。それがすべてのトリックです。\nそして、どういうわけか、理解できない量のテキスト上で何十億回も繰り返される、その非常に単純なタスクから、コードを記述し、量子物理学を説明し、詩を翻訳し、驚くほど人と話しているような会話を行うことができる何かが現れます。\n実際に内部で何が起こっているかは次のとおりです。\nすべてを大局的に捉える数字\nGPT-3 は、人間が 1 日 24 時間、睡眠も休憩もせずに立ち止まらずにそのすべてを読もうとすると、2,600 年以上かかるという十分な量のテキストを学習しました。\nそれ以来、大規模なモデルはより多くのトレーニングを行っています。\nモデルはあなたが学習した方法では言語を学習しなかったので、これは重要です。誰も座ってルールを書きませんでした。誰も文法や意味、文脈を説明しませんでした。モデルには、ほとんど理解できないほどの量のテキストが表示され、次に何が起こるかをより良く予測できるようになりなさいという 1 つの指示が与えられました。\n言語、事実、推論、口調、性格について知っていることはすべて、頭の中に留めておくのが本当に難しい規模で適用された単一の最適化ターゲットから生まれました。\nモデルの動作は完全に数値によって決まります。何千億も。これらはパラメータまたは重みと呼ばれ、モデルを別のモデルと区別する唯一のものです。\nトレーニングの開始時に、すべてのパラメーターがランダムな値に設定されます。モデルは純粋なギベを生成します\n\n上昇。"
+      "posted_at": "2026-08-20T13:16:09Z",
+      "summary_ja": "GitHub - kapustin-i/offline-dispatch-protocol: オンデバイス AI モデルにおけるオフライン緊急派遣プロトコルの仕様草案 · GitHub\nコンテンツにスキップ\nナビゲーションメニュー\nサインイン 外観設定 プラットフォーム AI コード作成 GitHub Copilot AI を使用してより良いコードを作成する\nGitHub Copilot アプリ エージェントが発行からマージまで直接担当\nMCP レジストリ 外部ツールの統合\n開発者のワークフロー アクション あらゆるワークフローを自動化します\nコードスペース インスタント開発環境\nコードレビュー コードの変更を管理する\nコードの品質 マージ時に品質を強制する\nアプリケーションセキュリティ GitHub Advanced Security 脆弱性を見つけて修正する\nコードのセキュリティ 構築時にコードを保護する\n機密保護 漏洩が始まる前に阻止\n企業規模別のソリューション\nタイプごとに詳しく見る お客様の事例\nサポートとサービスのドキュメント\nオープンソース コミュニティ GitHub スポンサー オープンソース開発者に資金を提供する\nエンタープライズ エンタープライズ ソリューション エンタープライズ プラットフォーム AI を活用した開発者プラットフォーム\n利用可能なアドオン GitHub Advanced Security エンタープライズ グレードのセキュリティ機能\nCopilot for Business エンタープライズ グレードの AI 機能\nプレミアム サポート エンタープライズ レベルの 24 時間年中無休のサポート\n検索 / サインイン サインアップ 外観設定\n別のタブまたはウィンドウでサインインしました。リロードしてセッションを更新します。\n別のタブまたはウィンドウでサインアウトしました。リロードしてセッションを更新します。\n別のタブまたはウィンドウでアカウントを切り替えました。リロードしてセッションを更新します。"
     },
     {
       "rank": 29,
@@ -399,17 +398,17 @@
     },
     {
       "rank": 30,
-      "hn_id": 49370221,
-      "title": "Scaling RAG building an efficient pipeline for 500k chunks with Gemini",
-      "title_ja": "Gemini で 500k チャンクの効率的なパイプラインを構築する RAG のスケーリング",
-      "hn_url": "https://news.ycombinator.com/item?id=49370221",
-      "source_url": "https://www.rsolitario.com/scaling-rag-building-an-efficient-pipeline-for-500k-chunks-with-gemini-2-5-and-context-caching/",
-      "image_url": "https://raw.githubusercontent.com/Rsolitario/rsolitariof/refs/heads/main/img/guia-como-construir-un-sistema-rag-para-2gb-de-datos-con-gemini-2-5-flash-y-chromadb.webp",
+      "hn_id": 49373160,
+      "title": "Eron on X: \"LLMs do one thing: predict the next word",
+      "title_ja": "Eron on X: 「LLM が行うことは 1 つあります。それは、次の単語を予測することです",
+      "hn_url": "https://news.ycombinator.com/item?id=49373160",
+      "source_url": "https://twitter.com/0xEronn/status/2089079333885198384",
+      "image_url": "https://pbs.twimg.com/media/HP3Ej3SWMAAJB-F.jpg",
       "score": 2,
       "final_score": 2,
       "comments": 0,
-      "posted_at": "2026-08-20T03:58:22Z",
-      "summary_ja": "RAG のスケーリング: Gemini 2.5 とコンテキスト キャッシュを使用した 500k チャンクの効率的なパイプラインの構築\nsolitario 30% Referidos Cotizar Proyecto Volver al Portafolio スケーリング RAG: Gemini 2.5 とコンテキスト キャッシュを使用した 500k チャンクの効率的なパイプラインの構築\n2026 年 7 月 21 日 27 の景色 1. アーキテクチャ\n約 2GB (約 500,000 個のテキスト チャンク) のボリュームを処理するには、高性能のパイプラインが必要です。\n抽出: 速度を上げるために PyMuPDF (Fitz) を使用した PDF 処理。\nインテリジェントなチャンキング: 戦略的な重複など、単語の分割を避けるためのセマンティック分割。\nベクトル化: text-embedding-004 (または gemini-embedding-001 ) を利用します。\n永続性: ベクトルストレージとメタデータ管理のための ChromaDB。\n推論: Gemini 2.5 Flash 、ネイティブ推論機能を活用してノイズをフィルターします。\n最新の Google GenAI SDK を使用します。依存関係をインストールします。\npip install -q -U google-genai chromadb pymupdf\n3. スマートチャンキング: 精度の秘密\nテキストを正しくセグメント化することは、RAG の成功の 80% を表します。この機能により、意味のある重複を維持しながら、文の途中で単語が切り取られることがなくなります。"
+      "posted_at": "2026-08-20T11:28:26Z",
+      "summary_ja": "エロンが X に投稿: \"https://t.co/fQgIxVyHZJ\" / X ポスト\nEron @0xEronn LLM が行うことは 1 つあります。それは、次の単語を予測することです。考えているようなものを作成する方法は次のとおりです\nChatGPT、Claude、または Gemini にメッセージを送信するたびに、同じことが起こります。モデルは、あなたが書いたすべてを見て、次にどの単語が来るかという 1 つの決定を下します。その後、それが再び行われます。そしてまた。応答が完了するまで。\nそれでおしまい。それがすべてのトリックです。\nそして、どういうわけか、理解できない量のテキスト上で何十億回も繰り返される、その非常に単純なタスクから、コードを記述し、量子物理学を説明し、詩を翻訳し、驚くほど人と話しているような会話を行うことができる何かが現れます。\n実際に内部で何が起こっているかは次のとおりです。\nすべてを大局的に捉える数字\nGPT-3 は、人間が 1 日 24 時間、睡眠も休憩もせずに立ち止まらずにそのすべてを読もうとすると、2,600 年以上かかるという十分な量のテキストを学習しました。\nそれ以来、大規模なモデルはより多くのトレーニングを行っています。\nモデルはあなたが学習した方法では言語を学習しなかったので、これは重要です。誰も座ってルールを書きませんでした。誰も文法や意味、文脈を説明しませんでした。モデルには、ほとんど理解できないほどの量のテキストが表示され、次に何が起こるかをより良く予測できるようになりなさいという 1 つの指示が与えられました。\n言語、事実、推論、口調、性格について知っていることはすべて、頭の中に留めておくのが本当に難しい規模で適用された単一の最適化ターゲットから生まれました。\nモデルの動作は完全に数値によって決まります。何千億も。これらはパラメータまたは重みと呼ばれ、モデルを別のモデルと区別する唯一のものです。\nトレーニングの開始時に、すべてのパラメーターがランダムな値に設定されます。モデルは純粋なギベを生成します\n\n上昇。"
     }
   ]
 }

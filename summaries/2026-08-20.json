@@ -1,6 +1,6 @@
 {
   "date": "2026-08-20",
-  "generated_at": "2026-08-20T06:28:27Z",
+  "generated_at": "2026-08-20T07:34:11Z",
   "articles": [
     {
       "rank": 1,
@@ -18,6 +18,20 @@
     },
     {
       "rank": 2,
+      "hn_id": 49371211,
+      "title": "Show HN: Do-over, undo for AI agent shell commands",
+      "title_ja": "HN の表示: AI エージェント シェル コマンドのやり直し、元に戻す",
+      "hn_url": "https://news.ycombinator.com/item?id=49371211",
+      "source_url": "https://github.com/CaydenChik/doover",
+      "image_url": "https://repository-images.githubusercontent.com/1290762482/95fdd3bc-53da-4b44-a3f8-d632513a9a0a",
+      "score": 2,
+      "final_score": 4,
+      "comments": 1,
+      "posted_at": "2026-08-20T06:42:36Z",
+      "summary_ja": "GitHub - CaydenChik/doover: AI エージェントのシェル コマンドを元に戻す。クロード コードが破壊的な bash (rm -rf、git restart、rsync) を実行する前にファイルのスナップショットを作成するため、git で追跡されなかったファイルであっても、エージェントのミスを元に戻すことができます。 · GitHub\nコンテンツにスキップ\nナビゲーションメニュー\nサインイン 外観設定 プラットフォーム AI コード作成 GitHub Copilot AI を使用してより良いコードを作成する\nGitHub Copilot アプリ エージェントが発行からマージまで直接担当\nMCP レジストリ 外部ツールの統合\n開発者のワークフロー アクション あらゆるワークフローを自動化します\nコードスペース インスタント開発環境\nコードレビュー コードの変更を管理する\nコードの品質 マージ時に品質を強制する\nアプリケーションセキュリティ GitHub Advanced Security 脆弱性を見つけて修正する\nコードのセキュリティ 構築時にコードを保護する\n機密保護 漏洩が始まる前に阻止\n企業規模別のソリューション\nタイプごとに詳しく見る お客様の事例\nサポートとサービスのドキュメント\nオープンソース コミュニティ GitHub スポンサー オープンソース開発者に資金を提供する\nエンタープライズ エンタープライズ ソリューション エンタープライズ プラットフォーム AI を活用した開発者プラットフォーム\n利用可能なアドオン GitHub Advanced Security エンタープライズ グレードのセキュリティ機能\nCopilot for Business エンタープライズ グレードの AI 機能\nプレミアム サポート エンタープライズ レベルの 24 時間年中無休のサポート\n検索 / サインイン サインアップ 外観設定\n別のタブまたはウィンドウでサインインしました。リロードしてセッションを更新します。"
+    },
+    {
+      "rank": 3,
       "hn_id": 49368725,
       "title": "If You're Not Studying for Retention, Just Use AI",
       "title_ja": "記憶力を維持するために勉強していない場合は、AI を使用してください",
@@ -30,21 +44,20 @@
       "summary_ja": "Felipe Mattosinho Felipe Jordão A.P Mattosinho 定着率を高めるために勉強していない場合は、AI を使用してください\nかつて勉強すると、知識へのアクセスと頭の中にある知識という 2 つのものが得られました。 AI は最初のものを採用し、これまでよりも優れた方法でそれを実行します。継続性は依然として追求する価値のある唯一の部分です。\n知識の保持を最適化するための 6 つのヒントを次に示します。\n頭が最も鋭敏なときに勉強する\nほとんどの人にとって、それは午前 4 時 30 分から 11 時の間です。学習には時間がかかります\n本当のエネルギーと努力 - 時には痛みを伴うことさえあります - だから、あなたはそれに取り組みたいのです\n疲れた脳ではなく、新鮮な脳で。あなたの保持に感謝します。\n実際に定着するのは遅い学習です。のための学習を誤解しないでください。\n学習の外観: 何かをその瞬間に理解しても、忘れてしまうだけ\n翌日までに終わらせるのは時間の無駄です。ゆっくり考えて、注釈を付けたり、\nそしてもう一度見てみましょう - 最も基本的なトピックであっても、あなたに教えられることがまだ残っています。\nあらゆるショートカットは、後で同じことを再学習するために費やす時間になります。\n各トピックを身近なものに結び付けながら風景をマッピングする\nこれは、ニューロンが新しいものを何かに強制的に配線することだと思います。\nあらかじめ確立された知識。これは基本的に質問をするプロセスです\n大声で脳内に情報を問いかけます。用語やトピックに出会っても、\nご存知のように、詳細に入る前に、まず風景のかなりの部分をカバーします\nサブブランチ - 新しいブランチに接続するのに役立つブランチは例外です。\n私がすでに知っていることの材料。それは簡単に実現できる成果です。\nつながりがより早く形成され、主題全体がより明確になります。私はこれらすべてを意図的に手作業で行っています - 最初にペンと紙、Obsidian\nその後については、以下で詳しく説明します。"
     },
     {
-      "rank": 3,
-      "hn_id": 49369546,
-      "title": "Claude Code adds new \"concise\" output style setting",
-      "title_ja": "Claude Code は新しい「簡潔な」出力スタイル設定を追加します",
-      "hn_url": "https://news.ycombinator.com/item?id=49369546",
-      "source_url": "https://twitter.com/ClaudeDevs/status/2090245922685063634",
-      "image_url": "https://pbs.twimg.com/media/HQIKUlgbYAAd03G.jpg:large",
-      "score": 2,
-      "final_score": 2,
-      "comments": 0,
-      "posted_at": "2026-08-20T01:49:57Z",
-      "summary_ja": "X の ClaudeDevs: 「クロード コードの出力スタイルを簡潔に設定できるようになりました。\nクロードは結果を導き、返答は短く保ちながら、質問すると詳細をすべて教えてくれます。\n/config→出力スタイルでオンにするか、settings.jsonで「outputStyle」:「Concise」を設定してください。 /Xポスト\nX の ClaudeDevs: 「クロード コードの出力スタイルを簡潔に設定できるようになりました。\nクロードは結果を導き、返答は短く保ちながら、質問すると詳細をすべて教えてくれます。\n/config→出力スタイルでオンにするか、settings.jsonで「outputStyle」:「Concise」を設定してください。\nClaudeDevs @ClaudeDevs クロード コードの出力スタイルを Concise に設定できるようになりました。\nクロードは結果を導き、返答は短く保ちながら、質問すると詳細をすべて教えてくれます。\n/config → 出力スタイルでオンにするか、settings.json で \"outputStyle\": \"Concise\" を設定します。 1:13 AM · 2026 年 8 月 20 日 107.2K 再生数 160 133 2.6K 1K\nFabrico @demfabris 53m 出力の耐荷重を軽減するスモーキングガンを見つけましたか? 4 3 241 5.9K\nIshu Agrawal @ishagra02 55 メートル ああ、なんてことだ、これが適切に機能するなら、作品 5 1 122 よりも良いリリースになるかもしれない 3.4K\nブライアン・エマニュエル @bryanemanuel 56m オーパスにニュースを伝えましたか? 28 1.7K\n何が起こっているかを確認して会話に参加してください\n電話で続行 Apple で続行 Google で続行、またはユーザー名または電子メールでログイン 関係者"
+      "rank": 4,
+      "hn_id": 49371169,
+      "title": "AI is changing how we code. Is this positive?",
+      "title_ja": "AI は私たちのコーディング方法を変えています。これはポジティブですか？",
+      "hn_url": "https://news.ycombinator.com/item?id=49371169",
+      "source_url": "",
+      "score": 3,
+      "final_score": 3,
+      "comments": 2,
+      "posted_at": "2026-08-20T06:37:14Z",
+      "summary_ja": "AI はコーディング方法を変えています。これはポジティブですか？"
     },
     {
-      "rank": 4,
+      "rank": 5,
       "hn_id": 49368828,
       "title": "Universality of Gradient Descent Neural Network Training",
       "title_ja": "勾配降下法ニューラル ネットワーク トレーニングの普遍性",
@@ -58,10 +71,37 @@
       "summary_ja": "メインコンテンツにスキップ\n検索\n送信する\n寄付する\nログイン\narXiv を検索\nEnter を押して検索 · 高度な検索\n--\u003e\nコンピューターサイエンス \u003e 機械学習\n[2020年7月27日提出]\nタイトル: 勾配降下法ニューラル ネットワーク トレーニングの普遍性\n要約: 最適化を成功させるには、ニューラル ネットワークの設計選択がしばしば重要であることが観察されています。したがって、この記事では、勾配降下法で適切にトレーニングできるようにニューラル ネットワークを再設計することが常に可能かどうかという問題について説明します。これにより、次のような普遍性の結果が得られます。特定のネットワークに対して、分類タスクに適したネットワークの重みを見つけることができるアルゴリズムが存在する場合、これらの重みと対応する順方向出力を単なる勾配降下トレーニングによって再現する、このネットワークの拡張が存在します。この構築は実際の計算を目的としたものではありませんが、メタ学習および関連するアプローチの可能性についてある程度の方向性を提供します。\nもっと学ぶために集中する\narXiv が DataCite 経由で発行した DOI\n投稿履歴\n書誌および引用ツール\nこの記事に関連するコード、データ、およびメディア\narXivLabs: コミュニティの協力者との実験的プロジェクト\narXivLabs は、共同作業者が新しい arXiv 機能を開発し、Web サイト上で直接共有できるようにするフレームワークです。\narXivLabs と協力する個人と組織はどちらも、オープン性、コミュニティ、卓越性、ユーザー データのプライバシーという当社の価値観を受け入れ、受け入れています。 arXiv はこれらの価値観を遵守し、それらを遵守するパートナーとのみ連携します。\narXiv コミュニティに価値を加えるプロジェクトのアイデアはありますか? arXivLabs について詳しくは、こちらをご覧ください。"
     },
     {
-      "rank": 5,
+      "rank": 6,
+      "hn_id": 49371163,
+      "title": "Ask HN: When will the AI bubble burst and eradicate all life in the planet?",
+      "title_ja": "HN に質問してください: AI バブルが崩壊し、地球上のすべての生命が絶滅するのはいつですか?",
+      "hn_url": "https://news.ycombinator.com/item?id=49371163",
+      "source_url": "",
+      "score": 2,
+      "final_score": 2,
+      "comments": 1,
+      "posted_at": "2026-08-20T06:36:56Z",
+      "summary_ja": "HN に聞く: AI バブルが崩壊し、地球上のすべての生命が絶滅するのはいつですか?"
+    },
+    {
+      "rank": 7,
+      "hn_id": 49369546,
+      "title": "Claude Code adds new \"concise\" output style setting",
+      "title_ja": "Claude Code は新しい「簡潔な」出力スタイル設定を追加します",
+      "hn_url": "https://news.ycombinator.com/item?id=49369546",
+      "source_url": "https://twitter.com/ClaudeDevs/status/2090245922685063634",
+      "image_url": "https://pbs.twimg.com/media/HQIKUlgbYAAd03G.jpg:large",
+      "score": 2,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-08-20T01:49:57Z",
+      "summary_ja": "X の ClaudeDevs: 「クロード コードの出力スタイルを簡潔に設定できるようになりました。\nクロードは結果を導き、返答は短く保ちながら、質問すると詳細をすべて教えてくれます。\n/config→出力スタイルでオンにするか、settings.jsonで「outputStyle」:「Concise」を設定してください。 /Xポスト\nX の ClaudeDevs: 「クロード コードの出力スタイルを簡潔に設定できるようになりました。\nクロードは結果を導き、返答は短く保ちながら、質問すると詳細をすべて教えてくれます。\n/config→出力スタイルでオンにするか、settings.jsonで「outputStyle」:「Concise」を設定してください。\nClaudeDevs @ClaudeDevs クロード コードの出力スタイルを Concise に設定できるようになりました。\nクロードは結果を導き、返答は短く保ちながら、質問すると詳細をすべて教えてくれます。\n/config → 出力スタイルでオンにするか、settings.json で \"outputStyle\": \"Concise\" を設定します。 1:13 AM · 2026 年 8 月 20 日 107.2K 再生数 160 133 2.6K 1K\nFabrico @demfabris 53m 出力の耐荷重を軽減するスモーキングガンを見つけましたか? 4 3 241 5.9K\nIshu Agrawal @ishagra02 55 メートル ああ、なんてことだ、これが適切に機能するなら、作品 5 1 122 よりも良いリリースになるかもしれない 3.4K\nブライアン・エマニュエル @bryanemanuel 56m オーパスにニュースを伝えましたか? 28 1.7K\n何が起こっているかを確認して会話に参加してください\n電話で続行 Apple で続行 Google で続行、またはユーザー名または電子メールでログイン 関係者"
+    },
+    {
+      "rank": 8,
       "hn_id": 49370221,
       "title": "Scaling RAG building an efficient pipeline for 500k chunks with Gemini",
-      "title_ja": "Gemini を使用して 500k チャンクの効率的なパイプラインを構築する RAG のスケーリング",
+      "title_ja": "Gemini で 500k チャンクの効率的なパイプラインを構築する RAG のスケーリング",
       "hn_url": "https://news.ycombinator.com/item?id=49370221",
       "source_url": "https://www.rsolitario.com/scaling-rag-building-an-efficient-pipeline-for-500k-chunks-with-gemini-2-5-and-context-caching/",
       "image_url": "https://raw.githubusercontent.com/Rsolitario/rsolitariof/refs/heads/main/img/guia-como-construir-un-sistema-rag-para-2gb-de-datos-con-gemini-2-5-flash-y-chromadb.webp",
@@ -72,7 +112,7 @@
       "summary_ja": "RAG のスケーリング: Gemini 2.5 とコンテキスト キャッシュを使用した 500k チャンクの効率的なパイプラインの構築\nsolitario 30% Referidos Cotizar Proyecto Volver al Portafolio スケーリング RAG: Gemini 2.5 とコンテキスト キャッシュを使用した 500k チャンクの効率的なパイプラインの構築\n2026 年 7 月 21 日 27 の景色 1. アーキテクチャ\n約 2GB (約 500,000 個のテキスト チャンク) のボリュームを処理するには、高性能のパイプラインが必要です。\n抽出: 速度を上げるために PyMuPDF (Fitz) を使用した PDF 処理。\nインテリジェントなチャンキング: 戦略的な重複など、単語の分割を避けるためのセマンティック分割。\nベクトル化: text-embedding-004 (または gemini-embedding-001 ) を利用します。\n永続性: ベクトルストレージとメタデータ管理のための ChromaDB。\n推論: Gemini 2.5 Flash 、ネイティブ推論機能を活用してノイズをフィルターします。\n最新の Google GenAI SDK を使用します。依存関係をインストールします。\npip install -q -U google-genai chromadb pymupdf\n3. スマートチャンキング: 精度の秘密\nテキストを正しくセグメント化することは、RAG の成功の 80% を表します。この機能により、意味のある重複を維持しながら、文の途中で単語が切り取られることがなくなります。"
     },
     {
-      "rank": 6,
+      "rank": 9,
       "hn_id": 49368765,
       "title": "Multi-Level Analysis of GPU Utilization in ML Training Workloads [pdf]",
       "title_ja": "ML トレーニング ワークロードにおける GPU 使用率のマルチレベル分析 [pdf]",
@@ -85,20 +125,21 @@
       "summary_ja": "ML トレーニング ワークロードにおける GPU 使用率のマルチレベル分析 [pdf]"
     },
     {
-      "rank": 7,
-      "hn_id": 49370228,
-      "title": "Crypto's (and AI's) midterm PAC machine",
-      "title_ja": "Crypto (および AI) の中期 PAC マシン",
-      "hn_url": "https://news.ycombinator.com/item?id=49370228",
-      "source_url": "https://www.politico.com/newsletters/politico-influence/2026/08/19/a-rare-setback-for-cryptos-midterm-machine-01042044",
+      "rank": 10,
+      "hn_id": 49370598,
+      "title": "Claude Revived My Microsoft Band 2",
+      "title_ja": "クロードが私の Microsoft Band 2 を復活させました",
+      "hn_url": "https://news.ycombinator.com/item?id=49370598",
+      "source_url": "https://webenclave.com/posts/bringing-a-microsoft-band-2-back-from-the-dead/",
+      "image_url": "https://webenclave.com/og/posts/bringing-a-microsoft-band-2-back-from-the-dead.jpg",
       "score": 1,
       "final_score": 1,
       "comments": 0,
-      "posted_at": "2026-08-20T03:58:56Z",
-      "summary_ja": "暗号通貨 (および AI) の中期 PAC マシン"
+      "posted_at": "2026-08-20T05:11:32Z",
+      "summary_ja": "コンテンツにスキップ\nウェブ エンクレーブ — EST 2023\n安全なチャンネル — チューブ\nスクロール000\nエンクレーブ\n仕事\n2026年\n派遣\nMicrosoft Band 2 を死から蘇らせる\n2026 年 8 月 20 日 1 分で読めるチュートリアル\n私の Microsoft Band 2 は、携帯電話の Microsoft Health アプリからセットアップを続行するときに停止しました。このアプリは、Microsoft が 2019 年 5 月 31 日にヘルス ダッシュボードを閉鎖して以来存在していません。FAQ ではそれについて率直に述べられています。その日以降にバンドをリセットすると、再度セットアップすることはできません。私のものはリセットされていました。\nそれを M1 MacBook Air に接続し、Opus 5 で Claude Code を開き、画面を説明しました。 1時間後、バンドは準備を終え、正しい時刻を告げていた。\nライブラリは msband-py で、電話を使わずに Band の USB プロトコルを話します。 Python 3.11 ではその構造型付けピンがインポートされないため、Python 3.10 が必要です。 OobeFinalize はペアリングされた電話がないと拒否するため、デモ モードを有効にし、Band を取り外し、無効にする方法があります。 NotInOobe を報告して戻ってきます。\n歩数、心拍数、睡眠、トレーニング、アラームが機能します。通知、Cortana、その他クラウドを必要とするものはすべて永久に失われます。手首に戻ってきました。\nAI、Web、アプリケーション開発コンサルティング\n上記のような仕事を、曖昧な概要から本番まで進めます。\n1 つのメッセージで、当社が適切なショップであるかどうかについての直接の回答が得られます。"
     },
     {
-      "rank": 8,
+      "rank": 11,
       "hn_id": 49369333,
       "title": "How to use AI for your next job interview",
       "title_ja": "次の就職面接で AI を活用する方法",
@@ -112,7 +153,21 @@
       "summary_ja": "次の就職面接で AI を使用する方法 - ノーム・シーガル著\n購読 サインイン 次の就職面接で AI を使用する方法\n30 人以上のテクノロジー専門家からの洞察と、それらを実践するための無料の AI コーチ\nノーム・シーガル Feb 24, 2026 ∙ 有料 724 25 50 シェア 👋 こんにちは、レニーです。私は毎週、製品の構築、成長の推進、キャリアの加速に関する読者の質問に答えています。詳細については、Lenny のポッドキャスト |レニーボット | AI の仕組み\n追伸Insider サブスクライバーになると、Lovable、Manus、Replit、Gamma、n8n、Canva、イレブンラボ、Amp、Factory、Devin、Bolt、Wispr Flow、Linear、PostHog、Framer、Railway、Granola、Warp、Perplexity、Magic Patterns、Mobbin、ChatPRD、および Stripe Atlas を 1 年間完全に無料で入手できます。\nこのコミュニティで最もよく聞かれる質問の 1 つは、AI が面接対象者と採用担当者の両方の面接プロセスにどのような影響を与えているかというものです。\nそれを知るために、私のコミュニティ リサーチ リーダーのノーム シーガルは、AI が採用プロセスの両面でどのように変革を起こしているかを知るために、現在および最近の求職者および採用担当者数十人にインタビューしました。\nこの調査結果のパート 1 (下記) は求職者に焦点を当てており、ノームがここでとったアプローチは非常に並外れたものです。彼が学んだことを分析し始めたとき、その結果がきちんとしたアドバイスやヒントに凝縮されていないことに気づきました。優秀な候補者は、面接プロセスのあらゆる段階に備えて相互接続されたシステムを構築していました。そこで、ノームはこの投稿でユニークなことを行いました。"
     },
     {
-      "rank": 9,
+      "rank": 12,
+      "hn_id": 49371527,
+      "title": "It used to be our imperfect bodies that made us insecure. With AI, its our minds",
+      "title_ja": "以前は、私たちの不完全な体が私たちを不安にさせていました。 AI によって私たちの心は変わります",
+      "hn_url": "https://news.ycombinator.com/item?id=49371527",
+      "source_url": "https://www.theguardian.com/commentisfree/2026/aug/20/bodies-ai-minds-history-technology-humans",
+      "image_url": "https://i.guim.co.uk/img/media/1b11b1a94c94a990f5576ba75e14b9a320163341/142_11_4043_3234/master/4043.jpg?width=1200\u0026height=630\u0026quality=85\u0026auto=format\u0026fit=crop\u0026precrop=40:21,offset-x50,offset-y0\u0026overlay-align=bottom%2Cleft\u0026overlay-width=100p\u0026overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n\u0026enable=upscale\u0026s=9f1dad946b53a191947ed0f0eade8a11",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-08-20T07:30:25Z",
+      "summary_ja": "メイン コンテンツにスキップ ナビゲーションにスキップ ダイアログを閉じる 1 / 2 次の画像 前の画像 キャプションの切り替え 印刷購読 ニュースレター サインイン 米国 米国版\n展開されたメニューを非表示にする ニュース すべてのニュースを表示\n検索入力 google-search 検索\n検索入力 google-search 検索 求人を検索\nAI for Good グローバル サミットで、RB Labs によって開発された人型ロボット、2026 年 7 月 7 日。写真: Fabrice Coffrini/AFP/Getty Images 画像をフルスクリーンで表示 AI for Good グローバル サミットで、RB Labs によって開発された人型ロボット、2026 年 7 月 7 日。写真: Fabrice Coffrini/AFP/Getty Images 意見 AI (人工知能) かつて私たちを作ったのは、不完全な体でした不安な。 AI では私たちの心も変わります\n近代の歴史のほとんどにおいて、テクノロジーは人間を模倣しようと努めてきました。人間はますますテクノロジーを模倣しようとします\nここ数カ月間、私のインスタグラムのフィードに現れた二人の顔に、私は立ち止まりました。そのうちの 1 つはカンヌでジョン トラボルタが所有したものです。もう1件は、夫で元フランス大統領ニコラ・サルコジとの夜のデート中のカーラ・ブルーニへ。どちらも明らかに自分自身に見えましたが、同時に奇妙に見慣れないようにも見えました。彼らの外見は、美容上の改善についての憶測を引き起こしましたが、彼らは決して認めていません。ブルーニ氏は以前、仕事が行われたことを否定していた。\nいずれにせよ、その感情はほんの一瞬しか続きませんでした。あたかも自分に似てきた人々を見ているかのような不安のちらつきでした。\nその感覚には名前があります。日本のロボット工学教授、森正博は 1970 年の論文で、彼が「不気味の谷」と呼ぶものについて説明しました。"
+    },
+    {
+      "rank": 13,
       "hn_id": 49368649,
       "title": "Jugwalking: Exercise Your Mind, Your Body, and the Neural Network That Connects",
       "title_ja": "ジャグウォーキング: 心、体、そして接続する神経ネットワークを鍛えましょう",
@@ -125,7 +180,7 @@
       "summary_ja": "ジャグウォーキング: 心、体、そしてそれらをつなぐニューラル ネットワークを鍛えましょう |デビッド メイナード デビッド メイナード ホーム ブログについて ☀️ ジャグウォーキング: 心、体、そしてそれらをつなぐニューラル ネットワークを鍛える\nまずジャグリングの方法を学ぶ必要があります\n簡単なので、誰でもジャグリングを学ぶことができます。ある程度の練習は必要ですが、楽器の演奏を習ったり、外国語を習ったりするよりもずっと簡単です。それも楽しいですね。\nジャグリングを学ぶことの利点。\n新しい灰白質と白質の脳細胞を成長させる\nポータブル、ポケットに運動器具を入れて持ち運べます\n脳には、処理と計算が行われる神経細胞体である灰白質と、神経細胞と中枢神経系の間で電気信号を伝達する神経線維の長い束である白質が含まれています。別の科学的研究では、構造の成長と変化が示されています。\nジャグリングを学んだ人々のMRIで見られるように、7日以内に灰白質と白質の両方が観察されます。興味深いのは、実験参加者全員が 30 日間の実験中にジャグリングを習得したということです。だからあなたもできます！\nTL;DR ジャグリングを 1 週間以内に新しい脳細胞が成長することを証明した科学論文。学習による灰白質の変化\nTL;DR ジャグリングによる新しい白血球の成長を証明する科学論文。ジャグリングは脳内のつながりを強化する\nこれは、ジャグリングの方法を教えるステップバイステップのチュートリアルです。\nジャグリングを学ぶ (15 分のビデオ)\n私がこれまで会ったジャグラーは皆、ジャグリングが活動的な瞑想の一種になっていると感じています。それは確かにあなたに集中し、現在に完全に気づき、完全に集中することを強制します。 Joe Hart は、この 3 分間のビデオ「アクティブな瞑想としてのジャグリングの紹介」でこれについて説明しています。同様に、「瞑想を理解する |」を参照してください。"
     },
     {
-      "rank": 10,
+      "rank": 14,
       "hn_id": 49371034,
       "title": "LLM Reasoning Traces Are Not Audit Records",
       "title_ja": "LLM 推論トレースは監査記録ではありません",
@@ -138,7 +193,7 @@
       "summary_ja": "推論トレースは監査記録ではない |ライ麦 ライ麦 。 ai の機能 記事 ドキュメントの価格 法的サインイン 無料トライアルを開始する メニュー 機能 記事 ドキュメントの価格 法的サインイン 無料トライアルを開始する 記事に戻る 発行日 2026 年 8 月 19 日 読み物 6 分で読める 著者 Peter W. Njenga Founder トピック Ai コーディング セキュリティ ランタイム セキュリティの記事\n推論トレースは監査記録ではない\nGoogle DeepMind の 2025 年の論文では、実稼働 LLM が最大 13.49% の割合で実際の出力と矛盾する思考連鎖の説明を生成することが判明しました。これは、AI コーディング エージェントのセキュリティまたはコンプライアンス記録として思考トレースを使用している人に直接的な影響を及ぼします。\nGoogle DeepMind の研究者によって 2025 年 3 月に発表された論文では、推論の忠実性について 15 個の LLM をテストしました。中心的な質問は、モデルがその答えに対する思考連鎖の説明を生成するとき、その説明はモデルが実際にどのように答えに到達したかを反映しているのかということです。\n結果は、テストしたモデル間で大きく異なりました。拡張思考を備えた推論モデルのスコアが最も高かった: 思考を備えた Claude 3.7 Sonnet は 0.04%、Gemini 2.5 Pro は 0.14% でした。明示的思考モードのない標準的な完了モデルのスコアはさらに低く、GPT-4o-mini は 13.49%、Claude Haiku 3.5 は 7.42%、Gemini 1.5 Pro は 6.54% でした。\n2025年3月モデルです。この文書では、現在の Claude 4.x 世代、o3、または Gemini 2.5 フラッシュについては取り上げていません。これらに対する同等の忠実度測定値はありません。この論文が証明しているのは、構造的な発見です。"
     },
     {
-      "rank": 11,
+      "rank": 15,
       "hn_id": 49368932,
       "title": "Make shareable software for free using Gemini 3.7 flash on Reachpad",
       "title_ja": "Reachpad の Gemini 3.7 フラッシュを使用して共有可能なソフトウェアを無料で作成する",
@@ -152,7 +207,7 @@
       "summary_ja": "Gemini 3.7 フラッシュが無料で提供 · リーチパッド 無料モデル Gemma 4 31B + Gemini 3.7 すべてのパッドにフラッシュ → リーチパッド CLI ドキュメント 価格 ブログ お問い合わせ ログイン トライアル ブログを開始\nGemini 3.7 Flash が無料で提供される\nGemini 3.7 Flash がすべてのパッドに含まれるようになりました。 Gemma 4 31B および Gemini 3.6 Flash に加わります。OpenCode の 3 つのモデル、プロバイダー アカウントなし、貼り付けるキーなし、使用法はパッドに含まれています。\n各モデルは OpenCode の独自のプロバイダー エントリであり、agent.reachpad.dev のリーチパッド モデル ゲートウェイから提供されます。ピッカーは 3 つすべてをパッド上に表示します。\nインストールするものや貼り付けるものは何もありません。パッドはプロバイダーが構成され、独自の資格情報とともに届くため、シェルを開く前にモデルの準備ができています。パッドの機能を OpenCode に尋ねます。\n$ opencode models モデルごとに 1 行、プロバイダーを最初に出力します。同じ ID で 3.7 に対してワンショットを実行します。\n$ opencode run -m reversepad-gemini-3-7/gemini-3-7-flash \"explain this repo\" OpenCode TUI では、/model によってピッカーが開き、ステータス バーにどのプロバイダーが応答したかが表示されます。各モデルが個別のエントリであり、間違ったモデルも同じように流暢に応答するため、一見の価値があります。デフォルトを固定するには、 ~/.config/opencode/opencode.json でモデルを設定します。パッドはその選択肢を保持します。"
     },
     {
-      "rank": 12,
+      "rank": 16,
       "hn_id": 49369538,
       "title": "Misconfigured Admin System Prompts Can Invert an LLM's Safety Layer",
       "title_ja": "管理システムのプロンプトの構成が間違っていると、LLM の安全層が逆転する可能性がある",
@@ -165,7 +220,7 @@
       "summary_ja": "管理システム プロンプトの設定が間違っていると、LLM の安全層が反転する可能性があります"
     },
     {
-      "rank": 13,
+      "rank": 17,
       "hn_id": 49370037,
       "title": "Do We Still Need Database Management Tools When AI Can Write SQL?",
       "title_ja": "AI が SQL を記述できるようになったとしても、データベース管理ツールは必要ですか?",
@@ -178,21 +233,20 @@
       "summary_ja": "AI が SQL を記述できるようになったとしても、データベース管理ツールは必要でしょうか? · Bucket Li Bucket Li Writing RSS ← すべての投稿 AI が SQL を書けるようになってもデータベース管理ツールは必要ですか?\n私は最近、単純な質問について考えています。AI がすでにデータベース スキーマを理解し、SQL を記述し、クエリを実行することさえできるとしたら、従来のデータベース管理ツールはどれくらい必要になるでしょうか?\n日常的なデータベース作業の多くにおいて、AI は古いワークフローよりも明らかに優れています。\nすべてのテーブル名や列名を覚える必要はもうありません。必要なものを平易な英語で説明し、モデルにスキーマを検査させ、クエリを返すことができます。古い SQL を説明したり、不慣れなデータベースをサポートしたり、場合によっては私よりも早く実行計画の問題を特定したりできます。\n毎日 SQL を書かない人にとって、その違いはさらに大きくなります。\nしたがって、データベース クライアントは最終的には AI チャット ボックスに消えるだろうと想像したくなります。\n少なくとも本番環境ではそんなことは起こらないと思います。\nSQL を書くのは決して難しいことではありませんでした\n考えれば考えるほど、SQL 生成は実稼働データベースの操作のほんの一部にすぎないと感じるようになります。\n通常、より難しい質問は次のとおりです。\nこのデータベースへのアクセスを許可されているのは誰ですか?\n彼らは機密性の高い列を読むことができますか?\nUPDATE または DELETE を実行できますか?\nスキーマの変更には承認が必要ですか?\n手術に危険が伴う場合はどうなりますか?\n3か月後に何が起こったのかを再現できるでしょうか?\nAI によりオペレーションの生成が容易になります。こうした疑問が消えるわけではありません。\nある意味、それはそれらをより重要なものにします。"
     },
     {
-      "rank": 14,
-      "hn_id": 49369311,
-      "title": "Agentic AI has made CPUs the new performance bottleneck",
-      "title_ja": "Agentic AI により CPU が新たなパフォーマンスのボトルネックになっている",
-      "hn_url": "https://news.ycombinator.com/item?id=49369311",
-      "source_url": "https://spectrum.ieee.org/ai-cpu-comeback",
-      "image_url": "https://spectrum.ieee.org/media-library/the-cpu-comeback-is-upon-us.jpg?id=67615384\u0026width=1200\u0026height=600\u0026coordinates=0%2C718%2C0%2C532",
+      "rank": 18,
+      "hn_id": 49370228,
+      "title": "Crypto's (and AI's) midterm PAC machine",
+      "title_ja": "Crypto (および AI) の中期 PAC マシン",
+      "hn_url": "https://news.ycombinator.com/item?id=49370228",
+      "source_url": "https://www.politico.com/newsletters/politico-influence/2026/08/19/a-rare-setback-for-cryptos-midterm-machine-01042044",
       "score": 1,
       "final_score": 1,
       "comments": 0,
-      "posted_at": "2026-08-20T01:14:05Z",
-      "summary_ja": "--\u003e\nRaven.config('https://6b64f5cc8af542cbb920e0238864390a@sentry.io/147999').install();\nAgentic AI クランチにより CPU が復活 - IEEE Spectrum\nIEEE.org IEEE Explore IEEE Standards IEEE Job Site その他のサイト サインイン IEEE に参加 CPU の復活が近づいています テクノロジー インサイダーのためにシェア 検索: トピック別に探索 航空宇宙 AI 生物医学 気候 テクノロジー コンピューティング 家庭用電化製品 エネルギー 技術の歴史 ロボット工学 半導体 電気通信 輸送\nIEEEスペクトル\nテクノロジー関係者向けトピック\nアカウントを作成すると、さらに無料のコンテンツや特典をお楽しみいただけます\n後で読むために記事を保存するには、IEEE Spectrum アカウントが必要です\nインスティテュートのコンテンツはメンバーのみが利用できます\n全号 PDF のダウンロードは IEEE メンバー限定です\nこの電子ブックのダウンロードは IEEE メンバー限定です\nへのアクセス\nスペクトル\nのデジタル版は IEEE メンバー限定です\n以下のトピックは IEEE メンバー限定の機能です\n記事に回答を追加するには、IEEE Spectrum アカウントが必要です\nアカウントを作成すると、さらに多くのコンテンツや機能にアクセスできます\nIEEEスペクトル\n、後で読むために記事を保存したり、スペクトル コレクションをダウンロードしたり、イベントに参加したりする機能が含まれます。\n読者や編集者との会話。より独占的なコンテンツと機能については、次のことを検討してください。\nIEEEに参加する\n。\nエンジニアリングと応用科学を専門とする世界最大の専門組織に参加し、次の情報にアクセスしましょう。\nSpectrum のすべての記事、アーカイブ、PDF ダウンロード、その他の特典を利用できます。"
+      "posted_at": "2026-08-20T03:58:56Z",
+      "summary_ja": "暗号通貨 (および AI) の中期 PAC マシン"
     },
     {
-      "rank": 15,
+      "rank": 19,
       "hn_id": 49369982,
       "title": "Show HN: AI agents can now safely write to your CRMs",
       "title_ja": "HN を表示: AI エージェントが CRM に安全に書き込みできるようになりました",
@@ -206,7 +260,7 @@
       "summary_ja": "Archron - ビジネス システム向け AI 実行インフラストラクチャ Archron とは何か デモ 仕組み システム ドキュメント セキュリティ 料金 お問い合わせ サインイン 開始する 実行ガバナンス\nAI エージェントを本番環境に安全に導入する\nAI はあなたのビジネスを運営する準備ができています。ほとんどの企業はそれを信頼していません。 Archron は実行前にすべてのアクションを検証し、AI エージェントが完全なガバナンスと監査機能を備えた運用システムを安全に更新できるようにします。\n推論は洞察力を生み出します。実行により ROI が生まれます。\n2 分間のデモを見る 本番データの決定的な保護手段\nエージェントはリクエストを解釈するのが得意です。 CRM、ERP、およびサポート ツールは、フィールド、権限、関係、およびワークフロー ルールについて厳密です。 Archron は、運用可能なファイアウォールとしてそれらの間に位置します。すべてのエージェントのアクションは、実稼働環境に入る前に検証されます。不正な書き込みはゼロ。壊れたワークフローはゼロ。\nすべてのエージェントのアクションは、実行前に構造化され、スコープが設定され、システムに対して検証されます。ファイアウォールを通過せずに本番環境に到達することはありません。\nCRM、ERP、サポート ツールは依然として信頼できる情報源です。 Archron は、スキーマ、権限、ビジネス ルールをそのままにして、エージェントがエージェントにアクセスする方法を制御します。\nエージェントのあらゆるアクションを引き起こした正確なプロンプト、コンテキスト、検証に関する不変の監査証跡。スタック内のすべての人間以外のアクターの運用を完全に監視します。\n企業全体の実行層\nArchron は、最もリスクの高い環境から始めて、エンタープライズ アーキテクチャ全体にわたる AI の実行を管理します。"
     },
     {
-      "rank": 16,
+      "rank": 20,
       "hn_id": 49369402,
       "title": "Credentialism is coming for AI agents",
       "title_ja": "AIエージェントに資格主義が到来する",
@@ -219,18 +273,31 @@
       "summary_ja": "AI エージェントに資格主義が登場 |ベト・モレイラ\nホーム 興味について 本棚の質問 仕事のブログ ベト・モレイラ AI エージェントに資格制度が登場\n今朝、私は好意的なエージェントに関するスコット・ベルスキーの指摘を読んでいました。彼は次のように述べています。\n「これらのエージェント企業の堀が、Uber、Airbnb、Amazon、Amex などのサービスや、ボットを防御している企業のロングテールなどのサービスに直接優先的にアクセスできる『優先エージェント』のステータスを獲得することだとしたらどうでしょうか?」\nそして、これは実際には、より大きな問題の一部であると思います。それは、誰がオンラインで私たちに代わって行動できるのかということです。\nこれについて私が考えているのは、確かに、これがどのように展開するかを形作る、より大きな賭けの規制がおそらく存在するだろうということです。しかし、いずれにせよ、AI エージェントが特定の市場やサービスへのアクセスをブロックされるのは間違いなく今後も続くでしょう。\nAI エージェントがより個人的な主体性と自由をもたらすことを期待していた人々にとって、これは驚くべきことかもしれませんが、エージェントの資格はおそらく重要なものになるでしょう。新しい扉を開こうとするときに、通っていた大学（または通っていなかった大学）や最後に勤めていた会社が重要であるのと同じように。\nたとえば、一部の銀行に OpenAI エージェントまたは GrokBot による API へのアクセスを許可し始めるとします。あるいは、それらはそうではないかもしれません。おそらく、Microsoft の Copilot のみが許可されるでしょう。それは、顧客の導入を促進したり、既存の企業関係を伴う可能性があるからです。\nこれによりさらに力が集中するかどうかを見るのは興味深いでしょう。"
     },
     {
-      "rank": 17,
-      "hn_id": 49370598,
-      "title": "Claude Revived My Microsoft Band 2",
-      "title_ja": "クロードが私の Microsoft Band 2 を復活させました",
-      "hn_url": "https://news.ycombinator.com/item?id=49370598",
-      "source_url": "https://webenclave.com/posts/bringing-a-microsoft-band-2-back-from-the-dead/",
-      "image_url": "https://webenclave.com/og/posts/bringing-a-microsoft-band-2-back-from-the-dead.jpg",
+      "rank": 21,
+      "hn_id": 49371156,
+      "title": "AI Is Changing How We Hac",
+      "title_ja": "AI はハックの方法を変える",
+      "hn_url": "https://news.ycombinator.com/item?id=49371156",
+      "source_url": "",
       "score": 1,
       "final_score": 1,
       "comments": 0,
-      "posted_at": "2026-08-20T05:11:32Z",
-      "summary_ja": "コンテンツにスキップ\nウェブ エンクレーブ — EST 2023\n安全なチャンネル — チューブ\nスクロール000\nエンクレーブ\n仕事\n2026年\n派遣\nMicrosoft Band 2 を死から蘇らせる\n2026 年 8 月 20 日 1 分で読めるチュートリアル\n私の Microsoft Band 2 は、携帯電話の Microsoft Health アプリからセットアップを続行するときに停止しました。このアプリは、Microsoft が 2019 年 5 月 31 日にヘルス ダッシュボードを閉鎖して以来存在していません。FAQ ではそれについて率直に述べられています。その日以降にバンドをリセットすると、再度セットアップすることはできません。私のものはリセットされていました。\nそれを M1 MacBook Air に接続し、Opus 5 で Claude Code を開き、画面を説明しました。 1時間後、バンドは準備を終え、正しい時刻を告げていた。\nライブラリは msband-py で、電話を使わずに Band の USB プロトコルを話します。 Python 3.11 ではその構造型付けピンがインポートされないため、Python 3.10 が必要です。 OobeFinalize はペアリングされた電話がないと拒否するため、デモ モードを有効にし、Band を取り外し、無効にする方法があります。 NotInOobe を報告して戻ってきます。\n歩数、心拍数、睡眠、トレーニング、アラームが機能します。通知、Cortana、その他クラウドを必要とするものはすべて永久に失われます。手首に戻ってきました。\nAI、Web、アプリケーション開発コンサルティング\n上記のような仕事を、曖昧な概要から本番まで進めます。\n1 つのメッセージで、当社が適切なショップであるかどうかについての直接の回答が得られます。"
+      "posted_at": "2026-08-20T06:36:18Z",
+      "summary_ja": "AI は私たちのハック方法を変える"
+    },
+    {
+      "rank": 22,
+      "hn_id": 49369311,
+      "title": "Agentic AI has made CPUs the new performance bottleneck",
+      "title_ja": "Agentic AI により CPU が新たなパフォーマンスのボトルネックになっている",
+      "hn_url": "https://news.ycombinator.com/item?id=49369311",
+      "source_url": "https://spectrum.ieee.org/ai-cpu-comeback",
+      "image_url": "https://spectrum.ieee.org/media-library/the-cpu-comeback-is-upon-us.jpg?id=67615384\u0026width=1200\u0026height=600\u0026coordinates=0%2C718%2C0%2C532",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-08-20T01:14:05Z",
+      "summary_ja": "--\u003e\nRaven.config('https://6b64f5cc8af542cbb920e0238864390a@sentry.io/147999').install();\nAgentic AI クランチにより CPU が復活 - IEEE Spectrum\nIEEE.org IEEE Explore IEEE Standards IEEE Job Site その他のサイト サインイン IEEE に参加 CPU の復活が近づいています テクノロジー インサイダーのためにシェア 検索: トピック別に探索 航空宇宙 AI 生物医学 気候 テクノロジー コンピューティング 家庭用電化製品 エネルギー 技術の歴史 ロボット工学 半導体 電気通信 輸送\nIEEEスペクトル\nテクノロジー関係者向けトピック\nアカウントを作成すると、さらに無料のコンテンツや特典をお楽しみいただけます\n後で読むために記事を保存するには、IEEE Spectrum アカウントが必要です\nインスティテュートのコンテンツはメンバーのみが利用できます\n全号 PDF のダウンロードは IEEE メンバー限定です\nこの電子ブックのダウンロードは IEEE メンバー限定です\nへのアクセス\nスペクトル\nのデジタル版は IEEE メンバー限定です\n以下のトピックは IEEE メンバー限定の機能です\n記事に回答を追加するには、IEEE Spectrum アカウントが必要です\nアカウントを作成すると、さらに多くのコンテンツや機能にアクセスできます\nIEEEスペクトル\n、後で読むために記事を保存したり、スペクトル コレクションをダウンロードしたり、イベントに参加したりする機能が含まれます。\n読者や編集者との会話。より独占的なコンテンツと機能については、次のことを検討してください。\nIEEEに参加する\n。\nエンジニアリングと応用科学を専門とする世界最大の専門組織に参加し、次の情報にアクセスしましょう。\nSpectrum のすべての記事、アーカイブ、PDF ダウンロード、その他の特典を利用できます。"
     }
   ]
 }

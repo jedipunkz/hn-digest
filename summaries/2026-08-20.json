@@ -1,6 +1,6 @@
 {
   "date": "2026-08-20",
-  "generated_at": "2026-08-20T20:19:15Z",
+  "generated_at": "2026-08-20T21:20:16Z",
   "articles": [
     {
       "rank": 1,
@@ -114,17 +114,16 @@
     },
     {
       "rank": 9,
-      "hn_id": 49373479,
-      "title": "AI agent suggested installing a malware package. Engineer almost took its advice",
-      "title_ja": "AI エージェントはマルウェア パッケージのインストールを提案しました。エンジニアはアドバイスをほぼ受け入れた",
-      "hn_url": "https://news.ycombinator.com/item?id=49373479",
-      "source_url": "https://www.theregister.com/security/2026/08/20/ai-agent-suggested-installing-a-malware-package-engineer-almost-took-its-advice/5289849",
-      "image_url": "https://image.theregister.com/4094065.jpg?imageId=4094065\u0026x=0\u0026y=0\u0026cropw=100\u0026croph=100\u0026panox=0\u0026panoy=0\u0026panow=100\u0026panoh=100\u0026width=1200\u0026height=683",
-      "score": 3,
+      "hn_id": 49378451,
+      "title": "Anthropic Expects to Match SpaceX's Record IPO Size or Top It",
+      "title_ja": "アンスロピックはSpaceXの記録的なIPO規模と同等か、それを上回る規模を期待している",
+      "hn_url": "https://news.ycombinator.com/item?id=49378451",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-08-20/anthropic-expects-to-match-spacex-s-record-ipo-size-or-top-it",
+      "score": 5,
       "final_score": 6,
       "comments": 0,
-      "posted_at": "2026-08-20T12:07:07Z",
-      "summary_ja": "メインコンテンツへジャンプ\n検索\nトピックス\n特別な機能\nすべての特別な機能\n2026 年クラウド インフラストラクチャ月間\nFIS と AWS による金融サービスの最新化\nCapgemini と AWS でそれを実現する\nNutanix: Kubernetes をスケールします。カオスではありません。\nAI エージェントはマルウェア パッケージのインストールを提案しました。エンジニアはアドバイスをほぼ受け入れた\n幸いなことに、同社は最初に GitHub でソースコードを確認するというポリシーを持っていました。\nPWNED PWNED へようこそ。このコラムでは、セキュリティを自己所有している人々をからかいます。皆さんも同じことをしないことを願っています。今週は、ある企業がプログラミングに AI を使用してセキュリティを妨害しそうになったという報道で話題になっています。\n誰かが自分のネットワークに大きな穴を残したという話はありますか? pwned@sitpub.com まで共有してください。ご要望に応じて匿名での対応も可能です。\n機械学習の不正行為に関する私たちの話は、コンサルティングおよびソフトウェア開発会社である Softjourn のマネージング ディレクターである Sergiy Fitak 氏のご厚意により提供されました。彼は、AI に関しては、信頼するのではなく、検証することを私たちに思い出させます。\n業務中、あるエンジニアは AI エージェントに、一般的なタスクに必要なパッケージを推奨するよう依頼しました。エージェントは、使い慣れたライブラリのようにフォーマットされた、正当な響きのパッケージの名前を付けて戻ってきました。\n多くの組織では、これで話は終わっただろう。開発者は AI エージェントのアドバイスに従い、推奨パッケージをダウンロードしてインストールしたでしょう。\nしかし、Softjourn には、AI によって作成されたソフトウェアの推奨事項が正当であることを確認するために再チェックするというポリシーがあり、実際に従っていました。"
+      "posted_at": "2026-08-20T18:39:42Z",
+      "summary_ja": "Anthropic、SpaceXの記録的なIPO規模と同等か、それを上回る見込み"
     },
     {
       "rank": 10,
@@ -142,17 +141,16 @@
     },
     {
       "rank": 11,
-      "hn_id": 49374743,
-      "title": "'Not a theoretical risk,' feds warn as attackers use AI-made code",
-      "title_ja": "攻撃者がAIで作ったコードを使用していることに「理論上のリスクではない」と連邦当局が警告",
-      "hn_url": "https://news.ycombinator.com/item?id=49374743",
-      "source_url": "https://www.theregister.com/security/2026/08/19/not-a-theoretical-risk-feds-warn-as-attackers-use-ai-made-code-to-hack-critical-infrastructure-controllers/5289960",
-      "image_url": "https://image.theregister.com/5289987.jpg?imageId=5289987\u0026x=0\u0026y=0\u0026cropw=100\u0026croph=100\u0026panox=0\u0026panoy=0\u0026panow=100\u0026panoh=100\u0026width=1200\u0026height=683",
-      "score": 3,
+      "hn_id": 49372390,
+      "title": "Debian weighs eight options in vote on LLM usage",
+      "title_ja": "Debian、LLM の使用に関する投票で 8 つの選択肢を検討",
+      "hn_url": "https://news.ycombinator.com/item?id=49372390",
+      "source_url": "https://lwn.net/Articles/1087134/",
+      "score": 5,
       "final_score": 6,
       "comments": 0,
-      "posted_at": "2026-08-20T14:05:13Z",
-      "summary_ja": "メインコンテンツへジャンプ\n検索\nトピックス\n特別な機能\nすべての特別な機能\n2026 年クラウド インフラストラクチャ月間\nFIS と AWS による金融サービスの最新化\nCapgemini と AWS でそれを実現する\nNutanix: Kubernetes をスケールします。カオスではありません。\n攻撃者がAIで作成したコードを使用して重要インフラ制御装置をハッキングすることに「理論上のリスクではない」と連邦政府が警告\n攻撃者は、AIが生成した悪用スクリプトを使用して、水道、製造、エネルギー、その他の重要な施設でインターネットに公開されたシーメンスS7シリーズ プログラマブル ロジック コントローラー (PLC) に侵入しており、米国の5つの連邦政府機関は水曜日、これを「積極的な脅威」と呼んだ。\nアメリカの重要インフラに対する今回の侵入では、攻撃者はオープンソースの産業オートメーション ライブラリ、具体的には snap7.dll/python-snap7 を AI コーディング アシスタントと組み合わせて使用​​しています。悪者たちは、オープンソース ライブラリと AI を利用して、オペレーショナル テクノロジー (OT) 監視ソフトウェアを模倣するカスタム ツールを作成し、S7comm プロトコルを介して PLC デバイスのメモリ、構成データ、およびラダー ロジック プログラムへの読み取り/書き込みアクセスを提供します。\n「これは理論上のリスクではなく、現実的な脅威だ」と連邦政府は警告した。\n国家安全保障局（NSA）、サイバーセキュリティ・インフラセキュリティ庁（CISA）、連邦捜査局（FBI）、エネルギー省（DOE）、環境保護庁（EPA）による共同警報は、脅威が特定の政府や犯罪グループによるものではないとしているが、少なくとも12の州の上下水道施設でPLCを標的とした最近の攻撃の背後にイランのサイバー工作員が関与している疑いがある。 7月下旬のミネソタ州。"
+      "posted_at": "2026-08-20T09:39:07Z",
+      "summary_ja": "Debian は LLM の使用に関する投票で 8 つのオプションを検討します"
     },
     {
       "rank": 12,
@@ -170,20 +168,33 @@
     },
     {
       "rank": 13,
-      "hn_id": 49378450,
-      "title": "Brancher un LLM sur un catalogue produit avec Django",
-      "title_ja": "Django を使用して LLM を製品カタログに接続する",
-      "hn_url": "https://news.ycombinator.com/item?id=49378450",
-      "source_url": "https://tonydevweb.com/articles/brancher-llm-catalogue-produit.html",
-      "image_url": "https://tonydevweb.com/static/developpeur-python.png",
-      "score": 5,
+      "hn_id": 49373479,
+      "title": "AI agent suggested installing a malware package. Engineer almost took its advice",
+      "title_ja": "AI エージェントはマルウェア パッケージのインストールを提案しました。エンジニアはアドバイスをほぼ受け入れた",
+      "hn_url": "https://news.ycombinator.com/item?id=49373479",
+      "source_url": "https://www.theregister.com/security/2026/08/20/ai-agent-suggested-installing-a-malware-package-engineer-almost-took-its-advice/5289849",
+      "image_url": "https://image.theregister.com/4094065.jpg?imageId=4094065\u0026x=0\u0026y=0\u0026cropw=100\u0026croph=100\u0026panox=0\u0026panoy=0\u0026panow=100\u0026panoh=100\u0026width=1200\u0026height=683",
+      "score": 3,
       "final_score": 6,
-      "comments": 1,
-      "posted_at": "2026-08-20T18:39:16Z",
-      "summary_ja": "Django を使用して LLM を製品カタログに接続する\nDjango を使用して LLM を製品カタログに接続する\nDjango を使用して LLM を製品カタログに接続する\n診断エージェントのスペアパーツ市場への統合に関するフィードバック。スタック: 非同期ビューの Django、PostgreSQL フルテキスト、Redis、LLM API。\nスペアパーツ市場には語彙の問題があります。探しているもの (「タイミング チェーン テンショナー」) を知っている購入者は、すでに古典的な全文検索を利用できます。入力すると、検索されます。問題は他の訪問者からのもので、「寒いときにバイクがアイドリングで失速する」と書いている人です。彼は部屋の名前を知らず、検索しても結果はゼロで、再び部屋を出てしまいました。症状とカタログ参照の間には、翻訳の層が欠落しています。\n強化された研究ではなく LLM を使用する理由\n3 つのアプローチが可能でした。手動のルックアップ テーブル。信頼性は高いが厳格で、計画された内容のみをカバーします。埋め込みによるセマンティック検索はエレガントですが、間違った問題を解決します。つまり、症状と部品の間のリンクは語彙的ではなく、因果関係です。または、構造化された出力を備えた LLM では、バックエンドがカタログとブリッジしながらモデルが推論します。\nこれは決定的なニュアンスを伴って保持された 3 つ目です。LLM はカタログを決して参照しません。標準化された診断と検索用語を生成するだけです。実際の株式との関係は確定的なコードのままです。この分離は、プロジェクトのアーキテクチャ上の最も重要なポイントです。モデルは、存在しない製品を幻覚させたり、価格をでっち上げたり、入手可能性を約束したりすることはできません。\nフロリダ州\n\nux は意図的に線形です。エ​​ージェントの連鎖、関数呼び出し、RAG はありません。 1 つの LLM 呼び出し、1 つの変換、N 個の SQL クエリ。"
+      "comments": 0,
+      "posted_at": "2026-08-20T12:07:07Z",
+      "summary_ja": "メインコンテンツへジャンプ\n検索\nトピックス\n特別な機能\nすべての特別な機能\n2026 年クラウド インフラストラクチャ月間\nFIS と AWS による金融サービスの最新化\nCapgemini と AWS でそれを実現する\nNutanix: Kubernetes をスケールします。カオスではありません。\nAI エージェントはマルウェア パッケージのインストールを提案しました。エンジニアはアドバイスをほぼ受け入れた\n幸いなことに、同社は最初に GitHub でソースコードを確認するというポリシーを持っていました。\nPWNED PWNED へようこそ。このコラムでは、セキュリティを自己所有している人々をからかいます。皆さんも同じことをしないことを願っています。今週は、ある企業がプログラミングに AI を使用してセキュリティを妨害しそうになったという報道で話題になっています。\n誰かが自分のネットワークに大きな穴を残したという話はありますか? pwned@sitpub.com まで共有してください。ご要望に応じて匿名での対応も可能です。\n機械学習の不正行為に関する私たちの話は、コンサルティングおよびソフトウェア開発会社である Softjourn のマネージング ディレクターである Sergiy Fitak 氏のご厚意により提供されました。彼は、AI に関しては、信頼するのではなく、検証することを私たちに思い出させます。\n業務中、あるエンジニアは AI エージェントに、一般的なタスクに必要なパッケージを推奨するよう依頼しました。エージェントは、使い慣れたライブラリのようにフォーマットされた、正当な響きのパッケージの名前を付けて戻ってきました。\n多くの組織では、これで話は終わっただろう。開発者は AI エージェントのアドバイスに従い、推奨パッケージをダウンロードしてインストールしたでしょう。\nしかし、Softjourn には、AI によって作成されたソフトウェアの推奨事項が正当であることを確認するために再チェックするというポリシーがあり、実際に従っていました。"
     },
     {
       "rank": 14,
+      "hn_id": 49374524,
+      "title": "Google strikes $12B AI chip deal with Marvell to develop TPUs",
+      "title_ja": "Google、TPU開発でマーベルと120億ドルのAIチップ契約を締結",
+      "hn_url": "https://news.ycombinator.com/item?id=49374524",
+      "source_url": "https://www.ft.com/content/0fdb094c-fc03-4d3c-8da6-bd11af88ff63",
+      "score": 5,
+      "final_score": 6,
+      "comments": 0,
+      "posted_at": "2026-08-20T13:46:48Z",
+      "summary_ja": "Google、TPU 開発のためマーベルと 120 億ドルの AI チップ契約を締結"
+    },
+    {
+      "rank": 15,
       "hn_id": 49378891,
       "title": "Show HN: Meridian(PH #1) – Automatic AI Workjournal for Devs",
       "title_ja": "Show HN: Meridian(PH #1) – 開発者向けの自動 AI ワークジャーナル",
@@ -197,62 +208,38 @@
       "summary_ja": "GitHub - Meridiona/meridian: 自分の仕事を無視するのはやめましょう。 Meridian は、作業内容と完了内容を毎日要約して自動的に作業日誌に記録し、プロジェクト チケットの下書きを自動的に作成します。 · GitHub\nコンテンツにスキップ\nナビゲーションメニュー\nサインイン 外観設定 プラットフォーム AI コード作成 GitHub Copilot AI を使用してより良いコードを作成する\nGitHub Copilot アプリ エージェントが発行からマージまで直接担当\nMCP レジストリ 外部ツールの統合\n開発者のワークフロー アクション あらゆるワークフローを自動化します\nコードスペース インスタント開発環境\nコードレビュー コードの変更を管理する\nコードの品質 マージ時に品質を強制する\nアプリケーションセキュリティ GitHub Advanced Security 脆弱性を見つけて修正する\nコードのセキュリティ 構築時にコードを保護する\n機密保護 漏洩が始まる前に阻止\n企業規模別のソリューション\nタイプごとに詳しく見る お客様の事例\nサポートとサービスのドキュメント\nオープンソース コミュニティ GitHub スポンサー オープンソース開発者に資金を提供する\nエンタープライズ エンタープライズ ソリューション エンタープライズ プラットフォーム AI を活用した開発者プラットフォーム\n利用可能なアドオン GitHub Advanced Security エンタープライズ グレードのセキュリティ機能\nCopilot for Business エンタープライズ グレードの AI 機能\nプレミアム サポート エンタープライズ レベルの 24 時間年中無休のサポート\n検索 / サインイン サインアップ 外観設定\n別のタブまたはウィンドウでサインインしました。リロードしてセッションを更新します。\n別のタブまたはウィンドウでサインアウトしました。リロードしてセッションを更新します。\n別のタブまたはウィンドウでアカウントを切り替えました。"
     },
     {
-      "rank": 15,
-      "hn_id": 49378451,
-      "title": "Anthropic Expects to Match SpaceX's Record IPO Size or Top It",
-      "title_ja": "アンスロピックはSpaceXの記録的なIPO規模と同等か、それを上回る規模を見込んでいる",
-      "hn_url": "https://news.ycombinator.com/item?id=49378451",
-      "source_url": "https://www.bloomberg.com/news/articles/2026-08-20/anthropic-expects-to-match-spacex-s-record-ipo-size-or-top-it",
-      "score": 5,
-      "final_score": 6,
-      "comments": 0,
-      "posted_at": "2026-08-20T18:39:42Z",
-      "summary_ja": "Anthropic、SpaceXの記録的なIPO規模と同等か、それを上回る見込み"
-    },
-    {
       "rank": 16,
-      "hn_id": 49372390,
-      "title": "Debian weighs eight options in vote on LLM usage",
-      "title_ja": "Debian、LLM の使用に関する投票で 8 つの選択肢を検討",
-      "hn_url": "https://news.ycombinator.com/item?id=49372390",
-      "source_url": "https://lwn.net/Articles/1087134/",
+      "hn_id": 49378450,
+      "title": "Brancher un LLM sur un catalogue produit avec Django",
+      "title_ja": "Django を使用して LLM を製品カタログに接続する",
+      "hn_url": "https://news.ycombinator.com/item?id=49378450",
+      "source_url": "https://tonydevweb.com/articles/brancher-llm-catalogue-produit.html",
+      "image_url": "https://tonydevweb.com/static/developpeur-python.png",
       "score": 5,
       "final_score": 6,
-      "comments": 0,
-      "posted_at": "2026-08-20T09:39:07Z",
-      "summary_ja": "Debian は LLM の使用に関する投票で 8 つのオプションを検討します"
+      "comments": 1,
+      "posted_at": "2026-08-20T18:39:16Z",
+      "summary_ja": "Django を使用して LLM を製品カタログに接続する\nDjango を使用して LLM を製品カタログに接続する\nDjango を使用して LLM を製品カタログに接続する\n診断エージェントのスペアパーツ市場への統合に関するフィードバック。スタック: 非同期ビューの Django、PostgreSQL フルテキスト、Redis、LLM API。\nスペアパーツ市場には語彙の問題があります。探しているもの (「タイミング チェーン テンショナー」) を知っている購入者は、すでに古典的な全文検索を利用できます。入力すると、検索されます。問題は他の訪問者からのもので、「寒いときにバイクがアイドリングで失速する」と書いている人です。彼は部屋の名前を知らず、検索しても結果はゼロで、再び部屋を出てしまいました。症状とカタログ参照の間には、翻訳の層が欠落しています。\n強化された研究ではなく LLM を使用する理由\n3 つのアプローチが可能でした。手動のルックアップ テーブル。信頼性は高いが厳格で、計画された内容のみをカバーします。埋め込みによるセマンティック検索はエレガントですが、間違った問題を解決します。つまり、症状と部品の間のリンクは語彙的ではなく、因果関係です。または、構造化された出力を備えた LLM では、バックエンドがカタログとブリッジしながらモデルが推論します。\nこれは決定的なニュアンスを伴って保持された 3 つ目です。LLM はカタログを決して参照しません。標準化された診断と検索用語を生成するだけです。実際の株式との関係は確定的なコードのままです。この分離は、プロジェクトのアーキテクチャ上の最も重要なポイントです。モデルは、存在しない製品を幻覚させたり、価格をでっち上げたり、入手可能性を約束したりすることはできません。\nフロリダ州\n\nux は意図的に線形です。エ​​ージェントの連鎖、関数呼び出し、RAG はありません。 1 つの LLM 呼び出し、1 つの変換、N 個の SQL クエリ。"
     },
     {
       "rank": 17,
-      "hn_id": 49374524,
-      "title": "Google strikes $12B AI chip deal with Marvell to develop TPUs",
-      "title_ja": "Google、TPU開発でマーベルと120億ドルのAIチップ契約を締結",
-      "hn_url": "https://news.ycombinator.com/item?id=49374524",
-      "source_url": "https://www.ft.com/content/0fdb094c-fc03-4d3c-8da6-bd11af88ff63",
-      "score": 5,
+      "hn_id": 49374743,
+      "title": "'Not a theoretical risk,' feds warn as attackers use AI-made code",
+      "title_ja": "攻撃者がAIで作ったコードを使用、「理論上のリスクではない」と連邦当局が警告",
+      "hn_url": "https://news.ycombinator.com/item?id=49374743",
+      "source_url": "https://www.theregister.com/security/2026/08/19/not-a-theoretical-risk-feds-warn-as-attackers-use-ai-made-code-to-hack-critical-infrastructure-controllers/5289960",
+      "image_url": "https://image.theregister.com/5289987.jpg?imageId=5289987\u0026x=0\u0026y=0\u0026cropw=100\u0026croph=100\u0026panox=0\u0026panoy=0\u0026panow=100\u0026panoh=100\u0026width=1200\u0026height=683",
+      "score": 3,
       "final_score": 6,
       "comments": 0,
-      "posted_at": "2026-08-20T13:46:48Z",
-      "summary_ja": "Google、TPU 開発のためマーベルと 120 億ドルの AI チップ契約を締結"
+      "posted_at": "2026-08-20T14:05:13Z",
+      "summary_ja": "メインコンテンツへジャンプ\n検索\nトピックス\n特別な機能\nすべての特別な機能\n2026 年クラウド インフラストラクチャ月間\nFIS と AWS による金融サービスの最新化\nCapgemini と AWS でそれを実現する\nNutanix: Kubernetes をスケールします。カオスではありません。\n攻撃者がAIで作成したコードを使用して重要インフラ制御装置をハッキングすることに「理論上のリスクではない」と連邦政府が警告\n攻撃者は、AIが生成した悪用スクリプトを使用して、水道、製造、エネルギー、その他の重要な施設でインターネットに公開されたシーメンスS7シリーズ プログラマブル ロジック コントローラー (PLC) に侵入しており、米国の5つの連邦政府機関は水曜日、これを「積極的な脅威」と呼んだ。\nアメリカの重要インフラに対する今回の侵入では、攻撃者はオープンソースの産業オートメーション ライブラリ、具体的には snap7.dll/python-snap7 を AI コーディング アシスタントと組み合わせて使用​​しています。悪者たちは、オープンソース ライブラリと AI を利用して、オペレーショナル テクノロジー (OT) 監視ソフトウェアを模倣するカスタム ツールを作成し、S7comm プロトコルを介して PLC デバイスのメモリ、構成データ、およびラダー ロジック プログラムへの読み取り/書き込みアクセスを提供します。\n「これは理論上のリスクではなく、現実的な脅威だ」と連邦政府は警告した。\n国家安全保障局（NSA）、サイバーセキュリティ・インフラセキュリティ庁（CISA）、連邦捜査局（FBI）、エネルギー省（DOE）、環境保護庁（EPA）による共同警報は、脅威が特定の政府や犯罪グループによるものではないとしているが、少なくとも12の州の上下水道施設でPLCを標的とした最近の攻撃の背後にイランのサイバー工作員が関与している疑いがある。 7月下旬のミネソタ州。"
     },
     {
       "rank": 18,
-      "hn_id": 49376256,
-      "title": "Show HN: Epho – run Claude Code with a curl",
-      "title_ja": "Show HN: Epho – カールを使用してクロード コードを実行する",
-      "hn_url": "https://news.ycombinator.com/item?id=49376256",
-      "source_url": "https://epho.io",
-      "score": 4,
-      "final_score": 5,
-      "comments": 0,
-      "posted_at": "2026-08-20T15:45:51Z",
-      "summary_ja": "epho 仕組み 機能 ドキュメント 料金 よくある質問 主要なエージェントを入手\nAPI 。\nepho はクラウドで claude code 、 codex 、または opencode をスピンアップします。つまり、リポジトリが複製され、ファイルが添付され、mcp サーバーが接続されます。プロンプトを POST すると、作業が戻ってきます。 SDK、デーモン、インフラはありません。\nプロバイダーキーが手元にない場合は、 opencode/…-free モデルは、オープンコードなしで実行されます。\nPOST /api/v1/chat\n{\n\"ハーネス\" : \"クロード\" ,\n\"モデル\" : \"クロード-ソネット-5\" ,\n\"prompt\" : \"auth_test.go の不安定なテストを修正します。\" 、\n\"リポジトリ\" : [{\"url\": \"…/acme/api\"}] ,\n\"provider_api_key\" : \"sk-ant-••••••••”\n} クロード code anthropic のエージェント codex openai のエージェント opencode オープンソース エージェントで動作 $ epho Explain --how-it-works\nあなたは http を話します。\nエージェントはリポジトリと対話します。\n1 つのリクエストで、選択したハーネスを使用して新しいクラウド環境を起動し、そこにリポジトリを複製し、ツールを接続し、プロンプトを渡し、発生したときにすべてをパイプで戻します。"
-    },
-    {
-      "rank": 19,
       "hn_id": 49378874,
       "title": "Study reveals that almost 40% of music released globally in July 2026 used AI",
-      "title_ja": "調査により、2026 年 7 月に世界中でリリースされた音楽のほぼ 40% に AI が使用されていることが明らかになりました",
+      "title_ja": "調査によると、2026 年 7 月に世界中でリリースされた音楽のほぼ 40% に AI が使用されていたことが判明",
       "hn_url": "https://news.ycombinator.com/item?id=49378874",
       "source_url": "https://www.euronews.com/culture/2026/08/20/alarming-study-reveals-that-almost-40-per-cent-of-music-released-globally-in-july-2026-use",
       "score": 4,
@@ -262,7 +249,7 @@
       "summary_ja": "[ 6 jo 0 9i 7 Ư? { 0 p ?̦ ϗ͝\") \u00267 inr R F \\ ! g _ o 3 }ٷ ^ 0Y Zɑr A H jC 跪 ~P )U ~ b 3 k V G q d8l{ J ^C 9 \u0026 D ثʷ _͕S p t9z \u003e !A t +O Ƈ3 v lڶ i|. ƽ / - ] f/ S j S �� ��[% 䱜 ? h / / P F a/ sB Z ]$@R* L2 3 E \" F 6 A ˿ 2J F I . ʖEMhD U ƃ2 Y N ( S E !G\\~ v d |m 5\\9ʯ rWƇZ w j U'\n| ہ \\T;t= ʃ _~ f kz Y ʹ ) si 8@ | m E#- $ Y l j\n^ KhD n yC ! ]gl F- \u0026 Ш C F X* B .`D'S5 Z Wm O D! T!ĵ[2 k i Q]Y M^ ʈ1 u s W pW Ÿ f *I) p Z% M TKe L 5/I Usbt p ^lT-c] ŗ\u0026 zt!b nx % C c d sa% b Ht!ば〜らじ！ ?U 3 H ã ~ L �� T k lv У 1 zy ̼ RJ ® 0G I z M \u003e 7n j 6 [xn . ）Tϐs; $ \u003e q M \u0026 e U c k k l + \\yx| r8 c zqS N } E 。 g x ; \u003e 5u 'uo \" z ?\n\n7 O} R R ? v [e pX a yUvo.ああ、mn。"
     },
     {
-      "rank": 20,
+      "rank": 19,
       "hn_id": 49379261,
       "title": "Introducing AI Futures",
       "title_ja": "AI フューチャーの紹介",
@@ -275,24 +262,10 @@
       "summary_ja": "AI フューチャーの紹介"
     },
     {
-      "rank": 21,
-      "hn_id": 49378562,
-      "title": "Fieldmade – RPG crafting by drawing pixel art and AI",
-      "title_ja": "Fieldmade – ピクセル アートと AI を描画して RPG を作成する",
-      "hn_url": "https://news.ycombinator.com/item?id=49378562",
-      "source_url": "https://chromagolem.itch.io/fieldmade",
-      "image_url": "https://img.itch.zone/aW1nLzI5MzY2Nzc4LnBuZw==/original/X380lX.png",
-      "score": 4,
-      "final_score": 5,
-      "comments": 1,
-      "posted_at": "2026-08-20T18:49:22Z",
-      "summary_ja": "フィールドメイド by Chroma Golem Chroma Golem のすべてを見る Chroma Golem\nクロマゴーレムをフォロー フォローをフォロー クロマゴーレムをフォロー\nゲームを実行 このゲームをサポート 何かを描くとそれが現実になります。\nポケットにスケッチブック以外何も入っていない状態で、頼りになるバンが田舎道で死んでしまいました。途中の町に逃げられることはありません。自分で修理代を稼ぐチャンスが与えられます。\nしたがって、自分が知っている唯一の方法で仕事を始めることができます。\nこの世界のすべてはあなたが描いたものです。鍬をスケッチし、それで土を耕します。斧、じょうろ、釣り竿などをスケッチすると、それらは実際の統計情報を備えた本物の実用的なツールになります。文字通り何でも好きなものを描くことができます。あなたが描いたものすべてに基づいて新しいゲームデータが生成されます。\nランタン、ロッキングチェア、風鈴、曲がった小さなかかしを描き、誰も描いていないため、どこにも存在しない家具で農場を飾りましょう。足りないものを描いて、それを使いましょう。ロックを解除するレシピリストや登る技術ツリーはありません。フィールドにはあなただけがいて、あなたが想像できるものは何でもあります。\nパレットを成長させましょう。マリーゴールド、ウォード、アカネ、その他 8 種類の作物を植え、収穫し、粉砕して顔料にし、染料ベンチで混ぜて必要な色を作ります。あなたの畑はあなたのアートに栄養を与え、あなたのアートはあなたの農場を築きます。\nそれを知ってもらいましょう。言葉は旅する。鍛冶屋はあなたに適切な斧を描くように頼みます。近所の人が窓に何か欲しいと思っています。彼らが何を求めているかをスケッチすると、彼らはコイン、親切心、そして一人では作れなかったものであなたに支払います。この町には、自分が思っている以上に苦しんでいる人々がいます。あなたのスケッチブックは、彼らの心と物語への奇妙な鍵となることがわかります。\nただのスケッチブック、空のフィールド、そして作られるのを待っている世界。"
-    },
-    {
-      "rank": 22,
+      "rank": 20,
       "hn_id": 49379045,
       "title": "Is AI Entering Its NFT Era?",
-      "title_ja": "AIはNFT時代に突入するのか?",
+      "title_ja": "AIはNFT時代に突入しているのか？",
       "hn_url": "https://news.ycombinator.com/item?id=49379045",
       "source_url": "https://aboard.com/is-ai-entering-its-nft-era/",
       "image_url": "https://aboard.com/wp-content/uploads/2026/08/bored-datacenter-ape-TALL-1024x683.png",
@@ -303,7 +276,7 @@
       "summary_ja": "AIはNFT時代に突入しているのか？ - 機内\n最新レポート: 誇大広告なしで AI エージェントから真の価値を得る方法。\nガイドを入手\n→\n私たちの働き方\nLLM、NFT、IOU: 出発点に戻りましたか?\nこんにちは、Aboard のもう一人の共同創設者、Rich です。私は今、そう言いたいのです。私たちは AI バブルの真っ只中にいて、暴落が近づいています。そのようなバブルや暴落ではありませんが、それも来るかもしれません。私が話しているのは、まったく異なる種類の AI バブルのはじきについてです。\n人間が集団でその中に足を踏み入れると、全員の靴に泥が付いていることにショックを受けるという、最も一般的で繰り返し起こる物語の 1 つを分析してみましょう。\nそれは真の希少性から始まります。誰もが求めているものは、あまり広く入手可能ではありません。家、クレジット、チューリップ、カスタムソフトウェア、NFT。出発点は意味のある蓄積された需要です。その結果、需要が供給を上回るため、価格が上昇します。配管内に「消費エネルギー」が溜まっている！\n売り手は価格シグナルに気づき、急いで「供給」します。本物を製造するのは難しい場合が多いため、次善の品を急いで作ろうとします。 NFTはその好例です。独自の暗号通貨を作成するのは困難ですが、NFT は誰でも作成できます。飢えはそこにありました。タイムスタンプの付いた類人猿の写真を彼らに渡しましょう！\n新しく手に入る豊富なものはある意味最悪なので、誰もが混乱します。 NFTは希少な文化資産のように見えましたが、本質的に役に立たない（そして多くの場合醜い）ものでした。\n需要が後退し始めると、売り手は時計が進んでいることを知り、市場にジャンクを大量に送り込みます。機会が閉まる一方で、売り手はパーティーが永遠に続くわけではないことを十分に承知しています。そのため、誰もがまだ需要に酔っている間に、低品質の資産を市場に氾濫させます。その結果、品質は\n\n必然的に下がります。\n最後に、全員が一斉に保釈します（つまり、衝突）。"
     },
     {
-      "rank": 23,
+      "rank": 21,
       "hn_id": 49374169,
       "title": "Show HN: Find every AI model your code calls and warn before it's retired",
       "title_ja": "HN を表示: コードで呼び出されるすべての AI モデルを検索し、廃止される前に警告します",
@@ -317,7 +290,21 @@
       "summary_ja": "LLM ステータス — AI モデル非推奨トラッカーおよび CLI チェッカー\nLLM ステータス\n新しい\nレーダー\n仕組み\nGitHub\n価格設定\nドキュメント\nサインイン\nAmazon Nova Premier は 25 日後に終了します\nAI モデルの有効期限は切れます。準備をしてください。\n任意のリポジトリで実行します。コードで呼び出すモデルを検索し、非推奨または廃止されたモデルに日付と代替モデルを付けてフラグを立てます。\nコピーしました！\nサインアップや API キーは必要ありません。コードがマシンから離れることはありません。\n仕組み↓\n無料アカウントを作成する\nmm ステータス — ~/code/api-service\n＄mmステータス ●387◐41▲20✕79\nLLM ステータス — レジストリはライブです · 15 プロバイダー · 527 モデル\nスキャンされた ~/code/api-service · 6 つのモデルが追跡されました\n◐ 非推奨の openai/gpt-5-2025-08-07 は 4 か月以内に 2026-12-11 に廃止されます\n▲ 廃止予定の amazon/amazon.nova-premier-v1:0 は 2026 年 9 月 14 日 25 日に廃止\n● ok anthropic/claude-opus-4-7 は 2027 年 4 月 16 日に 8 か月で引退します\n◐ 非推奨の openai/o3-pro-2025-06-10 は 4 か月以内に 2026-12-11 に廃止されます\n✕ 廃止された Microsoft/gpt-5.3-chat は 2026-08-10 10 日前に廃止されました\n▲ openai/gpt-3.5-turbo-instruct の引退 2026-09-28 の 39 日で引退\n⚠ 527 のレジストリ モデルのうち 140 が非推奨、廃止、または廃止されました。リポジトリのリストに対して mm を実行します。"
     },
     {
-      "rank": 24,
+      "rank": 22,
+      "hn_id": 49378562,
+      "title": "Fieldmade – RPG crafting by drawing pixel art and AI",
+      "title_ja": "Fieldmade – ピクセル アートと AI を描画して RPG を作成する",
+      "hn_url": "https://news.ycombinator.com/item?id=49378562",
+      "source_url": "https://chromagolem.itch.io/fieldmade",
+      "image_url": "https://img.itch.zone/aW1nLzI5MzY2Nzc4LnBuZw==/original/X380lX.png",
+      "score": 4,
+      "final_score": 5,
+      "comments": 1,
+      "posted_at": "2026-08-20T18:49:22Z",
+      "summary_ja": "フィールドメイド by Chroma Golem Chroma Golem のすべてを見る Chroma Golem\nクロマゴーレムをフォロー フォローをフォロー クロマゴーレムをフォロー\nゲームを実行 このゲームをサポート 何かを描くとそれが現実になります。\nポケットにスケッチブック以外何も入っていない状態で、頼りになるバンが田舎道で死んでしまいました。途中の町に逃げられることはありません。自分で修理代を稼ぐチャンスが与えられます。\nしたがって、自分が知っている唯一の方法で仕事を始めることができます。\nこの世界のすべてはあなたが描いたものです。鍬をスケッチし、それで土を耕します。斧、じょうろ、釣り竿などをスケッチすると、それらは実際の統計情報を備えた本物の実用的なツールになります。文字通り何でも好きなものを描くことができます。あなたが描いたものすべてに基づいて新しいゲームデータが生成されます。\nランタン、ロッキングチェア、風鈴、曲がった小さなかかしを描き、誰も描いていないため、どこにも存在しない家具で農場を飾りましょう。足りないものを描いて、それを使いましょう。ロックを解除するレシピリストや登る技術ツリーはありません。フィールドにはあなただけがいて、あなたが想像できるものは何でもあります。\nパレットを成長させましょう。マリーゴールド、ウォード、アカネ、その他 8 種類の作物を植え、収穫し、粉砕して顔料にし、染料ベンチで混ぜて必要な色を作ります。あなたの畑はあなたのアートに栄養を与え、あなたのアートはあなたの農場を築きます。\nそれを知ってもらいましょう。言葉は旅する。鍛冶屋はあなたに適切な斧を描くように頼みます。近所の人が窓に何か欲しいと思っています。彼らが何を求めているかをスケッチすると、彼らはコイン、親切心、そして一人では作れなかったものであなたに支払います。この町には、自分が思っている以上に苦しんでいる人々がいます。あなたのスケッチブックは、彼らの心と物語への奇妙な鍵となることがわかります。\nただのスケッチブック、空のフィールド、そして作られるのを待っている世界。"
+    },
+    {
+      "rank": 23,
       "hn_id": 49379174,
       "title": "AI-Native Services: The Definitive Guide",
       "title_ja": "AI ネイティブ サービス: 決定版ガイド",
@@ -329,6 +316,19 @@
       "comments": 0,
       "posted_at": "2026-08-20T19:40:55Z",
       "summary_ja": "AI ネイティブ サービス: 決定版ガイド\n--\u003e\nポートフォリオ\nAI ネイティブ サービス: 決定版ガイド\nAI ネイティブ サービスを定義する企業からのフレームワーク、データ、そして苦労して得た教訓\nAINSに投資するのは誰ですか? Emergence Capital は、初期段階の AI ネイティブ サービス企業に投資しています。\nEmergence はシードからシリーズ B まで創業者と提携し、新たなビジネス モデルを専門としています。\n私たちは、AINS に関する複数年にわたる論文を作成し、このカテゴリのポートフォリオをまとめ、モデルを中心とした生きた戦略を開発してきました。\nAI ネイティブ サービス (AINS) 企業は AI を使用して、ソフトウェアではなく完全なサービスを、従来のプロバイダーよりも高速かつ優れたサービスを提供します。顧客はツールではなく結果を購入します。エマージェンス・キャピタルは 2024 年にこのカテゴリーに命名しました。\nJake Saper 氏と Emergence チームほど、AI ネイティブ サービスについて体系的に考えたベンチャー企業は存在しません。何が改善できるかを学ぶために、少なくとも四半期ごとに会うようにしています。彼らは、パターン認識を実際のプレイブックに変えるという大変な作業を行ってきました。ここで構築している創業者にとって、これらは頼りになるリソースです。\nエマージェンスは、AI ネイティブ サービスについて誰もが話題になる前の 2023 年に私たちを支援してくれました。それ以来、彼らを際立たせているのは、彼らがモデルをどれだけ真剣に研究しているかということです。彼らは SaaS のパターン マッチングではありません。KPI の設定方法からこのビジネスに最適なプロダクト リーダーの調達まで、実際に何が違うのかを理解するための作業を行ってきました。この分野で構築する創業者にとって、これ以上の人物はいません。\n私たちが成果ベースの価格設定モデルを構築し始めたとき、私は最初に Emergence に相談しました。"
+    },
+    {
+      "rank": 24,
+      "hn_id": 49376256,
+      "title": "Show HN: Epho – run Claude Code with a curl",
+      "title_ja": "Show HN: Epho – カールを使用してクロード コードを実行する",
+      "hn_url": "https://news.ycombinator.com/item?id=49376256",
+      "source_url": "https://epho.io",
+      "score": 4,
+      "final_score": 5,
+      "comments": 0,
+      "posted_at": "2026-08-20T15:45:51Z",
+      "summary_ja": "epho 仕組み 機能 ドキュメント 料金 よくある質問 主要なエージェントを入手\nAPI 。\nepho はクラウドで claude code 、 codex 、または opencode をスピンアップします。つまり、リポジトリが複製され、ファイルが添付され、mcp サーバーが接続されます。プロンプトを POST すると、作業が戻ってきます。 SDK、デーモン、インフラはありません。\nプロバイダーキーが手元にない場合は、 opencode/…-free モデルは、オープンコードなしで実行されます。\nPOST /api/v1/chat\n{\n\"ハーネス\" : \"クロード\" ,\n\"モデル\" : \"クロード-ソネット-5\" ,\n\"prompt\" : \"auth_test.go の不安定なテストを修正します。\" 、\n\"リポジトリ\" : [{\"url\": \"…/acme/api\"}] ,\n\"provider_api_key\" : \"sk-ant-••••••••”\n} クロード code anthropic のエージェント codex openai のエージェント opencode オープンソース エージェントで動作 $ epho Explain --how-it-works\nあなたは http を話します。\nエージェントはリポジトリと対話します。\n1 つのリクエストで、選択したハーネスを使用して新しいクラウド環境を起動し、そこにリポジトリを複製し、ツールを接続し、プロンプトを渡し、発生したときにすべてをパイプで戻します。"
     },
     {
       "rank": 25,
@@ -360,6 +360,20 @@
     },
     {
       "rank": 27,
+      "hn_id": 49380122,
+      "title": "Teaching a local LLM to reason about a new domain through continued pretraining",
+      "title_ja": "継続的な事前トレーニングを通じて、ローカル LLM に新しいドメインについて推論するよう教える",
+      "hn_url": "https://news.ycombinator.com/item?id=49380122",
+      "source_url": "https://www.teachmecoolstuff.com/viewarticle/teaching-a-local-llm-a-new-domain",
+      "image_url": "https://www.teachmecoolstuff.com/img/tor.jpg",
+      "score": 2,
+      "final_score": 4,
+      "comments": 0,
+      "posted_at": "2026-08-20T20:52:00Z",
+      "summary_ja": "ローカル LLM に新しいドメインを教える\nホーム\nAI\nバゼル\nWASM\nクロージャコンパイラ\nKubernetes\nJavaScript\n反応する\nノーデジス\nスレンダー\n.ネット\nテスト\nクールなものを教えてください\nローカル LLM に新しいドメインを教える\n興味深い実験として、ドメイン固有のデータに対して継続事前トレーニング (CPT) を実行することで、小さなローカル LLM に新しいドメインを教える方法を学びたいと思いました。この記事は、Unsloth を使用して qwen 3 4B を訓練し、架空の都市の旅行アドバイザーとして機能するまでの経験を書いたものです。\n名前が示すように、CPT はモデルの初期トレーニングの継続であり、通常は特定のドメインで行われ、モデルがすでに知っていることに加えて特化できるようになります。\n通常、どのようなサイズのモデルでも完全な CPT は、VRAM 要件が高いため、コンシューマ ハードウェアでは非現実的です。ただし、LoRA (Low-Rank Adaption) と呼ばれる賢い回避策があります。 LoRA の背後にある基本的な考え方は、元のモデルの重みは固定されたままですが、トレーニング可能な小さな LoRA アダプターがモデルの一部のレイヤーに接続されるということです。トレーニング中は、LoRA アダプターのパラメーターのみを更新します。実際には、これはパラメータの完全なセットの一部のみを操作すればよいことを意味します。\n例: 私は qwen 3 4B を使用しています。これには 40 億のトレーニング可能なパラメーターがあります。ただし、現在の LoRA 構成では、パラメータ総数の 1.6% である 6,600 万パラメータのみをターゲットにしています。\n実際の LoRA ベースの CPT トレーニングを行うために、Unsloth と呼ばれるフレームワークを使用しています。興味がある場合に備えて、ここに完全なソースを記載しましたので、ご確認ください。"
+    },
+    {
+      "rank": 28,
       "hn_id": 49376261,
       "title": "Evaluating AI Agents Live at the Grounded Reasoning Cup",
       "title_ja": "Ground Reasoning Cup での AI エージェントのライブ評価",
@@ -373,7 +387,7 @@
       "summary_ja": "Ground Reasoning Cup での AI エージェントのライブ評価 | Databricks ブログ メイン コンテンツにスキップ ログイン Databricks がアプリ開発者向けに発見する理由\nパートナー パートナーの概要 Databricks パートナー エコシステムを探索する\nパートナー スポットライト 注目のパートナーの発表\nパートナー プログラム メリット、レベル、パートナーになる方法を確認する\nAWS、Azure、GCP 上のクラウド プロバイダー Databricks\nパートナーを探す ニーズに合った Databricks パートナーを見つけてください\nパートナー ソリューション カスタム業界および移行ソリューションを見つける\n製品 Databricks プラットフォーム プラットフォームの概要 データ、分析、AI のための統合プラットフォーム\nデータ エンジニアリング ETL とバッチおよびストリーミング データのオーケストレーション\nビジネス ユーザー向け AI Assistant Agentic コワーカー\nデータ ウェアハウス SQL 分析用のサーバーレス データ ウェアハウス\nアプリケーション開発 安全なデータと AI アプリを迅速に構築\nデータ アプリと AI エージェント用のデータベース Postgres\n人工知能 ML および GenAI アプリケーションを構築してデプロイする\nガバナンス すべてのデータ、分析、AI 資産に対する統合ガバナンス\nビジネス インテリジェンス 実世界のデータに対するインテリジェントな分析\nAI 時代に向けて構築されたセキュリティ オープン エージェント SIEM\nDatabricks に組み込まれた顧客データ プラットフォーム Agentic CDP\n共有 データ、分析、AI のためのオープンデータ共有\n統合とデータ マーケットプレイス データ、分析、AI のオープン マーケットプレイス\nIDE 統合 お気に入りの IDE で Lakehouse を構築\nPartner Connect Datab…"
     },
     {
-      "rank": 28,
+      "rank": 29,
       "hn_id": 49368840,
       "title": "US warns of AI-powered attacks on Siemens PLCs in critical infrastructure",
       "title_ja": "米国、重要インフラにおけるシーメンスPLCへのAIを活用した攻撃を警告",
@@ -385,20 +399,6 @@
       "comments": 0,
       "posted_at": "2026-08-20T00:07:06Z",
       "summary_ja": "米国、重要インフラにおけるシーメンスPLCへのAIを活用した攻撃を警告\nAnthropic はクロードの AI 生成テキストに透かしを入れる方法を計画している\nハッカーは macOS の画面共有の欠陥を悪用して Monero マイナーを展開します\nRingCentral のデータ侵害で 160 万アカウントの情報が流出\nデータ窃盗と雇用主からの恐喝でデータアナリストが刑務所に送られる\nOpenAI、ログインとサインアップが失敗し、ChatGPT がダウンしていることを確認\n不正なランサムウェア関連会社が回収会社を装って支払いを盗む\nさくらインターネットのハッキングで最大136万アカウントのデータが流出\nヘルステック企業CareCloudのデータ侵害、370万人の患者に影響\nTor ブラウザを使用してダークウェブにアクセスする方法\nWindows 11 でカーネルモードのハードウェア強制スタック保護を有効にする方法\nWindows レジストリ エディタの使用方法\nWindows レジストリをバックアップおよび復元する方法\nWindows をセーフ モードで起動する方法\nトロイの木馬、ウイルス、ワーム、その他のマルウェアを削除する方法\nWindows 7で隠しファイルを表示する方法\nWindows で隠しファイルを確認する方法\n米国、重要インフラにおけるシーメンスPLCへのAIを活用した攻撃を警告\n米国、重要インフラにおけるシーメンスPLCへのAIを活用した攻撃を警告\n米国のサイバーセキュリティ機関は、攻撃者が AI 生成のスクリプトを使用して、米国の重要なインフラストラクチャにあるシーメンス S7 シリーズ プログラマブル ロジック コントローラ (PLC) を悪用していると警告しています。\nPLC は、工場やその他の重要なインフラストラクチャの機械や物理プロセスを自動化および制御するために使用される産業用コンピューターです。\nNSA、CISA、FBI、エネルギー省、環境保護庁は水曜日に共同勧告を発表し、攻撃は現在も続いていると述べた。"
-    },
-    {
-      "rank": 29,
-      "hn_id": 49372794,
-      "title": "An approach to vulnerability observability of Go services leveraging Prometheus",
-      "title_ja": "Prometheus を活用した Go サービスの脆弱性可観測性へのアプローチ",
-      "hn_url": "https://news.ycombinator.com/item?id=49372794",
-      "source_url": "https://github.com/el10savio/vulnemetry/tree/main",
-      "image_url": "https://opengraph.githubassets.com/6f3f09fe414ee6597e6d5e494e6b12aa3d8c35e0a1513afb2645493f57ff974f/el10savio/vulnemetry",
-      "score": 2,
-      "final_score": 3,
-      "comments": 0,
-      "posted_at": "2026-08-20T10:38:10Z",
-      "summary_ja": "GitHub - el10savio/vulnemetry: Go サービスの脆弱性の観測可能性。 govulncheck、Prometheus、OTel の活用 [実験的] · GitHub\nコンテンツにスキップ\nナビゲーションメニュー\nサインイン 外観設定 プラットフォーム AI コード作成 GitHub Copilot AI を使用してより良いコードを作成する\nGitHub Copilot アプリ エージェントが発行からマージまで直接担当\nMCP レジストリ 外部ツールの統合\n開発者のワークフロー アクション あらゆるワークフローを自動化します\nコードスペース インスタント開発環境\nコードレビュー コードの変更を管理する\nコードの品質 マージ時に品質を強制する\nアプリケーションセキュリティ GitHub Advanced Security 脆弱性を見つけて修正する\nコードのセキュリティ 構築時にコードを保護する\n機密保護 漏洩が始まる前に阻止\n企業規模別のソリューション\nタイプごとに詳しく見る お客様の事例\nサポートとサービスのドキュメント\nオープンソース コミュニティ GitHub スポンサー オープンソース開発者に資金を提供する\nエンタープライズ エンタープライズ ソリューション エンタープライズ プラットフォーム AI を活用した開発者プラットフォーム\n利用可能なアドオン GitHub Advanced Security エンタープライズ グレードのセキュリティ機能\nCopilot for Business エンタープライズ グレードの AI 機能\nプレミアム サポート エンタープライズ レベルの 24 時間年中無休のサポート\n検索 / サインイン サインアップ 外観設定\n別のタブまたはウィンドウでサインインしました。リロードしてセッションを更新します。\n別のタブまたはウィンドウでサインアウトしました。リロードしてセッションを更新します。\n別のタブまたはウィンドウでアカウントを切り替えました。リロードしてセッションを更新します。"
     },
     {
       "rank": 30,

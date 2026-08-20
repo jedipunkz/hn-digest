@@ -1,6 +1,6 @@
 {
   "date": "2026-08-20",
-  "generated_at": "2026-08-20T16:24:26Z",
+  "generated_at": "2026-08-20T17:21:53Z",
   "articles": [
     {
       "rank": 1,
@@ -18,20 +18,6 @@
     },
     {
       "rank": 2,
-      "hn_id": 49376287,
-      "title": "I Am Morally Opposed to Updating My Claude.md",
-      "title_ja": "私は道徳的に Claude.md を更新することに反対します",
-      "hn_url": "https://news.ycombinator.com/item?id=49376287",
-      "source_url": "https://alex-jacobs.com/posts/claudemd/",
-      "image_url": "https://alex-jacobs.com/posts/claudemd/cover.jpg",
-      "score": 27,
-      "final_score": 35,
-      "comments": 15,
-      "posted_at": "2026-08-20T15:47:48Z",
-      "summary_ja": "私は道徳的に CLAUDE.md を更新することに反対します\n2026 年 8 月 19 日\nAI クロード コード開発者ツール\n940語\n5 分 私は claude.md を更新することに道徳的に反対です。ダリオに明らかにされた重みを受け取らなければなりません\n先週、友人がなぜこれらのことを CLAUDE.md に書き留めないのかと尋ねたときの私の答えです。それはスキルの問題です。彼は返事をしていない。\nクロードは数日ごとに、ちょっと迷惑なことをします。\ni += 1 が i をインクリメントすることを説明するコメント (または 2 段落のコメント) を追加します。要求していない要約マークダウン ファイルが書き込まれ、決して読み取られません。失敗したテストを発見し、コードを修正するのではなく、慎重にテストを削除します。\n正しい反応は、すべてのブログ投稿、すべてのカンファレンストーク、そして私の返信に含まれるすべての人があなたに言う反応です。それは、CLAUDE.md を開いて 1 行追加することです。\nファイルは苦情アーカイブになります ¶\n長期間維持するシステム プロンプトは日記です。非常に特殊な種類の日記で、すべてのエントリがあなたを傷つけるものです。\n1 ## ルール\n2\n3 - 明示的に要求されない限り、ドキュメント ファイルは決して作成しないでください。\n4 - コードを再説明するコメントを追加しないでください\n5 - テストが失敗した場合は、テストではなくコードを修正する\n6 - 「あなたは絶対に正しい！」とは言わないでください。\n7 - 「git Push --force」を実行しないでください (これについては説明しました)\nそれを読み返してください。すべての箇条書きは、私がラミネートして壁に飾るために選んだ小さな傷です。そのファイルを開いて絵文字に関する行を追加すると、「テストが失敗した場合は、テストではなくコードを修正してください」を通り過ぎて、必要になった火曜日の午後に自分がどこに座っていたかを正確に覚えていなければなりません。"
-    },
-    {
-      "rank": 3,
       "hn_id": 49373269,
       "title": "AI didn't erase the junior engineer's value, it increased it it",
       "title_ja": "AI は若手エンジニアの価値を消去するのではなく、価値を高めました",
@@ -43,6 +29,20 @@
       "comments": 29,
       "posted_at": "2026-08-20T11:42:20Z",
       "summary_ja": "AIがジュニアの価値を消し去ったわけではない。それはそれを増やしました。\n「AIが後輩の限界価値を食べた」 。これは、このトピックに関する前回の投稿から得たフィードバックです。この議論によると、若手エンジニアの仕事は次のようになります。\n解決策が必要です。より経験豊富な誰か (上級エンジニア) が計画し、設計します。\n上級エンジニアは作業を複数の小さなタスクに分割し、実行する手順を明確にします。各タスクは若手エンジニアに与えられます。\n若手エンジニアがそれを実行します。これは、今日では AI ツールにプロンプ​​トを送り、プル リクエスト (PR) を作成することを意味します。\nPR は上級エンジニアからフィードバックを受け取ります。若手エンジニアはフィードバックを受け取り、それを再び AI ツールに取り込み、変更を提案します。\n上記のプロセスが実際に起こっていることであるなら、なぜジュニアエンジニアが必要なのでしょうか?彼らはリクエストをある場所から別の場所に渡しているだけであり (場合によってはノイズを加えていることもあります)、フルタイムの給与がかかります。それは公平です。\n結論に飛びつく前に、別の話を見てみましょう。あるいは、同じ物語を別の方法でアプローチしたものかもしれません。\n私たちの製品には、何年も要望されていたがまだ構築されていなかった機能がありました。それほど複雑ではありませんでしたが、重要ではありませんでした。少なくとも、優先順位のしきい値を通過できる十分な顧客にとっては重要ではありません。これは、一部の顧客が必要な機能がないことに不満を抱いていることを年々意味していました。\nこの夏、私たちはこの問題をインターン (ジュニア エンジニアよりも在職期間が短い) に割り当てました。このインターンはこの機能の開発を主導しました。彼らは問題と要件を理解するためにプロダクト マネージャーと話し合いました。彼らは、それにどのようにアプローチするかについて設計書を書き、チームと調整して、それを構築しました。"
+    },
+    {
+      "rank": 3,
+      "hn_id": 49376287,
+      "title": "I Am Morally Opposed to Updating My Claude.md",
+      "title_ja": "私は道徳的に Claude.md を更新することに反対します",
+      "hn_url": "https://news.ycombinator.com/item?id=49376287",
+      "source_url": "https://alex-jacobs.com/posts/claudemd/",
+      "image_url": "https://alex-jacobs.com/posts/claudemd/cover.jpg",
+      "score": 27,
+      "final_score": 35,
+      "comments": 15,
+      "posted_at": "2026-08-20T15:47:48Z",
+      "summary_ja": "私は道徳的に CLAUDE.md を更新することに反対します\n2026 年 8 月 19 日\nAI クロード コード開発者ツール\n940語\n5 分 私は claude.md を更新することに道徳的に反対です。ダリオに明らかにされた重みを受け取らなければなりません\n先週、友人がなぜこれらのことを CLAUDE.md に書き留めないのかと尋ねたときの私の答えです。それはスキルの問題です。彼は返事をしていない。\nクロードは数日ごとに、ちょっと迷惑なことをします。\ni += 1 が i をインクリメントすることを説明するコメント (または 2 段落のコメント) を追加します。要求していない要約マークダウン ファイルが書き込まれ、決して読み取られません。失敗したテストを発見し、コードを修正するのではなく、慎重にテストを削除します。\n正しい反応は、すべてのブログ投稿、すべてのカンファレンストーク、そして私の返信に含まれるすべての人があなたに言う反応です。それは、CLAUDE.md を開いて 1 行追加することです。\nファイルは苦情アーカイブになります ¶\n長期間維持するシステム プロンプトは日記です。非常に特殊な種類の日記で、すべてのエントリがあなたを傷つけるものです。\n1 ## ルール\n2\n3 - 明示的に要求されない限り、ドキュメント ファイルは決して作成しないでください。\n4 - コードを再説明するコメントを追加しないでください\n5 - テストが失敗した場合は、テストではなくコードを修正する\n6 - 「あなたは絶対に正しい！」とは言わないでください。\n7 - 「git Push --force」を実行しないでください (これについては説明しました)\nそれを読み返してください。すべての箇条書きは、私がラミネートして壁に飾るために選んだ小さな傷です。そのファイルを開いて絵文字に関する行を追加すると、「テストが失敗した場合は、テストではなくコードを修正してください」を通り過ぎて、必要になった火曜日の午後に自分がどこに座っていたかを正確に覚えていなければなりません。"
     },
     {
       "rank": 4,
@@ -87,60 +87,6 @@
     },
     {
       "rank": 7,
-      "hn_id": 49373479,
-      "title": "AI agent suggested installing a malware package. Engineer almost took its advice",
-      "title_ja": "AI エージェントはマルウェア パッケージのインストールを提案しました。エンジニアはアドバイスをほぼ受け入れた",
-      "hn_url": "https://news.ycombinator.com/item?id=49373479",
-      "source_url": "https://www.theregister.com/security/2026/08/20/ai-agent-suggested-installing-a-malware-package-engineer-almost-took-its-advice/5289849",
-      "image_url": "https://image.theregister.com/4094065.jpg?imageId=4094065\u0026x=0\u0026y=0\u0026cropw=100\u0026croph=100\u0026panox=0\u0026panoy=0\u0026panow=100\u0026panoh=100\u0026width=1200\u0026height=683",
-      "score": 3,
-      "final_score": 6,
-      "comments": 0,
-      "posted_at": "2026-08-20T12:07:07Z",
-      "summary_ja": "メインコンテンツへジャンプ\n検索\nトピックス\n特別な機能\nすべての特別な機能\n2026 年クラウド インフラストラクチャ月間\nFIS と AWS による金融サービスの最新化\nCapgemini と AWS でそれを実現する\nNutanix: Kubernetes をスケールします。カオスではありません。\nAI エージェントはマルウェア パッケージのインストールを提案しました。エンジニアはアドバイスをほぼ受け入れた\n幸いなことに、同社は最初に GitHub でソースコードを確認するというポリシーを持っていました。\nPWNED PWNED へようこそ。このコラムでは、セキュリティを自己所有している人々をからかいます。皆さんも同じことをしないことを願っています。今週は、ある企業がプログラミングに AI を使用してセキュリティを妨害しそうになったという報道で話題になっています。\n誰かが自分のネットワークに大きな穴を残したという話はありますか? pwned@sitpub.com まで共有してください。ご要望に応じて匿名での対応も可能です。\n機械学習の不正行為に関する私たちの話は、コンサルティングおよびソフトウェア開発会社である Softjourn のマネージング ディレクターである Sergiy Fitak 氏のご厚意により提供されました。彼は、AI に関しては、信頼するのではなく、検証することを私たちに思い出させます。\n業務中、あるエンジニアは AI エージェントに、一般的なタスクに必要なパッケージを推奨するよう依頼しました。エージェントは、使い慣れたライブラリのようにフォーマットされた、正当な響きのパッケージの名前を付けて戻ってきました。\n多くの組織では、これで話は終わっただろう。開発者は AI エージェントのアドバイスに従い、推奨パッケージをダウンロードしてインストールしたでしょう。\nしかし、Softjourn には、AI によって作成されたソフトウェアの推奨事項が正当であることを確認するために再チェックするというポリシーがあり、実際に従っていました。"
-    },
-    {
-      "rank": 8,
-      "hn_id": 49374743,
-      "title": "'Not a theoretical risk,' feds warn as attackers use AI-made code",
-      "title_ja": "攻撃者がAIで作ったコードを使用、「理論上のリスクではない」と連邦当局が警告",
-      "hn_url": "https://news.ycombinator.com/item?id=49374743",
-      "source_url": "https://www.theregister.com/security/2026/08/19/not-a-theoretical-risk-feds-warn-as-attackers-use-ai-made-code-to-hack-critical-infrastructure-controllers/5289960",
-      "image_url": "https://image.theregister.com/5289987.jpg?imageId=5289987\u0026x=0\u0026y=0\u0026cropw=100\u0026croph=100\u0026panox=0\u0026panoy=0\u0026panow=100\u0026panoh=100\u0026width=1200\u0026height=683",
-      "score": 3,
-      "final_score": 6,
-      "comments": 0,
-      "posted_at": "2026-08-20T14:05:13Z",
-      "summary_ja": "メインコンテンツへジャンプ\n検索\nトピックス\n特別な機能\nすべての特別な機能\n2026 年クラウド インフラストラクチャ月間\nFIS と AWS による金融サービスの最新化\nCapgemini と AWS でそれを実現する\nNutanix: Kubernetes をスケールします。カオスではありません。\n攻撃者がAIで作成したコードを使用して重要インフラ制御装置をハッキングすることに「理論上のリスクではない」と連邦政府が警告\n攻撃者は、AIが生成した悪用スクリプトを使用して、水道、製造、エネルギー、その他の重要な施設でインターネットに公開されたシーメンスS7シリーズ プログラマブル ロジック コントローラー (PLC) に侵入しており、米国の5つの連邦政府機関は水曜日、これを「積極的な脅威」と呼んだ。\nアメリカの重要インフラに対する今回の侵入では、攻撃者はオープンソースの産業オートメーション ライブラリ、具体的には snap7.dll/python-snap7 を AI コーディング アシスタントと組み合わせて使用​​しています。悪者たちは、オープンソース ライブラリと AI を利用して、オペレーショナル テクノロジー (OT) 監視ソフトウェアを模倣するカスタム ツールを作成し、S7comm プロトコルを介して PLC デバイスのメモリ、構成データ、およびラダー ロジック プログラムへの読み取り/書き込みアクセスを提供します。\n「これは理論上のリスクではなく、現実的な脅威だ」と連邦政府は警告した。\n国家安全保障局（NSA）、サイバーセキュリティ・インフラセキュリティ庁（CISA）、連邦捜査局（FBI）、エネルギー省（DOE）、環境保護庁（EPA）による共同警報は、脅威が特定の政府や犯罪グループによるものではないとしているが、少なくとも12の州の上下水道施設でPLCを標的とした最近の攻撃の背後にイランのサイバー工作員が関与している疑いがある。 7月下旬のミネソタ州。"
-    },
-    {
-      "rank": 9,
-      "hn_id": 49372390,
-      "title": "Debian weighs eight options in vote on LLM usage",
-      "title_ja": "Debian、LLM の使用に関する投票で 8 つの選択肢を検討",
-      "hn_url": "https://news.ycombinator.com/item?id=49372390",
-      "source_url": "https://lwn.net/Articles/1087134/",
-      "score": 5,
-      "final_score": 6,
-      "comments": 0,
-      "posted_at": "2026-08-20T09:39:07Z",
-      "summary_ja": "Debian は LLM の使用に関する投票で 8 つのオプションを検討します"
-    },
-    {
-      "rank": 10,
-      "hn_id": 49374524,
-      "title": "Google strikes $12B AI chip deal with Marvell to develop TPUs",
-      "title_ja": "Google、TPU開発でマーベルと120億ドルのAIチップ契約を締結",
-      "hn_url": "https://news.ycombinator.com/item?id=49374524",
-      "source_url": "https://www.ft.com/content/0fdb094c-fc03-4d3c-8da6-bd11af88ff63",
-      "score": 5,
-      "final_score": 6,
-      "comments": 0,
-      "posted_at": "2026-08-20T13:46:48Z",
-      "summary_ja": "Google、TPU 開発のためマーベルと 120 億ドルの AI チップ契約を締結"
-    },
-    {
-      "rank": 11,
       "hn_id": 49374772,
       "title": "Hacking with Claude on a $27 Smart Watch",
       "title_ja": "27 ドルのスマート ウォッチでクロードとハッキング",
@@ -154,7 +100,21 @@
       "summary_ja": "夫。父親。ソフトウェアエンジニア。 Ubuntu Linux ユーザー。\nX（ツイッター）\nGitHub\nリンクトイン\n電子メール\nRSS\n27 ドルのスマート ウォッチでクロードとハッキング\nPine Time は 27 ドルのスマートウォッチです。\nオープンソースファームウェアを実行します。引き出しの奥にしばらく眠らせていたことがあります\n1年か2年。 @steveruizok さんのツイートを見たとき\nクロードと一緒に ESP32 デバイスをハッキングすることについて、私は自分の考えを引き出すためのインスピレーションを見つけました。\nパインタイムを引き出しから出して、クロードが何ができるか見てみましょう!\n「コーディング エージェント」が何なのか知っているなら、これかそれに似たものを購入してください (スポンサーは付いていませんが、アマゾン、パイ ハット、アリなどにあります) pic.twitter.com/iPvHxBiltf\nデフォルトの時計は\n時計に付属する文字盤は非常に地味で退屈です。私も最近そうしました\n@levelsio のツイートを見ました\nApple Watch 用のカスタム カシオ ウォッチフェイスの構築について。\n⌚ Apple Watch用にCASIOウォッチフェイスを作りました\n2 番目の写真を Widgy にインポートして Apple Watch にインストールできます https://t.co/KGWBTBBzRB pic.twitter.com/BBf1iZo9kV\nPineTime 用に似たようなものを構築できないだろうかと考えました (少しの工夫を加えて)\nクロードからの助けです）。結局のところ、PineTime はハッキングに最適な時計です\nクロードと一緒に！\nオープンソース ファームウェア ( InfiniTime 、またはその他の必要な RTOS) を実行します。\n非常に詳しく文書化されています。クロードはこれで成長します。\n素晴らしいシミュレーター ( InfiniSim ) があります。"
     },
     {
-      "rank": 12,
+      "rank": 8,
+      "hn_id": 49373479,
+      "title": "AI agent suggested installing a malware package. Engineer almost took its advice",
+      "title_ja": "AI エージェントはマルウェア パッケージのインストールを提案しました。エンジニアはアドバイスをほぼ受け入れた",
+      "hn_url": "https://news.ycombinator.com/item?id=49373479",
+      "source_url": "https://www.theregister.com/security/2026/08/20/ai-agent-suggested-installing-a-malware-package-engineer-almost-took-its-advice/5289849",
+      "image_url": "https://image.theregister.com/4094065.jpg?imageId=4094065\u0026x=0\u0026y=0\u0026cropw=100\u0026croph=100\u0026panox=0\u0026panoy=0\u0026panow=100\u0026panoh=100\u0026width=1200\u0026height=683",
+      "score": 3,
+      "final_score": 6,
+      "comments": 0,
+      "posted_at": "2026-08-20T12:07:07Z",
+      "summary_ja": "メインコンテンツへジャンプ\n検索\nトピックス\n特別な機能\nすべての特別な機能\n2026 年クラウド インフラストラクチャ月間\nFIS と AWS による金融サービスの最新化\nCapgemini と AWS でそれを実現する\nNutanix: Kubernetes をスケールします。カオスではありません。\nAI エージェントはマルウェア パッケージのインストールを提案しました。エンジニアはアドバイスをほぼ受け入れた\n幸いなことに、同社は最初に GitHub でソースコードを確認するというポリシーを持っていました。\nPWNED PWNED へようこそ。このコラムでは、セキュリティを自己所有している人々をからかいます。皆さんも同じことをしないことを願っています。今週は、ある企業がプログラミングに AI を使用してセキュリティを妨害しそうになったという報道で話題になっています。\n誰かが自分のネットワークに大きな穴を残したという話はありますか? pwned@sitpub.com まで共有してください。ご要望に応じて匿名での対応も可能です。\n機械学習の不正行為に関する私たちの話は、コンサルティングおよびソフトウェア開発会社である Softjourn のマネージング ディレクターである Sergiy Fitak 氏のご厚意により提供されました。彼は、AI に関しては、信頼するのではなく、検証することを私たちに思い出させます。\n業務中、あるエンジニアは AI エージェントに、一般的なタスクに必要なパッケージを推奨するよう依頼しました。エージェントは、使い慣れたライブラリのようにフォーマットされた、正当な響きのパッケージの名前を付けて戻ってきました。\n多くの組織では、これで話は終わっただろう。開発者は AI エージェントのアドバイスに従い、推奨パッケージをダウンロードしてインストールしたでしょう。\nしかし、Softjourn には、AI によって作成されたソフトウェアの推奨事項が正当であることを確認するために再チェックするというポリシーがあり、実際に従っていました。"
+    },
+    {
+      "rank": 9,
       "hn_id": 49372781,
       "title": "Dutch data protection authority advises Twitch users to opt out from Amazon AI",
       "title_ja": "オランダのデータ保護当局がTwitchユーザーにAmazon AIからオプトアウトするよう勧告",
@@ -168,7 +128,60 @@
       "summary_ja": "AP は Twitch ユーザーに、Amazon AI とのデータ共有をオプトアウトするようアドバイスします。 Autoriteit パーソンズゲベンス\nメインコンテンツにスキップ\nメニュー\nメニューを閉じる\nホーフドナビゲート\nAP、Twitch ユーザーに Amazon AI とのデータ共有をオプトアウトするようアドバイス\nストリーミングプラットフォームのTwitchは、AmazonがTwitchユーザーの個人データをAIモデルのトレーニングに使用していると発表した。 Amazon によるストリーム、画像、その他の個人データの使用を希望しないユーザーは、この機能をオプトアウトできるようになりました。オランダのデータ保護当局である Autoriteit Persoonsgegevens (AP) は、人々にそうするよう呼び掛けています。\nTwitch はオンライン ビデオ ストリーミング プラットフォームであり、Amazon の子会社です。人々は主に、自分がカメラに映りながら、プレイしているビデオゲームをライブストリーミングするためにこれを使用します。他の人も視聴したり、お互いにチャットしたりできます。 AP通信は、AmazonがAIモデルのトレーニングにユーザーデータを使用していることを懸念している。\nTwitch のライブ ストリームにはゲーマーの顔、声、名前が表示され、多くの場合、寝室などのプライベート スペースの画像が含まれます。これは個人データを構成します。顔画像の場合、これには機密の個人データも含まれます。これらのデータが Amazon の AI システムに保存されると、簡単に削除することはできません。その結果、ユーザーは自分のデータを制御できなくなります。ユーザーのチャットやテキストメッセージは、Amazon のトレーニング資料としても機能します。\n「生成 AI のトレーニング」設定はデフォルトで有効になっています。"
     },
     {
+      "rank": 10,
+      "hn_id": 49374743,
+      "title": "'Not a theoretical risk,' feds warn as attackers use AI-made code",
+      "title_ja": "攻撃者がAIで作ったコードを使用していることに「理論上のリスクではない」と連邦当局が警告",
+      "hn_url": "https://news.ycombinator.com/item?id=49374743",
+      "source_url": "https://www.theregister.com/security/2026/08/19/not-a-theoretical-risk-feds-warn-as-attackers-use-ai-made-code-to-hack-critical-infrastructure-controllers/5289960",
+      "image_url": "https://image.theregister.com/5289987.jpg?imageId=5289987\u0026x=0\u0026y=0\u0026cropw=100\u0026croph=100\u0026panox=0\u0026panoy=0\u0026panow=100\u0026panoh=100\u0026width=1200\u0026height=683",
+      "score": 3,
+      "final_score": 6,
+      "comments": 0,
+      "posted_at": "2026-08-20T14:05:13Z",
+      "summary_ja": "メインコンテンツへジャンプ\n検索\nトピックス\n特別な機能\nすべての特別な機能\n2026 年クラウド インフラストラクチャ月間\nFIS と AWS による金融サービスの最新化\nCapgemini と AWS でそれを実現する\nNutanix: Kubernetes をスケールします。カオスではありません。\n攻撃者がAIで作成したコードを使用して重要インフラ制御装置をハッキングすることに「理論上のリスクではない」と連邦政府が警告\n攻撃者は、AIが生成した悪用スクリプトを使用して、水道、製造、エネルギー、その他の重要な施設でインターネットに公開されたシーメンスS7シリーズ プログラマブル ロジック コントローラー (PLC) に侵入しており、米国の5つの連邦政府機関は水曜日、これを「積極的な脅威」と呼んだ。\nアメリカの重要インフラに対する今回の侵入では、攻撃者はオープンソースの産業オートメーション ライブラリ、具体的には snap7.dll/python-snap7 を AI コーディング アシスタントと組み合わせて使用​​しています。悪者たちは、オープンソース ライブラリと AI を利用して、オペレーショナル テクノロジー (OT) 監視ソフトウェアを模倣するカスタム ツールを作成し、S7comm プロトコルを介して PLC デバイスのメモリ、構成データ、およびラダー ロジック プログラムへの読み取り/書き込みアクセスを提供します。\n「これは理論上のリスクではなく、現実的な脅威だ」と連邦政府は警告した。\n国家安全保障局（NSA）、サイバーセキュリティ・インフラセキュリティ庁（CISA）、連邦捜査局（FBI）、エネルギー省（DOE）、環境保護庁（EPA）による共同警報は、脅威が特定の政府や犯罪グループによるものではないとしているが、少なくとも12の州の上下水道施設でPLCを標的とした最近の攻撃の背後にイランのサイバー工作員が関与している疑いがある。 7月下旬のミネソタ州。"
+    },
+    {
+      "rank": 11,
+      "hn_id": 49374524,
+      "title": "Google strikes $12B AI chip deal with Marvell to develop TPUs",
+      "title_ja": "Google、TPU開発でマーベルと120億ドルのAIチップ契約を締結",
+      "hn_url": "https://news.ycombinator.com/item?id=49374524",
+      "source_url": "https://www.ft.com/content/0fdb094c-fc03-4d3c-8da6-bd11af88ff63",
+      "score": 5,
+      "final_score": 6,
+      "comments": 0,
+      "posted_at": "2026-08-20T13:46:48Z",
+      "summary_ja": "Google、TPU 開発のためマーベルと 120 億ドルの AI チップ契約を締結"
+    },
+    {
+      "rank": 12,
+      "hn_id": 49372390,
+      "title": "Debian weighs eight options in vote on LLM usage",
+      "title_ja": "Debian、LLM の使用に関する投票で 8 つの選択肢を検討",
+      "hn_url": "https://news.ycombinator.com/item?id=49372390",
+      "source_url": "https://lwn.net/Articles/1087134/",
+      "score": 5,
+      "final_score": 6,
+      "comments": 0,
+      "posted_at": "2026-08-20T09:39:07Z",
+      "summary_ja": "Debian は LLM の使用に関する投票で 8 つのオプションを検討します"
+    },
+    {
       "rank": 13,
+      "hn_id": 49376256,
+      "title": "Show HN: Epho – run Claude Code with a curl",
+      "title_ja": "Show HN: Epho – カールを使用してクロード コードを実行する",
+      "hn_url": "https://news.ycombinator.com/item?id=49376256",
+      "source_url": "https://epho.io",
+      "score": 4,
+      "final_score": 5,
+      "comments": 0,
+      "posted_at": "2026-08-20T15:45:51Z",
+      "summary_ja": "epho 仕組み 機能 ドキュメント 料金 よくある質問 主要なエージェントを入手\nAPI 。\nepho はクラウドで claude code 、 codex 、または opencode をスピンアップします。つまり、リポジトリが複製され、ファイルが添付され、mcp サーバーが接続されます。プロンプトを POST すると、作業が戻ってきます。 SDK、デーモン、インフラはありません。\nプロバイダーキーが手元にない場合は、 opencode/…-free モデルは、オープンコードなしで実行されます。\nPOST /api/v1/chat\n{\n\"ハーネス\" : \"クロード\" ,\n\"モデル\" : \"クロード-ソネット-5\" ,\n\"prompt\" : \"auth_test.go の不安定なテストを修正します。\" 、\n\"リポジトリ\" : [{\"url\": \"…/acme/api\"}] ,\n\"provider_api_key\" : \"sk-ant-••••••••”\n} クロード code anthropic のエージェント codex openai のエージェント opencode オープンソース エージェントで動作 $ epho Explain --how-it-works\nあなたは http を話します。\nエージェントはリポジトリと対話します。\n1 つのリクエストで、選択したハーネスを使用して新しいクラウド環境を起動し、そこにリポジトリを複製し、ツールを接続し、プロンプトを渡し、発生したときにすべてをパイプで戻します。"
+    },
+    {
+      "rank": 14,
       "hn_id": 49374169,
       "title": "Show HN: Find every AI model your code calls and warn before it's retired",
       "title_ja": "HN を表示: コードで呼び出されるすべての AI モデルを検索し、廃止される前に警告します",
@@ -182,34 +195,7 @@
       "summary_ja": "LLM ステータス — AI モデル非推奨トラッカーおよび CLI チェッカー\nLLM ステータス\n新しい\nレーダー\n仕組み\nGitHub\n価格設定\nドキュメント\nサインイン\nAmazon Nova Premier は 25 日後に終了します\nAI モデルの有効期限は切れます。準備をしてください。\n任意のリポジトリで実行します。コードで呼び出すモデルを検索し、非推奨または廃止されたモデルに日付と代替モデルを付けてフラグを立てます。\nコピーしました！\nサインアップや API キーは必要ありません。コードがマシンから離れることはありません。\n仕組み↓\n無料アカウントを作成する\nmm ステータス — ~/code/api-service\n＄mmステータス ●387◐41▲20✕79\nLLM ステータス — レジストリはライブです · 15 プロバイダー · 527 モデル\nスキャンされた ~/code/api-service · 6 つのモデルが追跡されました\n◐ 非推奨の openai/gpt-5-2025-08-07 は 4 か月以内に 2026-12-11 に廃止されます\n▲ 廃止予定の amazon/amazon.nova-premier-v1:0 は 2026 年 9 月 14 日 25 日に廃止\n● ok anthropic/claude-opus-4-7 は 2027 年 4 月 16 日に 8 か月で引退します\n◐ 非推奨の openai/o3-pro-2025-06-10 は 4 か月以内に 2026-12-11 に廃止されます\n✕ 廃止された Microsoft/gpt-5.3-chat は 2026-08-10 10 日前に廃止されました\n▲ openai/gpt-3.5-turbo-instruct の引退 2026-09-28 の 39 日で引退\n⚠ 527 のレジストリ モデルのうち 140 が非推奨、廃止、または廃止されました。リポジトリのリストに対して mm を実行します。"
     },
     {
-      "rank": 14,
-      "hn_id": 49376256,
-      "title": "Show HN: Epho – run Claude Code with a curl",
-      "title_ja": "Show HN: Epho – カールを使用してクロード コードを実行する",
-      "hn_url": "https://news.ycombinator.com/item?id=49376256",
-      "source_url": "https://epho.io",
-      "score": 4,
-      "final_score": 5,
-      "comments": 0,
-      "posted_at": "2026-08-20T15:45:51Z",
-      "summary_ja": "epho 仕組み 機能 ドキュメント 料金 よくある質問 主要なエージェントを入手\nAPI 。\nepho はクラウドで claude code 、 codex 、または opencode をスピンアップします。つまり、リポジトリが複製され、ファイルが添付され、mcp サーバーが接続されます。プロンプトを POST すると、作業が戻ってきます。 SDK、デーモン、インフラはありません。\nプロバイダーキーが手元にない場合は、 opencode/…-free モデルは、オープンコードなしで実行されます。\nPOST /api/v1/chat\n{\n\"ハーネス\" : \"クロード\" ,\n\"モデル\" : \"クロード-ソネット-5\" ,\n\"prompt\" : \"auth_test.go の不安定なテストを修正します。\" 、\n\"リポジトリ\" : [{\"url\": \"…/acme/api\"}] ,\n\"provider_api_key\" : \"sk-ant-••••••••”\n} クロード code anthropic のエージェント codex openai のエージェント opencode オープンソース エージェントで動作 $ epho Explain --how-it-works\nあなたは http を話します。\nエージェントはリポジトリと対話します。\n1 つのリクエストで、選択したハーネスを使用して新しいクラウド環境を起動し、そこにリポジトリを複製し、ツールを接続し、プロンプトを渡し、発生したときにすべてをパイプで戻します。"
-    },
-    {
       "rank": 15,
-      "hn_id": 49376261,
-      "title": "Evaluating AI Agents Live at the Grounded Reasoning Cup",
-      "title_ja": "Ground Reasoning Cup での AI エージェントのライブ評価",
-      "hn_url": "https://news.ycombinator.com/item?id=49376261",
-      "source_url": "https://www.databricks.com/blog/evaluating-ai-agents-live-grounded-reasoning-cup",
-      "image_url": "https://www.databricks.com/sites/default/files/2026-08/2026-08-Blog-OfficeQA-Pro-V2-Evaluating-AI-Agents-Live-at-the-Grounded-Reasoning-Cup-OG-1200x628-2x.png",
-      "score": 2,
-      "final_score": 4,
-      "comments": 0,
-      "posted_at": "2026-08-20T15:46:09Z",
-      "summary_ja": "Ground Reasoning Cup での AI エージェントのライブ評価 | Databricks ブログ メイン コンテンツにスキップ ログイン Databricks がアプリ開発者向けに発見する理由\nパートナー パートナーの概要 Databricks パートナー エコシステムを探索する\nパートナー スポットライト 注目のパートナーの発表\nパートナー プログラム メリット、レベル、パートナーになる方法を確認する\nAWS、Azure、GCP 上のクラウド プロバイダー Databricks\nパートナーを探す ニーズに合った Databricks パートナーを見つけてください\nパートナー ソリューション カスタム業界および移行ソリューションを見つける\n製品 Databricks プラットフォーム プラットフォームの概要 データ、分析、AI のための統合プラットフォーム\nデータ エンジニアリング ETL とバッチおよびストリーミング データのオーケストレーション\nビジネス ユーザー向け AI Assistant Agentic コワーカー\nデータ ウェアハウス SQL 分析用のサーバーレス データ ウェアハウス\nアプリケーション開発 安全なデータと AI アプリを迅速に構築\nデータ アプリと AI エージェント用のデータベース Postgres\n人工知能 ML および GenAI アプリケーションを構築してデプロイする\nガバナンス すべてのデータ、分析、AI 資産に対する統合ガバナンス\nビジネス インテリジェンス 実世界のデータに対するインテリジェントな分析\nAI 時代に向けて構築されたセキュリティ オープン エージェント SIEM\nDatabricks に組み込まれた顧客データ プラットフォーム Agentic CDP\n共有 データ、分析、AI のためのオープンデータ共有\n統合とデータ マーケットプレイス データ、分析、AI のオープン マーケットプレイス\nIDE 統合 お気に入りの IDE で Lakehouse を構築\nPartner Connect Datab…"
-    },
-    {
-      "rank": 16,
       "hn_id": 49371211,
       "title": "Show HN: Do-over, undo for AI agent shell commands",
       "title_ja": "HN の表示: AI エージェント シェル コマンドのやり直し、元に戻す",
@@ -223,21 +209,7 @@
       "summary_ja": "GitHub - CaydenChik/doover: AI エージェントのシェル コマンドを元に戻す。クロード コードが破壊的な bash (rm -rf、git restart、rsync) を実行する前にファイルのスナップショットを作成するため、git で追跡されなかったファイルであっても、エージェントのミスを元に戻すことができます。 · GitHub\nコンテンツにスキップ\nナビゲーションメニュー\nサインイン 外観設定 プラットフォーム AI コード作成 GitHub Copilot AI を使用してより良いコードを作成する\nGitHub Copilot アプリ エージェントが発行からマージまで直接担当\nMCP レジストリ 外部ツールの統合\n開発者のワークフロー アクション あらゆるワークフローを自動化します\nコードスペース インスタント開発環境\nコードレビュー コードの変更を管理する\nコードの品質 マージ時に品質を強制する\nアプリケーションセキュリティ GitHub Advanced Security 脆弱性を見つけて修正する\nコードのセキュリティ 構築時にコードを保護する\n機密保護 漏洩が始まる前に阻止\n企業規模別のソリューション\nタイプごとに詳しく見る お客様の事例\nサポートとサービスのドキュメント\nオープンソース コミュニティ GitHub スポンサー オープンソース開発者に資金を提供する\nエンタープライズ エンタープライズ ソリューション エンタープライズ プラットフォーム AI を活用した開発者プラットフォーム\n利用可能なアドオン GitHub Advanced Security エンタープライズ グレードのセキュリティ機能\nCopilot for Business エンタープライズ グレードの AI 機能\nプレミアム サポート エンタープライズ レベルの 24 時間年中無休のサポート\n検索 / サインイン サインアップ 外観設定\n別のタブまたはウィンドウでサインインしました。リロードしてセッションを更新します。"
     },
     {
-      "rank": 17,
-      "hn_id": 49368840,
-      "title": "US warns of AI-powered attacks on Siemens PLCs in critical infrastructure",
-      "title_ja": "米国、重要インフラにおけるシーメンスPLCへのAIを活用した攻撃を警告",
-      "hn_url": "https://news.ycombinator.com/item?id=49368840",
-      "source_url": "https://www.bleepingcomputer.com/news/security/us-warns-of-ai-powered-attacks-on-siemens-plcs-in-critical-infrastructure/",
-      "image_url": "https://www.bleepstatic.com/content/hl-images/2026/08/19/siemens-s7-1500.jpg",
-      "score": 2,
-      "final_score": 4,
-      "comments": 0,
-      "posted_at": "2026-08-20T00:07:06Z",
-      "summary_ja": "米国、重要インフラにおけるシーメンスPLCへのAIを活用した攻撃を警告\nAnthropic はクロードの AI 生成テキストに透かしを入れる方法を計画している\nハッカーは macOS の画面共有の欠陥を悪用して Monero マイナーを展開します\nRingCentral のデータ侵害で 160 万アカウントの情報が流出\nデータ窃盗と雇用主からの恐喝でデータアナリストが刑務所に送られる\nOpenAI、ログインとサインアップが失敗し、ChatGPT がダウンしていることを確認\n不正なランサムウェア関連会社が回収会社を装って支払いを盗む\nさくらインターネットのハッキングで最大136万アカウントのデータが流出\nヘルステック企業CareCloudのデータ侵害、370万人の患者に影響\nTor ブラウザを使用してダークウェブにアクセスする方法\nWindows 11 でカーネルモードのハードウェア強制スタック保護を有効にする方法\nWindows レジストリ エディタの使用方法\nWindows レジストリをバックアップおよび復元する方法\nWindows をセーフ モードで起動する方法\nトロイの木馬、ウイルス、ワーム、その他のマルウェアを削除する方法\nWindows 7で隠しファイルを表示する方法\nWindows で隠しファイルを確認する方法\n米国、重要インフラにおけるシーメンスPLCへのAIを活用した攻撃を警告\n米国、重要インフラにおけるシーメンスPLCへのAIを活用した攻撃を警告\n米国のサイバーセキュリティ機関は、攻撃者が AI 生成のスクリプトを使用して、米国の重要なインフラストラクチャにあるシーメンス S7 シリーズ プログラマブル ロジック コントローラ (PLC) を悪用していると警告しています。\nPLC は、工場やその他の重要なインフラストラクチャの機械や物理プロセスを自動化および制御するために使用される産業用コンピューターです。\nNSA、CISA、FBI、エネルギー省、環境保護庁は水曜日に共同勧告を発表し、攻撃は現在も続いていると述べた。"
-    },
-    {
-      "rank": 18,
+      "rank": 16,
       "hn_id": 49371982,
       "title": "AI Coding Agents Adoption Trends",
       "title_ja": "AI コーディング エージェントの導入傾向",
@@ -251,23 +223,51 @@
       "summary_ja": "プラグインとサービス\nJetBrains プラットフォーム\n.NET と Visual Studio\n.NETツール\n教育と研究\nジェットブレインズアカデミー\n研究は進歩とイノベーションにとって極めて重要です。そのため、JetBrains では科学調査と市場調査の両方に情熱を注いでいます。\nAI コーディング エージェント: 導入傾向\n開発者エコシステム調査 2026 に基づいています。これは、戦略調査および市場インテリジェンス チームが実施した大規模で世界を代表する調査の第 10 版です。\nこの投稿では、主要な AI コーディング ツールの導入に関する前回のレポートが 2026 年 4 月に中断されたところから取り上げます。\n私たちは最近、開発者エコシステム調査 2026 を実施しました。これは、世界中の 15,000 人を超えるプロの開発者を対象とした、世界を代表する大規模な調査であり、現在 10 年目を迎えています。このデータは、開発者のツールキット、実践、テクノロジー、態度に関する幅広い洞察を提供します。\nAI コーディング エージェントが開発者のツールキットに積極的に地位を確立し、業界全体で注目を集め、採用されつつあることがわかります。 2026 年 5 月から 7 月の時点で、プロの開発者の 90% が少なくとも毎週何らかの形 (ローカル エージェントまたはリモート クラウド エージェント) で AI コーディング エージェントを職場で使用しており、68% が毎日使用しています。\nAI コーディング エージェント: 主な導入傾向\nClaude Code は前例のないペースで成長を続け、職場で最も広く採用されている AI コーディング ツールになりました。これは、2023 年に AI 支援コーディングに注目を集めた、かつては市場の長年のリーダーであった GitHub Copilot の 2 倍の頻度で使用されています。"
     },
     {
+      "rank": 17,
+      "hn_id": 49376261,
+      "title": "Evaluating AI Agents Live at the Grounded Reasoning Cup",
+      "title_ja": "Ground Reasoning Cup での AI エージェントのライブ評価",
+      "hn_url": "https://news.ycombinator.com/item?id=49376261",
+      "source_url": "https://www.databricks.com/blog/evaluating-ai-agents-live-grounded-reasoning-cup",
+      "image_url": "https://www.databricks.com/sites/default/files/2026-08/2026-08-Blog-OfficeQA-Pro-V2-Evaluating-AI-Agents-Live-at-the-Grounded-Reasoning-Cup-OG-1200x628-2x.png",
+      "score": 2,
+      "final_score": 4,
+      "comments": 0,
+      "posted_at": "2026-08-20T15:46:09Z",
+      "summary_ja": "Ground Reasoning Cup での AI エージェントのライブ評価 | Databricks ブログ メイン コンテンツにスキップ ログイン Databricks がアプリ開発者向けに発見する理由\nパートナー パートナーの概要 Databricks パートナー エコシステムを探索する\nパートナー スポットライト 注目のパートナーの発表\nパートナー プログラム メリット、レベル、パートナーになる方法を確認する\nAWS、Azure、GCP 上のクラウド プロバイダー Databricks\nパートナーを探す ニーズに合った Databricks パートナーを見つけてください\nパートナー ソリューション カスタム業界および移行ソリューションを見つける\n製品 Databricks プラットフォーム プラットフォームの概要 データ、分析、AI のための統合プラットフォーム\nデータ エンジニアリング ETL とバッチおよびストリーミング データのオーケストレーション\nビジネス ユーザー向け AI Assistant Agentic コワーカー\nデータ ウェアハウス SQL 分析用のサーバーレス データ ウェアハウス\nアプリケーション開発 安全なデータと AI アプリを迅速に構築\nデータ アプリと AI エージェント用のデータベース Postgres\n人工知能 ML および GenAI アプリケーションを構築してデプロイする\nガバナンス すべてのデータ、分析、AI 資産に対する統合ガバナンス\nビジネス インテリジェンス 実世界のデータに対するインテリジェントな分析\nAI 時代に向けて構築されたセキュリティ オープン エージェント SIEM\nDatabricks に組み込まれた顧客データ プラットフォーム Agentic CDP\n共有 データ、分析、AI のためのオープンデータ共有\n統合とデータ マーケットプレイス データ、分析、AI のオープン マーケットプレイス\nIDE 統合 お気に入りの IDE で Lakehouse を構築\nPartner Connect Datab…"
+    },
+    {
+      "rank": 18,
+      "hn_id": 49368840,
+      "title": "US warns of AI-powered attacks on Siemens PLCs in critical infrastructure",
+      "title_ja": "米国、重要インフラにおけるシーメンスPLCへのAIを活用した攻撃を警告",
+      "hn_url": "https://news.ycombinator.com/item?id=49368840",
+      "source_url": "https://www.bleepingcomputer.com/news/security/us-warns-of-ai-powered-attacks-on-siemens-plcs-in-critical-infrastructure/",
+      "image_url": "https://www.bleepstatic.com/content/hl-images/2026/08/19/siemens-s7-1500.jpg",
+      "score": 2,
+      "final_score": 4,
+      "comments": 0,
+      "posted_at": "2026-08-20T00:07:06Z",
+      "summary_ja": "米国、重要インフラにおけるシーメンスPLCへのAIを活用した攻撃を警告\nAnthropic はクロードの AI 生成テキストに透かしを入れる方法を計画している\nハッカーは macOS の画面共有の欠陥を悪用して Monero マイナーを展開します\nRingCentral のデータ侵害で 160 万アカウントの情報が流出\nデータ窃盗と雇用主からの恐喝でデータアナリストが刑務所に送られる\nOpenAI、ログインとサインアップが失敗し、ChatGPT がダウンしていることを確認\n不正なランサムウェア関連会社が回収会社を装って支払いを盗む\nさくらインターネットのハッキングで最大136万アカウントのデータが流出\nヘルステック企業CareCloudのデータ侵害、370万人の患者に影響\nTor ブラウザを使用してダークウェブにアクセスする方法\nWindows 11 でカーネルモードのハードウェア強制スタック保護を有効にする方法\nWindows レジストリ エディタの使用方法\nWindows レジストリをバックアップおよび復元する方法\nWindows をセーフ モードで起動する方法\nトロイの木馬、ウイルス、ワーム、その他のマルウェアを削除する方法\nWindows 7で隠しファイルを表示する方法\nWindows で隠しファイルを確認する方法\n米国、重要インフラにおけるシーメンスPLCへのAIを活用した攻撃を警告\n米国、重要インフラにおけるシーメンスPLCへのAIを活用した攻撃を警告\n米国のサイバーセキュリティ機関は、攻撃者が AI 生成のスクリプトを使用して、米国の重要なインフラストラクチャにあるシーメンス S7 シリーズ プログラマブル ロジック コントローラ (PLC) を悪用していると警告しています。\nPLC は、工場やその他の重要なインフラストラクチャの機械や物理プロセスを自動化および制御するために使用される産業用コンピューターです。\nNSA、CISA、FBI、エネルギー省、環境保護庁は水曜日に共同勧告を発表し、攻撃は現在も続いていると述べた。"
+    },
+    {
       "rank": 19,
-      "hn_id": 49375033,
-      "title": "ONNX.css – Neural network inference using stylesheets",
-      "title_ja": "ONNX.css – スタイルシートを使用したニューラル ネットワーク推論",
-      "hn_url": "https://news.ycombinator.com/item?id=49375033",
-      "source_url": "https://onnx.css.evanking.io/",
+      "hn_id": 49371169,
+      "title": "AI is changing how we code. Is this positive?",
+      "title_ja": "AI は私たちのコーディング方法を変えています。これはポジティブですか？",
+      "hn_url": "https://news.ycombinator.com/item?id=49371169",
+      "source_url": "",
       "score": 3,
       "final_score": 3,
-      "comments": 0,
-      "posted_at": "2026-08-20T14:26:08Z",
-      "summary_ja": "O ONNX.css\nデモについて\nONNX モデル → CSS スタイルシート\nONNX モデルを選択し、CSS スタイルシートにコンパイルして、ブラウザーのスタイル エンジンに推論を実行させます。\nブラウザのスタイル エンジンは、CSS で表現されたニューラル ネットワークを使用して結果を推測します。\nマウス、トラックパッド、またはタッチを使用して描画します。\nモデルのソース: ONNX Model Zoo / MNIST 。 ONNX opset 8 を使用して公式に検証された mnist-8.onnx モデル。\nブラウザのスタイル エンジンは、CSS で表現されたニューラル ネットワークを使用して画像を生成します。\nコントロールは 2 つの CSS カスタム プロパティに直接バインドされます。\n事前トレーニングされたチェックポイント: pszmk/mnist-vae-latent2 。このプロジェクトによって生成されたデコーダー専用の固定形状 ONNX エクスポート。\n音声をロードし、固定の 32 ミリ秒ウィンドウを選択し、CSS のニューラル ネットワークを使用して音声の確率を推定します。\nオーディオのデコードとリサンプリングは JavaScript で行われます。\nモデルソース: Silero VAD v6.2.1 。動的形状を削除するための小規模なモデル手術により、事前オーディオ コンテキストを含む 8 kHz ブランチが修正され、LSTM がプリミティブ オペレーターに引き下げられました。"
+      "comments": 2,
+      "posted_at": "2026-08-20T06:37:14Z",
+      "summary_ja": "AI はコーディング方法を変えています。これはポジティブですか？"
     },
     {
       "rank": 20,
       "hn_id": 49374539,
       "title": "Mermaid as the Orchestration Layer for Claude Dynamic Workflows",
-      "title_ja": "Claude Dynamic ワークフローのオーケストレーション レイヤーとしての Mermaid",
+      "title_ja": "クロードダイナミックワークフローのオーケストレーションレイヤーとしての Mermaid",
       "hn_url": "https://news.ycombinator.com/item?id=49374539",
       "source_url": "https://olegivye.com/#/article/llassembly-cli-mermaid",
       "score": 3,
@@ -291,19 +291,6 @@
     },
     {
       "rank": 22,
-      "hn_id": 49373895,
-      "title": "Show HN: Sentrint, a security scanner for projects build with LLMs",
-      "title_ja": "HN を表示: LLM で構築されたプロジェクト用のセキュリティ スキャナー、Sentrint",
-      "hn_url": "https://news.ycombinator.com/item?id=49373895",
-      "source_url": "https://sentrint.com/",
-      "score": 3,
-      "final_score": 3,
-      "comments": 2,
-      "posted_at": "2026-08-20T12:46:22Z",
-      "summary_ja": "HN を表示: Sentrint、LLM で構築されたプロジェクト用のセキュリティ スキャナー"
-    },
-    {
-      "rank": 23,
       "hn_id": 49368725,
       "title": "If You're Not Studying for Retention, Just Use AI",
       "title_ja": "記憶力を維持するために勉強していない場合は、AI を使用してください",
@@ -316,20 +303,7 @@
       "summary_ja": "Felipe Mattosinho Felipe Jordão A.P Mattosinho 定着率を高めるために勉強していない場合は、AI を使用してください\nかつて勉強すると、知識へのアクセスと頭の中にある知識という 2 つのものが得られました。 AI は最初のものを採用し、これまでよりも優れた方法でそれを実行します。継続性は依然として追求する価値のある唯一の部分です。\n知識の保持を最適化するための 6 つのヒントを次に示します。\n頭が最も鋭敏なときに勉強する\nほとんどの人にとって、それは午前 4 時 30 分から 11 時の間です。学習には時間がかかります\n本当のエネルギーと努力 - 時には痛みを伴うことさえあります - だから、あなたはそれに取り組みたいのです\n疲れた脳ではなく、新鮮な脳で。あなたの保持に感謝します。\n実際に定着するのは遅い学習です。のための学習を誤解しないでください。\n学習の外観: 何かをその瞬間に理解しても、忘れてしまうだけ\n翌日までに終わらせるのは時間の無駄です。ゆっくり考えて、注釈を付けたり、\nそしてもう一度見てみましょう - 最も基本的なトピックであっても、あなたに教えられることがまだ残っています。\nあらゆるショートカットは、後で同じことを再学習するために費やす時間になります。\n各トピックを身近なものに結び付けながら風景をマッピングする\nこれは、ニューロンが新しいものを何かに強制的に配線することだと思います。\nあらかじめ確立された知識。これは基本的に質問をするプロセスです\n大声で脳内に情報を問いかけます。用語やトピックに出会っても、\nご存知のように、詳細に入る前に、まず風景のかなりの部分をカバーします\nサブブランチ - 新しいブランチに接続するのに役立つブランチは例外です。\n私がすでに知っていることの材料。それは簡単に実現できる成果です。\nつながりがより早く形成され、主題全体がより明確になります。私はこれらすべてを意図的に手作業で行っています - 最初にペンと紙、Obsidian\nその後については、以下で詳しく説明します。"
     },
     {
-      "rank": 24,
-      "hn_id": 49376007,
-      "title": "Ask HN: Is AI the New Spreadsheet?",
-      "title_ja": "HN に質問: AI は新しいスプレッドシートですか?",
-      "hn_url": "https://news.ycombinator.com/item?id=49376007",
-      "source_url": "",
-      "score": 3,
-      "final_score": 3,
-      "comments": 2,
-      "posted_at": "2026-08-20T15:26:44Z",
-      "summary_ja": "HN に聞く: AI は新しいスプレッドシートですか?\nHN テキスト: スプレッドシートは、個人やチームが簡単な「アプリ」を作成するために多用されており、今でも使用されています。このうちどれくらいがコワークやコーデックスタイプのアプリなどに移行しているのだろうか。個人的に、そして逸話ですが、これらのツールを使い始めてから、スプレッドシートの使用量が大幅に減りました。考えは？"
-    },
-    {
-      "rank": 25,
+      "rank": 23,
       "hn_id": 49376346,
       "title": "Project management with schedule aware AI copilot",
       "title_ja": "スケジュール認識型 AI 副操縦士によるプロジェクト管理",
@@ -343,34 +317,46 @@
       "summary_ja": "CritPath AI — 研究開発向けスケジュール リスク管理および CCPM ソフトウェア CritPath AI 学ぶ ソリューションの比較 価格体系 FAQ テーマの切り替えについて デモを予約 サインイン 待機リストに参加する 学ぶ ソリューションの比較 価格体系 FAQ サインインについて R\u0026D プログラムのスケジュール リスク プラットフォーム 取締役会に防御できる日付を与えます。\nCritPath AI は、実際の計画に基づいて実際のスケジュール計算を実行します。そのため、すべての日付がどれほど確実であるかがわかり、問題が発生した場合は数週間前に発見され、ベンダーが計画を外した場合には計画が自動的に再スケジュールされます。バイオテクノロジー、ディープテクノロジー、連邦政府の資金による研究開発のために構築されました。\nユーザーあたり月額 10 ドル — すべての機能。 AI 従業員はコスト + マージンで測定されます。クレジットはありません。\nバイオテクノロジー プログラムのリーダー、ディープテックの創設者/CTO、連邦政府から資金提供を受けたPI、補助金プログラム マネージャー向けに構築\nベンダーが滑ってしまう。計画自体が再計画されます。\nPMO に 1 日のコストを要していた再計画は、会議が終了する前に行われます。\n65 秒、カットなし: 毒物研究のリスクが「発生」とマークされる → スケジュールが遡って再計画される → バッファーフィーバーチャートと P90 の日付が移動。\nCMC ベンダーは 1 か月で落ちます。記録したリスクがトリガーに当たったばかりです。発生したことをマークします。CritPath が必要とする入力はこれだけです。\nすべてのダウンストリーム タスク、バッファー、マイルストーンは数秒で再カスケードされます。エンジンは完全なスケジュール計算を自動的に再実行します。手動でドラッグする必要はありません。"
     },
     {
-      "rank": 26,
-      "hn_id": 49372794,
-      "title": "An approach to vulnerability observability of Go services leveraging Prometheus",
-      "title_ja": "Prometheus を活用した Go サービスの脆弱性可観測性へのアプローチ",
-      "hn_url": "https://news.ycombinator.com/item?id=49372794",
-      "source_url": "https://github.com/el10savio/vulnemetry/tree/main",
-      "image_url": "https://opengraph.githubassets.com/6f3f09fe414ee6597e6d5e494e6b12aa3d8c35e0a1513afb2645493f57ff974f/el10savio/vulnemetry",
-      "score": 2,
+      "rank": 24,
+      "hn_id": 49373895,
+      "title": "Show HN: Sentrint, a security scanner for projects build with LLMs",
+      "title_ja": "HN を表示: LLM で構築されたプロジェクト用のセキュリティ スキャナー、Sentrint",
+      "hn_url": "https://news.ycombinator.com/item?id=49373895",
+      "source_url": "https://sentrint.com/",
+      "score": 3,
       "final_score": 3,
-      "comments": 0,
-      "posted_at": "2026-08-20T10:38:10Z",
-      "summary_ja": "GitHub - el10savio/vulnemetry: Go サービスの脆弱性の観測可能性。 govulncheck、Prometheus、OTel の活用 [実験的] · GitHub\nコンテンツにスキップ\nナビゲーションメニュー\nサインイン 外観設定 プラットフォーム AI コード作成 GitHub Copilot AI を使用してより良いコードを作成する\nGitHub Copilot アプリ エージェントが発行からマージまで直接担当\nMCP レジストリ 外部ツールの統合\n開発者のワークフロー アクション あらゆるワークフローを自動化します\nコードスペース インスタント開発環境\nコードレビュー コードの変更を管理する\nコードの品質 マージ時に品質を強制する\nアプリケーションセキュリティ GitHub Advanced Security 脆弱性を見つけて修正する\nコードのセキュリティ 構築時にコードを保護する\n機密保護 漏洩が始まる前に阻止\n企業規模別のソリューション\nタイプごとに詳しく見る お客様の事例\nサポートとサービスのドキュメント\nオープンソース コミュニティ GitHub スポンサー オープンソース開発者に資金を提供する\nエンタープライズ エンタープライズ ソリューション エンタープライズ プラットフォーム AI を活用した開発者プラットフォーム\n利用可能なアドオン GitHub Advanced Security エンタープライズ グレードのセキュリティ機能\nCopilot for Business エンタープライズ グレードの AI 機能\nプレミアム サポート エンタープライズ レベルの 24 時間年中無休のサポート\n検索 / サインイン サインアップ 外観設定\n別のタブまたはウィンドウでサインインしました。リロードしてセッションを更新します。\n別のタブまたはウィンドウでサインアウトしました。リロードしてセッションを更新します。\n別のタブまたはウィンドウでアカウントを切り替えました。リロードしてセッションを更新します。"
+      "comments": 2,
+      "posted_at": "2026-08-20T12:46:22Z",
+      "summary_ja": "HN を表示: Sentrint、LLM で構築されたプロジェクト用のセキュリティ スキャナー"
     },
     {
-      "rank": 27,
-      "hn_id": 49371169,
-      "title": "AI is changing how we code. Is this positive?",
-      "title_ja": "AI は私たちのコーディング方法を変えています。これはポジティブですか？",
-      "hn_url": "https://news.ycombinator.com/item?id=49371169",
+      "rank": 25,
+      "hn_id": 49375033,
+      "title": "ONNX.css – Neural network inference using stylesheets",
+      "title_ja": "ONNX.css – スタイルシートを使用したニューラル ネットワーク推論",
+      "hn_url": "https://news.ycombinator.com/item?id=49375033",
+      "source_url": "https://onnx.css.evanking.io/",
+      "score": 3,
+      "final_score": 3,
+      "comments": 0,
+      "posted_at": "2026-08-20T14:26:08Z",
+      "summary_ja": "O ONNX.css\nデモについて\nONNX モデル → CSS スタイルシート\nONNX モデルを選択し、CSS スタイルシートにコンパイルして、ブラウザーのスタイル エンジンに推論を実行させます。\nブラウザのスタイル エンジンは、CSS で表現されたニューラル ネットワークを使用して結果を推測します。\nマウス、トラックパッド、またはタッチを使用して描画します。\nモデルのソース: ONNX Model Zoo / MNIST 。 ONNX opset 8 を使用して公式に検証された mnist-8.onnx モデル。\nブラウザのスタイル エンジンは、CSS で表現されたニューラル ネットワークを使用して画像を生成します。\nコントロールは 2 つの CSS カスタム プロパティに直接バインドされます。\n事前トレーニングされたチェックポイント: pszmk/mnist-vae-latent2 。このプロジェクトによって生成されたデコーダー専用の固定形状 ONNX エクスポート。\n音声をロードし、固定の 32 ミリ秒ウィンドウを選択し、CSS のニューラル ネットワークを使用して音声の確率を推定します。\nオーディオのデコードとリサンプリングは JavaScript で行われます。\nモデルソース: Silero VAD v6.2.1 。動的形状を削除するための小規模なモデル手術により、事前オーディオ コンテキストを含む 8 kHz ブランチが修正され、LSTM がプリミティブ オペレーターに引き下げられました。"
+    },
+    {
+      "rank": 26,
+      "hn_id": 49376007,
+      "title": "Ask HN: Is AI the New Spreadsheet?",
+      "title_ja": "HN に質問: AI は新しいスプレッドシートですか?",
+      "hn_url": "https://news.ycombinator.com/item?id=49376007",
       "source_url": "",
       "score": 3,
       "final_score": 3,
       "comments": 2,
-      "posted_at": "2026-08-20T06:37:14Z",
-      "summary_ja": "AI はコーディング方法を変えています。これはポジティブですか？"
+      "posted_at": "2026-08-20T15:26:44Z",
+      "summary_ja": "HN に聞く: AI は新しいスプレッドシートですか?\nHN テキスト: スプレッドシートは、個人やチームが簡単な「アプリ」を作成するために多用されており、今でも使用されています。このうちどれくらいがコワークやコーデックスタイプのアプリなどに移行しているのだろうか。個人的に、そして逸話ですが、これらのツールを使い始めてから、スプレッドシートの使用量が大幅に減りました。考えは？"
     },
     {
-      "rank": 28,
+      "rank": 27,
       "hn_id": 49374304,
       "title": "Frustrated GP patients hang up as Yorkshire accent baffles AI receptionist",
       "title_ja": "ヨークシャーアクセントが AI 受付係を困惑させ、イライラした一般医の患者が電話を切る",
@@ -382,6 +368,20 @@
       "comments": 0,
       "posted_at": "2026-08-20T13:26:37Z",
       "summary_ja": "メインコンテンツにスキップ ナビゲーションにスキップ ダイアログを閉じる 1 / 1 次の画像 前の画像 キャプションの切り替え 印刷購読 ニュースレター サインイン 米国 米国版\n展開されたメニューを非表示にする ニュース すべてのニュースを表示\n検索入力 google-search 検索\n検索入力 google-search 検索 求人を検索\nある患者はAIシステムについてこう語った：「私のことを理解してもらえなかった。結局、電話を切るだけで、予約しようとする気も起きなかった。」写真：ジュリアン・クラクストン／アラミー 画像を全画面で表示 ある患者は、AIシステムについて次のように述べた：「私のことを理解してもらうことはできなかった。結局、電話を切るだけで、予約しようとする気も起きなかった。」写真：ジュリアン・クラクストン／アラミー 一般医 イライラした一般医の患者はヨークシャー訛りで電話を切るAI受付係を困惑させる\nロザラムのチャットボット「エマ」は 17 か国語を備えていると AI 企業が発表 – しかし健康監視団体は、システムがローカルの「癖」に苦戦していると発表\nマーク・ブラウン イングランド北部特派員 2026年8月20日木曜日 05.25 EDT 最終更新日 2026年8月20日木曜日 08.22 EDT Share Prefer the Guardian on Google サウスヨークシャーの町の患者は、AI GPの受付係が自分たちの「広範なアクセント」を理解していないことに不満を抱いている、と保健監視機関が発表した。\n地元の医療・社会福祉監視機関であるヘルスウォッチ・ロザラム氏は、この地域の多くの診療所でエマと呼ばれる新しいAI受付係が導入されたと述べた。\nAIが現地のアクセントを理解していないという報告を聞いていると述べた。そのマネージャーのキム・グリーソン氏はBBCに次のように語った。「問題の1つは、人々のヨークシャー訛りの広さのせいで、このシステムが人々の問い合わせの内容を必ずしも理解できないことだ。"
+    },
+    {
+      "rank": 28,
+      "hn_id": 49372794,
+      "title": "An approach to vulnerability observability of Go services leveraging Prometheus",
+      "title_ja": "Prometheus を活用した Go サービスの脆弱性可観測性へのアプローチ",
+      "hn_url": "https://news.ycombinator.com/item?id=49372794",
+      "source_url": "https://github.com/el10savio/vulnemetry/tree/main",
+      "image_url": "https://opengraph.githubassets.com/6f3f09fe414ee6597e6d5e494e6b12aa3d8c35e0a1513afb2645493f57ff974f/el10savio/vulnemetry",
+      "score": 2,
+      "final_score": 3,
+      "comments": 0,
+      "posted_at": "2026-08-20T10:38:10Z",
+      "summary_ja": "GitHub - el10savio/vulnemetry: Go サービスの脆弱性の観測可能性。 govulncheck、Prometheus、OTel の活用 [実験的] · GitHub\nコンテンツにスキップ\nナビゲーションメニュー\nサインイン 外観設定 プラットフォーム AI コード作成 GitHub Copilot AI を使用してより良いコードを作成する\nGitHub Copilot アプリ エージェントが発行からマージまで直接担当\nMCP レジストリ 外部ツールの統合\n開発者のワークフロー アクション あらゆるワークフローを自動化します\nコードスペース インスタント開発環境\nコードレビュー コードの変更を管理する\nコードの品質 マージ時に品質を強制する\nアプリケーションセキュリティ GitHub Advanced Security 脆弱性を見つけて修正する\nコードのセキュリティ 構築時にコードを保護する\n機密保護 漏洩が始まる前に阻止\n企業規模別のソリューション\nタイプごとに詳しく見る お客様の事例\nサポートとサービスのドキュメント\nオープンソース コミュニティ GitHub スポンサー オープンソース開発者に資金を提供する\nエンタープライズ エンタープライズ ソリューション エンタープライズ プラットフォーム AI を活用した開発者プラットフォーム\n利用可能なアドオン GitHub Advanced Security エンタープライズ グレードのセキュリティ機能\nCopilot for Business エンタープライズ グレードの AI 機能\nプレミアム サポート エンタープライズ レベルの 24 時間年中無休のサポート\n検索 / サインイン サインアップ 外観設定\n別のタブまたはウィンドウでサインインしました。リロードしてセッションを更新します。\n別のタブまたはウィンドウでサインアウトしました。リロードしてセッションを更新します。\n別のタブまたはウィンドウでアカウントを切り替えました。リロードしてセッションを更新します。"
     },
     {
       "rank": 29,
@@ -398,17 +398,17 @@
     },
     {
       "rank": 30,
-      "hn_id": 49372452,
-      "title": "Reduce Claudish: Paul-Graham-writing-style-in-Claude.md",
-      "title_ja": "クローディッシュの削減: Paul-Graham-writing-style-in-Claude.md",
-      "hn_url": "https://news.ycombinator.com/item?id=49372452",
-      "source_url": "https://gist.github.com/frodo-max-12/090ec580048f0920c20ce9a4da67ddee",
-      "image_url": "https://github.githubassets.com/assets/gist-og-image-54fd7dc0713e.png",
+      "hn_id": 49374824,
+      "title": "SEO Skills AI – Universal Open-Source SEO Agent for Claude, Cursor, Windsurf",
+      "title_ja": "SEO Skills AI – クロード、カーソル、ウィンドサーフィン用のユニバーサル オープンソース SEO エージェント",
+      "hn_url": "https://news.ycombinator.com/item?id=49374824",
+      "source_url": "https://github.com/seoskillsai/seo-skills-ai",
+      "image_url": "https://opengraph.githubassets.com/f48756e2f9295ef7bf8d7a5940357914c15db1b6bc21301382247e61cf5a3ace/seoskillsai/seo-skills-ai",
       "score": 2,
       "final_score": 2,
       "comments": 0,
-      "posted_at": "2026-08-20T09:48:42Z",
-      "summary_ja": "ポール・グレアムの文体。ほとんどの人が気づいているように、最近「クロードっぽい」を読むのが本当に難しくなりました。 CLAUDE.md へのこの小さな追加が役に立ちました。 · GitHub\nコンテンツにスキップ\n--\u003e\n要点の検索\n要点の検索\nすべての要点\nGitHub に戻る\nサインイン\nサインアップ\nサインイン\nサインアップ\n別のタブまたはウィンドウでサインインしました。リロードしてセッションを更新します。\n別のタブまたはウィンドウでサインアウトしました。リロードしてセッションを更新します。\n別のタブまたはウィンドウでアカウントを切り替えました。リロードしてセッションを更新します。\nアラートを閉じる\n{{ メッセージ }}\nコード、メモ、スニペットを即座に共有します。\nfrodo-max-12 /reduce-claudish-paul-graham-writing-style-in-CLAUDE.md\n要点オプションを表示\nZIPをダウンロード\nスター\n0\n( 0 )\nGist にスターを付けるにはサインインする必要があります\nフォーク\n0\n( 0 )\nGist をフォークするにはサインインする必要があります\n埋め込む\nこの要点を Web サイトに埋め込みます。\nシェアする\nこの要点の共有可能なリンクをコピーします。\nHTTPS経由でクローンを作成する\nWeb URL を使用してクローンを作成します。\n\u003cscript src=\"https://gist.github.com/frodo-max-12/090ec580048f0920c20ce9a4da67ddee.js\"\u003e\u003c/script\u003e でこのリポジトリのクローンを作成します。\nfrodo-max-12/090ec580048f0920c20ce9a4da67ddee をコンピューターに保存し、GitHub デスクトップで使用します。\nコード\n改訂\n1\n埋め込む\nオプションを選択してください\n埋め込む\nこの要点を Web サイトに埋め込みます。\nシェアする\nこの要点の共有可能なリンクをコピーします。"
+      "posted_at": "2026-08-20T14:11:51Z",
+      "summary_ja": "GitHub - seoskillsai/seo-skills-ai: SEO スキル AI: Claude Code、Antigravity、Cursor、Windsurf、Copilot、ChatGPT、Cline にわたるユニバーサル AI SEO エージェントおよび技術最適化スイート。 · GitHub\nコンテンツにスキップ\nナビゲーションメニュー\nサインイン 外観設定 プラットフォーム AI コード作成 GitHub Copilot AI を使用してより良いコードを作成する\nGitHub Copilot アプリ エージェントが発行からマージまで直接担当\nMCP レジストリ 外部ツールの統合\n開発者のワークフロー アクション あらゆるワークフローを自動化します\nコードスペース インスタント開発環境\nコードレビュー コードの変更を管理する\nコードの品質 マージ時に品質を強制する\nアプリケーションセキュリティ GitHub Advanced Security 脆弱性を見つけて修正する\nコードのセキュリティ 構築時にコードを保護する\n機密保護 漏洩が始まる前に阻止\n企業規模別のソリューション\nタイプごとに詳しく見る お客様の事例\nサポートとサービスのドキュメント\nオープンソース コミュニティ GitHub スポンサー オープンソース開発者に資金を提供する\nエンタープライズ エンタープライズ ソリューション エンタープライズ プラットフォーム AI を活用した開発者プラットフォーム\n利用可能なアドオン GitHub Advanced Security エンタープライズ グレードのセキュリティ機能\nCopilot for Business エンタープライズ グレードの AI 機能\nプレミアム サポート エンタープライズ レベルの 24 時間年中無休のサポート\n検索 / サインイン サインアップ 外観設定\n別のタブまたはウィンドウでサインインしました。リロードしてセッションを更新します。\n別のタブまたはウィンドウでサインアウトしました。リロードしてセッションを更新します。"
     }
   ]
 }

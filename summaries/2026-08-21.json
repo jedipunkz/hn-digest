@@ -1,0 +1,32 @@
+{
+  "date": "2026-08-21",
+  "generated_at": "2026-08-21T00:42:37Z",
+  "articles": [
+    {
+      "rank": 1,
+      "hn_id": 49382041,
+      "title": "Copyright does not protect AI-generated content in EU",
+      "title_ja": "EUではAI生成コンテンツは著作権で保護されない",
+      "hn_url": "https://news.ycombinator.com/item?id=49382041",
+      "source_url": "https://mathstodon.xyz/@maxpool/117128107757895678",
+      "score": 14,
+      "final_score": 18,
+      "comments": 6,
+      "posted_at": "2026-08-21T00:15:12Z",
+      "summary_ja": "ma𝕏プール: 「AI が生成したコンテンツは著作権で保護されますか…」 - Mathstodon"
+    },
+    {
+      "rank": 2,
+      "hn_id": 49382011,
+      "title": "Ask HN: Is building military hardware and healthcare the AI-proof?",
+      "title_ja": "HN に質問: 軍用ハードウェアとヘルスケアの構築は AI に耐えられますか?",
+      "hn_url": "https://news.ycombinator.com/item?id=49382011",
+      "source_url": "",
+      "score": 2,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-08-21T00:12:43Z",
+      "summary_ja": "HN に聞く: 軍事ハードウェアとヘルスケアの構築は AI に耐えられますか?\nHN テキスト: スキルとしてのソフトウェア開発がファーストフード会社でハンバーガーをひっくり返すようなものになる中、軍事やヘルスケアなどのエバーグリーン産業向けのハードウェアを構築するのは、プロンプターではなく実際のエンジニアにとって唯一の逃げ道なのでしょうか?確かに、製品を市場に投入して販売するにははるかに費用がかかりますし、販売期間が長いために製品が失敗する可能性も高くなります。しかし、少なくともあなたには自然な障壁があります。ハードウェアで Apple と競争しようとしている単独の開発者は見かけませんが、ソフトウェアでは、今日の競争相手は何十億人もいます。"
+    }
+  ]
+}

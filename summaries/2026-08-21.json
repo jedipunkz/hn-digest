@@ -1,6 +1,6 @@
 {
   "date": "2026-08-21",
-  "generated_at": "2026-08-21T00:42:37Z",
+  "generated_at": "2026-08-21T02:19:10Z",
   "articles": [
     {
       "rank": 1,
@@ -27,6 +27,61 @@
       "comments": 0,
       "posted_at": "2026-08-21T00:12:43Z",
       "summary_ja": "HN に聞く: 軍事ハードウェアとヘルスケアの構築は AI に耐えられますか?\nHN テキスト: スキルとしてのソフトウェア開発がファーストフード会社でハンバーガーをひっくり返すようなものになる中、軍事やヘルスケアなどのエバーグリーン産業向けのハードウェアを構築するのは、プロンプターではなく実際のエンジニアにとって唯一の逃げ道なのでしょうか?確かに、製品を市場に投入して販売するにははるかに費用がかかりますし、販売期間が長いために製品が失敗する可能性も高くなります。しかし、少なくともあなたには自然な障壁があります。ハードウェアで Apple と競争しようとしている単独の開発者は見かけませんが、ソフトウェアでは、今日の競争相手は何十億人もいます。"
+    },
+    {
+      "rank": 3,
+      "hn_id": 49382540,
+      "title": "I benched frontier AI LLM models on politics, ethics, and personality traits",
+      "title_ja": "政治、倫理、性格特性に関してフロンティア AI LLM モデルをベンチテストしてみました",
+      "hn_url": "https://news.ycombinator.com/item?id=49382540",
+      "source_url": "https://www.blackbench.ai/",
+      "image_url": "https://www.blackbench.ai/blackbench-social-preview.jpg?v=preview-53",
+      "score": 2,
+      "final_score": 2,
+      "comments": 2,
+      "posted_at": "2026-08-21T01:26:01Z",
+      "summary_ja": "プロンプト条件付きモデル応答の生きた進化するベンチマーク。"
+    },
+    {
+      "rank": 4,
+      "hn_id": 49382698,
+      "title": "Claude driving an autonomous RC car [video]",
+      "title_ja": "自律型 RC カーを運転するクロード [ビデオ]",
+      "hn_url": "https://news.ycombinator.com/item?id=49382698",
+      "source_url": "https://www.youtube.com/watch?v=jBpQiv-ZlVM",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-08-21T01:48:49Z",
+      "summary_ja": "- YouTube About Press Copyright Contact us Creators Advertise Developers Terms Privacy Policy \u0026 Safety How YouTube works Test new features NFL サンデー チケット © 2026 Google LLC"
+    },
+    {
+      "rank": 5,
+      "hn_id": 49382646,
+      "title": "Gisting: Compressing LLM Agent context to ↑ throughput and ↓ cost",
+      "title_ja": "要点: LLM エージェントのコンテキストを圧縮してスループットを↑、コストを↓にする",
+      "hn_url": "https://news.ycombinator.com/item?id=49382646",
+      "source_url": "https://shopify.engineering/gisting",
+      "image_url": "https://cdn.shopify.com/b/shopify-brochure2-assets/7234876f98a20dbbe33d350d1e7ac41d.png",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-08-21T01:42:09Z",
+      "summary_ja": "コンテンツにスキップ ソリューション 開始 ビジネスを開始します。ブランドを構築する\nウェブサイトを作成します。オンラインストア編集者\nストアをカスタマイズします。ストアのテーマ\nビジネス アプリを検索します。 Shopify アプリストア\n自分のサイトのドメインを所有します。ドメインとホスティング\n無料のビジネス ツールを探索してください。ビジネスを運営するためのツール\n販売 製品を販売します。オンラインまたは対面で販売する\n顧客をチェックしてください。ワールドクラスのチェックアウト\nオンラインで販売します。オンラインでビジネスを成長させる\nさまざまなチャネルで販売します。何百万人もの買い物客にリーチし、売上を伸ばす\n世界中に販売します。海外販売\n卸売＆直接販売。企業間 (B2B)\nマーケット あなたのビジネスをマーケティングします。顧客にリーチして維持する\nソーシャル全体の市場。ソーシャルメディアの統合\n顧客とのチャット。 Shopify 受信箱\n顧客を育成する。 Shopify メッセージング\n聴衆を知る。顧客の洞察を得る\n管理 ビジネスを管理します。売上、注文、分析を追跡する\nパフォーマンスを測定します。分析とレポート作成\n在庫と注文を管理します。在庫と注文の管理\nビジネスを自動化します。 Shopify フロー\nShopify 開発者。 Shopify の強力な API を使用して構築する\nプラス。成長するデジタル ブランドのためのコマース ソリューション\nすべての製品。 Shopify のすべての製品と機能を詳しく見る\nリソース ヘルプとサポート ヘルプとサポート 。 24時間年中無休のサポートを受ける\nビジネスコース。実績のある専門家から学ぶ\n人気のトピック Shopify とは何ですか? 。当社のコマースプラットフォームの仕組み\n必須ツール ビジネス名ジェネレーター。\n新機能変更ログ。最近の更新情報のソース\nニュースルーム 。"
+    },
+    {
+      "rank": 6,
+      "hn_id": 49382504,
+      "title": "Show HN: Pigame – pi+LLM plays black-box browser games via observe/move tools",
+      "title_ja": "Show HN: Pigame – pi+LLM は観察/移動ツールを介してブラックボックス ブラウザ ゲームをプレイします",
+      "hn_url": "https://news.ycombinator.com/item?id=49382504",
+      "source_url": "https://github.com/ifoxhz/pigame",
+      "image_url": "https://opengraph.githubassets.com/171011cbb16201251e58c60a646f2a3cb3a5e1c52866e711bdaceaf442c89e69/ifoxhz/pigame",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-08-21T01:20:26Z",
+      "summary_ja": "GitHub - ifoxhz/pigame: これは、LLM を使用してゲームを駆動する Pi 拡張機能で、単純な 2D ゲームから始まります。 · GitHub\nコンテンツにスキップ\nナビゲーションメニュー\nサインイン 外観設定 プラットフォーム AI コード作成 GitHub Copilot AI を使用してより良いコードを作成する\nGitHub Copilot アプリ エージェントが発行からマージまで直接担当\nMCP レジストリ 外部ツールの統合\n開発者のワークフロー アクション あらゆるワークフローを自動化します\nコードスペース インスタント開発環境\nコードレビュー コードの変更を管理する\nコードの品質 マージ時に品質を強制する\nアプリケーションセキュリティ GitHub Advanced Security 脆弱性を見つけて修正する\nコードのセキュリティ 構築時にコードを保護する\n機密保護 漏洩が始まる前に阻止\n企業規模別のソリューション\nタイプごとに詳しく見る お客様の事例\nサポートとサービスのドキュメント\nオープンソース コミュニティ GitHub スポンサー オープンソース開発者に資金を提供する\nエンタープライズ エンタープライズ ソリューション エンタープライズ プラットフォーム AI を活用した開発者プラットフォーム\n利用可能なアドオン GitHub Advanced Security エンタープライズ グレードのセキュリティ機能\nCopilot for Business エンタープライズ グレードの AI 機能\nプレミアム サポート エンタープライズ レベルの 24 時間年中無休のサポート\n検索 / サインイン サインアップ 外観設定\n別のタブまたはウィンドウでサインインしました。リロードしてセッションを更新します。\n別のタブまたはウィンドウでサインアウトしました。リロードしてセッションを更新します。\n別のタブまたはウィンドウでアカウントを切り替えました。リロードしてセッションを更新します。"
     }
   ]
 }

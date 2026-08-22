@@ -1,0 +1,75 @@
+{
+  "date": "2026-08-22",
+  "generated_at": "2026-08-22T00:40:10Z",
+  "articles": [
+    {
+      "rank": 1,
+      "hn_id": 49395252,
+      "title": "Nvidia to Pay AI Startup Poolside a $6B License, Newcomer Says",
+      "title_ja": "Nvidia、プールサイドのAIスタートアップに60億ドルのライセンスを支払うと新参者が語る",
+      "hn_url": "https://news.ycombinator.com/item?id=49395252",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-08-20/nvidia-to-pay-ai-startup-poolside-a-6-billion-license-newcomer-says",
+      "score": 5,
+      "final_score": 6,
+      "comments": 0,
+      "posted_at": "2026-08-22T00:07:06Z",
+      "summary_ja": "Nvidia、プールサイドの AI スタートアップに 60 億ドルのライセンスを支払うと新人が語る"
+    },
+    {
+      "rank": 2,
+      "hn_id": 49395157,
+      "title": "What We Tell AI",
+      "title_ja": "AIに伝えること",
+      "hn_url": "https://news.ycombinator.com/item?id=49395157",
+      "source_url": "https://www.whatwetellai.com/",
+      "image_url": "https://www.whatwetellai.com/og-image.png",
+      "score": 3,
+      "final_score": 3,
+      "comments": 1,
+      "posted_at": "2026-08-21T23:50:27Z",
+      "summary_ja": "AIに伝えること"
+    },
+    {
+      "rank": 3,
+      "hn_id": 49395154,
+      "title": "As demand for Meta AI glasses explodes, it's harder to avoid creepy recordings",
+      "title_ja": "メタ AI グラスの需要が急増するにつれ、不気味な録音を避けることが難しくなっている",
+      "hn_url": "https://news.ycombinator.com/item?id=49395154",
+      "source_url": "https://arstechnica.com/tech-policy/2026/08/meta-ai-glasses-may-get-creepier-and-apps-that-detect-them-arent-perfect/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/zuckoff-glasshole-1152x648.jpg",
+      "score": 2,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-08-21T23:49:49Z",
+      "summary_ja": "コンテンツにスキップ\nアルス テクニカ ホーム\nセクション\nフォーラム\n購読する\n検索\nAI\nストーリーテキスト\nサイズ\n小\n標準\n大\n幅\n*\n標準\nワイド\nリンク\n標準\nオレンジ\n※購読者限定\nさらに詳しく\nストーリーにピンを付ける\nテーマ\nハイパーライト\n検索\nサインイン\nサインインダイアログ...\nサインイン\nAIグラスPSA\nメタ AI グラスの需要が急増するにつれ、不気味な録音を避けることが難しくなっている\nArs は、プライバシーの反発の中でメタ AI メガネを検出する最新の無料アプリ、Zuckoff に注目します。\n300\nクレジット:\nオーリッヒ・ローソン |ゲッティイメージズ\nクレジット:\nオーリッヒ・ローソン |ゲッティイメージズ\nテキスト\n設定\nストーリーテキスト\nサイズ\n小\n標準\n大\n幅\n*\n標準\nワイド\nリンク\n標準\nオレンジ\n※購読者限定\nさらに詳しく\nナビゲーション用に最小化する\n近くにいる人がメタ AI メガネをかけているかどうかわかりますか?\n毎年何百万人もの人々がスマートグラスの流行に賛同しており、単に日常を過ごしているだけでもこっそり録画される可能性が高まっています。\nMeta は唯一のスマート グラス メーカーではありませんが、同社の AI グラスは群を抜いて最も人気があります。そして、このデバイスがより一般的になるにつれて、学校、裁判所、レストラン、娯楽施設などの一部の公共の場所では、デバイスの使用を禁止し始めています。テクノロジー愛好家でさえ、特定の環境ではメタグラスを拒否したことがあります。 DEF CON 2026の背後にいるハッカーは、例外なくスマートグラスを禁止し、処方箋を持った参加者に「必要な場合は必ず違反していない眼鏡を用意するように」と注意を喚起したと伝えられている。\nしかし、禁止の効果は、それを執行する人々の存在によって決まります。"
+    },
+    {
+      "rank": 4,
+      "hn_id": 49395262,
+      "title": "Linus: \"A debug session from hell, enormously helped by an AI\"",
+      "title_ja": "ライナス: 「地獄のデバッグ セッション、AI のおかげで大いに助けられました。",
+      "hn_url": "https://news.ycombinator.com/item?id=49395262",
+      "source_url": "https://github.com/torvalds/linux/commit/818bebeb63dd6bf5f4e07e145f6cdbace520a34c",
+      "image_url": "https://opengraph.githubassets.com/22087a98ed668cae2b949a46863384f107467421a4bea6f1340abf5c42a38490/torvalds/linux/commit/818bebeb63dd6bf5f4e07e145f6cdbace520a34c",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-08-22T00:08:47Z",
+      "summary_ja": "drm/xe: フラット CCS ストレージを使用可能な VRAM として配布しない · torvalds/linux@818bebe · GitHub\nコンテンツにスキップ\nナビゲーションメニュー\nサインイン 外観設定 プラットフォーム AI コード作成 GitHub Copilot AI を使用してより良いコードを作成する\nGitHub Copilot アプリ エージェントが発行からマージまで直接担当\nMCP レジストリ 外部ツールの統合\n開発者のワークフロー アクション あらゆるワークフローを自動化します\nコードスペース インスタント開発環境\nコードレビュー コードの変更を管理する\nコードの品質 マージ時に品質を強制する\nアプリケーションセキュリティ GitHub Advanced Security 脆弱性を見つけて修正する\nコードのセキュリティ 構築時にコードを保護する\n機密保護 漏洩が始まる前に阻止\n企業規模別のソリューション\nタイプごとに詳しく見る お客様の事例\nサポートとサービスのドキュメント\nオープンソース コミュニティ GitHub スポンサー オープンソース開発者に資金を提供する\nエンタープライズ エンタープライズ ソリューション エンタープライズ プラットフォーム AI を活用した開発者プラットフォーム\n利用可能なアドオン GitHub Advanced Security エンタープライズ グレードのセキュリティ機能\nCopilot for Business エンタープライズ グレードの AI 機能\nプレミアム サポート エンタープライズ レベルの 24 時間年中無休のサポート\n検索 / サインイン サインアップ 外観設定\n別のタブまたはウィンドウでサインインしました。リロードしてセッションを更新します。\n別のタブまたはウィンドウでサインアウトしました。リロードしてセッションを更新します。\n別のタブまたはウィンドウでアカウントを切り替えました。リロードしてセッションを更新します。"
+    },
+    {
+      "rank": 5,
+      "hn_id": 49395316,
+      "title": "Show HN: AI driven civic dashboard for Palo Alto",
+      "title_ja": "Show HN: パロアルトの AI 主導の市民ダッシュボード",
+      "hn_url": "https://news.ycombinator.com/item?id=49395316",
+      "source_url": "https://paloaltocivic.com",
+      "image_url": "https://paloaltocivic.com/social-card",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-08-22T00:17:45Z",
+      "summary_ja": "パロアルト シビック |地方自治体、明確に報告されている メイン コンテンツにスキップ パロ アルト市民 会議 プロジェクト 人々 警察通報 警察報告書 会議 プロジェクト 人々 警察通報 警察報告書 検索 市民記録 最新から最初 パロアルト市民\n市議会 • 2026 年 8 月 19 日 パロアルト市は、2023 年以降に 916 戸の住宅が許可されたことを報告し、主要な公共工事の詳細を報告し、対策 J は 11 月の有権者に向けて実施されると述べた。\n人間関係委員会 • 2026 年 8 月 13 日 パロアルトの人間関係委員会は、手頃な価格の高齢者向け住宅と高齢の BMR 住宅所有者が直面する障壁のためのツールを検討しましたが、正式な政策措置は講じませんでした。\n歴史資源委員会 • 2026 年 8 月 13 日 パロアルトの歴史資源委員会は、連邦リハビリテーション基準に準拠したギャンブル ガーデンの園芸プロジェクトを見つけることを推奨しました。\n計画交通委員会 • 2026 年 8 月 12 日 パロアルトの計画委員会は、主要な問題が未解決のまま、82 戸のフォレスト コモンズの提案を建築審査に進めることを 4 対 2 で可決しました。\n市議会 • 2026 年 8 月 10 日 パロアルト市は、3,100 万ドルの水質プラント融資枠、クレセントパークの球根切れの削減、契約基準値の引き上げを承認しました。\n公益事業諮問委員会 • 2026 年 8 月 5 日 パロアルトの公益事業顧問は、スタッフが送電網の指標やガス、光ファイバー、山火事プロジェクトの進捗状況を詳しく説明する中、より厳しい電力信頼性の目標を求めました。\n公園およびレクリエーション委員会 • 2026 年 7 月 28 日 パロアルトの公園委員会は、環境審査と許可が継続する中、590 万ドルのアストラデロ クリーク修復および公益事業プロジェクトを支持しました。"
+    }
+  ]
+}

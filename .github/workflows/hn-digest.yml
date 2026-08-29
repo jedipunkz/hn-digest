@@ -1,9 +1,14 @@
 name: HN digest
 
 on:
-  schedule:
-    # every hour
-    - cron: "0 * * * *"
+  # Scheduled runs are disabled: the free translate.googleapis.com endpoint
+  # returns 429 ("your computer or network may be sending automated queries")
+  # for every request from GitHub Actions runners, so each hourly run writes no
+  # stories and still exits 0. Re-enable this block once the translation
+  # backend is fixed.
+  # schedule:
+  #   # every hour
+  #   - cron: "0 * * * *"
   workflow_dispatch:
 
 permissions:

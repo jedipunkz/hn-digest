@@ -279,11 +279,16 @@ func (c *crawler) writeStory(ctx context.Context, item hnItem) error {
 	sourceText := storyTranslationInput(item, article)
 	translated, err := c.translator.Translate(ctx, sourceText)
 	if err != nil {
-		return fmt.Errorf("translate: %w", err)
+		// Store the untranslated text rather than dropping the story. --since
+		// only looks back one hour, so a story skipped here falls out of the
+		// window on the next run and is lost for good. Ranking still works on
+		// the original: the interest keywords are English.
+		log.Printf("translate %d: %v — storing untranslated text", item.ID, err)
+		translated = sourceText
 	}
 
 	path := filepath.Join(c.outputDir, uniqueFilename(item.Title, item.ID))
-	content := renderMarkdown(c.now(), item, article, translated)
+	content := renderMarkdown(c.now(), item, article, translated, err == nil)
 	return os.WriteFile(path, []byte(content), 0o644)
 }
 
@@ -568,7 +573,7 @@ func trimRunes(input string, max int) string {
 	return strings.TrimSpace(string(runes[:max])) + "\n\n[truncated]"
 }
 
-func renderMarkdown(now time.Time, item hnItem, article article, translated string) string {
+func renderMarkdown(now time.Time, item hnItem, article article, translated string, didTranslate bool) string {
 	var b strings.Builder
 	b.WriteString("---\n")
 	writeYAMLString(&b, "source", item.URL)
@@ -585,7 +590,9 @@ func renderMarkdown(now time.Time, item hnItem, article article, translated stri
 	fmt.Fprintf(&b, "posted_at: %q\n", time.Unix(item.Time, 0).UTC().Format(time.RFC3339))
 	b.WriteString("tags:\n")
 	b.WriteString("  - hacker-news\n")
-	b.WriteString("  - translated\n")
+	if didTranslate {
+		b.WriteString("  - translated\n")
+	}
 	b.WriteString("---\n\n")
 
 	fmt.Fprintf(&b, "# %s\n\n", item.Title)

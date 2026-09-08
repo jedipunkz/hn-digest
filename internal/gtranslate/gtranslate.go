@@ -18,22 +18,41 @@ import (
 
 const userAgent = "hn-digest/0.1 (+https://github.com/jedipunkz/hn-digest)"
 
+const defaultEndpoint = "https://translate.googleapis.com/translate_a/single"
+
 // Translator translates text into Japanese via translate.googleapis.com.
 type Translator struct {
 	Client *http.Client
+	// Endpoint overrides the translate_a/single URL; empty means the default.
+	Endpoint string
 }
 
 // Translate translates text into Japanese, splitting long input into chunks the
 // endpoint accepts.
+//
+// A chunk the endpoint rejects falls back to its original text instead of
+// failing the whole document: the endpoint rate-limits per source IP, and an
+// average article is 3.7 chunks, so aborting on the first error made a single
+// 429 discard an entire story. An error is returned only when every chunk
+// failed, which is the case the caller cannot paper over.
 func (t *Translator) Translate(ctx context.Context, text string) (string, error) {
 	chunks := SplitForTranslate(text, 1800)
 	out := make([]string, 0, len(chunks))
+	var firstErr error
+	failed := 0
 	for _, chunk := range chunks {
 		translated, err := t.translateChunk(ctx, chunk)
 		if err != nil {
-			return "", err
+			if firstErr == nil {
+				firstErr = err
+			}
+			failed++
+			translated = chunk
 		}
 		out = append(out, translated)
+	}
+	if failed == len(chunks) {
+		return "", firstErr
 	}
 	return strings.Join(out, "\n\n"), nil
 }
@@ -46,8 +65,11 @@ func (t *Translator) translateChunk(ctx context.Context, text string) (string, e
 	params.Set("dt", "t")
 	params.Set("q", text)
 
-	endpoint := "https://translate.googleapis.com/translate_a/single?" + params.Encode()
-	req, err := http.NewRequestWithContext(ctx, http.MethodGet, endpoint, nil)
+	endpoint := t.Endpoint
+	if endpoint == "" {
+		endpoint = defaultEndpoint
+	}
+	req, err := http.NewRequestWithContext(ctx, http.MethodGet, endpoint+"?"+params.Encode(), nil)
 	if err != nil {
 		return "", err
 	}

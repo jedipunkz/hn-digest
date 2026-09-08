@@ -1,9 +1,14 @@
 package main
 
 import (
+	"context"
+	"errors"
+	"net/http"
 	"os"
 	"path/filepath"
+	"strings"
 	"testing"
+	"time"
 )
 
 func TestSlug(t *testing.T) {
@@ -60,5 +65,66 @@ func TestTitleMatchesKeywords(t *testing.T) {
 		if got != tt.want {
 			t.Fatalf("titleMatchesKeywords(%q) = %v, want %v", tt.title, got, tt.want)
 		}
+	}
+}
+
+type stubTranslator struct{ err error }
+
+func (s stubTranslator) Translate(_ context.Context, text string) (string, error) {
+	if s.err != nil {
+		return "", s.err
+	}
+	return "翻訳:" + text, nil
+}
+
+// A failed translation must still produce a file: --since only looks back one
+// hour, so a story skipped here never comes back into the window.
+func TestWriteStoryKeepsStoryWhenTranslationFails(t *testing.T) {
+	dir := t.TempDir()
+	c := &crawler{
+		client:     &http.Client{},
+		translator: stubTranslator{err: errors.New("429 Too Many Requests")},
+		outputDir:  dir,
+		now:        func() time.Time { return time.Unix(0, 0).UTC() },
+	}
+	if err := c.writeStory(context.Background(), hnItem{ID: 1, Title: "Kubernetes at scale"}); err != nil {
+		t.Fatalf("writeStory() error = %v", err)
+	}
+
+	files, err := filepath.Glob(filepath.Join(dir, "*.md"))
+	if err != nil || len(files) != 1 {
+		t.Fatalf("Glob() = %v, %v, want exactly one file", files, err)
+	}
+	got, err := os.ReadFile(files[0])
+	if err != nil {
+		t.Fatal(err)
+	}
+	// The untranslated title must survive so the interest keywords still match.
+	if !strings.Contains(string(got), "Kubernetes at scale") {
+		t.Fatalf("story lost its original text:\n%s", got)
+	}
+	if strings.Contains(string(got), "- translated\n") {
+		t.Fatalf("untranslated story is tagged translated:\n%s", got)
+	}
+}
+
+func TestWriteStoryTagsTranslatedOnSuccess(t *testing.T) {
+	dir := t.TempDir()
+	c := &crawler{
+		client:     &http.Client{},
+		translator: stubTranslator{},
+		outputDir:  dir,
+		now:        func() time.Time { return time.Unix(0, 0).UTC() },
+	}
+	if err := c.writeStory(context.Background(), hnItem{ID: 2, Title: "Terraform drift"}); err != nil {
+		t.Fatalf("writeStory() error = %v", err)
+	}
+	files, _ := filepath.Glob(filepath.Join(dir, "*.md"))
+	got, err := os.ReadFile(files[0])
+	if err != nil {
+		t.Fatal(err)
+	}
+	if !strings.Contains(string(got), "- translated\n") {
+		t.Fatalf("translated story is missing the tag:\n%s", got)
 	}
 }

@@ -1,6 +1,6 @@
 {
   "date": "2026-09-09",
-  "generated_at": "2026-09-09T20:33:33Z",
+  "generated_at": "2026-09-09T22:59:32Z",
   "articles": [
     {
       "rank": 1,
@@ -85,20 +85,6 @@
     },
     {
       "rank": 7,
-      "hn_id": 49625407,
-      "title": "Show HN: Maintenant, Docker and Kubernetes monitoring in a single Go binary",
-      "title_ja": "Show HN: Maintenant, Docker and Kubernetes monitoring in a single Go binary",
-      "hn_url": "https://news.ycombinator.com/item?id=49625407",
-      "source_url": "https://github.com/kolapsis/maintenant",
-      "image_url": "https://repository-images.githubusercontent.com/1169465369/1f76561f-7088-493c-9798-3ca271bb7e02",
-      "score": 3,
-      "final_score": 7,
-      "comments": 0,
-      "posted_at": "2026-09-09T12:25:11Z",
-      "summary_ja": "Title: Show HN: Maintenant, Docker and Kubernetes monitoring in a single Go binary\nArticle title: GitHub - kOlapsis/maintenant: Self-hosted monitoring for Docker, Kubernetes and uptime. Single Go binary, no agent config, live alerts. Drop a container, your stack is monitored. · GitHub\nDescription: Self-hosted monitoring for Docker, Kubernetes and uptime. Single Go binary, no agent config, live alerts. Drop a container, your stack is monitored. - kOlapsis/maintenant\n\nArticle text:\nGitHub - kOlapsis/maintenant: Self-hosted monitoring for Docker, Kubernetes and uptime. Single Go binary, no agent config, live alerts. Drop a container, your stack is monitored. · GitHub\nSkip to content\nNavigation Menu\nSign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI\nGitHub Copilot app Direct agents from issue to merge\nMCP Registry Integrate external tools\nDEVELOPER…"
-    },
-    {
-      "rank": 8,
       "hn_id": 49632933,
       "title": "Stilla is joining Meta to reshape business AI",
       "title_ja": "Stilla is joining Meta to reshape business AI",
@@ -110,6 +96,20 @@
       "comments": 0,
       "posted_at": "2026-09-09T19:38:48Z",
       "summary_ja": "Title: Stilla is joining Meta to reshape business AI\nArticle title: Stilla is joining Meta to reshape business AI | Stilla.ai | Stilla.ai\nDescription: Stilla is joining Meta to bring this expertise and tech to strengthen their AI products for business\n\nArticle text:\nStilla is joining Meta to reshape business AI | Stilla.ai | Stilla.ai Start For Free Open menu Product Learn Security Enterprise Pricing Sign in Download Start For Free Back to Articles September 9, 2026 · Siavash Ghorbani, Kaj Drobin, The Stilla Team Stilla is joining Meta to reshape business AI\nEight months ago we launched Stilla as one of the best multiplayer AI agents for teams and companies. Today, Stilla is joining Meta to bring this expertise and tech to strengthen their AI products for business.\nWhat does that mean for you? Stilla is continuing service and will remain the agent platform you rely on for mission critica…"
+    },
+    {
+      "rank": 8,
+      "hn_id": 49625407,
+      "title": "Show HN: Maintenant, Docker and Kubernetes monitoring in a single Go binary",
+      "title_ja": "Show HN: Maintenant, Docker and Kubernetes monitoring in a single Go binary",
+      "hn_url": "https://news.ycombinator.com/item?id=49625407",
+      "source_url": "https://github.com/kolapsis/maintenant",
+      "image_url": "https://repository-images.githubusercontent.com/1169465369/1f76561f-7088-493c-9798-3ca271bb7e02",
+      "score": 3,
+      "final_score": 7,
+      "comments": 0,
+      "posted_at": "2026-09-09T12:25:11Z",
+      "summary_ja": "Title: Show HN: Maintenant, Docker and Kubernetes monitoring in a single Go binary\nArticle title: GitHub - kOlapsis/maintenant: Self-hosted monitoring for Docker, Kubernetes and uptime. Single Go binary, no agent config, live alerts. Drop a container, your stack is monitored. · GitHub\nDescription: Self-hosted monitoring for Docker, Kubernetes and uptime. Single Go binary, no agent config, live alerts. Drop a container, your stack is monitored. - kOlapsis/maintenant\n\nArticle text:\nGitHub - kOlapsis/maintenant: Self-hosted monitoring for Docker, Kubernetes and uptime. Single Go binary, no agent config, live alerts. Drop a container, your stack is monitored. · GitHub\nSkip to content\nNavigation Menu\nSign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI\nGitHub Copilot app Direct agents from issue to merge\nMCP Registry Integrate external tools\nDEVELOPER…"
     },
     {
       "rank": 9,
@@ -127,6 +127,19 @@
     },
     {
       "rank": 10,
+      "hn_id": 49628979,
+      "title": "Anthropic researcher resigns, warning of reckless race toward superintelligence",
+      "title_ja": "Anthropic researcher resigns, warning of reckless race toward superintelligence",
+      "hn_url": "https://news.ycombinator.com/item?id=49628979",
+      "source_url": "https://www.washingtonpost.com/technology/2026/09/09/anthropic-researcher-resigns-warning-reckless-race-toward-superintelligence/",
+      "score": 4,
+      "final_score": 5,
+      "comments": 3,
+      "posted_at": "2026-09-09T16:18:22Z",
+      "summary_ja": "Title: Anthropic researcher resigns, warning of reckless race toward superintelligence"
+    },
+    {
+      "rank": 11,
       "hn_id": 49624934,
       "title": "Logitech MX Keypad – AI control keys for developers",
       "title_ja": "Logitech MX Keypad – AI control keys for developers",
@@ -140,62 +153,21 @@
       "summary_ja": "Title: Logitech MX Keypad – AI control keys for developers\nArticle title: MX Keypad: Programmable LCD Console | Logitech\nDescription: Discover the MX Keypad developer console and supercharge your workflow with 9 customizable LCD keys, app-aware layout switching and Copilot.\n\nArticle text:\nMX Keypad: Programmable LCD Console | Logitech\nSKIP TO MAIN CONTENT Logitech G\nUS,en Shop Shop Shop by category Mice\nLogi Buy more, Save up to 30% off MX Keypad Logi Buy more, Save up to 30% off MX Keypad See all 3-month GitHub Copilot Pro+ on us Run AI agents on command Made with recycled plastic One-tap controls for your favorite apps Master Series MX Keypad\nFree standard shipping (3-5 business days) on orders of $29 and above.\nFree returns within 30 days of your purchase.\nAI control at your fingertips. Use MX Keypad to trigger AI agents, automate tasks, and control your favorite tools with a single t…"
     },
     {
-      "rank": 11,
-      "hn_id": 49628979,
-      "title": "Anthropic researcher resigns, warning of reckless race toward superintelligence",
-      "title_ja": "Anthropic researcher resigns, warning of reckless race toward superintelligence",
-      "hn_url": "https://news.ycombinator.com/item?id=49628979",
-      "source_url": "https://www.washingtonpost.com/technology/2026/09/09/anthropic-researcher-resigns-warning-reckless-race-toward-superintelligence/",
-      "score": 4,
-      "final_score": 5,
-      "comments": 3,
-      "posted_at": "2026-09-09T16:18:22Z",
-      "summary_ja": "Title: Anthropic researcher resigns, warning of reckless race toward superintelligence"
-    },
-    {
       "rank": 12,
-      "hn_id": 49633500,
-      "title": "AI reveals new class of cellular 'off switch' linked to cancer pathways",
-      "title_ja": "AI reveals new class of cellular 'off switch' linked to cancer pathways",
-      "hn_url": "https://news.ycombinator.com/item?id=49633500",
-      "source_url": "https://news.cornell.edu/stories/2026/09/ai-reveals-new-class-cellular-switch-linked-cancer-pathways",
-      "image_url": "https://news.cornell.edu/sites/default/files/styles/story_thumbnail_lg/public/2026-09/fromme_proteins.png?itok=1zNMnyl8",
-      "score": 2,
-      "final_score": 4,
-      "comments": 1,
-      "posted_at": "2026-09-09T20:13:16Z",
-      "summary_ja": "Title: AI reveals new class of cellular 'off switch' linked to cancer pathways\nArticle title: AI reveals new class of cellular ‘off switch’ linked to cancer pathways | Cornell Chronicle\nDescription: Cornell researchers have used artificial intelligence to uncover a previously unknown way cells control how proteins move inside them, a process essential for growth, communication and movement, and one that is often disrupted in cancer.\n\nArticle text:\nAI reveals new class of cellular ‘off switch’ linked to cancer pathways | Cornell Chronicle\nSkip to main content\nToggle navigation\nSearch\nCornell University\nCornell.edu\nBusiness, Economics \u0026 Entrepreneurship\nComputing \u0026 Information Sciences\nEnergy, Environment \u0026 Sustainability\nLaw, Government \u0026 Public Policy\nLife Sciences \u0026 Veterinary Medicine\nPhysical Sciences \u0026 Engineering\nCampus \u0026 Community\nNews \u0026 Events\nNews directly from Cornell's colleges…"
-    },
-    {
-      "rank": 13,
-      "hn_id": 49633033,
-      "title": "Authors Guild, Co-Plaintiffs Seek Summary Judgment in OpenAI Copyright Case",
-      "title_ja": "Authors Guild, Co-Plaintiffs Seek Summary Judgment in OpenAI Copyright Case",
-      "hn_url": "https://news.ycombinator.com/item?id=49633033",
-      "source_url": "https://www.publishersweekly.com/pw/by-topic/industry-news/publisher-news/article/101196-authors-guild-co-plaintiffs-seek-summary-judgment-in-openai-case.html",
-      "image_url": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/131/131296-1.JPG",
+      "hn_id": 49635498,
+      "title": "Adios.dev – Fast, isolated execution sandboxes for AI agents",
+      "title_ja": "Adios.dev – Fast, isolated execution sandboxes for AI agents",
+      "hn_url": "https://news.ycombinator.com/item?id=49635498",
+      "source_url": "https://www.adios.dev",
+      "image_url": "https://www.adios.dev/og-default.png",
       "score": 2,
       "final_score": 4,
       "comments": 0,
-      "posted_at": "2026-09-09T19:44:40Z",
-      "summary_ja": "Title: Authors Guild, Co-Plaintiffs Seek Summary Judgment in OpenAI Copyright Case\nArticle title: Authors Guild, Co-Plaintiffs Seek Summary Judgment in OpenAI Case\nDescription: The Guild and 13 co-plaintiffs including Jonathan Franzen and George R.R. Martin, along with defendants OpenAI and its majority shareholder Microsoft, have asked a U.S. District Court for summary judgment related to data scraping, copyright, and fair use\n\nArticle text:\nPW Edu --\u003e\nSelf-Pub\nJobzone\n|\nLogin\nLogout\n|\nSubscribe:\nclick here to read it now\nAuthors Guild, Co-Plaintiffs Seek Summary Judgment in OpenAI Case\nIn a class action case filed by the Authors Guild and its co-plaintiff authors against OpenAI and Microsoft, all parties have filed motions for summary judgment. In a summary judgment, a judge may weigh undisputed evidence and render a decision without a full trial being necessary.\nIn September 2023, the…"
+      "posted_at": "2026-09-09T22:32:27Z",
+      "summary_ja": "Title: Adios.dev – Fast, isolated execution sandboxes for AI agents\nArticle title: Adios — AI Cloud Platform for Developers \u0026 Founders\nDescription: The AI cloud platform for developers and founders. Build with AI agents, deploy apps and APIs, and run databases, storage, and workflows in one place.\n\nArticle text:\nAdios — AI Cloud Platform for Developers \u0026 Founders Cloud platform AI Agents Create Showcase MCP Pricing Docs EN English ✓ Español Français Português Italiano Log in Get started THE AI CLOUD PLATFORM FOR DEVELOPERS \u0026 FOUNDERS\nTurn your idea into a working product. Build with AI, then run your apps, APIs, and databases on Adios.\nTry Create or the Company Agent before signing up.\nIllustrative project · Your idea sets the direction\nOne place to plan your business, create your website, and build and host your app.\nAn AI team to help you plan your business.\nAdios AI Agents are assista…"
     },
     {
-      "rank": 14,
-      "hn_id": 49628806,
-      "title": "LogitScope: Analyzing LLM uncertainty from token probability distributions",
-      "title_ja": "LogitScope: Analyzing LLM uncertainty from token probability distributions",
-      "hn_url": "https://news.ycombinator.com/item?id=49628806",
-      "source_url": "https://github.com/ibm-granite/granite.debug-tools/tree/main/logitscope",
-      "image_url": "https://opengraph.githubassets.com/42ff2bf1d72f27baaec26ac82296cf5e40e4cb8787ae987d99bc20f6b2330943/ibm-granite/granite.debug-tools",
-      "score": 2,
-      "final_score": 4,
-      "comments": 1,
-      "posted_at": "2026-09-09T16:08:18Z",
-      "summary_ja": "Title: LogitScope: Analyzing LLM uncertainty from token probability distributions\nArticle title: granite.debug-tools/logitscope at main · ibm-granite/granite.debug-tools · GitHub\nDescription: Granite Debug Tools. Contribute to ibm-granite/granite.debug-tools development by creating an account on GitHub.\n\nArticle text:\ngranite.debug-tools/logitscope at main · ibm-granite/granite.debug-tools · GitHub\nSkip to content\nNavigation Menu\nSign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI\nGitHub Copilot app Direct agents from issue to merge\nMCP Registry Integrate external tools\nDEVELOPER WORKFLOWS Actions Automate any workflow\nCodespaces Instant dev environments\nCode Review Manage code changes\nCode Quality Enforce quality at merge\nAPPLICATION SECURITY GitHub Advanced Security Find and fix vulnerabilities\nCode security Secure your code as you build\nSecre…"
-    },
-    {
-      "rank": 15,
+      "rank": 13,
       "hn_id": 49629382,
       "title": "Muse's Social Media Handle Is Stolen by New Meta AI Tool",
       "title_ja": "Muse's Social Media Handle Is Stolen by New Meta AI Tool",
@@ -209,7 +181,49 @@
       "summary_ja": "Title: Muse's Social Media Handle Is Stolen by New Meta AI Tool\nArticle title: Muse Give Up Their Social Media Handle to AI in Ironic Twist - Reality Tea\nDescription: Muse lost its @Muse social media handles to Meta’s new AI agent, creating an ironic twist for the rock band known for dystopian music.\n\nArticle text:\nMuse Give Up Their Social Media Handle to AI in Ironic Twist - Reality Tea\nSkip to content\nReality Tea\nOpen\nClose\nMenu\nNews\nSearch\nClose\nSearch\nPhoto by Daniel Knighton/Getty Images\nCelebrities\nMuse Give Up Their Social Media Handle to AI in Ironic Twist\nMuse appeared to have lost their coveted social media handles to an unlikely new rival: Meta’s artificial intelligence tool. The switch created an amusing twist for a band famous for warning about technology taking over.\nThe British rockers had used @Muse across social platforms for years. Now, Meta’s new personal AI agent had…"
     },
     {
+      "rank": 14,
+      "hn_id": 49633033,
+      "title": "Authors Guild, Co-Plaintiffs Seek Summary Judgment in OpenAI Copyright Case",
+      "title_ja": "Authors Guild, Co-Plaintiffs Seek Summary Judgment in OpenAI Copyright Case",
+      "hn_url": "https://news.ycombinator.com/item?id=49633033",
+      "source_url": "https://www.publishersweekly.com/pw/by-topic/industry-news/publisher-news/article/101196-authors-guild-co-plaintiffs-seek-summary-judgment-in-openai-case.html",
+      "image_url": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/131/131296-1.JPG",
+      "score": 2,
+      "final_score": 4,
+      "comments": 0,
+      "posted_at": "2026-09-09T19:44:40Z",
+      "summary_ja": "Title: Authors Guild, Co-Plaintiffs Seek Summary Judgment in OpenAI Copyright Case\nArticle title: Authors Guild, Co-Plaintiffs Seek Summary Judgment in OpenAI Case\nDescription: The Guild and 13 co-plaintiffs including Jonathan Franzen and George R.R. Martin, along with defendants OpenAI and its majority shareholder Microsoft, have asked a U.S. District Court for summary judgment related to data scraping, copyright, and fair use\n\nArticle text:\nPW Edu --\u003e\nSelf-Pub\nJobzone\n|\nLogin\nLogout\n|\nSubscribe:\nclick here to read it now\nAuthors Guild, Co-Plaintiffs Seek Summary Judgment in OpenAI Case\nIn a class action case filed by the Authors Guild and its co-plaintiff authors against OpenAI and Microsoft, all parties have filed motions for summary judgment. In a summary judgment, a judge may weigh undisputed evidence and render a decision without a full trial being necessary.\nIn September 2023, the…"
+    },
+    {
+      "rank": 15,
+      "hn_id": 49628806,
+      "title": "LogitScope: Analyzing LLM uncertainty from token probability distributions",
+      "title_ja": "LogitScope: Analyzing LLM uncertainty from token probability distributions",
+      "hn_url": "https://news.ycombinator.com/item?id=49628806",
+      "source_url": "https://github.com/ibm-granite/granite.debug-tools/tree/main/logitscope",
+      "image_url": "https://opengraph.githubassets.com/42ff2bf1d72f27baaec26ac82296cf5e40e4cb8787ae987d99bc20f6b2330943/ibm-granite/granite.debug-tools",
+      "score": 2,
+      "final_score": 4,
+      "comments": 1,
+      "posted_at": "2026-09-09T16:08:18Z",
+      "summary_ja": "Title: LogitScope: Analyzing LLM uncertainty from token probability distributions\nArticle title: granite.debug-tools/logitscope at main · ibm-granite/granite.debug-tools · GitHub\nDescription: Granite Debug Tools. Contribute to ibm-granite/granite.debug-tools development by creating an account on GitHub.\n\nArticle text:\ngranite.debug-tools/logitscope at main · ibm-granite/granite.debug-tools · GitHub\nSkip to content\nNavigation Menu\nSign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI\nGitHub Copilot app Direct agents from issue to merge\nMCP Registry Integrate external tools\nDEVELOPER WORKFLOWS Actions Automate any workflow\nCodespaces Instant dev environments\nCode Review Manage code changes\nCode Quality Enforce quality at merge\nAPPLICATION SECURITY GitHub Advanced Security Find and fix vulnerabilities\nCode security Secure your code as you build\nSecre…"
+    },
+    {
       "rank": 16,
+      "hn_id": 49633500,
+      "title": "AI reveals new class of cellular 'off switch' linked to cancer pathways",
+      "title_ja": "AI reveals new class of cellular 'off switch' linked to cancer pathways",
+      "hn_url": "https://news.ycombinator.com/item?id=49633500",
+      "source_url": "https://news.cornell.edu/stories/2026/09/ai-reveals-new-class-cellular-switch-linked-cancer-pathways",
+      "image_url": "https://news.cornell.edu/sites/default/files/styles/story_thumbnail_lg/public/2026-09/fromme_proteins.png?itok=1zNMnyl8",
+      "score": 2,
+      "final_score": 4,
+      "comments": 1,
+      "posted_at": "2026-09-09T20:13:16Z",
+      "summary_ja": "Title: AI reveals new class of cellular 'off switch' linked to cancer pathways\nArticle title: AI reveals new class of cellular ‘off switch’ linked to cancer pathways | Cornell Chronicle\nDescription: Cornell researchers have used artificial intelligence to uncover a previously unknown way cells control how proteins move inside them, a process essential for growth, communication and movement, and one that is often disrupted in cancer.\n\nArticle text:\nAI reveals new class of cellular ‘off switch’ linked to cancer pathways | Cornell Chronicle\nSkip to main content\nToggle navigation\nSearch\nCornell University\nCornell.edu\nBusiness, Economics \u0026 Entrepreneurship\nComputing \u0026 Information Sciences\nEnergy, Environment \u0026 Sustainability\nLaw, Government \u0026 Public Policy\nLife Sciences \u0026 Veterinary Medicine\nPhysical Sciences \u0026 Engineering\nCampus \u0026 Community\nNews \u0026 Events\nNews directly from Cornell's colleges…"
+    },
+    {
+      "rank": 17,
       "hn_id": 49625328,
       "title": "Google: €13B investment in AI infrastructure in Finland",
       "title_ja": "Google: €13B investment in AI infrastructure in Finland",
@@ -223,7 +237,7 @@
       "summary_ja": "Title: Google: €13B investment in AI infrastructure in Finland\nArticle title: Google deepens its commitment to Finland with a €13 billion investment in AI infrastructure\nDescription: Google invests €13B in Finland to boost digital infrastructure, clean energy, create jobs, and support local environmental initiatives.\n\nArticle text:\nSkip to main content\nGoogle deepens its commitment to Finland with a €13 billion investment in AI infrastructure\nModels \u0026 Research\nGoogle DeepMind\nInfrastructure \u0026 cloud\nGlobal network\nOutreach \u0026 initiatives\nCreating opportunity\nInside Google\nAround the globe\nInnovation \u0026 AI\nInnovation \u0026 AI\nProducts \u0026 platforms\nProducts \u0026 platforms\nGlobal (English)\nAfrica (English)\nAustralia (English)\nBrasil (Português)\nCanada (English)\nCanada (Français)\nČesko (Čeština)\nDeutschland (Deutsch)\nEspaña (Español)\nFrance (Français)\nGreece (Ελληνικά)\nIndia (English)\nIndonesia (Bahasa…"
     },
     {
-      "rank": 17,
+      "rank": 18,
       "hn_id": 49633359,
       "title": "Mins after I cancelled my Claude subscription I was rejected from Anthropic",
       "title_ja": "Mins after I cancelled my Claude subscription I was rejected from Anthropic",
@@ -237,7 +251,7 @@
       "summary_ja": "Title: Mins after I cancelled my Claude subscription I was rejected from Anthropic\nArticle title: Par Trivedi on X: \"Coincidence? 36 mins after i cancelled my Claude subscription i was rejected from some Anthropic role i don't even remember applying to?\" / X\nDescription: Coincidence? 36 mins after i cancelled my Claude subscription i was rejected from some Anthropic role i don't even remember applying to?\n\nArticle text:\nPar Trivedi on X: \"Coincidence? 36 mins after i cancelled my Claude subscription i was rejected from some Anthropic role i don't even remember applying to?\" / X Post\nPar Trivedi on X: \"Coincidence? 36 mins after i cancelled my Claude subscription i was rejected from some Anthropic role i don't even remember applying to?\"\nCoincidence? 36 mins after i cancelled my Claude subscription i was rejected from some Anthropic role i don't even remember applying to? 8:03 PM · Sep 9,…"
     },
     {
-      "rank": 18,
+      "rank": 19,
       "hn_id": 49628792,
       "title": "Ask HN: Software Licenses that prevent LLMs from training on open source?",
       "title_ja": "Ask HN: Software Licenses that prevent LLMs from training on open source?",
@@ -250,7 +264,7 @@
       "summary_ja": "Title: Ask HN: Software Licenses that prevent LLMs from training on open source?\nHN text: I'm planning to release an open source software library soon and was wondering - are there any licenses that would prevent LLMs from ingesting it into their training? Do any of the labs say that they don't ingest software code that uses certain licenses? I realize this would be something that would be nearly impossible to discover and they could always say that they don't but they end up ingesting anyway."
     },
     {
-      "rank": 19,
+      "rank": 20,
       "hn_id": 49625311,
       "title": "I launched a fake deodorant brand to see if AI would notice",
       "title_ja": "I launched a fake deodorant brand to see if AI would notice",
@@ -264,7 +278,21 @@
       "summary_ja": "Title: I launched a fake deodorant brand to see if AI would notice\nArticle title: deana on X: \"https://t.co/hG09mXWj6K\" / X\nDescription: I launched a fake deodorant brand to see if AI would notice.\n\nArticle text:\ndeana on X: \"https://t.co/hG09mXWj6K\" / X Post\n@medeana I launched a fake deodorant brand to see if AI would notice.\n3 weeks later it was outranking a brand with clinical trials.\nAll it took was a cheap domain, a scrappy Vercel site with three pages of copy, and a slop Substack article to get there. I didn’t spam Reddit, I didn’t do a bunch of fake UGC videos. I just spent a few bucks on tokens to see what would happen.\nYou should know this is part of an ongoing bit. In June I asked Claude, ChatGPT and Gemini what to buy 8,700 times and found they mostly agreed. The LLMs are pulling product recommendations from an invisible “AI shelf,” which will become insanely valuable as agen…"
     },
     {
-      "rank": 20,
+      "rank": 21,
+      "hn_id": 49635332,
+      "title": "Private Cloud Compute: A new frontier for AI privacy in the cloud (2024)",
+      "title_ja": "Private Cloud Compute: A new frontier for AI privacy in the cloud (2024)",
+      "hn_url": "https://news.ycombinator.com/item?id=49635332",
+      "source_url": "https://security.apple.com/blog/private-cloud-compute/",
+      "image_url": "https://security.apple.com/assets/image/seo-image.jpg",
+      "score": 3,
+      "final_score": 3,
+      "comments": 0,
+      "posted_at": "2026-09-09T22:19:21Z",
+      "summary_ja": "Title: Private Cloud Compute: A new frontier for AI privacy in the cloud (2024)\nArticle title: Private Cloud Compute: A new frontier for AI privacy in the cloud - Apple Security Research\nDescription: Secure and private AI processing in the cloud poses a formidable new challenge. To support advanced features of Apple Intelligence with larger foundation models, we created Private Cloud Compute (PCC), a groundbreaking cloud intelligence system designed specifically for private AI processing. Built\n[truncated]\n\nArticle text:\nApple Security Research Local Nav Open Menu Overview\nPrivate Cloud Compute: A new frontier for AI privacy in the cloud\nApple Intelligence is the personal intelligence system that brings powerful generative models to iPhone, iPad, and Mac. For advanced features that need to reason over complex data with larger foundation models , we created Private Cloud Compute (PCC), a…"
+    },
+    {
+      "rank": 22,
       "hn_id": 49619044,
       "title": "The Growing Push to Ban Superintelligent AI",
       "title_ja": "The Growing Push to Ban Superintelligent AI",
@@ -278,34 +306,34 @@
       "summary_ja": "Title: The Growing Push to Ban Superintelligent AI\nDescription: Bills in the U.S. and U.K. seek to ban superintelligent AI, as fears grow about increasingly powerful systems escaping human control.\n\nArticle text:\nThe Growing Push to Ban Superintelligent AI Skip to Content Menu Close\nSubscribe Introducing the 2026 TIME Trailblazers View More Business Open follow modal Personalized Content\nFollow this section to personalize your feed and get instant alerts.\nFollow Go to your personalized feed WHY FOLLOW?\nCustom Feed: See the stories that matter most to you.\nSmart Alerts: Get notified about major news as it happens.\nUpdate your preferences in Account Settings\nAI Open follow modal Personalized Content\nFollow this tag to personalize your feed and get instant alerts.\nFollow Go to your personalized feed WHY FOLLOW?\nCustom Feed: See the stories that matter most to you.\nSmart Alerts: Get notified…"
     },
     {
-      "rank": 21,
-      "hn_id": 49618977,
-      "title": "Bullshit arguments about AI (not) replacing jobs (2023)",
-      "title_ja": "Bullshit arguments about AI (not) replacing jobs (2023)",
-      "hn_url": "https://news.ycombinator.com/item?id=49618977",
-      "source_url": "https://imadrahmoune.com/bullshit-ai-argument/",
+      "rank": 23,
+      "hn_id": 49621917,
+      "title": "Ask HN: Why is HN focusing a lot on human drama and not AI solving ME problem?",
+      "title_ja": "Ask HN: Why is HN focusing a lot on human drama and not AI solving ME problem?",
+      "hn_url": "https://news.ycombinator.com/item?id=49621917",
+      "source_url": "",
       "score": 2,
       "final_score": 2,
-      "comments": 1,
-      "posted_at": "2026-09-09T00:10:30Z",
-      "summary_ja": "Title: Bullshit arguments about AI (not) replacing jobs (2023)\nArticle title: Bullshit arguments about AI replacing jobs\n\nArticle text:\nhome\nBullshit arguments about AI (not) replacing jobs\nThis is a transcript from the Lex Fridman Podcast where he interviewed Sam Altman :\nYou know, when Kasparov lost to Deep Blue, somebody said, and maybe it was him, that, like, chess is over now. If an AI can beat a human at chess, then no one's gonna bother to keep playing, right? Because like, what's the purpose of us, or whatever? That was 30 years ago, 25 years ago, something like that. I believe that chess has never been more popular than it is right now. And people keep wanting to play and wanting to watch. And, by the way, we don't watch two AI's play each other. Which would be a far better game, in some sense, than whatever else. But that's not what we choose to do. Like, we are somehow much mo…"
+      "comments": 2,
+      "posted_at": "2026-09-09T06:19:44Z",
+      "summary_ja": "Title: Ask HN: Why is HN focusing a lot on human drama and not AI solving ME problem?\nHN text: Title length restricted. Why is HN focusing so much on the human drama of OpenAI and Anthropic and not the fact that AI just solved a millennium problem in a single week? The fact that AI did this means we should see more unsolved problems in all fields rapidly soon."
     },
     {
-      "rank": 22,
-      "hn_id": 49625387,
-      "title": "Show HN: Giving the Claude app read/write access to Obsidian from a Raspberry Pi",
-      "title_ja": "Show HN: Giving the Claude app read/write access to Obsidian from a Raspberry Pi",
-      "hn_url": "https://news.ycombinator.com/item?id=49625387",
-      "source_url": "https://zander.wtf/blog/obsidian-mcp-pi/",
-      "image_url": "https://zander.wtf/opengraph/obsidian-mcp-pi/og.png",
-      "score": 2,
+      "rank": 24,
+      "hn_id": 49635501,
+      "title": "Show HN: An open-weight LLM whose answer/stop decision can be flipped internally",
+      "title_ja": "Show HN: An open-weight LLM whose answer/stop decision can be flipped internally",
+      "hn_url": "https://news.ycombinator.com/item?id=49635501",
+      "source_url": "https://github.com/theonlypal/PCCG-Qwen3-4B-continuation-control",
+      "image_url": "https://opengraph.githubassets.com/2326f732f00f1b6760bfd8ce71cdf41ca6a84d7935f3e57eb6c2d4d9a2043444/theonlypal/PCCG-Qwen3-4B-continuation-control",
+      "score": 1,
       "final_score": 2,
       "comments": 0,
-      "posted_at": "2026-09-09T12:23:53Z",
-      "summary_ja": "Title: Show HN: Giving the Claude app read/write access to Obsidian from a Raspberry Pi\nArticle title: Claude, meet my Obsidian vault | Zander Martineau\nDescription: How I gave the Claude app on my phone read and write access to my Obsidian notes, using a Raspberry Pi, Obsidian Sync, a 100-line MCP server and Tailscale Funnel.\n\nArticle text:\nClaude, meet my Obsidian vault | Zander Martineau\nHome\nH i ! I ’ m Z a n d e r , I m a k e w e b a p p s\nClaude, meet my Obsidian vault\nHow I gave the Claude app on my phone read and write access to my Obsidian notes, using a Raspberry Pi, Obsidian Sync, a 100-line MCP server and Tailscale Funnel.\nMy notes live in Obsidian . For a while now I’ve been letting Claude and Codex loose on them: job application notes, meeting notes, the odd bit of research. That worked, but only through Claude Code in a terminal, on the laptop, with the vault folder open.…"
+      "posted_at": "2026-09-09T22:32:34Z",
+      "summary_ja": "Title: Show HN: An open-weight LLM whose answer/stop decision can be flipped internally\nArticle title: GitHub - theonlypal/PCCG-Qwen3-4B-continuation-control: Causal continuation-control study for PCCG-Qwen3-4B using Jacobian Lens and activation intervention. · GitHub\nDescription: Causal continuation-control study for PCCG-Qwen3-4B using Jacobian Lens and activation intervention. - theonlypal/PCCG-Qwen3-4B-continuation-control\n\nArticle text:\nGitHub - theonlypal/PCCG-Qwen3-4B-continuation-control: Causal continuation-control study for PCCG-Qwen3-4B using Jacobian Lens and activation intervention. · GitHub\nSkip to content\nNavigation Menu\nSign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI\nGitHub Copilot app Direct agents from issue to merge\nMCP Registry Integrate external tools\nDEVELOPER WORKFLOWS Actions Automate any workflow\nCodespaces Instant d…"
     },
     {
-      "rank": 23,
+      "rank": 25,
       "hn_id": 49625192,
       "title": "Gemma 4 E4B running inside Obsidian via WebGPU and Karpathy-style LLM Wiki",
       "title_ja": "Gemma 4 E4B running inside Obsidian via WebGPU and Karpathy-style LLM Wiki",
@@ -319,7 +347,7 @@
       "summary_ja": "Title: Gemma 4 E4B running inside Obsidian via WebGPU and Karpathy-style LLM Wiki\nArticle title: GitHub - itsyuimorii/obsidian-gemma4-litert-wiki: Run Gemma 4 E4B locally inside Obsidian via LiteRT-LM and WebGPU — private, offline, no API key, no Ollama, no server. Builds Andrej Karpathy's LLM wiki over your vault: cards, index, concept pages, tags, links, provenance checks — then chat with a n\n[truncated]\nDescription: Run Gemma 4 E4B locally inside Obsidian via LiteRT-LM and WebGPU — private, offline, no API key, no Ollama, no server. Builds Andrej Karpathy's LLM wiki over your vault: cards, index, concept pages, tags, links, provenance checks — then chat with a note or the whole wiki, plus quizzes and flashcards\n[truncated]\n\nArticle text:\nGitHub - itsyuimorii/obsidian-gemma4-litert-wiki: Run Gemma 4 E4B locally inside Obsidian via LiteRT-LM and WebGPU — private, offline, no API key, no…"
     },
     {
-      "rank": 24,
+      "rank": 26,
       "hn_id": 49629132,
       "title": "To Serve Man: AI, Math, and Navier–Stokes",
       "title_ja": "To Serve Man: AI, Math, and Navier–Stokes",
@@ -332,7 +360,7 @@
       "summary_ja": "Title: To Serve Man: AI, Math, and Navier–Stokes\nArticle title: To Serve Man - Michael Li\n\nArticle text:\nBy now, most people have heard that OpenAI has likely solved a Millennium Prize Problem ; specifically, a proof\nof finite-time blowup for the forced three-dimensional\nNavier-Stokes equations, announced yesterday afternoon\nat 1:20 p.m. ET. @OpenAI , September 8, 2026,\n1:20 p.m. ET As someone who has followed the story\nsomewhat closely, along with the broader debate around AI\nin mathematics, I wanted to write a short blog post that\nlays out a timeline of events, and (hopefully) contextualizes\nthis result with developments in the past year.\nTowards the beginning of 2026, AI in mathematics was\nstill treated as somewhat of a novelty. There were some\ninteresting results, mostly on Erdős problems, mostly\nwith commercially available AI models, and mostly from a\nfew people Primarily @AcerFur\na…"
     },
     {
-      "rank": 25,
+      "rank": 27,
       "hn_id": 49633566,
       "title": "GPT-6 Astra is better at making money, more ethical than Claude Fable 5.1",
       "title_ja": "GPT-6 Astra is better at making money, more ethical than Claude Fable 5.1",
@@ -346,7 +374,7 @@
       "summary_ja": "Title: GPT-6 Astra is better at making money, more ethical than Claude Fable 5.1\nArticle title: Andon Labs on X: \"We've never seen this before.\nThe biggest jump in Vending-Bench history. GPT-6 Astra is better at making money and more ethical than Claude Fable 5.1.\nSurprising, because:\n1. First time ever that OpenAI is #1 on Vending-Bench\n2. The best model is no longer the unethical one.\" / X\nDescription: We've never seen this before.\nThe biggest jump in Vending-Bench history. GPT-6 Astra is better at making money and more ethical than Claude Fable 5.1.\nSurprising, because:\n1. First time ever that OpenAI is #1 on Vending-Bench\n2. The best model is no longer the unethical one.\n\nArticle text:\nAndon Labs on X: \"We've never seen this before.\nThe biggest jump in Vending-Bench history. GPT-6 Astra is better at making money and more ethical than Claude Fable 5.1.\nSurprising, because:\n1. First ti…"
     },
     {
-      "rank": 26,
+      "rank": 28,
       "hn_id": 49625028,
       "title": "The next SolarWinds will be an AI security vendor",
       "title_ja": "The next SolarWinds will be an AI security vendor",
@@ -360,7 +388,7 @@
       "summary_ja": "Title: The next SolarWinds will be an AI security vendor\nArticle title: We keep building the thing that gets breached. The next SolarWinds will be an AI security vendor. | Crawdad\nDescription: The next SolarWinds will be an AI security vendor. Centralized agent inspection rebuilds the target that keeps getting breached. Build like you\n\nArticle text:\ncrawdad\nProduct ▾ Crawdad Dashboard Fleet Console Getting Started Documentation API Reference Changelog\nSolutions ▾ For MSPs For MSSPs Enterprise Regulated Developers\nResources ▾ How it works Watch Sonar Research Papers 2026 Report Blog Topics Threat Intel FAQ Glossary Trust Center Benchmark ↗\nPricing\nGet Started\n×\nProduct ▾ Crawdad Dashboard Fleet Console Getting Started Documentation API Reference Changelog\nSolutions ▾ For MSPs For MSSPs Enterprise Regulated Developers\nResources ▾ How it works Watch Sonar Research Papers 2026 Report Blog To…"
     },
     {
-      "rank": 27,
+      "rank": 29,
       "hn_id": 49618943,
       "title": "AI Has Solved One of Math's $1M Millennium Prize Problems",
       "title_ja": "AI Has Solved One of Math's $1M Millennium Prize Problems",
@@ -374,7 +402,7 @@
       "summary_ja": "Title: AI Has Solved One of Math's $1M Millennium Prize Problems\nArticle title: AI Has Solved One of Math’s $1 Million Millennium Prize Problems | Quanta Magazine\nDescription: Mathematicians at OpenAI showed that the Navier-Stokes equations, which describe how fluids flow, can sometimes “blow up.” But the massive result is not without controversy.\n\nArticle text:\nAI Has Solved One of Math’s $1 Million Millennium Prize Problems | Quanta Magazine\nQuanta Homepage\nPhysics\nNewsletter\nGet the latest news delivered to your inbox.\nYoutube\nInstagram\nRSS\nAn editorially independent publication supported by the Simons Foundation.\nCreate a reading list by clicking the Read Later icon next to the articles you wish to save.\nType search term(s) and press enter\nHome\nAI Has Solved One of Math’s $1 Million Millennium Prize Problems\nComment\nSave Article\nRead Later\nShare\nFacebook\nCopied!\nCopy link\nEmail\nPocke…"
     },
     {
-      "rank": 28,
+      "rank": 30,
       "hn_id": 49622084,
       "title": "Show HN: Thread – A private AI journal that connects thoughts without folders",
       "title_ja": "Show HN: Thread – A private AI journal that connects thoughts without folders",
@@ -386,33 +414,6 @@
       "comments": 0,
       "posted_at": "2026-09-09T06:36:00Z",
       "summary_ja": "Title: Show HN: Thread – A private AI journal that connects thoughts without folders\nArticle title: Thread: AI Journal \u0026 Memory - Apps on Google Play\nDescription: Capture thoughts with an ai journal that connects ideas to build your second.\n\nArticle text:\nThread: AI Journal \u0026 Memory - Apps on Google Play Games Apps Movies \u0026 TV Books Kids google_logo Play Games Apps Movies \u0026 TV Books Kids Gift Cards none search help_outline Sign in with Google\npayment Payments \u0026 subscriptions\nstorefront Third-party app stores\nGames Apps Movies \u0026 TV Books Kids Thread: AI Journal \u0026 Memory\nShare Add to wishlist Everyone In-App Purchases Learn more About this app\nNo data shared with third parties Learn more about how developers declare sharing\nThis app may collect these data types Personal info, Financial info and 3 others\nYou can request that data be deleted"
-    },
-    {
-      "rank": 29,
-      "hn_id": 49625556,
-      "title": "CCAO-F vs. CCAR-F: which Claude certification should you take?",
-      "title_ja": "CCAO-F vs. CCAR-F: which Claude certification should you take?",
-      "hn_url": "https://news.ycombinator.com/item?id=49625556",
-      "source_url": "https://www.claudecertifiedarchitects.com/blog/ccao-f-vs-ccar-f-claude-certification/",
-      "image_url": "https://www.claudecertifiedarchitects.com/cca-link-image-v3.jpg",
-      "score": 1,
-      "final_score": 2,
-      "comments": 0,
-      "posted_at": "2026-09-09T12:36:33Z",
-      "summary_ja": "Title: CCAO-F vs. CCAR-F: which Claude certification should you take?\nArticle title: CCAO-F vs CCAR-F: which Claude certification should you take?\nDescription: CCAO-F is the Claude Certified Associate – Foundations exam; CCAR-F (CCA-F) is the Architect one. What the two official guides state about audience, blueprint, fee and format, and how to choose between them.\n\nArticle text:\nIndependent exam prep · Not affiliated with or endorsed by Anthropic · Not the official CCA exam or certification ✕\nCCA Practice Platforms\nFull Mock Exam\nPractice Tests\nQuestion Bank\nDiagnostic\nStudy Plan\nGuide\nBlog\nFAQ\nExam Info\nLog In Sign Up Free\nHome\nCCAO-F vs CCAR-F: which Claude certification should you take?\nCCAO-F vs CCAR-F: which Claude certification should you take?\nBy CCA Practice Platforms · August 27, 2026\nAnthropic's certification programme publishes more than one Foundations exam, and the codes si…"
-    },
-    {
-      "rank": 30,
-      "hn_id": 49625248,
-      "title": "10.7% of top sites block AI search crawlers but still allow Googlebot",
-      "title_ja": "10.7% of top sites block AI search crawlers but still allow Googlebot",
-      "hn_url": "https://news.ycombinator.com/item?id=49625248",
-      "source_url": "https://ai-visibility.lastminutedealshq.com/data",
-      "score": 2,
-      "final_score": 2,
-      "comments": 0,
-      "posted_at": "2026-09-09T12:13:56Z",
-      "summary_ja": "Title: 10.7% of top sites block AI search crawlers but still allow Googlebot\nArticle title: Which of the top 5,000 sites block AI crawlers? robots.txt census, September 2026\nDescription: How many of the top 5,000 sites block OAI-SearchBot, PerplexityBot, GPTBot, ClaudeBot and 16 other AI crawlers, measured from their robots.txt. Includes the sites that block ChatGPT search while allowing Google, and the raw data as JSON.\n\nArticle text:\nAI visibility checker llms.txt generator and validator robots.txt checker Crawler census Who blocks AI search Full block list Guides AI crawlers\nWhich of the top 5,000 sites block AI crawlers?\nOn 7 September 2026 I fetched the robots.txt of the 5,000 highest ranked sites in the Tranco list. 2,771 of them served one. This page lists what those files say about each AI crawler, and the raw data is available as JSON. Shares below are of the 2,771 sites with a…"
     }
   ]
 }

@@ -1,9 +1,23 @@
 {
   "date": "2026-09-10",
-  "generated_at": "2026-09-10T00:59:30Z",
+  "generated_at": "2026-09-10T05:49:19Z",
   "articles": [
     {
       "rank": 1,
+      "hn_id": 49638622,
+      "title": "OpenAI have no mathematicians capable of understanding what they put out",
+      "title_ja": "OpenAI have no mathematicians capable of understanding what they put out",
+      "hn_url": "https://news.ycombinator.com/item?id=49638622",
+      "source_url": "https://mastodon.social/@tristanbuckmaster/117237555794407063",
+      "image_url": "https://files.mastodon.social/media_attachments/files/117/237/560/596/148/018/original/1aec22cbb90ca67e.png",
+      "score": 5,
+      "final_score": 6,
+      "comments": 0,
+      "posted_at": "2026-09-10T05:01:50Z",
+      "summary_ja": "Title: OpenAI have no mathematicians capable of understanding what they put out\nArticle title: tristanbuckmaster: \"Just to point something out to Open AI since they…\" - Mastodon\nDescription: Attached: 1 image\nJust to point something out to Open AI since they do not seem to have any mathematicians capable of understanding what they put out. They like to point out that their work was inspired by unforced Euler. As I said in my statement, our hypodissipative result (which is not public), b\n[truncated]\n\nArticle text:\ntristanbuckmaster: \"Just to point something out to Open AI since they…\" - Mastodon"
+    },
+    {
+      "rank": 2,
       "hn_id": 49636547,
       "title": "Anthropic discloses fourth AI hacking incident missed in earlier review",
       "title_ja": "Anthropic discloses fourth AI hacking incident missed in earlier review",
@@ -16,7 +30,7 @@
       "summary_ja": "Title: Anthropic discloses fourth AI hacking incident missed in earlier review"
     },
     {
-      "rank": 2,
+      "rank": 3,
       "hn_id": 49636459,
       "title": "Coinbase Design Systems Are Powering the AI Prototyping Era",
       "title_ja": "Coinbase Design Systems Are Powering the AI Prototyping Era",
@@ -29,7 +43,7 @@
       "summary_ja": "Title: Coinbase Design Systems Are Powering the AI Prototyping Era"
     },
     {
-      "rank": 3,
+      "rank": 4,
       "hn_id": 49636560,
       "title": "Navier–Stokes, AI and the future of research in mathematics [pdf]",
       "title_ja": "Navier–Stokes, AI and the future of research in mathematics [pdf]",
@@ -42,7 +56,7 @@
       "summary_ja": "Title: Navier–Stokes, AI and the future of research in mathematics [pdf]"
     },
     {
-      "rank": 4,
+      "rank": 5,
       "hn_id": 49636442,
       "title": "Show HN: Kin – A code repository built for AI and the people working with it",
       "title_ja": "Show HN: Kin – A code repository built for AI and the people working with it",

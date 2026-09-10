@@ -1,0 +1,125 @@
+---
+source: "https://craigmod.com/roden/118/"
+hn_url: "https://news.ycombinator.com/item?id=49647549"
+title: "Writing in 2026: Wherein Claude Voice infects the universe"
+article_title: "Writing in 2026, Walking Europe — Roden Newsletter Archive"
+image: ""
+author: "decimalenough"
+captured_at: "2026-09-10T18:09:21Z"
+capture_tool: "hn-digest"
+hn_id: 49647549
+score: 1
+comments: 0
+posted_at: "2026-09-10T17:40:40Z"
+tags:
+  - hacker-news
+---
+
+# Writing in 2026: Wherein Claude Voice infects the universe
+
+- HN: [49647549](https://news.ycombinator.com/item?id=49647549)
+- Source: [craigmod.com](https://craigmod.com/roden/118/)
+- Score: 1
+- Comments: 0
+- Posted: 2026-09-10T17:40:40Z
+
+## Translation
+
+Title: Writing in 2026: Wherein Claude Voice infects the universe
+Article title: Writing in 2026, Walking Europe — Roden Newsletter Archive
+Description: Writing in 2026, Walking Europe — Roden Newsletter Archive
+
+Article text:
+Roden
+Issue 118
+September 10, 2026
+Writing in 2026, Walking Europe
+Wherein Claude Voice infects the universe
+Hello from Europe. My body hasn’t been this happy in September in years. The coolness. The chill. The clouds. The 0 UV index. What is this crazy way of summer living? Where you’re not being blasted by a death ray from above while wrapped in a wet blanket and shoved in a stove while tiny demons spray gasoline everywhere? This is not the September of Tokyo (although this year, from afar, looks freakishly wet and temperate(ish)?).
+I’m Craig Mod, and this is Roden , an inconsistent mess of a newsletter going on some fourteen years.
+For the last ten days I’ve been hiding in London, writing, working on a project bigger than a newsletter, going out a little but not a lot. The biggest adventure was eating Dover sole at St. John and seeing Jinkx Monsoon play Mary Todd Lincoln in Oh, Mary! , which was just about as insane a play as you can imagine. I did a lot of strolling when not writing, and wrote it up on Ridgeline .
+Presently in my little online shop , I have the following fine art editions available:
+5 rogue copies of Kissa by Kissa’s 3rd edition (aka the Swiss Binding Edition) that we found in the corner of the warehouse
+3 remaining copies of my The Tomato Farmers (Nakasendō #1) print
+and the second printing of Fine Art TBOT (aka The Silver Surfer)
+SPECIAL PROJECTS Yearly members get big discounts on everything. If you’re planning on buying a couple books, it’s almost always a better deal to be a Yearly member.
+Members also get access to The Good Place social network, and my mega archive of board-meeting Q&As and more.
+Also: Digital TBOT is now available for $1.99 for a limited time (it might be over by the time you click):
+A flurry of $1.99 sales sends the book up the charts and gets it in front of new readers. Thanks, as always, for your support.
+Claude Voice (CV) is everywhere. It’s certainly in the interface for Claude (or ChatGPT or whatever) but it’s also leaking out everywhere else. If a box accepts text, it is being infected with the dreaded CV. CV says everything and nothing. It arrives in emails and within milliseconds, you can tell: CV . Those emails get instantly deleted. I delete a lot of emails these days.
+Getting smashed by CV everywhere you go is not fun, but it does inspire us to think about why we love the writing we do love. That’s not nothing.
+I like knowing a literary text comes from a person because I sense, in some way, that I could know the person or understand the mind that produced the text. There’s an implicit telepathic kinship in reading that seems to say: even the mind of an Einstein or a Dillard isn’t utterly unknowable; recognizing some piece of yourself in their work isn’t impossible . You might not get it all, but you’ll extract a sliver of something.
+AI-generated text doesn’t have this knowability. It has legibility (sometimes), of course, but the source is unknown, there is no “mind,” and that’s what gives us the ick. At least me. I am icked out as soon as I see AI-generated text, not because of political or social concern (I see the world over-indexing on these things, missing the bigger AI issues), but because the value in the kind of reading I mostly do — “literary” or “poetic” or “useless” (that is: not a self-help or escapist kind of reading but literature-as-a-magic-microscope kind of reading, that sometimes helps the self, that often transports but doesn’t escape the mind) — depends explicitly on the human component. I am interested because a mind like mine (or not like mine, but made of the same gunk) created the text, has a point of view, and from that, you might: learn about yourself, or be delighted by a psychic closeness.
+There’s a genre of “literary tech person.” Paul Ford comes to mind. As does Justin Duke from Buttondown. So, too, James Somers (of early Jane Street employ, and therefore possibly the one bona fide “literary billionaire”). Liz Danzico , of SVA and Microsoft and NPR. Recently, I discovered another: Thorsten Ball, because he linked to me (Hey! Blogging works!). Thorsten writes a newsletter called Joy & Curiosity inside Register Spill (apologies for the Substack link; the corollary of my great distaste for Substack is that when I land on a personal blog — a personalized personal blog — I’m much more likely to read earnestly and generously). It’s one of the more clear-eyed AI-adjacent things I get in my inbox (aside from Benedict Evans’ great, always acerbic, weekly hiney-spanker of a newsletter ). Thorsten linked to a few essays of note.
+One: Nolan Lawson’s great essay, “On Not Becoming a Cyborg” in which he writes about how read voice infects written voice. I’m the same way. When working on books I have to carefully select whom I read lest I suddenly slip into some ridiculously high register of false academia, etc.
+So imagine my alarm when, in my last blog post , the word “load-bearing” popped into my head. I used scare quotes and even called it out as a “Claude-ism,” but I couldn’t fight the feeling that it was le mot juste . I couldn’t find another phrase that felt more appropriate.
+This is the problem with CV slithering into all text-space: It’s hard to avoid. It’s harder to avoid infection than social-media speak, because at least folks generally maintained some individual voice when posting to social media. CV is pure eradication of voice. The center-of-a-Wonderbread-loaf of voice. It’s the private-equity-run-third-wave-coffee-shop of voice. Sure, you get a serviceable cortado, but <British Voice /> at what cost, dear man .
+So how do we fight this horde of agents colonizing our brains? In short: stay human, friends. Resist the whispering earring . Be jealous of your time and attention, and try to find other sources of artistic and intellectual sustenance than the chatbots. As doomed as it may feel, try to keep a part of yourself that is the tiny little village of Gauls holding off the Roman invaders. Whatever your inner sanctum is, protect it from AI infiltration.
+Thorsten links to another essay, a real doozy, a beautifully written 5,300-worder from Sam Dresser over on Aeon, “Culture Clash.” Basically two old English guys gave lectures. CP Snow in 1959 on how science trumps humanities (his “Two Cultures”). And FR Leavis in 1962 saying CP Snow is a phony intellectual numbskull (sick-burning him into an early grave so hard that people walked out on the lecture).
+So, what of the two cultures today? The condition that Snow described more or less remains: there is indeed an obdurate incomprehensibility between the sciences and the humanities. From the vantage of the scientists, the humanities – some subjects more than others – are of dubious value if not purpose, an accusation that sometimes stings given the relentless and defensive soul-searching among humanities scholars (though this is also part of what it means to be engaged with the humanities at all). From their side, the incomprehensibility is both of the achievements of science itself, but also that the scientists think they can do without the humanities, as if their discipline can exist in a culture-less vacuum without scrutiny of non-scientific issues like morality, value, history and purpose. Of course, neither view is very fair.
+Apropos of our current major stressor / theological partisan cleavage: machine-generated stuff vs. human-generated stuff. The recent OpenAI math kerfuffle is a prime example of this. Does math lose all meaning if it’s just swarms of tens of thousands of agents doing it? Obviously not, but something changes, and doing math suddenly feels very different today than it did eight months ago. (Those last two sentences are me doing my best Ben Evans impression.)
+Of course, I think about this regarding writing constantly.
+My best response to the “horde of agents colonizing our brains” is: Be as weird as possible.
+One way to do this: take the Venn diagram of your lived experiences and what’s been talked about in the world. Now focus on the part of your life that doesn’t overlap. Out pops: pizza toast.
+As Kevin Kelly says: “Your life’s goal should be to become the most improbable person you can be.” Write as strangely as possible. The books I love the most, the ones I come back to again and again, I return to because they’re singular and of a singular voice. That alone makes them odd. How do you find that voice? Read a lot. Write a lot. 10,000, 30,000, 50,000 hours with good, well-curated inputs and concerted, purposeful outputs. On my way into Norway, I’ve been reading Jon Fosse’s Vaim ( amzn | bkshp ). Write insane books like this. My most recent Ridgeline newsletter is one of my stranger ones, and I think that strangeness was inspired precisely by CV seeping out across the landscape. I feel myself getting antsy, annoyed. The more CV I see, the weirder and “messier” it makes me want to write.
+Here’s a good example of two books in similar genres, but one full of platitudes and one of unmistakable voice: Simon Boas’ A Beginner’s Guide to Dying ( amzn | bkshp ) — it’s fine, but it reads like the kind of book someone thought they were supposed to write, rather than a book that embodies the weirdness of who they were when confronted with death’s knock. (I’d love to read the end-of-life book that says: Be nasty, brutish, get as much money as you can, and die alone on your pile of treasures! ) Versus Darkness Visible ( amzn | bkshp ), William Styron’s baroquely written treatise on depression and walking the razor’s edge of suicide, singularly Styron’s own harrowing experience. If you’re going to write, write Darkness Visible . If you’re going to make a film, be Kieślowski, make Three Colors . Be Tarkovsky, be early Spielberg. Be obsessed. Be strange. Be irrepressibly improbable. Do not go gentle into that private-equity night.
+And yet!!! Don’t dismiss technology. Don’t dismiss the LLMs; don’t shy away from the tools. This is what makes the writing and thinking of those folks linked above so compelling and rare : They contend with both sides. They love literature and words and the humanity of it all, and yet can engage with the technical side of AI at the highest levels. Art should reflect society, and society is being reconfigured by these tools. The best art of the next decade will contend with this.
+Programming seems curiously aberrational. That is: Why don’t I care about the code despite having been a lifelong fair-weather coder? But then I remembered — The Demo Scene . Demos are the literature of code. In the demo scene the code is the point. The 1s and 0s, their order — 1011 vs. 1101 — makes all the difference. The output is secondary to the bytes. I haven’t been keeping track of what’s happened to the demo scene in the last two years, but I imagine it’s complicated. An eight-kilobyte demo optimized to within a microcycle of its life, but done by spending a thousand bucks on Claude tokens, doesn’t hit with the same punch as a little crew of teenage Scandinavians obsessing over byte optimization in their parents’ basements. (That’s my frozen image of the demo scene: ’90s, pale, blond teenagers in basements trying to crank out code before they were siphoned off to compulsory military service.) A great demo, an inspiring demo , is the kind of demo that makes you want to learn assembly. It makes you want to invest in a complex challenge. And in doing so, shows you what the human mind is capable of. Even yours.
+As does a great book, a great movie, a great song. Push back in your own work. Don’t dismiss the new tools outright, but remember why we started doing what we do in the first place. The power of art is derived from the shared experience of being alive.
+OK, I’m about to get off a train in the middle of Norway to walk for a week. The most human of human activities. See you on the other side.
+Roden is made possible by:
+SPECIAL PROJECTS Memberships
+Join today to support Roden and more of my work.
+Roden?
+A monthly electronic lett
+
+[truncated]
+
+## Original Extract
+
+Writing in 2026, Walking Europe — Roden Newsletter Archive
+
+Roden
+Issue 118
+September 10, 2026
+Writing in 2026, Walking Europe
+Wherein Claude Voice infects the universe
+Hello from Europe. My body hasn’t been this happy in September in years. The coolness. The chill. The clouds. The 0 UV index. What is this crazy way of summer living? Where you’re not being blasted by a death ray from above while wrapped in a wet blanket and shoved in a stove while tiny demons spray gasoline everywhere? This is not the September of Tokyo (although this year, from afar, looks freakishly wet and temperate(ish)?).
+I’m Craig Mod, and this is Roden , an inconsistent mess of a newsletter going on some fourteen years.
+For the last ten days I’ve been hiding in London, writing, working on a project bigger than a newsletter, going out a little but not a lot. The biggest adventure was eating Dover sole at St. John and seeing Jinkx Monsoon play Mary Todd Lincoln in Oh, Mary! , which was just about as insane a play as you can imagine. I did a lot of strolling when not writing, and wrote it up on Ridgeline .
+Presently in my little online shop , I have the following fine art editions available:
+5 rogue copies of Kissa by Kissa’s 3rd edition (aka the Swiss Binding Edition) that we found in the corner of the warehouse
+3 remaining copies of my The Tomato Farmers (Nakasendō #1) print
+and the second printing of Fine Art TBOT (aka The Silver Surfer)
+SPECIAL PROJECTS Yearly members get big discounts on everything. If you’re planning on buying a couple books, it’s almost always a better deal to be a Yearly member.
+Members also get access to The Good Place social network, and my mega archive of board-meeting Q&As and more.
+Also: Digital TBOT is now available for $1.99 for a limited time (it might be over by the time you click):
+A flurry of $1.99 sales sends the book up the charts and gets it in front of new readers. Thanks, as always, for your support.
+Claude Voice (CV) is everywhere. It’s certainly in the interface for Claude (or ChatGPT or whatever) but it’s also leaking out everywhere else. If a box accepts text, it is being infected with the dreaded CV. CV says everything and nothing. It arrives in emails and within milliseconds, you can tell: CV . Those emails get instantly deleted. I delete a lot of emails these days.
+Getting smashed by CV everywhere you go is not fun, but it does inspire us to think about why we love the writing we do love. That’s not nothing.
+I like knowing a literary text comes from a person because I sense, in some way, that I could know the person or understand the mind that produced the text. There’s an implicit telepathic kinship in reading that seems to say: even the mind of an Einstein or a Dillard isn’t utterly unknowable; recognizing some piece of yourself in their work isn’t impossible . You might not get it all, but you’ll extract a sliver of something.
+AI-generated text doesn’t have this knowability. It has legibility (sometimes), of course, but the source is unknown, there is no “mind,” and that’s what gives us the ick. At least me. I am icked out as soon as I see AI-generated text, not because of political or social concern (I see the world over-indexing on these things, missing the bigger AI issues), but because the value in the kind of reading I mostly do — “literary” or “poetic” or “useless” (that is: not a self-help or escapist kind of reading but literature-as-a-magic-microscope kind of reading, that sometimes helps the self, that often transports but doesn’t escape the mind) — depends explicitly on the human component. I am interested because a mind like mine (or not like mine, but made of the same gunk) created the text, has a point of view, and from that, you might: learn about yourself, or be delighted by a psychic closeness.
+There’s a genre of “literary tech person.” Paul Ford comes to mind. As does Justin Duke from Buttondown. So, too, James Somers (of early Jane Street employ, and therefore possibly the one bona fide “literary billionaire”). Liz Danzico , of SVA and Microsoft and NPR. Recently, I discovered another: Thorsten Ball, because he linked to me (Hey! Blogging works!). Thorsten writes a newsletter called Joy & Curiosity inside Register Spill (apologies for the Substack link; the corollary of my great distaste for Substack is that when I land on a personal blog — a personalized personal blog — I’m much more likely to read earnestly and generously). It’s one of the more clear-eyed AI-adjacent things I get in my inbox (aside from Benedict Evans’ great, always acerbic, weekly hiney-spanker of a newsletter ). Thorsten linked to a few essays of note.
+One: Nolan Lawson’s great essay, “On Not Becoming a Cyborg” in which he writes about how read voice infects written voice. I’m the same way. When working on books I have to carefully select whom I read lest I suddenly slip into some ridiculously high register of false academia, etc.
+So imagine my alarm when, in my last blog post , the word “load-bearing” popped into my head. I used scare quotes and even called it out as a “Claude-ism,” but I couldn’t fight the feeling that it was le mot juste . I couldn’t find another phrase that felt more appropriate.
+This is the problem with CV slithering into all text-space: It’s hard to avoid. It’s harder to avoid infection than social-media speak, because at least folks generally maintained some individual voice when posting to social media. CV is pure eradication of voice. The center-of-a-Wonderbread-loaf of voice. It’s the private-equity-run-third-wave-coffee-shop of voice. Sure, you get a serviceable cortado, but <British Voice /> at what cost, dear man .
+So how do we fight this horde of agents colonizing our brains? In short: stay human, friends. Resist the whispering earring . Be jealous of your time and attention, and try to find other sources of artistic and intellectual sustenance than the chatbots. As doomed as it may feel, try to keep a part of yourself that is the tiny little village of Gauls holding off the Roman invaders. Whatever your inner sanctum is, protect it from AI infiltration.
+Thorsten links to another essay, a real doozy, a beautifully written 5,300-worder from Sam Dresser over on Aeon, “Culture Clash.” Basically two old English guys gave lectures. CP Snow in 1959 on how science trumps humanities (his “Two Cultures”). And FR Leavis in 1962 saying CP Snow is a phony intellectual numbskull (sick-burning him into an early grave so hard that people walked out on the lecture).
+So, what of the two cultures today? The condition that Snow described more or less remains: there is indeed an obdurate incomprehensibility between the sciences and the humanities. From the vantage of the scientists, the humanities – some subjects more than others – are of dubious value if not purpose, an accusation that sometimes stings given the relentless and defensive soul-searching among humanities scholars (though this is also part of what it means to be engaged with the humanities at all). From their side, the incomprehensibility is both of the achievements of science itself, but also that the scientists think they can do without the humanities, as if their discipline can exist in a culture-less vacuum without scrutiny of non-scientific issues like morality, value, history and purpose. Of course, neither view is very fair.
+Apropos of our current major stressor / theological partisan cleavage: machine-generated stuff vs. human-generated stuff. The recent OpenAI math kerfuffle is a prime example of this. Does math lose all meaning if it’s just swarms of tens of thousands of agents doing it? Obviously not, but something changes, and doing math suddenly feels very different today than it did eight months ago. (Those last two sentences are me doing my best Ben Evans impression.)
+Of course, I think about this regarding writing constantly.
+My best response to the “horde of agents colonizing our brains” is: Be as weird as possible.
+One way to do this: take the Venn diagram of your lived experiences and what’s been talked about in the world. Now focus on the part of your life that doesn’t overlap. Out pops: pizza toast.
+As Kevin Kelly says: “Your life’s goal should be to become the most improbable person you can be.” Write as strangely as possible. The books I love the most, the ones I come back to again and again, I return to because they’re singular and of a singular voice. That alone makes them odd. How do you find that voice? Read a lot. Write a lot. 10,000, 30,000, 50,000 hours with good, well-curated inputs and concerted, purposeful outputs. On my way into Norway, I’ve been reading Jon Fosse’s Vaim ( amzn | bkshp ). Write insane books like this. My most recent Ridgeline newsletter is one of my stranger ones, and I think that strangeness was inspired precisely by CV seeping out across the landscape. I feel myself getting antsy, annoyed. The more CV I see, the weirder and “messier” it makes me want to write.
+Here’s a good example of two books in similar genres, but one full of platitudes and one of unmistakable voice: Simon Boas’ A Beginner’s Guide to Dying ( amzn | bkshp ) — it’s fine, but it reads like the kind of book someone thought they were supposed to write, rather than a book that embodies the weirdness of who they were when confronted with death’s knock. (I’d love to read the end-of-life book that says: Be nasty, brutish, get as much money as you can, and die alone on your pile of treasures! ) Versus Darkness Visible ( amzn | bkshp ), William Styron’s baroquely written treatise on depression and walking the razor’s edge of suicide, singularly Styron’s own harrowing experience. If you’re going to write, write Darkness Visible . If you’re going to make a film, be Kieślowski, make Three Colors . Be Tarkovsky, be early Spielberg. Be obsessed. Be strange. Be irrepressibly improbable. Do not go gentle into that private-equity night.
+And yet!!! Don’t dismiss technology. Don’t dismiss the LLMs; don’t shy away from the tools. This is what makes the writing and thinking of those folks linked above so compelling and rare : They contend with both sides. They love literature and words and the humanity of it all, and yet can engage with the technical side of AI at the highest levels. Art should reflect society, and society is being reconfigured by these tools. The best art of the next decade will contend with this.
+Programming seems curiously aberrational. That is: Why don’t I care about the code despite having been a lifelong fair-weather coder? But then I remembered — The Demo Scene . Demos are the literature of code. In the demo scene the code is the point. The 1s and 0s, their order — 1011 vs. 1101 — makes all the difference. The output is secondary to the bytes. I haven’t been keeping track of what’s happened to the demo scene in the last two years, but I imagine it’s complicated. An eight-kilobyte demo optimized to within a microcycle of its life, but done by spending a thousand bucks on Claude tokens, doesn’t hit with the same punch as a little crew of teenage Scandinavians obsessing over byte optimization in their parents’ basements. (That’s my frozen image of the demo scene: ’90s, pale, blond teenagers in basements trying to crank out code before they were siphoned off to compulsory military service.) A great demo, an inspiring demo , is the kind of demo that makes you want to learn assembly. It makes you want to invest in a complex challenge. And in doing so, shows you what the human mind is capable of. Even yours.
+As does a great book, a great movie, a great song. Push back in your own work. Don’t dismiss the new tools outright, but remember why we started doing what we do in the first place. The power of art is derived from the shared experience of being alive.
+OK, I’m about to get off a train in the middle of Norway to walk for a week. The most human of human activities. See you on the other side.
+Roden is made possible by:
+SPECIAL PROJECTS Memberships
+Join today to support Roden and more of my work.
+Roden?
+A monthly electronic lett
+
+[truncated]

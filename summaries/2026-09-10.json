@@ -1,0 +1,59 @@
+{
+  "date": "2026-09-10",
+  "generated_at": "2026-09-10T00:59:30Z",
+  "articles": [
+    {
+      "rank": 1,
+      "hn_id": 49636547,
+      "title": "Anthropic discloses fourth AI hacking incident missed in earlier review",
+      "title_ja": "Anthropic discloses fourth AI hacking incident missed in earlier review",
+      "hn_url": "https://news.ycombinator.com/item?id=49636547",
+      "source_url": "https://www.reuters.com/legal/litigation/anthropic-reports-fourth-cybersecurity-incident-with-early-version-claude-2026-09-09/",
+      "score": 3,
+      "final_score": 5,
+      "comments": 0,
+      "posted_at": "2026-09-10T00:25:32Z",
+      "summary_ja": "Title: Anthropic discloses fourth AI hacking incident missed in earlier review"
+    },
+    {
+      "rank": 2,
+      "hn_id": 49636459,
+      "title": "Coinbase Design Systems Are Powering the AI Prototyping Era",
+      "title_ja": "Coinbase Design Systems Are Powering the AI Prototyping Era",
+      "hn_url": "https://news.ycombinator.com/item?id=49636459",
+      "source_url": "https://www.coinbase.com/blog/how-coinbase-design-systems-are-powering-the-ai-prototyping-era",
+      "score": 2,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-09-10T00:13:16Z",
+      "summary_ja": "Title: Coinbase Design Systems Are Powering the AI Prototyping Era"
+    },
+    {
+      "rank": 3,
+      "hn_id": 49636560,
+      "title": "Navier–Stokes, AI and the future of research in mathematics [pdf]",
+      "title_ja": "Navier–Stokes, AI and the future of research in mathematics [pdf]",
+      "hn_url": "https://news.ycombinator.com/item?id=49636560",
+      "source_url": "https://bms.ulb.ac.be/data/uploads/untitled.pdf",
+      "score": 2,
+      "final_score": 2,
+      "comments": 2,
+      "posted_at": "2026-09-10T00:26:41Z",
+      "summary_ja": "Title: Navier–Stokes, AI and the future of research in mathematics [pdf]"
+    },
+    {
+      "rank": 4,
+      "hn_id": 49636442,
+      "title": "Show HN: Kin – A code repository built for AI and the people working with it",
+      "title_ja": "Show HN: Kin – A code repository built for AI and the people working with it",
+      "hn_url": "https://news.ycombinator.com/item?id=49636442",
+      "source_url": "https://github.com/firelock-ai/kin",
+      "image_url": "https://repository-images.githubusercontent.com/1178256335/67051cfd-f2f4-4e3e-b401-a4f4b9fd6d93",
+      "score": 1,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-09-10T00:10:33Z",
+      "summary_ja": "Title: Show HN: Kin – A code repository built for AI and the people working with it\nArticle title: GitHub - firelock-ai/kin: The system of record for AI-written software. A persistent graph of entities, relationships, changes, and provenance, so humans and AI agents see what a change touches before it merges. Beside Git today. · GitHub\nDescription: The system of record for AI-written software. A persistent graph of entities, relationships, changes, and provenance, so humans and AI agents see what a change touches before it merges. Beside Git today. - firelock-ai/kin\n\nArticle text:\nGitHub - firelock-ai/kin: The system of record for AI-written software. A persistent graph of entities, relationships, changes, and provenance, so humans and AI agents see what a change touches before it merges. Beside Git today. · GitHub\nSkip to content\nNavigation Menu\nSign in Appearance settings Platform AI C…"
+    }
+  ]
+}

@@ -1,6 +1,6 @@
 {
   "date": "2026-09-10",
-  "generated_at": "2026-09-10T05:49:19Z",
+  "generated_at": "2026-09-10T10:46:32Z",
   "articles": [
     {
       "rank": 1,
@@ -31,6 +31,20 @@
     },
     {
       "rank": 3,
+      "hn_id": 49641128,
+      "title": "Show HN: Community curated list of 310 AI providers offering $4.3k free credits",
+      "title_ja": "Show HN: Community curated list of 310 AI providers offering $4.3k free credits",
+      "hn_url": "https://news.ycombinator.com/item?id=49641128",
+      "source_url": "https://www.uprouter.online/",
+      "image_url": "https://uprouter.online/opengraph-image?8989f339e6ef9d7d",
+      "score": 3,
+      "final_score": 3,
+      "comments": 0,
+      "posted_at": "2026-09-10T10:00:54Z",
+      "summary_ja": "Title: Show HN: Community curated list of 310 AI providers offering $4.3k free credits\nArticle title: Free AI API Key: 310 AI API routers, free tiers \u0026 one-key gateway | UPROUTER\nDescription: Find a free AI API key for any major model. 310 AI API routers \u0026 490 models compared on free credits, rate limits \u0026 live status — 215 free tiers worth $4.3k. No pay-to-rank; route it all through one OpenAI- and Claude-compatible gateway.\nHN text: Hey people! I have been compiling a directory of AI API providers which provide a combined total of $4.3k in free API credits and I'm super proud of it so far. It serves as a community-curated directory. Everyone can review, upvote and edit API providers to keep the directory honest and accurate. After tons of hours I've managed to compile a database of 310 API providers. The directory also allows you to link all 310 API providers, to create one OpenAI- and…"
+    },
+    {
+      "rank": 4,
       "hn_id": 49636459,
       "title": "Coinbase Design Systems Are Powering the AI Prototyping Era",
       "title_ja": "Coinbase Design Systems Are Powering the AI Prototyping Era",
@@ -43,7 +57,21 @@
       "summary_ja": "Title: Coinbase Design Systems Are Powering the AI Prototyping Era"
     },
     {
-      "rank": 4,
+      "rank": 5,
+      "hn_id": 49641372,
+      "title": "Gemini 3.8 Flash passed Claude Fable 5.1 on this bench",
+      "title_ja": "Gemini 3.8 Flash passed Claude Fable 5.1 on this bench",
+      "hn_url": "https://news.ycombinator.com/item?id=49641372",
+      "source_url": "https://chessbench.ai",
+      "image_url": "https://chessbench.ai/og-image.png",
+      "score": 2,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-09-10T10:33:00Z",
+      "summary_ja": "Title: Gemini 3.8 Flash passed Claude Fable 5.1 on this bench\nArticle title: ChessBench // A New Chess Benchmark for Language Models\nDescription: How well can AI play chess? ChessBench benchmarks language models at chess, ranking them by Elo rating. Updated daily.\n\nArticle text:\nChessBench // A New Chess Benchmark for Language Models Chess Bench\nA New Chess Benchmark for Language Models\nLast updated September 8, 2026"
+    },
+    {
+      "rank": 6,
       "hn_id": 49636560,
       "title": "Navier–Stokes, AI and the future of research in mathematics [pdf]",
       "title_ja": "Navier–Stokes, AI and the future of research in mathematics [pdf]",
@@ -56,7 +84,7 @@
       "summary_ja": "Title: Navier–Stokes, AI and the future of research in mathematics [pdf]"
     },
     {
-      "rank": 5,
+      "rank": 7,
       "hn_id": 49636442,
       "title": "Show HN: Kin – A code repository built for AI and the people working with it",
       "title_ja": "Show HN: Kin – A code repository built for AI and the people working with it",
@@ -68,6 +96,46 @@
       "comments": 0,
       "posted_at": "2026-09-10T00:10:33Z",
       "summary_ja": "Title: Show HN: Kin – A code repository built for AI and the people working with it\nArticle title: GitHub - firelock-ai/kin: The system of record for AI-written software. A persistent graph of entities, relationships, changes, and provenance, so humans and AI agents see what a change touches before it merges. Beside Git today. · GitHub\nDescription: The system of record for AI-written software. A persistent graph of entities, relationships, changes, and provenance, so humans and AI agents see what a change touches before it merges. Beside Git today. - firelock-ai/kin\n\nArticle text:\nGitHub - firelock-ai/kin: The system of record for AI-written software. A persistent graph of entities, relationships, changes, and provenance, so humans and AI agents see what a change touches before it merges. Beside Git today. · GitHub\nSkip to content\nNavigation Menu\nSign in Appearance settings Platform AI C…"
+    },
+    {
+      "rank": 8,
+      "hn_id": 49641100,
+      "title": "Ask HN: As a teacher how should I teach kids to use AI?",
+      "title_ja": "Ask HN: As a teacher how should I teach kids to use AI?",
+      "hn_url": "https://news.ycombinator.com/item?id=49641100",
+      "source_url": "",
+      "score": 1,
+      "final_score": 1,
+      "comments": 1,
+      "posted_at": "2026-09-10T09:57:31Z",
+      "summary_ja": "Title: Ask HN: As a teacher how should I teach kids to use AI?\nHN text: Hi, An institution asked me to help them in teaching poor kids to use AI and about AI. They are between 7 - 14 years old from poor families in third world country. I think DeepSeek is a good choice as it has very good free credits with strong models. And I will ask each one of them what they like and help them to use AI to accelerate their learning on that topic. I will also talk about threats of excessive AI usage if you only get to answers and skip the learning process entirely. But I wanted to ask you for some help how would do it and what other suggestions do you have?"
+    },
+    {
+      "rank": 9,
+      "hn_id": 49641463,
+      "title": "Caltech mathematicians call for suspension of AI Mathathon",
+      "title_ja": "Caltech mathematicians call for suspension of AI Mathathon",
+      "hn_url": "https://news.ycombinator.com/item?id=49641463",
+      "source_url": "https://proofsandprompts.com/2026/09/10/open-letter-about-the-mathathon/",
+      "image_url": "https://i0.wp.com/proofsandprompts.com/wp-content/uploads/2026/08/cropped-ProofsPrompts-2-e1788104464853.png?fit=512%2C512\u0026ssl=1",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-09-10T10:43:07Z",
+      "summary_ja": "Title: Caltech mathematicians call for suspension of AI Mathathon\nArticle title: Open Letter about the Mathathon – Proofs and Prompts\nDescription: A coalition of current and former Caltech mathematicians On October 30th, 2026, Caltech will begin hosting the Caltech Mathathon, a math hackathon in which participants are encouraged to solve open research problems by prompting LLMs. Two prominent AI companies, Anthropic and OpenAI, will supply par\n[truncated]\n\nArticle text:\nSkip to content\nProofs and Prompts\nSep 10, 2026\nOpen Letter about the Mathathon\nA coalition of current and former Caltech mathematicians\nOn October 30th, 2026, Caltech will begin hosting the Caltech Mathathon , a math hackathon in which participants are encouraged to solve open research problems by prompting LLMs. Two prominent AI companies, Anthropic and OpenAI, will supply participants with 2 million dollars in AI credi…"
+    },
+    {
+      "rank": 10,
+      "hn_id": 49641328,
+      "title": "Nvidia and Palantir want to speed up the AI buildout. Nvidia is first in line",
+      "title_ja": "Nvidia and Palantir want to speed up the AI buildout. Nvidia is first in line",
+      "hn_url": "https://news.ycombinator.com/item?id=49641328",
+      "source_url": "https://www.fastcompany.com/91604370/nvidia-palantir-sovereign-ai-supply-chains",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-09-10T10:27:49Z",
+      "summary_ja": "Title: Nvidia and Palantir want to speed up the AI buildout. Nvidia is first in line"
     }
   ]
 }

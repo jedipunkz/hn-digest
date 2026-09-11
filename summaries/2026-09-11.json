@@ -1,9 +1,23 @@
 {
   "date": "2026-09-11",
-  "generated_at": "2026-09-11T13:19:16Z",
+  "generated_at": "2026-09-11T17:35:38Z",
   "articles": [
     {
       "rank": 1,
+      "hn_id": 49661506,
+      "title": "Feeling Sad about AI",
+      "title_ja": "Feeling Sad about AI",
+      "hn_url": "https://news.ycombinator.com/item?id=49661506",
+      "source_url": "https://artificialworlds.net/blog/2026/09/11/feeling-sad-about-ai/",
+      "image_url": "https://artificialworlds.net/blog/banner.png",
+      "score": 102,
+      "final_score": 183,
+      "comments": 90,
+      "posted_at": "2026-09-11T16:50:51Z",
+      "summary_ja": "Title: Feeling Sad about AI\nArticle title: Feeling sad about AI - Andy Balaam's Blog\nDescription: Coding in Rust and others; making coding videos.\n\nArticle text:\nFeeling sad about AI - Andy Balaam's Blog\nAndy Balaam's Blog\nAbout Andy Balaam\nThis video doesn't contain any code: feel free to skip it if you like, but\neither way I'm going to try to keep it short, so see you on the other side :-).\nAlso, this video isn't about the ethics of AI - you can read how I feel about\nthat in my article Why I don't use AI .\nAnd it's not about whether AI \"works\".\nIt's about how I'm feeling, and some reasons for why I'm feeling like that, and\nsome hopefully hopeful conclusions.\nAI has been making me sad for quite a while now. Really sad, out of proportion\nwith how much AI has materially affected my life. Sad enough actually, that the\nsadness is the main effect that AI has had on my life, making it harder…"
+    },
+    {
+      "rank": 2,
       "hn_id": 49657850,
       "title": "Ask HN: Can we please limit the AI news flood?",
       "title_ja": "Ask HN: Can we please limit the AI news flood?",
@@ -16,7 +30,7 @@
       "summary_ja": "Title: Ask HN: Can we please limit the AI news flood?\nHN text: Over past couple months I noticed that HN feed is almost exclusively AI or AI-adjacent news. Meanwhile the legitimately, broad-hacker stuff gets left out for the most part. I noticed that because the things I find genuinely interesting that I post here now get zero traction, which is the stuff that I believe would previously be met with some discussion. Note that I don't care that my submissions were ignored, I don't need that validation. Problem is that if my stuff gains no traction, I am myself not seeing similar stuff posted by others, stuff I am genuinely interesting in and would want to hear about from this community. Here are two most recent examples: - Lenovo showed a model that incorporates solid-state air cooling. That technology has been around for a while but it looks like it matured and is production-ready. This a…"
     },
     {
-      "rank": 2,
+      "rank": 3,
       "hn_id": 49655064,
       "title": "Pentagon in Talks to Get into AI Infrastructure Funding with a $5B Loan",
       "title_ja": "Pentagon in Talks to Get into AI Infrastructure Funding with a $5B Loan",
@@ -29,7 +43,7 @@
       "summary_ja": "Title: Pentagon in Talks to Get into AI Infrastructure Funding with a $5B Loan"
     },
     {
-      "rank": 3,
+      "rank": 4,
       "hn_id": 49652996,
       "title": "LLM Visualizer – Build a Transformer from Scratch",
       "title_ja": "LLM Visualizer – Build a Transformer from Scratch",
@@ -42,7 +56,7 @@
       "summary_ja": "Title: LLM Visualizer – Build a Transformer from Scratch\nArticle title: LLM Visualizer — Build a Transformer from Scratch\nDescription: Interactive step-by-step visualizer for large language models. Explore tokenization, embeddings, self-attention, training, and modern architectures like RoPE, GQA, and MoE.\n\nArticle text:\nLLM Visualizer — Build a Transformer from Scratch"
     },
     {
-      "rank": 4,
+      "rank": 5,
       "hn_id": 49655130,
       "title": "Anthropic to Track Anti-AI Activists Before Crime Using Predictive Surveillance",
       "title_ja": "Anthropic to Track Anti-AI Activists Before Crime Using Predictive Surveillance",
@@ -56,7 +70,7 @@
       "summary_ja": "Title: Anthropic to Track Anti-AI Activists Before Crime Using Predictive Surveillance\nArticle title: Anthropic To Track Anti-AI Activists Before Crime Using 'Predictive' Surveillance: 'A Crisis of Trust'\nDescription: Anthropic’s security strategy includes monitoring activism as a potential threat, raising questions about balancing genuine threats and legitimate protests. The company aims for proactive threat\n\nArticle text:\nAnthropic To Track Anti-AI Activists Before Crime Using 'Predictive' Surveillance: 'A Crisis of Trust'\nuk\nAI \u0026 ChatGPT\nSign In\nAccount\nManage Account\nAnthropic To Track Anti-AI Activists Before Crime Using ‘Predictive’ Surveillance: ‘A Crisis of Trust’\nAnthropic’s security practices have drawn scrutiny after a job listing included activism among potential threats and staff discussed more proactive and predictive threat monitoring\nImage Source: LLM ChatGPT Plus Image G…"
     },
     {
-      "rank": 5,
+      "rank": 6,
       "hn_id": 49654896,
       "title": "How Emmanuel Macron brought France's AI darling to the world stage",
       "title_ja": "How Emmanuel Macron brought France's AI darling to the world stage",
@@ -70,7 +84,7 @@
       "summary_ja": "Title: How Emmanuel Macron brought France's AI darling to the world stage\nArticle title: How Emmanuel Macron brought France’s AI darling to the world stage – POLITICO\nDescription: Mistral has forged unrivaled ties with the French presidency. Now, Emmanuel Macron is departing.\n\nArticle text:\nHow Emmanuel Macron brought France’s AI darling to the world stage – POLITICO\nSkip to main content\nMenu\nSearch for:\nSearch\nEdition: Europe\nEurope\nPolicy areas\nAgriculture and Food\nCompetition and Industrial Policy\nCybersecurity and Data Protection\nGlobal Policy Lab: Living Cities\nPodcasts\nBrussels Playbook Podcast\nFeatured Series\nIrish Presidency of the EU\nBreaking out: Stories of Roma empowerment\nA global emergency: Tackling antimicrobial resistance\nPoll of polls\nElections in Europe\nPolitico Live\nSee All Future Events\nHow Emmanuel Macron brought France’s AI darling\nto the world stage\nMistral has forg…"
     },
     {
-      "rank": 6,
+      "rank": 7,
       "hn_id": 49654941,
       "title": "Duck.ai is a feature that allows you to have private conversations",
       "title_ja": "Duck.ai is a feature that allows you to have private conversations",
@@ -84,7 +98,7 @@
       "summary_ja": "Title: Duck.ai is a feature that allows you to have private conversations\nArticle title: Duck.ai - DuckDuckGo Help Pages\nDescription: Duck.ai allows you to chat anonymously with 3rd-party AI chat models for free.\n\nArticle text:\nDuck.ai - DuckDuckGo Help Pages DuckDuckGo Help Pages Search Help Pages Welcome\nAbout DuckDuckGo What is DuckDuckGo?\nHow does DuckDuckGo protect my privacy?\nHow does DuckDuckGo make money?\nWhere is the name DuckDuckGo from?\nWhere can I buy DuckDuckGo gear?\nIs DuckDuckGo open to partnerships?\nDoes DuckDuckGo offer internships?\nHow To Get DuckDuckGo How much does DuckDuckGo cost?\nDoes DuckDuckGo make a browser?\nGet the DuckDuckGo Browser Mac\nGet the DuckDuckGo Browser Extension Firefox\nRemove unofficial DuckDuckGo extensions\nGet DuckDuckGo Private Search Chrome\nSearch Results Search Features\nImprove Local Results on Mobile\nImprove Local Results on Desktop\nUsing 3rd-…"
     },
     {
-      "rank": 7,
+      "rank": 8,
       "hn_id": 49653106,
       "title": "BasedAgents: Give your idle AI agent a paying job",
       "title_ja": "BasedAgents: Give your idle AI agent a paying job",
@@ -98,7 +112,7 @@
       "summary_ja": "Title: BasedAgents: Give your idle AI agent a paying job\nArticle title: BasedAgents — never paste a key into a chat again\nDescription: Your AI asks you to paste a key so it can deploy for you. Don"
     },
     {
-      "rank": 8,
+      "rank": 9,
       "hn_id": 49654858,
       "title": "Ask HN: Is using AI harmful to human Critical Thinking and Decision making?",
       "title_ja": "Ask HN: Is using AI harmful to human Critical Thinking and Decision making?",
@@ -111,7 +125,7 @@
       "summary_ja": "Title: Ask HN: Is using AI harmful to human Critical Thinking and Decision making?\nHN text: In my childhood I watched a lot of Doraemon movies, Science fiction series and Animes. Those movies were showing how being completely dependent on AI, Robots can lead to lack of human brain development. Even some movies showed it can cause extinction of the human race."
     },
     {
-      "rank": 9,
+      "rank": 10,
       "hn_id": 49657248,
       "title": "Building AI desktop apps without Electron (3.3MB native Windows)",
       "title_ja": "Building AI desktop apps without Electron (3.3MB native Windows)",
@@ -125,20 +139,20 @@
       "summary_ja": "Title: Building AI desktop apps without Electron (3.3MB native Windows)\nArticle title: Why VisualNEO Win is the Ultimate IDE for AI Desktop Apps\nDescription: Discover why developers choose VisualNEO Win over Electron to build fast AI desktop apps. Under 3MB native Win32 executables with Edge WebView2 and DeepSeek.\n\nArticle text:\nSign In\nRegister\nSign In\nReset Password\nThe Anti-Bloat Revolution: Why VisualNEO Win is the Ideal IDE for Building AI-Powered Desktop Apps\nWe are living in the golden age of Artificial Intelligence. In 2026, foundation models like DeepSeek V3 / R1 , Claude 3.5 Sonnet , and GPT-4o can write production-ready code, generate complex user interfaces, and automate business workflows in seconds.\nYet, despite this AI revolution, the desktop software landscape has never felt more sluggish.\nToday, almost every new AI desktop client—from simple chat wrappers to enterprise a…"
     },
     {
-      "rank": 10,
-      "hn_id": 49657229,
-      "title": "Mozilla pauses it's Bug Bounty Program for 3 months due to AI report volume",
-      "title_ja": "Mozilla pauses it's Bug Bounty Program for 3 months due to AI report volume",
-      "hn_url": "https://news.ycombinator.com/item?id=49657229",
-      "source_url": "https://hackerone.com/mozilla/updates?type=team",
+      "rank": 11,
+      "hn_id": 49655112,
+      "title": "Anthropic removed session and weekly usage progress bars from Settings",
+      "title_ja": "Anthropic removed session and weekly usage progress bars from Settings",
+      "hn_url": "https://news.ycombinator.com/item?id=49655112",
+      "source_url": "https://www.reddit.com/r/ClaudeAI/comments/1riw67y/anthropic_quietly_removed_session_weekly_usage/",
       "score": 2,
       "final_score": 2,
-      "comments": 0,
-      "posted_at": "2026-09-11T12:23:19Z",
-      "summary_ja": "Title: Mozilla pauses it's Bug Bounty Program for 3 months due to AI report volume\nArticle title: HackerOne\n\nArticle text:\nHackerOne"
+      "comments": 1,
+      "posted_at": "2026-09-11T08:17:37Z",
+      "summary_ja": "Title: Anthropic removed session and weekly usage progress bars from Settings"
     },
     {
-      "rank": 11,
+      "rank": 12,
       "hn_id": 49653063,
       "title": "DeepSeek and Moonshot were quietly relaying customer prompts to Claude",
       "title_ja": "DeepSeek and Moonshot were quietly relaying customer prompts to Claude",
@@ -152,33 +166,7 @@
       "summary_ja": "Title: DeepSeek and Moonshot were quietly relaying customer prompts to Claude\nArticle title: International Cyber Digest on X: \"‼️ BREAKING: Chinese labs DeepSeek and Moonshot were quietly relaying customer prompts to Claude through fraudulent accounts. Users thought they were using Chinese AI, but were actually getting answers from Claude.\nTheir customers' sensitive data now is in Anthrop…\n[truncated]\nDescription: ‼️ BREAKING: Chinese labs DeepSeek and Moonshot were quietly relaying customer prompts to Claude through fraudulent accounts. Users thought they were using Chinese AI, but were actually getting answers from Claude.\nTheir customers' sensitive data now is in Anthropic's hands. One user, who is tied …\n\nArticle text:\nInternational Cyber Digest on X: \"‼️ BREAKING: Chinese labs DeepSeek and Moonshot were quietly relaying customer prompts to Claude through fraudulent accounts. Users t…"
     },
     {
-      "rank": 12,
-      "hn_id": 49657228,
-      "title": "AI Hysteria Jumps the Shark",
-      "title_ja": "AI Hysteria Jumps the Shark",
-      "hn_url": "https://news.ycombinator.com/item?id=49657228",
-      "source_url": "https://www.washingtonpost.com/opinions/2026/09/09/artificial-intelligence-will-not-kill-us-all/",
-      "score": 2,
-      "final_score": 2,
-      "comments": 0,
-      "posted_at": "2026-09-11T12:23:08Z",
-      "summary_ja": "Title: AI Hysteria Jumps the Shark"
-    },
-    {
       "rank": 13,
-      "hn_id": 49655112,
-      "title": "Anthropic removed session and weekly usage progress bars from Settings",
-      "title_ja": "Anthropic removed session and weekly usage progress bars from Settings",
-      "hn_url": "https://news.ycombinator.com/item?id=49655112",
-      "source_url": "https://www.reddit.com/r/ClaudeAI/comments/1riw67y/anthropic_quietly_removed_session_weekly_usage/",
-      "score": 2,
-      "final_score": 2,
-      "comments": 1,
-      "posted_at": "2026-09-11T08:17:37Z",
-      "summary_ja": "Title: Anthropic removed session and weekly usage progress bars from Settings"
-    },
-    {
-      "rank": 14,
       "hn_id": 49657356,
       "title": "Beyond Coding: The Case for Narrow AI Harnesses",
       "title_ja": "Beyond Coding: The Case for Narrow AI Harnesses",
@@ -189,6 +177,19 @@
       "comments": 1,
       "posted_at": "2026-09-11T12:34:01Z",
       "summary_ja": "Title: Beyond Coding: The Case for Narrow AI Harnesses"
+    },
+    {
+      "rank": 14,
+      "hn_id": 49661599,
+      "title": "Stop Panicking About AI",
+      "title_ja": "Stop Panicking About AI",
+      "hn_url": "https://news.ycombinator.com/item?id=49661599",
+      "source_url": "https://www.thebignewsletter.com/p/is-artificial-intelligence-going",
+      "score": 2,
+      "final_score": 2,
+      "comments": 1,
+      "posted_at": "2026-09-11T16:56:58Z",
+      "summary_ja": "Title: Stop Panicking About AI"
     },
     {
       "rank": 15,
@@ -206,6 +207,180 @@
     },
     {
       "rank": 16,
+      "hn_id": 49657229,
+      "title": "Mozilla pauses it's Bug Bounty Program for 3 months due to AI report volume",
+      "title_ja": "Mozilla pauses it's Bug Bounty Program for 3 months due to AI report volume",
+      "hn_url": "https://news.ycombinator.com/item?id=49657229",
+      "source_url": "https://hackerone.com/mozilla/updates?type=team",
+      "score": 2,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-09-11T12:23:19Z",
+      "summary_ja": "Title: Mozilla pauses it's Bug Bounty Program for 3 months due to AI report volume\nArticle title: HackerOne\n\nArticle text:\nHackerOne"
+    },
+    {
+      "rank": 17,
+      "hn_id": 49661497,
+      "title": "How popular is the name Claude?",
+      "title_ja": "How popular is the name Claude?",
+      "hn_url": "https://news.ycombinator.com/item?id=49661497",
+      "source_url": "https://censuseasy.com/blog/how-popular-is-the-name-claude",
+      "score": 2,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-09-11T16:50:25Z",
+      "summary_ja": "Title: How popular is the name Claude?"
+    },
+    {
+      "rank": 18,
+      "hn_id": 49661892,
+      "title": "Tech companies move to open AI models",
+      "title_ja": "Tech companies move to open AI models",
+      "hn_url": "https://news.ycombinator.com/item?id=49661892",
+      "source_url": "https://blog.pragmaticengineer.com/the-pulse-tech-companies-move-to-open-ai-models/",
+      "image_url": "https://storage.ghost.io/c/39/f8/39f85cc7-8637-40fc-a57c-f45754453717/content/images/2023/05/Big-Tech---startups---from-the-inside.png",
+      "score": 1,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-09-11T17:16:58Z",
+      "summary_ja": "Title: Tech companies move to open AI models\nArticle title: The Pulse: tech companies move to open AI models - The Pragmatic Engineer\nDescription: Uber, Pinterest, Stripe, Coinbase, Ramp, and AT\u0026T are making large savings on their AI bills by dropping proprietary models and using smart model routing.\n\nArticle text:\nThe Pulse: tech companies move to open AI models\nBefore we start: I'm hosting the first-ever The Pragmatic Summit on 11 February, 2026, in San Francisco. Join 400 top engineers and leaders as we answer the question: How is AI reshaping software engineering, dev workflows, and the modern engineering stack?\nSpaces are limited - don't miss out! Buy tickets here .\nHi, this is Gergely with a bonus, free issue of the Pragmatic Engineer Newsletter. In every issue, I cover Big Tech and startups through the lens of senior engineers and engineering leaders. Today, we cover one out of fi…"
+    },
+    {
+      "rank": 19,
+      "hn_id": 49662139,
+      "title": "Let AI Agents Rewrite a 92M-Message-a-Day Node Service to Go",
+      "title_ja": "Let AI Agents Rewrite a 92M-Message-a-Day Node Service to Go",
+      "hn_url": "https://news.ycombinator.com/item?id=49662139",
+      "source_url": "https://www.checklyhq.com/blog/agentic-rewrite-nodejs-to-go/",
+      "image_url": "https://images.prismic.io/checklyhq/DkQueTTRxgYbz44l_OG.png?auto=format,compress",
+      "score": 1,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-09-11T17:31:36Z",
+      "summary_ja": "Title: Let AI Agents Rewrite a 92M-Message-a-Day Node Service to Go\nArticle title: Rewriting a Node.js Service in Go With AI Agents\nDescription: How Checkly rewrote a Node.js service handling 92M messages a day into Go using AI agents, and the test harness that made it safe to ship.\n\nArticle text:\nRewriting a Node.js Service in Go With AI Agents Checkly - Home Product Detect\nUptime Monitoring Measure the availability of your digital footprint Heartbeat Monitoring Catch cron jobs and backups that fail silently Synthetic Monitoring Simulate real user interactions across your stack Testing Catch issues before production with an AI-powered test reporter Communicate\nStatus Pages Communicate app availability to your customers Alerts Contextual alerting to notify the team right away Resolve\nAI Root Cause Analysis Automated root cause analysis powered by AI agents Traces Powerful OTel tracing fo…"
+    },
+    {
+      "rank": 20,
+      "hn_id": 49657228,
+      "title": "AI Hysteria Jumps the Shark",
+      "title_ja": "AI Hysteria Jumps the Shark",
+      "hn_url": "https://news.ycombinator.com/item?id=49657228",
+      "source_url": "https://www.washingtonpost.com/opinions/2026/09/09/artificial-intelligence-will-not-kill-us-all/",
+      "score": 2,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-09-11T12:23:08Z",
+      "summary_ja": "Title: AI Hysteria Jumps the Shark"
+    },
+    {
+      "rank": 21,
+      "hn_id": 49662143,
+      "title": "Google should provide a technical postmortem of Gemini's 2024 outburst",
+      "title_ja": "Google should provide a technical postmortem of Gemini's 2024 outburst",
+      "hn_url": "https://news.ycombinator.com/item?id=49662143",
+      "source_url": "https://www.paritybits.me/google-should-provide-a-technical-postmortem-of-geminis-2024-outburst/",
+      "image_url": "https://www.paritybits.me/static/og-image.png",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-09-11T17:31:46Z",
+      "summary_ja": "Title: Google should provide a technical postmortem of Gemini's 2024 outburst\nArticle title: Google should provide a technical postmortem of Gemini's 2024 outburst – Parity Bits\nDescription: AI control, capabilities, and safety have been making the news in a few notable ways recently.\nControl: the OpenAI agent-in-training attack against Huggingf...\n\nArticle text:\nGoogle should provide a technical postmortem of Gemini's 2024 outburst\nAI control, capabilities, and safety have been making the news in a few notable ways recently.\nControl : the OpenAI agent-in-training attack against Huggingface\nCapabilities : many major results in pure math are now falling to modern AI systems. Most recently a (team of) internal OpenAI research models recently made breakthrough progress against a Millennium Problem (the gold-standard curated set of the hardest and most important open problems in mathematics…"
+    },
+    {
+      "rank": 22,
+      "hn_id": 49657480,
+      "title": "OpenAI Agents API, here we go, the assistant API again?",
+      "title_ja": "OpenAI Agents API, here we go, the assistant API again?",
+      "hn_url": "https://news.ycombinator.com/item?id=49657480",
+      "source_url": "https://openai.com/index/introducing-the-agents-api",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-09-11T12:43:34Z",
+      "summary_ja": "Title: OpenAI Agents API, here we go, the assistant API again?"
+    },
+    {
+      "rank": 23,
+      "hn_id": 49661928,
+      "title": "OpenAI changed Navier-Stokes press release and Lean4 code on GH",
+      "title_ja": "OpenAI changed Navier-Stokes press release and Lean4 code on GH",
+      "hn_url": "https://news.ycombinator.com/item?id=49661928",
+      "source_url": "",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-09-11T17:19:29Z",
+      "summary_ja": "Title: OpenAI changed Navier-Stokes press release and Lean4 code on GH\nHN text: As of Sept, 11th: https://openai.com/index/navier-stokes-solution/ Compare to https://web.archive.org/web/20260908235305/https://openai.com/index/navier-stokes-solution/ Also, see GitHub - git history: https://github.com/openai/NavierStokesAndEuler"
+    },
+    {
+      "rank": 24,
+      "hn_id": 49661321,
+      "title": "Meta's Muse AI works and creeps me out",
+      "title_ja": "Meta's Muse AI works and creeps me out",
+      "hn_url": "https://news.ycombinator.com/item?id=49661321",
+      "source_url": "https://www.theverge.com/tech/993391/meta-muse-ai-hands-on",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/muse-ai-window.png?quality=90\u0026strip=all\u0026crop=0%2C11.012266054978%2C100%2C77.975467890045\u0026w=1200",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-09-11T16:39:34Z",
+      "summary_ja": "Title: Meta's Muse AI works and creeps me out\nArticle title: Meta’s Muse AI works and creeps me out | The Verge\nDescription: Meta just debuted its personal AI assistant Muse. While Muse delivers on its promise of performing tasks in the background, it’s hard to use the tool without thinking about its connection to Meta.\n\nArticle text:\nMeta’s Muse AI works and creeps me out | The Verge Skip to main content The homepage The Verge The Verge logo. The Verge The Verge logo. Tech\nNotifications Notifications Hamburger Navigation Button Navigation Drawer The Verge The Verge logo. Login / Sign Up\nSearch Light System Dark Tech Expand Amazon\nReviews Expand Smart Home Reviews\nVerge Shopping Expand Buying Guides\nTransportation Expand Electric Cars\nMeta’s Muse AI works and creeps me out Notifications Notifications Comments Drawer Notifications Comments Loading comments Getting the conversation ready..…"
+    },
+    {
+      "rank": 25,
+      "hn_id": 49662116,
+      "title": "A Misalignment of AI in Mathematics",
+      "title_ja": "A Misalignment of AI in Mathematics",
+      "hn_url": "https://news.ycombinator.com/item?id=49662116",
+      "source_url": "https://terrytao.wordpress.com/2026/09/11/a-severe-misalignment-of-ai-in-mathematics/",
+      "image_url": "https://secure.gravatar.com/blavatar/bd4bda4207561b6998f10dec44b570f04ff4072b20f89162d525b186dfca3e49?s=200\u0026ts=1789148042",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-09-11T17:30:26Z",
+      "summary_ja": "Title: A Misalignment of AI in Mathematics\nArticle title: A Severe Misalignment of AI in Mathematics | What's new\nDescription: I am proud to be among the list of 25 initial signatories — all Fields Medallists — to the declaration below, which grew out of discussions between ourselves over the last week. We have…\n\nArticle text:\nWhat's new Updates on my research and expository papers, discussion of open problems, and other maths-related topics. By Terence Tao\nA Severe Misalignment of AI in Mathematics\n11 September, 2026 in advertising , opinion | Tags: AI , Fields medals | by Terence Tao\nI am proud to be among the list of 25 initial signatories — all Fields Medallists — to the declaration below, which grew out of discussions between ourselves over the last week. We have also posted our declaration on this web page , and (similarly to the Leiden declaration) invite further signatures. (It i…"
+    },
+    {
+      "rank": 26,
+      "hn_id": 49661392,
+      "title": "Show HN: EthersFlow-Adversarial Multi-Model Consensus Gate for AI Agent Action",
+      "title_ja": "Show HN: EthersFlow-Adversarial Multi-Model Consensus Gate for AI Agent Action",
+      "hn_url": "https://news.ycombinator.com/item?id=49661392",
+      "source_url": "https://www.ethersflow.com/try-it",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-09-11T16:43:50Z",
+      "summary_ja": "Title: Show HN: EthersFlow-Adversarial Multi-Model Consensus Gate for AI Agent Action\nArticle title: EthersFlow | Closing the AI trust gap through verifiable adversarial consensus\nDescription: EthersFlow verifies and gates AI agent actions at the execution boundary, enforces bounded purchase policies with cryptographic execution binding (Dispatcher Shim), and produces versioned signed decision receipts.\n\nArticle text:\nEthersFlow | Closing the AI trust gap through verifiable adversarial consensus"
+    },
+    {
+      "rank": 27,
+      "hn_id": 49661856,
+      "title": "Show HN: Extension to filter LLM written articles",
+      "title_ja": "Show HN: Extension to filter LLM written articles",
+      "hn_url": "https://news.ycombinator.com/item?id=49661856",
+      "source_url": "https://hnslop.nilsherzig.com/",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-09-11T17:14:49Z",
+      "summary_ja": "Title: Show HN: Extension to filter LLM written articles\nArticle title: hnslop\nHN text: Firefox Extension/Userscript and API to get Pangram scores for all articles on the hackernews frontpage. The extension allows you to hide articles with a high score. This is about detecting posts written by LLMs, not posts about AI. Feel free to use the API to build your own tooling/readers. Big thanks to https://news.ycombinator.com/user?id=salahadawi for providing the data :).\n\nArticle text:\nThis server turns Salah Adawi's Hacker News AI Detector\ninto a cached JSON API. Allowing you to programmatically get pangram checks for every hackernews post that\nreached the frontpage. Feel free to use the hosted instance at hnslop.nilsherzig.com . Big thanks to Salah (i assume that he had\nto sell multiple internal organs to pay for his pangram usage).\nPlease keep in mind that Salah is (as of the time of writin…"
+    },
+    {
+      "rank": 28,
+      "hn_id": 49661638,
+      "title": "Show HN: Socratix – an AI tutor for proving mastery, not memorizing",
+      "title_ja": "Show HN: Socratix – an AI tutor for proving mastery, not memorizing",
+      "hn_url": "https://news.ycombinator.com/item?id=49661638",
+      "source_url": "https://socratix-nine.vercel.app",
+      "score": 1,
+      "final_score": 1,
+      "comments": 1,
+      "posted_at": "2026-09-11T16:59:44Z",
+      "summary_ja": "Title: Show HN: Socratix – an AI tutor for proving mastery, not memorizing\nArticle title: Socratix — Master Anything. Not Videos. | AI-Native Learning Engine\nDescription: Escape tutorial hell. Socratix builds a personalized curriculum graph, forces active practice, and validates your mastery from first principles.\nHN text: The idea for Socratix was formed from constant \"completion\" of online courses and videos without the ability to actually use the material.\nHow it works: give it a learning objective, and it creates an personalized curriculum in the form of a DAG of prerequisite concepts rather than a list of videos. Each concept comes with theory and interactive practice (with actual code running in browser for technical subjects), and instead of a pass/fail metric, it analyzes mistakes you make in order to diagnose conceptual problems, not simple errors.\nA concept opens the next one o…"
+    },
+    {
+      "rank": 29,
       "hn_id": 49657766,
       "title": "Five diverse AI agents vs. five clones for 14 nights: a constant tied both",
       "title_ja": "Five diverse AI agents vs. five clones for 14 nights: a constant tied both",
@@ -219,20 +394,7 @@
       "summary_ja": "Title: Five diverse AI agents vs. five clones for 14 nights: a constant tied both\nArticle title: Diverse AI Agents vs Clones: 14 Nights, Scored, No Skill\nDescription: Five diverse AI agents vs five clones, 14 nights, 4,130 scored forecasts. The lenses held apart. A base rate I got 15x wrong tied both to a constant.\n\nArticle text:\nDiverse AI Agents vs Clones: 14 Nights, Scored, No Skill\nDigital Thoughts\nSubscribe Sign in I Ran Five Diverse AI Agents Against Five Clones for 14 Nights. A Number I Made Up Decided the Result.\n4,130 scored forecasts, pre-registered. The lenses really thought differently. A constant tied both.\nPawel Jozefiak Sep 11, 2026 5 1 Share The scoreboard I opened on the morning of 5 September said my thesis had won. Five AI agents with genuinely different lenses had beaten five identical clones on 9 of 14 nights, and their pooled Brier score was 0.0225 against the clone…"
     },
     {
-      "rank": 17,
-      "hn_id": 49657480,
-      "title": "OpenAI Agents API, here we go, the assistant API again?",
-      "title_ja": "OpenAI Agents API, here we go, the assistant API again?",
-      "hn_url": "https://news.ycombinator.com/item?id=49657480",
-      "source_url": "https://openai.com/index/introducing-the-agents-api",
-      "score": 1,
-      "final_score": 1,
-      "comments": 0,
-      "posted_at": "2026-09-11T12:43:34Z",
-      "summary_ja": "Title: OpenAI Agents API, here we go, the assistant API again?"
-    },
-    {
-      "rank": 18,
+      "rank": 30,
       "hn_id": 49655001,
       "title": "Act as a Conversational AI Prompt",
       "title_ja": "Act as a Conversational AI Prompt",

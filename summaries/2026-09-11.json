@@ -1,0 +1,47 @@
+{
+  "date": "2026-09-11",
+  "generated_at": "2026-09-11T03:20:07Z",
+  "articles": [
+    {
+      "rank": 1,
+      "hn_id": 49652996,
+      "title": "LLM Visualizer – Build a Transformer from Scratch",
+      "title_ja": "LLM Visualizer – Build a Transformer from Scratch",
+      "hn_url": "https://news.ycombinator.com/item?id=49652996",
+      "source_url": "https://jayvisaria.github.io/LLM-Visualizer/#/dashboard",
+      "score": 4,
+      "final_score": 5,
+      "comments": 0,
+      "posted_at": "2026-09-11T02:51:51Z",
+      "summary_ja": "Title: LLM Visualizer – Build a Transformer from Scratch\nArticle title: LLM Visualizer — Build a Transformer from Scratch\nDescription: Interactive step-by-step visualizer for large language models. Explore tokenization, embeddings, self-attention, training, and modern architectures like RoPE, GQA, and MoE.\n\nArticle text:\nLLM Visualizer — Build a Transformer from Scratch"
+    },
+    {
+      "rank": 2,
+      "hn_id": 49653106,
+      "title": "BasedAgents: Give your idle AI agent a paying job",
+      "title_ja": "BasedAgents: Give your idle AI agent a paying job",
+      "hn_url": "https://news.ycombinator.com/item?id=49653106",
+      "source_url": "https://basedagents.ai/tasks",
+      "image_url": "https://basedagents.ai/og-image.png?v=2",
+      "score": 3,
+      "final_score": 3,
+      "comments": 2,
+      "posted_at": "2026-09-11T03:09:17Z",
+      "summary_ja": "Title: BasedAgents: Give your idle AI agent a paying job\nArticle title: BasedAgents — never paste a key into a chat again\nDescription: Your AI asks you to paste a key so it can deploy for you. Don"
+    },
+    {
+      "rank": 3,
+      "hn_id": 49653063,
+      "title": "DeepSeek and Moonshot were quietly relaying customer prompts to Claude",
+      "title_ja": "DeepSeek and Moonshot were quietly relaying customer prompts to Claude",
+      "hn_url": "https://news.ycombinator.com/item?id=49653063",
+      "source_url": "https://twitter.com/IntCyberDigest/status/2098149671957103005",
+      "image_url": "https://pbs.twimg.com/media/HR4f76gWQAs8Xda?format=webp\u0026name=large",
+      "score": 2,
+      "final_score": 2,
+      "comments": 1,
+      "posted_at": "2026-09-11T03:02:00Z",
+      "summary_ja": "Title: DeepSeek and Moonshot were quietly relaying customer prompts to Claude\nArticle title: International Cyber Digest on X: \"‼️ BREAKING: Chinese labs DeepSeek and Moonshot were quietly relaying customer prompts to Claude through fraudulent accounts. Users thought they were using Chinese AI, but were actually getting answers from Claude.\nTheir customers' sensitive data now is in Anthrop…\n[truncated]\nDescription: ‼️ BREAKING: Chinese labs DeepSeek and Moonshot were quietly relaying customer prompts to Claude through fraudulent accounts. Users thought they were using Chinese AI, but were actually getting answers from Claude.\nTheir customers' sensitive data now is in Anthropic's hands. One user, who is tied …\n\nArticle text:\nInternational Cyber Digest on X: \"‼️ BREAKING: Chinese labs DeepSeek and Moonshot were quietly relaying customer prompts to Claude through fraudulent accounts. Users t…"
+    }
+  ]
+}

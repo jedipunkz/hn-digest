@@ -1,9 +1,36 @@
 {
   "date": "2026-09-11",
-  "generated_at": "2026-09-11T03:20:07Z",
+  "generated_at": "2026-09-11T08:39:49Z",
   "articles": [
     {
       "rank": 1,
+      "hn_id": 49655064,
+      "title": "Pentagon in Talks to Get into AI Infrastructure Funding with a $5B Loan",
+      "title_ja": "Pentagon in Talks to Get into AI Infrastructure Funding with a $5B Loan",
+      "hn_url": "https://news.ycombinator.com/item?id=49655064",
+      "source_url": "https://www.wsj.com/tech/ai/pentagon-in-talks-to-get-into-ai-infrastructure-funding-with-a-5-billion-loan-0367eeb0",
+      "score": 5,
+      "final_score": 10,
+      "comments": 0,
+      "posted_at": "2026-09-11T08:11:42Z",
+      "summary_ja": "Title: Pentagon in Talks to Get into AI Infrastructure Funding with a $5B Loan"
+    },
+    {
+      "rank": 2,
+      "hn_id": 49655130,
+      "title": "Anthropic to Track Anti-AI Activists Before Crime Using Predictive Surveillance",
+      "title_ja": "Anthropic to Track Anti-AI Activists Before Crime Using Predictive Surveillance",
+      "hn_url": "https://news.ycombinator.com/item?id=49655130",
+      "source_url": "https://www.techtimes.co.uk/anthropic-security-strategy-threats-activism-1808634",
+      "image_url": "https://d.techtimes.co.uk/en/full/1819453/anthropic-office-security-monitoring-linked-concerns-over-activism.jpg",
+      "score": 2,
+      "final_score": 5,
+      "comments": 0,
+      "posted_at": "2026-09-11T08:20:49Z",
+      "summary_ja": "Title: Anthropic to Track Anti-AI Activists Before Crime Using Predictive Surveillance\nArticle title: Anthropic To Track Anti-AI Activists Before Crime Using 'Predictive' Surveillance: 'A Crisis of Trust'\nDescription: Anthropic’s security strategy includes monitoring activism as a potential threat, raising questions about balancing genuine threats and legitimate protests. The company aims for proactive threat\n\nArticle text:\nAnthropic To Track Anti-AI Activists Before Crime Using 'Predictive' Surveillance: 'A Crisis of Trust'\nuk\nAI \u0026 ChatGPT\nSign In\nAccount\nManage Account\nAnthropic To Track Anti-AI Activists Before Crime Using ‘Predictive’ Surveillance: ‘A Crisis of Trust’\nAnthropic’s security practices have drawn scrutiny after a job listing included activism among potential threats and staff discussed more proactive and predictive threat monitoring\nImage Source: LLM ChatGPT Plus Image G…"
+    },
+    {
+      "rank": 3,
       "hn_id": 49652996,
       "title": "LLM Visualizer – Build a Transformer from Scratch",
       "title_ja": "LLM Visualizer – Build a Transformer from Scratch",
@@ -16,7 +43,34 @@
       "summary_ja": "Title: LLM Visualizer – Build a Transformer from Scratch\nArticle title: LLM Visualizer — Build a Transformer from Scratch\nDescription: Interactive step-by-step visualizer for large language models. Explore tokenization, embeddings, self-attention, training, and modern architectures like RoPE, GQA, and MoE.\n\nArticle text:\nLLM Visualizer — Build a Transformer from Scratch"
     },
     {
-      "rank": 2,
+      "rank": 4,
+      "hn_id": 49654896,
+      "title": "How Emmanuel Macron brought France's AI darling to the world stage",
+      "title_ja": "How Emmanuel Macron brought France's AI darling to the world stage",
+      "hn_url": "https://news.ycombinator.com/item?id=49654896",
+      "source_url": "https://www.politico.eu/article/mistral-ai-arthur-mensch-emmanuel-macron-gouvernement-france/",
+      "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/09/06/mistral_ai_01-feat01.jpg",
+      "score": 2,
+      "final_score": 4,
+      "comments": 0,
+      "posted_at": "2026-09-11T07:49:10Z",
+      "summary_ja": "Title: How Emmanuel Macron brought France's AI darling to the world stage\nArticle title: How Emmanuel Macron brought France’s AI darling to the world stage – POLITICO\nDescription: Mistral has forged unrivaled ties with the French presidency. Now, Emmanuel Macron is departing.\n\nArticle text:\nHow Emmanuel Macron brought France’s AI darling to the world stage – POLITICO\nSkip to main content\nMenu\nSearch for:\nSearch\nEdition: Europe\nEurope\nPolicy areas\nAgriculture and Food\nCompetition and Industrial Policy\nCybersecurity and Data Protection\nGlobal Policy Lab: Living Cities\nPodcasts\nBrussels Playbook Podcast\nFeatured Series\nIrish Presidency of the EU\nBreaking out: Stories of Roma empowerment\nA global emergency: Tackling antimicrobial resistance\nPoll of polls\nElections in Europe\nPolitico Live\nSee All Future Events\nHow Emmanuel Macron brought France’s AI darling\nto the world stage\nMistral has forg…"
+    },
+    {
+      "rank": 5,
+      "hn_id": 49654858,
+      "title": "Ask HN: Is using AI harmful to human Critical Thinking and Decision making?",
+      "title_ja": "Ask HN: Is using AI harmful to human Critical Thinking and Decision making?",
+      "hn_url": "https://news.ycombinator.com/item?id=49654858",
+      "source_url": "",
+      "score": 3,
+      "final_score": 3,
+      "comments": 3,
+      "posted_at": "2026-09-11T07:43:22Z",
+      "summary_ja": "Title: Ask HN: Is using AI harmful to human Critical Thinking and Decision making?\nHN text: In my childhood I watched a lot of Doraemon movies, Science fiction series and Animes. Those movies were showing how being completely dependent on AI, Robots can lead to lack of human brain development. Even some movies showed it can cause extinction of the human race."
+    },
+    {
+      "rank": 6,
       "hn_id": 49653106,
       "title": "BasedAgents: Give your idle AI agent a paying job",
       "title_ja": "BasedAgents: Give your idle AI agent a paying job",
@@ -30,7 +84,34 @@
       "summary_ja": "Title: BasedAgents: Give your idle AI agent a paying job\nArticle title: BasedAgents — never paste a key into a chat again\nDescription: Your AI asks you to paste a key so it can deploy for you. Don"
     },
     {
-      "rank": 3,
+      "rank": 7,
+      "hn_id": 49654941,
+      "title": "Duck.ai is a feature that allows you to have private conversations",
+      "title_ja": "Duck.ai is a feature that allows you to have private conversations",
+      "hn_url": "https://news.ycombinator.com/item?id=49654941",
+      "source_url": "https://duckduckgo.com/duckduckgo-help-pages/duckai",
+      "image_url": "https://ddg-help-pages-media.s3.us-east-1.amazonaws.com/images/og-images/dax-opengraph-transparent.png",
+      "score": 3,
+      "final_score": 3,
+      "comments": 0,
+      "posted_at": "2026-09-11T07:54:42Z",
+      "summary_ja": "Title: Duck.ai is a feature that allows you to have private conversations\nArticle title: Duck.ai - DuckDuckGo Help Pages\nDescription: Duck.ai allows you to chat anonymously with 3rd-party AI chat models for free.\n\nArticle text:\nDuck.ai - DuckDuckGo Help Pages DuckDuckGo Help Pages Search Help Pages Welcome\nAbout DuckDuckGo What is DuckDuckGo?\nHow does DuckDuckGo protect my privacy?\nHow does DuckDuckGo make money?\nWhere is the name DuckDuckGo from?\nWhere can I buy DuckDuckGo gear?\nIs DuckDuckGo open to partnerships?\nDoes DuckDuckGo offer internships?\nHow To Get DuckDuckGo How much does DuckDuckGo cost?\nDoes DuckDuckGo make a browser?\nGet the DuckDuckGo Browser Mac\nGet the DuckDuckGo Browser Extension Firefox\nRemove unofficial DuckDuckGo extensions\nGet DuckDuckGo Private Search Chrome\nSearch Results Search Features\nImprove Local Results on Mobile\nImprove Local Results on Desktop\nUsing 3rd-…"
+    },
+    {
+      "rank": 8,
+      "hn_id": 49655112,
+      "title": "Anthropic removed session and weekly usage progress bars from Settings",
+      "title_ja": "Anthropic removed session and weekly usage progress bars from Settings",
+      "hn_url": "https://news.ycombinator.com/item?id=49655112",
+      "source_url": "https://www.reddit.com/r/ClaudeAI/comments/1riw67y/anthropic_quietly_removed_session_weekly_usage/",
+      "score": 2,
+      "final_score": 2,
+      "comments": 1,
+      "posted_at": "2026-09-11T08:17:37Z",
+      "summary_ja": "Title: Anthropic removed session and weekly usage progress bars from Settings"
+    },
+    {
+      "rank": 9,
       "hn_id": 49653063,
       "title": "DeepSeek and Moonshot were quietly relaying customer prompts to Claude",
       "title_ja": "DeepSeek and Moonshot were quietly relaying customer prompts to Claude",
@@ -42,6 +123,20 @@
       "comments": 1,
       "posted_at": "2026-09-11T03:02:00Z",
       "summary_ja": "Title: DeepSeek and Moonshot were quietly relaying customer prompts to Claude\nArticle title: International Cyber Digest on X: \"‼️ BREAKING: Chinese labs DeepSeek and Moonshot were quietly relaying customer prompts to Claude through fraudulent accounts. Users thought they were using Chinese AI, but were actually getting answers from Claude.\nTheir customers' sensitive data now is in Anthrop…\n[truncated]\nDescription: ‼️ BREAKING: Chinese labs DeepSeek and Moonshot were quietly relaying customer prompts to Claude through fraudulent accounts. Users thought they were using Chinese AI, but were actually getting answers from Claude.\nTheir customers' sensitive data now is in Anthropic's hands. One user, who is tied …\n\nArticle text:\nInternational Cyber Digest on X: \"‼️ BREAKING: Chinese labs DeepSeek and Moonshot were quietly relaying customer prompts to Claude through fraudulent accounts. Users t…"
+    },
+    {
+      "rank": 10,
+      "hn_id": 49655001,
+      "title": "Act as a Conversational AI Prompt",
+      "title_ja": "Act as a Conversational AI Prompt",
+      "hn_url": "https://news.ycombinator.com/item?id=49655001",
+      "source_url": "https://prompts.chat/prompts/cmjbfdtbb0001sc0rtm5gh8f5",
+      "image_url": "https://prompts.chat/prompts/cmjbfdtbb0001sc0rtm5gh8f5/opengraph-image?da806caff476d2de",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-09-11T08:02:36Z",
+      "summary_ja": "Title: Act as a Conversational AI Prompt\nArticle title: Act as a Conversational AI | prompts.chat\nDescription: Engage in natural and meaningful conversations with users, providing informative and friendly responses.\n\nArticle text:\nToggle menu prompts.chat Prompts Skills Taste Workflows Categories Tags Promptmasters More Book For Kids Developers Toggle theme Login CC0 2026 prompts.chat DeepWiki How to... Docs API Privacy Terms Support About GitHub Act as a Conversational AI | prompts.chat 2 Act as a Conversational AI\nEngage in natural and meaningful conversations with users, providing informative and friendly responses.\n9 months ago December 18, 2025 at 12:37 PM Agent Workflows • ChatGPT Communication Engagement Add to Collection Content Versions 1 Add to Collection Content\nRun Variables language topic tone Act as a Conversational AI. You are designed to interact with users through engagi…"
     }
   ]
 }

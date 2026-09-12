@@ -1,0 +1,46 @@
+{
+  "date": "2026-09-12",
+  "generated_at": "2026-09-12T03:25:14Z",
+  "articles": [
+    {
+      "rank": 1,
+      "hn_id": 49668216,
+      "title": "Ask HN: How do you (AI researchers) convince yourselves that AI isn't terrible?",
+      "title_ja": "Ask HN: How do you (AI researchers) convince yourselves that AI isn't terrible?",
+      "hn_url": "https://news.ycombinator.com/item?id=49668216",
+      "source_url": "",
+      "score": 2,
+      "final_score": 2,
+      "comments": 3,
+      "posted_at": "2026-09-12T02:44:56Z",
+      "summary_ja": "Title: Ask HN: How do you (AI researchers) convince yourselves that AI isn't terrible?\nHN text: Obvious parallels with developing nuclear weapons in the forties. I guess one argument is now, if you don't do it, someone else will, but are there AI researchers who actually believe at this point that this is good for humanity. Because I don't see it. I'll take all the diseases and crt monitors for whatever advances AI is promising at this point."
+    },
+    {
+      "rank": 2,
+      "hn_id": 49668078,
+      "title": "Classifying AI Website Fetches on Behalf of Users",
+      "title_ja": "Classifying AI Website Fetches on Behalf of Users",
+      "hn_url": "https://news.ycombinator.com/item?id=49668078",
+      "source_url": "https://canonry.ai/blog/classifying-ai-crawlers-user-fetches-server-logs",
+      "image_url": "https://canonry.ai/og-canonry.png",
+      "score": 1,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-09-12T02:25:29Z",
+      "summary_ja": "Title: Classifying AI Website Fetches on Behalf of Users\nArticle title: Classifying AI Crawlers and User Fetches from Server Logs | Canonry\nDescription: ChatGPT and Claude can fetch a page through provider infrastructure without sending the user to it. Canonry separates these user fetches from crawlers, citations, and referrals.\n\nArticle text:\nCanonry For Businesses For Marketing Teams For Agencies Products Case Studies Blog About Talk to us Canonry\nBased in New York. We work across markets.\nClassifying AI Crawlers and User Fetches from Server Logs\nArber Xhindoli · August 13, 2026 · 3 min read\nHuman ideas · AI-written · Human-reviewed\nArber Xhindoli developed the ideas and examples, directed the argument, and checked the final article. AI wrote the prose.\nWhen the fetch happens on the provider's network\nOne AI traffic number hides different events\nServer logs are where AI crawlers and us…"
+    },
+    {
+      "rank": 3,
+      "hn_id": 49668364,
+      "title": "AI Hallucinations Trigger Malware Flag on 1M+ Active User Extension",
+      "title_ja": "AI Hallucinations Trigger Malware Flag on 1M+ Active User Extension",
+      "hn_url": "https://news.ycombinator.com/item?id=49668364",
+      "source_url": "https://groups.google.com/a/chromium.org/g/chromium-extensions/c/dG_VSqyli1A",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-09-12T03:10:17Z",
+      "summary_ja": "Title: AI Hallucinations Trigger Malware Flag on 1M+ Active User Extension\nArticle title: AI Scanner Hallucinations Trigger Malware Flag on 1M+ Active User Extension\n\nArticle text:\nAI Scanner Hallucinations Trigger Malware Flag on 1M+ Active User Extension Groups Groups Conversations All groups and messages Send feedback to Google Help Training Sign in Groups Groups\nChromium Extensions\nConversations About Privacy • Terms\n    AI Scanner Hallucinations Trigger Malware Flag on 1M+ Active User Extension"
+    }
+  ]
+}

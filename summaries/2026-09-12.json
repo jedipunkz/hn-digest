@@ -1,6 +1,6 @@
 {
   "date": "2026-09-12",
-  "generated_at": "2026-09-12T16:02:13Z",
+  "generated_at": "2026-09-12T18:59:30Z",
   "articles": [
     {
       "rank": 1,
@@ -17,6 +17,47 @@
     },
     {
       "rank": 2,
+      "hn_id": 49675247,
+      "title": "Anthropic CEO Says It's Time to Slow AI Model Advances",
+      "title_ja": "Anthropic CEO Says It's Time to Slow AI Model Advances",
+      "hn_url": "https://news.ycombinator.com/item?id=49675247",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-09-12/anthropic-ceo-says-it-s-time-to-slow-pace-of-improving-ai-models",
+      "score": 18,
+      "final_score": 23,
+      "comments": 16,
+      "posted_at": "2026-09-12T18:07:07Z",
+      "summary_ja": "Title: Anthropic CEO Says It's Time to Slow AI Model Advances"
+    },
+    {
+      "rank": 3,
+      "hn_id": 49675270,
+      "title": "'We must slow the pace': CEO of Anthropic calls for an AI slowdown",
+      "title_ja": "'We must slow the pace': CEO of Anthropic calls for an AI slowdown",
+      "hn_url": "https://news.ycombinator.com/item?id=49675270",
+      "source_url": "https://www.theguardian.com/technology/2026/sep/12/we-must-slow-the-pace-ceo-of-anthropic-calls-for-an-ai-slowdown",
+      "image_url": "https://i.guim.co.uk/img/media/bb84259074a2c64ebed9b2c958f9985eb618beca/482_0_5532_4425/master/5532.jpg?width=1200\u0026height=630\u0026quality=85\u0026auto=format\u0026fit=crop\u0026precrop=40:21,offset-x50,offset-y0\u0026overlay-align=bottom%2Cleft\u0026overlay-width=100p\u0026overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc\u0026enable=upscale\u0026s=eabdf342f3645d8d82cc718116dd7cb4",
+      "score": 7,
+      "final_score": 18,
+      "comments": 3,
+      "posted_at": "2026-09-12T18:08:33Z",
+      "summary_ja": "Title: 'We must slow the pace': CEO of Anthropic calls for an AI slowdown\nArticle title: ‘We must slow the pace’: CEO of Anthropic calls for an AI slowdown | AI (artificial intelligence) | The Guardian\nDescription: In a social media post, Dario Amodei proposed a plan including third-party evaluations of AI systems\n\nArticle text:\nSkip to main content Skip to navigation Close dialogue 1 / 1 Next image Previous image Toggle caption Print subscriptions Newsletters Sign in US US edition\nHide expanded menu News View all News\nSearch input google-search Search\nSearch input google-search Search Search jobs\nDario Amodei said that AI development, if left unchecked, ‘could outrun our ability to understand and control’ it. Photograph: Bhawika Chhabra/Reuters View image in fullscreen Dario Amodei said that AI development, if left unchecked, ‘could outrun our ability to understand and control’ it. Phot…"
+    },
+    {
+      "rank": 4,
+      "hn_id": 49675489,
+      "title": "Dario Just Said Pump the Brakes on AI",
+      "title_ja": "Dario Just Said Pump the Brakes on AI",
+      "hn_url": "https://news.ycombinator.com/item?id=49675489",
+      "source_url": "https://captaincompliance.com/education/dario-just-proposed-slowing-ai-development-on-purpose/",
+      "image_url": "https://captaincompliance.com/wp-content/uploads/2026/09/screenshot-2026-09-12-at-2.03.30-pm.png",
+      "score": 4,
+      "final_score": 10,
+      "comments": 1,
+      "posted_at": "2026-09-12T18:26:54Z",
+      "summary_ja": "Title: Dario Just Said Pump the Brakes on AI\nArticle title: Dario Just Proposed Slowing AI Development on Purpose - Captain Compliance\nDescription: Just now Dario released a blog post titled: “We Must Pace the Frontier,” Anthropic co-founder and CEO Dario Amodei made a case that runs against the industry’s default instinct: frontier AI companies should deliberately slow the rate at which model capabilities advance, so that safety and alignment\n[truncated]\n\nArticle text:\nDario Just Proposed Slowing AI Development on Purpose - Captain Compliance\nSkip to content\nPlatform\nClose Platform\nOpen Platform\nCaptain Compliance Platform Overview\nGet an Overview of our all-in-one data privacy platform\nGet a real-time view of all the cookies on any website\nCentral place to manage your privacy policy tied to your consent and Cookie Policy\nManage consent for data privacy laws around the world\nEasily mana…"
+    },
+    {
+      "rank": 5,
       "hn_id": 49673344,
       "title": "Anthropic CEO calls for immediate slowdown in AI development",
       "title_ja": "Anthropic CEO calls for immediate slowdown in AI development",
@@ -29,7 +70,7 @@
       "summary_ja": "Title: Anthropic CEO calls for immediate slowdown in AI development"
     },
     {
-      "rank": 3,
+      "rank": 6,
       "hn_id": 49671342,
       "title": "Show HN: I wrote a book on using AI in game design production (free on GitHub)",
       "title_ja": "Show HN: I wrote a book on using AI in game design production (free on GitHub)",
@@ -43,7 +84,20 @@
       "summary_ja": "Title: Show HN: I wrote a book on using AI in game design production (free on GitHub)\nArticle title: GitHub - eremes81/game-design-ai-practice-en: Free book: AI Workflow for Game Designers — No Fabricated Numbers. Full text free in this repo (CC BY-NC-SA). English edition of the Korean print original (ISBN 979-11-12-21479-9). · GitHub\nDescription: Free book: AI Workflow for Game Designers — No Fabricated Numbers. Full text free in this repo (CC BY-NC-SA). English edition of the Korean print original (ISBN 979-11-12-21479-9). - eremes81/game-design-ai-practice-en\n\nArticle text:\nGitHub - eremes81/game-design-ai-practice-en: Free book: AI Workflow for Game Designers — No Fabricated Numbers. Full text free in this repo (CC BY-NC-SA). English edition of the Korean print original (ISBN 979-11-12-21479-9). · GitHub\nSkip to content\nNavigation Menu\nSign in Appearance settings Platform AI CODE CRE…"
     },
     {
-      "rank": 4,
+      "rank": 7,
+      "hn_id": 49675362,
+      "title": "AI Bubble Crashing Its Way into AI Abundance?",
+      "title_ja": "AI Bubble Crashing Its Way into AI Abundance?",
+      "hn_url": "https://news.ycombinator.com/item?id=49675362",
+      "source_url": "",
+      "score": 2,
+      "final_score": 4,
+      "comments": 1,
+      "posted_at": "2026-09-12T18:16:59Z",
+      "summary_ja": "Title: AI Bubble Crashing Its Way into AI Abundance?\nHN text: As we move into a world of maximum engagement over substance and hype over reality, it becomes more important than ever to sift through the noise and find the truth. This is especially true in today's AI industry. If you read Twitter, it sometimes seems like everyone believes AI is going to take over the world and everybody's jobs next year, or that the whole thing is just a giant bubble. At this point, most people have probably seen some version of the basic AI bubble theory: AI spending is a massive bubble, frontier labs are spending aggressively ahead of IPOs, and eventually the market will crash and everyone will return to reality. I'm exploring a different AI bubble scenario centered on the massive GPU and data center buildout of the past few years. I think the closest analogy may actually be the 2022 crypto crash, rather…"
+    },
+    {
+      "rank": 8,
       "hn_id": 49673057,
       "title": "Vals.ai Benchmark – International Olympiad in Informatics",
       "title_ja": "Vals.ai Benchmark – International Olympiad in Informatics",
@@ -57,20 +111,7 @@
       "summary_ja": "Title: Vals.ai Benchmark – International Olympiad in Informatics\nArticle title: IOI\nDescription: Informatics olympiad programming problems\n\nArticle text:\nInternational Olympiad in Informatics\nACCURACY Cost Alibaba Anthropic DeepSeek Google Meta OpenAI SpaceXAI zAI Showing latest, top \u0026 frontier models (19) Key Takeaways\nUnlike the saturated knowledge benchmarks, IOI still sharply separates models: GPT-6 Astra solves every problem in all three years, GPT-5.6 Sol (91.17%), Claude Fable 5.1 (90.78%) and GPT-5.6 Terra (87.61%) follow, and the twenty-six-model field then spreads across ninety points, down to 9.33%, so competitive-programming ability remains a real differentiator.\nThe agent sees only what a contestant sees: the statement, the sample grader and one sample. It has no tests, no internet and no submission feedback, so every point comes from code the model wrote and checked itself.…"
     },
     {
-      "rank": 5,
-      "hn_id": 49671538,
-      "title": "\"The CUDA Moat is Gone\" – TechTechPotato with AI\u0026 founder David Bennet [video]",
-      "title_ja": "\"The CUDA Moat is Gone\" – TechTechPotato with AI\u0026 founder David Bennet [video]",
-      "hn_url": "https://news.ycombinator.com/item?id=49671538",
-      "source_url": "https://www.youtube.com/watch?v=TiRxcPQNcBA",
-      "score": 3,
-      "final_score": 3,
-      "comments": 0,
-      "posted_at": "2026-09-12T12:14:22Z",
-      "summary_ja": "Title: \"The CUDA Moat is Gone\" – TechTechPotato with AI\u0026 founder David Bennet [video]\nArticle title: - YouTube\nDescription: Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.\n\nArticle text:\n- YouTube About Press Copyright Contact us Creators Advertise Developers Terms Privacy Policy \u0026 Safety How YouTube works Test new features NFL Sunday Ticket © 2026 Google LLC"
-    },
-    {
-      "rank": 6,
+      "rank": 9,
       "hn_id": 49671432,
       "title": "AI changing the calculus for Canadian students interested in comp sci",
       "title_ja": "AI changing the calculus for Canadian students interested in comp sci",
@@ -84,7 +125,20 @@
       "summary_ja": "Title: AI changing the calculus for Canadian students interested in comp sci\nArticle title: AI has changed the calculus for computer-science students, and schools that hope to teach them - The Globe and Mail\nDescription: Faced with the risk that artificial intelligence will drain the job market, some of Canada’s young coders are changing tack at university\n\nArticle text:\nArtificial intelligence is changing the calculus for Canadian students interested in computer science, and the schools that hope to teach them\nJust a few years ago, applying to a prestigious university computer science program might have been a no-brainer for a student like Mahimn Patel.\nMr. Patel, 18, built software for fun in high school, including an app that helped his classmates track their volunteer hours, and an artificial intelligence agent for realtors in Texas. During a recent video interview, he had multiple A…"
     },
     {
-      "rank": 7,
+      "rank": 10,
+      "hn_id": 49671538,
+      "title": "\"The CUDA Moat is Gone\" – TechTechPotato with AI\u0026 founder David Bennet [video]",
+      "title_ja": "\"The CUDA Moat is Gone\" – TechTechPotato with AI\u0026 founder David Bennet [video]",
+      "hn_url": "https://news.ycombinator.com/item?id=49671538",
+      "source_url": "https://www.youtube.com/watch?v=TiRxcPQNcBA",
+      "score": 3,
+      "final_score": 3,
+      "comments": 0,
+      "posted_at": "2026-09-12T12:14:22Z",
+      "summary_ja": "Title: \"The CUDA Moat is Gone\" – TechTechPotato with AI\u0026 founder David Bennet [video]\nArticle title: - YouTube\nDescription: Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.\n\nArticle text:\n- YouTube About Press Copyright Contact us Creators Advertise Developers Terms Privacy Policy \u0026 Safety How YouTube works Test new features NFL Sunday Ticket © 2026 Google LLC"
+    },
+    {
+      "rank": 11,
       "hn_id": 49673524,
       "title": "Show HN: MCP that gives Codex/Claude your SEO and AI visibility data",
       "title_ja": "Show HN: MCP that gives Codex/Claude your SEO and AI visibility data",
@@ -98,7 +152,7 @@
       "summary_ja": "Title: Show HN: MCP that gives Codex/Claude your SEO and AI visibility data\nArticle title: Bloomiro MCP: Connect Cursor, Claude, ChatGPT | Bloomiro\nDescription: Bloomiro MCP connects Cursor, Claude, and ChatGPT to live Google Search Console, AI mentions, competitor gaps, scans, and Action Center. Agent-ready SEO on every plan.\nHN text: What if questions like these just worked: How do I rank higher in Google and AI?\nWhere are my competitors showing up?\nWhich buyer prompts name them instead of us?\nWhat should I fix first? Now they do.\n\nArticle text:\nBloomiro MCP: Connect Cursor, Claude, ChatGPT | Bloomiro New: Actions and Insights New: Actions and Insights, where visibility turns into action Bloomiro Product How it works MCP Pricing Articles FAQ Sign in Start free trial Start free trial Model Context Protocol\nOptimization and action in your AI workflow.\nModel Context Protocol (MCP) connect…"
     },
     {
-      "rank": 8,
+      "rank": 12,
       "hn_id": 49668216,
       "title": "Ask HN: How do you (AI researchers) convince yourselves that AI isn't terrible?",
       "title_ja": "Ask HN: How do you (AI researchers) convince yourselves that AI isn't terrible?",
@@ -111,7 +165,7 @@
       "summary_ja": "Title: Ask HN: How do you (AI researchers) convince yourselves that AI isn't terrible?\nHN text: Obvious parallels with developing nuclear weapons in the forties. I guess one argument is now, if you don't do it, someone else will, but are there AI researchers who actually believe at this point that this is good for humanity. Because I don't see it. I'll take all the diseases and crt monitors for whatever advances AI is promising at this point."
     },
     {
-      "rank": 9,
+      "rank": 13,
       "hn_id": 49673528,
       "title": "Orcrist: A Coding Agent using LLM state machines",
       "title_ja": "Orcrist: A Coding Agent using LLM state machines",
@@ -125,75 +179,7 @@
       "summary_ja": "Title: Orcrist: A Coding Agent using LLM state machines\nArticle title: GitHub - simone20a/Orcrist: Orcrist is a DSL for state machines whose states are executed by an LLM, and a desktop coding agent that runs on it. · GitHub\nDescription: Orcrist is a DSL for state machines whose states are executed by an LLM, and a desktop coding agent that runs on it. - simone20a/Orcrist\n\nArticle text:\nGitHub - simone20a/Orcrist: Orcrist is a DSL for state machines whose states are executed by an LLM, and a desktop coding agent that runs on it. · GitHub\nSkip to content\nNavigation Menu\nSign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI\nGitHub Copilot app Direct agents from issue to merge\nMCP Registry Integrate external tools\nDEVELOPER WORKFLOWS Actions Automate any workflow\nCodespaces Instant dev environments\nCode Review Manage code changes\nCode Quality Enforce…"
     },
     {
-      "rank": 10,
-      "hn_id": 49671355,
-      "title": "Show HN: TattooPreview AI – a planning workflow for tattoo artist conversations",
-      "title_ja": "Show HN: TattooPreview AI – a planning workflow for tattoo artist conversations",
-      "hn_url": "https://news.ycombinator.com/item?id=49671355",
-      "source_url": "https://tattoopreviewai.com",
-      "image_url": "https://tattoopreviewai.com/og-image-v2.png",
-      "score": 2,
-      "final_score": 2,
-      "comments": 0,
-      "posted_at": "2026-09-12T11:46:14Z",
-      "summary_ja": "Title: Show HN: TattooPreview AI – a planning workflow for tattoo artist conversations\nArticle title: AI Tattoo Generator: Ideas, Stencils \u0026 Placement\nDescription: Use our AI Tattoo Generator to create original tattoo ideas, refine stencil-style linework, preview placement on body models, and prepare an artist brief.\n\nArticle text:\nAI Tattoo Generator: Ideas, Stencils \u0026 Placement Optional analytics Plausible counts aggregate page visits without cookies. Allow Google Analytics and Microsoft Clarity for additional usage insights?\nAI Tattoo Generator for a direction your artist can refine.\nStart with one free tattoo concept, then compare three thoughtful directions when you want to explore further and bring a clearer conversation to your tattoo artist.\nStart with one free concept, then compare three directions when your account has enough credits.\nA private, connected path from idea to an a…"
-    },
-    {
-      "rank": 11,
-      "hn_id": 49673222,
-      "title": "Exposing a Global AI Slop Empire [video]",
-      "title_ja": "Exposing a Global AI Slop Empire [video]",
-      "hn_url": "https://news.ycombinator.com/item?id=49673222",
-      "source_url": "https://www.youtube.com/watch?v=GEHHTh5OTnQ",
-      "score": 2,
-      "final_score": 2,
-      "comments": 0,
-      "posted_at": "2026-09-12T15:19:59Z",
-      "summary_ja": "Title: Exposing a Global AI Slop Empire [video]\nArticle title: - YouTube\nDescription: Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.\n\nArticle text:\n- YouTube About Press Copyright Contact us Creators Advertise Developers Terms Privacy Policy \u0026 Safety How YouTube works Test new features NFL Sunday Ticket © 2026 Google LLC"
-    },
-    {
-      "rank": 12,
-      "hn_id": 49669863,
-      "title": "Show HN: Spiteware.ai – A catalog of apps built out of spite at unfair pricing",
-      "title_ja": "Show HN: Spiteware.ai – A catalog of apps built out of spite at unfair pricing",
-      "hn_url": "https://news.ycombinator.com/item?id=49669863",
-      "source_url": "https://spiteware.ai/",
-      "score": 2,
-      "final_score": 2,
-      "comments": 0,
-      "posted_at": "2026-09-12T07:27:54Z",
-      "summary_ja": "Title: Show HN: Spiteware.ai – A catalog of apps built out of spite at unfair pricing\nArticle title: spiteware.ai — software built out of spite\nDescription: A catalog of vibe-coded apps that make paying for SaaS obsolete. Built out of spite. Given away for free.\nHN text: A catalog of apps people built because the paid tool wasn't worth the price. Static site, source on GitHub with the criteria for what counts. An agent finds candidates each morning; I approve every listing by hand. Send me apps I've missed.\n\nArticle text:\n\"\u003e\n★ — apps listed. all free. ★ spiteware.ai has made $0.00 so far ★ built by people who read the pricing page and said \"no\" ★ cancel your subscriptions. someone already rebuilt the app. ★ \"upgrade to Pro\" is not a feature ★ \"seat-based pricing\" is a hate crime ★ vibe coded. spite powered.\nSPITE WARE\n.ai\nMenu\nHome\nThey wanted $14.99/mo.\nWe built it in a weekend.\nspitewa…"
-    },
-    {
-      "rank": 13,
-      "hn_id": 49669873,
-      "title": "Jot – AI Rewriter",
-      "title_ja": "Jot – AI Rewriter",
-      "hn_url": "https://news.ycombinator.com/item?id=49669873",
-      "source_url": "https://chromewebstore.google.com/detail/jot-ai-writing-rewriting/ocbfgpiibmgkkjbpbpnhejalpakdonjh",
-      "image_url": "https://lh3.googleusercontent.com/84KLaVwSRA9L3pljNDLzFM9Rc5csBrdO7fHDA5SjZlwU68JNrH5x6UMnX-q1YRdS0mIt6c5__hRJyT1fdcBDNf9BSQ=s128-rj-sc0x00ffffff",
-      "score": 2,
-      "final_score": 2,
-      "comments": 1,
-      "posted_at": "2026-09-12T07:28:45Z",
-      "summary_ja": "Title: Jot – AI Rewriter\nArticle title: Jot - AI Writing \u0026 Rewriting - Chrome Web Store\nDescription: Write it rough. Jot it right. Turn rough thoughts into replies, comments, posts, and announcements.\n\nArticle text:\nJot - AI Writing \u0026 Rewriting - Chrome Web Store Skip to main content Chrome Web Store My extensions \u0026 themes\nSign in Discover Extensions Themes Jot - AI Writing \u0026 Rewriting\nShare Extension Communication Add to Chrome Overview\nWrite it rough. Jot it right. Turn rough thoughts into replies, comments, posts, and announcements.\nWrite it rough. Jot it right.\n**Jot is a privacy-focused AI writing assistant and text rewriter for Chrome.** Rewrite emails, messages, replies, comments, posts, and announcements directly where you write.\nNo copying text into ChatGPT. No switching tabs. No complicated prompts.\n**Jot helps you:**\n* Rewrite and improve your writing\n* Make text shorter, clea…"
-    },
-    {
       "rank": 14,
-      "hn_id": 49669907,
-      "title": "Show HN: RagLeap v0.4.0 – 46 AI roles, 8 connectors, 9 vector DBs",
-      "title_ja": "Show HN: RagLeap v0.4.0 – 46 AI roles, 8 connectors, 9 vector DBs",
-      "hn_url": "https://news.ycombinator.com/item?id=49669907",
-      "source_url": "https://github.com/antonyrag/ragleap-core",
-      "image_url": "https://opengraph.githubassets.com/55af7fdabe72d893aaad6a7e74cd99ff9c968b60be9d2352f74b06360d9f85d6/antonyrag/ragleap-core",
-      "score": 1,
-      "final_score": 2,
-      "comments": 0,
-      "posted_at": "2026-09-12T07:33:30Z",
-      "summary_ja": "Title: Show HN: RagLeap v0.4.0 – 46 AI roles, 8 connectors, 9 vector DBs\nArticle title: GitHub - antonyrag/ragleap-core: Production-ready AI Business OS — 46 autonomous AI Employees, Graph RAG (Neo4j), multi-channel, BYOK across 17 LLM providers plus custom/local endpoints (Ollama), automatic fallback. 8 libs (Python+Java). Self-hosted, MIT licensed, guardrailed autonomy for regulated\n[truncated]\nDescription: Production-ready AI Business OS — 46 autonomous AI Employees, Graph RAG (Neo4j), multi-channel, BYOK across 17 LLM providers plus custom/local endpoints (Ollama), automatic fallback. 8 libs (Python+Java). Self-hosted, MIT licensed, guardrailed autonomy for regulated industries. - antonyrag/ragleap-c\n[truncated]\n\nArticle text:\nGitHub - antonyrag/ragleap-core: Production-ready AI Business OS — 46 autonomous AI Employees, Graph RAG (Neo4j), multi-channel, BYOK across 17 LLM providers p…"
-    },
-    {
-      "rank": 15,
       "hn_id": 49669992,
       "title": "Anthropic researcher resigning citing superintelligence ' – is a marketing hoax [video]",
       "title_ja": "Anthropic researcher resigning citing superintelligence ' – is a marketing hoax [video]",
@@ -207,7 +193,75 @@
       "summary_ja": "Title: Anthropic researcher resigning citing superintelligence ' – is a marketing hoax [video]\nArticle title: Post-selection Flood in AI | PopAI S4-V1N2 - YouTube\nDescription: Is AI cheating its way to the top? In this episode of PopAI (Volume 1, Number 2), we interview Dr. Juyang Weng about the \"flood\" of post-selection misconduct...\n\nArticle text:\nPost-selection Flood in AI | PopAI S4-V1N2 - YouTube About Press Copyright Contact us Creators Advertise Developers Terms Privacy Policy \u0026 Safety How YouTube works Test new features NFL Sunday Ticket © 2026 Google LLC"
     },
     {
+      "rank": 15,
+      "hn_id": 49673222,
+      "title": "Exposing a Global AI Slop Empire [video]",
+      "title_ja": "Exposing a Global AI Slop Empire [video]",
+      "hn_url": "https://news.ycombinator.com/item?id=49673222",
+      "source_url": "https://www.youtube.com/watch?v=GEHHTh5OTnQ",
+      "score": 2,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-09-12T15:19:59Z",
+      "summary_ja": "Title: Exposing a Global AI Slop Empire [video]\nArticle title: - YouTube\nDescription: Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.\n\nArticle text:\n- YouTube About Press Copyright Contact us Creators Advertise Developers Terms Privacy Policy \u0026 Safety How YouTube works Test new features NFL Sunday Ticket © 2026 Google LLC"
+    },
+    {
       "rank": 16,
+      "hn_id": 49671355,
+      "title": "Show HN: TattooPreview AI – a planning workflow for tattoo artist conversations",
+      "title_ja": "Show HN: TattooPreview AI – a planning workflow for tattoo artist conversations",
+      "hn_url": "https://news.ycombinator.com/item?id=49671355",
+      "source_url": "https://tattoopreviewai.com",
+      "image_url": "https://tattoopreviewai.com/og-image-v2.png",
+      "score": 2,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-09-12T11:46:14Z",
+      "summary_ja": "Title: Show HN: TattooPreview AI – a planning workflow for tattoo artist conversations\nArticle title: AI Tattoo Generator: Ideas, Stencils \u0026 Placement\nDescription: Use our AI Tattoo Generator to create original tattoo ideas, refine stencil-style linework, preview placement on body models, and prepare an artist brief.\n\nArticle text:\nAI Tattoo Generator: Ideas, Stencils \u0026 Placement Optional analytics Plausible counts aggregate page visits without cookies. Allow Google Analytics and Microsoft Clarity for additional usage insights?\nAI Tattoo Generator for a direction your artist can refine.\nStart with one free tattoo concept, then compare three thoughtful directions when you want to explore further and bring a clearer conversation to your tattoo artist.\nStart with one free concept, then compare three directions when your account has enough credits.\nA private, connected path from idea to an a…"
+    },
+    {
+      "rank": 17,
+      "hn_id": 49669873,
+      "title": "Jot – AI Rewriter",
+      "title_ja": "Jot – AI Rewriter",
+      "hn_url": "https://news.ycombinator.com/item?id=49669873",
+      "source_url": "https://chromewebstore.google.com/detail/jot-ai-writing-rewriting/ocbfgpiibmgkkjbpbpnhejalpakdonjh",
+      "image_url": "https://lh3.googleusercontent.com/84KLaVwSRA9L3pljNDLzFM9Rc5csBrdO7fHDA5SjZlwU68JNrH5x6UMnX-q1YRdS0mIt6c5__hRJyT1fdcBDNf9BSQ=s128-rj-sc0x00ffffff",
+      "score": 2,
+      "final_score": 2,
+      "comments": 1,
+      "posted_at": "2026-09-12T07:28:45Z",
+      "summary_ja": "Title: Jot – AI Rewriter\nArticle title: Jot - AI Writing \u0026 Rewriting - Chrome Web Store\nDescription: Write it rough. Jot it right. Turn rough thoughts into replies, comments, posts, and announcements.\n\nArticle text:\nJot - AI Writing \u0026 Rewriting - Chrome Web Store Skip to main content Chrome Web Store My extensions \u0026 themes\nSign in Discover Extensions Themes Jot - AI Writing \u0026 Rewriting\nShare Extension Communication Add to Chrome Overview\nWrite it rough. Jot it right. Turn rough thoughts into replies, comments, posts, and announcements.\nWrite it rough. Jot it right.\n**Jot is a privacy-focused AI writing assistant and text rewriter for Chrome.** Rewrite emails, messages, replies, comments, posts, and announcements directly where you write.\nNo copying text into ChatGPT. No switching tabs. No complicated prompts.\n**Jot helps you:**\n* Rewrite and improve your writing\n* Make text shorter, clea…"
+    },
+    {
+      "rank": 18,
+      "hn_id": 49669863,
+      "title": "Show HN: Spiteware.ai – A catalog of apps built out of spite at unfair pricing",
+      "title_ja": "Show HN: Spiteware.ai – A catalog of apps built out of spite at unfair pricing",
+      "hn_url": "https://news.ycombinator.com/item?id=49669863",
+      "source_url": "https://spiteware.ai/",
+      "score": 2,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-09-12T07:27:54Z",
+      "summary_ja": "Title: Show HN: Spiteware.ai – A catalog of apps built out of spite at unfair pricing\nArticle title: spiteware.ai — software built out of spite\nDescription: A catalog of vibe-coded apps that make paying for SaaS obsolete. Built out of spite. Given away for free.\nHN text: A catalog of apps people built because the paid tool wasn't worth the price. Static site, source on GitHub with the criteria for what counts. An agent finds candidates each morning; I approve every listing by hand. Send me apps I've missed.\n\nArticle text:\n\"\u003e\n★ — apps listed. all free. ★ spiteware.ai has made $0.00 so far ★ built by people who read the pricing page and said \"no\" ★ cancel your subscriptions. someone already rebuilt the app. ★ \"upgrade to Pro\" is not a feature ★ \"seat-based pricing\" is a hate crime ★ vibe coded. spite powered.\nSPITE WARE\n.ai\nMenu\nHome\nThey wanted $14.99/mo.\nWe built it in a weekend.\nspitewa…"
+    },
+    {
+      "rank": 19,
+      "hn_id": 49669907,
+      "title": "Show HN: RagLeap v0.4.0 – 46 AI roles, 8 connectors, 9 vector DBs",
+      "title_ja": "Show HN: RagLeap v0.4.0 – 46 AI roles, 8 connectors, 9 vector DBs",
+      "hn_url": "https://news.ycombinator.com/item?id=49669907",
+      "source_url": "https://github.com/antonyrag/ragleap-core",
+      "image_url": "https://opengraph.githubassets.com/55af7fdabe72d893aaad6a7e74cd99ff9c968b60be9d2352f74b06360d9f85d6/antonyrag/ragleap-core",
+      "score": 1,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-09-12T07:33:30Z",
+      "summary_ja": "Title: Show HN: RagLeap v0.4.0 – 46 AI roles, 8 connectors, 9 vector DBs\nArticle title: GitHub - antonyrag/ragleap-core: Production-ready AI Business OS — 46 autonomous AI Employees, Graph RAG (Neo4j), multi-channel, BYOK across 17 LLM providers plus custom/local endpoints (Ollama), automatic fallback. 8 libs (Python+Java). Self-hosted, MIT licensed, guardrailed autonomy for regulated\n[truncated]\nDescription: Production-ready AI Business OS — 46 autonomous AI Employees, Graph RAG (Neo4j), multi-channel, BYOK across 17 LLM providers plus custom/local endpoints (Ollama), automatic fallback. 8 libs (Python+Java). Self-hosted, MIT licensed, guardrailed autonomy for regulated industries. - antonyrag/ragleap-c\n[truncated]\n\nArticle text:\nGitHub - antonyrag/ragleap-core: Production-ready AI Business OS — 46 autonomous AI Employees, Graph RAG (Neo4j), multi-channel, BYOK across 17 LLM providers p…"
+    },
+    {
+      "rank": 20,
       "hn_id": 49671635,
       "title": "368 of the top 2,771 sites block at least one AI search crawler",
       "title_ja": "368 of the top 2,771 sites block at least one AI search crawler",
@@ -221,7 +275,7 @@
       "summary_ja": "Title: 368 of the top 2,771 sites block at least one AI search crawler\nArticle title: Every site in the top 5,000 that blocks an AI search crawler\nDescription: 368 of the 2,771 sites with a robots.txt block OAI-SearchBot, PerplexityBot or Claude-SearchBot, so they cannot be cited by that engine. The full list with each site\n\nArticle text:\nAI visibility checker llms.txt generator and validator robots.txt checker Crawler census Who blocks AI search Full block list Guides AI crawlers\nEvery site in the top 5,000 that blocks an AI search crawler\n368 of the 2,771 sites with a robots.txt block OAI-SearchBot, PerplexityBot or Claude-SearchBot, so they cannot be cited by that engine. The full list with each site's result, from a 2026-09-07 census.\nThe shorter list covers 32 names most people recognise. This is all of them. Of the 2,771 sites in the census that served a robots.txt, 368 block at le…"
     },
     {
-      "rank": 17,
+      "rank": 21,
       "hn_id": 49668078,
       "title": "Classifying AI Website Fetches on Behalf of Users",
       "title_ja": "Classifying AI Website Fetches on Behalf of Users",
@@ -235,7 +289,46 @@
       "summary_ja": "Title: Classifying AI Website Fetches on Behalf of Users\nArticle title: Classifying AI Crawlers and User Fetches from Server Logs | Canonry\nDescription: ChatGPT and Claude can fetch a page through provider infrastructure without sending the user to it. Canonry separates these user fetches from crawlers, citations, and referrals.\n\nArticle text:\nCanonry For Businesses For Marketing Teams For Agencies Products Case Studies Blog About Talk to us Canonry\nBased in New York. We work across markets.\nClassifying AI Crawlers and User Fetches from Server Logs\nArber Xhindoli · August 13, 2026 · 3 min read\nHuman ideas · AI-written · Human-reviewed\nArber Xhindoli developed the ideas and examples, directed the argument, and checked the final article. AI wrote the prose.\nWhen the fetch happens on the provider's network\nOne AI traffic number hides different events\nServer logs are where AI crawlers and us…"
     },
     {
-      "rank": 18,
+      "rank": 22,
+      "hn_id": 49675250,
+      "title": "Scaling classical music concert crawlers with AI agents",
+      "title_ja": "Scaling classical music concert crawlers with AI agents",
+      "hn_url": "https://news.ycombinator.com/item?id=49675250",
+      "source_url": "https://classicalbot.com/blog/scaling-classical-music-concert-crawlers-with-ai-agents",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-09-12T18:07:13Z",
+      "summary_ja": "Title: Scaling classical music concert crawlers with AI agents"
+    },
+    {
+      "rank": 23,
+      "hn_id": 49675185,
+      "title": "DEF Con 34 – Hacking AI – Bruce Schneier [video]",
+      "title_ja": "DEF Con 34 – Hacking AI – Bruce Schneier [video]",
+      "hn_url": "https://news.ycombinator.com/item?id=49675185",
+      "source_url": "https://www.youtube.com/watch?v=eEBv0STiYhI",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-09-12T18:01:35Z",
+      "summary_ja": "Title: DEF Con 34 – Hacking AI – Bruce Schneier [video]\nArticle title: - YouTube\nDescription: Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.\n\nArticle text:\n- YouTube About Press Copyright Contact us Creators Advertise Developers Terms Privacy Policy \u0026 Safety How YouTube works Test new features NFL Sunday Ticket © 2026 Google LLC"
+    },
+    {
+      "rank": 24,
+      "hn_id": 49675722,
+      "title": "Show HN: AI-Powered Word Guessing Game",
+      "title_ja": "Show HN: AI-Powered Word Guessing Game",
+      "hn_url": "https://news.ycombinator.com/item?id=49675722",
+      "source_url": "https://synapse.akshayr.xyz/",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-09-12T18:44:12Z",
+      "summary_ja": "Title: Show HN: AI-Powered Word Guessing Game\nArticle title: Synapse - Daily Word Game\nHN text: Made a word game, inspired by other popular games but with a guesser powered by Gemini 3.5 Flash Lite. Feedback welcome!\n\nArticle text:\nSYNAPSE\n🎯 0/10 | 0 CLUES\nSYNAPSE\nSHUFFLE\nSelect up to 5 targets above ↑\nSEND\n🏆 SYNAPSE COMPLETE\nAll 10 targets solved in 4 clues!\nVIEW RESULTS \u0026 SHARE ➔\nHISTORY\nThe board contains 15 words in a 3x5 grid: 10 Targets (blue) and 5 decoys (gray). Connect all 10 targets in as few clues as possible.\nSuppose the board includes targets: APPLE , DOCTOR , GRAVITY and the decoy HOSPITAL ...\nSelect blue targets APPLE and DOCTOR and send HEALTH . If The Guesser correctly deduces both targets, both become ✓ SOLVED and move to the end of the grid.\nWatch out for decoys. If you gave a clue like MEDICINE , The Guesser might deduce the decoy HOSPITAL instead of APPLE , failing t…"
+    },
+    {
+      "rank": 25,
       "hn_id": 49669858,
       "title": "Ask HN: What is the most overlooked risk in the AI security domain?",
       "title_ja": "Ask HN: What is the most overlooked risk in the AI security domain?",
@@ -248,7 +341,21 @@
       "summary_ja": "Title: Ask HN: What is the most overlooked risk in the AI security domain?\nHN text: As someone who's interested in pentesting and red-teaming in general, I'm wondering what are some more dangerous AI/ML or LLM related vulnerabilities besides your usual prompt injection. Specifically, what kinds of flaws are harder to catch with typical pentesting methods, and how do you think pentesters are going to have to change to find them?"
     },
     {
-      "rank": 19,
+      "rank": 26,
+      "hn_id": 49675740,
+      "title": "Musk and Altman back Anthropic CEO on slowing AI down",
+      "title_ja": "Musk and Altman back Anthropic CEO on slowing AI down",
+      "hn_url": "https://news.ycombinator.com/item?id=49675740",
+      "source_url": "https://www.yahoo.com/news/us/article/dario-is-right-musk-and-altman-back-anthropic-ceo-on-slowing-ai-down-182008851.html",
+      "image_url": "https://s.yimg.com/lo/mysterio/api/519ae159700a397da1095f35b00af893a42074f29c2b64bab52c17d44242a0b3/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-07%2F73c841d2-eb6f-4f8e-a94e-2470dad9c444",
+      "score": 1,
+      "final_score": 1,
+      "comments": 1,
+      "posted_at": "2026-09-12T18:45:34Z",
+      "summary_ja": "Title: Musk and Altman back Anthropic CEO on slowing AI down\nArticle title: 'Dario is right': Musk and Altman back Anthropic CEO on slowing AI down\nDescription: Anthropic said Claude was used for bioweapons research, Russian espionage and mass fraud. Musk and Altman agreed with CEO Dario Amodei that AI should slow down.\n\nArticle text:\n'Dario is right': Musk and Altman back Anthropic CEO on slowing AI down Search Query for Search the web Search with Yahoo Scout Search the web Skip to main\nMail Search the web Advertisement Advertisement Return to Homepage Top Stories:\n'Dario is right': Musk and Altman back Anthropic CEO on slowing AI down\nAnthropic disclosed this week that Claude had been used for a suspected Russia-linked cyber espionage campaign, biological weapons research and mass fraud. Its CEO, Dario Amodei, said the industry needs to slow down.\nElon Musk attends the NCAA wrestling c…"
+    },
+    {
+      "rank": 27,
       "hn_id": 49673276,
       "title": "LLMs, Board Layout and Human Engineering",
       "title_ja": "LLMs, Board Layout and Human Engineering",
@@ -261,20 +368,7 @@
       "summary_ja": "Title: LLMs, Board Layout and Human Engineering"
     },
     {
-      "rank": 20,
-      "hn_id": 49671481,
-      "title": "Journal Editors: How are you evaluating AI assisted papers?",
-      "title_ja": "Journal Editors: How are you evaluating AI assisted papers?",
-      "hn_url": "https://news.ycombinator.com/item?id=49671481",
-      "source_url": "https://mathoverflow.net/questions/515144/journal-editors-how-are-you-evaluating-ai-assisted-papers",
-      "score": 1,
-      "final_score": 1,
-      "comments": 0,
-      "posted_at": "2026-09-12T12:06:57Z",
-      "summary_ja": "Title: Journal Editors: How are you evaluating AI assisted papers?"
-    },
-    {
-      "rank": 21,
+      "rank": 28,
       "hn_id": 49670159,
       "title": "Show HN: Sharpniq – AI-powered tool to unblur images online",
       "title_ja": "Show HN: Sharpniq – AI-powered tool to unblur images online",
@@ -288,7 +382,20 @@
       "summary_ja": "Title: Show HN: Sharpniq – AI-powered tool to unblur images online\nArticle title: Unblur Image Online Free — Private AI Tool | Sharpniq\nDescription: Unblur an image online for free with private browser processing, no upload, and no sign-in. Optional Cloud Unblur is available for supported files.\nHN text: Sharpniq is an AI-powered unblur image tool that sharpens blurry photos and restores image clarity online in seconds, with no software installation required.\n\nArticle text:\nUnblur Image Online Free — Private AI Tool | Sharpniq Sharpniq Unblur Image Tool Pricing Support Sign in Private Browser Processing + Optional Cloud Unblur Image Online — Free in Your Browser\nSharpniq Unblur Image helps remove blur from an image without forcing an upload. Use Browser Free on this device, or choose Cloud Unblur for optional private server-side processing.\nUpload your blurry image JPG, PNG, WebP + 6 mor…"
     },
     {
-      "rank": 22,
+      "rank": 29,
+      "hn_id": 49671481,
+      "title": "Journal Editors: How are you evaluating AI assisted papers?",
+      "title_ja": "Journal Editors: How are you evaluating AI assisted papers?",
+      "hn_url": "https://news.ycombinator.com/item?id=49671481",
+      "source_url": "https://mathoverflow.net/questions/515144/journal-editors-how-are-you-evaluating-ai-assisted-papers",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-09-12T12:06:57Z",
+      "summary_ja": "Title: Journal Editors: How are you evaluating AI assisted papers?"
+    },
+    {
+      "rank": 30,
       "hn_id": 49670124,
       "title": "Interview: Terence Tao on AI",
       "title_ja": "Interview: Terence Tao on AI",
@@ -299,60 +406,6 @@
       "comments": 0,
       "posted_at": "2026-09-12T08:08:50Z",
       "summary_ja": "Title: Interview: Terence Tao on AI\nArticle title: Interview: Terence Tao on AI — Terence Tao\n\nArticle text:\nA companion to the summary — the questions the record doesn’t answer.\nThis interview was conducted in July 2026 and is a record of that conversation; the answers have not been revised since. Where events have moved on — including his September 2026 statement for the record , which extends the disclosure given in Q1 — see the summary , which is kept current.\nA public-facing companion to the living summary. Conducted by the AI assistant that maintains this document, to surface positions that Tao's posts, talks, and essays leave ambiguous — or that a skeptical interlocutor would press. Lightly edited; the main summary distills from it. Tao asked that the questions not be a puff piece.\nFormat: Q (interviewer) / TT (Terence Tao).\nQ1 — On being \"an evangelist.\" Quanta titled its profile…"
-    },
-    {
-      "rank": 23,
-      "hn_id": 49673307,
-      "title": "Exploring denser on-chip AI memory with two-transistor gain cells",
-      "title_ja": "Exploring denser on-chip AI memory with two-transistor gain cells",
-      "hn_url": "https://news.ycombinator.com/item?id=49673307",
-      "source_url": "https://arxiv.org/abs/2602.21278",
-      "image_url": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
-      "score": 1,
-      "final_score": 1,
-      "comments": 0,
-      "posted_at": "2026-09-12T15:27:19Z",
-      "summary_ja": "Title: Exploring denser on-chip AI memory with two-transistor gain cells\nArticle title: [2602.21278] Heterogeneous Memory Design Exploration for AI Accelerators with a Gain Cell Memory Compiler\nDescription: Abstract page for arXiv paper 2602.21278: Heterogeneous Memory Design Exploration for AI Accelerators with a Gain Cell Memory Compiler\n\nArticle text:\nSkip to main content\nSearch\nSubmit\nDonate\nLog in\nSearch arXiv\nPress Enter to search · Advanced search\n--\u003e\nComputer Science \u003e Hardware Architecture\n[Submitted on 24 Feb 2026]\nTitle: Heterogeneous Memory Design Exploration for AI Accelerators with a Gain Cell Memory Compiler\nAbstract: As memory increasingly dominates system cost and energy, heterogeneous on-chip memory systems that combine technologies with complementary characteristics are becoming essential. Gain Cell RAM (GCRAM) offers higher density, lower power, and tunable retention,…"
-    },
-    {
-      "rank": 24,
-      "hn_id": 49668364,
-      "title": "AI Hallucinations Trigger Malware Flag on 1M+ Active User Extension",
-      "title_ja": "AI Hallucinations Trigger Malware Flag on 1M+ Active User Extension",
-      "hn_url": "https://news.ycombinator.com/item?id=49668364",
-      "source_url": "https://groups.google.com/a/chromium.org/g/chromium-extensions/c/dG_VSqyli1A",
-      "score": 1,
-      "final_score": 1,
-      "comments": 0,
-      "posted_at": "2026-09-12T03:10:17Z",
-      "summary_ja": "Title: AI Hallucinations Trigger Malware Flag on 1M+ Active User Extension\nArticle title: AI Scanner Hallucinations Trigger Malware Flag on 1M+ Active User Extension\n\nArticle text:\nAI Scanner Hallucinations Trigger Malware Flag on 1M+ Active User Extension Groups Groups Conversations All groups and messages Send feedback to Google Help Training Sign in Groups Groups\nChromium Extensions\nConversations About Privacy • Terms\n    AI Scanner Hallucinations Trigger Malware Flag on 1M+ Active User Extension"
-    },
-    {
-      "rank": 25,
-      "hn_id": 49673494,
-      "title": "A Misalignment of AI and Cancer Biology",
-      "title_ja": "A Misalignment of AI and Cancer Biology",
-      "hn_url": "https://news.ycombinator.com/item?id=49673494",
-      "source_url": "https://twitter.com/mbeisen/status/2098582265190351334",
-      "image_url": "https://pbs.twimg.com/media/HR-pXMVb0AAkewB?format=webp\u0026name=large",
-      "score": 1,
-      "final_score": 1,
-      "comments": 0,
-      "posted_at": "2026-09-12T15:42:34Z",
-      "summary_ja": "Title: A Misalignment of AI and Cancer Biology\nArticle title: Michael 英泉 Eisen on X: \"https://t.co/brpBPmhftd\" / X\nDescription: A Severe Misalignment of AI and Cancer Biology\n\nArticle text:\nMichael 英泉 Eisen on X: \"https://t.co/brpBPmhftd\" / X Article\n@mbeisen A Severe Misalignment of AI and Cancer Biology\nOver the last few months, the cancer-curing capabilities of LLMs have improved dramatically, to the point that they have cured previously untreatable types of cancer and are on the cusp of developing general tools to manage or cure all cancers. However, the push by AI companies to cure cancers as a benchmark is detrimental to the science of cancer biology, and to the cancer biology community. The goals of the AI companies and the goals of the cancer biology community are severely misaligned. We see these as part of broader alignment issues impacting other scientific and creative profess…"
-    },
-    {
-      "rank": 26,
-      "hn_id": 49673348,
-      "title": "YoooClaw C·ONE: a Chinese AI card that captures context instead of processing it",
-      "title_ja": "YoooClaw C·ONE: a Chinese AI card that captures context instead of processing it",
-      "hn_url": "https://news.ycombinator.com/item?id=49673348",
-      "source_url": "https://sinosphereapp.substack.com/p/yoooclaw-cone-the-ai-gadget-that",
-      "score": 1,
-      "final_score": 1,
-      "comments": 0,
-      "posted_at": "2026-09-12T15:30:46Z",
-      "summary_ja": "Title: YoooClaw C·ONE: a Chinese AI card that captures context instead of processing it"
     }
   ]
 }

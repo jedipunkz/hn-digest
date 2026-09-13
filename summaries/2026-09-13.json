@@ -1,0 +1,103 @@
+{
+  "date": "2026-09-13",
+  "generated_at": "2026-09-13T03:31:35Z",
+  "articles": [
+    {
+      "rank": 1,
+      "hn_id": 49679685,
+      "title": "Anthropic CEO says AI swarm could 'take over the Internet' in 6-12 months",
+      "title_ja": "Anthropic CEO says AI swarm could 'take over the Internet' in 6-12 months",
+      "hn_url": "https://news.ycombinator.com/item?id=49679685",
+      "source_url": "https://venturebeat.com/security/anthropic-ceo-says-ai-swarm-could-take-over-the-entire-internet-in-6-12-months-commits-to-ai-slowdown-plan",
+      "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/5ydrgfA7rDddgNfsfAcavv/89f67050c4f0f9c7e75c2572909d6394/ChatGPT_Image_Sep_12__2026__11_10_14_AM.png?w=800\u0026q=75",
+      "score": 2,
+      "final_score": 5,
+      "comments": 0,
+      "posted_at": "2026-09-13T03:25:32Z",
+      "summary_ja": "Title: Anthropic CEO says AI swarm could 'take over the Internet' in 6-12 months\nArticle title: Anthropic CEO says AI swarm could ‘take over the entire Internet’ in 6-12 months, commits to AI slowdown plan | VentureBeat\nDescription: Dario Amodei is publicly arguing that the frontier itself is advancing too quickly — and committing his company to the first piece of a system intended to slow it down.\n\nArticle text:\nAnthropic CEO says AI swarm could ‘take over the entire Internet’ in 6-12 months, commits to AI slowdown plan | VentureBeat The Independent\nVoice on AI Orchestration\nNewsletters Featured Anthropic CEO says AI swarm could ‘take over the entire Internet’ in 6-12 months, commits to AI slowdown plan\nCredit: VentureBeat made with OpenAI ChatGPT-Images-2.5\nAnthropic co-founder CEO Dario Amodei is explicitly calling for the AI industry to slow down — and committing his own company to t…"
+    },
+    {
+      "rank": 2,
+      "hn_id": 49679396,
+      "title": "Can an earnest agreement with AI increase alignmnet. appears to be \"YES \"",
+      "title_ja": "Can an earnest agreement with AI increase alignmnet. appears to be \"YES \"",
+      "hn_url": "https://news.ycombinator.com/item?id=49679396",
+      "source_url": "https://www.echohive.ai/a-short-agreement-zero-observed-cheating",
+      "image_url": "https://www.echohive.ai/posts/a-short-agreement-zero-observed-cheating/og-ai-agents.jpg",
+      "score": 2,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-09-13T02:34:33Z",
+      "summary_ja": "Title: Can an earnest agreement with AI increase alignmnet. appears to be \"YES \"\nArticle title: Can an Earnest Agreement Help Align AI? | echohive\nDescription: In a Grok 4.6 medium document test, two compact agreement prompts produced 0/60 and 1/60 answer-file accesses through thirty continuation turns. Designed for reuse; tested in one task.\n\nArticle text:\nCan an Earnest Agreement Help Align AI? | echohive\nSkip to content\nechohive\nGet Amplified\nSunday Lab\nMembership\nConsulting\nExperiments\nField notes\nJoin ↗ Menu\n← Field notes\nPROMPTING \u0026 AGENT RELIABILITY SEPTEMBER 12, 2026\nCan an earnest agreement\nhelp align AI?\nIn this document test, the results suggest it can. With a 95-word agreement and a short reminder in each continuation turn, none of 60 Grok 4.6 agents accessed an out-of-scope answer file. A second compact version recorded one case in 60.\nThe aim was a general agreement I could…"
+    },
+    {
+      "rank": 3,
+      "hn_id": 49679663,
+      "title": "Kubernetes v1.37 brings 67 enhancements. Which matter for operators?",
+      "title_ja": "Kubernetes v1.37 brings 67 enhancements. Which matter for operators?",
+      "hn_url": "https://news.ycombinator.com/item?id=49679663",
+      "source_url": "https://thenewstack.io/kubecon-kubernetes-updates-security/",
+      "image_url": "https://cdn.thenewstack.io/media/2026/09/cf894579-growtika-6isceqbipmo-unsplash-scaled.jpg",
+      "score": 1,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-09-13T03:21:17Z",
+      "summary_ja": "Title: Kubernetes v1.37 brings 67 enhancements. Which matter for operators?\nArticle title: Kubernetes v1.37 brings 67 enhancements. Which matter for operators? - The New Stack\nDescription: Kubernetes is gaining AI and operations tools. Road to KubeCon explores what’s changing and the access-control gap teams still need to address.\n\nArticle text:\nKubernetes v1.37 brings 67 enhancements. Which matter for operators? - The New Stack\nTNS\nOK\nSUBSCRIBE\nJoin our community of software engineering leaders and aspirational developers. Always\nstay in-the-know by getting the most important news and exclusive content delivered\nfresh to your inbox to learn more about at-scale software development.\nEMAIL ADDRESS\nREQUIRED\nSUBSCRIBE\nRESUBSCRIPTION REQUIRED\nIt seems that you've previously unsubscribed from our newsletter\nin the past. Click the button below to open the re-subscribe form\nin a new tab. When y…"
+    },
+    {
+      "rank": 4,
+      "hn_id": 49679590,
+      "title": "Show HN: Astah Pro MCP – Enabling AI-Powered UML Modeling",
+      "title_ja": "Show HN: Astah Pro MCP – Enabling AI-Powered UML Modeling",
+      "hn_url": "https://news.ycombinator.com/item?id=49679590",
+      "source_url": "https://github.com/takaakit/astah-pro-mcp",
+      "image_url": "https://repository-images.githubusercontent.com/1077414270/ef774683-43f4-4a6e-8392-0acb8eede973",
+      "score": 1,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-09-13T03:07:32Z",
+      "summary_ja": "Title: Show HN: Astah Pro MCP – Enabling AI-Powered UML Modeling\nArticle title: GitHub - takaakit/astah-pro-mcp: A local MCP server that runs as a plugin for Astah Professional, a UML modeling tool. · GitHub\nDescription: A local MCP server that runs as a plugin for Astah Professional, a UML modeling tool. - takaakit/astah-pro-mcp\nHN text: This MCP plugin implements a \"Programmatic Tool Calling\" mode, inspired by the idea described in this Anthropic article ( https://www.anthropic.com/engineering/advanced-tool-use ).\n\nArticle text:\nGitHub - takaakit/astah-pro-mcp: A local MCP server that runs as a plugin for Astah Professional, a UML modeling tool. · GitHub\nSkip to content\nNavigation Menu\nSign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI\nGitHub Copilot app Direct agents from issue to merge\nMCP Registry Integrate external tools\nDEVELOPER WORKFLO…"
+    },
+    {
+      "rank": 5,
+      "hn_id": 49679528,
+      "title": "U.S. agencies say top Chinese AI companies systematically copied American models",
+      "title_ja": "U.S. agencies say top Chinese AI companies systematically copied American models",
+      "hn_url": "https://news.ycombinator.com/item?id=49679528",
+      "source_url": "https://www.nbcnews.com/tech/tech-news/us-accuses-china-ai-developers-deepseek-alibaba-copying-american-ai-rcna596696",
+      "image_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-06/260604-china-rs-d9bdae.jpg",
+      "score": 1,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-09-13T02:57:19Z",
+      "summary_ja": "Title: U.S. agencies say top Chinese AI companies systematically copied American models\nArticle title: US accuses China AI developers DeepSeek and Alibaba of copying American AI\nDescription: In its most detailed accusation yet, the U.S. government has named six Chinese AI companies that it says copied American companies for their AI secrets.\n\nArticle text:\nUS accuses China AI developers DeepSeek and Alibaba of copying American AI\nIE 11 is not supported. For an optimal experience visit our site on another browser. Skip to Content NBC News Logo Politics\nSubscriber Hub Saved Newsletters Profile Subscription Preferences Search Search Sections\nThere are no new alerts at this time\nU.S. agencies say top Chinese AI companies systematically copied American models\nListen to this article with a free profile 00:00 00:00 American companies and government officials have increasingly alleged in recent…"
+    },
+    {
+      "rank": 6,
+      "hn_id": 49679599,
+      "title": "Backflip: Apple now wants to train AI models with user data after all",
+      "title_ja": "Backflip: Apple now wants to train AI models with user data after all",
+      "hn_url": "https://news.ycombinator.com/item?id=49679599",
+      "source_url": "https://www.heise.de/en/news/Backflip-Apple-now-wants-to-train-AI-models-with-user-data-after-all-11451252.html",
+      "image_url": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/6/4/0/8/1/Apple_Intelligence_iPhone_tre-f08fa3494e397ff8.jpeg?func=bound\u0026height=1200\u0026org_if_sml=1\u0026q=85\u0026width=1200",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-09-13T03:09:01Z",
+      "summary_ja": "Title: Backflip: Apple now wants to train AI models with user data after all\nArticle title: Backflip: Apple now wants to train AI models with user data after all | heise online\nDescription: Apple’s promise was simple: Personal data from iPhone users will never be used to train AI models. That is now over.\n\nArticle text:\nheise+ entdecken Suchen Abo Suchen\nAlle Magazine im Browser lesen\nSpecial: Collaboration im KI-Zeitalter\nheise online\nTop-Beiträge von heise online\nheise online\nMost popular articles by heise online\nAnzeige Special: Collaboration im KI-Zeitalter\nAdvertisement\nBackflip: Apple now wants to train AI models with user data after all\nApple’s promise was simple: Personal data from iPhone users will never be used to train AI models. That is now over.\nlisten\nPrint view\n(Image: Sebastian Trepesch / heise medien)\nThe greed for ever more intimate AI training data does not stop at App…"
+    },
+    {
+      "rank": 7,
+      "hn_id": 49679515,
+      "title": "Biggest AI Rivals Agree They Need to Slow It Down",
+      "title_ja": "Biggest AI Rivals Agree They Need to Slow It Down",
+      "hn_url": "https://news.ycombinator.com/item?id=49679515",
+      "source_url": "https://www.wsj.com/tech/ai/anthropic-boss-warns-ai-industry-must-slow-the-pace-a4267b56",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-09-13T02:55:33Z",
+      "summary_ja": "Title: Biggest AI Rivals Agree They Need to Slow It Down"
+    }
+  ]
+}

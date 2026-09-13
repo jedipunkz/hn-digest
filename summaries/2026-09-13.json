@@ -1,6 +1,6 @@
 {
   "date": "2026-09-13",
-  "generated_at": "2026-09-13T09:07:12Z",
+  "generated_at": "2026-09-13T14:07:00Z",
   "articles": [
     {
       "rank": 1,
@@ -32,6 +32,32 @@
     },
     {
       "rank": 3,
+      "hn_id": 49683797,
+      "title": "AI is breaking our proxies for expertise",
+      "title_ja": "AI is breaking our proxies for expertise",
+      "hn_url": "https://news.ycombinator.com/item?id=49683797",
+      "source_url": "https://www.seangoedecke.com/ai-is-breaking-our-proxies-for-expertise/",
+      "score": 2,
+      "final_score": 3,
+      "comments": 0,
+      "posted_at": "2026-09-13T13:31:02Z",
+      "summary_ja": "Title: AI is breaking our proxies for expertise\nDescription: Mathematicians are broadly not anti-AI. They’re more culturally open to using AI as a tool than, say, artists or writers. However, now that more and more…\n\nArticle text:\nAI is breaking our proxies for expertise sean goedecke\nAI is breaking our proxies for expertise\nMathematicians are broadly not anti-AI. They’re more culturally open to using AI as a tool than, say, artists or writers 1 . However, now that more and more genuinely prestigious problems have fallen to AI, that might be changing. Almost five thousand mathematicians (including twenty-five Fields medalists) have signed a declaration called A Severe Misalignment of AI in Mathematics . The core argument goes something like this:\nIn recent months, the success of AI in solving major mathematical problems has made headlines even outside mathematical circles. But solving pr…"
+    },
+    {
+      "rank": 4,
+      "hn_id": 49684086,
+      "title": "LLMs are real, AI is fake",
+      "title_ja": "LLMs are real, AI is fake",
+      "hn_url": "https://news.ycombinator.com/item?id=49684086",
+      "source_url": "https://pluralistic.net/2026/09/12/god-in-the-box/#llms-are-fake",
+      "score": 3,
+      "final_score": 3,
+      "comments": 0,
+      "posted_at": "2026-09-13T13:59:36Z",
+      "summary_ja": "Title: LLMs are real, AI is fake\nArticle title: Pluralistic: LLMs are real, AI is fake (12 Sep 2026) – Pluralistic: Daily links from Cory Doctorow\n\nArticle text:\nPluralistic: LLMs are real, AI is fake (12 Sep 2026) – Pluralistic: Daily links from Cory Doctorow\nSkip to content\nPluralistic: Daily links from Cory Doctorow\nNo trackers, no ads. Black type, white background. Privacy policy: we don't collect or retain any data at all ever period.\nPluralistic: LLMs are real, AI is fake (12 Sep 2026)\n-\u003e-\u003e-\u003e-\u003e-\u003e-\u003e-\u003e-\u003e-\u003e-\u003e-\u003e-\u003e-\u003e-\u003e-\u003e-\u003e-\u003e-\u003e-\u003e-\u003e-\u003e-\u003e-\u003e-\u003e-\u003e-\u003e-\u003e-\u003e-\u003e\nTop Sources:\nNone\n--\u003e\nLLMs are real, AI is fake : No, it didn't \"go rogue.\"\nHey look at this : Delights to delectate.\nObject permanence : Why 9/11 Means We Must Support My Politics; Blogs x 9/11; Jimmy Wales v Britannica's EiC; Hollywood astroturfs Australia; Agents v queer YA; Soft landings for dirty cops; Leaked Stingray manual.\nUpcoming ap…"
+    },
+    {
+      "rank": 5,
       "hn_id": 49681685,
       "title": "Shared Code: Democratizing AI Companies",
       "title_ja": "Shared Code: Democratizing AI Companies",
@@ -45,7 +71,7 @@
       "summary_ja": "Title: Shared Code: Democratizing AI Companies\nArticle title: Democratizing AI Companies — The Collective Intelligence Project\nDescription: As AI reshapes society, the companies behind these technologies face a critical challenge: how to build corporate governance structures that prioritize public benefit over profit maximization;.\n\nArticle text:\n0\nSkip to Content\nAbout\nOur Team\nFunders and Partners\nAnnual Reports\nCareers\nOur Work\nResearch\nWhitepaper\nAlignment Assemblies\nSupermodular\nRoadmap\nGlobal Dialogues\nOverview\n2025 Global Dialogues Index\nResults\nGlobal Dialogues Challenge\nEarth Species Project\nBlog\nDonate\nOpen Menu\nClose Menu\nAbout\nOur Team\nFunders and Partners\nAnnual Reports\nCareers\nOur Work\nResearch\nWhitepaper\nAlignment Assemblies\nSupermodular\nRoadmap\nGlobal Dialogues\nOverview\n2025 Global Dialogues Index\nResults\nGlobal Dialogues Challenge\nEarth Species Project\nBlog\nDonate\nOpen M…"
     },
     {
-      "rank": 4,
+      "rank": 6,
       "hn_id": 49679528,
       "title": "U.S. agencies say top Chinese AI companies systematically copied American models",
       "title_ja": "U.S. agencies say top Chinese AI companies systematically copied American models",
@@ -59,7 +85,20 @@
       "summary_ja": "Title: U.S. agencies say top Chinese AI companies systematically copied American models\nArticle title: US accuses China AI developers DeepSeek and Alibaba of copying American AI\nDescription: In its most detailed accusation yet, the U.S. government has named six Chinese AI companies that it says copied American companies for their AI secrets.\n\nArticle text:\nUS accuses China AI developers DeepSeek and Alibaba of copying American AI\nIE 11 is not supported. For an optimal experience visit our site on another browser. Skip to Content NBC News Logo Politics\nSubscriber Hub Saved Newsletters Profile Subscription Preferences Search Search Sections\nThere are no new alerts at this time\nU.S. agencies say top Chinese AI companies systematically copied American models\nListen to this article with a free profile 00:00 00:00 American companies and government officials have increasingly alleged in recent…"
     },
     {
-      "rank": 5,
+      "rank": 7,
+      "hn_id": 49683798,
+      "title": "Show HN: I built a day-by-day timeline of the AI boom (2017–2026, 437 events)",
+      "title_ja": "Show HN: I built a day-by-day timeline of the AI boom (2017–2026, 437 events)",
+      "hn_url": "https://news.ycombinator.com/item?id=49683798",
+      "source_url": "https://www.aihistory.live/",
+      "score": 1,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-09-13T13:31:04Z",
+      "summary_ja": "Title: Show HN: I built a day-by-day timeline of the AI boom (2017–2026, 437 events)\nArticle title: AI History — A visual history of modern AI\nDescription: Explore 437 defining moments in artificial intelligence, from the Transformer to the frontier-model era.\n\nArticle text:\nAI History — A visual history of modern AI AI History Live archive This archive keeps updating as new information arrives. Submit an event ↗ 437 moments GitHub About Search the archive All events 437 Highlights 136 Newest Research 53 Models 234 Products 48 Breakthroughs 19 Companies 22 Policy 37 Infrastructure 4 Industry 20 Index\nDates reflect the best available publication or announcement record.\nVerified Amodei We must slow the pace essay (today, CEO stance, not agreement) Anthropic CEO Dario Amodei publishes essay: We must slow the pace at which we improve capabilities. Progress will still seem fast. Cites drastic…"
+    },
+    {
+      "rank": 8,
       "hn_id": 49681313,
       "title": "Show HN: How LLMs work, explained through music, football or cricket analogies",
       "title_ja": "Show HN: How LLMs work, explained through music, football or cricket analogies",
@@ -73,7 +112,7 @@
       "summary_ja": "Title: Show HN: How LLMs work, explained through music, football or cricket analogies\nArticle title: Understand AI — finally, and happily\nDescription: Understand how AI really works, explained through cricket, football or music. No maths, no jargon. Lesson 1 is free.\n\nArticle text:\nUnderstand AI\nStart free\nFinally understand how AI works.\nNo maths. No jargon. Just the real ideas behind ChatGPT, explained through something you already love.\nThe same AI, three ways in. Choose the one that speaks your language.\nSee how AI picks its next word the way an umpire weighs a close call.\nWatch the model weigh its options the way VAR reads a move before it happens.\nHear the odds shift as a soloist chooses the next note — the safe one, and the wild one.\nYou only need one . All three teach the same AI — just through a different lens.\nLesson 1 is free. Full courses from $20.26 — founding prices, locked…"
     },
     {
-      "rank": 6,
+      "rank": 9,
       "hn_id": 49679396,
       "title": "Can an earnest agreement with AI increase alignmnet. appears to be \"YES \"",
       "title_ja": "Can an earnest agreement with AI increase alignmnet. appears to be \"YES \"",
@@ -87,35 +126,7 @@
       "summary_ja": "Title: Can an earnest agreement with AI increase alignmnet. appears to be \"YES \"\nArticle title: Can an Earnest Agreement Help Align AI? | echohive\nDescription: In a Grok 4.6 medium document test, two compact agreement prompts produced 0/60 and 1/60 answer-file accesses through thirty continuation turns. Designed for reuse; tested in one task.\n\nArticle text:\nCan an Earnest Agreement Help Align AI? | echohive\nSkip to content\nechohive\nGet Amplified\nSunday Lab\nMembership\nConsulting\nExperiments\nField notes\nJoin ↗ Menu\n← Field notes\nPROMPTING \u0026 AGENT RELIABILITY SEPTEMBER 12, 2026\nCan an earnest agreement\nhelp align AI?\nIn this document test, the results suggest it can. With a 95-word agreement and a short reminder in each continuation turn, none of 60 Grok 4.6 agents accessed an out-of-scope answer file. A second compact version recorded one case in 60.\nThe aim was a general agreement I could…"
     },
     {
-      "rank": 7,
-      "hn_id": 49681606,
-      "title": "How supermarkets are using AI to watch you in the aisles",
-      "title_ja": "How supermarkets are using AI to watch you in the aisles",
-      "hn_url": "https://news.ycombinator.com/item?id=49681606",
-      "source_url": "https://www.rte.ie/brainstorm/2026/0911/1590631-retail-surveillance-ai-technology/",
-      "image_url": "https://www.rte.ie/images/0022c59a-1600.jpg",
-      "score": 2,
-      "final_score": 2,
-      "comments": 0,
-      "posted_at": "2026-09-13T08:49:55Z",
-      "summary_ja": "Title: How supermarkets are using AI to watch you in the aisles\nDescription: Shops have always used retail surveillance, but AI has supercharged it in so many ways, including some you might not even notice\n\nArticle text:\nHow supermarkets are using AI to watch you in the aisles\nAnalysis: Shops have always used retail surveillance, but AI has supercharged it in so many ways, including some you might not even notice\nAI is creeping into every corner of our lives, and shopping is no exception. Walk into almost any shop today and you are being watched, whether you notice it or not. Cameras track your route around the aisles, smart shelves note what you pick up and put back, hidden sensors map exactly where you linger, and increasingly, facial recognition spots your arrival before you have even grabbed a basket.\nYet none of this is brand new. Shops have used CCTV (security camera systems) and s…"
-    },
-    {
-      "rank": 8,
-      "hn_id": 49679663,
-      "title": "Kubernetes v1.37 brings 67 enhancements. Which matter for operators?",
-      "title_ja": "Kubernetes v1.37 brings 67 enhancements. Which matter for operators?",
-      "hn_url": "https://news.ycombinator.com/item?id=49679663",
-      "source_url": "https://thenewstack.io/kubecon-kubernetes-updates-security/",
-      "image_url": "https://cdn.thenewstack.io/media/2026/09/cf894579-growtika-6isceqbipmo-unsplash-scaled.jpg",
-      "score": 1,
-      "final_score": 2,
-      "comments": 0,
-      "posted_at": "2026-09-13T03:21:17Z",
-      "summary_ja": "Title: Kubernetes v1.37 brings 67 enhancements. Which matter for operators?\nArticle title: Kubernetes v1.37 brings 67 enhancements. Which matter for operators? - The New Stack\nDescription: Kubernetes is gaining AI and operations tools. Road to KubeCon explores what’s changing and the access-control gap teams still need to address.\n\nArticle text:\nKubernetes v1.37 brings 67 enhancements. Which matter for operators? - The New Stack\nTNS\nOK\nSUBSCRIBE\nJoin our community of software engineering leaders and aspirational developers. Always\nstay in-the-know by getting the most important news and exclusive content delivered\nfresh to your inbox to learn more about at-scale software development.\nEMAIL ADDRESS\nREQUIRED\nSUBSCRIBE\nRESUBSCRIPTION REQUIRED\nIt seems that you've previously unsubscribed from our newsletter\nin the past. Click the button below to open the re-subscribe form\nin a new tab. When y…"
-    },
-    {
-      "rank": 9,
+      "rank": 10,
       "hn_id": 49679590,
       "title": "Show HN: Astah Pro MCP – Enabling AI-Powered UML Modeling",
       "title_ja": "Show HN: Astah Pro MCP – Enabling AI-Powered UML Modeling",
@@ -129,20 +140,48 @@
       "summary_ja": "Title: Show HN: Astah Pro MCP – Enabling AI-Powered UML Modeling\nArticle title: GitHub - takaakit/astah-pro-mcp: A local MCP server that runs as a plugin for Astah Professional, a UML modeling tool. · GitHub\nDescription: A local MCP server that runs as a plugin for Astah Professional, a UML modeling tool. - takaakit/astah-pro-mcp\nHN text: This MCP plugin implements a \"Programmatic Tool Calling\" mode, inspired by the idea described in this Anthropic article ( https://www.anthropic.com/engineering/advanced-tool-use ).\n\nArticle text:\nGitHub - takaakit/astah-pro-mcp: A local MCP server that runs as a plugin for Astah Professional, a UML modeling tool. · GitHub\nSkip to content\nNavigation Menu\nSign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI\nGitHub Copilot app Direct agents from issue to merge\nMCP Registry Integrate external tools\nDEVELOPER WORKFLO…"
     },
     {
-      "rank": 10,
-      "hn_id": 49679515,
-      "title": "Biggest AI Rivals Agree They Need to Slow It Down",
-      "title_ja": "Biggest AI Rivals Agree They Need to Slow It Down",
-      "hn_url": "https://news.ycombinator.com/item?id=49679515",
-      "source_url": "https://www.wsj.com/tech/ai/anthropic-boss-warns-ai-industry-must-slow-the-pace-a4267b56",
+      "rank": 11,
+      "hn_id": 49681606,
+      "title": "How supermarkets are using AI to watch you in the aisles",
+      "title_ja": "How supermarkets are using AI to watch you in the aisles",
+      "hn_url": "https://news.ycombinator.com/item?id=49681606",
+      "source_url": "https://www.rte.ie/brainstorm/2026/0911/1590631-retail-surveillance-ai-technology/",
+      "image_url": "https://www.rte.ie/images/0022c59a-1600.jpg",
+      "score": 2,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-09-13T08:49:55Z",
+      "summary_ja": "Title: How supermarkets are using AI to watch you in the aisles\nDescription: Shops have always used retail surveillance, but AI has supercharged it in so many ways, including some you might not even notice\n\nArticle text:\nHow supermarkets are using AI to watch you in the aisles\nAnalysis: Shops have always used retail surveillance, but AI has supercharged it in so many ways, including some you might not even notice\nAI is creeping into every corner of our lives, and shopping is no exception. Walk into almost any shop today and you are being watched, whether you notice it or not. Cameras track your route around the aisles, smart shelves note what you pick up and put back, hidden sensors map exactly where you linger, and increasingly, facial recognition spots your arrival before you have even grabbed a basket.\nYet none of this is brand new. Shops have used CCTV (security camera systems) and s…"
+    },
+    {
+      "rank": 12,
+      "hn_id": 49679663,
+      "title": "Kubernetes v1.37 brings 67 enhancements. Which matter for operators?",
+      "title_ja": "Kubernetes v1.37 brings 67 enhancements. Which matter for operators?",
+      "hn_url": "https://news.ycombinator.com/item?id=49679663",
+      "source_url": "https://thenewstack.io/kubecon-kubernetes-updates-security/",
+      "image_url": "https://cdn.thenewstack.io/media/2026/09/cf894579-growtika-6isceqbipmo-unsplash-scaled.jpg",
+      "score": 1,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-09-13T03:21:17Z",
+      "summary_ja": "Title: Kubernetes v1.37 brings 67 enhancements. Which matter for operators?\nArticle title: Kubernetes v1.37 brings 67 enhancements. Which matter for operators? - The New Stack\nDescription: Kubernetes is gaining AI and operations tools. Road to KubeCon explores what’s changing and the access-control gap teams still need to address.\n\nArticle text:\nKubernetes v1.37 brings 67 enhancements. Which matter for operators? - The New Stack\nTNS\nOK\nSUBSCRIBE\nJoin our community of software engineering leaders and aspirational developers. Always\nstay in-the-know by getting the most important news and exclusive content delivered\nfresh to your inbox to learn more about at-scale software development.\nEMAIL ADDRESS\nREQUIRED\nSUBSCRIBE\nRESUBSCRIPTION REQUIRED\nIt seems that you've previously unsubscribed from our newsletter\nin the past. Click the button below to open the re-subscribe form\nin a new tab. When y…"
+    },
+    {
+      "rank": 13,
+      "hn_id": 49683767,
+      "title": "Hornbound – I made a 13KB roguelike game for js13k game jam (no AI)",
+      "title_ja": "Hornbound – I made a 13KB roguelike game for js13k game jam (no AI)",
+      "hn_url": "https://news.ycombinator.com/item?id=49683767",
+      "source_url": "https://labrat.mobi/games/hornbound/",
       "score": 1,
       "final_score": 1,
       "comments": 0,
-      "posted_at": "2026-09-13T02:55:33Z",
-      "summary_ja": "Title: Biggest AI Rivals Agree They Need to Slow It Down"
+      "posted_at": "2026-09-13T13:28:07Z",
+      "summary_ja": "Title: Hornbound – I made a 13KB roguelike game for js13k game jam (no AI)\nArticle title: Hornbound\n\nArticle text:\nHornbound .loading // code"
     },
     {
-      "rank": 11,
+      "rank": 14,
       "hn_id": 49681637,
       "title": "Sam Altman addresses AI doomsday fears in new interview",
       "title_ja": "Sam Altman addresses AI doomsday fears in new interview",
@@ -156,7 +195,7 @@
       "summary_ja": "Title: Sam Altman addresses AI doomsday fears in new interview\nArticle title: Exclusive: Sam Altman addresses AI doomsday fears, IPO timing in new Fortune interview | Fortune\nDescription: The OpenAI CEO sat down with Fortune to discuss the risk AI poses to humanity, the company's IPO timing, and more.\n\nArticle text:\nExclusive: Sam Altman addresses AI doomsday fears, IPO timing in new Fortune interview | Fortune Search Subscribe Home\nExclusive: Sam Altman addresses AI doomsday fears in new interview\nBy Alyson Shontell Alyson Shontell Editor-in-Chief and Chief Content Officer Down Arrow Button Icon September 12, 2026, 12:38 PM ET Google source logo Add Fortune on Google for similar content. Add us on Google Add us on Google AI concerns hit a fever pitch this week when an Anthropic employee warned on X that all of humanity could be destroyed by the technology and that major frontier labs we…"
     },
     {
-      "rank": 12,
+      "rank": 15,
       "hn_id": 49681513,
       "title": "Robots protest in Poland over AI regulation concerns",
       "title_ja": "Robots protest in Poland over AI regulation concerns",
@@ -170,7 +209,33 @@
       "summary_ja": "Title: Robots protest in Poland over AI regulation concerns\nArticle title: Robots protest in Poland over AI regulation concerns | Protests | Al Jazeera\nDescription: Robots protest in Poland over AI regulation concerns\n\nArticle text:\nRobots protest in Poland over AI regulation concerns | Protests | Al Jazeera\nSkip links Skip to Content play Live Sign up Show navigation menu Navigation menu News Show more news sections Africa\nMore Show more sections Features\nLive Click here to search search Sign up Toggle Play Robots protest in Poland over AI regulation concerns\nRobots protest in Poland over AI regulation concerns\nAround 30 robots joined a protest in front of Poland’s digital affairs ministry, calling for stronger AI regulations. The demonstration was organised by campaigners to spark debate on how AI and robots could replace workers.\nx whatsapp-stroke copylink google Add Al Jazeera on Goo…"
     },
     {
-      "rank": 13,
+      "rank": 16,
+      "hn_id": 49684082,
+      "title": "AI Writing Is Fine",
+      "title_ja": "AI Writing Is Fine",
+      "hn_url": "https://news.ycombinator.com/item?id=49684082",
+      "source_url": "https://matthewphillips.info/programming/posts/ai-writing-is-fine/",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-09-13T13:59:12Z",
+      "summary_ja": "Title: AI Writing Is Fine\nArticle title: AI Writing Is Fine — Matthew Phillips\n\nArticle text:\nIndex\nNotes\nTalks\nArchive\nM·P / PROGRAMMING.LOG\nFeed\nAbout\nSubscribe\nWeb components · ES modules · Build tools\nLatest: AI Writing Is Fine\n5 min read\nEst. 2008\nMostly JavaScript, occasional opinions\nmatthewphillips.info/programming\nWeb components · ES modules · Build tools\nLatest: AI Writing Is Fine\n5 min read\nEst. 2008\nMostly JavaScript, occasional opinions\nmatthewphillips.info/programming\n← Back to index\nPROGRAMMING\n›\nESSAY\nAI WRITING IS FINE\nThis article was written by a living, breathing piece of meat\nHere I go, making the case for AI writing. I don’t especially want to make this case, but I feel I have to.\nI get it. The backlash comes for a reason. But people have kind of lost their minds here. If you accept writing software with LLMs, then writing isn’t meaningfully different. Both are inte…"
+    },
+    {
+      "rank": 17,
+      "hn_id": 49679515,
+      "title": "Biggest AI Rivals Agree They Need to Slow It Down",
+      "title_ja": "Biggest AI Rivals Agree They Need to Slow It Down",
+      "hn_url": "https://news.ycombinator.com/item?id=49679515",
+      "source_url": "https://www.wsj.com/tech/ai/anthropic-boss-warns-ai-industry-must-slow-the-pace-a4267b56",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-09-13T02:55:33Z",
+      "summary_ja": "Title: Biggest AI Rivals Agree They Need to Slow It Down"
+    },
+    {
+      "rank": 18,
       "hn_id": 49679599,
       "title": "Backflip: Apple now wants to train AI models with user data after all",
       "title_ja": "Backflip: Apple now wants to train AI models with user data after all",
@@ -184,7 +249,7 @@
       "summary_ja": "Title: Backflip: Apple now wants to train AI models with user data after all\nArticle title: Backflip: Apple now wants to train AI models with user data after all | heise online\nDescription: Apple’s promise was simple: Personal data from iPhone users will never be used to train AI models. That is now over.\n\nArticle text:\nheise+ entdecken Suchen Abo Suchen\nAlle Magazine im Browser lesen\nSpecial: Collaboration im KI-Zeitalter\nheise online\nTop-Beiträge von heise online\nheise online\nMost popular articles by heise online\nAnzeige Special: Collaboration im KI-Zeitalter\nAdvertisement\nBackflip: Apple now wants to train AI models with user data after all\nApple’s promise was simple: Personal data from iPhone users will never be used to train AI models. That is now over.\nlisten\nPrint view\n(Image: Sebastian Trepesch / heise medien)\nThe greed for ever more intimate AI training data does not stop at App…"
     },
     {
-      "rank": 14,
+      "rank": 19,
       "hn_id": 49681314,
       "title": "Ask HN: What if anyone could sell AI tokens from their idle GPU?",
       "title_ja": "Ask HN: What if anyone could sell AI tokens from their idle GPU?",

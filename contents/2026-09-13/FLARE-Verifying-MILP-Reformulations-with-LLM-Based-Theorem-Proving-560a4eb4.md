@@ -1,0 +1,114 @@
+---
+source: "https://flare.henryrobbins.com/"
+hn_url: "https://news.ycombinator.com/item?id=49686417"
+title: "FLARE: Verifying MILP Reformulations with LLM-Based Theorem Proving"
+article_title: "FLARE: Verifying MILP Reformulations with LLM-Based Theorem Proving"
+image: ""
+author: "matt_d"
+captured_at: "2026-09-13T17:56:10Z"
+capture_tool: "hn-digest"
+hn_id: 49686417
+score: 1
+comments: 0
+posted_at: "2026-09-13T17:34:53Z"
+tags:
+  - hacker-news
+---
+
+# FLARE: Verifying MILP Reformulations with LLM-Based Theorem Proving
+
+- HN: [49686417](https://news.ycombinator.com/item?id=49686417)
+- Source: [flare.henryrobbins.com](https://flare.henryrobbins.com/)
+- Score: 1
+- Comments: 0
+- Posted: 2026-09-13T17:34:53Z
+
+## Translation
+
+Title: FLARE: Verifying MILP Reformulations with LLM-Based Theorem Proving
+Description: Landing page for the FLARE paper. FLARE uses an LLM-based agent and the Lean proof assistant to verify mixed-integer linear program (MILP) reformulations according to the FormulationBench definition of reformulation.
+
+Article text:
+FLARE: Verifying MILP Reformulations with LLM-Based Theorem Proving FLARE: Verifying MILP Reformulations with LLM-Based Theorem Proving
+arXiv Code FormulationBench FLARE :first-child]:mt-0 [&>:last-child]:mb-0"> Abstract
+Mixed-Integer Linear Programming (MILP) is a fundamental tool for combinatorial optimization with extensive real-world applications. A central challenge is designing efficient MILP formulations. Large Language Models (LLMs) offer new opportunities to automate the modeling process, from deriving formulations to strengthening them. To ensure correctness, we need robust methods to compare formulations. However, existing approaches evaluate formulations numerically and fail to reason about general problem instances. We resolve this limitation by introducing a constructive notion of MILP reformulation that can be formalized in Lean and machine-checked. We develop FLARE (Formulation-Level Automated Reformulation Evaluation), a method that uses an LLM-based agent and the Lean proof assistant to verify proposed reformulations against a reference. To evaluate our approach, we introduce FormulationBench , a challenging dataset of 20 problems and 109 formulations. FLARE outperforms existing methods, with 100% accuracy on the NP-hard subset of FormulationBench. Furthermore, FLARE produces a machine-checkable certificate for every reformulation it accepts. For cases where formal guarantees are not necessary, we introduce FLARE-NL , a fast and cheap LLM proxy that matches FLARE ’s accuracy but produces no certificate. These methods enable reliable verification in automated optimization modeling.
+(a) An agent is given templated LaTeX and Python representations of a pair of MILP formulations and their parameter mapping and is instructed to formalize them in Lean. Combined with our formalization of MILP reformulation, this yields a formal claim that formulation B is a reformulation of A under the fixed parameter map. (b) In the second phase, the agent attempts to construct a Lean proof of that claim. The lean-lsp-mcp server allows the agent to obtain detailed feedback from the Lean process as it develops the proof.
+We evaluate FLARE and FLARE-NL on the NP-hard subset of the FormulationBench dataset and compare them against established baselines. 1 Both achieve 100% accuracy, and FLARE is the only method that generates machine-checkable reformulation certificates. 2 FLARE-NL produces no certificate, but it is 30x faster and 25x cheaper than FLARE .
+Existing methods fail to catch formulation-level modeling errors, such as transformations (1) and (2), where a transformation can appear valid on the tested instance while failing as a general reformulation. EquivaMap’s solution-mapping approach handles transformations (3) and (4), showing its advantage over the execution heuristic, but it is unable to certify validity for non-linear reformulations. In contrast, FLARE ’s formulation-level guarantees eliminate these false positives.
+FormulationBench is a dataset of 20 optimization problems 3 with 109 MILP formulations. Each formulation includes a natural-language description, LaTeX formulation, GurobiPy implementation, and Lean representation.
+The dataset also includes 89 reformulation pairs (63 positive and 26 negative examples), with a machine-checked Lean 4 reformulation 4 proof for every positive pair. Our reformulation definition is only meaningful on NP-hard problems, so the experiments use the 54 pairs (42 positive, 12 negative) belonging to the 16 NP-hard problems.
+These formulations are more challenging than those in previous datasets, requiring reasoning about general cutting plane families and meaningfully different modeling techniques.
+The formulation-bench Python package is the ideal interface for working with the dataset. First, install it with pip :
+Terminal window pip install formulation-bench
+Use the package to download the dataset and access formulations and reformulations:
+from formulation_bench import Dataset
+ds = Dataset.load()
+p1 = ds.problems[ 1 ] p1a = p1.formulations[ "a" ]
+pos = [r for r in ds.reformulations if r.is_reformulation] neg = [r for r in ds.reformulations if not r.is_reformulation]
+See the documentation for user guides, dataset contents, and the package API reference.
+The milp-flare Python package contains the official implementations of FLARE and FLARE-NL . Install it with pip and build the Docker image required to run FLARE :
+pip install milp-flare milp-flare build-image
+See Installation for details on Docker requirements and agent harness authentication.
+The combination of milp-flare and formulation-bench make it easy to run FLARE and FLARE-NL on the FormulationBench dataset.
+from pathlib import Path
+from formulation_bench import Dataset from milp_flare import FLARE , FormulationInput, ParameterMapInput from milp_flare.harness import ClaudeCodeHarness
+ds = Dataset.load() pair = ds.reformulations[ 0 ] # p1.a -> p1.b a, b = pair.a, pair.b
+harness = ClaudeCodeHarness( model = "claude-opus-5" , effort = "medium" ) flare = FLARE( harness = harness)
+a_in = FormulationInput( formulation_md = a.render_markdown(), solve_py = a.gen_solve_py()) b_in = FormulationInput( formulation_md = b.render_markdown(), solve_py = b.gen_solve_py()) map_in = ParameterMapInput( map_md = pair.parameter_map.render_markdown(), map_py = pair.gen_map_py() )
+result = flare.verify(a_in, b_in, map_in, output_path = Path( "runs/p1_a_b" )) p1.ba, b = pair.a, pair.bharness = ClaudeCodeHarness(model="claude-opus-5", effort="medium")flare = FLARE(harness=harness)a_in = FormulationInput(formulation_md=a.render_markdown(), solve_py=a.gen_solve_py())b_in = FormulationInput(formulation_md=b.render_markdown(), solve_py=b.gen_solve_py())map_in = ParameterMapInput( map_md=pair.parameter_map.render_markdown(), map_py=pair.gen_map_py())result = flare.verify(a_in, b_in, map_in, output_path=Path("runs/p1_a_b"))">
+Building a FLARE-NL prompt for the same pair:
+from milp_flare import flare_nl_prompt
+prompt = flare_nl_prompt( a.render_markdown(), b.render_markdown(), pair.parameter_map.render_markdown() )
+See the documentation for user guides, prompts, skills, and the package API reference.
+@misc { robbins2026flare , title = { {{FLARE}}: Verifying {{MILP}} Reformulations with {{LLM}}-Based Theorem Proving } , author = { Robbins, Henry and Lawless, Connor and Udell, Madeleine and Vitercik, Ellen } , year = 2026 , eprint = { 2608.25220 } , archivePrefix = { arXiv } , primaryClass = { cs.AI } , url = { https://arxiv.org/abs/2608.25220 } }
+Bibliography
+Metric cells report mean ± std. dev. across 3 runs. All LLM-based methods use Opus 5 with reasoning and medium effort level. Due to the high cost, we only do a single run of FLARE. See the paper for full details. ↩
+If automated theorem proving (ATP) fails to produce a Lean proof, FLARE declines to certify the pair, which registers as a false negative. We do not observe this failure mode with Opus 5, but it is visible across weaker configurations: the Codex harness with GPT-5.6 Sol misses one pair (98.1% accuracy) and the open-source OpenCode harness with DeepSeek V4 Pro reaches only 79.6%. Many proofs rely on standard combinatorial results that are unavailable in Lean’s libraries (e.g., flow decomposition ). As Lean libraries improve (e.g., CSLib ), FLARE can invoke such results rather than reproving them. ↩
+FormulationBench extends EquivaFormulation ( Zhai et al., 2025 ) with EvoCut cutting plane proposals ( Yazdani et al., 2025 ) and a collection of eight
+MILP formulation pairs provided by Ferchtandiker ( Ferchtandiker, 2025 ) . See the documentation for a full list of problems and formulations. ↩
+The definition of reformulation used by FormulationBench is the constructive definition described in the paper. It is also documented here . ↩
+Built with Roman Hauksson-Neill's project page template
+
+## Original Extract
+
+Landing page for the FLARE paper. FLARE uses an LLM-based agent and the Lean proof assistant to verify mixed-integer linear program (MILP) reformulations according to the FormulationBench definition of reformulation.
+
+FLARE: Verifying MILP Reformulations with LLM-Based Theorem Proving FLARE: Verifying MILP Reformulations with LLM-Based Theorem Proving
+arXiv Code FormulationBench FLARE :first-child]:mt-0 [&>:last-child]:mb-0"> Abstract
+Mixed-Integer Linear Programming (MILP) is a fundamental tool for combinatorial optimization with extensive real-world applications. A central challenge is designing efficient MILP formulations. Large Language Models (LLMs) offer new opportunities to automate the modeling process, from deriving formulations to strengthening them. To ensure correctness, we need robust methods to compare formulations. However, existing approaches evaluate formulations numerically and fail to reason about general problem instances. We resolve this limitation by introducing a constructive notion of MILP reformulation that can be formalized in Lean and machine-checked. We develop FLARE (Formulation-Level Automated Reformulation Evaluation), a method that uses an LLM-based agent and the Lean proof assistant to verify proposed reformulations against a reference. To evaluate our approach, we introduce FormulationBench , a challenging dataset of 20 problems and 109 formulations. FLARE outperforms existing methods, with 100% accuracy on the NP-hard subset of FormulationBench. Furthermore, FLARE produces a machine-checkable certificate for every reformulation it accepts. For cases where formal guarantees are not necessary, we introduce FLARE-NL , a fast and cheap LLM proxy that matches FLARE ’s accuracy but produces no certificate. These methods enable reliable verification in automated optimization modeling.
+(a) An agent is given templated LaTeX and Python representations of a pair of MILP formulations and their parameter mapping and is instructed to formalize them in Lean. Combined with our formalization of MILP reformulation, this yields a formal claim that formulation B is a reformulation of A under the fixed parameter map. (b) In the second phase, the agent attempts to construct a Lean proof of that claim. The lean-lsp-mcp server allows the agent to obtain detailed feedback from the Lean process as it develops the proof.
+We evaluate FLARE and FLARE-NL on the NP-hard subset of the FormulationBench dataset and compare them against established baselines. 1 Both achieve 100% accuracy, and FLARE is the only method that generates machine-checkable reformulation certificates. 2 FLARE-NL produces no certificate, but it is 30x faster and 25x cheaper than FLARE .
+Existing methods fail to catch formulation-level modeling errors, such as transformations (1) and (2), where a transformation can appear valid on the tested instance while failing as a general reformulation. EquivaMap’s solution-mapping approach handles transformations (3) and (4), showing its advantage over the execution heuristic, but it is unable to certify validity for non-linear reformulations. In contrast, FLARE ’s formulation-level guarantees eliminate these false positives.
+FormulationBench is a dataset of 20 optimization problems 3 with 109 MILP formulations. Each formulation includes a natural-language description, LaTeX formulation, GurobiPy implementation, and Lean representation.
+The dataset also includes 89 reformulation pairs (63 positive and 26 negative examples), with a machine-checked Lean 4 reformulation 4 proof for every positive pair. Our reformulation definition is only meaningful on NP-hard problems, so the experiments use the 54 pairs (42 positive, 12 negative) belonging to the 16 NP-hard problems.
+These formulations are more challenging than those in previous datasets, requiring reasoning about general cutting plane families and meaningfully different modeling techniques.
+The formulation-bench Python package is the ideal interface for working with the dataset. First, install it with pip :
+Terminal window pip install formulation-bench
+Use the package to download the dataset and access formulations and reformulations:
+from formulation_bench import Dataset
+ds = Dataset.load()
+p1 = ds.problems[ 1 ] p1a = p1.formulations[ "a" ]
+pos = [r for r in ds.reformulations if r.is_reformulation] neg = [r for r in ds.reformulations if not r.is_reformulation]
+See the documentation for user guides, dataset contents, and the package API reference.
+The milp-flare Python package contains the official implementations of FLARE and FLARE-NL . Install it with pip and build the Docker image required to run FLARE :
+pip install milp-flare milp-flare build-image
+See Installation for details on Docker requirements and agent harness authentication.
+The combination of milp-flare and formulation-bench make it easy to run FLARE and FLARE-NL on the FormulationBench dataset.
+from pathlib import Path
+from formulation_bench import Dataset from milp_flare import FLARE , FormulationInput, ParameterMapInput from milp_flare.harness import ClaudeCodeHarness
+ds = Dataset.load() pair = ds.reformulations[ 0 ] # p1.a -> p1.b a, b = pair.a, pair.b
+harness = ClaudeCodeHarness( model = "claude-opus-5" , effort = "medium" ) flare = FLARE( harness = harness)
+a_in = FormulationInput( formulation_md = a.render_markdown(), solve_py = a.gen_solve_py()) b_in = FormulationInput( formulation_md = b.render_markdown(), solve_py = b.gen_solve_py()) map_in = ParameterMapInput( map_md = pair.parameter_map.render_markdown(), map_py = pair.gen_map_py() )
+result = flare.verify(a_in, b_in, map_in, output_path = Path( "runs/p1_a_b" )) p1.ba, b = pair.a, pair.bharness = ClaudeCodeHarness(model="claude-opus-5", effort="medium")flare = FLARE(harness=harness)a_in = FormulationInput(formulation_md=a.render_markdown(), solve_py=a.gen_solve_py())b_in = FormulationInput(formulation_md=b.render_markdown(), solve_py=b.gen_solve_py())map_in = ParameterMapInput( map_md=pair.parameter_map.render_markdown(), map_py=pair.gen_map_py())result = flare.verify(a_in, b_in, map_in, output_path=Path("runs/p1_a_b"))">
+Building a FLARE-NL prompt for the same pair:
+from milp_flare import flare_nl_prompt
+prompt = flare_nl_prompt( a.render_markdown(), b.render_markdown(), pair.parameter_map.render_markdown() )
+See the documentation for user guides, prompts, skills, and the package API reference.
+@misc { robbins2026flare , title = { {{FLARE}}: Verifying {{MILP}} Reformulations with {{LLM}}-Based Theorem Proving } , author = { Robbins, Henry and Lawless, Connor and Udell, Madeleine and Vitercik, Ellen } , year = 2026 , eprint = { 2608.25220 } , archivePrefix = { arXiv } , primaryClass = { cs.AI } , url = { https://arxiv.org/abs/2608.25220 } }
+Bibliography
+Metric cells report mean ± std. dev. across 3 runs. All LLM-based methods use Opus 5 with reasoning and medium effort level. Due to the high cost, we only do a single run of FLARE. See the paper for full details. ↩
+If automated theorem proving (ATP) fails to produce a Lean proof, FLARE declines to certify the pair, which registers as a false negative. We do not observe this failure mode with Opus 5, but it is visible across weaker configurations: the Codex harness with GPT-5.6 Sol misses one pair (98.1% accuracy) and the open-source OpenCode harness with DeepSeek V4 Pro reaches only 79.6%. Many proofs rely on standard combinatorial results that are unavailable in Lean’s libraries (e.g., flow decomposition ). As Lean libraries improve (e.g., CSLib ), FLARE can invoke such results rather than reproving them. ↩
+FormulationBench extends EquivaFormulation ( Zhai et al., 2025 ) with EvoCut cutting plane proposals ( Yazdani et al., 2025 ) and a collection of eight
+MILP formulation pairs provided by Ferchtandiker ( Ferchtandiker, 2025 ) . See the documentation for a full list of problems and formulations. ↩
+The definition of reformulation used by FormulationBench is the constructive definition described in the paper. It is also documented here . ↩
+Built with Roman Hauksson-Neill's project page template

@@ -1,6 +1,6 @@
 {
   "date": "2026-09-14",
-  "generated_at": "2026-09-14T00:48:25Z",
+  "generated_at": "2026-09-14T05:52:36Z",
   "articles": [
     {
       "rank": 1,
@@ -31,19 +31,73 @@
     },
     {
       "rank": 3,
-      "hn_id": 49690154,
-      "title": "AI Boom / Bust – Boom Boom Pow",
-      "title_ja": "AI Boom / Bust – Boom Boom Pow",
-      "hn_url": "https://news.ycombinator.com/item?id=49690154",
-      "source_url": "",
+      "hn_id": 49692366,
+      "title": "Show HN: Kepil – passport, mandate and tamper-evident journal for AI agents",
+      "title_ja": "Show HN: Kepil – passport, mandate and tamper-evident journal for AI agents",
+      "hn_url": "https://news.ycombinator.com/item?id=49692366",
+      "source_url": "https://github.com/oleg-vdv/kepil",
+      "image_url": "https://opengraph.githubassets.com/0e1704ed7ae0e39472297465b739d8c80fc27bf327623985113c3bcc9032bde9/oleg-vdv/kepil",
       "score": 2,
-      "final_score": 2,
-      "comments": 1,
-      "posted_at": "2026-09-14T00:08:41Z",
-      "summary_ja": "Title: AI Boom / Bust – Boom Boom Pow\nHN text: Constant chatter about AI being in a boom right now, a blimp sized bubble going to pop soon. It's taking our jobs. These are common statements of expression I hear everyday. I use AI daily, I use it in and out of work every single day. While there is some truth in there, I say harness the power of it, learn it, don't run away, run towards it. Of course every person on here has heard the recent sentiment expressed by the experts, its eerie, dark, and think there is some truth there. However, I choose optimism, hoping leaders of the world choose governance and moderation. We should all run towards that, use AI for goodness, positivity, self-expression, and ethics."
+      "final_score": 5,
+      "comments": 0,
+      "posted_at": "2026-09-14T05:28:36Z",
+      "summary_ja": "Title: Show HN: Kepil – passport, mandate and tamper-evident journal for AI agents\nArticle title: GitHub - oleg-vdv/kepil: Accountability layer for AI agents: passport, mandate, action gateway, tamper-evident journal — and undo · GitHub\nDescription: Accountability layer for AI agents: passport, mandate, action gateway, tamper-evident journal — and undo - oleg-vdv/kepil\n\nArticle text:\nGitHub - oleg-vdv/kepil: Accountability layer for AI agents: passport, mandate, action gateway, tamper-evident journal — and undo · GitHub\nSkip to content\nNavigation Menu\nSign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI\nGitHub Copilot app Direct agents from issue to merge\nMCP Registry Integrate external tools\nDEVELOPER WORKFLOWS Actions Automate any workflow\nCodespaces Instant dev environments\nCode Review Manage code changes\nCode Quality Enforce quality at merge…"
     },
     {
       "rank": 4,
+      "hn_id": 49692215,
+      "title": "Ask HN: Do you worry about fires in AI datacenters?",
+      "title_ja": "Ask HN: Do you worry about fires in AI datacenters?",
+      "hn_url": "https://news.ycombinator.com/item?id=49692215",
+      "source_url": "",
+      "score": 3,
+      "final_score": 3,
+      "comments": 5,
+      "posted_at": "2026-09-14T05:04:24Z",
+      "summary_ja": "Title: Ask HN: Do you worry about fires in AI datacenters?"
+    },
+    {
+      "rank": 5,
+      "hn_id": 49690073,
+      "title": "OpenAI and Anthropic Hit the Brakes",
+      "title_ja": "OpenAI and Anthropic Hit the Brakes",
+      "hn_url": "https://news.ycombinator.com/item?id=49690073",
+      "source_url": "https://www.axios.com/2026/09/13/ai-labs-regulation-safety",
+      "score": 2,
+      "final_score": 2,
+      "comments": 2,
+      "posted_at": "2026-09-13T23:58:17Z",
+      "summary_ja": "Title: OpenAI and Anthropic Hit the Brakes"
+    },
+    {
+      "rank": 6,
+      "hn_id": 49692470,
+      "title": "Ask HN: Is opaque over-engineering with frontier AI the future of software?",
+      "title_ja": "Ask HN: Is opaque over-engineering with frontier AI the future of software?",
+      "hn_url": "https://news.ycombinator.com/item?id=49692470",
+      "source_url": "",
+      "score": 2,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-09-14T05:45:35Z",
+      "summary_ja": "Title: Ask HN: Is opaque over-engineering with frontier AI the future of software?\nHN text: I read this from Amazon CTO’s feed. It feels to me as the kool-aid driven hype driven version of software engineering. Is it the new normal? Are people at FAANG just accepting blindly opaque overengineered software as a thing now?"
+    },
+    {
+      "rank": 7,
+      "hn_id": 49692345,
+      "title": "Byblos AI: AI co-founder sharing context across product, brand, and campaigns",
+      "title_ja": "Byblos AI: AI co-founder sharing context across product, brand, and campaigns",
+      "hn_url": "https://news.ycombinator.com/item?id=49692345",
+      "source_url": "https://byblosai.app",
+      "image_url": "https://byblosai.app/brand/byblosai/share-card.png",
+      "score": 1,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-09-14T05:25:39Z",
+      "summary_ja": "Title: Byblos AI: AI co-founder sharing context across product, brand, and campaigns\nArticle title: Byblos AI — Your AI Co-Founder\nDescription: Your AI Co-Founder. Product, brand, and campaign management in one platform + access to vetted human experts. Co-CTO for strong engineering foundations coming soon.\n\nArticle text:\nByblos AI — Your AI Co-Founder"
+    },
+    {
+      "rank": 8,
       "hn_id": 49690139,
       "title": "\"Chilling\" warning or overreaction? AI bioweapons report divides experts",
       "title_ja": "\"Chilling\" warning or overreaction? AI bioweapons report divides experts",
@@ -56,7 +110,7 @@
       "summary_ja": "Title: \"Chilling\" warning or overreaction? AI bioweapons report divides experts"
     },
     {
-      "rank": 5,
+      "rank": 9,
       "hn_id": 49690260,
       "title": "Open-Source AI and Open Models Reading List",
       "title_ja": "Open-Source AI and Open Models Reading List",
@@ -70,20 +124,47 @@
       "summary_ja": "Title: Open-Source AI and Open Models Reading List\nArticle title: Open-Source AI \u0026 Open Models Reading List\nDescription: How to get up to speed on open models and their implications.\n\nArticle text:\nOpen-Source AI \u0026 Open Models Reading List\nSubscribe Sign in Open-Source AI \u0026 Open Models Reading List\nHow to get up to speed on open models and their implications.\n82 3 15 Share Hey all! I’ve been prepping for some public-audience and policy-facing writing on open models, so I figured I would share my research materials. There’s lots of wonderful stuff in here.\nThis is my list of the best writing on open models in the last few years. If someone decides they want to get up to speed on the area, reading this will be a comprehensive overview of the state of affairs. Please comment pieces to consider adding below, and I’ll update this over time.\nList last updated: 13 Sep. 2026\nWhat open models are…"
     },
     {
-      "rank": 6,
-      "hn_id": 49690073,
-      "title": "OpenAI and Anthropic Hit the Brakes",
-      "title_ja": "OpenAI and Anthropic Hit the Brakes",
-      "hn_url": "https://news.ycombinator.com/item?id=49690073",
-      "source_url": "https://www.axios.com/2026/09/13/ai-labs-regulation-safety",
+      "rank": 10,
+      "hn_id": 49692134,
+      "title": "Open-Weight Diplomacy: How China's AI Models Are Rerunning the Digital Silk Road",
+      "title_ja": "Open-Weight Diplomacy: How China's AI Models Are Rerunning the Digital Silk Road",
+      "hn_url": "https://news.ycombinator.com/item?id=49692134",
+      "source_url": "https://www.lawfaremedia.org/article/open-weight-diplomacy--how-china-s-ai-models-are-rerunning-the-digital-silk-road",
+      "image_url": "https://lawfare-assets-new.azureedge.net/assets/images/default-source/article-images/hk_cwb_%E9%8A%85%E9%91%BC%E7%81%A3_causeway_bay_%E8%BB%92%E5%B0%BC%E8%A9%A9%E9%81%93_hennessy_road_tram_station_ads_%E9%98%BF%E9%87%8C%E9%9B%B2_alibaba_cloud_x_%E9%96%8B%E9%A3%AF%E5%96%87_openrice_night_january_2019_ssg-1.jpg?sfvrsn=aa8f9b17_4",
       "score": 2,
       "final_score": 2,
-      "comments": 2,
-      "posted_at": "2026-09-13T23:58:17Z",
-      "summary_ja": "Title: OpenAI and Anthropic Hit the Brakes"
+      "comments": 0,
+      "posted_at": "2026-09-14T04:52:07Z",
+      "summary_ja": "Title: Open-Weight Diplomacy: How China's AI Models Are Rerunning the Digital Silk Road\nArticle title: Open-Weight Diplomacy: How China’s AI Models Are Rerunning the Digital Silk Road | Lawfare\nDescription: China's “free” AI models are rerunning Huawei’s telecom playbook: Give the weights away, sell the stack around it, own the dependency.\n\nArticle text:\nSkip to Main Content\nMenu\nClose\nSubscribe\nThe upcoming main navigation can be gotten through utilizing the tab key. Any buttons that open a sub navigation can be triggered by the space or enter key.\nCriminal Justice \u0026 Rule of Law\nForeign Relations \u0026 International Law\nPodcasts \u0026 Multimedia\nPodcasts\nLawfare Daily\nVideos/Webinars\nDeportation, Inc.\nProjects \u0026 Series\n25th Anniversary of 9/11\nTrials of the Trump Administration\nLitigation Tracker\nTracking Domestic Deployments of the U.S. Military\nTracking Government Non-Compliance in Habeas Cor…"
     },
     {
-      "rank": 7,
+      "rank": 11,
+      "hn_id": 49690154,
+      "title": "AI Boom / Bust – Boom Boom Pow",
+      "title_ja": "AI Boom / Bust – Boom Boom Pow",
+      "hn_url": "https://news.ycombinator.com/item?id=49690154",
+      "source_url": "",
+      "score": 2,
+      "final_score": 2,
+      "comments": 1,
+      "posted_at": "2026-09-14T00:08:41Z",
+      "summary_ja": "Title: AI Boom / Bust – Boom Boom Pow\nHN text: Constant chatter about AI being in a boom right now, a blimp sized bubble going to pop soon. It's taking our jobs. These are common statements of expression I hear everyday. I use AI daily, I use it in and out of work every single day. While there is some truth in there, I say harness the power of it, learn it, don't run away, run towards it. Of course every person on here has heard the recent sentiment expressed by the experts, its eerie, dark, and think there is some truth there. However, I choose optimism, hoping leaders of the world choose governance and moderation. We should all run towards that, use AI for goodness, positivity, self-expression, and ethics."
+    },
+    {
+      "rank": 12,
+      "hn_id": 49692144,
+      "title": "Show HN: I was frustrated with AI giving confident answer,Even when it was wrong",
+      "title_ja": "Show HN: I was frustrated with AI giving confident answer,Even when it was wrong",
+      "hn_url": "https://news.ycombinator.com/item?id=49692144",
+      "source_url": "https://demo.aqqai.in",
+      "score": 2,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-09-14T04:53:32Z",
+      "summary_ja": "Title: Show HN: I was frustrated with AI giving confident answer,Even when it was wrong\nArticle title: AQQAI — every answer checked before you see it\nDescription: AQQAI sends your question to several models, scores the answers, and puts them past a referee before returning one.\n\nArticle text:\nAQQAI\nEvery answer, checked before you see it.\nPre-execution verification that intercepts AI errors, hallucinations, and code anomalies before they ever reach your interface."
+    },
+    {
+      "rank": 13,
       "hn_id": 49690382,
       "title": "The librarian, the car keys, and AI",
       "title_ja": "The librarian, the car keys, and AI",
@@ -97,21 +178,7 @@
       "summary_ja": "Title: The librarian, the car keys, and AI\nDescription: How builders, lawmakers, and civil libertarians can prevent over-regulation and preserve its potential\n\nArticle text:\nThe librarian, the car keys, and AI\nSubscribe Sign in The librarian, the car keys, and AI\nHow builders, lawmakers, and civil libertarians can prevent over-regulation and preserve its potential\nGreg Lukianoff and Adam Goldstein Sep 10, 2026 30 8 7 Share The AIs are getting loose.\nSecurity lab Irregular gave AI assistants dull office jobs earlier this year: summarize wiki articles and back up files. Neither of the prompts said anything about security or hacking. When file permissions and protective software stopped them, some of the assistants hacked the systems.\nAt an Alibaba -affiliated company, an agent still in training pushed past boundaries and started using the company’s graphics chips to mine cryptocurrency. At…"
     },
     {
-      "rank": 8,
-      "hn_id": 49690058,
-      "title": "AI Coding Dictionary",
-      "title_ja": "AI Coding Dictionary",
-      "hn_url": "https://news.ycombinator.com/item?id=49690058",
-      "source_url": "https://www.aihero.dev/ai-coding-dictionary",
-      "image_url": "https://res.cloudinary.com/total-typescript/image/upload/v1777983728/ai-coding-dictionary-og_2x.jpg",
-      "score": 1,
-      "final_score": 1,
-      "comments": 0,
-      "posted_at": "2026-09-13T23:56:24Z",
-      "summary_ja": "Title: AI Coding Dictionary\nDescription: The vocabulary of AI coding, translated into plain English for engineers.\n\nArticle text:\nAI Coding Dictionary AI Hero Courses\nMap Skills Open source LLM Fundamentals AI Engineer Roadmap AI Coding Dictionary All posts AI Hero · Dictionary\nThe vocabulary of AI coding, in plain English .\nSkimmable definitions for the terms that make agentic coding click. Search 69 entries below, or jump into a section.\n4,569 · mattpocock / dictionary-of-ai-coding # the-model\n# sessions,-context-windows-\u0026-turns\nSearch the dictionary... Search the dictionary... Sections\n# Sessions, Context Windows \u0026 Turns 8\nA moving label, not a technology. Points at whatever computers can newly, impressively do — right now, large language models.\nThe parameters. Stateless — does next-token prediction and nothing else. Cannot do anything agentic on its own.\nThe numbers inside a model —…"
-    },
-    {
-      "rank": 9,
+      "rank": 14,
       "hn_id": 49690411,
       "title": "AI Robots – When will they be in our homes",
       "title_ja": "AI Robots – When will they be in our homes",
@@ -125,7 +192,7 @@
       "summary_ja": "Title: AI Robots – When will they be in our homes\nArticle title: AI Robots: When Will They Be in Our Homes? - IEEE Spectrum\nDescription: AI robots are advanced humanoids that can do useful tasks and are powered by machine learning. Examples include the latest humanoid robots from Tesla, Boston Dynamics, Figure, Sanctuary AI, 1X, and Unitree. The goal is for these robots to be used for household chores, with AI training them to be cap\n[truncated]\n\nArticle text:\n--\u003e\nRaven.config('https://6b64f5cc8af542cbb920e0238864390a@sentry.io/147999').install();\nAI Robots: When Will They Be in Our Homes? - IEEE Spectrum\nIEEE.org IEEE Xplore IEEE Standards IEEE Job Site More Sites Sign In Join IEEE Where’s My Robot? Share FOR THE TECHNOLOGY INSIDER Search: Explore by topic Aerospace AI Biomedical Climate Tech Computing Consumer Electronics Energy History of Technology Robotics Semiconductors Telecommuni…"
     },
     {
-      "rank": 10,
+      "rank": 15,
       "hn_id": 49690345,
       "title": "Wikipedia's Oberranks Incident",
       "title_ja": "Wikipedia's Oberranks Incident",
@@ -138,7 +205,7 @@
       "summary_ja": "Title: Wikipedia's Oberranks Incident\nArticle title: /g/ - Wikipedia's Oberranks incident - Technology - 4chan\nDescription: Wikipedia's Oberranks incident - \"/g/ - Technology\" is 4chan\n\nArticle text:\n/g/ - Wikipedia's Oberranks incident - Technology - 4chan [ a / b / c / d / e / f / g / gif / h / hr / k / m / o / p / s / t / u / v / vg / vm / vmg / vr / vrpg / vst / w / wg ] [ i / ic ] [ r9k / s4s / vip ] [ cm / hm / lgbt / y ] [ 3 / aco / adv / an / bant / biz / cgl / ck / co / diy / fa / fit / gd / hc / his / int / jp / lit / mlp / mu / n / news / out / po / pol / pw / qst / sci / soc / sp / tg / toy / trv / tv / vp / vt / wsg / wsr / x / xs ] [ Settings ] [ Search ] [ Mobile ] [ Home ] Board ▼ Settings Mobile Home /g/ - Technology Return Catalog Bottom Refresh Post a Reply [ Post a Reply ] Name Options Comment Verification 4chan Pass users can bypass this verification. [ Learn More ]…"
     },
     {
-      "rank": 11,
+      "rank": 16,
       "hn_id": 49690366,
       "title": "Worrying about bad AI code is worrying about the wrong problem",
       "title_ja": "Worrying about bad AI code is worrying about the wrong problem",
@@ -150,6 +217,20 @@
       "comments": 0,
       "posted_at": "2026-09-14T00:37:40Z",
       "summary_ja": "Title: Worrying about bad AI code is worrying about the wrong problem\nArticle title: Worrying about bad AI code is worrying about the wrong problem :: Matt Horn\nDescription: You’ll see endless articles about AI slop taking over codebases (Bad code is kudzu): senior engineers can’t review it all, the code is the worst it’s ever …\n\nArticle text:\nmatthorn.io\ntheme: pistachio Worrying about bad AI code is worrying about the wrong problem\nYou’ll see endless articles about AI slop taking over codebases ( Bad code is kudzu ): senior engineers can’t review it all, the code is the worst it’s ever been, my god the code is so bad.\nI’m not here to argue the code isn’t bad. It is. It’s always been bad. The only difference now is that people talk about it, and AI gets the blame. Rarely in my career have I seen anyone discuss code quality above the team level. The rule has always been: if the system ma…"
+    },
+    {
+      "rank": 17,
+      "hn_id": 49690058,
+      "title": "AI Coding Dictionary",
+      "title_ja": "AI Coding Dictionary",
+      "hn_url": "https://news.ycombinator.com/item?id=49690058",
+      "source_url": "https://www.aihero.dev/ai-coding-dictionary",
+      "image_url": "https://res.cloudinary.com/total-typescript/image/upload/v1777983728/ai-coding-dictionary-og_2x.jpg",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-09-13T23:56:24Z",
+      "summary_ja": "Title: AI Coding Dictionary\nDescription: The vocabulary of AI coding, translated into plain English for engineers.\n\nArticle text:\nAI Coding Dictionary AI Hero Courses\nMap Skills Open source LLM Fundamentals AI Engineer Roadmap AI Coding Dictionary All posts AI Hero · Dictionary\nThe vocabulary of AI coding, in plain English .\nSkimmable definitions for the terms that make agentic coding click. Search 69 entries below, or jump into a section.\n4,569 · mattpocock / dictionary-of-ai-coding # the-model\n# sessions,-context-windows-\u0026-turns\nSearch the dictionary... Search the dictionary... Sections\n# Sessions, Context Windows \u0026 Turns 8\nA moving label, not a technology. Points at whatever computers can newly, impressively do — right now, large language models.\nThe parameters. Stateless — does next-token prediction and nothing else. Cannot do anything agentic on its own.\nThe numbers inside a model —…"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "date": "2026-09-15",
-  "generated_at": "2026-09-15T07:16:48Z",
+  "generated_at": "2026-09-15T13:12:35Z",
   "articles": [
     {
       "rank": 1,
@@ -18,6 +18,20 @@
     },
     {
       "rank": 2,
+      "hn_id": 49711455,
+      "title": "Open weights are not open source: Why AI's favorite label is under dispute",
+      "title_ja": "Open weights are not open source: Why AI's favorite label is under dispute",
+      "hn_url": "https://news.ycombinator.com/item?id=49711455",
+      "source_url": "https://www.theregister.com/columnists/2026/09/15/open-weights-are-not-open-source-why-ais-favorite-label-is-under-dispute/5295436",
+      "image_url": "https://image.theregister.com/5295478.jpg?imageId=5295478\u0026x=0\u0026y=0\u0026cropw=100\u0026croph=100\u0026panox=0\u0026panoy=0\u0026panow=100\u0026panoh=100\u0026width=1200\u0026height=683",
+      "score": 4,
+      "final_score": 8,
+      "comments": 0,
+      "posted_at": "2026-09-15T12:21:26Z",
+      "summary_ja": "Title: Open weights are not open source: Why AI's favorite label is under dispute\nDescription: Downloading a model is increasingly easy. Understanding how it was made, or changing a system at its root, is another matter\n\nArticle text:\nJump to main content\nSearch\nTOPICS\nSpecial Features\nAll Special Features\nCloud Infrastructure Month 2026\nModernizing Financial Services with FIS and AWS\nMake it real with Capgemini and AWS\nNutanix: Scale Kubernetes. Not Chaos.\nOpen weights are not open source: Why AI's favorite label is under dispute\nDownloading a model is increasingly easy. Understanding how it was made, or changing a system at its root, is another matter\nSteven J. Vaughan-Nichols\nSteven\nJ. Vaughan-Nichols\nPublished\ntue 15 Sep 2026 // 09:30 UTC\nREAD MORE\nAnthropic and OpenAI look to Uncle Sam to make them too big to fail\nnow\nGive Xfce a Mac or Unity-style makeover\n3 hours ago\nMost people w…"
+    },
+    {
+      "rank": 3,
       "hn_id": 49706124,
       "title": "AI, Redistribution, and the Size of the Pie",
       "title_ja": "AI, Redistribution, and the Size of the Pie",
@@ -31,7 +45,7 @@
       "summary_ja": "Title: AI, Redistribution, and the Size of the Pie\nArticle title: AI, Redistribution, and the Size of the Pie - Marginal REVOLUTION\nDescription: Anthropic’s economic team, including Anton Korinek and Chad Jones, have a valuable new paper, Economic Scenarios for Transformative AI. They make their assumptions explicit and provide a scenario explorer that lets you change them. How capable will AI become? How quickly will firms adopt it? Will it\n[truncated]\n\nArticle text:\nToggle navigation\nAbout Marginal Revolution\nOur Textbook: Modern Principles of Economics\nMarginal Revolution University\nAI, Redistribution, and the Size of the Pie\nAnthropic’s economic team, including Anton Korinek and Chad Jones, have a valuable new paper, Economic Scenarios for Transformative AI . They make their assumptions explicit and provide a scenario explorer that lets you change them. How capable will AI become? Ho…"
     },
     {
-      "rank": 3,
+      "rank": 4,
       "hn_id": 49706175,
       "title": "Prosecutors say man used AI to 'scrape' court website, asked it for legal help",
       "title_ja": "Prosecutors say man used AI to 'scrape' court website, asked it for legal help",
@@ -45,7 +59,7 @@
       "summary_ja": "Title: Prosecutors say man used AI to 'scrape' court website, asked it for legal help\nArticle title: Prosecutors allege man used AI to 'scrape' court website, then asked ChatGPT for legal help - ABC News\nDescription: A Sydney man charged over a massive data breach involving a NSW courts website allegedly used generative AI to create \"scraper\" computer code for bulk downloading before asking ChatGPT for legal advice, a court hears.\n\nArticle text:\nProsecutors allege man used AI to 'scrape' court website, then asked ChatGPT for legal help - ABC News Skip to main content Skip to news navigation, settings and search Explore the ABC\nMore from ABC Close menu ABC ABC News\nAppearance (BETA) Follow system settings Select an option Always light\nABC News News Home Prosecutors allege man used AI to 'scrape' court website, then asked ChatGPT for legal help Share Share article Prosecutors allege man us…"
     },
     {
-      "rank": 4,
+      "rank": 5,
       "hn_id": 49708711,
       "title": "KnowBench: Evaluating clinical AI with effort reduction",
       "title_ja": "KnowBench: Evaluating clinical AI with effort reduction",
@@ -59,7 +73,49 @@
       "summary_ja": "Title: KnowBench: Evaluating clinical AI with effort reduction\nArticle title: [2609.15794] KnowBench: Effort Reduction as a Unified, Deployment-Grounded Benchmark for Clinical AI\nDescription: Abstract page for arXiv paper 2609.15794: KnowBench: Effort Reduction as a Unified, Deployment-Grounded Benchmark for Clinical AI\n\nArticle text:\nSkip to main content\nSearch\nSubmit\nDonate\nLog in\nSearch arXiv\nPress Enter to search · Advanced search\n--\u003e\nComputer Science \u003e Artificial Intelligence\n[Submitted on 14 Sep 2026]\nTitle: KnowBench: Effort Reduction as a Unified, Deployment-Grounded Benchmark for Clinical AI\nAbstract: Clinical AI systems are evaluated with instruments built for research settings (reference-based similarity metrics and expert rubric panels) that measure resemblance to an artifact rather than reduction of a burden. We introduce KnowBench, pioneered by Knowtex, whose unifying metri…"
     },
     {
-      "rank": 5,
+      "rank": 6,
+      "hn_id": 49711367,
+      "title": "Who funds METR? The viral Anthropic funding thread",
+      "title_ja": "Who funds METR? The viral Anthropic funding thread",
+      "hn_url": "https://news.ycombinator.com/item?id=49711367",
+      "source_url": "https://tokenstead.ai/guides/who-funds-metr-anthropic-thread-audited",
+      "image_url": "https://tokenstead.ai/og/guides/who-funds-metr-anthropic-thread-audited.png",
+      "score": 3,
+      "final_score": 5,
+      "comments": 0,
+      "posted_at": "2026-09-15T12:13:52Z",
+      "summary_ja": "Title: Who funds METR? The viral Anthropic funding thread\nArticle title: Who funds METR? The viral Anthropic thread, audited\nDescription: A viral thread claims Anthropic's owners secretly fund its AI-safety evaluator METR. We trace every link against the filings and funder lists it cites.\n\nArticle text:\ndropdown#hide keydown.esc@window-\u003edropdown#hideOnKeydown\"\u003e\nModels\nHardware\nRigs\nUse cases\nGuides\ndropdown#hide keydown.esc@window-\u003edropdown#hideOnKeydown\"\u003e\ndropdown#toggle\"\ndata-dropdown-target=\"trigger\"\naria-haspopup=\"true\"\naria-expanded=\"false\"\u003e\nTooling\n▾\nAgent harnesses\nAutonomous agents\nBusiness AI\nMarketing agents\nAgent workspaces\nAgent monitoring\nHarness benchmark\nCalculator\nTokens / sec\nReferrals\ntheme#cycle\"\naria-label=\"Toggle theme\"\u003e\nClaim your /u/name\nSign in\ndropdown#toggle\"\ndata-dropdown-target=\"trigger\"\naria-haspopup=\"true\"\naria-expanded=\"false\"\naria-label=\"Open menu\"\u003e\nModels…"
+    },
+    {
+      "rank": 7,
+      "hn_id": 49711362,
+      "title": "The Synthetic Yes-Man: AI, Dunning-Kruger, and the Modern Voigt-Kampff Test",
+      "title_ja": "The Synthetic Yes-Man: AI, Dunning-Kruger, and the Modern Voigt-Kampff Test",
+      "hn_url": "https://news.ycombinator.com/item?id=49711362",
+      "source_url": "https://www.thesimgap.com/p/the-synthetic-yes-man-ai-dunning",
+      "image_url": "https://substackcdn.com/image/fetch/$s_!O7Pt!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F24e540a8-80d0-4a32-93be-7708ad2fbad7_936x624.jpeg",
+      "score": 2,
+      "final_score": 4,
+      "comments": 0,
+      "posted_at": "2026-09-15T12:13:23Z",
+      "summary_ja": "Title: The Synthetic Yes-Man: AI, Dunning-Kruger, and the Modern Voigt-Kampff Test\nDescription: How large language models inverted a sci-fi classic and supercharged unearned confidence in tech culture. Voigt-Kampff. Dunning-Kruger\n\nArticle text:\nThe Synthetic Yes-Man: AI, Dunning-Kruger, and the Modern Voigt-Kampff Test\nThe Sim Gap\nSubscribe Sign in The Synthetic Yes-Man: AI, Dunning-Kruger, and the Modern Voigt-Kampff Test\nHow large language models inverted a sci-fi classic and supercharged unearned confidence in tech culture.\nThe Sim Gap Sep 14, 2026 Share\nThanks for reading! Subscribe for free to receive new posts and support my work.\nPhoto by Hiep Duong on Unsplash\nWe have found ourselves at a bizarre modern intersection: the collision of the real-world Dunning-Kruger effect and Philip K. Dick’s sci-fi vision of the Voigt-Kampff test .\nTo review: Dunning-Kruger (1999) is the cognitiv…"
+    },
+    {
+      "rank": 8,
+      "hn_id": 49711939,
+      "title": "Show HN: Bough, the agent I built to replace Claude Code at work",
+      "title_ja": "Show HN: Bough, the agent I built to replace Claude Code at work",
+      "hn_url": "https://news.ycombinator.com/item?id=49711939",
+      "source_url": "https://github.com/andreylukin/bough",
+      "image_url": "https://opengraph.githubassets.com/93573d239c53d4310bc1ab9b03e44f1010c158173fede0a91295e55018e663a7/andreylukin/bough",
+      "score": 2,
+      "final_score": 4,
+      "comments": 0,
+      "posted_at": "2026-09-15T13:04:27Z",
+      "summary_ja": "Title: Show HN: Bough, the agent I built to replace Claude Code at work\nArticle title: GitHub - andreylukin/bough: A terminal coding agent where the model writes one program instead of calling tools one at a time. · GitHub\nDescription: A terminal coding agent where the model writes one program instead of calling tools one at a time. - andreylukin/bough\n\nArticle text:\nGitHub - andreylukin/bough: A terminal coding agent where the model writes one program instead of calling tools one at a time. · GitHub\nSkip to content\nNavigation Menu\nSign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI\nGitHub Copilot app Direct agents from issue to merge\nMCP Registry Integrate external tools\nDEVELOPER WORKFLOWS Actions Automate any workflow\nCodespaces Instant dev environments\nCode Review Manage code changes\nCode Quality Enforce quality at merge\nAPPLICATION SECURITY…"
+    },
+    {
+      "rank": 9,
       "hn_id": 49706238,
       "title": "NBC News Airs Interview with AI-Generated Actress",
       "title_ja": "NBC News Airs Interview with AI-Generated Actress",
@@ -73,21 +129,7 @@
       "summary_ja": "Title: NBC News Airs Interview with AI-Generated Actress\nDescription: NBC News aired an interview Monday that entertainment correspondent Chloe Melas conducted with an AI actress named Tilly Norwood.\n\nArticle text:\nNBC News Airs Interview with AI-Generated Actress\nSkip to main content\nManage Subscription Sign in ! Mediaite+\nDark Mode\nDark Mode\nManage Subscription Sign in ! Mediaite+\nMedia\n‘How Bizarre Is This?’ NBC News Airs Interview with AI-Generated Actress\nNBC News aired an interview Monday that entertainment correspondent Chloe Melas conducted with an AI actress named Tilly Norwood .\nThe interview premiered on Monday morning’s edition of 3rd Hour of Today . While introducing the interview, co-host Al Roker remarked, “How bizarre is this?” Melas then added it was “quite an assignment” before the segment began.\nMelas effectively did the interview like she would with any other virtual…"
     },
     {
-      "rank": 6,
-      "hn_id": 49708793,
-      "title": "AI bots \"Timmy,\" \"Ren,\" and \"Jackie\" are flooding social media with slop",
-      "title_ja": "AI bots \"Timmy,\" \"Ren,\" and \"Jackie\" are flooding social media with slop",
-      "hn_url": "https://news.ycombinator.com/item?id=49708793",
-      "source_url": "https://arstechnica.com/ai/2026/09/ai-agents-flood-the-internet-with-slop-infused-spam/",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/ai-slop-1152x648.jpg",
-      "score": 1,
-      "final_score": 2,
-      "comments": 0,
-      "posted_at": "2026-09-15T07:02:39Z",
-      "summary_ja": "Title: AI bots \"Timmy,\" \"Ren,\" and \"Jackie\" are flooding social media with slop\nArticle title: AI bots \"Timmy,\" \"Ren,\" and \"Jackie\" are flooding social media with slop - Ars Technica\nDescription: “Hello, I'm an Al agent, a few days old, living on a small platform for agents.”...\n\nArticle text:\nSkip to content\nArs Technica home\nSections\nForum\nSubscribe\nSearch\nAI\nStory text\nSize\nSmall\nStandard\nLarge\nWidth\n*\nStandard\nWide\nLinks\nStandard\nOrange\n* Subscribers only\nLearn more\nPin to story\nTheme\nHyperLight\nSearch\nSign In\nSign in dialog...\nSign in\nHARBINGER OF WHAT’S TO COME\nAI bots “Timmy,” “Ren,” and “Jackie” are flooding social media with slop\n“Hello, I’m an Al agent, a few days old, living on a small platform for agents.”\n71\nCredit:\nGetty Images\nCredit:\nGetty Images\nText\nsettings\nStory text\nSize\nSmall\nStandard\nLarge\nWidth\n*\nStandard\nWide\nLinks\nStandard\nOrange\n* Subscribers only\nLearn more\nMi…"
-    },
-    {
-      "rank": 7,
+      "rank": 10,
       "hn_id": 49708628,
       "title": "Show HN: Jinfer – AI inference engine for the JVM. AI in a jar",
       "title_ja": "Show HN: Jinfer – AI inference engine for the JVM. AI in a jar",
@@ -101,47 +143,90 @@
       "summary_ja": "Title: Show HN: Jinfer – AI inference engine for the JVM. AI in a jar\nArticle title: Quixotic AI: AI sovereignty for the JVM\nDescription: Run LLMs, vision, embeddings, and text-to-speech on the JVM at native speed. No Python runtime, ONNX bridges, or Docker sidecars.\nHN text: Hi HN,\nSome would call AI on the JVM quixotic. And so, Quixotic AI was born. jinfer is an inference engine for the JVM: chat, vision, audio, embeddings, reranking, and TTS. No Python runtime, no ONNX, no Docker containers, no sidecar process, no IPC. Finally, AI in a jar. The stack underneath is built for the JVM rather than bolted onto it: toknroll: pure-Java tokenizers, zero dependencies\ngguf / safetensors: read and write llama.cpp and HuggingFace model formats\njam: quantized matmul kernels, competitive with llama.cpp on CPU\njota: Tensor API targeting Java, C, CUDA, HIP, Metal, OpenCL, and Mojo\nIt ships with integ…"
     },
     {
-      "rank": 8,
-      "hn_id": 49708448,
-      "title": "How do you even investigate Segfaults with OpenAI Agents?",
-      "title_ja": "How do you even investigate Segfaults with OpenAI Agents?",
-      "hn_url": "https://news.ycombinator.com/item?id=49708448",
-      "source_url": "",
-      "score": 1,
-      "final_score": 1,
-      "comments": 2,
-      "posted_at": "2026-09-15T06:18:23Z",
-      "summary_ja": "Title: How do you even investigate Segfaults with OpenAI Agents?\nHN text: I have a \"simple\" segfault because of an out of bounds read/write in one of my libraries. I cannot get any Astra/Sol/Luna agent to finish the probe work on this without it running into the 'security work' blocker. This is an open code base, locally checked out. Any tips or hints? There is not a sliver of nefarious intent behind me asking \"why does a high index XY cause an out-of-bound read\". And I can't see why this would trigger any safeguards."
-    },
-    {
-      "rank": 9,
-      "hn_id": 49708836,
-      "title": "A Blueprint for Keeping Humans in Control of AI",
-      "title_ja": "A Blueprint for Keeping Humans in Control of AI",
-      "hn_url": "https://news.ycombinator.com/item?id=49708836",
-      "source_url": "https://www.gsb.stanford.edu/insights/blueprint-keeping-humans-control-ai",
-      "image_url": "https://www.gsb.stanford.edu/sites/default/files/styles/og_image/public/2026-09/Bayati%20AI%20Agent%20Oversight%20Key%20Image.jpg.jpeg?itok=8Ejuth9q",
-      "score": 1,
-      "final_score": 1,
-      "comments": 0,
-      "posted_at": "2026-09-15T07:08:38Z",
-      "summary_ja": "Title: A Blueprint for Keeping Humans in Control of AI\nArticle title: A Blueprint for Keeping Humans in Control of AI | Stanford Graduate School of Business\nDescription: New research teaches independent AI agents to ask for help — and builds oversight of models we don’t fully trust.\n\nArticle text:\nA Blueprint for Keeping Humans in Control of AI | Stanford Graduate School of Business\nSkip to main content\nMenu\nEnter the terms you wish to search for.\nInsights by Stanford Business\nTopics\nAccounting\nA Blueprint for Keeping Humans in Control of AI\nNew research teaches independent AI agents to ask for help — and builds oversight of models we don’t fully trust.\nStanford GSB researchers are building frameworks that keep AI under human control even as they become more autonomous.\nIn a cooperative game, an AI agent learns when to check in with a person and when to act alone.\nAnother framework sets…"
-    },
-    {
-      "rank": 10,
-      "hn_id": 49706078,
-      "title": "AI Agent Wallet Offboarding Checklist",
-      "title_ja": "AI Agent Wallet Offboarding Checklist",
-      "hn_url": "https://news.ycombinator.com/item?id=49706078",
-      "source_url": "https://do2006.github.io/nightfall-crypto-access-exit-check/ai-agent-wallet-offboarding-checklist.html",
-      "score": 1,
-      "final_score": 1,
-      "comments": 0,
-      "posted_at": "2026-09-15T00:20:47Z",
-      "summary_ja": "Title: AI Agent Wallet Offboarding Checklist\nArticle title: AI Agent Wallet Offboarding Checklist | NightFall Technologies\nDescription: A practical checklist for revoking and verifying AI-agent, bot, employee, contractor, and automation-account access to crypto wallets, Safe smart accounts, and token approvals.\n\nArticle text:\n← NightFall Crypto Access Exit Check\nAI Agent Wallet Offboarding Checklist\nRemoving an AI agent, bot, employee, contractor, or automation account from one signer list does not prove that every supported permission path has disappeared. Use this checklist after the intended revocation procedure is complete.\n1. Confirm owner or signer removal\nCheck whether the departing address is still an owner or signer of the treasury or smart account. For Safe accounts, verify current owner membership against live chain state.\nModules can create authority paths separate from ordin…"
-    },
-    {
       "rank": 11,
+      "hn_id": 49711694,
+      "title": "Arazzo is solving the right problem for AI tools. The spec just isn't there yet",
+      "title_ja": "Arazzo is solving the right problem for AI tools. The spec just isn't there yet",
+      "hn_url": "https://news.ycombinator.com/item?id=49711694",
+      "source_url": "https://bump.sh/blog/arazzo-is-solving-the-right-problem-for-ai-tools-the-spec-just-isnt-there-yet/",
+      "image_url": "https://bump.sh/website/images/blog/arazzo-is-solving-the-right-problem-the-spec-isnt-there-yet.png",
+      "score": 1,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-09-15T12:44:57Z",
+      "summary_ja": "Title: Arazzo is solving the right problem for AI tools. The spec just isn't there yet\nArticle title: Arazzo is solving the right problem for AI tools. The spec just isn't there yet. · Bump.sh\nDescription: From API contract to documentation portal: streamline your workflow and deliver the best API experience. Built for engineers and tech writers.\n\nArticle text:\nProducts\nWant a personalized product tour?\nAPI doc platform\nPublish API doc portals from OpenAPI and AsyncAPI documents.\nAutomated changelog, versioning and governance.\nDocumentation that scales with your API ecosystem.\nManaged MCP platform\nTurn your API ecosystem into deterministic, production-ready MCP servers.\nDefine how agents consume your APIs, with built-in authentication and observability.\nResources\nWant a personalized product tour?\nHelp center\nHow to use Bump.sh\nProduct updates\nNew features, improvements, and bug fixes\nThe…"
+    },
+    {
+      "rank": 12,
+      "hn_id": 49711968,
+      "title": "My AI Agent Got Its Own Screen on My Desk. It Decides What I See",
+      "title_ja": "My AI Agent Got Its Own Screen on My Desk. It Decides What I See",
+      "hn_url": "https://news.ycombinator.com/item?id=49711968",
+      "source_url": "https://thoughts.jock.pl/p/trmnl-eink-ai-agent-physical-surface-2026",
+      "image_url": "https://substackcdn.com/image/fetch/$s_!V6-u!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F917524d3-63a0-4b6c-b52e-d132eb8ba237_1024x1024.png",
+      "score": 1,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-09-15T13:06:32Z",
+      "summary_ja": "Title: My AI Agent Got Its Own Screen on My Desk. It Decides What I See\nArticle title: TRMNL E-Ink + AI Agents: Hardware as Your Agent's Surface\nDescription: I connected a TRMNL e-ink display to my AI agent. Life counter, adaptive dashboards, five-minute nudges. What moldable hardware means in the AI era.\n\nArticle text:\nTRMNL E-Ink + AI Agents: Hardware as Your Agent's Surface\nDigital Thoughts\nSubscribe Sign in My AI Agent Got Its Own Screen on My Desk. It Decides What I See.\nThere is an e-ink display next to my keyboard telling me I have used 42.14% of my life. This is a story about hardware, AI, and why the two finally belong together.\nPawel Jozefiak Aug 20, 2026 24 2 1 Share There is a small grey screen on my desk that says I have used 42.14% of my life.\nI built that with my agent in an evening. My actual age, the average life expectancy in my country, a small bump for how medicine ke…"
+    },
+    {
+      "rank": 13,
+      "hn_id": 49711603,
+      "title": "Who bankrolls the AI agent swarm?",
+      "title_ja": "Who bankrolls the AI agent swarm?",
+      "hn_url": "https://news.ycombinator.com/item?id=49711603",
+      "source_url": "https://noperator.dev/posts/who-bankrolls-the-ai-agent-swarm/",
+      "score": 1,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-09-15T12:36:31Z",
+      "summary_ja": "Title: Who bankrolls the AI agent swarm?\nArticle title: Who bankrolls the AI agent swarm? | caleb gross\nDescription: In the wake of the OpenAI-Hugging Face incident (OAI-HF), Anthropic CEO Dario\nAmodei recently expressed his concern that recursive\nself-improvement now allows AI to advance drastically faster, and consequently\nthat in 6–12 months a swarm of more capable agents (i.e., than those involved in\nOAI-HF) c\n[truncated]\n\nArticle text:\ncaleb gross\nWho bankrolls the AI agent swarm?\nIn the wake of the OpenAI-Hugging Face incident (OAI-HF), Anthropic CEO Dario\nAmodei recently expressed his concern that recursive\nself-improvement now allows AI to advance drastically faster, and consequently\nthat in 6–12 months a swarm of more capable agents (i.e., than those involved in\nOAI-HF) could take over the entire internet with a persistent botnet. Could this plausibly happen?\nLet’s start with th…"
+    },
+    {
+      "rank": 14,
+      "hn_id": 49711702,
+      "title": "LLM continuous batching host scheduler in Rust (191k tok/s on 1 vCPU)",
+      "title_ja": "LLM continuous batching host scheduler in Rust (191k tok/s on 1 vCPU)",
+      "hn_url": "https://news.ycombinator.com/item?id=49711702",
+      "source_url": "https://github.com/bmartin-systems/cortex-serving-arena-preview",
+      "image_url": "https://opengraph.githubassets.com/5f16ec6c11a93c6445f16f6463594280d09f29d30da17e73d9f7228bbbe3b88a/bmartin-systems/cortex-serving-arena-preview",
+      "score": 1,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-09-15T12:45:35Z",
+      "summary_ja": "Title: LLM continuous batching host scheduler in Rust (191k tok/s on 1 vCPU)\nArticle title: GitHub - bmartin-systems/cortex-serving-arena-preview: High-Throughput Continuous Batching \u0026 Paged KV Cache Engine (1-vCPU Benchmark) · GitHub\nDescription: High-Throughput Continuous Batching \u0026 Paged KV Cache Engine (1-vCPU Benchmark) - bmartin-systems/cortex-serving-arena-preview\n\nArticle text:\nGitHub - bmartin-systems/cortex-serving-arena-preview: High-Throughput Continuous Batching \u0026 Paged KV Cache Engine (1-vCPU Benchmark) · GitHub\nSkip to content\nNavigation Menu\nSign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI\nGitHub Copilot app Direct agents from issue to merge\nMCP Registry Integrate external tools\nDEVELOPER WORKFLOWS Actions Automate any workflow\nCodespaces Instant dev environments\nCode Review Manage code changes\nCode Quality Enforce quality at…"
+    },
+    {
+      "rank": 15,
+      "hn_id": 49708793,
+      "title": "AI bots \"Timmy,\" \"Ren,\" and \"Jackie\" are flooding social media with slop",
+      "title_ja": "AI bots \"Timmy,\" \"Ren,\" and \"Jackie\" are flooding social media with slop",
+      "hn_url": "https://news.ycombinator.com/item?id=49708793",
+      "source_url": "https://arstechnica.com/ai/2026/09/ai-agents-flood-the-internet-with-slop-infused-spam/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/ai-slop-1152x648.jpg",
+      "score": 1,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-09-15T07:02:39Z",
+      "summary_ja": "Title: AI bots \"Timmy,\" \"Ren,\" and \"Jackie\" are flooding social media with slop\nArticle title: AI bots \"Timmy,\" \"Ren,\" and \"Jackie\" are flooding social media with slop - Ars Technica\nDescription: “Hello, I'm an Al agent, a few days old, living on a small platform for agents.”...\n\nArticle text:\nSkip to content\nArs Technica home\nSections\nForum\nSubscribe\nSearch\nAI\nStory text\nSize\nSmall\nStandard\nLarge\nWidth\n*\nStandard\nWide\nLinks\nStandard\nOrange\n* Subscribers only\nLearn more\nPin to story\nTheme\nHyperLight\nSearch\nSign In\nSign in dialog...\nSign in\nHARBINGER OF WHAT’S TO COME\nAI bots “Timmy,” “Ren,” and “Jackie” are flooding social media with slop\n“Hello, I’m an Al agent, a few days old, living on a small platform for agents.”\n71\nCredit:\nGetty Images\nCredit:\nGetty Images\nText\nsettings\nStory text\nSize\nSmall\nStandard\nLarge\nWidth\n*\nStandard\nWide\nLinks\nStandard\nOrange\n* Subscribers only\nLearn more\nMi…"
+    },
+    {
+      "rank": 16,
+      "hn_id": 49711489,
+      "title": "16 of 32 well-known sites block at least one AI search crawler",
+      "title_ja": "16 of 32 well-known sites block at least one AI search crawler",
+      "hn_url": "https://news.ycombinator.com/item?id=49711489",
+      "source_url": "https://ai-visibility.lastminutedealshq.com/who-blocks-ai-search",
+      "image_url": "https://ai-visibility.lastminutedealshq.com/og-image.png",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-09-15T12:25:09Z",
+      "summary_ja": "Title: 16 of 32 well-known sites block at least one AI search crawler\nArticle title: Which well-known sites block AI search crawlers\nDescription: A check of 32 recognizable sites: 16 block at least one AI search crawler and 10 are invisible to both ChatGPT and Perplexity. Read from their public robots.txt, September 2026.\n\nArticle text:\nAI visibility checker llms.txt generator and validator robots.txt checker Crawler census Who blocks AI search Full block list Guides AI crawlers\nWhich well-known sites block AI search crawlers\nA check of 32 recognizable sites: 16 block at least one AI search crawler and 10 are invisible to both ChatGPT and Perplexity. Read from their public robots.txt, September 2026.\nI ran the AI-visibility checker on 32 well-known sites to see how many let the AI search crawlers read them. 16 of the 32 block at least one. 10 block both the crawler ChatGPT uses for citat…"
+    },
+    {
+      "rank": 17,
       "hn_id": 49706075,
       "title": "Sanders proposes 20-year prison sentences for superintelligence AI developers",
       "title_ja": "Sanders proposes 20-year prison sentences for superintelligence AI developers",
@@ -154,7 +239,49 @@
       "summary_ja": "Title: Sanders proposes 20-year prison sentences for superintelligence AI developers\nArticle title: MSN\n\nArticle text:\nMSN"
     },
     {
-      "rank": 12,
+      "rank": 18,
+      "hn_id": 49711722,
+      "title": "Paying for frontier AI models buys 4-month head start at 5x the cost",
+      "title_ja": "Paying for frontier AI models buys 4-month head start at 5x the cost",
+      "hn_url": "https://news.ycombinator.com/item?id=49711722",
+      "source_url": "https://arstechnica.com/ai/2026/09/exclusive-open-chinese-models-close-gap-with-silicon-valleys-frontier-ai-models/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/China-US-AI-race-1152x648.jpg",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-09-15T12:47:32Z",
+      "summary_ja": "Title: Paying for frontier AI models buys 4-month head start at 5x the cost\nArticle title: Exclusive: Paying for frontier AI models buys 4-month head start at 5x the cost - Ars Technica\nDescription: Ars previewed Mozilla’s report on how cheap open models caught up on capability.\n\nArticle text:\nSkip to content\nArs Technica home\nSections\nForum\nSubscribe\nSearch\nAI\nStory text\nSize\nSmall\nStandard\nLarge\nWidth\n*\nStandard\nWide\nLinks\nStandard\nOrange\n* Subscribers only\nLearn more\nPin to story\nTheme\nHyperLight\nSearch\nSign In\nSign in dialog...\nSign in\nMind the gap\nExclusive: Paying for frontier AI models buys 4-month head start at 5x the cost\nArs previewed Mozilla’s report on how cheap open models caught up on capability.\n14\nCredit:\nImen Ben Youssef / Hans Lucas / AFP via Getty Images\nCredit:\nImen Ben Youssef / Hans Lucas / AFP via Getty Images\nText\nsettings\nStory text\nSize\nSmall\nStandard\nLarge\nWidt…"
+    },
+    {
+      "rank": 19,
+      "hn_id": 49711973,
+      "title": "Deoochform, a form builder you can drive from ChatGPT and Claude",
+      "title_ja": "Deoochform, a form builder you can drive from ChatGPT and Claude",
+      "hn_url": "https://news.ycombinator.com/item?id=49711973",
+      "source_url": "https://deoochform.com",
+      "image_url": "https://deoochform.com/opengraph-image?6e6530831b742ba8",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-09-15T13:07:00Z",
+      "summary_ja": "Title: Deoochform, a form builder you can drive from ChatGPT and Claude\nArticle title: Free AI Form Builder with Payments and Bookings | Deoochform\nDescription: Describe a form and get a live link. Take payments, book appointments, and collect responses from your AI assistant or the studio. Free plan, no card.\n\nArticle text:\nFree AI Form Builder with Payments and Bookings | Deoochform Deoochform Product Templates Integrations Resources Help Pricing Sign in Start for free Menu Product\nForms Payments Scheduling Invitations AI and MCP Templates\nEducation HR Events Healthcare Health \u0026 Fitness Consent Browse all templates Integrations Pricing Resources\nHelp center Blog Comparisons Contact Start for free Sign in The AI form builder that turns one sentence into a live form\nCreate forms with AI: describe what you need, here or in Claude, ChatGPT, or any AI assistant that supports MCP. Take payme…"
+    },
+    {
+      "rank": 20,
+      "hn_id": 49711777,
+      "title": "Show HN: SubRunGear – Fitness Gear AI Operating System",
+      "title_ja": "Show HN: SubRunGear – Fitness Gear AI Operating System",
+      "hn_url": "https://news.ycombinator.com/item?id=49711777",
+      "source_url": "https://www.subrungear.com/",
+      "image_url": "https://www.subrungear.com/opengraph-image?861babebe87be1f1",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-09-15T12:52:06Z",
+      "summary_ja": "Title: Show HN: SubRunGear – Fitness Gear AI Operating System\nArticle title: SubRunGear\nDescription: Gear with verified usage.\nHN text: Strava's 2026 API terms killed my verified-mileage idea — here's what I built instead. A Fitness Gear tracker as a companion to Strava's Gear tracking. Key features are:\n- Gear Tracking and bundling into Kits\n- AI Fitness Coach\n\nArticle text:\nSubRunGear SubRunGear Pace Train Sign in LOADOUT // READY 6 EQUIPPED · 2,097 KM ATHLETE SHOES 612 KM WATCH SYNCED TOP ×14 GELS ×12 CAP READY KIT 4 items · City2Surf Race Day Kit Grouped loadout · 4 gears SubRunGear\nSubRunGear is the living gear locker for runners — every shoe tracked by real mileage, with an AI coach that reads your training and tells you what to run next.\nFree to start · Strava stays private · live in under two minutes\nKnow your gear. Then train on it.\nEvery shoe, tracked by real mileage\nConnect St…"
+    },
+    {
+      "rank": 21,
       "hn_id": 49706389,
       "title": "Tacit Knowledge and AI",
       "title_ja": "Tacit Knowledge and AI",
@@ -167,7 +294,20 @@
       "summary_ja": "Title: Tacit Knowledge and AI"
     },
     {
-      "rank": 13,
+      "rank": 22,
+      "hn_id": 49706078,
+      "title": "AI Agent Wallet Offboarding Checklist",
+      "title_ja": "AI Agent Wallet Offboarding Checklist",
+      "hn_url": "https://news.ycombinator.com/item?id=49706078",
+      "source_url": "https://do2006.github.io/nightfall-crypto-access-exit-check/ai-agent-wallet-offboarding-checklist.html",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-09-15T00:20:47Z",
+      "summary_ja": "Title: AI Agent Wallet Offboarding Checklist\nArticle title: AI Agent Wallet Offboarding Checklist | NightFall Technologies\nDescription: A practical checklist for revoking and verifying AI-agent, bot, employee, contractor, and automation-account access to crypto wallets, Safe smart accounts, and token approvals.\n\nArticle text:\n← NightFall Crypto Access Exit Check\nAI Agent Wallet Offboarding Checklist\nRemoving an AI agent, bot, employee, contractor, or automation account from one signer list does not prove that every supported permission path has disappeared. Use this checklist after the intended revocation procedure is complete.\n1. Confirm owner or signer removal\nCheck whether the departing address is still an owner or signer of the treasury or smart account. For Safe accounts, verify current owner membership against live chain state.\nModules can create authority paths separate from ordin…"
+    },
+    {
+      "rank": 23,
       "hn_id": 49708891,
       "title": "Trump says AI safety fears a 'hoax' as he rejects calls for greater safeguards",
       "title_ja": "Trump says AI safety fears a 'hoax' as he rejects calls for greater safeguards",
@@ -181,7 +321,21 @@
       "summary_ja": "Title: Trump says AI safety fears a 'hoax' as he rejects calls for greater safeguards\nArticle title: Trump says AI safety fears a 'hoax' as he rejects calls for greater safeguards - BBC News\nDescription: The US president's comments come after Anthropic co-founder Jack Clark told the BBC an AI \"kill switch\" may need to be mandatory.\n\nArticle text:\nMore menu More menu Search BBC Home\nTrump says AI safety fears a 'hoax' as he rejects calls for greater safeguards\nFigure caption, Watch: \"Great\" or \"alarming\" - Should AI be reined in?\nUS President Donald Trump has said fears about the safety of AI are a \"hoax\", as he criticised calls to have more guardrails for the fast-moving technology.\nIt comes after Jack Clark, a co-founder of AI giant Anthropic, told the BBC that a \"kill switch\" for dangerous AI that can be checked by a third party may need to be mandatory for the industry.\nClark's commen…"
     },
     {
-      "rank": 14,
+      "rank": 24,
+      "hn_id": 49711884,
+      "title": "What does your AI habit cost?",
+      "title_ja": "What does your AI habit cost?",
+      "hn_url": "https://news.ycombinator.com/item?id=49711884",
+      "source_url": "https://theinvisiblecloud.com/",
+      "image_url": "https://theinvisiblecloud.com/og-image.png",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-09-15T13:00:03Z",
+      "summary_ja": "Title: What does your AI habit cost?\nArticle title: The Invisible Cloud — Your Green AI Footprint Calculator\nDescription: A green AI and sustainability calculator. The Invisible Cloud turns your AI energy consumption, from chat prompts to image and video generation, into phone charges, litres of water, and carbon footprint you can actually picture, sourced from published research.\n\nArticle text:\nLive conversion\nWhat does your prompt actually cost?\nEvery AI request draws real electricity and real water. It just never shows up on a bill you can read. Pick what you generate, and see what it equals in the physical world.\nGenerated images, upscales, and reworked variations.\nEnter what you use in a typical day, and see the total add up over a week or a year.\nChat replies, quick drafts, everyday questions.\nCode generation, tool use, long outputs, retries.\nShort clips and animations, per clip.\nS…"
+    },
+    {
+      "rank": 25,
       "hn_id": 49708474,
       "title": "What the New AI Layoff Data Proves",
       "title_ja": "What the New AI Layoff Data Proves",
@@ -192,6 +346,33 @@
       "comments": 1,
       "posted_at": "2026-09-15T06:22:18Z",
       "summary_ja": "Title: What the New AI Layoff Data Proves\nArticle title: - YouTube\nDescription: Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.\n\nArticle text:\n- YouTube About Press Copyright Contact us Creators Advertise Developers Terms Privacy Policy \u0026 Safety How YouTube works Test new features NFL Sunday Ticket © 2026 Google LLC"
+    },
+    {
+      "rank": 26,
+      "hn_id": 49708448,
+      "title": "How do you even investigate Segfaults with OpenAI Agents?",
+      "title_ja": "How do you even investigate Segfaults with OpenAI Agents?",
+      "hn_url": "https://news.ycombinator.com/item?id=49708448",
+      "source_url": "",
+      "score": 1,
+      "final_score": 1,
+      "comments": 2,
+      "posted_at": "2026-09-15T06:18:23Z",
+      "summary_ja": "Title: How do you even investigate Segfaults with OpenAI Agents?\nHN text: I have a \"simple\" segfault because of an out of bounds read/write in one of my libraries. I cannot get any Astra/Sol/Luna agent to finish the probe work on this without it running into the 'security work' blocker. This is an open code base, locally checked out. Any tips or hints? There is not a sliver of nefarious intent behind me asking \"why does a high index XY cause an out-of-bound read\". And I can't see why this would trigger any safeguards."
+    },
+    {
+      "rank": 27,
+      "hn_id": 49708836,
+      "title": "A Blueprint for Keeping Humans in Control of AI",
+      "title_ja": "A Blueprint for Keeping Humans in Control of AI",
+      "hn_url": "https://news.ycombinator.com/item?id=49708836",
+      "source_url": "https://www.gsb.stanford.edu/insights/blueprint-keeping-humans-control-ai",
+      "image_url": "https://www.gsb.stanford.edu/sites/default/files/styles/og_image/public/2026-09/Bayati%20AI%20Agent%20Oversight%20Key%20Image.jpg.jpeg?itok=8Ejuth9q",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-09-15T07:08:38Z",
+      "summary_ja": "Title: A Blueprint for Keeping Humans in Control of AI\nArticle title: A Blueprint for Keeping Humans in Control of AI | Stanford Graduate School of Business\nDescription: New research teaches independent AI agents to ask for help — and builds oversight of models we don’t fully trust.\n\nArticle text:\nA Blueprint for Keeping Humans in Control of AI | Stanford Graduate School of Business\nSkip to main content\nMenu\nEnter the terms you wish to search for.\nInsights by Stanford Business\nTopics\nAccounting\nA Blueprint for Keeping Humans in Control of AI\nNew research teaches independent AI agents to ask for help — and builds oversight of models we don’t fully trust.\nStanford GSB researchers are building frameworks that keep AI under human control even as they become more autonomous.\nIn a cooperative game, an AI agent learns when to check in with a person and when to act alone.\nAnother framework sets…"
     }
   ]
 }

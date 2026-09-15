@@ -1,6 +1,6 @@
 {
   "date": "2026-09-15",
-  "generated_at": "2026-09-15T01:12:50Z",
+  "generated_at": "2026-09-15T07:16:48Z",
   "articles": [
     {
       "rank": 1,
@@ -46,6 +46,20 @@
     },
     {
       "rank": 4,
+      "hn_id": 49708711,
+      "title": "KnowBench: Evaluating clinical AI with effort reduction",
+      "title_ja": "KnowBench: Evaluating clinical AI with effort reduction",
+      "hn_url": "https://news.ycombinator.com/item?id=49708711",
+      "source_url": "https://arxiv.org/abs/2609.15794",
+      "image_url": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+      "score": 4,
+      "final_score": 5,
+      "comments": 1,
+      "posted_at": "2026-09-15T06:52:44Z",
+      "summary_ja": "Title: KnowBench: Evaluating clinical AI with effort reduction\nArticle title: [2609.15794] KnowBench: Effort Reduction as a Unified, Deployment-Grounded Benchmark for Clinical AI\nDescription: Abstract page for arXiv paper 2609.15794: KnowBench: Effort Reduction as a Unified, Deployment-Grounded Benchmark for Clinical AI\n\nArticle text:\nSkip to main content\nSearch\nSubmit\nDonate\nLog in\nSearch arXiv\nPress Enter to search · Advanced search\n--\u003e\nComputer Science \u003e Artificial Intelligence\n[Submitted on 14 Sep 2026]\nTitle: KnowBench: Effort Reduction as a Unified, Deployment-Grounded Benchmark for Clinical AI\nAbstract: Clinical AI systems are evaluated with instruments built for research settings (reference-based similarity metrics and expert rubric panels) that measure resemblance to an artifact rather than reduction of a burden. We introduce KnowBench, pioneered by Knowtex, whose unifying metri…"
+    },
+    {
+      "rank": 5,
       "hn_id": 49706238,
       "title": "NBC News Airs Interview with AI-Generated Actress",
       "title_ja": "NBC News Airs Interview with AI-Generated Actress",
@@ -59,7 +73,62 @@
       "summary_ja": "Title: NBC News Airs Interview with AI-Generated Actress\nDescription: NBC News aired an interview Monday that entertainment correspondent Chloe Melas conducted with an AI actress named Tilly Norwood.\n\nArticle text:\nNBC News Airs Interview with AI-Generated Actress\nSkip to main content\nManage Subscription Sign in ! Mediaite+\nDark Mode\nDark Mode\nManage Subscription Sign in ! Mediaite+\nMedia\n‘How Bizarre Is This?’ NBC News Airs Interview with AI-Generated Actress\nNBC News aired an interview Monday that entertainment correspondent Chloe Melas conducted with an AI actress named Tilly Norwood .\nThe interview premiered on Monday morning’s edition of 3rd Hour of Today . While introducing the interview, co-host Al Roker remarked, “How bizarre is this?” Melas then added it was “quite an assignment” before the segment began.\nMelas effectively did the interview like she would with any other virtual…"
     },
     {
-      "rank": 5,
+      "rank": 6,
+      "hn_id": 49708793,
+      "title": "AI bots \"Timmy,\" \"Ren,\" and \"Jackie\" are flooding social media with slop",
+      "title_ja": "AI bots \"Timmy,\" \"Ren,\" and \"Jackie\" are flooding social media with slop",
+      "hn_url": "https://news.ycombinator.com/item?id=49708793",
+      "source_url": "https://arstechnica.com/ai/2026/09/ai-agents-flood-the-internet-with-slop-infused-spam/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/ai-slop-1152x648.jpg",
+      "score": 1,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-09-15T07:02:39Z",
+      "summary_ja": "Title: AI bots \"Timmy,\" \"Ren,\" and \"Jackie\" are flooding social media with slop\nArticle title: AI bots \"Timmy,\" \"Ren,\" and \"Jackie\" are flooding social media with slop - Ars Technica\nDescription: “Hello, I'm an Al agent, a few days old, living on a small platform for agents.”...\n\nArticle text:\nSkip to content\nArs Technica home\nSections\nForum\nSubscribe\nSearch\nAI\nStory text\nSize\nSmall\nStandard\nLarge\nWidth\n*\nStandard\nWide\nLinks\nStandard\nOrange\n* Subscribers only\nLearn more\nPin to story\nTheme\nHyperLight\nSearch\nSign In\nSign in dialog...\nSign in\nHARBINGER OF WHAT’S TO COME\nAI bots “Timmy,” “Ren,” and “Jackie” are flooding social media with slop\n“Hello, I’m an Al agent, a few days old, living on a small platform for agents.”\n71\nCredit:\nGetty Images\nCredit:\nGetty Images\nText\nsettings\nStory text\nSize\nSmall\nStandard\nLarge\nWidth\n*\nStandard\nWide\nLinks\nStandard\nOrange\n* Subscribers only\nLearn more\nMi…"
+    },
+    {
+      "rank": 7,
+      "hn_id": 49708628,
+      "title": "Show HN: Jinfer – AI inference engine for the JVM. AI in a jar",
+      "title_ja": "Show HN: Jinfer – AI inference engine for the JVM. AI in a jar",
+      "hn_url": "https://news.ycombinator.com/item?id=49708628",
+      "source_url": "https://qxotic.ai/",
+      "image_url": "https://qxotic.ai/og.jpg",
+      "score": 2,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-09-15T06:42:32Z",
+      "summary_ja": "Title: Show HN: Jinfer – AI inference engine for the JVM. AI in a jar\nArticle title: Quixotic AI: AI sovereignty for the JVM\nDescription: Run LLMs, vision, embeddings, and text-to-speech on the JVM at native speed. No Python runtime, ONNX bridges, or Docker sidecars.\nHN text: Hi HN,\nSome would call AI on the JVM quixotic. And so, Quixotic AI was born. jinfer is an inference engine for the JVM: chat, vision, audio, embeddings, reranking, and TTS. No Python runtime, no ONNX, no Docker containers, no sidecar process, no IPC. Finally, AI in a jar. The stack underneath is built for the JVM rather than bolted onto it: toknroll: pure-Java tokenizers, zero dependencies\ngguf / safetensors: read and write llama.cpp and HuggingFace model formats\njam: quantized matmul kernels, competitive with llama.cpp on CPU\njota: Tensor API targeting Java, C, CUDA, HIP, Metal, OpenCL, and Mojo\nIt ships with integ…"
+    },
+    {
+      "rank": 8,
+      "hn_id": 49708448,
+      "title": "How do you even investigate Segfaults with OpenAI Agents?",
+      "title_ja": "How do you even investigate Segfaults with OpenAI Agents?",
+      "hn_url": "https://news.ycombinator.com/item?id=49708448",
+      "source_url": "",
+      "score": 1,
+      "final_score": 1,
+      "comments": 2,
+      "posted_at": "2026-09-15T06:18:23Z",
+      "summary_ja": "Title: How do you even investigate Segfaults with OpenAI Agents?\nHN text: I have a \"simple\" segfault because of an out of bounds read/write in one of my libraries. I cannot get any Astra/Sol/Luna agent to finish the probe work on this without it running into the 'security work' blocker. This is an open code base, locally checked out. Any tips or hints? There is not a sliver of nefarious intent behind me asking \"why does a high index XY cause an out-of-bound read\". And I can't see why this would trigger any safeguards."
+    },
+    {
+      "rank": 9,
+      "hn_id": 49708836,
+      "title": "A Blueprint for Keeping Humans in Control of AI",
+      "title_ja": "A Blueprint for Keeping Humans in Control of AI",
+      "hn_url": "https://news.ycombinator.com/item?id=49708836",
+      "source_url": "https://www.gsb.stanford.edu/insights/blueprint-keeping-humans-control-ai",
+      "image_url": "https://www.gsb.stanford.edu/sites/default/files/styles/og_image/public/2026-09/Bayati%20AI%20Agent%20Oversight%20Key%20Image.jpg.jpeg?itok=8Ejuth9q",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-09-15T07:08:38Z",
+      "summary_ja": "Title: A Blueprint for Keeping Humans in Control of AI\nArticle title: A Blueprint for Keeping Humans in Control of AI | Stanford Graduate School of Business\nDescription: New research teaches independent AI agents to ask for help — and builds oversight of models we don’t fully trust.\n\nArticle text:\nA Blueprint for Keeping Humans in Control of AI | Stanford Graduate School of Business\nSkip to main content\nMenu\nEnter the terms you wish to search for.\nInsights by Stanford Business\nTopics\nAccounting\nA Blueprint for Keeping Humans in Control of AI\nNew research teaches independent AI agents to ask for help — and builds oversight of models we don’t fully trust.\nStanford GSB researchers are building frameworks that keep AI under human control even as they become more autonomous.\nIn a cooperative game, an AI agent learns when to check in with a person and when to act alone.\nAnother framework sets…"
+    },
+    {
+      "rank": 10,
       "hn_id": 49706078,
       "title": "AI Agent Wallet Offboarding Checklist",
       "title_ja": "AI Agent Wallet Offboarding Checklist",
@@ -72,7 +141,7 @@
       "summary_ja": "Title: AI Agent Wallet Offboarding Checklist\nArticle title: AI Agent Wallet Offboarding Checklist | NightFall Technologies\nDescription: A practical checklist for revoking and verifying AI-agent, bot, employee, contractor, and automation-account access to crypto wallets, Safe smart accounts, and token approvals.\n\nArticle text:\n← NightFall Crypto Access Exit Check\nAI Agent Wallet Offboarding Checklist\nRemoving an AI agent, bot, employee, contractor, or automation account from one signer list does not prove that every supported permission path has disappeared. Use this checklist after the intended revocation procedure is complete.\n1. Confirm owner or signer removal\nCheck whether the departing address is still an owner or signer of the treasury or smart account. For Safe accounts, verify current owner membership against live chain state.\nModules can create authority paths separate from ordin…"
     },
     {
-      "rank": 6,
+      "rank": 11,
       "hn_id": 49706075,
       "title": "Sanders proposes 20-year prison sentences for superintelligence AI developers",
       "title_ja": "Sanders proposes 20-year prison sentences for superintelligence AI developers",
@@ -85,7 +154,7 @@
       "summary_ja": "Title: Sanders proposes 20-year prison sentences for superintelligence AI developers\nArticle title: MSN\n\nArticle text:\nMSN"
     },
     {
-      "rank": 7,
+      "rank": 12,
       "hn_id": 49706389,
       "title": "Tacit Knowledge and AI",
       "title_ja": "Tacit Knowledge and AI",
@@ -96,6 +165,33 @@
       "comments": 0,
       "posted_at": "2026-09-15T00:59:49Z",
       "summary_ja": "Title: Tacit Knowledge and AI"
+    },
+    {
+      "rank": 13,
+      "hn_id": 49708891,
+      "title": "Trump says AI safety fears a 'hoax' as he rejects calls for greater safeguards",
+      "title_ja": "Trump says AI safety fears a 'hoax' as he rejects calls for greater safeguards",
+      "hn_url": "https://news.ycombinator.com/item?id=49708891",
+      "source_url": "https://www.bbc.co.uk/news/articles/cw980n0nd0qjo",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5749/live/ee0b1740-b0a6-11f1-9c5d-0dd6cc52f198.png",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-09-15T07:14:46Z",
+      "summary_ja": "Title: Trump says AI safety fears a 'hoax' as he rejects calls for greater safeguards\nArticle title: Trump says AI safety fears a 'hoax' as he rejects calls for greater safeguards - BBC News\nDescription: The US president's comments come after Anthropic co-founder Jack Clark told the BBC an AI \"kill switch\" may need to be mandatory.\n\nArticle text:\nMore menu More menu Search BBC Home\nTrump says AI safety fears a 'hoax' as he rejects calls for greater safeguards\nFigure caption, Watch: \"Great\" or \"alarming\" - Should AI be reined in?\nUS President Donald Trump has said fears about the safety of AI are a \"hoax\", as he criticised calls to have more guardrails for the fast-moving technology.\nIt comes after Jack Clark, a co-founder of AI giant Anthropic, told the BBC that a \"kill switch\" for dangerous AI that can be checked by a third party may need to be mandatory for the industry.\nClark's commen…"
+    },
+    {
+      "rank": 14,
+      "hn_id": 49708474,
+      "title": "What the New AI Layoff Data Proves",
+      "title_ja": "What the New AI Layoff Data Proves",
+      "hn_url": "https://news.ycombinator.com/item?id=49708474",
+      "source_url": "https://www.youtube.com/watch?v=k8pTfkA6sio",
+      "score": 1,
+      "final_score": 1,
+      "comments": 1,
+      "posted_at": "2026-09-15T06:22:18Z",
+      "summary_ja": "Title: What the New AI Layoff Data Proves\nArticle title: - YouTube\nDescription: Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.\n\nArticle text:\n- YouTube About Press Copyright Contact us Creators Advertise Developers Terms Privacy Policy \u0026 Safety How YouTube works Test new features NFL Sunday Ticket © 2026 Google LLC"
     }
   ]
 }

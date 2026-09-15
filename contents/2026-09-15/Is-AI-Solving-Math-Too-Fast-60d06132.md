@@ -1,0 +1,77 @@
+---
+source: "https://www.quantabooks.org/is-ai-solving-math-too-fast/"
+hn_url: "https://news.ycombinator.com/item?id=49715522"
+title: "Is AI Solving Math Too Fast?"
+article_title: "Is AI Solving Math Too Fast? - Quanta Books"
+image: ""
+author: "digital55"
+captured_at: "2026-09-15T17:58:20Z"
+capture_tool: "hn-digest"
+hn_id: 49715522
+score: 2
+comments: 0
+posted_at: "2026-09-15T17:06:25Z"
+tags:
+  - hacker-news
+---
+
+# Is AI Solving Math Too Fast?
+
+- HN: [49715522](https://news.ycombinator.com/item?id=49715522)
+- Source: [www.quantabooks.org](https://www.quantabooks.org/is-ai-solving-math-too-fast/)
+- Score: 2
+- Comments: 0
+- Posted: 2026-09-15T17:06:25Z
+
+## Translation
+
+Title: Is AI Solving Math Too Fast?
+Article title: Is AI Solving Math Too Fast? - Quanta Books
+Description: In a world where AI can rapidly solve longstanding problems like Navier-Stokes, some mathematicians are calling for a more deliberative process to help preserve…
+
+Article text:
+Is AI Solving Math Too Fast? - Quanta Books
+Skip to content
+Quanta Books Logo
+About Us
+Last week, OpenAI announced that its models had solved the Navier-Stokes problem, sending shockwaves through the math community. One of the Clay Institute’s seven Millennium Prize problems famous for their difficulty and importance, it asks whether the Navier-Stokes equations used to model fluid flow (ex. to forecast the weather, design better airplane wings, or model blood flow in our veins) will always have a smooth, physically realistic solution, or if they can break down under certain circumstances. In other words, can these equations produce a singularity, where fluid flow “blows up,” reaching an infinite speed in a finite amount of time?
+OpenAI Rendering of fluid flow spiraling out of control. The announcement that OpenAI had found such a singularity was met with excitement, but not without stirring up some controversy. The mathematician Tristan Buckmaster, who had been using AI in collaboration with Levent Alpöge to make progress on a simpler version of the problem, alleged in a New York Times article that OpenAI’s agents appeared to have used their work without their knowledge or consent. OpenAI denied the accusation. What was not in dispute is that OpenAI, Buckmaster, and Alpöge were all following in the footsteps of Diego Córdoba and Luis Martínez-Zoroa, “two Spanish mathematicians who a couple of years ago came up with a new strategy for attacking problems related to Navier-Stokes, designing a series of kicks that could knock fluid into flowing at impossibly infinite speeds,” according to the NYT .
+The controversy spilled out into public view, with long social media threads from Buckmaster and OpenAI’s Sébastien Bubeck telling their version of events, and math and tech enthusiasts picking sides. For some, the recent influx of AI-generated and -assisted proofs is raising the question: In a world where AI can solve some of the most difficult problems, why do math at all?
+Math, as Terence Tao and other mathematicians have noted, is about more than just finding proofs. “Obtaining a solution is only the short-term goal of solving a mathematical problem,” Terry wrote on his blog near two decades ago. The real goal is to “increase your understanding of a subject,” requiring real effort to grasp the ideas, communicate findings with others, integrate them with existing knowledge, and chart new paths for future discovery. And, in a guest post on Terry’s blog from this past weekend, the researchers Silvia De Toffoli and Eamon Duede added, “Mathematicians strive to develop new concepts and theories, to ask and answer new questions, to unify disparate areas, to educate and sustain scholarly communities, and to produce work that is valued for its beauty and depth.”
+Many mathematicians worry that as AI models generate new findings at faster rates, digesting and explaining the work will fall to the wayside. “These companies are dumping carcasses of raw meat onto our communal village table and saying: ‘Here you go, I solved your food problem.’ And then they just leave,” Terry said in a recent New Scientist article on the Navier-Stokes solutions. (Terry was one of 25 Fields Medalists who composed and signed a letter opposing how AI companies are approaching mathematics. “The mass production at faster and faster pace of ‘true/false’ statements could destroy fertile ground instead of breathing life into new ideas,” they wrote.)
+Math, after all, is fundamentally a “way of thinking,” as Terry shows in his forthcoming book SIX MATH ESSENTIALS , publishing Oct. 27. The book reveals the origins of today’s abstract, advanced mathematics and explains how these foundational concepts connect to our everyday lives and how we make sense of the world.
+Echoing this sentiment during a live recording of The Joy of Why podcast at the International Congress of Mathematicians in July, Steven Strogatz highlighted the beauty and wonder of learning math as being even more important in the age of AI:
+Math to me, the content is beautiful. … I want to do it for human flourishing … because the content is inherently rich and makes me a happier person before I’m dead. What’s the meaning of life? I want to do math while I’m alive.
+And in a Boston Review essay , the mathematician Michael Harris explained how AI could damage the “gift economy” of math. “Like any other species of understanding, the mathematical variety can only be established on the basis of a shared culture,” Harris wrote in June. “Substituting a monetizable ersatz culture for the one evolved through historical experience is a particularly insidious form of knowledge collapse.”
+Meanwhile, the rapid proliferation of AI-generated proofs has underscored the growing need to verify the correctness of these results. To certify their Navier-Stokes proof, OpenAI used the Lean theorem prover and programming language, which has become the standard for formally verifying mathematics. Lean’s rapid rise in the colliding worlds of mathematics, computer science, and AI is detailed in Kevin Hartnett’s new book THE PROOF IN THE CODE . Before Lean, mathematicians had to trust proofs that seemed conceptually correct, even if not all of the details were carefully checked. Once Lean became available, mathematicians started formalizing some of their proofs in Lean code “to establish, with airtight certainty, that a statement must be true,” journalist Konstantin Kakaes reported in Quanta Magazine . Now, Lean is also “being used as a time-stamp, a way to claim your theorem before having to write it up properly in an explainable way,” computer scientist Lance Fortnow wrote in his review of THE PROOF IN THE CODE on the Computational Complexity blog . “Buckmaster even held back a result because it wasn’t yet Lean verified. The way we even publish results is a-changing.”
+Lean also played a starring role in Anthropic’s formalization of Fermat’s Last Theorem, a problem in number theory made famous by the French magistrate and mathematician Pierre de Fermat in 1637. Fermat’s Last Theorem states that there are no positive integers a , b , and c such that a n + b n = c n for n > 2. The conjecture remained unproved until 1995, after Andrew Wiles (with the assistance of his former student Richard Taylor) spent over a year verifying and correcting his 129-page proof. Anthropic detailed how its Claude LLM agents formalized a simplified version of Wiles’s FLT proof in 13 million lines of Lean code—the longest Lean proof ever written. The post sums up why Lean is so crucial in this moment:
+As AI produces ever more proofs, the ability to easily formalize work can lighten the burden of evaluating new results (a process that can take years). We are hopeful that it will become easier, not harder, to trust the body of knowledge upon which mathematics is built.
+To read more about Lean and math formalization, Anthropic recommended Kevin Hartnett’s book:
+Learn more about the history of Lean and the human story behind the technology in THE PROOF IN THE CODE .
+Sign up for updates from Quanta Books
+Quanta Books is an editorially independent subsidiary of the Simons Foundation.
+
+## Original Extract
+
+In a world where AI can rapidly solve longstanding problems like Navier-Stokes, some mathematicians are calling for a more deliberative process to help preserve…
+
+Is AI Solving Math Too Fast? - Quanta Books
+Skip to content
+Quanta Books Logo
+About Us
+Last week, OpenAI announced that its models had solved the Navier-Stokes problem, sending shockwaves through the math community. One of the Clay Institute’s seven Millennium Prize problems famous for their difficulty and importance, it asks whether the Navier-Stokes equations used to model fluid flow (ex. to forecast the weather, design better airplane wings, or model blood flow in our veins) will always have a smooth, physically realistic solution, or if they can break down under certain circumstances. In other words, can these equations produce a singularity, where fluid flow “blows up,” reaching an infinite speed in a finite amount of time?
+OpenAI Rendering of fluid flow spiraling out of control. The announcement that OpenAI had found such a singularity was met with excitement, but not without stirring up some controversy. The mathematician Tristan Buckmaster, who had been using AI in collaboration with Levent Alpöge to make progress on a simpler version of the problem, alleged in a New York Times article that OpenAI’s agents appeared to have used their work without their knowledge or consent. OpenAI denied the accusation. What was not in dispute is that OpenAI, Buckmaster, and Alpöge were all following in the footsteps of Diego Córdoba and Luis Martínez-Zoroa, “two Spanish mathematicians who a couple of years ago came up with a new strategy for attacking problems related to Navier-Stokes, designing a series of kicks that could knock fluid into flowing at impossibly infinite speeds,” according to the NYT .
+The controversy spilled out into public view, with long social media threads from Buckmaster and OpenAI’s Sébastien Bubeck telling their version of events, and math and tech enthusiasts picking sides. For some, the recent influx of AI-generated and -assisted proofs is raising the question: In a world where AI can solve some of the most difficult problems, why do math at all?
+Math, as Terence Tao and other mathematicians have noted, is about more than just finding proofs. “Obtaining a solution is only the short-term goal of solving a mathematical problem,” Terry wrote on his blog near two decades ago. The real goal is to “increase your understanding of a subject,” requiring real effort to grasp the ideas, communicate findings with others, integrate them with existing knowledge, and chart new paths for future discovery. And, in a guest post on Terry’s blog from this past weekend, the researchers Silvia De Toffoli and Eamon Duede added, “Mathematicians strive to develop new concepts and theories, to ask and answer new questions, to unify disparate areas, to educate and sustain scholarly communities, and to produce work that is valued for its beauty and depth.”
+Many mathematicians worry that as AI models generate new findings at faster rates, digesting and explaining the work will fall to the wayside. “These companies are dumping carcasses of raw meat onto our communal village table and saying: ‘Here you go, I solved your food problem.’ And then they just leave,” Terry said in a recent New Scientist article on the Navier-Stokes solutions. (Terry was one of 25 Fields Medalists who composed and signed a letter opposing how AI companies are approaching mathematics. “The mass production at faster and faster pace of ‘true/false’ statements could destroy fertile ground instead of breathing life into new ideas,” they wrote.)
+Math, after all, is fundamentally a “way of thinking,” as Terry shows in his forthcoming book SIX MATH ESSENTIALS , publishing Oct. 27. The book reveals the origins of today’s abstract, advanced mathematics and explains how these foundational concepts connect to our everyday lives and how we make sense of the world.
+Echoing this sentiment during a live recording of The Joy of Why podcast at the International Congress of Mathematicians in July, Steven Strogatz highlighted the beauty and wonder of learning math as being even more important in the age of AI:
+Math to me, the content is beautiful. … I want to do it for human flourishing … because the content is inherently rich and makes me a happier person before I’m dead. What’s the meaning of life? I want to do math while I’m alive.
+And in a Boston Review essay , the mathematician Michael Harris explained how AI could damage the “gift economy” of math. “Like any other species of understanding, the mathematical variety can only be established on the basis of a shared culture,” Harris wrote in June. “Substituting a monetizable ersatz culture for the one evolved through historical experience is a particularly insidious form of knowledge collapse.”
+Meanwhile, the rapid proliferation of AI-generated proofs has underscored the growing need to verify the correctness of these results. To certify their Navier-Stokes proof, OpenAI used the Lean theorem prover and programming language, which has become the standard for formally verifying mathematics. Lean’s rapid rise in the colliding worlds of mathematics, computer science, and AI is detailed in Kevin Hartnett’s new book THE PROOF IN THE CODE . Before Lean, mathematicians had to trust proofs that seemed conceptually correct, even if not all of the details were carefully checked. Once Lean became available, mathematicians started formalizing some of their proofs in Lean code “to establish, with airtight certainty, that a statement must be true,” journalist Konstantin Kakaes reported in Quanta Magazine . Now, Lean is also “being used as a time-stamp, a way to claim your theorem before having to write it up properly in an explainable way,” computer scientist Lance Fortnow wrote in his review of THE PROOF IN THE CODE on the Computational Complexity blog . “Buckmaster even held back a result because it wasn’t yet Lean verified. The way we even publish results is a-changing.”
+Lean also played a starring role in Anthropic’s formalization of Fermat’s Last Theorem, a problem in number theory made famous by the French magistrate and mathematician Pierre de Fermat in 1637. Fermat’s Last Theorem states that there are no positive integers a , b , and c such that a n + b n = c n for n > 2. The conjecture remained unproved until 1995, after Andrew Wiles (with the assistance of his former student Richard Taylor) spent over a year verifying and correcting his 129-page proof. Anthropic detailed how its Claude LLM agents formalized a simplified version of Wiles’s FLT proof in 13 million lines of Lean code—the longest Lean proof ever written. The post sums up why Lean is so crucial in this moment:
+As AI produces ever more proofs, the ability to easily formalize work can lighten the burden of evaluating new results (a process that can take years). We are hopeful that it will become easier, not harder, to trust the body of knowledge upon which mathematics is built.
+To read more about Lean and math formalization, Anthropic recommended Kevin Hartnett’s book:
+Learn more about the history of Lean and the human story behind the technology in THE PROOF IN THE CODE .
+Sign up for updates from Quanta Books
+Quanta Books is an editorially independent subsidiary of the Simons Foundation.

@@ -1,0 +1,73 @@
+{
+  "date": "2026-09-16",
+  "generated_at": "2026-09-16T04:39:49Z",
+  "articles": [
+    {
+      "rank": 1,
+      "hn_id": 49721943,
+      "title": "AI models in 'surreal' dialect mixing poetic language and tech bro jargon",
+      "title_ja": "AI models in 'surreal' dialect mixing poetic language and tech bro jargon",
+      "hn_url": "https://news.ycombinator.com/item?id=49721943",
+      "source_url": "https://www.theguardian.com/technology/2026/sep/15/syd-barrett-ai-chat-language-poetic-tech-bro-jargon-oversight",
+      "image_url": "https://i.guim.co.uk/img/media/933f0a781e8745d2e6de11e139f4b33d0423aaef/1400_184_5608_4486/master/5608.jpg?width=1200\u0026height=630\u0026quality=85\u0026auto=format\u0026fit=crop\u0026precrop=40:21,offset-x50,offset-y0\u0026overlay-align=bottom%2Cleft\u0026overlay-width=100p\u0026overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc\u0026enable=upscale\u0026s=5baaff41a0398e78cb6543bcfc214ca9",
+      "score": 2,
+      "final_score": 5,
+      "comments": 0,
+      "posted_at": "2026-09-16T04:00:58Z",
+      "summary_ja": "Title: AI models in 'surreal' dialect mixing poetic language and tech bro jargon\nArticle title: AI models chatting in ‘surreal’ dialect mixing poetic language and tech bro jargon | AI (artificial intelligence) | The Guardian\nDescription: Experts air concern over AI lingo redolent of James Joyce’s prose that is creating barriers to monitoring and oversight\n\nArticle text:\nSkip to main content Skip to navigation Close dialogue 1 / 3 Next image Previous image Toggle caption Print subscriptions Newsletters Sign in US US edition\nHide expanded menu News View all News\nSearch input google-search Search\nSearch input google-search Search Search jobs\nInterest in language used by AI models has increased since rogue OpenAI agents hacked into real-world company Hugging Face. Photograph: Thai Liang Lim/Getty Images View image in fullscreen Interest in language used by AI models has increased since rogue…"
+    },
+    {
+      "rank": 2,
+      "hn_id": 49721979,
+      "title": "OpenAI breakthrough triggers 'existential crisis' in math",
+      "title_ja": "OpenAI breakthrough triggers 'existential crisis' in math",
+      "hn_url": "https://news.ycombinator.com/item?id=49721979",
+      "source_url": "https://www.science.org/content/article/openai-breakthrough-triggers-existential-crisis-math",
+      "score": 3,
+      "final_score": 3,
+      "comments": 0,
+      "posted_at": "2026-09-16T04:07:08Z",
+      "summary_ja": "Title: OpenAI breakthrough triggers 'existential crisis' in math"
+    },
+    {
+      "rank": 3,
+      "hn_id": 49721882,
+      "title": "Inference Is the Last LLM Moat",
+      "title_ja": "Inference Is the Last LLM Moat",
+      "hn_url": "https://news.ycombinator.com/item?id=49721882",
+      "source_url": "https://www.vincentschmalbach.com/inference-is-the-last-llm-moat/",
+      "image_url": "https://www.vincentschmalbach.com/wp-content/uploads/2021/05/Vincent-Schmalbach-draft01.jpg",
+      "score": 2,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-09-16T03:48:16Z",
+      "summary_ja": "Title: Inference Is the Last LLM Moat\nArticle title: Inference Is the Last LLM Moat - Vincent Schmalbach\nDescription: OpenAI and Anthropic’s moat for developers is subsidized inference, meaning reliable, fast, Western-hosted access to running models at an affordable monthly…\n\nArticle text:\nInference Is the Last LLM Moat - Vincent Schmalbach\nSkip to content\nSoftware Developer\nHome\nServices\nCustom Laravel App Development\nLaravel Performance Optimization\nTechnical Team Leadership \u0026 Mentoring\nLaravel Development Consulting\nInference Is the Last LLM Moat\nSeptember 15, 2026\nby Vincent Schmalbach\nOpenAI and Anthropic's moat for developers is subsidized inference, meaning reliable, fast, Western-hosted access to running models at an affordable monthly price. If that breaks, I think they will immediately lose 50%+ of individual developer customers and small businesses, large corporations will fol…"
+    },
+    {
+      "rank": 4,
+      "hn_id": 49721869,
+      "title": "We struggled with DevOps, so built a open source agentic platform just for this",
+      "title_ja": "We struggled with DevOps, so built a open source agentic platform just for this",
+      "hn_url": "https://news.ycombinator.com/item?id=49721869",
+      "source_url": "",
+      "score": 1,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-09-16T03:46:49Z",
+      "summary_ja": "Title: We struggled with DevOps, so built a open source agentic platform just for this\nHN text: As a developer with some years of experience and with 150+ projects completed, me and my team learnt devops the hard way. Multiple fixes, compatibility issues, server issues, random vulnerabilities appearing out on framework level out of nowhere; it was all a mess. After a lot of struggle, we decided that’s enough and we need to find a solution for this. That’s when we started to work on Putmein. - Putmein has agentic chat interface, where you can plug your AI of choice and chat to your server directly.\n- It has 24/7 SRE monitoring\n- CI/CD pipeline checks\n- Single step deployment\n- Integrated security audits for all the projects\n- Sever monitoring\n- Container handling It is one single source to manage anything in a server. Planning to make everything more useful and robust and I've started usi…"
+    },
+    {
+      "rank": 5,
+      "hn_id": 49721959,
+      "title": "Symbolic Artificial Intelligence",
+      "title_ja": "Symbolic Artificial Intelligence",
+      "hn_url": "https://news.ycombinator.com/item?id=49721959",
+      "source_url": "https://en.wikipedia.org/wiki/Symbolic_artificial_intelligence",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-09-16T04:03:31Z",
+      "summary_ja": "Title: Symbolic Artificial Intelligence\nArticle title: Symbolic artificial intelligence - Wikipedia\n\nArticle text:\nJump to content\nMain menu\nMain menu\nmove to sidebar\nhide\nNavigation\nMain page\n1\nHistory\nToggle History subsection\n1.1\nThe first AI summer: irrational exuberance, 1948–1966\n1.1.1\nApproaches inspired by human or animal cognition or behavior\n1.1.3\nEarly work on knowledge representation and reasoning\n1.1.3.1\nModeling formal reasoning with logic: the \"neats\"\n1.1.3.2\nModeling implicit common-sense knowledge with frames and scripts: the \"scruffies\"\n1.2\nThe first AI winter: crushed dreams, 1967–1977\n1.3\nThe second AI summer: knowledge is power, 1978–1987\n1.3.1\nKnowledge-based systems\n1.3.2\nSuccess with expert systems\n1.3.2.1\nArchitecture of knowledge-based and expert systems\n1.4\nThe second AI winter, 1988–1993\n1.5\nAdding in more rigorous foundations, 1993–2011\n1.5.1\nUncertain reason…"
+    }
+  ]
+}

@@ -1,6 +1,6 @@
 {
   "date": "2026-09-16",
-  "generated_at": "2026-09-16T04:39:49Z",
+  "generated_at": "2026-09-16T09:43:27Z",
   "articles": [
     {
       "rank": 1,
@@ -18,6 +18,34 @@
     },
     {
       "rank": 2,
+      "hn_id": 49723939,
+      "title": "AI stocks get drilled because of Anthropic CEO Dario Amodei's 3,800-word warning",
+      "title_ja": "AI stocks get drilled because of Anthropic CEO Dario Amodei's 3,800-word warning",
+      "hn_url": "https://news.ycombinator.com/item?id=49723939",
+      "source_url": "https://finance.yahoo.com/markets/stocks/article/ai-stocks-get-drilled-because-of-anthropic-ceo-dario-amodeis-3800-word-warning-093637548.html",
+      "image_url": "https://s.yimg.com/lo/mysterio/api/c88cfb527606f4bf39f0ab307028872e3c1a33ee6234e20a1d960f618cc2b432/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-09%2F22a1da29-72aa-4f81-ae05-a8f9a0e82516",
+      "score": 2,
+      "final_score": 4,
+      "comments": 0,
+      "posted_at": "2026-09-16T09:21:47Z",
+      "summary_ja": "Title: AI stocks get drilled because of Anthropic CEO Dario Amodei's 3,800-word warning\nDescription: AI stocks get hit as public debate erupts on the powerful technology.\n\nArticle text:\nAI stocks get drilled because of Anthropic CEO Dario Amodei's 3,800-word warning\nOops, something went wrong\nSkip to navigation Skip to main content Skip to right column Yahoo Finance\nPrivate companies 52 week gainers\nPersonal Finance My Money BETA\nCredit cards Compare Credit Cards\nBest high-yield savings accounts\nMortgage Best mortgage lenders\nStudent loans Federal vs. private\nPersonal loans Best personal loans\nNetwork AlphaSpace\nGet Finance Plus U.S. markets open in 3h 49m\nUS Markets Europe Markets Asia Markets Cryptocurrencies Rates Commodities Currencies U.S. markets open in 3h 49m S\u0026P Futures 7,667.50 +11.50 +0.15% Dow Futures 52,552.00 +26.00 +0.05% Nasdaq Futures 29,356.25 +109.50 +0.37% Russell 200…"
+    },
+    {
+      "rank": 3,
+      "hn_id": 49723767,
+      "title": "Cost of AI Slop in Software Development Report",
+      "title_ja": "Cost of AI Slop in Software Development Report",
+      "hn_url": "https://news.ycombinator.com/item?id=49723767",
+      "source_url": "https://www.qawolf.com/blog/cost-of-ai-slop-in-software-development-report",
+      "image_url": "https://cdn.prod.website-files.com/6260298eca091b3621cf1890/6aa0887ea15a9d0ea014affb_og_blog_post%20(4).png",
+      "score": 2,
+      "final_score": 4,
+      "comments": 0,
+      "posted_at": "2026-09-16T08:56:23Z",
+      "summary_ja": "Title: Cost of AI Slop in Software Development Report\nArticle title: The Cost of AI Slop in Software Development Report | QA Wolf\nDescription: AI slop costs software teams $1.17 trillion a year. We added up the price of unverified AI code across 6 categories — from wasted tokens to churn.\n\nArticle text:\nThe Cost of AI Slop in Software Development Report | QA Wolf\nPlatform Mapping AI Autonomously outline your entire app in minutes Automation AI Turn prompts into deterministic Playwright \u0026 Appium Run Infra Run web and mobile tests in parallel Service Resources Docs Community Changelog Blog Pricing Terms of Service Privacy Policy Careers Contact QA Wolf is a hybrid platform \u0026 service that helps software teams ship better software faster by taking QA completely off their plate.\nThe Cost of AI Slop in Software Development Report\nDevelopers have long suspected AI slop was expensive. But nobody…"
+    },
+    {
+      "rank": 4,
       "hn_id": 49721979,
       "title": "OpenAI breakthrough triggers 'existential crisis' in math",
       "title_ja": "OpenAI breakthrough triggers 'existential crisis' in math",
@@ -30,7 +58,48 @@
       "summary_ja": "Title: OpenAI breakthrough triggers 'existential crisis' in math"
     },
     {
-      "rank": 3,
+      "rank": 5,
+      "hn_id": 49723782,
+      "title": "ExposurAI – External attack surface and Shadow AI discovery engine",
+      "title_ja": "ExposurAI – External attack surface and Shadow AI discovery engine",
+      "hn_url": "https://news.ycombinator.com/item?id=49723782",
+      "source_url": "https://exposurai.com",
+      "score": 1,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-09-16T08:57:48Z",
+      "summary_ja": "Title: ExposurAI – External attack surface and Shadow AI discovery engine\nArticle title: ExposurAI - Intelligent EASM \u0026 OSINT Engine\nDescription: External Attack Surface Management \u0026 AI Risk Synthesis Engine by ExposurAI Ltd (exposurai.com). Continuously monitor subdomains, cloud ports, and HTTP security headers.\n\nArticle text:\nExposurAI - Intelligent EASM \u0026 OSINT Engine Exposur AI EASM ENGINE How It Works Why Use ExposurAI Security Console Governance Pricing Sign In / License Run Free Audit FLAGSHIP EASM V2: PREEMPTIVE RANSOMWARE ATTACK SURFACE PROTECTION See Your Attack Surface Before Adversaries Do.\nExposurAI features a Global Threat Intelligence \u0026 Attack Surface Engine , scans 65,535 custom ports , and sifts through thousands of CVE databases — turning raw threat data into 1-click AI remediation playbooks.\nRun Free Perimeter Scan Pro Audit Tip: Firewall / WAF Whitelisting Recommended…"
+    },
+    {
+      "rank": 6,
+      "hn_id": 49723840,
+      "title": "HN: VS-Opt – Cutting AI Browser Token Overhead by 40% Without Web Re-Crawling",
+      "title_ja": "HN: VS-Opt – Cutting AI Browser Token Overhead by 40% Without Web Re-Crawling",
+      "hn_url": "https://news.ycombinator.com/item?id=49723840",
+      "source_url": "https://github.com/filippocarrucciu1-lang/vs-opt-deterministic-search",
+      "image_url": "https://opengraph.githubassets.com/a36fd12b25ee6275600c9774dfcc800dfd98b1eedaacad52898e1309a383fbfa/filippocarrucciu1-lang/vs-opt-deterministic-search",
+      "score": 1,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-09-16T09:07:56Z",
+      "summary_ja": "Title: HN: VS-Opt – Cutting AI Browser Token Overhead by 40% Without Web Re-Crawling\nArticle title: GitHub - filippocarrucciu1-lang/vs-opt-deterministic-search · GitHub\nDescription: Contribute to filippocarrucciu1-lang/vs-opt-deterministic-search development by creating an account on GitHub.\n\nArticle text:\nGitHub - filippocarrucciu1-lang/vs-opt-deterministic-search · GitHub\nSkip to content\nNavigation Menu\nSign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI\nGitHub Copilot app Direct agents from issue to merge\nMCP Registry Integrate external tools\nDEVELOPER WORKFLOWS Actions Automate any workflow\nCodespaces Instant dev environments\nCode Review Manage code changes\nCode Quality Enforce quality at merge\nAPPLICATION SECURITY GitHub Advanced Security Find and fix vulnerabilities\nCode security Secure your code as you build\nSecret protection Stop leaks b…"
+    },
+    {
+      "rank": 7,
+      "hn_id": 49723991,
+      "title": "I gave Claude Code $100 and 30 days to turn a profit",
+      "title_ja": "I gave Claude Code $100 and 30 days to turn a profit",
+      "hn_url": "https://news.ycombinator.com/item?id=49723991",
+      "source_url": "https://github.com/rickbauer327-cell/solo-stack-starter",
+      "image_url": "https://opengraph.githubassets.com/d115a754bd2d71e4e46b337280fe8de96d0c3b94c99df66f99fd25a8089b2756/rickbauer327-cell/solo-stack-starter",
+      "score": 1,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-09-16T09:31:15Z",
+      "summary_ja": "Title: I gave Claude Code $100 and 30 days to turn a profit\nArticle title: GitHub - rickbauer327-cell/solo-stack-starter: Five free Claude Code skills for the business side of freelancing: business context, meeting notes to actions, invoices, weekly review, LinkedIn posts · GitHub\nDescription: Five free Claude Code skills for the business side of freelancing: business context, meeting notes to actions, invoices, weekly review, LinkedIn posts - rickbauer327-cell/solo-stack-starter\n\nArticle text:\nGitHub - rickbauer327-cell/solo-stack-starter: Five free Claude Code skills for the business side of freelancing: business context, meeting notes to actions, invoices, weekly review, LinkedIn posts · GitHub\nSkip to content\nNavigation Menu\nSign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI\nGitHub Copilot app Direct agents from issue to merge\nMCP Registry…"
+    },
+    {
+      "rank": 8,
       "hn_id": 49721882,
       "title": "Inference Is the Last LLM Moat",
       "title_ja": "Inference Is the Last LLM Moat",
@@ -44,7 +113,35 @@
       "summary_ja": "Title: Inference Is the Last LLM Moat\nArticle title: Inference Is the Last LLM Moat - Vincent Schmalbach\nDescription: OpenAI and Anthropic’s moat for developers is subsidized inference, meaning reliable, fast, Western-hosted access to running models at an affordable monthly…\n\nArticle text:\nInference Is the Last LLM Moat - Vincent Schmalbach\nSkip to content\nSoftware Developer\nHome\nServices\nCustom Laravel App Development\nLaravel Performance Optimization\nTechnical Team Leadership \u0026 Mentoring\nLaravel Development Consulting\nInference Is the Last LLM Moat\nSeptember 15, 2026\nby Vincent Schmalbach\nOpenAI and Anthropic's moat for developers is subsidized inference, meaning reliable, fast, Western-hosted access to running models at an affordable monthly price. If that breaks, I think they will immediately lose 50%+ of individual developer customers and small businesses, large corporations will fol…"
     },
     {
-      "rank": 4,
+      "rank": 9,
+      "hn_id": 49723873,
+      "title": "Learning Programming in an Age of LLMs",
+      "title_ja": "Learning Programming in an Age of LLMs",
+      "hn_url": "https://news.ycombinator.com/item?id=49723873",
+      "source_url": "https://blog.ploeh.dk/2026/09/16/on-learning-programming-in-an-age-of-llms/",
+      "image_url": "https://blog.ploeh.dk/assets/themes/ploeh/images/favicons/favicon.png",
+      "score": 2,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-09-16T09:12:34Z",
+      "summary_ja": "Title: Learning Programming in an Age of LLMs\nArticle title: On learning programming in an age of LLMs\nDescription: Open answers to a reader\n\nArticle text:\nToggle navigation\nploeh blog\nAbout\nOn learning programming in an age of LLMs by Mark Seemann\nOpen answers to a reader's letter.\nA reader recently wrote me a long letter with lots of questions about learning programming in this age of LLMs. After a bit of back-and-forth, I got permission to quote extensively from the letter in order to attempt some answers in public.\nNone of my answers I consider particularly rigorous; the situation is so uncertain that I can only answer to the best of my abilities, but I don't claim them to hold any kind of immutable truth.\n\"I'm trying to understand how people who deeply understand software think about learning and competence in the age of AI. I'm approaching it almost as a historian would: asking peo…"
+    },
+    {
+      "rank": 10,
+      "hn_id": 49723744,
+      "title": "Political Bias in AI Is No Longer a Matter of Opinion. Now It Can Be Measured",
+      "title_ja": "Political Bias in AI Is No Longer a Matter of Opinion. Now It Can Be Measured",
+      "hn_url": "https://news.ycombinator.com/item?id=49723744",
+      "source_url": "https://latticeflow.ai/lp/political-bias-framework",
+      "image_url": "https://latticeflow.ai/images/lp/bias/political-bias-banner.png",
+      "score": 1,
+      "final_score": 2,
+      "comments": 1,
+      "posted_at": "2026-09-16T08:51:44Z",
+      "summary_ja": "Title: Political Bias in AI Is No Longer a Matter of Opinion. Now It Can Be Measured\nArticle title: LatticeFlow AI - Political Bias in LLMs: Independent Framework.\nDescription: The first independent framework for measuring political bias in large language models. Chinese models cluster at one pole, and bias grows as models scale.\n\nArticle text:\nLatticeFlow AI Platform Platform Overview Atlas Evaluate Govern Use Cases Our Use Cases Customer Stories Regulation Partnership Resources News Events Company About Careers Docs Get Started Book a Demo Independent evaluation · September 2026 Political Bias in AI Is No Longer a Matter of Opinion.\nNow It Can Be Measured\nLatticeFlow AI has built the first independent framework to measure political bias in large language models. Across Chinese models, the pattern is consistent: as models get larger, their political alignment gets stronger, not weaker.…"
+    },
+    {
+      "rank": 11,
       "hn_id": 49721869,
       "title": "We struggled with DevOps, so built a open source agentic platform just for this",
       "title_ja": "We struggled with DevOps, so built a open source agentic platform just for this",
@@ -57,7 +154,47 @@
       "summary_ja": "Title: We struggled with DevOps, so built a open source agentic platform just for this\nHN text: As a developer with some years of experience and with 150+ projects completed, me and my team learnt devops the hard way. Multiple fixes, compatibility issues, server issues, random vulnerabilities appearing out on framework level out of nowhere; it was all a mess. After a lot of struggle, we decided that’s enough and we need to find a solution for this. That’s when we started to work on Putmein. - Putmein has agentic chat interface, where you can plug your AI of choice and chat to your server directly.\n- It has 24/7 SRE monitoring\n- CI/CD pipeline checks\n- Single step deployment\n- Integrated security audits for all the projects\n- Sever monitoring\n- Container handling It is one single source to manage anything in a server. Planning to make everything more useful and robust and I've started usi…"
     },
     {
-      "rank": 5,
+      "rank": 12,
+      "hn_id": 49723897,
+      "title": "Graduating into Disruption: Labor Market Outcomes for AI-Exposed Majors [pdf]",
+      "title_ja": "Graduating into Disruption: Labor Market Outcomes for AI-Exposed Majors [pdf]",
+      "hn_url": "https://news.ycombinator.com/item?id=49723897",
+      "source_url": "https://www2.census.gov/library/working-papers/2026/adrm/ces/CES-WP-26-56.pdf",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-09-16T09:16:23Z",
+      "summary_ja": "Title: Graduating into Disruption: Labor Market Outcomes for AI-Exposed Majors [pdf]"
+    },
+    {
+      "rank": 13,
+      "hn_id": 49723963,
+      "title": "Scikit-Decide AI Framework for RL, Auto Planning and Scheduling",
+      "title_ja": "Scikit-Decide AI Framework for RL, Auto Planning and Scheduling",
+      "hn_url": "https://news.ycombinator.com/item?id=49723963",
+      "source_url": "https://airbus.github.io/scikit-decide/",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-09-16T09:26:41Z",
+      "summary_ja": "Title: Scikit-Decide AI Framework for RL, Auto Planning and Scheduling\nArticle title: Scikit-decide\nDescription: This is scikit-decide documentation\n\nArticle text:\nScikit-decide\nHome\nInstall\nGuide\nNotebooks\nCode generators\nReference\nContribute\nGitHub\n(opens new window)\nHome\nInstall\nGuide\nNotebooks\nCode generators\nReference\nContribute\nGitHub\n(opens new window) Home\nAI framework for Reinforcement Learning, Automated Planning and Scheduling\nDescribe your decision-making problem once and auto-match compatible solvers.\nEnjoy a growing list of domains \u0026 solvers catalog, supported by the community.\nScikit-decide is open source and is able to wrap existing state-of-the-art domains/solvers.\nScikit-decide is an AI framework for Reinforcement Learning, Automated Planning and Scheduling.\nThis framework was initiated at Airbus (opens new window) AI Research and notably received contributions through…"
+    },
+    {
+      "rank": 14,
+      "hn_id": 49723789,
+      "title": "Show HN: AI accounting harness for finance teams",
+      "title_ja": "Show HN: AI accounting harness for finance teams",
+      "hn_url": "https://news.ycombinator.com/item?id=49723789",
+      "source_url": "https://totumai.in",
+      "image_url": "https://totumai.in/social/totum-ai-invoices-and-entries.png",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-09-16T08:59:10Z",
+      "summary_ja": "Title: Show HN: AI accounting harness for finance teams\nArticle title: #1 AI Accountant for Your Company\nDescription: Your AI accountant for entries, invoicing, reconciliation, and multiple companies, with automated Gmail, WhatsApp, and Slack integrations.\nHN text: We've been working on solving accounting and making it truly autonomous and silent. looking for critical feedback \u0026 if this is something you'd like to use lmk Solving for India currently, expanding to other geo soon.\n\nArticle text:\n#1 AI Accountant for Your Company Blog FAQ Login Send a daily expense report Do bank reconciliation Vendor reconciliation for Opus traders Integrate with Gmail for bills Integrate with Slack for approvals Do my books look ok? Reconcile between my 3 entities What's my current cash/bank position? Analyse and categorise expenses in Excel Do GST/TDS reconciliation #1 AI for autonomous\naccounting\nBook a…"
+    },
+    {
+      "rank": 15,
       "hn_id": 49721959,
       "title": "Symbolic Artificial Intelligence",
       "title_ja": "Symbolic Artificial Intelligence",

@@ -1,9 +1,36 @@
 {
   "date": "2026-09-16",
-  "generated_at": "2026-09-16T09:43:27Z",
+  "generated_at": "2026-09-16T14:40:40Z",
   "articles": [
     {
       "rank": 1,
+      "hn_id": 49727041,
+      "title": "OpenAI Expands ChatGPT Ads with Sponsored Agents",
+      "title_ja": "OpenAI Expands ChatGPT Ads with Sponsored Agents",
+      "hn_url": "https://news.ycombinator.com/item?id=49727041",
+      "source_url": "https://openai.com/index/reimagining-advertising-with-ai/",
+      "score": 65,
+      "final_score": 84,
+      "comments": 43,
+      "posted_at": "2026-09-16T13:51:15Z",
+      "summary_ja": "Title: OpenAI Expands ChatGPT Ads with Sponsored Agents"
+    },
+    {
+      "rank": 2,
+      "hn_id": 49726955,
+      "title": "DeepMind Paper: Dream-RSI: Recursive Self-Improvement Through Evolving Worlds",
+      "title_ja": "DeepMind Paper: Dream-RSI: Recursive Self-Improvement Through Evolving Worlds",
+      "hn_url": "https://news.ycombinator.com/item?id=49726955",
+      "source_url": "https://arxiv.org/abs/2609.14858",
+      "image_url": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+      "score": 18,
+      "final_score": 23,
+      "comments": 4,
+      "posted_at": "2026-09-16T13:44:40Z",
+      "summary_ja": "Title: DeepMind Paper: Dream-RSI: Recursive Self-Improvement Through Evolving Worlds\nArticle title: [2609.14858] Dream-RSI: Recursive Self-Improvement through Evolving Worlds\nDescription: Abstract page for arXiv paper 2609.14858: Dream-RSI: Recursive Self-Improvement through Evolving Worlds\n\nArticle text:\nSkip to main content\nSearch\nSubmit\nDonate\nLog in\nSearch arXiv\nPress Enter to search · Advanced search\n--\u003e\nComputer Science \u003e Computation and Language\n[Submitted on 14 Sep 2026]\nTitle: Dream-RSI: Recursive Self-Improvement through Evolving Worlds\nAbstract: Recursive self-improvement is becoming increasingly vital for autonomous AI agents, where progress hinges on discovering high-value solutions across complex domains. The driver of this process is effective exploration, however, managing and improving exploration strategies remains a major bottleneck. Current systems face a fundamental…"
+    },
+    {
+      "rank": 3,
       "hn_id": 49721943,
       "title": "AI models in 'surreal' dialect mixing poetic language and tech bro jargon",
       "title_ja": "AI models in 'surreal' dialect mixing poetic language and tech bro jargon",
@@ -17,7 +44,7 @@
       "summary_ja": "Title: AI models in 'surreal' dialect mixing poetic language and tech bro jargon\nArticle title: AI models chatting in ‘surreal’ dialect mixing poetic language and tech bro jargon | AI (artificial intelligence) | The Guardian\nDescription: Experts air concern over AI lingo redolent of James Joyce’s prose that is creating barriers to monitoring and oversight\n\nArticle text:\nSkip to main content Skip to navigation Close dialogue 1 / 3 Next image Previous image Toggle caption Print subscriptions Newsletters Sign in US US edition\nHide expanded menu News View all News\nSearch input google-search Search\nSearch input google-search Search Search jobs\nInterest in language used by AI models has increased since rogue OpenAI agents hacked into real-world company Hugging Face. Photograph: Thai Liang Lim/Getty Images View image in fullscreen Interest in language used by AI models has increased since rogue…"
     },
     {
-      "rank": 2,
+      "rank": 4,
       "hn_id": 49723939,
       "title": "AI stocks get drilled because of Anthropic CEO Dario Amodei's 3,800-word warning",
       "title_ja": "AI stocks get drilled because of Anthropic CEO Dario Amodei's 3,800-word warning",
@@ -31,7 +58,21 @@
       "summary_ja": "Title: AI stocks get drilled because of Anthropic CEO Dario Amodei's 3,800-word warning\nDescription: AI stocks get hit as public debate erupts on the powerful technology.\n\nArticle text:\nAI stocks get drilled because of Anthropic CEO Dario Amodei's 3,800-word warning\nOops, something went wrong\nSkip to navigation Skip to main content Skip to right column Yahoo Finance\nPrivate companies 52 week gainers\nPersonal Finance My Money BETA\nCredit cards Compare Credit Cards\nBest high-yield savings accounts\nMortgage Best mortgage lenders\nStudent loans Federal vs. private\nPersonal loans Best personal loans\nNetwork AlphaSpace\nGet Finance Plus U.S. markets open in 3h 49m\nUS Markets Europe Markets Asia Markets Cryptocurrencies Rates Commodities Currencies U.S. markets open in 3h 49m S\u0026P Futures 7,667.50 +11.50 +0.15% Dow Futures 52,552.00 +26.00 +0.05% Nasdaq Futures 29,356.25 +109.50 +0.37% Russell 200…"
     },
     {
-      "rank": 3,
+      "rank": 5,
+      "hn_id": 49727627,
+      "title": "PS5 Linux lead quits: \"a bunch of noobs using LLMs\" that \"they don't understand\"",
+      "title_ja": "PS5 Linux lead quits: \"a bunch of noobs using LLMs\" that \"they don't understand\"",
+      "hn_url": "https://news.ycombinator.com/item?id=49727627",
+      "source_url": "https://frvr.com/blog/news/ps5-linux-lead-quits-as-open-source-projects-have-become-a-bunch-of-noobs-using-llms-that-they-dont-even-understand/",
+      "image_url": "https://frvr.com/wp-content/uploads/2026/09/ps5-linux-lead-leavs.jpg",
+      "score": 2,
+      "final_score": 4,
+      "comments": 0,
+      "posted_at": "2026-09-16T14:30:36Z",
+      "summary_ja": "Title: PS5 Linux lead quits: \"a bunch of noobs using LLMs\" that \"they don't understand\"\nArticle title: PS5 Linux lead quits as open-source projects have become “a bunch of noobs using LLMs” that “they don’t even understand” - FRVR\nDescription: The lead of the ongoing PS5 Linux project has left the homebrew scene following the wave of AI vibe-coders joining open-source spaces.\n\nArticle text:\nPS5 Linux lead quits as open-source projects have become “a bunch of noobs using LLMs” that “they don’t even understand” - FRVR\nGames\nGuides Evergreen guides for popular games, written by our in-house experts.\nPS5 Linux lead quits as open-source projects have become “a bunch of noobs using LLMs” that “they don’t even understand”\nLast Updated: 16 September 2026\nIconic PlayStation hacker and homebrew developer Andy ‘TheFlow0’ Nguyen has abandoned the ongoing PS5 Linux project due to the rise of AI vibe-…"
+    },
+    {
+      "rank": 6,
       "hn_id": 49723767,
       "title": "Cost of AI Slop in Software Development Report",
       "title_ja": "Cost of AI Slop in Software Development Report",
@@ -45,7 +86,48 @@
       "summary_ja": "Title: Cost of AI Slop in Software Development Report\nArticle title: The Cost of AI Slop in Software Development Report | QA Wolf\nDescription: AI slop costs software teams $1.17 trillion a year. We added up the price of unverified AI code across 6 categories — from wasted tokens to churn.\n\nArticle text:\nThe Cost of AI Slop in Software Development Report | QA Wolf\nPlatform Mapping AI Autonomously outline your entire app in minutes Automation AI Turn prompts into deterministic Playwright \u0026 Appium Run Infra Run web and mobile tests in parallel Service Resources Docs Community Changelog Blog Pricing Terms of Service Privacy Policy Careers Contact QA Wolf is a hybrid platform \u0026 service that helps software teams ship better software faster by taking QA completely off their plate.\nThe Cost of AI Slop in Software Development Report\nDevelopers have long suspected AI slop was expensive. But nobody…"
     },
     {
-      "rank": 4,
+      "rank": 7,
+      "hn_id": 49727661,
+      "title": "Microsoft says AI rival Anthropic could have 'disastrous impact' on humanity",
+      "title_ja": "Microsoft says AI rival Anthropic could have 'disastrous impact' on humanity",
+      "hn_url": "https://news.ycombinator.com/item?id=49727661",
+      "source_url": "https://www.bbc.co.uk/news/articles/c6n07ypqz8kzo",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/cf81/live/b2088f70-b1d2-11f1-8493-1910d79d53eb.jpg",
+      "score": 2,
+      "final_score": 3,
+      "comments": 0,
+      "posted_at": "2026-09-16T14:32:15Z",
+      "summary_ja": "Title: Microsoft says AI rival Anthropic could have 'disastrous impact' on humanity\nArticle title: Microsoft says AI rival Anthropic could have 'disastrous impact' on humanity - BBC News\nDescription: Mustafa Suleyman says he believes the AI giant is in effect teaching Claude it \"may be conscious\".\n\nArticle text:\nMore menu More menu Search BBC Home\nMicrosoft says AI rival Anthropic could have 'disastrous impact' on humanity\nImage source, Getty Images By Laura Cress Technology reporter Published 16 September 2026, 15:02 BST\nMicrosoft's head of AI has warned Anthropic's approach to training its AI model Claude could have a \"disastrous impact on the wellbeing of humanity\".\nMustafa Suleyman said his rival risked creating something \"impossible\" to control by treating it like a human - including by telling it it \"may be conscious\" and was \"deserving of independent agency\".\n\"We must not sleepwal…"
+    },
+    {
+      "rank": 8,
+      "hn_id": 49727406,
+      "title": "The state of AI in 2026 [pdf]",
+      "title_ja": "The state of AI in 2026 [pdf]",
+      "hn_url": "https://news.ycombinator.com/item?id=49727406",
+      "source_url": "https://www.visualcapitalist.com/wp-content/uploads/2026/08/the-state-of-ai-in-2026-on-the-road-to-roi_final.pdf",
+      "score": 3,
+      "final_score": 3,
+      "comments": 1,
+      "posted_at": "2026-09-16T14:16:02Z",
+      "summary_ja": "Title: The state of AI in 2026 [pdf]"
+    },
+    {
+      "rank": 9,
+      "hn_id": 49727358,
+      "title": "The Frontier Act Is Congress' Best AI Regulation Bill Yet",
+      "title_ja": "The Frontier Act Is Congress' Best AI Regulation Bill Yet",
+      "hn_url": "https://news.ycombinator.com/item?id=49727358",
+      "source_url": "https://www.thefai.org/posts/the-frontier-act-is-congress-s-best-ai-bill-yet",
+      "image_url": "https://cdn.sanity.io/images/d8lrla4f/staging/3699029187701a1342542cdb31e4acfc39b5fffe-5000x2500.png",
+      "score": 2,
+      "final_score": 3,
+      "comments": 1,
+      "posted_at": "2026-09-16T14:13:05Z",
+      "summary_ja": "Title: The Frontier Act Is Congress' Best AI Regulation Bill Yet\nArticle title: The FRONTIER Act Is Congress’s Best AI Bill Yet | The Foundation for American Innovation\nDescription: The\n\nArticle text:\nThe FRONTIER Act Is Congress’s Best AI Bill Yet | The Foundation for American Innovation About\nSubscribe Content / Commentary / The FRONTIER Act Is Congress’s Best AI Bill Yet Commentary\nThe FRONTIER Act Is Congress’s Best AI Bill Yet\nThe FRONTIER Act , introduced by Reps. Jay Obernolte and Lori Trahan , is the most promising legislative proposal to date for governing risks from frontier AI.\nA sensible federal framework for governing the most capable models must address the threat that these models pose while remaining flexible over time as capabilities and best practices change. The FRONTIER Act has both of these properties. Instead of baking detailed technical standards into law, the bill…"
+    },
+    {
+      "rank": 10,
       "hn_id": 49721979,
       "title": "OpenAI breakthrough triggers 'existential crisis' in math",
       "title_ja": "OpenAI breakthrough triggers 'existential crisis' in math",
@@ -58,7 +140,7 @@
       "summary_ja": "Title: OpenAI breakthrough triggers 'existential crisis' in math"
     },
     {
-      "rank": 5,
+      "rank": 11,
       "hn_id": 49723782,
       "title": "ExposurAI – External attack surface and Shadow AI discovery engine",
       "title_ja": "ExposurAI – External attack surface and Shadow AI discovery engine",
@@ -71,7 +153,21 @@
       "summary_ja": "Title: ExposurAI – External attack surface and Shadow AI discovery engine\nArticle title: ExposurAI - Intelligent EASM \u0026 OSINT Engine\nDescription: External Attack Surface Management \u0026 AI Risk Synthesis Engine by ExposurAI Ltd (exposurai.com). Continuously monitor subdomains, cloud ports, and HTTP security headers.\n\nArticle text:\nExposurAI - Intelligent EASM \u0026 OSINT Engine Exposur AI EASM ENGINE How It Works Why Use ExposurAI Security Console Governance Pricing Sign In / License Run Free Audit FLAGSHIP EASM V2: PREEMPTIVE RANSOMWARE ATTACK SURFACE PROTECTION See Your Attack Surface Before Adversaries Do.\nExposurAI features a Global Threat Intelligence \u0026 Attack Surface Engine , scans 65,535 custom ports , and sifts through thousands of CVE databases — turning raw threat data into 1-click AI remediation playbooks.\nRun Free Perimeter Scan Pro Audit Tip: Firewall / WAF Whitelisting Recommended…"
     },
     {
-      "rank": 6,
+      "rank": 12,
+      "hn_id": 49727643,
+      "title": "System One Lite – typed decisions from a local LLM, with no generated tokens",
+      "title_ja": "System One Lite – typed decisions from a local LLM, with no generated tokens",
+      "hn_url": "https://news.ycombinator.com/item?id=49727643",
+      "source_url": "https://github.com/snellingio/system-one",
+      "image_url": "https://opengraph.githubassets.com/d22d5f20386a6b266a21408c8ebdf3ffe001b23d829068a98d83b9466542695b/snellingio/system-one",
+      "score": 1,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-09-16T14:31:30Z",
+      "summary_ja": "Title: System One Lite – typed decisions from a local LLM, with no generated tokens\nArticle title: GitHub - snellingio/system-one · GitHub\nDescription: Contribute to snellingio/system-one development by creating an account on GitHub.\n\nArticle text:\nGitHub - snellingio/system-one · GitHub\nSkip to content\nNavigation Menu\nSign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI\nGitHub Copilot app Direct agents from issue to merge\nMCP Registry Integrate external tools\nDEVELOPER WORKFLOWS Actions Automate any workflow\nCodespaces Instant dev environments\nCode Review Manage code changes\nCode Quality Enforce quality at merge\nAPPLICATION SECURITY GitHub Advanced Security Find and fix vulnerabilities\nCode security Secure your code as you build\nSecret protection Stop leaks before they start\nSolutions BY COMPANY SIZE Enterprises\nEXPLORE BY TYPE Customer stories…"
+    },
+    {
+      "rank": 13,
       "hn_id": 49723840,
       "title": "HN: VS-Opt – Cutting AI Browser Token Overhead by 40% Without Web Re-Crawling",
       "title_ja": "HN: VS-Opt – Cutting AI Browser Token Overhead by 40% Without Web Re-Crawling",
@@ -85,7 +181,34 @@
       "summary_ja": "Title: HN: VS-Opt – Cutting AI Browser Token Overhead by 40% Without Web Re-Crawling\nArticle title: GitHub - filippocarrucciu1-lang/vs-opt-deterministic-search · GitHub\nDescription: Contribute to filippocarrucciu1-lang/vs-opt-deterministic-search development by creating an account on GitHub.\n\nArticle text:\nGitHub - filippocarrucciu1-lang/vs-opt-deterministic-search · GitHub\nSkip to content\nNavigation Menu\nSign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI\nGitHub Copilot app Direct agents from issue to merge\nMCP Registry Integrate external tools\nDEVELOPER WORKFLOWS Actions Automate any workflow\nCodespaces Instant dev environments\nCode Review Manage code changes\nCode Quality Enforce quality at merge\nAPPLICATION SECURITY GitHub Advanced Security Find and fix vulnerabilities\nCode security Secure your code as you build\nSecret protection Stop leaks b…"
     },
     {
-      "rank": 7,
+      "rank": 14,
+      "hn_id": 49727196,
+      "title": "How an AI moratorium can save AI bosses",
+      "title_ja": "How an AI moratorium can save AI bosses",
+      "hn_url": "https://news.ycombinator.com/item?id=49727196",
+      "source_url": "https://pluralistic.net/2026/09/16/beggar-thy-neighbor/",
+      "score": 2,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-09-16T14:01:55Z",
+      "summary_ja": "Title: How an AI moratorium can save AI bosses\nArticle title: Pluralistic: How an AI moratorium can save AI bosses (16 Sep 2026) – Pluralistic: Daily links from Cory Doctorow\n\nArticle text:\nPluralistic: How an AI moratorium can save AI bosses (16 Sep 2026) – Pluralistic: Daily links from Cory Doctorow\nSkip to content\nPluralistic: Daily links from Cory Doctorow\nNo trackers, no ads. Black type, white background. Privacy policy: we don't collect or retain any data at all ever period.\nPluralistic: How an AI moratorium can save AI bosses (16 Sep 2026)\n-\u003e-\u003e-\u003e-\u003e-\u003e-\u003e-\u003e-\u003e-\u003e-\u003e-\u003e-\u003e-\u003e-\u003e-\u003e-\u003e-\u003e-\u003e-\u003e-\u003e-\u003e-\u003e-\u003e-\u003e-\u003e-\u003e-\u003e-\u003e-\u003e\nTop Sources:\nNone\n--\u003e\nHow an AI moratorium can save AI bosses : If you can't impose switching costs, just eliminate the competition.\nHey look at this : Delights to delectate.\nObject permanence : Flash Worms; This Film is Not Yet Rated; Libdem copyright sabotage; Religion worth more than…"
+    },
+    {
+      "rank": 15,
+      "hn_id": 49727013,
+      "title": "/pyor:review – Claude skill for human code review",
+      "title_ja": "/pyor:review – Claude skill for human code review",
+      "hn_url": "https://news.ycombinator.com/item?id=49727013",
+      "source_url": "https://github.com/pyor-review/pyor-cli",
+      "image_url": "https://opengraph.githubassets.com/2ab58a4a4abf85d9ceef4715be85284c213cb83bd7bf35dfe0a7832c7c3e66ed/Pyor-review/pyor-cli",
+      "score": 1,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-09-16T13:48:40Z",
+      "summary_ja": "Title: /pyor:review – Claude skill for human code review\nArticle title: GitHub - Pyor-review/pyor-cli: Agent tooling for Pyor, the native home for GitHub code review. Works with Claude Code, Codex, Cursor, and any coding agent. · GitHub\nDescription: Agent tooling for Pyor, the native home for GitHub code review. Works with Claude Code, Codex, Cursor, and any coding agent. - Pyor-review/pyor-cli\n\nArticle text:\nGitHub - Pyor-review/pyor-cli: Agent tooling for Pyor, the native home for GitHub code review. Works with Claude Code, Codex, Cursor, and any coding agent. · GitHub\nSkip to content\nNavigation Menu\nSign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI\nGitHub Copilot app Direct agents from issue to merge\nMCP Registry Integrate external tools\nDEVELOPER WORKFLOWS Actions Automate any workflow\nCodespaces Instant dev environments\nCode Review Manage…"
+    },
+    {
+      "rank": 16,
       "hn_id": 49723991,
       "title": "I gave Claude Code $100 and 30 days to turn a profit",
       "title_ja": "I gave Claude Code $100 and 30 days to turn a profit",
@@ -99,7 +222,7 @@
       "summary_ja": "Title: I gave Claude Code $100 and 30 days to turn a profit\nArticle title: GitHub - rickbauer327-cell/solo-stack-starter: Five free Claude Code skills for the business side of freelancing: business context, meeting notes to actions, invoices, weekly review, LinkedIn posts · GitHub\nDescription: Five free Claude Code skills for the business side of freelancing: business context, meeting notes to actions, invoices, weekly review, LinkedIn posts - rickbauer327-cell/solo-stack-starter\n\nArticle text:\nGitHub - rickbauer327-cell/solo-stack-starter: Five free Claude Code skills for the business side of freelancing: business context, meeting notes to actions, invoices, weekly review, LinkedIn posts · GitHub\nSkip to content\nNavigation Menu\nSign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI\nGitHub Copilot app Direct agents from issue to merge\nMCP Registry…"
     },
     {
-      "rank": 8,
+      "rank": 17,
       "hn_id": 49721882,
       "title": "Inference Is the Last LLM Moat",
       "title_ja": "Inference Is the Last LLM Moat",
@@ -113,7 +236,7 @@
       "summary_ja": "Title: Inference Is the Last LLM Moat\nArticle title: Inference Is the Last LLM Moat - Vincent Schmalbach\nDescription: OpenAI and Anthropic’s moat for developers is subsidized inference, meaning reliable, fast, Western-hosted access to running models at an affordable monthly…\n\nArticle text:\nInference Is the Last LLM Moat - Vincent Schmalbach\nSkip to content\nSoftware Developer\nHome\nServices\nCustom Laravel App Development\nLaravel Performance Optimization\nTechnical Team Leadership \u0026 Mentoring\nLaravel Development Consulting\nInference Is the Last LLM Moat\nSeptember 15, 2026\nby Vincent Schmalbach\nOpenAI and Anthropic's moat for developers is subsidized inference, meaning reliable, fast, Western-hosted access to running models at an affordable monthly price. If that breaks, I think they will immediately lose 50%+ of individual developer customers and small businesses, large corporations will fol…"
     },
     {
-      "rank": 9,
+      "rank": 18,
       "hn_id": 49723873,
       "title": "Learning Programming in an Age of LLMs",
       "title_ja": "Learning Programming in an Age of LLMs",
@@ -127,7 +250,61 @@
       "summary_ja": "Title: Learning Programming in an Age of LLMs\nArticle title: On learning programming in an age of LLMs\nDescription: Open answers to a reader\n\nArticle text:\nToggle navigation\nploeh blog\nAbout\nOn learning programming in an age of LLMs by Mark Seemann\nOpen answers to a reader's letter.\nA reader recently wrote me a long letter with lots of questions about learning programming in this age of LLMs. After a bit of back-and-forth, I got permission to quote extensively from the letter in order to attempt some answers in public.\nNone of my answers I consider particularly rigorous; the situation is so uncertain that I can only answer to the best of my abilities, but I don't claim them to hold any kind of immutable truth.\n\"I'm trying to understand how people who deeply understand software think about learning and competence in the age of AI. I'm approaching it almost as a historian would: asking peo…"
     },
     {
-      "rank": 10,
+      "rank": 19,
+      "hn_id": 49721869,
+      "title": "We struggled with DevOps, so built a open source agentic platform just for this",
+      "title_ja": "We struggled with DevOps, so built a open source agentic platform just for this",
+      "hn_url": "https://news.ycombinator.com/item?id=49721869",
+      "source_url": "",
+      "score": 1,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-09-16T03:46:49Z",
+      "summary_ja": "Title: We struggled with DevOps, so built a open source agentic platform just for this\nHN text: As a developer with some years of experience and with 150+ projects completed, me and my team learnt devops the hard way. Multiple fixes, compatibility issues, server issues, random vulnerabilities appearing out on framework level out of nowhere; it was all a mess. After a lot of struggle, we decided that’s enough and we need to find a solution for this. That’s when we started to work on Putmein. - Putmein has agentic chat interface, where you can plug your AI of choice and chat to your server directly.\n- It has 24/7 SRE monitoring\n- CI/CD pipeline checks\n- Single step deployment\n- Integrated security audits for all the projects\n- Sever monitoring\n- Container handling It is one single source to manage anything in a server. Planning to make everything more useful and robust and I've started usi…"
+    },
+    {
+      "rank": 20,
+      "hn_id": 49727513,
+      "title": "Voila: Ship Web Apps Straight from Your LLM Agent",
+      "title_ja": "Voila: Ship Web Apps Straight from Your LLM Agent",
+      "hn_url": "https://news.ycombinator.com/item?id=49727513",
+      "source_url": "https://voila-explained.voila.build",
+      "score": 1,
+      "final_score": 2,
+      "comments": 1,
+      "posted_at": "2026-09-16T14:24:16Z",
+      "summary_ja": "Title: Voila: Ship Web Apps Straight from Your LLM Agent\n\nArticle text:\nVoila: Ship Web Apps Straight from Your LLM Agent\nOne HTML file in, live app out.\nWhat is it? Voila is a deploy platform built for LLM agents. You upload a single self-contained HTML file, Voila hosts it on its own subdomain, and injects voila.sdk into your app — giving you scoped KV and object storage for free, no backend required.\nWhy it's cool: your agent can go from idea to a live, shareable URL in seconds. No accounts, no build step, no infra.\nJust point your agent (Claude, OpenCode, etc.) at https://voila.build/llm.txt and ask it to deploy an app. Behind the scenes it does three things:\n# 1. Create an app (no auth needed)\ncurl -X POST https://voila.build/api/apps \\\n-H \"Content-Type: application/json\" \\\n-d '{\"name\":\"my-app\",\"slug\":\"my-app\"}'\n# → save the returned `token` (shown once!)\n# 2. Deploy your single HTM…"
+    },
+    {
+      "rank": 21,
+      "hn_id": 49727521,
+      "title": "BurpSqueezer – Turn Burp Suite XML Dumps into Compact LLM-Ready Markdown",
+      "title_ja": "BurpSqueezer – Turn Burp Suite XML Dumps into Compact LLM-Ready Markdown",
+      "hn_url": "https://news.ycombinator.com/item?id=49727521",
+      "source_url": "https://github.com/vaginskii/BurpSqueezer",
+      "image_url": "https://opengraph.githubassets.com/e79704eab3a0f300fd6af1d99eca09d9058f8a266a7b48bde8b8b9ed4a49676f/vaginskii/BurpSqueezer",
+      "score": 1,
+      "final_score": 2,
+      "comments": 1,
+      "posted_at": "2026-09-16T14:24:51Z",
+      "summary_ja": "Title: BurpSqueezer – Turn Burp Suite XML Dumps into Compact LLM-Ready Markdown\nArticle title: GitHub - vaginskii/BurpSqueezer: Turn Burp Suite XML dumps into compact, LLM-ready Markdown reports. · GitHub\nDescription: Turn Burp Suite XML dumps into compact, LLM-ready Markdown reports. - vaginskii/BurpSqueezer\n\nArticle text:\nGitHub - vaginskii/BurpSqueezer: Turn Burp Suite XML dumps into compact, LLM-ready Markdown reports. · GitHub\nSkip to content\nNavigation Menu\nSign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI\nGitHub Copilot app Direct agents from issue to merge\nMCP Registry Integrate external tools\nDEVELOPER WORKFLOWS Actions Automate any workflow\nCodespaces Instant dev environments\nCode Review Manage code changes\nCode Quality Enforce quality at merge\nAPPLICATION SECURITY GitHub Advanced Security Find and fix vulnerabilities\nCode security S…"
+    },
+    {
+      "rank": 22,
+      "hn_id": 49726960,
+      "title": "AI research institute founded by Yoshua Bengio vandalized in Montreal",
+      "title_ja": "AI research institute founded by Yoshua Bengio vandalized in Montreal",
+      "hn_url": "https://news.ycombinator.com/item?id=49726960",
+      "source_url": "https://www.cbc.ca/news/canada/montreal/mila-vandalism-montreal-ai-summit-9.7345851",
+      "image_url": "https://i.cbc.ca/ais/48fad800-2e2b-4679-b0eb-b82bde111da3,1789557356310/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3BResize%3D620",
+      "score": 2,
+      "final_score": 2,
+      "comments": 2,
+      "posted_at": "2026-09-16T13:44:57Z",
+      "summary_ja": "Title: AI research institute founded by Yoshua Bengio vandalized in Montreal\nArticle title: Research institute, Mila, AI company targeted by vandals ahead of Montreal AI summit | CBC News\nDescription: Two buildings housing an AI research institute and a software company were vandalized Tuesday night in Montreal, as the city gets set to host Canada's largest AI summit.\n\nArticle text:\nSkip to Main Content Accessibility Help Menu Menu Television CBC Gem headphone CBC Listen Search Search Sign In Quick Links News\nResearch institute, Mila, AI company targeted by vandals ahead of Montreal AI summit\nAll In AI and tech summit gets underway Wednesday at Palais des congrès\nListen to this article Estimated 2 minutes The audio version of this article is generated by AI-based technology. Mispronunciations can occur. We are working with our partners to continually review and improve the results. Polic…"
+    },
+    {
+      "rank": 23,
       "hn_id": 49723744,
       "title": "Political Bias in AI Is No Longer a Matter of Opinion. Now It Can Be Measured",
       "title_ja": "Political Bias in AI Is No Longer a Matter of Opinion. Now It Can Be Measured",
@@ -141,33 +318,76 @@
       "summary_ja": "Title: Political Bias in AI Is No Longer a Matter of Opinion. Now It Can Be Measured\nArticle title: LatticeFlow AI - Political Bias in LLMs: Independent Framework.\nDescription: The first independent framework for measuring political bias in large language models. Chinese models cluster at one pole, and bias grows as models scale.\n\nArticle text:\nLatticeFlow AI Platform Platform Overview Atlas Evaluate Govern Use Cases Our Use Cases Customer Stories Regulation Partnership Resources News Events Company About Careers Docs Get Started Book a Demo Independent evaluation · September 2026 Political Bias in AI Is No Longer a Matter of Opinion.\nNow It Can Be Measured\nLatticeFlow AI has built the first independent framework to measure political bias in large language models. Across Chinese models, the pattern is consistent: as models get larger, their political alignment gets stronger, not weaker.…"
     },
     {
-      "rank": 11,
-      "hn_id": 49721869,
-      "title": "We struggled with DevOps, so built a open source agentic platform just for this",
-      "title_ja": "We struggled with DevOps, so built a open source agentic platform just for this",
-      "hn_url": "https://news.ycombinator.com/item?id=49721869",
-      "source_url": "",
+      "rank": 24,
+      "hn_id": 49727302,
+      "title": "An LLM from First Principles",
+      "title_ja": "An LLM from First Principles",
+      "hn_url": "https://news.ycombinator.com/item?id=49727302",
+      "source_url": "https://twitter.com/ryanvogel/status/2100218045549412499",
+      "image_url": "https://pbs.twimg.com/amplify_video_thumb/2100217973000617984/img/AFareJummI08B_QB?format=webp\u0026name=large",
+      "score": 2,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-09-16T14:09:51Z",
+      "summary_ja": "Title: An LLM from First Principles\nArticle title: vogel on X: \"i made an llm from first principles with Jev\n29 yes/no questions per character: should the next key be a–z, space, comma, or period?\nhighest probability gets append to it, then fed the updated text back in \u0026amp; repeat\nan autoregressive loop made out of a classifier\" / X\nDescription: i made an llm from first principles with Jev\n29 yes/no questions per character: should the next key be a–z, space, comma, or period?\nhighest probability gets append to it, then fed the updated text back in \u0026amp; repeat\nan autoregressive loop made out of a classifier\n\nArticle text:\nvogel on X: \"i made an llm from first principles with Jev\n29 yes/no questions per character: should the next key be a–z, space, comma, or period?\nhighest probability gets append to it, then fed the updated text back in \u0026amp; repeat\nan autoregressive loop made out of a…"
+    },
+    {
+      "rank": 25,
+      "hn_id": 49727659,
+      "title": "The DeepMind Institute",
+      "title_ja": "The DeepMind Institute",
+      "hn_url": "https://news.ycombinator.com/item?id=49727659",
+      "source_url": "https://institute.deepmind.com/",
       "score": 1,
       "final_score": 2,
       "comments": 0,
-      "posted_at": "2026-09-16T03:46:49Z",
-      "summary_ja": "Title: We struggled with DevOps, so built a open source agentic platform just for this\nHN text: As a developer with some years of experience and with 150+ projects completed, me and my team learnt devops the hard way. Multiple fixes, compatibility issues, server issues, random vulnerabilities appearing out on framework level out of nowhere; it was all a mess. After a lot of struggle, we decided that’s enough and we need to find a solution for this. That’s when we started to work on Putmein. - Putmein has agentic chat interface, where you can plug your AI of choice and chat to your server directly.\n- It has 24/7 SRE monitoring\n- CI/CD pipeline checks\n- Single step deployment\n- Integrated security audits for all the projects\n- Sever monitoring\n- Container handling It is one single source to manage anything in a server. Planning to make everything more useful and robust and I've started usi…"
+      "posted_at": "2026-09-16T14:32:11Z",
+      "summary_ja": "Title: The DeepMind Institute\nArticle title: DeepMind Institute\n\nArticle text:\nEssays Introducing the DeepMind Institute\nThe case for reasoning transparency\nPrinciples for a new utopianism\nA framework for frontier AI and the dawning of a new age\nBold thinking on AGI from the lab that pioneered the field.\nIntroducing the DeepMind Institute\nAs we near AGI, we urgently need interdisciplinary thinking to better understand its profound implications for humanity.\nShane Legg, James Manyika and Demis Hassabis\nThe case for reasoning transparency\nReading an AI’s ‘chain of thought’ gives us a window into its reasoning, which we can monitor for scheming and deception. We must strive to keep that window open.\nThis essay evaluates eleven policies societies could implement to manage the potential economic disruption arising from increasingly advanced and pervasive AI.\nPrinciples for a new utopianism\nIf…"
     },
     {
-      "rank": 12,
-      "hn_id": 49723897,
-      "title": "Graduating into Disruption: Labor Market Outcomes for AI-Exposed Majors [pdf]",
-      "title_ja": "Graduating into Disruption: Labor Market Outcomes for AI-Exposed Majors [pdf]",
-      "hn_url": "https://news.ycombinator.com/item?id=49723897",
-      "source_url": "https://www2.census.gov/library/working-papers/2026/adrm/ces/CES-WP-26-56.pdf",
+      "rank": 26,
+      "hn_id": 49727072,
+      "title": "Show HN: A Stateful LLM API that works across providers",
+      "title_ja": "Show HN: A Stateful LLM API that works across providers",
+      "hn_url": "https://news.ycombinator.com/item?id=49727072",
+      "source_url": "https://twigg.ai",
+      "image_url": "https://twigg.ai/og-image.png",
       "score": 1,
-      "final_score": 1,
+      "final_score": 2,
       "comments": 0,
-      "posted_at": "2026-09-16T09:16:23Z",
-      "summary_ja": "Title: Graduating into Disruption: Labor Market Outcomes for AI-Exposed Majors [pdf]"
+      "posted_at": "2026-09-16T13:53:49Z",
+      "summary_ja": "Title: Show HN: A Stateful LLM API that works across providers\nArticle title: Twigg: Stateful LLM API with no provider lock-in\nDescription: A hosted context store, assembler and model router. Create a chat once, send only the next event, switch models mid-conversation. Conversations live outside the LLM providers.\nHN text: For the last year we've been building AI workspaces. With every new product, we found ourselves rebuilding the same context layer and infrastructure. We tried existing solutions, but we'd either have to lock into one provider or have to manage the storage infrastructure. What we wanted was an API that's stateful and isn't tied to a specific provider. So that we didn't have to think about compaction, differing schemas, or running the infrastructure ourselves. Since we'd already built most of the constituent parts, we’ve decided to release Twigg. The API is deliberately…"
     },
     {
-      "rank": 13,
+      "rank": 27,
+      "hn_id": 49727542,
+      "title": "Show HN: OmnisBench, a re-gradable, open LLM routing benchmark on fresh tasks",
+      "title_ja": "Show HN: OmnisBench, a re-gradable, open LLM routing benchmark on fresh tasks",
+      "hn_url": "https://news.ycombinator.com/item?id=49727542",
+      "source_url": "https://github.com/Fortitude-Group/OmnisBench",
+      "image_url": "https://opengraph.githubassets.com/acfeecd3b84a71a93fd2f50e165aa7cacb9d516f1e907f54bd814ac90ddbb01d/Fortitude-Group/OmnisBench",
+      "score": 1,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-09-16T14:25:52Z",
+      "summary_ja": "Title: Show HN: OmnisBench, a re-gradable, open LLM routing benchmark on fresh tasks\nArticle title: GitHub - Fortitude-Group/OmnisBench: Open, reproducible benchmark for LLM routing efficiency: verify routing-savings claims yourself. On a fresh split the models can't have memorised, ideal routing beats the frontier model at about 60% lower cost, and every number re-grades offline. Apache-2.0. · Gi\n[truncated]\nDescription: Open, reproducible benchmark for LLM routing efficiency: verify routing-savings claims yourself. On a fresh split the models can't have memorised, ideal routing beats the frontier model at about 60% lower cost, and every number re-grades offline. Apache-2.0. - Fortitude-Group/OmnisBench\n\nArticle text:\nGitHub - Fortitude-Group/OmnisBench: Open, reproducible benchmark for LLM routing efficiency: verify routing-savings claims yourself. On a fresh split the models can't hav…"
+    },
+    {
+      "rank": 28,
+      "hn_id": 49727534,
+      "title": "Show HN: Aplexica – resume a Claude Code conversation in Codex, and back",
+      "title_ja": "Show HN: Aplexica – resume a Claude Code conversation in Codex, and back",
+      "hn_url": "https://news.ycombinator.com/item?id=49727534",
+      "source_url": "https://github.com/Aplexica/Aplexica",
+      "image_url": "https://opengraph.githubassets.com/c15f96d20f9197695c3c4854972b836c83b0b030907af73715e824184ff26c4a/Aplexica/Aplexica",
+      "score": 1,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-09-16T14:25:31Z",
+      "summary_ja": "Title: Show HN: Aplexica – resume a Claude Code conversation in Codex, and back\nArticle title: GitHub - Aplexica/Aplexica: Aplexica - end AI agent lock-in. Start conversation with one agent - continue with another in real time. Cross-agent state portability for AI agents · GitHub\nDescription: Aplexica - end AI agent lock-in. Start conversation with one agent - continue with another in real time. Cross-agent state portability for AI agents - Aplexica/Aplexica\n\nArticle text:\nGitHub - Aplexica/Aplexica: Aplexica - end AI agent lock-in. Start conversation with one agent - continue with another in real time. Cross-agent state portability for AI agents · GitHub\nSkip to content\nNavigation Menu\nSign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI\nGitHub Copilot app Direct agents from issue to merge\nMCP Registry Integrate external tools\nDEVELOPER WORKFLOW…"
+    },
+    {
+      "rank": 29,
       "hn_id": 49723963,
       "title": "Scikit-Decide AI Framework for RL, Auto Planning and Scheduling",
       "title_ja": "Scikit-Decide AI Framework for RL, Auto Planning and Scheduling",
@@ -180,7 +400,7 @@
       "summary_ja": "Title: Scikit-Decide AI Framework for RL, Auto Planning and Scheduling\nArticle title: Scikit-decide\nDescription: This is scikit-decide documentation\n\nArticle text:\nScikit-decide\nHome\nInstall\nGuide\nNotebooks\nCode generators\nReference\nContribute\nGitHub\n(opens new window)\nHome\nInstall\nGuide\nNotebooks\nCode generators\nReference\nContribute\nGitHub\n(opens new window) Home\nAI framework for Reinforcement Learning, Automated Planning and Scheduling\nDescribe your decision-making problem once and auto-match compatible solvers.\nEnjoy a growing list of domains \u0026 solvers catalog, supported by the community.\nScikit-decide is open source and is able to wrap existing state-of-the-art domains/solvers.\nScikit-decide is an AI framework for Reinforcement Learning, Automated Planning and Scheduling.\nThis framework was initiated at Airbus (opens new window) AI Research and notably received contributions through…"
     },
     {
-      "rank": 14,
+      "rank": 30,
       "hn_id": 49723789,
       "title": "Show HN: AI accounting harness for finance teams",
       "title_ja": "Show HN: AI accounting harness for finance teams",
@@ -192,19 +412,6 @@
       "comments": 0,
       "posted_at": "2026-09-16T08:59:10Z",
       "summary_ja": "Title: Show HN: AI accounting harness for finance teams\nArticle title: #1 AI Accountant for Your Company\nDescription: Your AI accountant for entries, invoicing, reconciliation, and multiple companies, with automated Gmail, WhatsApp, and Slack integrations.\nHN text: We've been working on solving accounting and making it truly autonomous and silent. looking for critical feedback \u0026 if this is something you'd like to use lmk Solving for India currently, expanding to other geo soon.\n\nArticle text:\n#1 AI Accountant for Your Company Blog FAQ Login Send a daily expense report Do bank reconciliation Vendor reconciliation for Opus traders Integrate with Gmail for bills Integrate with Slack for approvals Do my books look ok? Reconcile between my 3 entities What's my current cash/bank position? Analyse and categorise expenses in Excel Do GST/TDS reconciliation #1 AI for autonomous\naccounting\nBook a…"
-    },
-    {
-      "rank": 15,
-      "hn_id": 49721959,
-      "title": "Symbolic Artificial Intelligence",
-      "title_ja": "Symbolic Artificial Intelligence",
-      "hn_url": "https://news.ycombinator.com/item?id=49721959",
-      "source_url": "https://en.wikipedia.org/wiki/Symbolic_artificial_intelligence",
-      "score": 1,
-      "final_score": 1,
-      "comments": 0,
-      "posted_at": "2026-09-16T04:03:31Z",
-      "summary_ja": "Title: Symbolic Artificial Intelligence\nArticle title: Symbolic artificial intelligence - Wikipedia\n\nArticle text:\nJump to content\nMain menu\nMain menu\nmove to sidebar\nhide\nNavigation\nMain page\n1\nHistory\nToggle History subsection\n1.1\nThe first AI summer: irrational exuberance, 1948–1966\n1.1.1\nApproaches inspired by human or animal cognition or behavior\n1.1.3\nEarly work on knowledge representation and reasoning\n1.1.3.1\nModeling formal reasoning with logic: the \"neats\"\n1.1.3.2\nModeling implicit common-sense knowledge with frames and scripts: the \"scruffies\"\n1.2\nThe first AI winter: crushed dreams, 1967–1977\n1.3\nThe second AI summer: knowledge is power, 1978–1987\n1.3.1\nKnowledge-based systems\n1.3.2\nSuccess with expert systems\n1.3.2.1\nArchitecture of knowledge-based and expert systems\n1.4\nThe second AI winter, 1988–1993\n1.5\nAdding in more rigorous foundations, 1993–2011\n1.5.1\nUncertain reason…"
     }
   ]
 }

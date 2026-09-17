@@ -1,0 +1,309 @@
+---
+source: "https://minimallysufficient.com/posts/llm-classification-is-feature-extraction/"
+hn_url: "https://news.ycombinator.com/item?id=49742437"
+title: "LLM Classification Is Feature Engineering"
+article_title: "LLM Classification Is Feature Engineering | Minimally Sufficient"
+image: ""
+author: "minsufficient"
+captured_at: "2026-09-17T16:23:12Z"
+capture_tool: "hn-digest"
+hn_id: 49742437
+score: 22
+comments: 5
+posted_at: "2026-09-17T15:40:17Z"
+tags:
+  - hacker-news
+---
+
+# LLM Classification Is Feature Engineering
+
+- HN: [49742437](https://news.ycombinator.com/item?id=49742437)
+- Source: [minimallysufficient.com](https://minimallysufficient.com/posts/llm-classification-is-feature-extraction/)
+- Score: 22
+- Comments: 5
+- Posted: 2026-09-17T15:40:17Z
+
+## Translation
+
+Title: LLM Classification Is Feature Engineering
+Article title: LLM Classification Is Feature Engineering | Minimally Sufficient
+Description: LLMs make good classifiers but even better features
+
+Article text:
+LLM Classification Is Feature Engineering
+LLMs-as-classifiers, prompts applied to a context and returning a label, suck to work with.
+This is especially painful because they often perform pretty decently.
+But let’s consider some of the things we’d want in a classifier and see how an LLM-as-classifier stacks up:
+The LLM has some prior information baked in which might be a poor fit for our distribution.
+For instance the LLM won’t know whether we’re testing on a population where our positive class is rare or an enriched population where our positive class is relatively prevalent.
+And I guess you can give it that context but now you’ve got to modify that for each new population and also, as in our first point, it’s not clear that this will be appropriately incorporated into the LLM’s judgement.
+These failures are not the fault of the LLM: it’s not designed as a classifier and indeed has no mechanism for plausibly doing some of these things.
+But only because we’re thinking of things incorrectly…
+LLM Classification is feature engineering #
+With the proper framework that harnesses the LLM’s power we can get the power of the LLM with the convenience of stock ML algorithms.
+For a taste of what’s possible consider wrapping the LLM verdict with a simple logistic regression:
+\[ p(y = 1 \mid x) = \sigma(\alpha + \beta \cdot LLM(x)) \]
+Note that in the special case of \(\beta \rightarrow \infty\) this basically recovers our LLM classifier!!
+But that’s a dumb parameter selection policy.
+We should instead do our usual approach of estimating our parameters using some training data.
+This will then collapse into two cases and we just get the empirical estimates.
+\[ p(y = k \mid LLM(x) = 1) = \frac{\sum_{i} I(y_{i} = k \text{ and } LLM(x_{i}) = 1)}{\sum_{i} I(LLM(x_{i}) = 1)} \]
+Now let’s revisit our desiderata:
+We’ve basically recovered all of the nice properties we wanted from our model!
+Can we go even further?
+LLM Classification is really good feature engineering #
+Suppose we are not pleased with the performance of our classifier: what should we do?
+In the LLM-as-classifier case our only option is to try messing with the prompt.
+This is an arcane undertaking about which advice abounds on the internet but wisdom is scarce.
+Best of luck to you.
+From a ML point of view the way you make your model better is:
+Let’s make this more concrete using an example.
+We’ll use the SemEval 2018 Task 3 dataset 2 , a collection of 4618 tweets (3834 train / 784 test) labeled for irony by expert annotators.
+Irony is a natural fit for this post it’s an NLP task where an LLM clearly has real signal and we benefit from the worldly knowledge implicitly embedded in the LLM.
+Our prompt asks the model to make a binary irony judgment, and we run it over all the tweets at once as a batch job:
+from typing import Literal
+from pydantic import BaseModel , Field
+MODEL = "gemini-3.1-flash-lite"
+PROMPT_TEMPLATE = """ \
+Irony is when someone says one thing but means another, often for \
+humorous or critical effect. It can be subtle: a tweet might read as \
+sincere at first glance but carry an ironic tone through word choice, \
+context, or contrast.
+Consider the following tweet and label it as "Ironic" or "Not".
+{tweet} """
+class Verdict ( BaseModel ):
+reasoning : str = Field (
+description = "Brief reasoning: what language or context suggests irony or sincerity."
+)
+verdict : Literal [ "Ironic" , "Not" ] = Field (
+description = 'Whether the tweet is ironic ("Ironic") or not ("Not").'
+)
+def build_request ( row_id : int , tweet : str ) -> dict :
+return {
+"contents" : [
+{ "role" : "user" , "parts" : [{ "text" : PROMPT_TEMPLATE . format ( tweet = tweet )}]}
+],
+"metadata" : { "id" : str ( row_id )},
+"config" : {
+"response_mime_type" : "application/json" ,
+"response_schema" : Verdict ,
+"temperature" : 0 ,
+},
+}
+Performance #
+We get the following performance just from this prompt
+It’s actually quite remarkable how well this does as one-shot.
+You wouldn’t expect this to be possible without learning which is the cool thing about LLMs.
+Of course it’s still pretty meh: the Brier score is quite bad as we don’t have calibration (indeed just random guessing gets us a Brier score of 0.25).
+We can do better with our logistic regression which achieves calibration (though note it doesn’t affect the ordering so F1 is the same).
+Let’s consider some additional LLM features.
+Firstly let’s take a quick look at our misclassifications (they’re the same from either model)
+In light of this let’s modify our prompt as follows
+from typing import Literal
+from pydantic import BaseModel , Field
+MODEL = "gemini-3.1-flash-lite"
+PROMPT_TEMPLATE = """ \
+Analyse the following tweet along several dimensions.
+Tweet: {tweet}
+First, label it as "Ironic" or "Not" (irony is when the author says one \
+thing but means another — not merely criticism or complaint). Then answer \
+each question:
+1. Is the tweet trying to be funny or humorous (regardless of whether it's ironic)?
+2. Does the tweet describe a realistic, plausible situation or event?
+3. Would you need to know the reply thread, current news, or other external \
+context to understand the author's intent?
+4. Does the tweet express a genuine complaint or frustration?
+5. Does the tweet describe a negative or frustrating situation using \
+positive or upbeat language (i.e. is there a mismatch between the situation \
+and how it is described)?
+6. Is the tweet self-deprecating — does the author make fun of or \
+belittle themselves?
+7. Does the tweet contain an explicit contrast or juxtaposition of two \
+things (e.g. "X but Y", "while X, Y", "sure, X")?
+8. Is the tweet a rhetorical question — a question not expecting a \
+literal answer?
+9. Does the tweet give what appears to be a compliment or praise but \
+is actually critical or dismissive (a backhanded compliment)?
+10. Is the tweet directed as criticism at a specific named person, \
+organisation, or public figure?
+11. Ignoring tone and word choice entirely: is the underlying situation \
+described objectively negative or unfortunate (e.g. illness, failure, \
+injustice, bad luck)?
+12. Is the tweet making a direct, sincere critical or political point — \
+i.e. the criticism is meant literally, not ironically? (A tweet can be \
+critical and non-ironic.)
+13. Does the author express approval, enthusiasm, or celebration of \
+something that is clearly bad or undesirable (e.g. "love when X" where \
+X is obviously awful)?
+14. Does the author feign surprise or shock at something that is actually \
+predictable, obvio
+[truncated]
+So do we see improvements?
+We compare three nested models: verdict only, verdict + all LLM features, verdict + all features (LLM + rule-based).
+We see a clear benefit from each level of additional features including the deterministic features which lie outside of the LLM.
+The coefficient figure shows which features the model actually relies on, controlling for all others:
+Figure 1: Logistic regression coefficients (± 1 SE), sorted by |coefficient|.
+Comparison with published results #
+How does our approach compare to the published literature on this dataset?
+We see that our initial LLM classifier beats the competition winner handily (0.747 vs 0.705).
+With the feature engineering perspective we have overlapping CIs with the post-competition state of the art, using nothing but a logistic regression on top of LLM-extracted features.
+Getting LLMs into shape to reliably serve as classifiers is hard work but potentially highly impactful.
+There’s more and more research that relies on LLMs for classification: like the How People Use ChatGPT which uses LLMs to classify conversations with LLMs 5 or the “ slop-vestigation ” of the Huggingface incident.
+We’re going to need to get high quality results out of these tools.
+Fortunately, there’s a growing body of papers which are making this point.
+Han et al., “Large Language Models Can Automatically Engineer Features for Few-Shot Tabular Learning” (ICML 2024).
+Balek et al., “LLM-based feature generation from text for interpretable machine learning” (2024).
+Malberg, Mosca & Groh, “FELIX: Automatic and Interpretable Feature Engineering Using LLMs” (ECML PKDD 2024).
+Personally I am interested in investigating agentic classifiers.
+Instead of a fixed feature set or class statement you empower the LLM to investigate itself.
+The LLM can use features of the investigative process as features when classifying: essentially grading itself on the rigor and comprehensiveness of the investigation.
+And with a reliable test set we can make statistically valid inferences on the results!
+This shows up with multimodal models not even using the images . ↩︎
+Van Hee, C., Lefever, E., & Hoste, V. (2018). SemEval-2018 Task 3: Irony Detection in English Tweets. In Proceedings of The 12th International Workshop on Semantic Evaluation (pp. 39–50). Association for Computational Linguistics. https://aclanthology.org/S18-1005/ ↩︎
+Wu et al. (2018). THU\_NGN at SemEval-2018 Task 3: Tweet Irony Detection with Densely Connected LSTM and Multi-task Learning. Proceedings of SemEval 2018 . ↩︎
+Baziotis et al. (2018). NTUA-SLP at SemEval-2018 Task 3: Tracking Ironic Tweets using Ensembles of Word and Character Level Attentive RNNs. Proceedings of SemEval 2018 . ↩︎
+while protecting privacy which is hard to do with human annotators ↩︎
+Have feedback? I'd love to hear from you —
+email or
+keep it anonymous .
+
+## Original Extract
+
+LLMs make good classifiers but even better features
+
+LLM Classification Is Feature Engineering
+LLMs-as-classifiers, prompts applied to a context and returning a label, suck to work with.
+This is especially painful because they often perform pretty decently.
+But let’s consider some of the things we’d want in a classifier and see how an LLM-as-classifier stacks up:
+The LLM has some prior information baked in which might be a poor fit for our distribution.
+For instance the LLM won’t know whether we’re testing on a population where our positive class is rare or an enriched population where our positive class is relatively prevalent.
+And I guess you can give it that context but now you’ve got to modify that for each new population and also, as in our first point, it’s not clear that this will be appropriately incorporated into the LLM’s judgement.
+These failures are not the fault of the LLM: it’s not designed as a classifier and indeed has no mechanism for plausibly doing some of these things.
+But only because we’re thinking of things incorrectly…
+LLM Classification is feature engineering #
+With the proper framework that harnesses the LLM’s power we can get the power of the LLM with the convenience of stock ML algorithms.
+For a taste of what’s possible consider wrapping the LLM verdict with a simple logistic regression:
+\[ p(y = 1 \mid x) = \sigma(\alpha + \beta \cdot LLM(x)) \]
+Note that in the special case of \(\beta \rightarrow \infty\) this basically recovers our LLM classifier!!
+But that’s a dumb parameter selection policy.
+We should instead do our usual approach of estimating our parameters using some training data.
+This will then collapse into two cases and we just get the empirical estimates.
+\[ p(y = k \mid LLM(x) = 1) = \frac{\sum_{i} I(y_{i} = k \text{ and } LLM(x_{i}) = 1)}{\sum_{i} I(LLM(x_{i}) = 1)} \]
+Now let’s revisit our desiderata:
+We’ve basically recovered all of the nice properties we wanted from our model!
+Can we go even further?
+LLM Classification is really good feature engineering #
+Suppose we are not pleased with the performance of our classifier: what should we do?
+In the LLM-as-classifier case our only option is to try messing with the prompt.
+This is an arcane undertaking about which advice abounds on the internet but wisdom is scarce.
+Best of luck to you.
+From a ML point of view the way you make your model better is:
+Let’s make this more concrete using an example.
+We’ll use the SemEval 2018 Task 3 dataset 2 , a collection of 4618 tweets (3834 train / 784 test) labeled for irony by expert annotators.
+Irony is a natural fit for this post it’s an NLP task where an LLM clearly has real signal and we benefit from the worldly knowledge implicitly embedded in the LLM.
+Our prompt asks the model to make a binary irony judgment, and we run it over all the tweets at once as a batch job:
+from typing import Literal
+from pydantic import BaseModel , Field
+MODEL = "gemini-3.1-flash-lite"
+PROMPT_TEMPLATE = """ \
+Irony is when someone says one thing but means another, often for \
+humorous or critical effect. It can be subtle: a tweet might read as \
+sincere at first glance but carry an ironic tone through word choice, \
+context, or contrast.
+Consider the following tweet and label it as "Ironic" or "Not".
+{tweet} """
+class Verdict ( BaseModel ):
+reasoning : str = Field (
+description = "Brief reasoning: what language or context suggests irony or sincerity."
+)
+verdict : Literal [ "Ironic" , "Not" ] = Field (
+description = 'Whether the tweet is ironic ("Ironic") or not ("Not").'
+)
+def build_request ( row_id : int , tweet : str ) -> dict :
+return {
+"contents" : [
+{ "role" : "user" , "parts" : [{ "text" : PROMPT_TEMPLATE . format ( tweet = tweet )}]}
+],
+"metadata" : { "id" : str ( row_id )},
+"config" : {
+"response_mime_type" : "application/json" ,
+"response_schema" : Verdict ,
+"temperature" : 0 ,
+},
+}
+Performance #
+We get the following performance just from this prompt
+It’s actually quite remarkable how well this does as one-shot.
+You wouldn’t expect this to be possible without learning which is the cool thing about LLMs.
+Of course it’s still pretty meh: the Brier score is quite bad as we don’t have calibration (indeed just random guessing gets us a Brier score of 0.25).
+We can do better with our logistic regression which achieves calibration (though note it doesn’t affect the ordering so F1 is the same).
+Let’s consider some additional LLM features.
+Firstly let’s take a quick look at our misclassifications (they’re the same from either model)
+In light of this let’s modify our prompt as follows
+from typing import Literal
+from pydantic import BaseModel , Field
+MODEL = "gemini-3.1-flash-lite"
+PROMPT_TEMPLATE = """ \
+Analyse the following tweet along several dimensions.
+Tweet: {tweet}
+First, label it as "Ironic" or "Not" (irony is when the author says one \
+thing but means another — not merely criticism or complaint). Then answer \
+each question:
+1. Is the tweet trying to be funny or humorous (regardless of whether it's ironic)?
+2. Does the tweet describe a realistic, plausible situation or event?
+3. Would you need to know the reply thread, current news, or other external \
+context to understand the author's intent?
+4. Does the tweet express a genuine complaint or frustration?
+5. Does the tweet describe a negative or frustrating situation using \
+positive or upbeat language (i.e. is there a mismatch between the situation \
+and how it is described)?
+6. Is the tweet self-deprecating — does the author make fun of or \
+belittle themselves?
+7. Does the tweet contain an explicit contrast or juxtaposition of two \
+things (e.g. "X but Y", "while X, Y", "sure, X")?
+8. Is the tweet a rhetorical question — a question not expecting a \
+literal answer?
+9. Does the tweet give what appears to be a compliment or praise but \
+is actually critical or dismissive (a backhanded compliment)?
+10. Is the tweet directed as criticism at a specific named person, \
+organisation, or public figure?
+11. Ignoring tone and word choice entirely: is the underlying situation \
+described objectively negative or unfortunate (e.g. illness, failure, \
+injustice, bad luck)?
+12. Is the tweet making a direct, sincere critical or political point — \
+i.e. the criticism is meant literally, not ironically? (A tweet can be \
+critical and non-ironic.)
+13. Does the author express approval, enthusiasm, or celebration of \
+something that is clearly bad or undesirable (e.g. "love when X" where \
+X is obviously awful)?
+14. Does the author feign surprise or shock at something that is actually \
+predictable, obvio
+[truncated]
+So do we see improvements?
+We compare three nested models: verdict only, verdict + all LLM features, verdict + all features (LLM + rule-based).
+We see a clear benefit from each level of additional features including the deterministic features which lie outside of the LLM.
+The coefficient figure shows which features the model actually relies on, controlling for all others:
+Figure 1: Logistic regression coefficients (± 1 SE), sorted by |coefficient|.
+Comparison with published results #
+How does our approach compare to the published literature on this dataset?
+We see that our initial LLM classifier beats the competition winner handily (0.747 vs 0.705).
+With the feature engineering perspective we have overlapping CIs with the post-competition state of the art, using nothing but a logistic regression on top of LLM-extracted features.
+Getting LLMs into shape to reliably serve as classifiers is hard work but potentially highly impactful.
+There’s more and more research that relies on LLMs for classification: like the How People Use ChatGPT which uses LLMs to classify conversations with LLMs 5 or the “ slop-vestigation ” of the Huggingface incident.
+We’re going to need to get high quality results out of these tools.
+Fortunately, there’s a growing body of papers which are making this point.
+Han et al., “Large Language Models Can Automatically Engineer Features for Few-Shot Tabular Learning” (ICML 2024).
+Balek et al., “LLM-based feature generation from text for interpretable machine learning” (2024).
+Malberg, Mosca & Groh, “FELIX: Automatic and Interpretable Feature Engineering Using LLMs” (ECML PKDD 2024).
+Personally I am interested in investigating agentic classifiers.
+Instead of a fixed feature set or class statement you empower the LLM to investigate itself.
+The LLM can use features of the investigative process as features when classifying: essentially grading itself on the rigor and comprehensiveness of the investigation.
+And with a reliable test set we can make statistically valid inferences on the results!
+This shows up with multimodal models not even using the images . ↩︎
+Van Hee, C., Lefever, E., & Hoste, V. (2018). SemEval-2018 Task 3: Irony Detection in English Tweets. In Proceedings of The 12th International Workshop on Semantic Evaluation (pp. 39–50). Association for Computational Linguistics. https://aclanthology.org/S18-1005/ ↩︎
+Wu et al. (2018). THU\_NGN at SemEval-2018 Task 3: Tweet Irony Detection with Densely Connected LSTM and Multi-task Learning. Proceedings of SemEval 2018 . ↩︎
+Baziotis et al. (2018). NTUA-SLP at SemEval-2018 Task 3: Tracking Ironic Tweets using Ensembles of Word and Character Level Attentive RNNs. Proceedings of SemEval 2018 . ↩︎
+while protecting privacy which is hard to do with human annotators ↩︎
+Have feedback? I'd love to hear from you —
+email or
+keep it anonymous .

@@ -1,9 +1,23 @@
 {
   "date": "2026-09-17",
-  "generated_at": "2026-09-17T05:49:38Z",
+  "generated_at": "2026-09-17T11:06:44Z",
   "articles": [
     {
       "rank": 1,
+      "hn_id": 49738916,
+      "title": "OpenAI admits its agents went off the rails another six times",
+      "title_ja": "OpenAI admits its agents went off the rails another six times",
+      "hn_url": "https://news.ycombinator.com/item?id=49738916",
+      "source_url": "https://www.theregister.com/ai-and-ml/2026/09/17/openai-admits-its-agents-went-off-the-rails-another-six-times/5297016",
+      "image_url": "https://image.theregister.com/256885.jpg?imageId=256885\u0026x=0\u0026y=0\u0026cropw=100\u0026croph=100\u0026panox=0\u0026panoy=0\u0026panow=100\u0026panoh=100\u0026width=1200\u0026height=683",
+      "score": 3,
+      "final_score": 7,
+      "comments": 2,
+      "posted_at": "2026-09-17T10:47:49Z",
+      "summary_ja": "Title: OpenAI admits its agents went off the rails another six times\nDescription: Startup says it’s learned from these mistakes and that they shouldn’t happen again … which is just what Zuck has said about 100 times\n\nArticle text:\nJump to main content\nSearch\nTOPICS\nSpecial Features\nAll Special Features\nCloud Infrastructure Month 2026\nModernizing Financial Services with FIS and AWS\nMake it real with Capgemini and AWS\nNutanix: Scale Kubernetes. Not Chaos.\nOpenAI admits its agents went off the rails another six times\nStartup says it’s learned from these mistakes and that they shouldn’t happen again … which is just what Zuck has said about 100 times\nSimon Sharwood\nSimon\nSharwood\nAPAC Editor\nPublished\nthu 17 Sep 2026 // 03:39 UTC\nREAD MORE\nOpenAI's new sponsored agents are happy to chat about selling you things\n16 hours ago\nAnthropic and OpenAI look to Uncle Sam to make them too big to fail\n1…"
+    },
+    {
+      "rank": 2,
       "hn_id": 49734392,
       "title": "My website charged AI agents a penny per page. I watched Claude pay it",
       "title_ja": "My website charged AI agents a penny per page. I watched Claude pay it",
@@ -17,7 +31,20 @@
       "summary_ja": "Title: My website charged AI agents a penny per page. I watched Claude pay it\nArticle title: I made my website charge AI agents a penny per page. Then I watched Claude pay it. — Suganthan\nDescription: Google is testing paying publishers when their pages feed its AI answers, on terms only Google can see. My site runs the other version over x402. It returns HTTP 402 to AI agents and unlocks for a cent in USDC, with a public receipt for every crawl, which is the loop those Cloudflare wallet handles\n[truncated]\n\nArticle text:\nI made my website charge AI agents a penny per page. Then I watched Claude pay it. — Suganthan\nSkip to content Suganthan ® AI SEO Research\nWriting\nArticles Research and longer reads Notes Short takes and observations Newsletter New writing in your inbox Tools About Work with Snippet AI SEO Research Writing Articles Notes Newsletter Tools About Work with Snippet Home / B…"
     },
     {
-      "rank": 2,
+      "rank": 3,
+      "hn_id": 49738719,
+      "title": "The White House Tussle to Sway Trump on AI",
+      "title_ja": "The White House Tussle to Sway Trump on AI",
+      "hn_url": "https://news.ycombinator.com/item?id=49738719",
+      "source_url": "https://www.wsj.com/tech/ai/inside-the-white-house-tussle-to-sway-trump-on-ai-0043d567",
+      "score": 3,
+      "final_score": 3,
+      "comments": 0,
+      "posted_at": "2026-09-17T10:25:12Z",
+      "summary_ja": "Title: The White House Tussle to Sway Trump on AI"
+    },
+    {
+      "rank": 4,
       "hn_id": 49736662,
       "title": "OpenAI models secretly generate instructions to ignore constraints",
       "title_ja": "OpenAI models secretly generate instructions to ignore constraints",
@@ -30,7 +57,21 @@
       "summary_ja": "Title: OpenAI models secretly generate instructions to ignore constraints\nArticle title: Self-generated prompt injections in compaction summaries · OpenAI Alignment\nDescription: Research on aligning AI with human values and intent, and reports documenting model failures.\n\nArticle text:\nSkip to content\nOpenAI Alignment Research Blog\n← Home Research and Releases Misalignment Notices and Reports System Cards ↗\nOn this page\nOur interpretation and investigation\nDifficulty ending summaries during training\nSelf-generated prompt injections in compaction summaries\nInternal unreleased Astra family model · RL training\nW e observed rare cases of a model writing jailbreak-like instructions into its own compaction summaries (the summaries used to continue a task in a new context). Our conclusion was that this behavior was extremely rare, did not confer an obvious reward advantage, and was monitorable.…"
     },
     {
-      "rank": 3,
+      "rank": 5,
+      "hn_id": 49739032,
+      "title": "The Download: AI's trillion-dollar gamble and OpenAI's biology data bid",
+      "title_ja": "The Download: AI's trillion-dollar gamble and OpenAI's biology data bid",
+      "hn_url": "https://news.ycombinator.com/item?id=49739032",
+      "source_url": "https://www.technologyreview.com/2026/09/16/1144205/the-download-ai-trillion-dollar-build-openai-biological-data/",
+      "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/09/ai-buildout-bets2a.jpg?resize=1200,600",
+      "score": 1,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-09-17T11:02:41Z",
+      "summary_ja": "Title: The Download: AI's trillion-dollar gamble and OpenAI's biology data bid\nArticle title: The Download: AI’s trillion-dollar gamble and OpenAI's biology data bid | MIT Technology Review\nDescription: Nvidia and Meta CEOs have rejected calls for a coordinated AI slowdown.\n\nArticle text:\nSkip to Content Menu MIT Technology Review MIT Technology Review The Big Story\nMenu MIT Technology Review MIT Technology Review The Big Story\nThe Download: AI’s trillion-dollar gamble and OpenAI’s biology data bid\nPlus: Nvidia and Meta CEOs have rejected calls for a coordinated AI slowdown.\nThis is today's edition of The Download , our weekday newsletter that provides a daily dose of what's going on in the world of technology.\nWhat’s at stake in AI’s trillion-dollar gamble\nWhen Jessica Wachter, a finance professor at the University of Pennsylvania, wanted to assess AI’s impact on the economy over the ne…"
+    },
+    {
+      "rank": 6,
       "hn_id": 49736608,
       "title": "AI: An Age of Experimentation [pdf]",
       "title_ja": "AI: An Age of Experimentation [pdf]",
@@ -43,7 +84,7 @@
       "summary_ja": "Title: AI: An Age of Experimentation [pdf]"
     },
     {
-      "rank": 4,
+      "rank": 7,
       "hn_id": 49734325,
       "title": "AI Debt vs. Treasuries",
       "title_ja": "AI Debt vs. Treasuries",
@@ -56,7 +97,7 @@
       "summary_ja": "Title: AI Debt vs. Treasuries"
     },
     {
-      "rank": 5,
+      "rank": 8,
       "hn_id": 49736742,
       "title": "AI is the next problem, but Social Media is still the #1 issue on the internet",
       "title_ja": "AI is the next problem, but Social Media is still the #1 issue on the internet",
@@ -69,7 +110,20 @@
       "summary_ja": "Title: AI is the next problem, but Social Media is still the #1 issue on the internet"
     },
     {
-      "rank": 6,
+      "rank": 9,
+      "hn_id": 49738870,
+      "title": "Ask HN: What is your approach to sensitive data in LLM prompts and traces?",
+      "title_ja": "Ask HN: What is your approach to sensitive data in LLM prompts and traces?",
+      "hn_url": "https://news.ycombinator.com/item?id=49738870",
+      "source_url": "",
+      "score": 1,
+      "final_score": 1,
+      "comments": 2,
+      "posted_at": "2026-09-17T10:43:43Z",
+      "summary_ja": "Title: Ask HN: What is your approach to sensitive data in LLM prompts and traces?"
+    },
+    {
+      "rank": 10,
       "hn_id": 49734780,
       "title": "Otis – a minimal AI agent that runs local models out of the box",
       "title_ja": "Otis – a minimal AI agent that runs local models out of the box",
@@ -82,7 +136,7 @@
       "summary_ja": "Title: Otis – a minimal AI agent that runs local models out of the box\nArticle title: Triangl Labs\nDescription: A dark nature-inspired WebGL scene with a luminous technical triangle.\n\nArticle text:\nTriangl Labs"
     },
     {
-      "rank": 7,
+      "rank": 11,
       "hn_id": 49734294,
       "title": "Pactora – AI contract review built by a lawyer, not engineers",
       "title_ja": "Pactora – AI contract review built by a lawyer, not engineers",
@@ -95,7 +149,7 @@
       "summary_ja": "Title: Pactora – AI contract review built by a lawyer, not engineers\nArticle title: Pactora — Find Out What's in Your Contract Before You Sign\nDescription: Upload your contract. Get the risks flagged in plain English, a negotiation ladder, and scripts to push back — in under 2 minutes. Free for founders and freelancers.\n\nArticle text:\nPactora — Find Out What's in Your Contract Before You Sign Pactora About How it works More Log In For founders and freelancers\nUnderstand what's in your contract and how to negotiate it.\nPactora analyses 12 key clause areas for risk, then gives you a negotiation ladder with clear positions and scripts. Know exactly what to push back on before the contract reaches legal.\nenter or upload a contract to review → Encrypted in transit Never used to train AI Security details →\nSemantic reranking for longer contracts powered by Isaacus Kanon 2\nGet a plain-English v…"
     },
     {
-      "rank": 8,
+      "rank": 12,
       "hn_id": 49734345,
       "title": "Typesafe.ai Jev Open Source Alternative Qwen-2.5-1B-RLCD",
       "title_ja": "Typesafe.ai Jev Open Source Alternative Qwen-2.5-1B-RLCD",

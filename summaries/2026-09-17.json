@@ -1,6 +1,6 @@
 {
   "date": "2026-09-17",
-  "generated_at": "2026-09-17T00:10:33Z",
+  "generated_at": "2026-09-17T05:49:38Z",
   "articles": [
     {
       "rank": 1,
@@ -18,6 +18,32 @@
     },
     {
       "rank": 2,
+      "hn_id": 49736662,
+      "title": "OpenAI models secretly generate instructions to ignore constraints",
+      "title_ja": "OpenAI models secretly generate instructions to ignore constraints",
+      "hn_url": "https://news.ycombinator.com/item?id=49736662",
+      "source_url": "https://alignment.openai.com/misalignment-reports/self-generated-prompt-injections-in-compaction-summaries/",
+      "score": 2,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-09-17T05:13:41Z",
+      "summary_ja": "Title: OpenAI models secretly generate instructions to ignore constraints\nArticle title: Self-generated prompt injections in compaction summaries · OpenAI Alignment\nDescription: Research on aligning AI with human values and intent, and reports documenting model failures.\n\nArticle text:\nSkip to content\nOpenAI Alignment Research Blog\n← Home Research and Releases Misalignment Notices and Reports System Cards ↗\nOn this page\nOur interpretation and investigation\nDifficulty ending summaries during training\nSelf-generated prompt injections in compaction summaries\nInternal unreleased Astra family model · RL training\nW e observed rare cases of a model writing jailbreak-like instructions into its own compaction summaries (the summaries used to continue a task in a new context). Our conclusion was that this behavior was extremely rare, did not confer an obvious reward advantage, and was monitorable.…"
+    },
+    {
+      "rank": 3,
+      "hn_id": 49736608,
+      "title": "AI: An Age of Experimentation [pdf]",
+      "title_ja": "AI: An Age of Experimentation [pdf]",
+      "hn_url": "https://news.ycombinator.com/item?id=49736608",
+      "source_url": "https://thomasdullien.github.io/about/slides/An-age-of-experimentation-BlueHat-Asia-2026.pdf",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-09-17T05:03:13Z",
+      "summary_ja": "Title: AI: An Age of Experimentation [pdf]"
+    },
+    {
+      "rank": 4,
       "hn_id": 49734325,
       "title": "AI Debt vs. Treasuries",
       "title_ja": "AI Debt vs. Treasuries",
@@ -30,7 +56,20 @@
       "summary_ja": "Title: AI Debt vs. Treasuries"
     },
     {
-      "rank": 3,
+      "rank": 5,
+      "hn_id": 49736742,
+      "title": "AI is the next problem, but Social Media is still the #1 issue on the internet",
+      "title_ja": "AI is the next problem, but Social Media is still the #1 issue on the internet",
+      "hn_url": "https://news.ycombinator.com/item?id=49736742",
+      "source_url": "https://medium.com/whatsnextwray/the-problem-with-social-media-c97c9af7eba4",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-09-17T05:26:49Z",
+      "summary_ja": "Title: AI is the next problem, but Social Media is still the #1 issue on the internet"
+    },
+    {
+      "rank": 6,
       "hn_id": 49734780,
       "title": "Otis – a minimal AI agent that runs local models out of the box",
       "title_ja": "Otis – a minimal AI agent that runs local models out of the box",
@@ -43,7 +82,7 @@
       "summary_ja": "Title: Otis – a minimal AI agent that runs local models out of the box\nArticle title: Triangl Labs\nDescription: A dark nature-inspired WebGL scene with a luminous technical triangle.\n\nArticle text:\nTriangl Labs"
     },
     {
-      "rank": 4,
+      "rank": 7,
       "hn_id": 49734294,
       "title": "Pactora – AI contract review built by a lawyer, not engineers",
       "title_ja": "Pactora – AI contract review built by a lawyer, not engineers",
@@ -56,7 +95,7 @@
       "summary_ja": "Title: Pactora – AI contract review built by a lawyer, not engineers\nArticle title: Pactora — Find Out What's in Your Contract Before You Sign\nDescription: Upload your contract. Get the risks flagged in plain English, a negotiation ladder, and scripts to push back — in under 2 minutes. Free for founders and freelancers.\n\nArticle text:\nPactora — Find Out What's in Your Contract Before You Sign Pactora About How it works More Log In For founders and freelancers\nUnderstand what's in your contract and how to negotiate it.\nPactora analyses 12 key clause areas for risk, then gives you a negotiation ladder with clear positions and scripts. Know exactly what to push back on before the contract reaches legal.\nenter or upload a contract to review → Encrypted in transit Never used to train AI Security details →\nSemantic reranking for longer contracts powered by Isaacus Kanon 2\nGet a plain-English v…"
     },
     {
-      "rank": 5,
+      "rank": 8,
       "hn_id": 49734345,
       "title": "Typesafe.ai Jev Open Source Alternative Qwen-2.5-1B-RLCD",
       "title_ja": "Typesafe.ai Jev Open Source Alternative Qwen-2.5-1B-RLCD",

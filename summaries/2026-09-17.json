@@ -1,0 +1,73 @@
+{
+  "date": "2026-09-17",
+  "generated_at": "2026-09-17T00:10:33Z",
+  "articles": [
+    {
+      "rank": 1,
+      "hn_id": 49734392,
+      "title": "My website charged AI agents a penny per page. I watched Claude pay it",
+      "title_ja": "My website charged AI agents a penny per page. I watched Claude pay it",
+      "hn_url": "https://news.ycombinator.com/item?id=49734392",
+      "source_url": "https://suganthan.com/blog/x402-pay-per-crawl/",
+      "image_url": "https://suganthan.com/_astro/heroImage.cMhCdLQ6.jpg",
+      "score": 3,
+      "final_score": 3,
+      "comments": 1,
+      "posted_at": "2026-09-16T23:22:56Z",
+      "summary_ja": "Title: My website charged AI agents a penny per page. I watched Claude pay it\nArticle title: I made my website charge AI agents a penny per page. Then I watched Claude pay it. — Suganthan\nDescription: Google is testing paying publishers when their pages feed its AI answers, on terms only Google can see. My site runs the other version over x402. It returns HTTP 402 to AI agents and unlocks for a cent in USDC, with a public receipt for every crawl, which is the loop those Cloudflare wallet handles\n[truncated]\n\nArticle text:\nI made my website charge AI agents a penny per page. Then I watched Claude pay it. — Suganthan\nSkip to content Suganthan ® AI SEO Research\nWriting\nArticles Research and longer reads Notes Short takes and observations Newsletter New writing in your inbox Tools About Work with Snippet AI SEO Research Writing Articles Notes Newsletter Tools About Work with Snippet Home / B…"
+    },
+    {
+      "rank": 2,
+      "hn_id": 49734325,
+      "title": "AI Debt vs. Treasuries",
+      "title_ja": "AI Debt vs. Treasuries",
+      "hn_url": "https://news.ycombinator.com/item?id=49734325",
+      "source_url": "https://www.ft.com/content/033b21e7-b5d5-4511-ae01-53edaa4e051e",
+      "score": 1,
+      "final_score": 1,
+      "comments": 1,
+      "posted_at": "2026-09-16T23:15:08Z",
+      "summary_ja": "Title: AI Debt vs. Treasuries"
+    },
+    {
+      "rank": 3,
+      "hn_id": 49734780,
+      "title": "Otis – a minimal AI agent that runs local models out of the box",
+      "title_ja": "Otis – a minimal AI agent that runs local models out of the box",
+      "hn_url": "https://news.ycombinator.com/item?id=49734780",
+      "source_url": "https://triangllabs.ai/otis",
+      "score": 1,
+      "final_score": 1,
+      "comments": 1,
+      "posted_at": "2026-09-17T00:07:57Z",
+      "summary_ja": "Title: Otis – a minimal AI agent that runs local models out of the box\nArticle title: Triangl Labs\nDescription: A dark nature-inspired WebGL scene with a luminous technical triangle.\n\nArticle text:\nTriangl Labs"
+    },
+    {
+      "rank": 4,
+      "hn_id": 49734294,
+      "title": "Pactora – AI contract review built by a lawyer, not engineers",
+      "title_ja": "Pactora – AI contract review built by a lawyer, not engineers",
+      "hn_url": "https://news.ycombinator.com/item?id=49734294",
+      "source_url": "https://www.pactora.uk/",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-09-16T23:10:46Z",
+      "summary_ja": "Title: Pactora – AI contract review built by a lawyer, not engineers\nArticle title: Pactora — Find Out What's in Your Contract Before You Sign\nDescription: Upload your contract. Get the risks flagged in plain English, a negotiation ladder, and scripts to push back — in under 2 minutes. Free for founders and freelancers.\n\nArticle text:\nPactora — Find Out What's in Your Contract Before You Sign Pactora About How it works More Log In For founders and freelancers\nUnderstand what's in your contract and how to negotiate it.\nPactora analyses 12 key clause areas for risk, then gives you a negotiation ladder with clear positions and scripts. Know exactly what to push back on before the contract reaches legal.\nenter or upload a contract to review → Encrypted in transit Never used to train AI Security details →\nSemantic reranking for longer contracts powered by Isaacus Kanon 2\nGet a plain-English v…"
+    },
+    {
+      "rank": 5,
+      "hn_id": 49734345,
+      "title": "Typesafe.ai Jev Open Source Alternative Qwen-2.5-1B-RLCD",
+      "title_ja": "Typesafe.ai Jev Open Source Alternative Qwen-2.5-1B-RLCD",
+      "hn_url": "https://news.ycombinator.com/item?id=49734345",
+      "source_url": "https://huggingface.co/spaces/drinkmoonshine/parallel-constrained-decoding",
+      "image_url": "https://cdn-thumbnails.huggingface.co/social-thumbnails/spaces/drinkmoonshine/parallel-constrained-decoding.png",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-09-16T23:17:02Z",
+      "summary_ja": "Title: Typesafe.ai Jev Open Source Alternative Qwen-2.5-1B-RLCD\nArticle title: Parallel Constrained Decision Engine - a Hugging Face Space by drinkmoonshine\nDescription: Enter a text document and a JSON schema that describes the information you want to extract. The app runs a fast parallel constrained decoding method and a standard generation method, showing the ge...\n\nArticle text:\nParallel Constrained Decision Engine - a Hugging Face Space by drinkmoonshine\nSpaces drinkmoonshine / parallel-constrained-decoding Like 4 Agents Running on Zero Get PRO"
+    }
+  ]
+}

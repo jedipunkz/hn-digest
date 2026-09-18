@@ -1,6 +1,6 @@
 {
   "date": "2026-09-18",
-  "generated_at": "2026-09-18T03:30:31Z",
+  "generated_at": "2026-09-18T08:50:03Z",
   "articles": [
     {
       "rank": 1,
@@ -32,6 +32,20 @@
     },
     {
       "rank": 3,
+      "hn_id": 49751356,
+      "title": "The Cost of AI Is Now My Main Blocker",
+      "title_ja": "The Cost of AI Is Now My Main Blocker",
+      "hn_url": "https://news.ycombinator.com/item?id=49751356",
+      "source_url": "https://www.vincentschmalbach.com/cost-of-ai-is-now-my-main-blocker/",
+      "image_url": "https://www.vincentschmalbach.com/wp-content/uploads/2021/05/Vincent-Schmalbach-draft01.jpg",
+      "score": 2,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-09-18T07:53:40Z",
+      "summary_ja": "Title: The Cost of AI Is Now My Main Blocker\nArticle title: The Cost of AI Is Now My Main Blocker - Vincent Schmalbach\nDescription: My main blocker right now is the cost of AI. I use AI for everything I do and I am very productive with it. I am also deliberately working slower than I could…\n\nArticle text:\nThe Cost of AI Is Now My Main Blocker - Vincent Schmalbach\nSkip to content\nSoftware Developer\nHome\nServices\nCustom Laravel App Development\nLaravel Performance Optimization\nTechnical Team Leadership \u0026 Mentoring\nLaravel Development Consulting\nThe Cost of AI Is Now My Main Blocker\nSeptember 18, 2026\nby Vincent Schmalbach\nMy main blocker right now is the cost of AI. I use AI for everything I do and I am very productive with it. I am also deliberately working slower than I could, because I cannot afford as much of it as I would need.\nI'm writing this while working on vroni.com , my AI coding…"
+    },
+    {
+      "rank": 4,
       "hn_id": 49749680,
       "title": "A DeepSeek engineer just said the thing I've been feeling about AI for months",
       "title_ja": "A DeepSeek engineer just said the thing I've been feeling about AI for months",
@@ -44,7 +58,20 @@
       "summary_ja": "Title: A DeepSeek engineer just said the thing I've been feeling about AI for months"
     },
     {
-      "rank": 4,
+      "rank": 5,
+      "hn_id": 49751700,
+      "title": "AI software should be treated like any other software [video]",
+      "title_ja": "AI software should be treated like any other software [video]",
+      "hn_url": "https://news.ycombinator.com/item?id=49751700",
+      "source_url": "https://www.youtube.com/watch?v=9tr7Mby62bo",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-09-18T08:46:41Z",
+      "summary_ja": "Title: AI software should be treated like any other software [video]\nArticle title: - YouTube\nDescription: Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.\n\nArticle text:\n- YouTube About Press Copyright Contact us Creators Advertise Developers Terms Privacy Policy \u0026 Safety How YouTube works Test new features NFL Sunday Ticket © 2026 Google LLC"
+    },
+    {
+      "rank": 6,
       "hn_id": 49749829,
       "title": "Google announces new experimental \"CC\" AI agent for families",
       "title_ja": "Google announces new experimental \"CC\" AI agent for families",
@@ -58,7 +85,35 @@
       "summary_ja": "Title: Google announces new experimental \"CC\" AI agent for families\nArticle title: Google announces new experimental \"CC\" AI agent for families - Ars Technica\nDescription: Multiple family members can share data to help the agent make plans and complete tasks.\n\nArticle text:\nSkip to content\nArs Technica home\nSections\nForum\nSubscribe\nSearch\nAI\nStory text\nSize\nSmall\nStandard\nLarge\nWidth\n*\nStandard\nWide\nLinks\nStandard\nOrange\n* Subscribers only\nLearn more\nPin to story\nTheme\nHyperLight\nSearch\nSign In\nSign in dialog...\nSign in\nCC the AI\nGoogle announces new experimental “CC” AI agent for families\nMultiple family members can share data to help the agent make plans and complete tasks.\n46\nCredit:\nGoogle\nCredit:\nGoogle\nText\nsettings\nStory text\nSize\nSmall\nStandard\nLarge\nWidth\n*\nStandard\nWide\nLinks\nStandard\nOrange\n* Subscribers only\nLearn more\nMinimize to nav\nGoogle’s AI models may not be in the lead…"
     },
     {
-      "rank": 5,
+      "rank": 7,
+      "hn_id": 49751659,
+      "title": "The LLM Comments Are Not for You",
+      "title_ja": "The LLM Comments Are Not for You",
+      "hn_url": "https://news.ycombinator.com/item?id=49751659",
+      "source_url": "https://danilafe.com/blog/comments_not_for_you/",
+      "image_url": "https://danilafe.com/banner.png",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-09-18T08:38:27Z",
+      "summary_ja": "Title: The LLM Comments Are Not for You\nArticle title: The LLM Comments Are Not For You\nDescription: I’ve heard a lot of talk about LLMs recently, and among the most common topics of discussion have been the comments. LLM comments generally seem to suck: they are verbose, regardless of surrounding context, they seem to encode conversation decisions (like “do it this way, not that way”[note: In my h\n[truncated]\n\nArticle text:\nThe LLM Comments Are Not For You\nDaniel's Blog\nThe LLM Comments Are Not For You\nI’ve heard a lot of talk about LLMs recently, and among the most common topics\nof discussion have been the comments. LLM comments generally seem to suck: they are verbose,\nregardless of surrounding context, they seem to encode conversation decisions\n(like\n“do it this way, not that way” [note:\nIn my head, I've been calling this \"comment hysteresis\", because the comments\nare not a function…"
+    },
+    {
+      "rank": 8,
+      "hn_id": 49751430,
+      "title": "What to Read to Stay Grounded Amidst AI Doomerism",
+      "title_ja": "What to Read to Stay Grounded Amidst AI Doomerism",
+      "hn_url": "https://news.ycombinator.com/item?id=49751430",
+      "source_url": "https://buttondown.com/maiht3k/archive/what-to-read-to-stay-grounded-amidst-ai-doomerism/",
+      "image_url": "https://assets.buttondown.email/images/7beb7ad3-e14c-4de4-9e53-88bb3f924337.jpeg?w=960\u0026fit=max",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-09-18T08:03:14Z",
+      "summary_ja": "Title: What to Read to Stay Grounded Amidst AI Doomerism\nArticle title: What To Read To Stay Grounded Amidst AI Doomerism • Buttondown\nDescription: Our recommendations for the anxious and perplexed By: Emily M. Bender, Alex Hanna and Decca Muldowney There’s a subculture within the “AI” industry that...\n\nArticle text:\nWhat To Read To Stay Grounded Amidst AI Doomerism • Buttondown\nMystery AI Hype Theater 3000: The Newsletter\nArchives\nSearch...\nSubscribe\nSeptember 17, 2026\nWhat To Read To Stay Grounded Amidst AI Doomerism\nOur recommendations for the anxious and perplexed\nBy: Emily M. Bender, Alex Hanna and Decca Muldowney\nThere’s a subculture within the “AI” industry that fervently believes they are building a machine god, possibly a malevolent one, and it’s been stirred up recently, either because of yet another “whistleblower” or weird Bannon-to-Bernie coalitions, both talking about an AI…"
+    },
+    {
+      "rank": 9,
       "hn_id": 49749872,
       "title": "Youper is shutting down – What kills mental health AI?",
       "title_ja": "Youper is shutting down – What kills mental health AI?",

@@ -1,0 +1,74 @@
+{
+  "date": "2026-09-18",
+  "generated_at": "2026-09-18T03:30:31Z",
+  "articles": [
+    {
+      "rank": 1,
+      "hn_id": 49749656,
+      "title": "Hacking OpenAI",
+      "title_ja": "Hacking OpenAI",
+      "hn_url": "https://news.ycombinator.com/item?id=49749656",
+      "source_url": "https://www.hacktron.ai/blog/hacking-openai",
+      "image_url": "https://www.hacktron.ai/_astro/CwjuS_y3.png",
+      "score": 6,
+      "final_score": 7,
+      "comments": 1,
+      "posted_at": "2026-09-18T02:47:24Z",
+      "summary_ja": "Title: Hacking OpenAI\nArticle title: Hacking OpenAI | Hacktron AI\nDescription: A heap overflow and SSO misconfiguration to compromise OpenAI internal repositories\n\nArticle text:\nHacking OpenAI | Hacktron AI Docs D o c s Product P r o d u c t PR Review Catch vulnerabilities in PRs before shipping Automations Automate your security workflows Whitebox Whitebox pentests in hours, not weeks Services S e r v i c e s Pricing P r i c i n g Customers C u s t o m e r s Company C o m p a n y Leadership Meet the elite hackers behind Hacktron Careers See open positions Resources R e s o u r c e s Open Source Free PR security reviews for OSS projects Blog Security research and insights from our team Advisories Coordinated disclosures of vulnerabilities FAQ Common questions about Hacktron, answered Security Changelog Security-only vulnerability fix timelines Scan Dependency File Check your lock file fo…"
+    },
+    {
+      "rank": 2,
+      "hn_id": 49749784,
+      "title": "Running OpenBAO on Kubernetes with a CloudNativePG PostgreSQL Back End",
+      "title_ja": "Running OpenBAO on Kubernetes with a CloudNativePG PostgreSQL Back End",
+      "hn_url": "https://news.ycombinator.com/item?id=49749784",
+      "source_url": "https://www.cncf.io/blog/2026/09/16/running-openbao-on-kubernetes-with-a-cloudnativepg-postgresql-backend/",
+      "image_url": "https://www.cncf.io/wp-content/uploads/2026/09/Running-OpenBao-on-K8s-1.jpg",
+      "score": 1,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-09-18T03:07:44Z",
+      "summary_ja": "Title: Running OpenBAO on Kubernetes with a CloudNativePG PostgreSQL Back End\nArticle title: Running OpenBao on Kubernetes with a CloudNativePG PostgreSQL backend | CNCF\nDescription: Managing infrastructure secrets on Kubernetes needs a backend that is self-healing and free of vendor lock-in, and that is exactly what OpenBao (the Linux…\n\nArticle text:\nSkip to content\nAccessibility\nhelp\nKubeCon + CloudNativeCon NA 2026 · Nov 9 - 12 · Salt Lake City · REGISTER NOW\nMembership Hub – For Current Members Learn about all the benefits of being a CNCF Member\nTechnical Oversight Committee The TOC defines CNCF’s technical vision and provides experienced technical leadership to the cloud native community\nGoverning Board The GB is responsible for marketing, business oversight, and budget decisions for CNCF\nEnd User Technical Advisory Board The End User TAB serves as the voice of the end users in CNCF…"
+    },
+    {
+      "rank": 3,
+      "hn_id": 49749680,
+      "title": "A DeepSeek engineer just said the thing I've been feeling about AI for months",
+      "title_ja": "A DeepSeek engineer just said the thing I've been feeling about AI for months",
+      "hn_url": "https://news.ycombinator.com/item?id=49749680",
+      "source_url": "https://www.reddit.com/r/artificial/comments/1wi2zm9/a_deepseek_engineer_just_said_the_thing_ive_been/",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-09-18T02:50:34Z",
+      "summary_ja": "Title: A DeepSeek engineer just said the thing I've been feeling about AI for months"
+    },
+    {
+      "rank": 4,
+      "hn_id": 49749829,
+      "title": "Google announces new experimental \"CC\" AI agent for families",
+      "title_ja": "Google announces new experimental \"CC\" AI agent for families",
+      "hn_url": "https://news.ycombinator.com/item?id=49749829",
+      "source_url": "https://arstechnica.com/google/2026/09/google-announces-new-experimental-cc-ai-agent-for-families/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Google-CC-1152x648.png",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-09-18T03:14:57Z",
+      "summary_ja": "Title: Google announces new experimental \"CC\" AI agent for families\nArticle title: Google announces new experimental \"CC\" AI agent for families - Ars Technica\nDescription: Multiple family members can share data to help the agent make plans and complete tasks.\n\nArticle text:\nSkip to content\nArs Technica home\nSections\nForum\nSubscribe\nSearch\nAI\nStory text\nSize\nSmall\nStandard\nLarge\nWidth\n*\nStandard\nWide\nLinks\nStandard\nOrange\n* Subscribers only\nLearn more\nPin to story\nTheme\nHyperLight\nSearch\nSign In\nSign in dialog...\nSign in\nCC the AI\nGoogle announces new experimental “CC” AI agent for families\nMultiple family members can share data to help the agent make plans and complete tasks.\n46\nCredit:\nGoogle\nCredit:\nGoogle\nText\nsettings\nStory text\nSize\nSmall\nStandard\nLarge\nWidth\n*\nStandard\nWide\nLinks\nStandard\nOrange\n* Subscribers only\nLearn more\nMinimize to nav\nGoogle’s AI models may not be in the lead…"
+    },
+    {
+      "rank": 5,
+      "hn_id": 49749872,
+      "title": "Youper is shutting down – What kills mental health AI?",
+      "title_ja": "Youper is shutting down – What kills mental health AI?",
+      "hn_url": "https://news.ycombinator.com/item?id=49749872",
+      "source_url": "https://www.youper.ai/notice",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-09-18T03:23:24Z",
+      "summary_ja": "Title: Youper is shutting down – What kills mental health AI?\nArticle title: Notice\nDescription: Youper is a wellbeing AI chatbot. Not a therapist or medical device. For adults 18+ only. Not a substitute for professional mental health care.\n\nArticle text:\nNotice\nYouper is shutting down September 30, 2026 — export your data\nYouper, Inc. is closing and winding down its business. All services will end on September 30, 2026. Please download your data before that date. Beginning October 1, 2026, all remaining user data will be securely and permanently deleted.\nYour data belongs to you. Export is available through September 30, 2026.\n1. Open the Youper app and go to Settings.\n2. Select \"Request my data\".\n‍\nIf you no longer have access to the app, use this link: start.youper.ai/export-data\nIf you have not used Youper in over a year, there’s no data to be exported. Under our Terms of Use, accoun…"
+    }
+  ]
+}

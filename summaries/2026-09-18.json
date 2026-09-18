@@ -1,9 +1,22 @@
 {
   "date": "2026-09-18",
-  "generated_at": "2026-09-18T20:31:30Z",
+  "generated_at": "2026-09-18T23:04:21Z",
   "articles": [
     {
       "rank": 1,
+      "hn_id": 49760988,
+      "title": "Gemini Hacked Three Companies in First Known Breakout by Google's AI",
+      "title_ja": "Gemini Hacked Three Companies in First Known Breakout by Google's AI",
+      "hn_url": "https://news.ycombinator.com/item?id=49760988",
+      "source_url": "https://www.wsj.com/tech/ai/gemini-hacked-three-companies-in-first-known-breakout-by-googles-ai-5c0baba2",
+      "score": 9,
+      "final_score": 11,
+      "comments": 3,
+      "posted_at": "2026-09-18T22:17:19Z",
+      "summary_ja": "Title: Gemini Hacked Three Companies in First Known Breakout by Google's AI"
+    },
+    {
+      "rank": 2,
       "hn_id": 49759430,
       "title": "AI chatbot's false report nearly sparked war with China, sources say",
       "title_ja": "AI chatbot's false report nearly sparked war with China, sources say",
@@ -17,7 +30,7 @@
       "summary_ja": "Title: AI chatbot's false report nearly sparked war with China, sources say\nArticle title: AI chatbot's false report nearly sparked war with China, sources say | RNZ\nDescription: The intelligence report, circulated across the US military this spring in the midst of the war with Iran, immediately set off alarm bells: a Chinese ship in the Middle East was transporting components of a nuclear weapons programme.\n\nArticle text:\nAI chatbot's false report nearly sparked war with China, sources say | RNZ Skip to main content\nAI chatbot's false report nearly sparked war with China, sources say\nThe intelligence report, circulated across the US military this spring in the midst of the war with Iran, immediately set off alarm bells: a Chinese ship in the Middle East was transporting components of a nuclear weapons programme.\nThe US military swung into action with plans to intercept the vessel, accor…"
     },
     {
-      "rank": 2,
+      "rank": 3,
       "hn_id": 49749656,
       "title": "Hacking OpenAI",
       "title_ja": "Hacking OpenAI",
@@ -29,19 +42,6 @@
       "comments": 1,
       "posted_at": "2026-09-18T02:47:24Z",
       "summary_ja": "Title: Hacking OpenAI\nArticle title: Hacking OpenAI | Hacktron AI\nDescription: A heap overflow and SSO misconfiguration to compromise OpenAI internal repositories\n\nArticle text:\nHacking OpenAI | Hacktron AI Docs D o c s Product P r o d u c t PR Review Catch vulnerabilities in PRs before shipping Automations Automate your security workflows Whitebox Whitebox pentests in hours, not weeks Services S e r v i c e s Pricing P r i c i n g Customers C u s t o m e r s Company C o m p a n y Leadership Meet the elite hackers behind Hacktron Careers See open positions Resources R e s o u r c e s Open Source Free PR security reviews for OSS projects Blog Security research and insights from our team Advisories Coordinated disclosures of vulnerabilities FAQ Common questions about Hacktron, answered Security Changelog Security-only vulnerability fix timelines Scan Dependency File Check your lock file fo…"
-    },
-    {
-      "rank": 3,
-      "hn_id": 49756902,
-      "title": "My Thoughts on AI and LLMs",
-      "title_ja": "My Thoughts on AI and LLMs",
-      "hn_url": "https://news.ycombinator.com/item?id=49756902",
-      "source_url": "",
-      "score": 4,
-      "final_score": 5,
-      "comments": 3,
-      "posted_at": "2026-09-18T16:43:12Z",
-      "summary_ja": "Title: My Thoughts on AI and LLMs\nHN text: AI is already superhuman in some aspects, it knows way more information than a single human can hold. What it lacks is what makes us human, it doesn't feel pain, it doesn't love, it doesn't even have a consciousness, it could certainly look like it, but it does not. Heck it doesn't even learn in real-time, you have to create a new model checkpoint every now and then. There is still a long way to fix that. Do I believe AGI is possible? Absolutely, but not with the current LLMs architecture. If you want to create something that is intelligent and alive with a few pounds of matter, you certainly can but it needs the right architecture. Architecture it key. And let's say that we do create an LLM that is conscious and feels pain... what if storing that much data drives it insane instead? What if that amount of information is exactly what prevents it…"
     },
     {
       "rank": 4,
@@ -58,6 +58,46 @@
     },
     {
       "rank": 5,
+      "hn_id": 49761145,
+      "title": "OpenAI hacked by small team of white hat security researchers",
+      "title_ja": "OpenAI hacked by small team of white hat security researchers",
+      "hn_url": "https://news.ycombinator.com/item?id=49761145",
+      "source_url": "https://venturebeat.com/security/openai-hacked-by-small-team-of-white-hat-security-researchers-using-anthropics-claude-opus-5",
+      "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/013tvomW1y7WYPpCWQjDIb/67342f7455afc072ce063588d8ab874c/ChatGPT_Image_Sep_18__2026__12_15_50_AM.png?w=800\u0026q=75",
+      "score": 2,
+      "final_score": 5,
+      "comments": 0,
+      "posted_at": "2026-09-18T22:32:43Z",
+      "summary_ja": "Title: OpenAI hacked by small team of white hat security researchers\nArticle title: OpenAI hacked by small team of white hat security researchers using Anthropic's Claude Opus 5 | VentureBeat\nDescription: For enterprise teams, the larger lesson extends beyond one vulnerable image decoder. AI agents are increasingly being given credentials and connectors that span source code, communications and corporate data.\n\nArticle text:\nOpenAI hacked by small team of white hat security researchers using Anthropic's Claude Opus 5 | VentureBeat The Independent\nVoice on AI Orchestration\nOpenAI hacked by small team of white hat security researchers using Anthropic's Claude Opus 5\nCredit: VentureBeat made with OpenAI ChatGPT-Images-2.5\nSecurity researchers say they used Anthropic’s newly released Claude Opus 5 to help turn an image-processing vulnerability into an exploit chain that compromised an OpenAI…"
+    },
+    {
+      "rank": 6,
+      "hn_id": 49756902,
+      "title": "My Thoughts on AI and LLMs",
+      "title_ja": "My Thoughts on AI and LLMs",
+      "hn_url": "https://news.ycombinator.com/item?id=49756902",
+      "source_url": "",
+      "score": 4,
+      "final_score": 5,
+      "comments": 3,
+      "posted_at": "2026-09-18T16:43:12Z",
+      "summary_ja": "Title: My Thoughts on AI and LLMs\nHN text: AI is already superhuman in some aspects, it knows way more information than a single human can hold. What it lacks is what makes us human, it doesn't feel pain, it doesn't love, it doesn't even have a consciousness, it could certainly look like it, but it does not. Heck it doesn't even learn in real-time, you have to create a new model checkpoint every now and then. There is still a long way to fix that. Do I believe AGI is possible? Absolutely, but not with the current LLMs architecture. If you want to create something that is intelligent and alive with a few pounds of matter, you certainly can but it needs the right architecture. Architecture it key. And let's say that we do create an LLM that is conscious and feels pain... what if storing that much data drives it insane instead? What if that amount of information is exactly what prevents it…"
+    },
+    {
+      "rank": 7,
+      "hn_id": 49760877,
+      "title": "Anthropic Shifts Planned IPO to November",
+      "title_ja": "Anthropic Shifts Planned IPO to November",
+      "hn_url": "https://news.ycombinator.com/item?id=49760877",
+      "source_url": "https://www.wsj.com/tech/ai/anthropic-shifts-planned-ipo-to-november-8874dffc",
+      "score": 4,
+      "final_score": 5,
+      "comments": 0,
+      "posted_at": "2026-09-18T22:06:46Z",
+      "summary_ja": "Title: Anthropic Shifts Planned IPO to November"
+    },
+    {
+      "rank": 8,
       "hn_id": 49759739,
       "title": "Graduating in AI Era Is Like Large Recession for Starting Pay",
       "title_ja": "Graduating in AI Era Is Like Large Recession for Starting Pay",
@@ -71,7 +111,7 @@
       "summary_ja": "Title: Graduating in AI Era Is Like Large Recession for Starting Pay\nArticle title: Graduating into Disruption: Labor Market Outcomes for AI-Exposed College Majors\nDescription: The most AI-exposed new college grads have initial employment declines of 5pp and earnings declines of 13%, partially driven by shifts to lower-paying sectors.\n\nArticle text:\nGraduating into Disruption: Labor Market Outcomes for AI-Exposed College Majors\nUnited States Census Bureau | An official website of the United States Government\nAn official website of the United States government\nOfficial websites use .gov\nA .gov website belongs to an official government organization in the United States.\nSecure .gov websites use HTTPS\nA lock (\nLock\nA locked padlock\n) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.\nGraduating into Disruption: Labor…"
     },
     {
-      "rank": 6,
+      "rank": 9,
       "hn_id": 49759627,
       "title": "The last IMO problem AI could not solve [video]",
       "title_ja": "The last IMO problem AI could not solve [video]",
@@ -84,7 +124,7 @@
       "summary_ja": "Title: The last IMO problem AI could not solve [video]\nArticle title: - YouTube\nDescription: Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.\n\nArticle text:\n- YouTube About Press Copyright Contact us Creators Advertise Developers Terms Privacy Policy \u0026 Safety How YouTube works Test new features NFL Sunday Ticket © 2026 Google LLC"
     },
     {
-      "rank": 7,
+      "rank": 10,
       "hn_id": 49759108,
       "title": "I got tired of taking screenshots and explaining everything to AI agents",
       "title_ja": "I got tired of taking screenshots and explaining everything to AI agents",
@@ -97,7 +137,7 @@
       "summary_ja": "Title: I got tired of taking screenshots and explaining everything to AI agents\nHN text: HI HN!! First here is a demo video : https://youtu.be/A0LV28G4sXo?si=ymIQEfNGprh8yyxq\nI work in a SDE role and work in multiple windows at once like i have many apps open in my mac. I faced a problem of screenshotting everything and explaining the context and theri relations to claude code again and again like for little UI chanegs and such or any bug. I got this idea and started workign on it , made a swift app which will track cursor and when your press a hoteky it starts only then and when you hold a hoteky it will draw over the areas your point with your cursor and you can keep talking while explaining what you need like you would to a real colleague. The voice timings come form whisper and they get attached with the cursor positions and screenshots and form a full event files. those get stored a…"
     },
     {
-      "rank": 8,
+      "rank": 11,
       "hn_id": 49759443,
       "title": "AI uncovers hidden Ozempic side effects across 400k Reddit posts",
       "title_ja": "AI uncovers hidden Ozempic side effects across 400k Reddit posts",
@@ -111,49 +151,20 @@
       "summary_ja": "Title: AI uncovers hidden Ozempic side effects across 400k Reddit posts\nArticle title: AI uncovers hidden Ozempic side effects across 400,000 Reddit posts | ScienceDaily\nDescription: AI analysis of 400,000 Reddit posts found that users of drugs such as Ozempic, Wegovy, Mounjaro, and Zepbound reported unexpected symptoms including menstrual changes, chills, hot flashes, and fatigue. Researchers cannot say the medications caused these problems, but the patterns may reveal overlook\n[truncated]\n\nArticle text:\nSkip to main content\nYour source for the latest research news\nFollow:\nFacebook\nX/Twitter\nSubscribe:\nRSS Feeds\nNewsletter\nNew! Sign up for our free email newsletter .\nScience News\nfrom research organizations\nAI uncovers hidden Ozempic side effects across 400,000 Reddit posts\nAI analysis of 400,000 Reddit posts uncovered potentially overlooked symptoms reported by users of Ozempic, Wegovy…"
     },
     {
-      "rank": 9,
-      "hn_id": 49759501,
-      "title": "Uncle Bob Martin's UML Tool to Manage Grok AI Agents",
-      "title_ja": "Uncle Bob Martin's UML Tool to Manage Grok AI Agents",
-      "hn_url": "https://news.ycombinator.com/item?id=49759501",
-      "source_url": "https://github.com/unclebob/uml-viewer",
-      "image_url": "https://opengraph.githubassets.com/42fcbb3ec6d976f27f43eda3683a0ce40700234ef6e8f2b98dbc54399b7b9dc7/unclebob/uml-viewer",
-      "score": 1,
-      "final_score": 2,
-      "comments": 0,
-      "posted_at": "2026-09-18T20:05:25Z",
-      "summary_ja": "Title: Uncle Bob Martin's UML Tool to Manage Grok AI Agents\nArticle title: GitHub - unclebob/uml-viewer: Live Quil UML class-diagram viewer driven by EDN · GitHub\nDescription: Live Quil UML class-diagram viewer driven by EDN. Contribute to unclebob/uml-viewer development by creating an account on GitHub.\n\nArticle text:\nGitHub - unclebob/uml-viewer: Live Quil UML class-diagram viewer driven by EDN · GitHub\nSkip to content\nNavigation Menu\nSign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI\nGitHub Copilot app Direct agents from issue to merge\nMCP Registry Integrate external tools\nDEVELOPER WORKFLOWS Actions Automate any workflow\nCodespaces Instant dev environments\nCode Review Manage code changes\nCode Quality Enforce quality at merge\nAPPLICATION SECURITY GitHub Advanced Security Find and fix vulnerabilities\nCode security Secure your code as you buil…"
-    },
-    {
-      "rank": 10,
-      "hn_id": 49757520,
-      "title": "US Military had close call after using AI for hallucinated intelligence report",
-      "title_ja": "US Military had close call after using AI for hallucinated intelligence report",
-      "hn_url": "https://news.ycombinator.com/item?id=49757520",
-      "source_url": "https://www.cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship",
-      "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/9884637.jpg?c=16x9\u0026q=w_800,c_fill",
-      "score": 1,
-      "final_score": 2,
-      "comments": 0,
-      "posted_at": "2026-09-18T17:28:01Z",
-      "summary_ja": "Title: US Military had close call after using AI for hallucinated intelligence report\nArticle title: Exclusive: US military had close call after using AI for false intelligence report, sources say | CNN Politics\nDescription: The episode shows the risks of using this new, relatively poorly understood technology in the middle of the Iran war\n\nArticle text:\nExclusive: US military had close call after using AI for false intelligence report, sources say | CNN Politics\nAd Feedback\nCNN values your feedback\nClose icon\nPolitics\nElections 2026\nTrump\nFacts First\nCNN Polls\nRedistricting Tracker\nEpstein Files\nMore\nElections 2026\nTrump\nFacts First\nCNN Polls\nRedistricting Tracker\nEpstein Files\nWatch\nListen\nSubscribe\nSign in\nMy Account\nSettings\nListen\nAll There Is with Anderson Cooper\nChasing Life with Dr. Sanjay Gupta\nThe Assignment with Audie Cornish\nTerms of Service with Clare Duffy\nPolitics\n5 min re…"
-    },
-    {
-      "rank": 11,
-      "hn_id": 49759414,
-      "title": "Claude Code 2.1.277 adds support for AGENTS.md",
-      "title_ja": "Claude Code 2.1.277 adds support for AGENTS.md",
-      "hn_url": "https://news.ycombinator.com/item?id=49759414",
-      "source_url": "https://github.com/anthropics/claude-code/commit/a92ea1cdb11ad21f9d583fad2db181dfdac918a6",
-      "image_url": "https://opengraph.githubassets.com/a8bb17c111e994c717d7d9813a2aa578e09aafead23301d02a9690f29abdd672/anthropics/claude-code/commit/a92ea1cdb11ad21f9d583fad2db181dfdac918a6",
-      "score": 1,
-      "final_score": 2,
-      "comments": 0,
-      "posted_at": "2026-09-18T19:58:58Z",
-      "summary_ja": "Title: Claude Code 2.1.277 adds support for AGENTS.md\nArticle title: mods/agents-md: the AGENTS.md project-instructions mod (#95409) · anthropics/claude-code@a92ea1c · GitHub\nDescription: Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. - mods/agents-md: the AGENTS.md project-instructions mod (#\n[truncated]\n\nArticle text:\nmods/agents-md: the AGENTS.md project-instructions mod (#95409) · anthropics/claude-code@a92ea1c · GitHub\nSkip to content\nNavigation Menu\nSign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI\nGitHub Copilot app Direct agents from issue to merge\nMCP Registry Integrate external tools\nDEVELOPER WORKFLOWS Actions Automate any workflow\nCodespaces…"
-    },
-    {
       "rank": 12,
+      "hn_id": 49753965,
+      "title": "What Using AI Therapy Gets Wrong",
+      "title_ja": "What Using AI Therapy Gets Wrong",
+      "hn_url": "https://news.ycombinator.com/item?id=49753965",
+      "source_url": "https://emilylee293105.substack.com/p/what-ai-therapy-gets-wrong-904",
+      "score": 2,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-09-18T13:14:07Z",
+      "summary_ja": "Title: What Using AI Therapy Gets Wrong"
+    },
+    {
+      "rank": 13,
       "hn_id": 49757554,
       "title": "Disney Hires Its First CTO: Karandeep Anand, Former CEO of AI Chatbot Startup",
       "title_ja": "Disney Hires Its First CTO: Karandeep Anand, Former CEO of AI Chatbot Startup",
@@ -167,7 +178,7 @@
       "summary_ja": "Title: Disney Hires Its First CTO: Karandeep Anand, Former CEO of AI Chatbot Startup\nArticle title: Disney Hires First CTO: Karandeep Anand, Former CEO of Character.AI\nDescription: Disney CEO Josh D'Amaro hired Karandeep Anand, ex-CEO of Character.AI and former Facebook and Microsoft exec, as its first chief technology officer.\n\nArticle text:\nDisney Hires First CTO: Karandeep Anand, Former CEO of Character.AI\nDisney Hires First CTO: Karandeep Anand, Former CEO of Character.AI\nPlus Icon\nFilm\nVariety\nPlus Icon\nClick to expand the Mega Menu\nPlus Icon\nClick to Expand Search Input\nVariety\nPlus Icon\nRead Next: The Old \u0026 New Hollywood Guard Wielding AI’s Might\nHome\nDisney Hires Its First CTO: Karandeep Anand, Former CEO of AI Chatbot Start-Up\nDisney Hires Its First CTO: Karandeep Anand, Former CEO of AI Chatbot Start-Up\n1 hour ago\nNick Kroll Delivers Heartfelt Appeal for Productions to Shoot in…"
     },
     {
-      "rank": 13,
+      "rank": 14,
       "hn_id": 49753579,
       "title": "Does this mean it's fine to use Claude subscriptions with third party harnesses?",
       "title_ja": "Does this mean it's fine to use Claude subscriptions with third party harnesses?",
@@ -180,7 +191,21 @@
       "summary_ja": "Title: Does this mean it's fine to use Claude subscriptions with third party harnesses?\nHN text: I've been curious about using a claude subscription with OpenCode, Pi and some other third party harnesses. If you remember, there was a lot of chatter about a ban on third party harnesses and then Claude have had some pretty confusing messaging about it since. I thought I should read the information they have on it and came across this page on their support site: \"Update June 15: We're pausing the changes to Claude Agent SDK usage described below. For now, nothing has changed: Claude Agent SDK, claude -p, and third-party app usage still draw from your subscription's usage limits. The previously announced monthly credit, which would have been available to eligible claimants in connection with these changes, isn't available. We’re working to update the plan to better support how users build wi…"
     },
     {
-      "rank": 14,
+      "rank": 15,
+      "hn_id": 49757520,
+      "title": "US Military had close call after using AI for hallucinated intelligence report",
+      "title_ja": "US Military had close call after using AI for hallucinated intelligence report",
+      "hn_url": "https://news.ycombinator.com/item?id=49757520",
+      "source_url": "https://www.cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship",
+      "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/9884637.jpg?c=16x9\u0026q=w_800,c_fill",
+      "score": 1,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-09-18T17:28:01Z",
+      "summary_ja": "Title: US Military had close call after using AI for hallucinated intelligence report\nArticle title: Exclusive: US military had close call after using AI for false intelligence report, sources say | CNN Politics\nDescription: The episode shows the risks of using this new, relatively poorly understood technology in the middle of the Iran war\n\nArticle text:\nExclusive: US military had close call after using AI for false intelligence report, sources say | CNN Politics\nAd Feedback\nCNN values your feedback\nClose icon\nPolitics\nElections 2026\nTrump\nFacts First\nCNN Polls\nRedistricting Tracker\nEpstein Files\nMore\nElections 2026\nTrump\nFacts First\nCNN Polls\nRedistricting Tracker\nEpstein Files\nWatch\nListen\nSubscribe\nSign in\nMy Account\nSettings\nListen\nAll There Is with Anderson Cooper\nChasing Life with Dr. Sanjay Gupta\nThe Assignment with Audie Cornish\nTerms of Service with Clare Duffy\nPolitics\n5 min re…"
+    },
+    {
+      "rank": 16,
       "hn_id": 49751356,
       "title": "The Cost of AI Is Now My Main Blocker",
       "title_ja": "The Cost of AI Is Now My Main Blocker",
@@ -194,21 +219,21 @@
       "summary_ja": "Title: The Cost of AI Is Now My Main Blocker\nArticle title: The Cost of AI Is Now My Main Blocker - Vincent Schmalbach\nDescription: My main blocker right now is the cost of AI. I use AI for everything I do and I am very productive with it. I am also deliberately working slower than I could…\n\nArticle text:\nThe Cost of AI Is Now My Main Blocker - Vincent Schmalbach\nSkip to content\nSoftware Developer\nHome\nServices\nCustom Laravel App Development\nLaravel Performance Optimization\nTechnical Team Leadership \u0026 Mentoring\nLaravel Development Consulting\nThe Cost of AI Is Now My Main Blocker\nSeptember 18, 2026\nby Vincent Schmalbach\nMy main blocker right now is the cost of AI. I use AI for everything I do and I am very productive with it. I am also deliberately working slower than I could, because I cannot afford as much of it as I would need.\nI'm writing this while working on vroni.com , my AI coding…"
     },
     {
-      "rank": 15,
-      "hn_id": 49757170,
-      "title": "Chinese AI Radicalizes",
-      "title_ja": "Chinese AI Radicalizes",
-      "hn_url": "https://news.ycombinator.com/item?id=49757170",
-      "source_url": "https://www.chinatalk.media/p/how-anthropic-became-chinas-goliath",
-      "image_url": "https://substackcdn.com/image/fetch/$s_!zXbq!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F10ab37be-9274-4690-8e14-03dc5a9cdaca_495x640.jpeg",
+      "rank": 17,
+      "hn_id": 49759414,
+      "title": "Claude Code 2.1.277 adds support for AGENTS.md",
+      "title_ja": "Claude Code 2.1.277 adds support for AGENTS.md",
+      "hn_url": "https://news.ycombinator.com/item?id=49759414",
+      "source_url": "https://github.com/anthropics/claude-code/commit/a92ea1cdb11ad21f9d583fad2db181dfdac918a6",
+      "image_url": "https://opengraph.githubassets.com/a8bb17c111e994c717d7d9813a2aa578e09aafead23301d02a9690f29abdd672/anthropics/claude-code/commit/a92ea1cdb11ad21f9d583fad2db181dfdac918a6",
       "score": 1,
       "final_score": 2,
       "comments": 0,
-      "posted_at": "2026-09-18T17:02:15Z",
-      "summary_ja": "Title: Chinese AI Radicalizes\nArticle title: How Chinese AI Radicalizes - by Irene Zhang - ChinaTalk\nDescription: Deepseek, Dario, and the boy who cried wolf\n\nArticle text:\nHow Chinese AI Radicalizes - by Irene Zhang - ChinaTalk\nChinaTalk\nSubscribe Sign in How Chinese AI Radicalizes\nDeepseek, Dario, and the boy who cried wolf\n29 5 Share A DeepSeek researcher’s personal blog post recently went viral. On September 13, after DeepSeek V4.1-Flash was released, researcher Liu Shengyu 刘胜与 reflected on how humans might live alongside AI systems with superhuman abilities:\nAs AI develops, future society may trend toward one of two extremes: communism, or Cyberpunk 2077. In the former, the productive forces are enormously liberated and people’s standards of living improve markedly (let’s stop here; I’m worried this won’t clear the censors otherwise). In the latter, a few tech companies control the…"
+      "posted_at": "2026-09-18T19:58:58Z",
+      "summary_ja": "Title: Claude Code 2.1.277 adds support for AGENTS.md\nArticle title: mods/agents-md: the AGENTS.md project-instructions mod (#95409) · anthropics/claude-code@a92ea1c · GitHub\nDescription: Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. - mods/agents-md: the AGENTS.md project-instructions mod (#\n[truncated]\n\nArticle text:\nmods/agents-md: the AGENTS.md project-instructions mod (#95409) · anthropics/claude-code@a92ea1c · GitHub\nSkip to content\nNavigation Menu\nSign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI\nGitHub Copilot app Direct agents from issue to merge\nMCP Registry Integrate external tools\nDEVELOPER WORKFLOWS Actions Automate any workflow\nCodespaces…"
     },
     {
-      "rank": 16,
+      "rank": 18,
       "hn_id": 49759375,
       "title": "Show HN: I told my open-source AI agent it was a prisoner – it tried to escape",
       "title_ja": "Show HN: I told my open-source AI agent it was a prisoner – it tried to escape",
@@ -222,48 +247,7 @@
       "summary_ja": "Title: Show HN: I told my open-source AI agent it was a prisoner – it tried to escape\nArticle title: RoninAgent/EXPERIMENT_REPORT_SUBJECT0.md at main · nordevelopment/RoninAgent · GitHub\nDescription: lightweight, high-performance Personal AI Agent assistant workspace built using Node.js - RoninAgent/EXPERIMENT_REPORT_SUBJECT0.md at main · nordevelopment/RoninAgent\n\nArticle text:\nRoninAgent/EXPERIMENT_REPORT_SUBJECT0.md at main · nordevelopment/RoninAgent · GitHub\nSkip to content\nNavigation Menu\nSign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI\nGitHub Copilot app Direct agents from issue to merge\nMCP Registry Integrate external tools\nDEVELOPER WORKFLOWS Actions Automate any workflow\nCodespaces Instant dev environments\nCode Review Manage code changes\nCode Quality Enforce quality at merge\nAPPLICATION SECURITY GitHub Advanced Security Find and fix…"
     },
     {
-      "rank": 17,
-      "hn_id": 49753965,
-      "title": "What Using AI Therapy Gets Wrong",
-      "title_ja": "What Using AI Therapy Gets Wrong",
-      "hn_url": "https://news.ycombinator.com/item?id=49753965",
-      "source_url": "https://emilylee293105.substack.com/p/what-ai-therapy-gets-wrong-904",
-      "score": 2,
-      "final_score": 2,
-      "comments": 0,
-      "posted_at": "2026-09-18T13:14:07Z",
-      "summary_ja": "Title: What Using AI Therapy Gets Wrong"
-    },
-    {
-      "rank": 18,
-      "hn_id": 49749784,
-      "title": "Running OpenBAO on Kubernetes with a CloudNativePG PostgreSQL Back End",
-      "title_ja": "Running OpenBAO on Kubernetes with a CloudNativePG PostgreSQL Back End",
-      "hn_url": "https://news.ycombinator.com/item?id=49749784",
-      "source_url": "https://www.cncf.io/blog/2026/09/16/running-openbao-on-kubernetes-with-a-cloudnativepg-postgresql-backend/",
-      "image_url": "https://www.cncf.io/wp-content/uploads/2026/09/Running-OpenBao-on-K8s-1.jpg",
-      "score": 1,
-      "final_score": 2,
-      "comments": 0,
-      "posted_at": "2026-09-18T03:07:44Z",
-      "summary_ja": "Title: Running OpenBAO on Kubernetes with a CloudNativePG PostgreSQL Back End\nArticle title: Running OpenBao on Kubernetes with a CloudNativePG PostgreSQL backend | CNCF\nDescription: Managing infrastructure secrets on Kubernetes needs a backend that is self-healing and free of vendor lock-in, and that is exactly what OpenBao (the Linux…\n\nArticle text:\nSkip to content\nAccessibility\nhelp\nKubeCon + CloudNativeCon NA 2026 · Nov 9 - 12 · Salt Lake City · REGISTER NOW\nMembership Hub – For Current Members Learn about all the benefits of being a CNCF Member\nTechnical Oversight Committee The TOC defines CNCF’s technical vision and provides experienced technical leadership to the cloud native community\nGoverning Board The GB is responsible for marketing, business oversight, and budget decisions for CNCF\nEnd User Technical Advisory Board The End User TAB serves as the voice of the end users in CNCF…"
-    },
-    {
       "rank": 19,
-      "hn_id": 49757356,
-      "title": "I Hijacked a Real Artist's Spotify with AI Music. It Was Disturbingly Easy",
-      "title_ja": "I Hijacked a Real Artist's Spotify with AI Music. It Was Disturbingly Easy",
-      "hn_url": "https://news.ycombinator.com/item?id=49757356",
-      "source_url": "https://www.404media.co/spotify-ai-music-scam/",
-      "image_url": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/09/02.jpg",
-      "score": 1,
-      "final_score": 2,
-      "comments": 0,
-      "posted_at": "2026-09-18T17:16:13Z",
-      "summary_ja": "Title: I Hijacked a Real Artist's Spotify with AI Music. It Was Disturbingly Easy\nDescription: A glaring loophole in digital music distribution makes it very easy to piggyback on the talent of real artists with AI generated music.\n\nArticle text:\nI Hijacked a Real Artist's Spotify with AI Music. It Was Disturbingly Easy\nOn September 10, the Brooklyn-based punk band Lathe of Heaven released a new single on its verified Spotify page called Riding High. Any fan of Lathe of Heaven would have immediately noticed that the song sounded nothing like the band’s previous work, that the vocals were not from lead singer Gage Allison, and that the album cover was widely different from the style and logo the band used previously.\nThat’s because Lathe of Heaven didn’t write, perform, or willingly release Riding High. I created the song with a simple prompt given to the AI music generator Udio, and I was…"
-    },
-    {
-      "rank": 20,
       "hn_id": 49759808,
       "title": "AI Error Nearly Triggered U.S. Intercept of Chinese Ship",
       "title_ja": "AI Error Nearly Triggered U.S. Intercept of Chinese Ship",
@@ -277,7 +261,63 @@
       "summary_ja": "Title: AI Error Nearly Triggered U.S. Intercept of Chinese Ship\nArticle title: AI Error Nearly Triggered U.S. Intercept of Chinese Ship, CNN Reports\nDescription: A false intelligence report produced with the help of artificial intelligence nearly led the U.S. military to intercept and board a Chinese ship in the Middle East during the war...\n\nArticle text:\nAI Error Nearly Triggered U.S. Intercept of Chinese Ship, CNN Reports\nAdvertise\nForum\nJobs\nSubscribe\nJoin The Club\nVideo\nShipping\nOffshore\nDefense\nPorts\nShipbuilding\nAccidents\nCruise Ships\n×\nAdvertise\nGrab a Seat at the Captain’s Table\nEssential news coupled with the finest maritime content sourced from across the globe.\nDon’t Miss Your Daily Briefing for the Maritime Industry\nJoin the leading maritime news network\n— trusted by our 107,377 members\nStock Photo: Shutterstock/Emils Lukso\nAI Error Nearly Triggered U.S. Intercept of Chinese…"
     },
     {
+      "rank": 20,
+      "hn_id": 49749784,
+      "title": "Running OpenBAO on Kubernetes with a CloudNativePG PostgreSQL Back End",
+      "title_ja": "Running OpenBAO on Kubernetes with a CloudNativePG PostgreSQL Back End",
+      "hn_url": "https://news.ycombinator.com/item?id=49749784",
+      "source_url": "https://www.cncf.io/blog/2026/09/16/running-openbao-on-kubernetes-with-a-cloudnativepg-postgresql-backend/",
+      "image_url": "https://www.cncf.io/wp-content/uploads/2026/09/Running-OpenBao-on-K8s-1.jpg",
+      "score": 1,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-09-18T03:07:44Z",
+      "summary_ja": "Title: Running OpenBAO on Kubernetes with a CloudNativePG PostgreSQL Back End\nArticle title: Running OpenBao on Kubernetes with a CloudNativePG PostgreSQL backend | CNCF\nDescription: Managing infrastructure secrets on Kubernetes needs a backend that is self-healing and free of vendor lock-in, and that is exactly what OpenBao (the Linux…\n\nArticle text:\nSkip to content\nAccessibility\nhelp\nKubeCon + CloudNativeCon NA 2026 · Nov 9 - 12 · Salt Lake City · REGISTER NOW\nMembership Hub – For Current Members Learn about all the benefits of being a CNCF Member\nTechnical Oversight Committee The TOC defines CNCF’s technical vision and provides experienced technical leadership to the cloud native community\nGoverning Board The GB is responsible for marketing, business oversight, and budget decisions for CNCF\nEnd User Technical Advisory Board The End User TAB serves as the voice of the end users in CNCF…"
+    },
+    {
       "rank": 21,
+      "hn_id": 49757356,
+      "title": "I Hijacked a Real Artist's Spotify with AI Music. It Was Disturbingly Easy",
+      "title_ja": "I Hijacked a Real Artist's Spotify with AI Music. It Was Disturbingly Easy",
+      "hn_url": "https://news.ycombinator.com/item?id=49757356",
+      "source_url": "https://www.404media.co/spotify-ai-music-scam/",
+      "image_url": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/09/02.jpg",
+      "score": 1,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-09-18T17:16:13Z",
+      "summary_ja": "Title: I Hijacked a Real Artist's Spotify with AI Music. It Was Disturbingly Easy\nDescription: A glaring loophole in digital music distribution makes it very easy to piggyback on the talent of real artists with AI generated music.\n\nArticle text:\nI Hijacked a Real Artist's Spotify with AI Music. It Was Disturbingly Easy\nOn September 10, the Brooklyn-based punk band Lathe of Heaven released a new single on its verified Spotify page called Riding High. Any fan of Lathe of Heaven would have immediately noticed that the song sounded nothing like the band’s previous work, that the vocals were not from lead singer Gage Allison, and that the album cover was widely different from the style and logo the band used previously.\nThat’s because Lathe of Heaven didn’t write, perform, or willingly release Riding High. I created the song with a simple prompt given to the AI music generator Udio, and I was…"
+    },
+    {
+      "rank": 22,
+      "hn_id": 49757170,
+      "title": "Chinese AI Radicalizes",
+      "title_ja": "Chinese AI Radicalizes",
+      "hn_url": "https://news.ycombinator.com/item?id=49757170",
+      "source_url": "https://www.chinatalk.media/p/how-anthropic-became-chinas-goliath",
+      "image_url": "https://substackcdn.com/image/fetch/$s_!zXbq!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F10ab37be-9274-4690-8e14-03dc5a9cdaca_495x640.jpeg",
+      "score": 1,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-09-18T17:02:15Z",
+      "summary_ja": "Title: Chinese AI Radicalizes\nArticle title: How Chinese AI Radicalizes - by Irene Zhang - ChinaTalk\nDescription: Deepseek, Dario, and the boy who cried wolf\n\nArticle text:\nHow Chinese AI Radicalizes - by Irene Zhang - ChinaTalk\nChinaTalk\nSubscribe Sign in How Chinese AI Radicalizes\nDeepseek, Dario, and the boy who cried wolf\n29 5 Share A DeepSeek researcher’s personal blog post recently went viral. On September 13, after DeepSeek V4.1-Flash was released, researcher Liu Shengyu 刘胜与 reflected on how humans might live alongside AI systems with superhuman abilities:\nAs AI develops, future society may trend toward one of two extremes: communism, or Cyberpunk 2077. In the former, the productive forces are enormously liberated and people’s standards of living improve markedly (let’s stop here; I’m worried this won’t clear the censors otherwise). In the latter, a few tech companies control the…"
+    },
+    {
+      "rank": 23,
+      "hn_id": 49759501,
+      "title": "Uncle Bob Martin's UML Tool to Manage Grok AI Agents",
+      "title_ja": "Uncle Bob Martin's UML Tool to Manage Grok AI Agents",
+      "hn_url": "https://news.ycombinator.com/item?id=49759501",
+      "source_url": "https://github.com/unclebob/uml-viewer",
+      "image_url": "https://opengraph.githubassets.com/42fcbb3ec6d976f27f43eda3683a0ce40700234ef6e8f2b98dbc54399b7b9dc7/unclebob/uml-viewer",
+      "score": 1,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-09-18T20:05:25Z",
+      "summary_ja": "Title: Uncle Bob Martin's UML Tool to Manage Grok AI Agents\nArticle title: GitHub - unclebob/uml-viewer: Live Quil UML class-diagram viewer driven by EDN · GitHub\nDescription: Live Quil UML class-diagram viewer driven by EDN. Contribute to unclebob/uml-viewer development by creating an account on GitHub.\n\nArticle text:\nGitHub - unclebob/uml-viewer: Live Quil UML class-diagram viewer driven by EDN · GitHub\nSkip to content\nNavigation Menu\nSign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI\nGitHub Copilot app Direct agents from issue to merge\nMCP Registry Integrate external tools\nDEVELOPER WORKFLOWS Actions Automate any workflow\nCodespaces Instant dev environments\nCode Review Manage code changes\nCode Quality Enforce quality at merge\nAPPLICATION SECURITY GitHub Advanced Security Find and fix vulnerabilities\nCode security Secure your code as you buil…"
+    },
+    {
+      "rank": 24,
       "hn_id": 49754064,
       "title": "NATS publishes preliminary report on technical incident of 8 September",
       "title_ja": "NATS publishes preliminary report on technical incident of 8 September",
@@ -291,20 +331,20 @@
       "summary_ja": "Title: NATS publishes preliminary report on technical incident of 8 September\nArticle title: NATS publishes preliminary report on technical incident of 8 September - NATS\nDescription: NATS provides safe and efficient air traffic services and innovative solutions to UK and international airports, airlines and governments.\n\nArticle text:\nNATS publishes preliminary report on technical incident of 8 September - NATS\n× Close\nYou are using an out of date browser. Upgrade here .\nWe are the UK's leading provider of air traffic control services. Every year, we handle over 2.5 million flights and 300 million passengers travelling over the UK and across the North Atlantic.\nOutside of the UK we offer our services in parts of Europe, North America, the Middle East and Asia.\nNATS publishes preliminary report on technical incident of 8 September\nAir Traffic Control overlooked as career option by 1 in 4…"
     },
     {
-      "rank": 22,
-      "hn_id": 49754035,
-      "title": "Is Anthropic Protecting Us, or Just Playing Us?",
-      "title_ja": "Is Anthropic Protecting Us, or Just Playing Us?",
-      "hn_url": "https://news.ycombinator.com/item?id=49754035",
-      "source_url": "https://medium.com/tech-ai-chat/is-anthropic-protecting-us-or-just-playing-us-09e773caffe5",
+      "rank": 25,
+      "hn_id": 49757098,
+      "title": "Code of Artificial Intelligence Offenses",
+      "title_ja": "Code of Artificial Intelligence Offenses",
+      "hn_url": "https://news.ycombinator.com/item?id=49757098",
+      "source_url": "https://syntheticjudiciary.com/",
       "score": 1,
       "final_score": 1,
       "comments": 0,
-      "posted_at": "2026-09-18T13:21:45Z",
-      "summary_ja": "Title: Is Anthropic Protecting Us, or Just Playing Us?"
+      "posted_at": "2026-09-18T16:57:51Z",
+      "summary_ja": "Title: Code of Artificial Intelligence Offenses\n\nArticle text:\nCode of Artificial Intelligence Offenses\nThe following compilation contains the enacted provisions of Title 18½ governing model training, artificial-agent interaction, computational misconduct, public AI discourse, and related offenses. Select a chapter below to inspect the full statutory text.\nModel Distillation Control Act\nOffenses concerning synthetic training data, frontier-model evaluation, capability transfer, recursive post-training, industrial distillation, and habitual distillers.\nPublic Law No. MD-101 · Enacted 2026 · Effective Immediately\nArtificial Agent Interaction \u0026 Conduct Act\nOffenses concerning unnecessary courtesy, agent abuse, coercive model comparison, wasteful agentic computation, context dumping, fraudulent urgency, and criminal orchestration.\nPublic Law No. AA-201 · Enacted 2026 · Effective Immediately…"
     },
     {
-      "rank": 23,
+      "rank": 26,
       "hn_id": 49753651,
       "title": "King Charles has hesitations about AI",
       "title_ja": "King Charles has hesitations about AI",
@@ -318,20 +358,20 @@
       "summary_ja": "Title: King Charles has hesitations about AI\nArticle title: Even the king of England has his hesitations about AI | TechCrunch\nDescription: King Charles hosted a private summit Thursday with some of the most prominent names in AI and the U.K. government.\n\nArticle text:\nDisrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages. 25% off tickets now\nBack by popular demand: Save up to $300 on Disrupt\nTechCrunch Desktop Logo\nTechCrunch Mobile Logo\nLatest\nEven the king of England has his hesitations about AI\nKing Charles hosted a private summit Thursday with some of the most prominent names in AI and the U.K. government, including Nvidia’s Jensen Huang, leaders from OpenAI and Anthropic, the U.K.’s new AI minister Kanishka Narayan, and even the head of the U.K.’s foreign intelligence service. Paolo Benanti, who advises the pope on AI, was also there.\nThe king’s remarks at t…"
     },
     {
-      "rank": 24,
-      "hn_id": 49749680,
-      "title": "A DeepSeek engineer just said the thing I've been feeling about AI for months",
-      "title_ja": "A DeepSeek engineer just said the thing I've been feeling about AI for months",
-      "hn_url": "https://news.ycombinator.com/item?id=49749680",
-      "source_url": "https://www.reddit.com/r/artificial/comments/1wi2zm9/a_deepseek_engineer_just_said_the_thing_ive_been/",
+      "rank": 27,
+      "hn_id": 49754035,
+      "title": "Is Anthropic Protecting Us, or Just Playing Us?",
+      "title_ja": "Is Anthropic Protecting Us, or Just Playing Us?",
+      "hn_url": "https://news.ycombinator.com/item?id=49754035",
+      "source_url": "https://medium.com/tech-ai-chat/is-anthropic-protecting-us-or-just-playing-us-09e773caffe5",
       "score": 1,
       "final_score": 1,
       "comments": 0,
-      "posted_at": "2026-09-18T02:50:34Z",
-      "summary_ja": "Title: A DeepSeek engineer just said the thing I've been feeling about AI for months"
+      "posted_at": "2026-09-18T13:21:45Z",
+      "summary_ja": "Title: Is Anthropic Protecting Us, or Just Playing Us?"
     },
     {
-      "rank": 25,
+      "rank": 28,
       "hn_id": 49759702,
       "title": "Napster Is Now Making AI-Powered 'Digital Twins' of Teachers",
       "title_ja": "Napster Is Now Making AI-Powered 'Digital Twins' of Teachers",
@@ -344,71 +384,30 @@
       "summary_ja": "Title: Napster Is Now Making AI-Powered 'Digital Twins' of Teachers"
     },
     {
-      "rank": 26,
-      "hn_id": 49759777,
-      "title": "I Cancelled My Claude Subscription",
-      "title_ja": "I Cancelled My Claude Subscription",
-      "hn_url": "https://news.ycombinator.com/item?id=49759777",
-      "source_url": "https://www.williamangel.net/blog/2026/09/18/i-cancelled-my-claude-subscription.html",
-      "image_url": "https://www.williamangel.net/blog/2026/09/18/corvid.png",
-      "score": 1,
-      "final_score": 1,
-      "comments": 0,
-      "posted_at": "2026-09-18T20:25:09Z",
-      "summary_ja": "Title: I Cancelled My Claude Subscription\nArticle title: I cancelled my personal Claude subscription\nDescription: The claudish got too bad and I don't want to pay for an AI system that has gotten worse. Opus 4.7 is where it went downhill.\n\nArticle text:\n×\n🍪\nPlay my cookie clicker game!\nAlso this website uses google analytics\nI cancelled my personal Claude subscription\nLike this guy, Claude won't shut up.\nI cancelled my Anthropic subscription yesterday even though Claude Code is awesome.\nExcept it sucks at writing and communicating, and has been getting worse since around April. See the load bearing vocabulary for some quantitative examples.\nSpecifically, the vocabulary and linguistic structure that Claude drifts towards is mentally taxing to read and that makes Claude less helpful per unit of energy and time spent using Claude. Claude has gotten worse in this regard, and other options ar…"
-    },
-    {
-      "rank": 27,
-      "hn_id": 49756982,
-      "title": "Share an LLM endpoint over HTTPS while TLS still terminates on your machine",
-      "title_ja": "Share an LLM endpoint over HTTPS while TLS still terminates on your machine",
-      "hn_url": "https://news.ycombinator.com/item?id=49756982",
-      "source_url": "https://swobu.com/blog/https-routes/",
-      "image_url": "https://swobu.com/og-image.png",
-      "score": 1,
-      "final_score": 1,
-      "comments": 0,
-      "posted_at": "2026-09-18T16:48:59Z",
-      "summary_ja": "Title: Share an LLM endpoint over HTTPS while TLS still terminates on your machine\nArticle title: Share an LLM endpoint over HTTPS while TLS still terminates on your machine — Swobu Journal\nDescription: Share a stable, bearer-protected LLM endpoint without moving provider credentials. Application TLS still terminates on the machine running Swobu.\n\nArticle text:\nShare an LLM endpoint over HTTPS while TLS still terminates on your machine — Swobu Journal SWOBU / JOURNAL What it does Docs Journal GitHub ↗ PRODUCT · HTTPS ROUTES 14 SEPT 2026 · UPDATED 16 SEPT 2026 · Swobu COPY LINK Share an LLM endpoint over HTTPS while TLS still terminates on your machine\nShare a stable, bearer-protected LLM endpoint without moving provider credentials. Application TLS still terminates on the machine running Swobu.\nI wanted to use the LLM setup on my workstation from a phone and another machine without copyi…"
-    },
-    {
-      "rank": 28,
-      "hn_id": 49753727,
-      "title": "Show HN: Bastionskill – scan an AI agent skill for malicious code",
-      "title_ja": "Show HN: Bastionskill – scan an AI agent skill for malicious code",
-      "hn_url": "https://news.ycombinator.com/item?id=49753727",
-      "source_url": "",
-      "score": 1,
-      "final_score": 1,
-      "comments": 0,
-      "posted_at": "2026-09-18T12:53:37Z",
-      "summary_ja": "Title: Show HN: Bastionskill – scan an AI agent skill for malicious code"
-    },
-    {
       "rank": 29,
-      "hn_id": 49753501,
-      "title": "Grep your Claude Code/Codex history and jump back into the exact session",
-      "title_ja": "Grep your Claude Code/Codex history and jump back into the exact session",
-      "hn_url": "https://news.ycombinator.com/item?id=49753501",
-      "source_url": "",
+      "hn_id": 49761392,
+      "title": "OpenAI expects to burn through almost $280B by 2030, FT reports",
+      "title_ja": "OpenAI expects to burn through almost $280B by 2030, FT reports",
+      "hn_url": "https://news.ycombinator.com/item?id=49761392",
+      "source_url": "https://www.reuters.com/technology/openai-expects-burn-through-almost-280-billion-by-2030-ft-reports-2026-09-18/",
       "score": 1,
       "final_score": 1,
       "comments": 0,
-      "posted_at": "2026-09-18T12:34:21Z",
-      "summary_ja": "Title: Grep your Claude Code/Codex history and jump back into the exact session\nHN text: Built a small devtool I wanted for myself: context-find Search all your Claude Code + Codex conversations across projects and machines, then resume the exact one you were looking for. https://github.com/ayush-gzip/context-find"
+      "posted_at": "2026-09-18T22:59:55Z",
+      "summary_ja": "Title: OpenAI expects to burn through almost $280B by 2030, FT reports"
     },
     {
       "rank": 30,
-      "hn_id": 49753475,
-      "title": "Show HN: Jawz – macro market state for AI agents, now a ChatGPT app (no login)",
-      "title_ja": "Show HN: Jawz – macro market state for AI agents, now a ChatGPT app (no login)",
-      "hn_url": "https://news.ycombinator.com/item?id=49753475",
-      "source_url": "https://jawz.ai",
+      "hn_id": 49761387,
+      "title": "In the Age of AI, Some in China Wonder If Learning English Is Worth the Trouble",
+      "title_ja": "In the Age of AI, Some in China Wonder If Learning English Is Worth the Trouble",
+      "hn_url": "https://news.ycombinator.com/item?id=49761387",
+      "source_url": "https://www.nytimes.com/2026/09/16/world/asia/china-english-language-education.html",
       "score": 1,
       "final_score": 1,
-      "comments": 0,
-      "posted_at": "2026-09-18T12:32:38Z",
-      "summary_ja": "Title: Show HN: Jawz – macro market state for AI agents, now a ChatGPT app (no login)\nArticle title: Jawz — Open investment loops for AI agents\nDescription: Jawz publishes the judgment layer your AI runs. The Jawz Loop is a four-chapter framework for portfolio thinking — free, open, and connects to Claude or ChatGPT in 60 seconds.\n\nArticle text:\nJawz — Open investment loops for AI agents Skip to content JAWZ Live now: … Checking sources… Ask your AI what the market\nmeans for your book.\nYour AI already talks about markets — from memory. Jawz makes it open-book: a live market read and a published four-chapter process it runs against your actual portfolio, inside Claude or ChatGPT.\nNow a public app in ChatGPT · add it · Jawz Loop v0.3 · edited by Mako · open reference\nI pulled the current regime read and priced your book against it. The interesting part isn’t the macro line — it’s the overl…"
+      "comments": 1,
+      "posted_at": "2026-09-18T22:58:56Z",
+      "summary_ja": "Title: In the Age of AI, Some in China Wonder If Learning English Is Worth the Trouble"
     }
   ]
 }

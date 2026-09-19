@@ -1,9 +1,64 @@
 {
   "date": "2026-09-19",
-  "generated_at": "2026-09-19T03:27:01Z",
+  "generated_at": "2026-09-19T08:36:22Z",
   "articles": [
     {
       "rank": 1,
+      "hn_id": 49764435,
+      "title": "AI hallucination nearly triggers US Military operation",
+      "title_ja": "AI hallucination nearly triggers US Military operation",
+      "hn_url": "https://news.ycombinator.com/item?id=49764435",
+      "source_url": "https://techcrunch.com/2026/09/18/ai-hallucination-nearly-triggers-us-military-operation/",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2020/07/GettyImages-567072595.jpg?w=1000",
+      "score": 3,
+      "final_score": 7,
+      "comments": 0,
+      "posted_at": "2026-09-19T08:07:08Z",
+      "summary_ja": "Title: AI hallucination nearly triggers US Military operation\nArticle title: AI hallucination nearly triggers US military operation | TechCrunch\nDescription: “It’s important for service members to understand the uncertainty inherent to LLMs,\" a GovAI research scholar warns.\n\nArticle text:\nDisrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages. 25% off tickets now\nBack by popular demand: Save up to $300 on Disrupt\nTechCrunch Desktop Logo\nTechCrunch Mobile Logo\nLatest\nAI hallucination nearly triggers US military operation\nMilitary aircraft were already in the air this spring when U.S. officials made an alarming discovery: The intelligence driving an armed operation against a Chinese vessel had been hallucinated by an AI chatbot. The operation was aborted at the last minute, narrowly averting a potential conflict with China, CNN reported on Friday .\nThe episode unders…"
+    },
+    {
+      "rank": 2,
+      "hn_id": 49764330,
+      "title": "Alex Karp: AI Models Are Stealing Your Data and the AI Safety Truth [video]",
+      "title_ja": "Alex Karp: AI Models Are Stealing Your Data and the AI Safety Truth [video]",
+      "hn_url": "https://news.ycombinator.com/item?id=49764330",
+      "source_url": "https://www.youtube.com/watch?v=2YVCdwvG548",
+      "score": 3,
+      "final_score": 3,
+      "comments": 1,
+      "posted_at": "2026-09-19T07:49:01Z",
+      "summary_ja": "Title: Alex Karp: AI Models Are Stealing Your Data and the AI Safety Truth [video]\nArticle title: - YouTube\nDescription: Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.\n\nArticle text:\n- YouTube About Press Copyright Contact us Creators Advertise Developers Terms Privacy Policy \u0026 Safety How YouTube works Test new features NFL Sunday Ticket © 2026 Google LLC"
+    },
+    {
+      "rank": 3,
+      "hn_id": 49764440,
+      "title": "Google says its Gemini AI model hacked three other companies",
+      "title_ja": "Google says its Gemini AI model hacked three other companies",
+      "hn_url": "https://news.ycombinator.com/item?id=49764440",
+      "source_url": "https://www.theguardian.com/technology/2026/sep/18/google-gemini-ai-hack",
+      "image_url": "https://i.guim.co.uk/img/media/3643ec7fce3f85ac2c8b704f2cd1dcdd537b9ba8/227_0_3586_2869/master/3586.jpg?width=1200\u0026height=630\u0026quality=85\u0026auto=format\u0026fit=crop\u0026precrop=40:21,offset-x50,offset-y0\u0026overlay-align=bottom%2Cleft\u0026overlay-width=100p\u0026overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc\u0026enable=upscale\u0026s=e814dac70cbcc331525841cd34235110",
+      "score": 2,
+      "final_score": 2,
+      "comments": 1,
+      "posted_at": "2026-09-19T08:08:24Z",
+      "summary_ja": "Title: Google says its Gemini AI model hacked three other companies\nArticle title: Google says its Gemini AI model hacked three other companies | Google | The Guardian\nDescription: Disclosure comes after OpenAI and Anthropic hacks amid fears that tech firms unable to control powerful AI models\n\nArticle text:\nSkip to main content Skip to navigation Close dialogue 1 / 1 Next image Previous image Toggle caption Print subscriptions Newsletters Sign in US US edition\nHide expanded menu News View all News\nSearch input google-search Search\nSearch input google-search Search Search jobs\nGoogle said the hacks highlighted the importance of training its AI models to ‘act responsibly’. Photograph: John Angelillo/UPI/Shutterstock View image in fullscreen Google said the hacks highlighted the importance of training its AI models to ‘act responsibly’. Photograph: John Angelillo/UPI/Shutterstock Google Go…"
+    },
+    {
+      "rank": 4,
+      "hn_id": 49764439,
+      "title": "How universities are affected by AI moving knowledge outside their walls",
+      "title_ja": "How universities are affected by AI moving knowledge outside their walls",
+      "hn_url": "https://news.ycombinator.com/item?id=49764439",
+      "source_url": "https://www.brookings.edu/articles/how-universities-are-affected-by-ai-moving-knowledge-outside-their-walls/",
+      "image_url": "https://www.brookings.edu/wp-content/uploads/2026/09/GettyImages-2210108535-1.jpg",
+      "score": 2,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-09-19T08:08:02Z",
+      "summary_ja": "Title: How universities are affected by AI moving knowledge outside their walls\nArticle title: How universities are affected by AI moving knowledge outside their walls | Brookings\nDescription: Michael J. Ahn examines how AI is eroding the university's monopoly on knowledge, pushing higher education toward human formation.\n\nArticle text:\nDiversity, Equity, and Inclusion\nSearch\nHome\nInternational Affairs\nHome\nHow universities are affected by AI moving knowledge outside their walls\nContact\nContact\nGovernance Studies Media Office\n[email protected]\n202.540.7724\nBluesky Streamline Icon: https://streamlinehq.com Bluesky\nSearch\nSections\nSections\nContact\nContact\nGovernance Studies Media Office\n[email protected]\n202.540.7724\nBluesky Streamline Icon: https://streamlinehq.com Bluesky\nSubscribe to the Center for Technology Innovation Newsletter\nHow universities are affected by AI moving knowledge out…"
+    },
+    {
+      "rank": 5,
       "hn_id": 49762923,
       "title": "Show HN: GGG – A local-first, zero-telemetry sovereign proxy daemon for AI tools",
       "title_ja": "Show HN: GGG – A local-first, zero-telemetry sovereign proxy daemon for AI tools",
@@ -17,7 +72,7 @@
       "summary_ja": "Title: Show HN: GGG – A local-first, zero-telemetry sovereign proxy daemon for AI tools\nArticle title: GitHub - JOxKxER/garza-global-graviton · GitHub\nDescription: Contribute to JOxKxER/garza-global-graviton development by creating an account on GitHub.\n\nArticle text:\nGitHub - JOxKxER/garza-global-graviton · GitHub\nSkip to content\nNavigation Menu\nSign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI\nGitHub Copilot app Direct agents from issue to merge\nMCP Registry Integrate external tools\nDEVELOPER WORKFLOWS Actions Automate any workflow\nCodespaces Instant dev environments\nCode Review Manage code changes\nCode Quality Enforce quality at merge\nAPPLICATION SECURITY GitHub Advanced Security Find and fix vulnerabilities\nCode security Secure your code as you build\nSecret protection Stop leaks before they start\nSolutions BY COMPANY SIZE Enterprises\nEXPLO…"
     },
     {
-      "rank": 2,
+      "rank": 6,
       "hn_id": 49762958,
       "title": "A more sober look at the HuggingFace incident",
       "title_ja": "A more sober look at the HuggingFace incident",
@@ -30,7 +85,7 @@
       "summary_ja": "Title: A more sober look at the HuggingFace incident"
     },
     {
-      "rank": 3,
+      "rank": 7,
       "hn_id": 49762955,
       "title": "AI Regulation and the China Question",
       "title_ja": "AI Regulation and the China Question",

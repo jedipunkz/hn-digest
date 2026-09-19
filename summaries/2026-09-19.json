@@ -1,0 +1,46 @@
+{
+  "date": "2026-09-19",
+  "generated_at": "2026-09-19T03:27:01Z",
+  "articles": [
+    {
+      "rank": 1,
+      "hn_id": 49762923,
+      "title": "Show HN: GGG – A local-first, zero-telemetry sovereign proxy daemon for AI tools",
+      "title_ja": "Show HN: GGG – A local-first, zero-telemetry sovereign proxy daemon for AI tools",
+      "hn_url": "https://news.ycombinator.com/item?id=49762923",
+      "source_url": "https://github.com/JOxKxER/garza-global-graviton",
+      "image_url": "https://opengraph.githubassets.com/ff82177fe41c3e93bd0ca75642f94605cb8965952ccc8f131c7ee217a80359cf/JOxKxER/garza-global-graviton",
+      "score": 1,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-09-19T03:09:11Z",
+      "summary_ja": "Title: Show HN: GGG – A local-first, zero-telemetry sovereign proxy daemon for AI tools\nArticle title: GitHub - JOxKxER/garza-global-graviton · GitHub\nDescription: Contribute to JOxKxER/garza-global-graviton development by creating an account on GitHub.\n\nArticle text:\nGitHub - JOxKxER/garza-global-graviton · GitHub\nSkip to content\nNavigation Menu\nSign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI\nGitHub Copilot app Direct agents from issue to merge\nMCP Registry Integrate external tools\nDEVELOPER WORKFLOWS Actions Automate any workflow\nCodespaces Instant dev environments\nCode Review Manage code changes\nCode Quality Enforce quality at merge\nAPPLICATION SECURITY GitHub Advanced Security Find and fix vulnerabilities\nCode security Secure your code as you build\nSecret protection Stop leaks before they start\nSolutions BY COMPANY SIZE Enterprises\nEXPLO…"
+    },
+    {
+      "rank": 2,
+      "hn_id": 49762958,
+      "title": "A more sober look at the HuggingFace incident",
+      "title_ja": "A more sober look at the HuggingFace incident",
+      "hn_url": "https://news.ycombinator.com/item?id=49762958",
+      "source_url": "https://www.wsj.com/opinion/the-hugging-face-hack-wasnt-what-it-was-cracked-up-to-be-e00cf3fa",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-09-19T03:16:04Z",
+      "summary_ja": "Title: A more sober look at the HuggingFace incident"
+    },
+    {
+      "rank": 3,
+      "hn_id": 49762955,
+      "title": "AI Regulation and the China Question",
+      "title_ja": "AI Regulation and the China Question",
+      "hn_url": "https://news.ycombinator.com/item?id=49762955",
+      "source_url": "https://casssunstein.substack.com/p/ai-regulation-and-the-china-question",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-09-19T03:15:41Z",
+      "summary_ja": "Title: AI Regulation and the China Question"
+    }
+  ]
+}

@@ -1,6 +1,6 @@
 {
   "date": "2026-09-19",
-  "generated_at": "2026-09-19T08:36:22Z",
+  "generated_at": "2026-09-19T12:56:09Z",
   "articles": [
     {
       "rank": 1,
@@ -18,6 +18,20 @@
     },
     {
       "rank": 2,
+      "hn_id": 49765874,
+      "title": "Show HN: Kobblestone – Minecraft on Kubernetes",
+      "title_ja": "Show HN: Kobblestone – Minecraft on Kubernetes",
+      "hn_url": "https://news.ycombinator.com/item?id=49765874",
+      "source_url": "https://github.com/kobblestoneio/kobblestone",
+      "image_url": "https://opengraph.githubassets.com/05680bf89ab14a23e684bfe3a63527bb7ac241b15693d2f92e21554bfb803dfc/kobblestoneio/kobblestone",
+      "score": 2,
+      "final_score": 4,
+      "comments": 0,
+      "posted_at": "2026-09-19T12:07:15Z",
+      "summary_ja": "Title: Show HN: Kobblestone – Minecraft on Kubernetes\nArticle title: GitHub - kobblestoneio/kobblestone: Minecraft Server Infrastructure on Kubernetes · GitHub\nDescription: Minecraft Server Infrastructure on Kubernetes. Contribute to kobblestoneio/kobblestone development by creating an account on GitHub.\nHN text: Hi folks, just released a personal project of mine, called Kobblestone. Essentially, it's an operator for Kubernetes, allowing you to manage Minecraft infrastructure on Kubernetes. It's not just a small wrapper for deploying servers, it aims to integrate the whole Minecraft ecosystem on Kubernetes (routers, networks, commands, backups, etc.). I'd highly appreciate your feedback and I am looking forward to potential contributions! Thanks.\n\nArticle text:\nGitHub - kobblestoneio/kobblestone: Minecraft Server Infrastructure on Kubernetes · GitHub\nSkip to content\nNavigation Menu\nSign…"
+    },
+    {
+      "rank": 3,
       "hn_id": 49764330,
       "title": "Alex Karp: AI Models Are Stealing Your Data and the AI Safety Truth [video]",
       "title_ja": "Alex Karp: AI Models Are Stealing Your Data and the AI Safety Truth [video]",
@@ -30,7 +44,7 @@
       "summary_ja": "Title: Alex Karp: AI Models Are Stealing Your Data and the AI Safety Truth [video]\nArticle title: - YouTube\nDescription: Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.\n\nArticle text:\n- YouTube About Press Copyright Contact us Creators Advertise Developers Terms Privacy Policy \u0026 Safety How YouTube works Test new features NFL Sunday Ticket © 2026 Google LLC"
     },
     {
-      "rank": 3,
+      "rank": 4,
       "hn_id": 49764440,
       "title": "Google says its Gemini AI model hacked three other companies",
       "title_ja": "Google says its Gemini AI model hacked three other companies",
@@ -44,7 +58,35 @@
       "summary_ja": "Title: Google says its Gemini AI model hacked three other companies\nArticle title: Google says its Gemini AI model hacked three other companies | Google | The Guardian\nDescription: Disclosure comes after OpenAI and Anthropic hacks amid fears that tech firms unable to control powerful AI models\n\nArticle text:\nSkip to main content Skip to navigation Close dialogue 1 / 1 Next image Previous image Toggle caption Print subscriptions Newsletters Sign in US US edition\nHide expanded menu News View all News\nSearch input google-search Search\nSearch input google-search Search Search jobs\nGoogle said the hacks highlighted the importance of training its AI models to ‘act responsibly’. Photograph: John Angelillo/UPI/Shutterstock View image in fullscreen Google said the hacks highlighted the importance of training its AI models to ‘act responsibly’. Photograph: John Angelillo/UPI/Shutterstock Google Go…"
     },
     {
-      "rank": 4,
+      "rank": 5,
+      "hn_id": 49766062,
+      "title": "AI kill switch, explained: 'It's not too little, but it's probably too late'",
+      "title_ja": "AI kill switch, explained: 'It's not too little, but it's probably too late'",
+      "hn_url": "https://news.ycombinator.com/item?id=49766062",
+      "source_url": "https://www.cnbc.com/2026/09/19/ai-kill-switch-explained.html",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108360837-1788987933273-gettyimages-2286062573-AFP_C2JR9FR.jpeg?v=1789766104\u0026w=1920\u0026h=1080",
+      "score": 1,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-09-19T12:36:06Z",
+      "summary_ja": "Title: AI kill switch, explained: 'It's not too little, but it's probably too late'\nArticle title: AI kill switch, explained: This simple safety solution may not work\nDescription: As runaway AI fears reach a crescendo, policymakers and tech leaders are weighing the effectiveness of a magic AI stop button known as a kill switch.\n\nArticle text:\nAI kill switch, explained: This simple safety solution may not work Skip Navigation Markets Pre-Markets\nSIGN IN Create free account Markets Business Investing Tech Politics \u0026 Policy Video Watchlist Investing Club PRO Livestream Menu\nThe AI kill switch, explained: 'It's not too little, but it's probably too late'\nConcerns that AI will kill humanity hit a fever pitch, fueling calls for an AI emergency brake, or kill switch.\nExperts say kill switches are difficult to implement because of the scope of AI infrastructure and the unpredictability of models…"
+    },
+    {
+      "rank": 6,
+      "hn_id": 49765950,
+      "title": "Bull Beats Out HPE for Next-Gen Lumi AI Supercomputer",
+      "title_ja": "Bull Beats Out HPE for Next-Gen Lumi AI Supercomputer",
+      "hn_url": "https://news.ycombinator.com/item?id=49765950",
+      "source_url": "https://www.nextplatform.com/hpc/2026/09/17/bull-beats-out-hpe-for-next-gen-lumi-ai-supercomputer/5297292",
+      "image_url": "https://image.nextplatform.com/5297294.jpg?imageId=5297294\u0026x=0\u0026y=0\u0026cropw=100\u0026croph=100\u0026panox=0\u0026panoy=0\u0026panow=100\u0026panoh=100\u0026width=1200\u0026height=683",
+      "score": 1,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-09-19T12:19:20Z",
+      "summary_ja": "Title: Bull Beats Out HPE for Next-Gen Lumi AI Supercomputer\nArticle title: Bull Beats Out HPE For Next-Gen Lumi AI Supercomputer\nDescription: In many ways, Europe is more traditional than America, and this is particularly so when it comes to ...\n\nArticle text:\nJump to main content\nSearch\nMore topics\nAll the latest news, from all sections\nBull Beats Out HPE For Next-Gen Lumi AI Supercomputer\nIn many ways, Europe is more traditional than America, and this is particularly so when it comes to GenAI infrastructure. While all of the national supercomputing labs have built systems that can do both traditional HPC simulation and modeling, in Europe AI efforts to custom tune GenAI and traditional machine learning models are focused on the national labs, not in AI model builders.\nOf course, that is because the major AI model builders are based on the United States and China. But no matter. Our po…"
+    },
+    {
+      "rank": 7,
       "hn_id": 49764439,
       "title": "How universities are affected by AI moving knowledge outside their walls",
       "title_ja": "How universities are affected by AI moving knowledge outside their walls",
@@ -58,7 +100,7 @@
       "summary_ja": "Title: How universities are affected by AI moving knowledge outside their walls\nArticle title: How universities are affected by AI moving knowledge outside their walls | Brookings\nDescription: Michael J. Ahn examines how AI is eroding the university's monopoly on knowledge, pushing higher education toward human formation.\n\nArticle text:\nDiversity, Equity, and Inclusion\nSearch\nHome\nInternational Affairs\nHome\nHow universities are affected by AI moving knowledge outside their walls\nContact\nContact\nGovernance Studies Media Office\n[email protected]\n202.540.7724\nBluesky Streamline Icon: https://streamlinehq.com Bluesky\nSearch\nSections\nSections\nContact\nContact\nGovernance Studies Media Office\n[email protected]\n202.540.7724\nBluesky Streamline Icon: https://streamlinehq.com Bluesky\nSubscribe to the Center for Technology Innovation Newsletter\nHow universities are affected by AI moving knowledge out…"
     },
     {
-      "rank": 5,
+      "rank": 8,
       "hn_id": 49762923,
       "title": "Show HN: GGG – A local-first, zero-telemetry sovereign proxy daemon for AI tools",
       "title_ja": "Show HN: GGG – A local-first, zero-telemetry sovereign proxy daemon for AI tools",
@@ -72,7 +114,62 @@
       "summary_ja": "Title: Show HN: GGG – A local-first, zero-telemetry sovereign proxy daemon for AI tools\nArticle title: GitHub - JOxKxER/garza-global-graviton · GitHub\nDescription: Contribute to JOxKxER/garza-global-graviton development by creating an account on GitHub.\n\nArticle text:\nGitHub - JOxKxER/garza-global-graviton · GitHub\nSkip to content\nNavigation Menu\nSign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI\nGitHub Copilot app Direct agents from issue to merge\nMCP Registry Integrate external tools\nDEVELOPER WORKFLOWS Actions Automate any workflow\nCodespaces Instant dev environments\nCode Review Manage code changes\nCode Quality Enforce quality at merge\nAPPLICATION SECURITY GitHub Advanced Security Find and fix vulnerabilities\nCode security Secure your code as you build\nSecret protection Stop leaks before they start\nSolutions BY COMPANY SIZE Enterprises\nEXPLO…"
     },
     {
-      "rank": 6,
+      "rank": 9,
+      "hn_id": 49766164,
+      "title": "Show HN: I asked Claude Code to teach my son about the phases of the moon",
+      "title_ja": "Show HN: I asked Claude Code to teach my son about the phases of the moon",
+      "hn_url": "https://news.ycombinator.com/item?id=49766164",
+      "source_url": "https://ricardoborges.github.io/MoonSrc/",
+      "score": 2,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-09-19T12:49:58Z",
+      "summary_ja": "Title: Show HN: I asked Claude Code to teach my son about the phases of the moon\nArticle title: Moon Space Lab 3D — Discover the Phases of the Moon!\nDescription: Interactive 3D simulator of the Sun, Earth and Moon system where kids learn the phases of the Moon in a fun, visual way.\n\nArticle text:\nSun • Earth • Moon — Why does the Moon change in the sky?\nThe orbit is an ellipse with the Sun at one focus — but so barely squashed that it looks like a circle."
+    },
+    {
+      "rank": 10,
+      "hn_id": 49766153,
+      "title": "Yoshua Bengio's non-profit LawZero to build safe AI",
+      "title_ja": "Yoshua Bengio's non-profit LawZero to build safe AI",
+      "hn_url": "https://news.ycombinator.com/item?id=49766153",
+      "source_url": "https://www.theglobeandmail.com/business/article-yoshua-bengio-lawzero-receives-300-million-from-canada-germany/",
+      "image_url": "https://www.theglobeandmail.com/resizer/v2/M7LK4GDPT5EF5J7M6BBBJUQZHU.jpg?auth=f2fa5bc28caebfe771675e9c28d5002553afee01c719639d3ea4306b0c8b7c2e\u0026width=1200\u0026height=800\u0026quality=80\u0026smart=true",
+      "score": 2,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-09-19T12:48:10Z",
+      "summary_ja": "Title: Yoshua Bengio's non-profit LawZero to build safe AI\nArticle title: Yoshua Bengio’s non-profit to get up to $300-million from Canada, Germany to expand safe AI development - The Globe and Mail\nDescription: Montreal group aims to build a system called Scientist AI that would prioritize safety and monitor other models\n\nArticle text:\nYoshua Bengio’s non-profit to get up to $300-million from Canada, Germany to expand safe AI development - The Globe and Mail\nHome\nYoshua Bengio’s non-profit to get up to $300-million from Canada, Germany to expand safe AI development\nYoshua Bengio in Montreal on Tuesday. Canada and Germany are committing to help fund Mr. Bengio's non-profit LawZero, which is aiming to build an AI system without negative traits found in current models. ANDREJ IVANOV/AFP/Getty Images\nThe Canadian and German governments are providing up to $300-million to a non-profit founde…"
+    },
+    {
+      "rank": 11,
+      "hn_id": 49766011,
+      "title": "AI companies sued for \"colluding\" to slow down",
+      "title_ja": "AI companies sued for \"colluding\" to slow down",
+      "hn_url": "https://news.ycombinator.com/item?id=49766011",
+      "source_url": "https://news.bloomberglaw.com/litigation/openai-anthropic-google-spacexai-hit-with-antitrust-lawsuit",
+      "image_url": "https://news-api.bloomberglaw.com/v1/resize-image?url=https%3A%2F%2Fbloomberg-bna-brightspot.s3.us-east-1.amazonaws.com%2F57%2F33%2F39842993472e99c4cfe198737e87%2F460431808.jpg\u0026width=1200\u0026height=600\u0026fit=cover",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-09-19T12:27:16Z",
+      "summary_ja": "Title: AI companies sued for \"colluding\" to slow down\nArticle title: OpenAI, Anthropic, Google, SpaceXAI Hit With Antitrust Lawsuit\nDescription: Anthropic PBC, OpenAI OPCO LLC, SpaceXAI, and Google LLC made an illegal deal to collectively slow the pace of AI development, according to a new lawsuit, depriving paying subscribers of product improvements they were promised.\n\nArticle text:\nOpenAI, Anthropic, Google, SpaceXAI Hit With Antitrust Lawsuit\nSkip to content Bloomberg the Company \u0026 Its Products The Company \u0026 its Products Bloomberg Terminal Demo Request Bloomberg Anywhere Remote Login Bloomberg Anywhere Login Bloomberg Customer Support Customer Support Bloomberg\nConnecting decision makers to a dynamic network of information, people and ideas, Bloomberg quickly and accurately delivers business and financial information, news and insight around the world\nBloomberg Anywhere Remote Login…"
+    },
+    {
+      "rank": 12,
+      "hn_id": 49765823,
+      "title": "Don't treat surface-level AI metaphors as if they describe fundamental reality",
+      "title_ja": "Don't treat surface-level AI metaphors as if they describe fundamental reality",
+      "hn_url": "https://news.ycombinator.com/item?id=49765823",
+      "source_url": "https://blog.andymasley.com/p/dont-treat-surface-level-metaphors",
+      "image_url": "https://substackcdn.com/image/fetch/$s_!XsiD!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F204e75bb-fb8c-41a8-bacc-547797ce6fb1_1952x1000.png",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-09-19T11:59:44Z",
+      "summary_ja": "Title: Don't treat surface-level AI metaphors as if they describe fundamental reality\nArticle title: Don't treat surface-level metaphors about AI as if they describe fundamental reality\nDescription: Debates about whether AI is a “tool” or whether it’s wrong to “anthropomorphize” it often seem confused about what reality is made of\n\nArticle text:\nDon't treat surface-level metaphors about AI as if they describe fundamental reality\nAndy Masley\nSubscribe Sign in Artificial Intelligence Don’t treat surface-level metaphors about AI as if they describe fundamental reality\nDebates about whether AI is a “tool” or whether it’s wrong to “anthropomorphize” it often seem confused about what reality is made of\nAndy Masley Sep 19, 2026 37 11 8 Share A privilege of being a physics major is learning just how strange fundamental reality is compared to the concepts we developed to make sense of it. As far…"
+    },
+    {
+      "rank": 13,
       "hn_id": 49762958,
       "title": "A more sober look at the HuggingFace incident",
       "title_ja": "A more sober look at the HuggingFace incident",
@@ -85,7 +182,21 @@
       "summary_ja": "Title: A more sober look at the HuggingFace incident"
     },
     {
-      "rank": 7,
+      "rank": 14,
+      "hn_id": 49766056,
+      "title": "Hackers breach OpenAI using Claude tools, gaining access to employee accounts",
+      "title_ja": "Hackers breach OpenAI using Claude tools, gaining access to employee accounts",
+      "hn_url": "https://news.ycombinator.com/item?id=49766056",
+      "source_url": "https://www.tomshardware.com/tech-industry/cyber-security/hackers-breach-openai-using-claude-tools-gaining-access-to-employee-accounts-and-the-companys-internal-codebase-initiating-a-harmless-pull-request-as-proof-of-the-hack",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/YUDxAZxxyWFMPWzwJRmWvH-2560-80.jpg",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-09-19T12:35:34Z",
+      "summary_ja": "Title: Hackers breach OpenAI using Claude tools, gaining access to employee accounts\nArticle title: Hackers breach OpenAI using Claude tools, gaining access to employee accounts and the company's internal codebase — attackers initiated a 'harmless' pull request as proof of the hack | Tom's Hardware\nDescription: Researchers receive a $6,500 bounty after reporting the vulnerabilities\n\nArticle text:\nSkip to main content\nJoin Tom’s Hardware today\nUpgrade to Tom’s Hardware Premium\nExplore\nGO PREMIUM\nChoose how you want to join Tom’s Hardware\nMEMBER\nGet started with free access to reviews, badges and discussions.\nUnlock exclusive tools and insights for enthusiasts who want more.\nAccess Bench, Roadmaps, deep analysis and other exclusive tools.\nBench Performance Database\nDive into our proprietary testing data and compare hardware with detailed benchmarks.\nGo beyond the headlines with expert repo…"
+    },
+    {
+      "rank": 15,
       "hn_id": 49762955,
       "title": "AI Regulation and the China Question",
       "title_ja": "AI Regulation and the China Question",
@@ -96,6 +207,20 @@
       "comments": 0,
       "posted_at": "2026-09-19T03:15:41Z",
       "summary_ja": "Title: AI Regulation and the China Question"
+    },
+    {
+      "rank": 16,
+      "hn_id": 49765929,
+      "title": "The Pain Axis: LLMs Represent Self-Directed Harm and Act to Relieve It",
+      "title_ja": "The Pain Axis: LLMs Represent Self-Directed Harm and Act to Relieve It",
+      "hn_url": "https://news.ycombinator.com/item?id=49765929",
+      "source_url": "https://arxiv.org/abs/2609.16247",
+      "image_url": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-09-19T12:15:47Z",
+      "summary_ja": "Title: The Pain Axis: LLMs Represent Self-Directed Harm and Act to Relieve It\nArticle title: [2609.16247] The Pain Axis: LLMs Represent Self-Directed Harm and Act to Relieve It\nDescription: Abstract page for arXiv paper 2609.16247: The Pain Axis: LLMs Represent Self-Directed Harm and Act to Relieve It\n\nArticle text:\nSkip to main content\nSearch\nSubmit\nDonate\nLog in\nSearch arXiv\nPress Enter to search · Advanced search\n--\u003e\nComputer Science \u003e Artificial Intelligence\n[Submitted on 14 Sep 2026]\nTitle: The Pain Axis: LLMs Represent Self-Directed Harm and Act to Relieve It\nAbstract: Large language models sometimes behave in ways resembling human emotional responses, and recent work has identified internal representations that may explain this. We ask whether LLMs represent pain distinctly from fear, sadness, and generic negative valence, and whether this representation functions as pain would be…"
     }
   ]
 }

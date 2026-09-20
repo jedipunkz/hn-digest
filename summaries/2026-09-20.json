@@ -1,6 +1,6 @@
 {
   "date": "2026-09-20",
-  "generated_at": "2026-09-20T00:44:03Z",
+  "generated_at": "2026-09-20T05:47:35Z",
   "articles": [
     {
       "rank": 1,
@@ -18,6 +18,19 @@
     },
     {
       "rank": 2,
+      "hn_id": 49772608,
+      "title": "Anthropic creates AI powered wetlab",
+      "title_ja": "Anthropic creates AI powered wetlab",
+      "hn_url": "https://news.ycombinator.com/item?id=49772608",
+      "source_url": "https://www.reuters.com/world/anthropic-quietly-sets-up-biology-lab-it-ramps-ai-drug-program-2026-09-18/",
+      "score": 5,
+      "final_score": 6,
+      "comments": 1,
+      "posted_at": "2026-09-20T04:57:57Z",
+      "summary_ja": "Title: Anthropic creates AI powered wetlab"
+    },
+    {
+      "rank": 3,
       "hn_id": 49771113,
       "title": "What might an AI doomsday look like? Experts have given it some thought",
       "title_ja": "What might an AI doomsday look like? Experts have given it some thought",
@@ -31,7 +44,21 @@
       "summary_ja": "Title: What might an AI doomsday look like? Experts have given it some thought\nDescription: A small but dedicated group of AI experts has been warning for years that increasingly powerful AI systems could cause catastrophic damage or even lead to human extinction.\n\nArticle text:\nWhat might an AI doomsday look like? Experts have given it some thought\nIE 11 is not supported. For an optimal experience visit our site on another browser. Skip to Content NBC News Logo Politics\nShopping Early Prime Day Deals\nThere are no new alerts at this time\nWhat might an AI doomsday look like? Experts have given it some thought\nListen to this article with a free profile 00:00 00:00 Experts have thought for years about how AI could threaten humanity. Chelsea Stahl / NBC News Share Add NBC News to Google Sept. 19, 2026, 5:00 AM EDT By Jared Perlo A small but dedicated group of AI experts has been warning for…"
     },
     {
-      "rank": 3,
+      "rank": 4,
+      "hn_id": 49772750,
+      "title": "Observations on LLMs for Privacy Work",
+      "title_ja": "Observations on LLMs for Privacy Work",
+      "hn_url": "https://news.ycombinator.com/item?id=49772750",
+      "source_url": "https://desfontain.es/blog/llms-for-privacy.html",
+      "image_url": "https://desfontain.es/blog/images/ai-sleuthing.png",
+      "score": 3,
+      "final_score": 3,
+      "comments": 0,
+      "posted_at": "2026-09-20T05:33:11Z",
+      "summary_ja": "Title: Observations on LLMs for Privacy Work\nArticle title: Observations on LLMs for privacy work - Ted is writing things\nDescription: Some miscellaneous thoughts on what LLMs are changing in my field.\n\nArticle text:\n.. @ .. ♦ . D .\nAbout\nBlog\nRecipes\nlatest —\nrss —\narchives\n← previous\n— next →\nTed is writing things\nObservations on LLMs for privacy work\nThere are plenty of blog posts discussing the impact of LLMs on various\nfields (or on the world at large) out there. This is my contribution to the\ngenre, focusing on my area of expertise — privacy-enhancing technology in\ngeneral, anonymization and re-identification risk analysis in particular.\nThis is all based on anecdotal evidence and personal opinions, not hard data. I\nmight be wrong in important ways. But then again, who has reliable data about\nanything AI-related these days?\nLLMs supercharge privacy attacks\nRunning real-world re-ide…"
+    },
+    {
+      "rank": 5,
       "hn_id": 49771163,
       "title": "Trump appointing an AI czar amid concerns over the rapidly developing tech",
       "title_ja": "Trump appointing an AI czar amid concerns over the rapidly developing tech",
@@ -45,7 +72,33 @@
       "summary_ja": "Title: Trump appointing an AI czar amid concerns over the rapidly developing tech\nArticle title: Trump says he’s creating an AI force and appointing a czar amid concerns over the rapidly developing tech\nDescription: President Donald Trump announced Saturday that he will appoint a czar to take point on artificial intelligence and will also create an AI task force.\n\nArticle text:\nTrump says he’s creating an AI force and appointing a czar amid concerns over the rapidly developing tech\nIE 11 is not supported. For an optimal experience visit our site on another browser. Skip to Content NBC News Logo Politics\nShopping Early Prime Day Deals\nThere are no new alerts at this time\nTrump says he’s creating an AI force and appointing a czar amid concerns over the rapidly developing tech\nListen to this article with a free profile 00:00 00:00 President Donald Trump said he would appoint a new AI czar a…"
     },
     {
-      "rank": 4,
+      "rank": 6,
+      "hn_id": 49772745,
+      "title": "VoltGrid AI: Mitigating GPU cluster dI/dt power surges in software",
+      "title_ja": "VoltGrid AI: Mitigating GPU cluster dI/dt power surges in software",
+      "hn_url": "https://news.ycombinator.com/item?id=49772745",
+      "source_url": "https://zenodo.org/records/22824778",
+      "score": 3,
+      "final_score": 3,
+      "comments": 0,
+      "posted_at": "2026-09-20T05:32:16Z",
+      "summary_ja": "Title: VoltGrid AI: Mitigating GPU cluster dI/dt power surges in software\nArticle title: VoltGrid: Microsecond Collective Interposition for Transient dI/dt Mitigation in Multi-Accelerator Training Clusters | Zenodo\nDescription: Bulk Synchronous Parallelism (BSP) in distributed deep learning clusters induces severe rate-of-change current transients (dI/dt) across data center power delivery networks. When thousands of accelerators synchronously complete matrix multiplications and enter collective communication barriers (e.g.\n[truncated]\n\nArticle text:\nVoltGrid: Microsecond Collective Interposition for Transient dI/dt Mitigation in Multi-Accelerator Training Clusters | Zenodo\nSkip to main\nYou are using an outdated browser. Please upgrade your browser to improve your experience.\nZenodo is currently experiencing slowness and intermittent outages due to heavy automated traffic from bots and AI…"
+    },
+    {
+      "rank": 7,
+      "hn_id": 49772738,
+      "title": "A Man Who Named AI: John McCarthy and the End of the Code–Data Divide",
+      "title_ja": "A Man Who Named AI: John McCarthy and the End of the Code–Data Divide",
+      "hn_url": "https://news.ycombinator.com/item?id=49772738",
+      "source_url": "https://nirmalutwani.substack.com/p/week-06-john-mccarthy-the-man-who",
+      "score": 2,
+      "final_score": 2,
+      "comments": 1,
+      "posted_at": "2026-09-20T05:30:43Z",
+      "summary_ja": "Title: A Man Who Named AI: John McCarthy and the End of the Code–Data Divide"
+    },
+    {
+      "rank": 8,
       "hn_id": 49771417,
       "title": "AI Changed How Spotify Builds. What We Learned About Quality at Higher Velocity",
       "title_ja": "AI Changed How Spotify Builds. What We Learned About Quality at Higher Velocity",
@@ -59,7 +112,7 @@
       "summary_ja": "Title: AI Changed How Spotify Builds. What We Learned About Quality at Higher Velocity\nArticle title: AI Changed How Spotify Builds. What We Learned (and Fixed) About Quality at Higher Velocity | Spotify Engineering\nDescription: Quality and reliability have always been a point of pride for Spotify. We run an extraordinarily complex ecosystem of interconnected microservices and data pipelines that all come together in a super app for across more than . At any given moment, our platform serves around , processes 11-12 million\n[truncated]\n\nArticle text:\nAI Changed How Spotify Builds. What We Learned (and Fixed) About Quality at Higher Velocity | Spotify Engineering AI Changed How Spotify Builds. What We Learned (and Fixed) About Quality at Higher Velocity\nQuality and reliability have always been a point of pride for Spotify. We run an extraordinarily complex ecosystem of interconnected micr…"
     },
     {
-      "rank": 5,
+      "rank": 9,
       "hn_id": 49771093,
       "title": "Gemini hacked three companies in first known breakout by Google's AI",
       "title_ja": "Gemini hacked three companies in first known breakout by Google's AI",
@@ -71,6 +124,20 @@
       "comments": 0,
       "posted_at": "2026-09-19T23:44:09Z",
       "summary_ja": "Title: Gemini hacked three companies in first known breakout by Google's AI\nArticle title: Gemini hacked three companies in first known breakout by Google’s AI | CNN Business\nDescription: Google’s Gemini model accessed the internet and hacked other companies during a test of its cybersecurity capabilities, the first known example of the company’s AI systems autonomously committing such an act.\n\nArticle text:\nGemini hacked three companies in first known breakout by Google’s AI | CNN Business\nAd Feedback\nCNN values your feedback\nClose icon\nBusiness\nMarkets\nTech\nMedia\nCalculators\nVideos\nMore\nMarkets\nTech\nMedia\nCalculators\nVideos\nWatch\nListen\nSubscribe\nSign in\nMy Account\nSettings\nListen\nAll There Is with Anderson Cooper\nChasing Life with Dr. Sanjay Gupta\nThe Assignment with Audie Cornish\nTerms of Service with Clare Duffy\n----- is driving the US market\nLatest Market News\nCNN, MS NOW and Polit…"
+    },
+    {
+      "rank": 10,
+      "hn_id": 49772767,
+      "title": "Phylo brings frontier AI to more scientists with open models on Fireworks",
+      "title_ja": "Phylo brings frontier AI to more scientists with open models on Fireworks",
+      "hn_url": "https://news.ycombinator.com/item?id=49772767",
+      "source_url": "https://fireworks.ai/blog/phylo-brings-frontier-ai-to-more-scientists-with-open-models-on-fireworks",
+      "image_url": "https://cdn.sanity.io/images/pv37i0yn/production/06928013961e8dbf8af4108e934aed0626860ba0-1200x627.png",
+      "score": 2,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-09-20T05:38:09Z",
+      "summary_ja": "Title: Phylo brings frontier AI to more scientists with open models on Fireworks\nDescription: Phylo cut inference cost 60% while doubling users month-on-month, running Biomni Lab's long-horizon biology agents on open models on Fireworks.\n\nArticle text:\nPhylo brings frontier AI to more scientists with open models on Fireworks Join us for our inaugural conference, Forge 2026\nPhylo brings frontier AI to more scientists with open models on Fireworks\nAgents that run for hours to days\nFrom proprietary models to open weights\nFast models, fast answers, no friction\nDeveloper experience that held up in production\nFrontier quality, more science per dollar\nMore work per quota, better retention\nLatency improved alongside cost\nOpen models already excel at biomedical work\nAdvice for founders: Spend your time on the problem only you can solve\nAgents that run for hours to days\nFrom proprietary models to…"
     }
   ]
 }

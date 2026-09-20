@@ -1,0 +1,76 @@
+{
+  "date": "2026-09-20",
+  "generated_at": "2026-09-20T00:44:03Z",
+  "articles": [
+    {
+      "rank": 1,
+      "hn_id": 49771118,
+      "title": "Show HN: I created an open source locally usable full fledged AI platform",
+      "title_ja": "Show HN: I created an open source locally usable full fledged AI platform",
+      "hn_url": "https://news.ycombinator.com/item?id=49771118",
+      "source_url": "https://github.com/theguysudo/ENZO",
+      "image_url": "https://opengraph.githubassets.com/fc642ce27217d8b1a825789ee845eb838e5e0d8d04083900aa185862312e9fb9/theguysudo/ENZO",
+      "score": 7,
+      "final_score": 14,
+      "comments": 5,
+      "posted_at": "2026-09-19T23:47:35Z",
+      "summary_ja": "Title: Show HN: I created an open source locally usable full fledged AI platform\nArticle title: GitHub - theguysudo/ENZO: Self-hosted AI workspace with agents, skills, and tools (Gmail, Calendar) that runs entirely on your own provider API keys (BYOK). Bring your own keys — Groq, OpenRouter, NVIDIA, Hugging Face, Google AI. · GitHub\nDescription: Self-hosted AI workspace with agents, skills, and tools (Gmail, Calendar) that runs entirely on your own provider API keys (BYOK). Bring your own keys — Groq, OpenRouter, NVIDIA, Hugging Face, Google AI. - theguysudo/ENZO\nHN text: hi to all the readers this post is for my recent opensource project called ENZO now answering what is enzo so enzo is an opensource platform where i clubbed all the free available api for anyone use under one hood with more than 2000 models available to use for chatting coding researching and much more now answering the…"
+    },
+    {
+      "rank": 2,
+      "hn_id": 49771113,
+      "title": "What might an AI doomsday look like? Experts have given it some thought",
+      "title_ja": "What might an AI doomsday look like? Experts have given it some thought",
+      "hn_url": "https://news.ycombinator.com/item?id=49771113",
+      "source_url": "https://www.nbcnews.com/tech/tech-news/ai-doomers-human-extinction-rcna597950",
+      "image_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-09/260916-ai-doomer-scenarios-cs-18c146.jpg",
+      "score": 2,
+      "final_score": 4,
+      "comments": 0,
+      "posted_at": "2026-09-19T23:47:06Z",
+      "summary_ja": "Title: What might an AI doomsday look like? Experts have given it some thought\nDescription: A small but dedicated group of AI experts has been warning for years that increasingly powerful AI systems could cause catastrophic damage or even lead to human extinction.\n\nArticle text:\nWhat might an AI doomsday look like? Experts have given it some thought\nIE 11 is not supported. For an optimal experience visit our site on another browser. Skip to Content NBC News Logo Politics\nShopping Early Prime Day Deals\nThere are no new alerts at this time\nWhat might an AI doomsday look like? Experts have given it some thought\nListen to this article with a free profile 00:00 00:00 Experts have thought for years about how AI could threaten humanity. Chelsea Stahl / NBC News Share Add NBC News to Google Sept. 19, 2026, 5:00 AM EDT By Jared Perlo A small but dedicated group of AI experts has been warning for…"
+    },
+    {
+      "rank": 3,
+      "hn_id": 49771163,
+      "title": "Trump appointing an AI czar amid concerns over the rapidly developing tech",
+      "title_ja": "Trump appointing an AI czar amid concerns over the rapidly developing tech",
+      "hn_url": "https://news.ycombinator.com/item?id=49771163",
+      "source_url": "https://www.nbcnews.com/politics/white-house/artificial-intelligence-task-force-czar-technology-trump-rcna598688",
+      "image_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-09/260918-president-trump-vsb-2304-97bace.jpg",
+      "score": 3,
+      "final_score": 3,
+      "comments": 1,
+      "posted_at": "2026-09-19T23:53:07Z",
+      "summary_ja": "Title: Trump appointing an AI czar amid concerns over the rapidly developing tech\nArticle title: Trump says he’s creating an AI force and appointing a czar amid concerns over the rapidly developing tech\nDescription: President Donald Trump announced Saturday that he will appoint a czar to take point on artificial intelligence and will also create an AI task force.\n\nArticle text:\nTrump says he’s creating an AI force and appointing a czar amid concerns over the rapidly developing tech\nIE 11 is not supported. For an optimal experience visit our site on another browser. Skip to Content NBC News Logo Politics\nShopping Early Prime Day Deals\nThere are no new alerts at this time\nTrump says he’s creating an AI force and appointing a czar amid concerns over the rapidly developing tech\nListen to this article with a free profile 00:00 00:00 President Donald Trump said he would appoint a new AI czar a…"
+    },
+    {
+      "rank": 4,
+      "hn_id": 49771417,
+      "title": "AI Changed How Spotify Builds. What We Learned About Quality at Higher Velocity",
+      "title_ja": "AI Changed How Spotify Builds. What We Learned About Quality at Higher Velocity",
+      "hn_url": "https://news.ycombinator.com/item?id=49771417",
+      "source_url": "https://engineering.atspotify.com/2026/9/ai-changed-how-spotify-builds-what-we-learned-and-fixed-about-quality-at-higher-velocity",
+      "image_url": "https://images.ctfassets.net/p762jor363g1/6gLL3mDjx3AoPGWca14Xe7/c30c8bdfd06f78383da92f3df819d798/Option_2.1.png",
+      "score": 1,
+      "final_score": 2,
+      "comments": 1,
+      "posted_at": "2026-09-20T00:33:35Z",
+      "summary_ja": "Title: AI Changed How Spotify Builds. What We Learned About Quality at Higher Velocity\nArticle title: AI Changed How Spotify Builds. What We Learned (and Fixed) About Quality at Higher Velocity | Spotify Engineering\nDescription: Quality and reliability have always been a point of pride for Spotify. We run an extraordinarily complex ecosystem of interconnected microservices and data pipelines that all come together in a super app for across more than . At any given moment, our platform serves around , processes 11-12 million\n[truncated]\n\nArticle text:\nAI Changed How Spotify Builds. What We Learned (and Fixed) About Quality at Higher Velocity | Spotify Engineering AI Changed How Spotify Builds. What We Learned (and Fixed) About Quality at Higher Velocity\nQuality and reliability have always been a point of pride for Spotify. We run an extraordinarily complex ecosystem of interconnected micr…"
+    },
+    {
+      "rank": 5,
+      "hn_id": 49771093,
+      "title": "Gemini hacked three companies in first known breakout by Google's AI",
+      "title_ja": "Gemini hacked three companies in first known breakout by Google's AI",
+      "hn_url": "https://news.ycombinator.com/item?id=49771093",
+      "source_url": "https://www.cnn.com/2026/09/19/business/gemini-ai-hack-internet",
+      "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2094551676.jpg?c=16x9\u0026q=w_800,c_fill",
+      "score": 2,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-09-19T23:44:09Z",
+      "summary_ja": "Title: Gemini hacked three companies in first known breakout by Google's AI\nArticle title: Gemini hacked three companies in first known breakout by Google’s AI | CNN Business\nDescription: Google’s Gemini model accessed the internet and hacked other companies during a test of its cybersecurity capabilities, the first known example of the company’s AI systems autonomously committing such an act.\n\nArticle text:\nGemini hacked three companies in first known breakout by Google’s AI | CNN Business\nAd Feedback\nCNN values your feedback\nClose icon\nBusiness\nMarkets\nTech\nMedia\nCalculators\nVideos\nMore\nMarkets\nTech\nMedia\nCalculators\nVideos\nWatch\nListen\nSubscribe\nSign in\nMy Account\nSettings\nListen\nAll There Is with Anderson Cooper\nChasing Life with Dr. Sanjay Gupta\nThe Assignment with Audie Cornish\nTerms of Service with Clare Duffy\n----- is driving the US market\nLatest Market News\nCNN, MS NOW and Polit…"
+    }
+  ]
+}

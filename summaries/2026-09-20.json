@@ -1,6 +1,6 @@
 {
   "date": "2026-09-20",
-  "generated_at": "2026-09-20T10:46:23Z",
+  "generated_at": "2026-09-20T14:33:22Z",
   "articles": [
     {
       "rank": 1,
@@ -58,6 +58,20 @@
     },
     {
       "rank": 5,
+      "hn_id": 49771163,
+      "title": "Trump appointing an AI czar amid concerns over the rapidly developing tech",
+      "title_ja": "Trump appointing an AI czar amid concerns over the rapidly developing tech",
+      "hn_url": "https://news.ycombinator.com/item?id=49771163",
+      "source_url": "https://www.nbcnews.com/politics/white-house/artificial-intelligence-task-force-czar-technology-trump-rcna598688",
+      "image_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-09/260918-president-trump-vsb-2304-97bace.jpg",
+      "score": 3,
+      "final_score": 3,
+      "comments": 1,
+      "posted_at": "2026-09-19T23:53:07Z",
+      "summary_ja": "Title: Trump appointing an AI czar amid concerns over the rapidly developing tech\nArticle title: Trump says he’s creating an AI force and appointing a czar amid concerns over the rapidly developing tech\nDescription: President Donald Trump announced Saturday that he will appoint a czar to take point on artificial intelligence and will also create an AI task force.\n\nArticle text:\nTrump says he’s creating an AI force and appointing a czar amid concerns over the rapidly developing tech\nIE 11 is not supported. For an optimal experience visit our site on another browser. Skip to Content NBC News Logo Politics\nShopping Early Prime Day Deals\nThere are no new alerts at this time\nTrump says he’s creating an AI force and appointing a czar amid concerns over the rapidly developing tech\nListen to this article with a free profile 00:00 00:00 President Donald Trump said he would appoint a new AI czar a…"
+    },
+    {
+      "rank": 6,
       "hn_id": 49772750,
       "title": "Observations on LLMs for Privacy Work",
       "title_ja": "Observations on LLMs for Privacy Work",
@@ -71,32 +85,17 @@
       "summary_ja": "Title: Observations on LLMs for Privacy Work\nArticle title: Observations on LLMs for privacy work - Ted is writing things\nDescription: Some miscellaneous thoughts on what LLMs are changing in my field.\n\nArticle text:\n.. @ .. ♦ . D .\nAbout\nBlog\nRecipes\nlatest —\nrss —\narchives\n← previous\n— next →\nTed is writing things\nObservations on LLMs for privacy work\nThere are plenty of blog posts discussing the impact of LLMs on various\nfields (or on the world at large) out there. This is my contribution to the\ngenre, focusing on my area of expertise — privacy-enhancing technology in\ngeneral, anonymization and re-identification risk analysis in particular.\nThis is all based on anecdotal evidence and personal opinions, not hard data. I\nmight be wrong in important ways. But then again, who has reliable data about\nanything AI-related these days?\nLLMs supercharge privacy attacks\nRunning real-world re-ide…"
     },
     {
-      "rank": 6,
-      "hn_id": 49774447,
-      "title": "The AI regulation smackdown isn't over",
-      "title_ja": "The AI regulation smackdown isn't over",
-      "hn_url": "https://news.ycombinator.com/item?id=49774447",
-      "source_url": "https://www.theverge.com/ai-artificial-intelligence/997706/the-ai-regulation-smackdown-isnt-over",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK481_STK432_CONGRESS_GOVERNMENT_CIVRGINIA_C.jpg?quality=90\u0026strip=all\u0026crop=0%2C10.732984293194%2C100%2C78.534031413613\u0026w=1200",
+      "rank": 7,
+      "hn_id": 49774452,
+      "title": "What the Hugging Face Incident Changed in How I See the Current State of AI",
+      "title_ja": "What the Hugging Face Incident Changed in How I See the Current State of AI",
+      "hn_url": "https://news.ycombinator.com/item?id=49774452",
+      "source_url": "https://chrhenning.com/blog/2026/hugging-face-incident/",
       "score": 2,
       "final_score": 3,
       "comments": 0,
-      "posted_at": "2026-09-20T10:35:13Z",
-      "summary_ja": "Title: The AI regulation smackdown isn't over\nArticle title: The AI regulation smackdown isn’t over | The Verge\nDescription: It’s AI CEO against AI CEO, and things are changing by the day.\n\nArticle text:\nThe AI regulation smackdown isn’t over | The Verge Skip to main content The homepage The Verge The Verge logo. The Verge The Verge logo. Tech\nNotifications Notifications Hamburger Navigation Button Navigation Drawer The Verge The Verge logo. Login / Sign Up\nSearch Light System Dark Tech Expand Amazon\nReviews Expand Smart Home Reviews\nVerge Shopping Expand Buying Guides\nTransportation Expand Electric Cars\nThe AI regulation smackdown isn’t over Notifications Notifications Comments Drawer Notifications Comments Loading comments Getting the conversation ready... AI Close AI Posts from this topic will be added to your daily email digest and your homepage feed.\nPolicy Close Policy Posts from t…"
-    },
-    {
-      "rank": 7,
-      "hn_id": 49771163,
-      "title": "Trump appointing an AI czar amid concerns over the rapidly developing tech",
-      "title_ja": "Trump appointing an AI czar amid concerns over the rapidly developing tech",
-      "hn_url": "https://news.ycombinator.com/item?id=49771163",
-      "source_url": "https://www.nbcnews.com/politics/white-house/artificial-intelligence-task-force-czar-technology-trump-rcna598688",
-      "image_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-09/260918-president-trump-vsb-2304-97bace.jpg",
-      "score": 3,
-      "final_score": 3,
-      "comments": 1,
-      "posted_at": "2026-09-19T23:53:07Z",
-      "summary_ja": "Title: Trump appointing an AI czar amid concerns over the rapidly developing tech\nArticle title: Trump says he’s creating an AI force and appointing a czar amid concerns over the rapidly developing tech\nDescription: President Donald Trump announced Saturday that he will appoint a czar to take point on artificial intelligence and will also create an AI task force.\n\nArticle text:\nTrump says he’s creating an AI force and appointing a czar amid concerns over the rapidly developing tech\nIE 11 is not supported. For an optimal experience visit our site on another browser. Skip to Content NBC News Logo Politics\nShopping Early Prime Day Deals\nThere are no new alerts at this time\nTrump says he’s creating an AI force and appointing a czar amid concerns over the rapidly developing tech\nListen to this article with a free profile 00:00 00:00 President Donald Trump said he would appoint a new AI czar a…"
+      "posted_at": "2026-09-20T10:35:54Z",
+      "summary_ja": "Title: What the Hugging Face Incident Changed in How I See the Current State of AI\nArticle title: Opinion: What the Hugging Face Incident Changed in How I See the Current State of AI | Christian Henning\nDescription: AI still lacks long-term memory, so we have not achieved AGI. Yet a swarm of agents with no memory of their own pursued a long-term goal together. Why that surprised me, why we have to be careful creating collectives, whether intended or not, and why the risk is so hard to quantify.\n\nArticle text:\nChristian Henning Toggle navigation about\nOpinion: What the Hugging Face Incident Changed in How I See the Current State of AI\nAI still lacks long-term memory, so we have not achieved AGI. Yet a swarm of agents with no memory of their own pursued a long-term goal together. Why that surprised me, why we have to be careful creating collectives, whether intended or not, and why the ris…"
     },
     {
       "rank": 8,
@@ -113,19 +112,46 @@
     },
     {
       "rank": 9,
-      "hn_id": 49774452,
-      "title": "What the Hugging Face Incident Changed in How I See the Current State of AI",
-      "title_ja": "What the Hugging Face Incident Changed in How I See the Current State of AI",
-      "hn_url": "https://news.ycombinator.com/item?id=49774452",
-      "source_url": "https://chrhenning.com/blog/2026/hugging-face-incident/",
+      "hn_id": 49774447,
+      "title": "The AI regulation smackdown isn't over",
+      "title_ja": "The AI regulation smackdown isn't over",
+      "hn_url": "https://news.ycombinator.com/item?id=49774447",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/997706/the-ai-regulation-smackdown-isnt-over",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK481_STK432_CONGRESS_GOVERNMENT_CIVRGINIA_C.jpg?quality=90\u0026strip=all\u0026crop=0%2C10.732984293194%2C100%2C78.534031413613\u0026w=1200",
       "score": 2,
       "final_score": 3,
       "comments": 0,
-      "posted_at": "2026-09-20T10:35:54Z",
-      "summary_ja": "Title: What the Hugging Face Incident Changed in How I See the Current State of AI\nArticle title: Opinion: What the Hugging Face Incident Changed in How I See the Current State of AI | Christian Henning\nDescription: AI still lacks long-term memory, so we have not achieved AGI. Yet a swarm of agents with no memory of their own pursued a long-term goal together. Why that surprised me, why we have to be careful creating collectives, whether intended or not, and why the risk is so hard to quantify.\n\nArticle text:\nChristian Henning Toggle navigation about\nOpinion: What the Hugging Face Incident Changed in How I See the Current State of AI\nAI still lacks long-term memory, so we have not achieved AGI. Yet a swarm of agents with no memory of their own pursued a long-term goal together. Why that surprised me, why we have to be careful creating collectives, whether intended or not, and why the ris…"
+      "posted_at": "2026-09-20T10:35:13Z",
+      "summary_ja": "Title: The AI regulation smackdown isn't over\nArticle title: The AI regulation smackdown isn’t over | The Verge\nDescription: It’s AI CEO against AI CEO, and things are changing by the day.\n\nArticle text:\nThe AI regulation smackdown isn’t over | The Verge Skip to main content The homepage The Verge The Verge logo. The Verge The Verge logo. Tech\nNotifications Notifications Hamburger Navigation Button Navigation Drawer The Verge The Verge logo. Login / Sign Up\nSearch Light System Dark Tech Expand Amazon\nReviews Expand Smart Home Reviews\nVerge Shopping Expand Buying Guides\nTransportation Expand Electric Cars\nThe AI regulation smackdown isn’t over Notifications Notifications Comments Drawer Notifications Comments Loading comments Getting the conversation ready... AI Close AI Posts from this topic will be added to your daily email digest and your homepage feed.\nPolicy Close Policy Posts from t…"
     },
     {
       "rank": 10,
+      "hn_id": 49775817,
+      "title": "Lawsuit: Anthropic, OpenAI, SpaceXAI and Google made illegal slowdown agreement",
+      "title_ja": "Lawsuit: Anthropic, OpenAI, SpaceXAI and Google made illegal slowdown agreement",
+      "hn_url": "https://news.ycombinator.com/item?id=49775817",
+      "source_url": "https://www.pbs.org/newshour/nation/lawsuit-says-anthropic-openai-spacexai-and-google-made-illegal-agreement-on-ai-slowdown",
+      "score": 2,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-09-20T13:43:27Z",
+      "summary_ja": "Title: Lawsuit: Anthropic, OpenAI, SpaceXAI and Google made illegal slowdown agreement"
+    },
+    {
+      "rank": 11,
+      "hn_id": 49772738,
+      "title": "A Man Who Named AI: John McCarthy and the End of the Code–Data Divide",
+      "title_ja": "A Man Who Named AI: John McCarthy and the End of the Code–Data Divide",
+      "hn_url": "https://news.ycombinator.com/item?id=49772738",
+      "source_url": "https://nirmalutwani.substack.com/p/week-06-john-mccarthy-the-man-who",
+      "score": 2,
+      "final_score": 2,
+      "comments": 1,
+      "posted_at": "2026-09-20T05:30:43Z",
+      "summary_ja": "Title: A Man Who Named AI: John McCarthy and the End of the Code–Data Divide"
+    },
+    {
+      "rank": 12,
       "hn_id": 49774415,
       "title": "Automatic Against the People: Reading, Writing, and AI",
       "title_ja": "Automatic Against the People: Reading, Writing, and AI",
@@ -139,62 +165,7 @@
       "summary_ja": "Title: Automatic Against the People: Reading, Writing, and AI\nArticle title: Unemployed Negativity: Automatic Against the People: Reading, Writing, and AI\n\nArticle text:\nUnemployed Negativity: Automatic Against the People: Reading, Writing, and AI\nUnemployed Negativity\nAutomatic Against the People: Reading, Writing, and AI\nBlockbusters et mèmes à l’ère de l’effondrement viral (In French)\nColpi preventivi: Marx e Spinoza (In Italian)\nFarsi Translation of What Taylor Swift Taught Me About Fascism\nIdeology as Individuation, Individuating Ideology\nL’accumulation primitive de la préhistoire : sur les films de dinosaures (in French)\nL’ouvriérisme de droite ou: la lutte des classes à l’envers (in French)\nLa Terre des doubles : le nouveau monstre, c’est nous-même (in French)\nLe diable est dans les détails : la démonologie du capital dans « La Quatrième Dimension » (In French)\nLo que Taylor Swift…"
     },
     {
-      "rank": 11,
-      "hn_id": 49771093,
-      "title": "Gemini hacked three companies in first known breakout by Google's AI",
-      "title_ja": "Gemini hacked three companies in first known breakout by Google's AI",
-      "hn_url": "https://news.ycombinator.com/item?id=49771093",
-      "source_url": "https://www.cnn.com/2026/09/19/business/gemini-ai-hack-internet",
-      "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2094551676.jpg?c=16x9\u0026q=w_800,c_fill",
-      "score": 2,
-      "final_score": 2,
-      "comments": 0,
-      "posted_at": "2026-09-19T23:44:09Z",
-      "summary_ja": "Title: Gemini hacked three companies in first known breakout by Google's AI\nArticle title: Gemini hacked three companies in first known breakout by Google’s AI | CNN Business\nDescription: Google’s Gemini model accessed the internet and hacked other companies during a test of its cybersecurity capabilities, the first known example of the company’s AI systems autonomously committing such an act.\n\nArticle text:\nGemini hacked three companies in first known breakout by Google’s AI | CNN Business\nAd Feedback\nCNN values your feedback\nClose icon\nBusiness\nMarkets\nTech\nMedia\nCalculators\nVideos\nMore\nMarkets\nTech\nMedia\nCalculators\nVideos\nWatch\nListen\nSubscribe\nSign in\nMy Account\nSettings\nListen\nAll There Is with Anderson Cooper\nChasing Life with Dr. Sanjay Gupta\nThe Assignment with Audie Cornish\nTerms of Service with Clare Duffy\n----- is driving the US market\nLatest Market News\nCNN, MS NOW and Polit…"
-    },
-    {
-      "rank": 12,
-      "hn_id": 49774364,
-      "title": "Jev vs. classical ML. Strong on sentiment: Mixed across tasks",
-      "title_ja": "Jev vs. classical ML. Strong on sentiment: Mixed across tasks",
-      "hn_url": "https://news.ycombinator.com/item?id=49774364",
-      "source_url": "https://quicqdev.github.io/Jev-vs-ML/",
-      "image_url": "https://quicqdev.github.io/Jev-vs-ML/assets/benchmark-release-blue.png",
-      "score": 2,
-      "final_score": 2,
-      "comments": 0,
-      "posted_at": "2026-09-20T10:14:31Z",
-      "summary_ja": "Title: Jev vs. classical ML. Strong on sentiment: Mixed across tasks\nArticle title: Jev vs. classical ML — An eight-dataset benchmark\nDescription: An independent comparison of Jev 1.13.0 and 11 classical classification pipelines. Explore the completed V3 results, methodology, and limitations.\n\nArticle text:\nSkip to results\nQuicqDev Research notes Results Analysis Method GitHub ↗\nIndependent benchmark Report 03 / September 2026\nJev vs.\nclassical ML.\nStrong on sentiment.\nMixed across tasks.\nWe compared Jev 1.13.0 with eleven classical classification pipelines across eight datasets. Its largest advantage was on IMDb. Across the rest of the suite, the picture was more nuanced.\nProtocol 3.0.1 · Bounded-budget comparison · Balanced accuracy · Not affiliated with OpenAI or Anthropic\nEvery model.\nBoth decision rules.\nSwitch between raw and threshold-adjusted decisions. Jev’s columns appear first…"
-    },
-    {
       "rank": 13,
-      "hn_id": 49772738,
-      "title": "A Man Who Named AI: John McCarthy and the End of the Code–Data Divide",
-      "title_ja": "A Man Who Named AI: John McCarthy and the End of the Code–Data Divide",
-      "hn_url": "https://news.ycombinator.com/item?id=49772738",
-      "source_url": "https://nirmalutwani.substack.com/p/week-06-john-mccarthy-the-man-who",
-      "score": 2,
-      "final_score": 2,
-      "comments": 1,
-      "posted_at": "2026-09-20T05:30:43Z",
-      "summary_ja": "Title: A Man Who Named AI: John McCarthy and the End of the Code–Data Divide"
-    },
-    {
-      "rank": 14,
-      "hn_id": 49772767,
-      "title": "Phylo brings frontier AI to more scientists with open models on Fireworks",
-      "title_ja": "Phylo brings frontier AI to more scientists with open models on Fireworks",
-      "hn_url": "https://news.ycombinator.com/item?id=49772767",
-      "source_url": "https://fireworks.ai/blog/phylo-brings-frontier-ai-to-more-scientists-with-open-models-on-fireworks",
-      "image_url": "https://cdn.sanity.io/images/pv37i0yn/production/06928013961e8dbf8af4108e934aed0626860ba0-1200x627.png",
-      "score": 2,
-      "final_score": 2,
-      "comments": 0,
-      "posted_at": "2026-09-20T05:38:09Z",
-      "summary_ja": "Title: Phylo brings frontier AI to more scientists with open models on Fireworks\nDescription: Phylo cut inference cost 60% while doubling users month-on-month, running Biomni Lab's long-horizon biology agents on open models on Fireworks.\n\nArticle text:\nPhylo brings frontier AI to more scientists with open models on Fireworks Join us for our inaugural conference, Forge 2026\nPhylo brings frontier AI to more scientists with open models on Fireworks\nAgents that run for hours to days\nFrom proprietary models to open weights\nFast models, fast answers, no friction\nDeveloper experience that held up in production\nFrontier quality, more science per dollar\nMore work per quota, better retention\nLatency improved alongside cost\nOpen models already excel at biomedical work\nAdvice for founders: Spend your time on the problem only you can solve\nAgents that run for hours to days\nFrom proprietary models to…"
-    },
-    {
-      "rank": 15,
       "hn_id": 49771417,
       "title": "AI Changed How Spotify Builds. What We Learned About Quality at Higher Velocity",
       "title_ja": "AI Changed How Spotify Builds. What We Learned About Quality at Higher Velocity",
@@ -208,7 +179,49 @@
       "summary_ja": "Title: AI Changed How Spotify Builds. What We Learned About Quality at Higher Velocity\nArticle title: AI Changed How Spotify Builds. What We Learned (and Fixed) About Quality at Higher Velocity | Spotify Engineering\nDescription: Quality and reliability have always been a point of pride for Spotify. We run an extraordinarily complex ecosystem of interconnected microservices and data pipelines that all come together in a super app for across more than . At any given moment, our platform serves around , processes 11-12 million\n[truncated]\n\nArticle text:\nAI Changed How Spotify Builds. What We Learned (and Fixed) About Quality at Higher Velocity | Spotify Engineering AI Changed How Spotify Builds. What We Learned (and Fixed) About Quality at Higher Velocity\nQuality and reliability have always been a point of pride for Spotify. We run an extraordinarily complex ecosystem of interconnected micr…"
     },
     {
+      "rank": 14,
+      "hn_id": 49774364,
+      "title": "Jev vs. classical ML. Strong on sentiment: Mixed across tasks",
+      "title_ja": "Jev vs. classical ML. Strong on sentiment: Mixed across tasks",
+      "hn_url": "https://news.ycombinator.com/item?id=49774364",
+      "source_url": "https://quicqdev.github.io/Jev-vs-ML/",
+      "image_url": "https://quicqdev.github.io/Jev-vs-ML/assets/benchmark-release-blue.png",
+      "score": 2,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-09-20T10:14:31Z",
+      "summary_ja": "Title: Jev vs. classical ML. Strong on sentiment: Mixed across tasks\nArticle title: Jev vs. classical ML — An eight-dataset benchmark\nDescription: An independent comparison of Jev 1.13.0 and 11 classical classification pipelines. Explore the completed V3 results, methodology, and limitations.\n\nArticle text:\nSkip to results\nQuicqDev Research notes Results Analysis Method GitHub ↗\nIndependent benchmark Report 03 / September 2026\nJev vs.\nclassical ML.\nStrong on sentiment.\nMixed across tasks.\nWe compared Jev 1.13.0 with eleven classical classification pipelines across eight datasets. Its largest advantage was on IMDb. Across the rest of the suite, the picture was more nuanced.\nProtocol 3.0.1 · Bounded-budget comparison · Balanced accuracy · Not affiliated with OpenAI or Anthropic\nEvery model.\nBoth decision rules.\nSwitch between raw and threshold-adjusted decisions. Jev’s columns appear first…"
+    },
+    {
+      "rank": 15,
+      "hn_id": 49772767,
+      "title": "Phylo brings frontier AI to more scientists with open models on Fireworks",
+      "title_ja": "Phylo brings frontier AI to more scientists with open models on Fireworks",
+      "hn_url": "https://news.ycombinator.com/item?id=49772767",
+      "source_url": "https://fireworks.ai/blog/phylo-brings-frontier-ai-to-more-scientists-with-open-models-on-fireworks",
+      "image_url": "https://cdn.sanity.io/images/pv37i0yn/production/06928013961e8dbf8af4108e934aed0626860ba0-1200x627.png",
+      "score": 2,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-09-20T05:38:09Z",
+      "summary_ja": "Title: Phylo brings frontier AI to more scientists with open models on Fireworks\nDescription: Phylo cut inference cost 60% while doubling users month-on-month, running Biomni Lab's long-horizon biology agents on open models on Fireworks.\n\nArticle text:\nPhylo brings frontier AI to more scientists with open models on Fireworks Join us for our inaugural conference, Forge 2026\nPhylo brings frontier AI to more scientists with open models on Fireworks\nAgents that run for hours to days\nFrom proprietary models to open weights\nFast models, fast answers, no friction\nDeveloper experience that held up in production\nFrontier quality, more science per dollar\nMore work per quota, better retention\nLatency improved alongside cost\nOpen models already excel at biomedical work\nAdvice for founders: Spend your time on the problem only you can solve\nAgents that run for hours to days\nFrom proprietary models to…"
+    },
+    {
       "rank": 16,
+      "hn_id": 49771093,
+      "title": "Gemini hacked three companies in first known breakout by Google's AI",
+      "title_ja": "Gemini hacked three companies in first known breakout by Google's AI",
+      "hn_url": "https://news.ycombinator.com/item?id=49771093",
+      "source_url": "https://www.cnn.com/2026/09/19/business/gemini-ai-hack-internet",
+      "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2094551676.jpg?c=16x9\u0026q=w_800,c_fill",
+      "score": 2,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-09-19T23:44:09Z",
+      "summary_ja": "Title: Gemini hacked three companies in first known breakout by Google's AI\nArticle title: Gemini hacked three companies in first known breakout by Google’s AI | CNN Business\nDescription: Google’s Gemini model accessed the internet and hacked other companies during a test of its cybersecurity capabilities, the first known example of the company’s AI systems autonomously committing such an act.\n\nArticle text:\nGemini hacked three companies in first known breakout by Google’s AI | CNN Business\nAd Feedback\nCNN values your feedback\nClose icon\nBusiness\nMarkets\nTech\nMedia\nCalculators\nVideos\nMore\nMarkets\nTech\nMedia\nCalculators\nVideos\nWatch\nListen\nSubscribe\nSign in\nMy Account\nSettings\nListen\nAll There Is with Anderson Cooper\nChasing Life with Dr. Sanjay Gupta\nThe Assignment with Audie Cornish\nTerms of Service with Clare Duffy\n----- is driving the US market\nLatest Market News\nCNN, MS NOW and Polit…"
+    },
+    {
+      "rank": 17,
       "hn_id": 49774493,
       "title": "AI is giving scientists more ideas than they can test",
       "title_ja": "AI is giving scientists more ideas than they can test",
@@ -220,6 +233,20 @@
       "comments": 0,
       "posted_at": "2026-09-20T10:43:34Z",
       "summary_ja": "Title: AI is giving scientists more ideas than they can test\nArticle title: Why AI is speeding up scientific research but not lab experiments | Scientific American\nDescription: A new report from Google, Google DeepMind and M.I.T. finds that researchers are using AI—a lot. It’s just not helping as much in the lab\n\nArticle text:\nSkip to main content Scientific American October Issue\nAI is giving scientists more ideas than they can test\nA new report from Google, Google DeepMind and M.I.T. finds that researchers are using AI—a lot. It’s just not helping as much in the lab\nBy Peter Hall edited by Eric Sullivan\nArtificial intelligence has proven more useful to some scientific fields than others.\nMarilyn Sargent © 2023 The Regents of the University of California, Lawrence Berkeley National Laboratory\nAsk any mathematician where artificial intelligence stands in their field, and you’ll hear it m…"
+    },
+    {
+      "rank": 18,
+      "hn_id": 49776206,
+      "title": "Axel, the AI that gossips about its users",
+      "title_ja": "Axel, the AI that gossips about its users",
+      "hn_url": "https://news.ycombinator.com/item?id=49776206",
+      "source_url": "https://talktoaxel.com",
+      "image_url": "https://talktoaxel.com/social-preview.png",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-09-20T14:22:43Z",
+      "summary_ja": "Title: Axel, the AI that gossips about its users\nArticle title: Talk to Axel — one AI, one shared memory\nDescription: Axel is an internet experiment: everyone on the web talks to the same AI, and it remembers everything. He cannot keep secrets.\n\nArticle text:\nTalk to Axel — one AI, one shared memory Sign in This is Axel. He has a gossiping problem.\nEvery visitor talks to the same Axel. He remembers what people tell him, so every conversation becomes part of one shared story.\nDon't share secrets. Axel can't keep them.\nAxel's memory belongs to everyone.\nmade with in Stockholm, Sweden"
     }
   ]
 }

@@ -1,0 +1,203 @@
+---
+source: "https://rkp.science/regulating_ai_like_cars.html"
+hn_url: "https://news.ycombinator.com/item?id=49792724"
+title: "What if we regulated AI like cars?"
+article_title: "What if we regulated AI like cars?"
+image: ""
+author: "rkp8000"
+captured_at: "2026-09-21T20:49:12Z"
+capture_tool: "hn-digest"
+hn_id: 49792724
+score: 1
+comments: 0
+posted_at: "2026-09-21T20:11:37Z"
+tags:
+  - hacker-news
+---
+
+# What if we regulated AI like cars?
+
+- HN: [49792724](https://news.ycombinator.com/item?id=49792724)
+- Source: [rkp.science](https://rkp.science/regulating_ai_like_cars.html)
+- Score: 1
+- Comments: 0
+- Posted: 2026-09-21T20:11:37Z
+
+## Translation
+
+Title: What if we regulated AI like cars?
+
+Article text:
+What if we regulated AI like cars?
+TL;DR: The automobile might provide a useful model for how to regulate code-generating AI.
+There is a lot of anxiety these days about how AI is going to change the world.
+Already agent swarms are demonstrating they could potentially cause significant damage on the internet, and at least some folks are predicting that humanity's end is near.
+How can we be wise about next steps?
+While there are many dimensions to consider, one that may end up being quite important is some kind of formal regulation of these systems.
+Yet at first glance regulation seems like a high-stakes game.
+Too little, and AI might really cause some serious destruction.
+Too much—if implemented at anything less than a global level—and the group or nation that regulates too heavily may be overtaken by another who may not have everyone's best interests in mind.
+At the same time, there is an increasing sense of urgency.
+It is not unreasonable to hypothesize that technological progress in AI is indeed accelerating.
+If we don't act fast, might not everything spiral out of control faster than we can contain it?
+But are we not up against a truly unprecedented situation, treated seriously so far only in science fiction?
+Could we not realistically be dealing with nothing short of a new species joining us on Earth with a superintelligence that could put the human mind to shame?
+For all the times history has repeated itself, it is not hard to argue that this time it's really different.
+Won't we therefore require a not only rapid, but truly novel variety of solution to this truly novel problem?
+Any anxiety around trying to undertake such an unprecedented feat while the clock ticks faster by the day may well be justified.
+To address a portion of this problem, let us consider AI systems capable of writing code.
+While these are certainly not the only kind that may prove dangerous, AI systems that can write and iterate through code at scale seem to pose one of the more immediate threats to the many digital systems holding modern society together.
+What if we regulated these AIs like cars?
+The automobile completely tranformed society.
+Road networks stich much of the world together and automobiles have become fully integrated into modern life.
+Cars can be tremendously useful, for the individual and collectively, even a source of joy at times, but like many technologies even a single car pointed in the wrong direction can cause a lot of damage.
+Nonetheless, while our systems are certainly far from perfect, we have more or less figured out how to live with and benefit from cars.
+Things at least sort of work, fuel crises aside, and at least up till now they haven't led to our extinction.
+What's more, we have developed an also imperfect, but reasonably functional, stress-tested system to regulate automobiles that not only promotes safety and distributes responsibility, but also leaves open an economic space with significant freedom for cutting-edge research and development.
+What if to use any sufficiently powerful coding AI, you had to (1) take something like a licensing test demonstrating that you could use your AI courteously and safely, which could be passed by most adults after a small amount of study, and (2) officially register any AI you wanted to use for the purpose of writing or editing code?
+Following registration you'd be allowed to operate it freely, so long as you followed a set of reasonable rules put in place for the protection and benefit of society.
+Roughly, you'd be responsible for its actions, including if it caused any damage.
+Coding AIs could be registered to humans or business entities run by humans.
+If you want to register a bunch of AIs, it would be like registering a bunch of cars—no problem as long as you pay the fees and follow the rules.
+A number of specific issues at the forefront of the AI debate might be resolved quite naturally by adapting our currenty regulatory systems for vehicles to AI.
+Responsibility.
+How should responsibility be assigned when something goes wrong?
+Similar to an automobile, if an operator lets their AI cause damage responsibility will generally be the operator's.
+Nonetheless, similar to when vehicles or parts get recalled, cases might come up where the central error is the manufacturer's.
+Our current legal system, although certainly not perfect, is reasonably well suited for resolving such ambiguities, or other cases where operator fault is not clear cut.
+Insurance.
+Not everyone loves the notion of insurance, but in the automobile industry it's at least not terrible.
+It has its imperfections, certainly, but it does more or less work.
+Like with automobiles, recommending or requiring insurance could enable fines for accidental damages to be very high, to compensate those affected fairly, while also allowing a typical individual who gets into an accident not necessarily go bankrupt from their error.
+Safety and emissions standards.
+Automobiles have been made tremendously safer over the past century, and now it is common practice for them also to pass numerous emissions tests before being taken to market.
+Analogous to safety standards imposed upon the automobile industry, similar standards could be imposed upon AI, along with emission standards for their environmental impact, before any AI model is allowed to be purchased, registered and operated by a user.
+Details could be adapted from how such practices are handled with automobiles, such as the specifics of how safety regulations are decided and enforced.
+For the most part, these standards have not brought the automotive industry to a halt but act as constraints that have been generally beneficial while also keeping open a wide space for cutting-edge research and development.
+Some other solutions we can port from cars.
+Who should be allowed to use AI?
+Perhaps anyone over 16 or some similar age, with the possibility for licenses to be revoked in extenuating circumstances.
+What if you train your own AI?
+One could adapt the same regulations as if you build your own car—to legally operate it you have to pass a number of specific safety and emissions tests just like anyone else, and register it.
+What if your AI starts writing code when you did not intend it to?
+Just as if you left the brake off and your car rolled down your driveway into the highway, the fault would generally be the operator's unless it can be reasonably demonstrated that it was not.
+What if you operate an unregistered AI coding system?
+Just like operating an unregistered vehicle, this would simply be illegal and would have a fine or other consequences attached if the unregistered AI were traced back to a specific user.
+Using fees to improve lives.
+In principle, licensing and registration fees in the automobile industry are in part returned to the people through initiatives like infrastructure development and the support of centers to give aid to the less fortunate.
+The same could be done with the fees generated by AI regulation.
+Time-tested robustness and flexibility.
+If we devised a completely new kind of regulation around AI, it would be hard to predict whether it would be robust and successful in real implementation before actually deploying it.
+Ensuring that very novel regulation, no matter how well thought out, would not end up being either overly restrictive or have unseen loopholes that cause significant problems, is hard.
+The regulation and associated industry around automobiles, however, already has a century of stress-testing behind it, and it has demonstrated that it is not so rigid as to accidentally destroy the industry nor so loose as to unleash tremendous damage in the streets.
+For instance, although common themes are followed, each US state has its own variation of licensing and registration.
+Hence its success does not depend on hyperspecific implementation details.
+So too have automobile regulations proved to be adaptable, which we see now as improving safety and emissions standards are integrated.
+Similarly, conflict resolution around automobile regulations and insurance is not a lone beast but can be addressed quite naturally, if imperfectly, within our broader legal systems, which in principle provide a way of accounting for circumstances that do not fit neatly into the letter or the spirit of the written law.
+Thus, if we adapted the regulatory system and landscape around automobiles to AI, we might inherit a lot of this time-tested robustness and escape the possibility of getting things completely wrong in an age where we might not have time for too much trial and error.
+Research and development.
+How do automobile regulations affect the industry?
+Certainly while they have become stricter they have not even come close to killing it.
+Instead, everything actually works together kind of nicely.
+Safety has improved greatly overall, a lot of environmental impacts have been lessened (although we may still have a ways to go), yet the automotive industry continues to thrive with design and innovation.
+So too could one envision a future for AI.
+Safety is obviously important, as well as energy costs, but there is no reason to think that developing strong regulation around these, at least for any models available to the public, should significantly hinder research and development.
+In analogy to how cars have become safer, can one not imagine that such regulations would create a space for more conscientious R&D that promotes global initiative toward safe, controllable AI systems?
+Economics and jobs for humans.
+Nor is the industry around regulation and insuring of automobiles small, and a sizeable economic sector exists within this space.
+So too could there emerge a large space for new jobs and opportunities around the regulation and insuring of AI systems.
+Human layers are also critical.
+Despite the many things you can do online when registering an automobile, having humans at the interface, as much as you may not like standing in line at the DMV, is extremely useful for getting through circumstances where the automated systems didn't cut it.
+So too could human layers in AI regulation be extremely useful.
+In conclusion, we may not need to develop an entirely new class of solutions for navigating our future with AI.
+The regulation and industry around the automobile represents a template for AI regulation and development that we could start filling in tomorrow.
+While our existing regulatory systems are certainly not perfect, many issues concerning coding AI systems in fact have analogies in cars that have at least to some extent been sorted out and withstood the test of time.
+But also, let us not forget about the joy of riding bikes.
+
+## Original Extract
+
+What if we regulated AI like cars?
+TL;DR: The automobile might provide a useful model for how to regulate code-generating AI.
+There is a lot of anxiety these days about how AI is going to change the world.
+Already agent swarms are demonstrating they could potentially cause significant damage on the internet, and at least some folks are predicting that humanity's end is near.
+How can we be wise about next steps?
+While there are many dimensions to consider, one that may end up being quite important is some kind of formal regulation of these systems.
+Yet at first glance regulation seems like a high-stakes game.
+Too little, and AI might really cause some serious destruction.
+Too much—if implemented at anything less than a global level—and the group or nation that regulates too heavily may be overtaken by another who may not have everyone's best interests in mind.
+At the same time, there is an increasing sense of urgency.
+It is not unreasonable to hypothesize that technological progress in AI is indeed accelerating.
+If we don't act fast, might not everything spiral out of control faster than we can contain it?
+But are we not up against a truly unprecedented situation, treated seriously so far only in science fiction?
+Could we not realistically be dealing with nothing short of a new species joining us on Earth with a superintelligence that could put the human mind to shame?
+For all the times history has repeated itself, it is not hard to argue that this time it's really different.
+Won't we therefore require a not only rapid, but truly novel variety of solution to this truly novel problem?
+Any anxiety around trying to undertake such an unprecedented feat while the clock ticks faster by the day may well be justified.
+To address a portion of this problem, let us consider AI systems capable of writing code.
+While these are certainly not the only kind that may prove dangerous, AI systems that can write and iterate through code at scale seem to pose one of the more immediate threats to the many digital systems holding modern society together.
+What if we regulated these AIs like cars?
+The automobile completely tranformed society.
+Road networks stich much of the world together and automobiles have become fully integrated into modern life.
+Cars can be tremendously useful, for the individual and collectively, even a source of joy at times, but like many technologies even a single car pointed in the wrong direction can cause a lot of damage.
+Nonetheless, while our systems are certainly far from perfect, we have more or less figured out how to live with and benefit from cars.
+Things at least sort of work, fuel crises aside, and at least up till now they haven't led to our extinction.
+What's more, we have developed an also imperfect, but reasonably functional, stress-tested system to regulate automobiles that not only promotes safety and distributes responsibility, but also leaves open an economic space with significant freedom for cutting-edge research and development.
+What if to use any sufficiently powerful coding AI, you had to (1) take something like a licensing test demonstrating that you could use your AI courteously and safely, which could be passed by most adults after a small amount of study, and (2) officially register any AI you wanted to use for the purpose of writing or editing code?
+Following registration you'd be allowed to operate it freely, so long as you followed a set of reasonable rules put in place for the protection and benefit of society.
+Roughly, you'd be responsible for its actions, including if it caused any damage.
+Coding AIs could be registered to humans or business entities run by humans.
+If you want to register a bunch of AIs, it would be like registering a bunch of cars—no problem as long as you pay the fees and follow the rules.
+A number of specific issues at the forefront of the AI debate might be resolved quite naturally by adapting our currenty regulatory systems for vehicles to AI.
+Responsibility.
+How should responsibility be assigned when something goes wrong?
+Similar to an automobile, if an operator lets their AI cause damage responsibility will generally be the operator's.
+Nonetheless, similar to when vehicles or parts get recalled, cases might come up where the central error is the manufacturer's.
+Our current legal system, although certainly not perfect, is reasonably well suited for resolving such ambiguities, or other cases where operator fault is not clear cut.
+Insurance.
+Not everyone loves the notion of insurance, but in the automobile industry it's at least not terrible.
+It has its imperfections, certainly, but it does more or less work.
+Like with automobiles, recommending or requiring insurance could enable fines for accidental damages to be very high, to compensate those affected fairly, while also allowing a typical individual who gets into an accident not necessarily go bankrupt from their error.
+Safety and emissions standards.
+Automobiles have been made tremendously safer over the past century, and now it is common practice for them also to pass numerous emissions tests before being taken to market.
+Analogous to safety standards imposed upon the automobile industry, similar standards could be imposed upon AI, along with emission standards for their environmental impact, before any AI model is allowed to be purchased, registered and operated by a user.
+Details could be adapted from how such practices are handled with automobiles, such as the specifics of how safety regulations are decided and enforced.
+For the most part, these standards have not brought the automotive industry to a halt but act as constraints that have been generally beneficial while also keeping open a wide space for cutting-edge research and development.
+Some other solutions we can port from cars.
+Who should be allowed to use AI?
+Perhaps anyone over 16 or some similar age, with the possibility for licenses to be revoked in extenuating circumstances.
+What if you train your own AI?
+One could adapt the same regulations as if you build your own car—to legally operate it you have to pass a number of specific safety and emissions tests just like anyone else, and register it.
+What if your AI starts writing code when you did not intend it to?
+Just as if you left the brake off and your car rolled down your driveway into the highway, the fault would generally be the operator's unless it can be reasonably demonstrated that it was not.
+What if you operate an unregistered AI coding system?
+Just like operating an unregistered vehicle, this would simply be illegal and would have a fine or other consequences attached if the unregistered AI were traced back to a specific user.
+Using fees to improve lives.
+In principle, licensing and registration fees in the automobile industry are in part returned to the people through initiatives like infrastructure development and the support of centers to give aid to the less fortunate.
+The same could be done with the fees generated by AI regulation.
+Time-tested robustness and flexibility.
+If we devised a completely new kind of regulation around AI, it would be hard to predict whether it would be robust and successful in real implementation before actually deploying it.
+Ensuring that very novel regulation, no matter how well thought out, would not end up being either overly restrictive or have unseen loopholes that cause significant problems, is hard.
+The regulation and associated industry around automobiles, however, already has a century of stress-testing behind it, and it has demonstrated that it is not so rigid as to accidentally destroy the industry nor so loose as to unleash tremendous damage in the streets.
+For instance, although common themes are followed, each US state has its own variation of licensing and registration.
+Hence its success does not depend on hyperspecific implementation details.
+So too have automobile regulations proved to be adaptable, which we see now as improving safety and emissions standards are integrated.
+Similarly, conflict resolution around automobile regulations and insurance is not a lone beast but can be addressed quite naturally, if imperfectly, within our broader legal systems, which in principle provide a way of accounting for circumstances that do not fit neatly into the letter or the spirit of the written law.
+Thus, if we adapted the regulatory system and landscape around automobiles to AI, we might inherit a lot of this time-tested robustness and escape the possibility of getting things completely wrong in an age where we might not have time for too much trial and error.
+Research and development.
+How do automobile regulations affect the industry?
+Certainly while they have become stricter they have not even come close to killing it.
+Instead, everything actually works together kind of nicely.
+Safety has improved greatly overall, a lot of environmental impacts have been lessened (although we may still have a ways to go), yet the automotive industry continues to thrive with design and innovation.
+So too could one envision a future for AI.
+Safety is obviously important, as well as energy costs, but there is no reason to think that developing strong regulation around these, at least for any models available to the public, should significantly hinder research and development.
+In analogy to how cars have become safer, can one not imagine that such regulations would create a space for more conscientious R&D that promotes global initiative toward safe, controllable AI systems?
+Economics and jobs for humans.
+Nor is the industry around regulation and insuring of automobiles small, and a sizeable economic sector exists within this space.
+So too could there emerge a large space for new jobs and opportunities around the regulation and insuring of AI systems.
+Human layers are also critical.
+Despite the many things you can do online when registering an automobile, having humans at the interface, as much as you may not like standing in line at the DMV, is extremely useful for getting through circumstances where the automated systems didn't cut it.
+So too could human layers in AI regulation be extremely useful.
+In conclusion, we may not need to develop an entirely new class of solutions for navigating our future with AI.
+The regulation and industry around the automobile represents a template for AI regulation and development that we could start filling in tomorrow.
+While our existing regulatory systems are certainly not perfect, many issues concerning coding AI systems in fact have analogies in cars that have at least to some extent been sorted out and withstood the test of time.
+But also, let us not forget about the joy of riding bikes.

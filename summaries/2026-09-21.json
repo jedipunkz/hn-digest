@@ -1,9 +1,65 @@
 {
   "date": "2026-09-21",
-  "generated_at": "2026-09-21T03:39:13Z",
+  "generated_at": "2026-09-21T09:41:16Z",
   "articles": [
     {
       "rank": 1,
+      "hn_id": 49784873,
+      "title": "Show HN: Bitcoin-rs – An AI-assisted Bitcoin full node in Rust",
+      "title_ja": "Show HN: Bitcoin-rs – An AI-assisted Bitcoin full node in Rust",
+      "hn_url": "https://news.ycombinator.com/item?id=49784873",
+      "source_url": "https://github.com/gosuda/bitcoin-rs",
+      "image_url": "https://opengraph.githubassets.com/3951470d4439bcdd14f1d38782bdd42c144752d4cc3ffe0340fa9b74302433a4/gosuda/bitcoin-rs",
+      "score": 7,
+      "final_score": 14,
+      "comments": 1,
+      "posted_at": "2026-09-21T09:03:05Z",
+      "summary_ja": "Title: Show HN: Bitcoin-rs – An AI-assisted Bitcoin full node in Rust\nArticle title: GitHub - gosuda/bitcoin-rs: Bitcoin full node implementation in Rust · GitHub\nDescription: Bitcoin full node implementation in Rust. Contribute to gosuda/bitcoin-rs development by creating an account on GitHub.\nHN text: I’m building bitcoin-rs, an independent Bitcoin full node in Rust, using AI aggressively for implementation. I think Bitcoin is a particularly good target for AI-era development because implementations can be verified against strong external references. In bitcoin-rs, I use libbitcoinkernel as one of the main compatibility oracles.\n\nArticle text:\nGitHub - gosuda/bitcoin-rs: Bitcoin full node implementation in Rust · GitHub\nSkip to content\nNavigation Menu\nSign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI\nGitHub Copilot app Direct agents from iss…"
+    },
+    {
+      "rank": 2,
+      "hn_id": 49784855,
+      "title": "I'm afraid of spiders. So I made AI look at 2k of them",
+      "title_ja": "I'm afraid of spiders. So I made AI look at 2k of them",
+      "hn_url": "https://news.ycombinator.com/item?id=49784855",
+      "source_url": "https://labqoat.com/blog/how-well-can-ai-identify-spiders",
+      "image_url": "https://labqoat.com/spider-bench/og.jpg",
+      "score": 4,
+      "final_score": 8,
+      "comments": 0,
+      "posted_at": "2026-09-21T09:00:37Z",
+      "summary_ja": "Title: I'm afraid of spiders. So I made AI look at 2k of them\nArticle title: I’m Afraid of Spiders. So I Made AI Look at 2,000 of Them. · Labqoat\nDescription: I’m afraid of spiders, so I made AI look at 2,000 of them. What it got right, what it got wrong, and how much it cost.\n\nArticle text:\nI’m Afraid of Spiders. So I Made AI Look at 2,000 of Them. · Labqoat Skip to content labqoat Platform 01 Compute 02 Research 03 Blog Our philosophy Explore the lab Menu + ← All posts September 11, 2026 Benchmarks 5 min read\nI’m Afraid of Spiders. So I Made AI Look at 2,000 of Them.\nFirst, approximately ten seconds of biology\nIs getting half wrong actually bad?\nI’m afraid of spiders. A lot. 🕷️\nMy identification system currently consists of “the one with long legs” and “the short but big one.” There’s also “where the fuck did it go,” but that’s more of an emergency than a classification.\nSo I got curio…"
+    },
+    {
+      "rank": 3,
+      "hn_id": 49784816,
+      "title": "Don't Use AI to Write",
+      "title_ja": "Don't Use AI to Write",
+      "hn_url": "https://news.ycombinator.com/item?id=49784816",
+      "source_url": "https://paulbakker.io/writing/no-ai-for-writing/",
+      "image_url": "https://paulbakker.io/images/paul-bakker.jpg",
+      "score": 2,
+      "final_score": 4,
+      "comments": 0,
+      "posted_at": "2026-09-21T08:54:44Z",
+      "summary_ja": "Title: Don't Use AI to Write\nArticle title: Don't use AI to write | Paul Bakker\nDescription: Writing requires thinking, don\n\nArticle text:\nDon't use AI to write | Paul Bakker Skip to content PB Paul Bakker Articles\nWriting requires thinking, don't let an AI do the thinking for you.\nTools like Claude, Codex/ChatGPT and Gemini are great.\nI use them all day (both at work and personally) for coding, research, digging through data, collecting information etc.\nBut what I don’t use them for is writing, and I strongly suggest you do the same.\nWriting forces you to deeply think about the problem you’re solving, and what you’re trying to communicate to your readers.\nThis is why writing is hard, but also why writing is such a useful tool to help you think.\nIf you generate a document based on some bullet points, or whatever the source is, you’re skipping the thinking step.\nThe result probably looks…"
+    },
+    {
+      "rank": 4,
+      "hn_id": 49784978,
+      "title": "Nvidia boss says there is '0% chance' AI destroys the world by 2030",
+      "title_ja": "Nvidia boss says there is '0% chance' AI destroys the world by 2030",
+      "hn_url": "https://news.ycombinator.com/item?id=49784978",
+      "source_url": "https://www.theguardian.com/technology/2026/sep/21/nvidia-boss-jensen-huang-dismisses-warnings-ai-destroys-world-anthropic",
+      "image_url": "https://i.guim.co.uk/img/media/b253374373d90df65a80636c48e0e49c982a8f75/266_0_4968_3974/master/4968.jpg?width=1200\u0026height=630\u0026quality=85\u0026auto=format\u0026fit=crop\u0026precrop=40:21,offset-x50,offset-y0\u0026overlay-align=bottom%2Cleft\u0026overlay-width=100p\u0026overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc\u0026enable=upscale\u0026s=2e9d797ea0dba3e3f9ec5f2d57e0accb",
+      "score": 3,
+      "final_score": 3,
+      "comments": 0,
+      "posted_at": "2026-09-21T09:21:09Z",
+      "summary_ja": "Title: Nvidia boss says there is '0% chance' AI destroys the world by 2030\nArticle title: Nvidia boss says there is ‘0% chance’ AI destroys the world by 2030 | AI (artificial intelligence) | The Guardian\nDescription: Jensen Huang dismisses warnings from former Anthropic researcher and others as ‘doomsday narratives’\n\nArticle text:\nSkip to main content Skip to navigation Close dialogue 1 / 1 Next image Previous image Toggle caption Print subscriptions Newsletters Sign in US US edition\nHide expanded menu News View all News\nSearch input google-search Search\nSearch input google-search Search Search jobs\nNvidia’s Jensen Huang said predictions of an extinction-level event caused by AI were ‘not grounded in science’. Photograph: Manami Yamada/Reuters View image in fullscreen Nvidia’s Jensen Huang said predictions of an extinction-level event caused by AI were ‘not grounded in science’. Photogra…"
+    },
+    {
+      "rank": 5,
       "hn_id": 49782644,
       "title": "A Silicon Valley radical: Trump's AI whisperer pushing for limited regulation",
       "title_ja": "A Silicon Valley radical: Trump's AI whisperer pushing for limited regulation",
@@ -15,6 +71,48 @@
       "comments": 0,
       "posted_at": "2026-09-21T03:13:03Z",
       "summary_ja": "Title: A Silicon Valley radical: Trump's AI whisperer pushing for limited regulation\nArticle title: ‘An out-of-touch Silicon Valley radical’: meet Trump’s AI whisperer pushing for limited regulation | Trump administration | The Guardian\nDescription: David Sacks convinced Trump against any restrictions on AI – putting the White House out of step with its own party\n\nArticle text:\nSkip to main content Skip to navigation Close dialogue 1 / 1 Next image Previous image Toggle caption Print subscriptions Newsletters Sign in US US edition\nHide expanded menu News View all News\nSearch input google-search Search\nSearch input google-search Search Search jobs\nDavid Sacks, CEO of Zenefits, speaks during 2016 TechCrunch Disrupt in San Francisco, California, on 13 September 2016. Photograph: Beck Diefenbach/Reuters View image in fullscreen David Sacks, CEO of Zenefits, speaks during 2016 TechCrunch Disr…"
+    },
+    {
+      "rank": 6,
+      "hn_id": 49784817,
+      "title": "AI Data Center Basics: What Is Linear Pluggable Optics (LPO)?",
+      "title_ja": "AI Data Center Basics: What Is Linear Pluggable Optics (LPO)?",
+      "hn_url": "https://news.ycombinator.com/item?id=49784817",
+      "source_url": "https://blog.semtech.fr/ai-data-center-basics-what-is-linear-pluggable-optics-lpo",
+      "image_url": "https://blog.semtech.fr/hubfs/SIP-BLOG-What%20is%20LPO-Banner-1400x600.jpg",
+      "score": 1,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-09-21T08:54:46Z",
+      "summary_ja": "Title: AI Data Center Basics: What Is Linear Pluggable Optics (LPO)?\nDescription: What is linear pluggable optics (LPO)? Learn how LPO vs DSP optics differ, and why LPO is cutting data center power consumption in AI interconnect deployments.\n\nArticle text:\nAI Data Center Basics: What Is Linear Pluggable Optics (LPO)?\nSkip to main content\nCross Reference\nL o R a ®\nL o R a ® Overview\nL o R a Overview\nLoRa is the de facto wireless platform of Internet of Things (IoT). Semtech's LoRa chipsets connect sensors to the Cloud and enable real-time communication of data and analytics that can be utilized to enhance efficiency and productivity.\nApplications\nApplications Overview\nWith an ever-increasing number of IoT vertical applications, LoRa devices and the LoRaWAN standard is creating business efficiencies and improving lives around the world.\nLoRa is bolstered by a diverse global ecosystem of ha…"
+    },
+    {
+      "rank": 7,
+      "hn_id": 49784718,
+      "title": "The Economic Incentives Behind the Push to Pause AI",
+      "title_ja": "The Economic Incentives Behind the Push to Pause AI",
+      "hn_url": "https://news.ycombinator.com/item?id=49784718",
+      "source_url": "https://www.vincentschmalbach.com/economic-incentives-behind-the-push-to-pause-ai/",
+      "image_url": "https://www.vincentschmalbach.com/wp-content/uploads/2021/05/Vincent-Schmalbach-draft01.jpg",
+      "score": 2,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-09-21T08:40:46Z",
+      "summary_ja": "Title: The Economic Incentives Behind the Push to Pause AI\nArticle title: The Economic Incentives Behind the Push to Pause AI - Vincent Schmalbach\nDescription: On September 12, Dario Amodei published an essay called We Must Pace the Frontier, which says the AI industry should slow down how fast it improves its models.\n\nArticle text:\nThe Economic Incentives Behind the Push to Pause AI - Vincent Schmalbach\nSkip to content\nSoftware Developer\nHome\nServices\nCustom Laravel App Development\nLaravel Performance Optimization\nTechnical Team Leadership \u0026 Mentoring\nLaravel Development Consulting\nThe Economic Incentives Behind the Push to Pause AI\nSeptember 21, 2026\nby Vincent Schmalbach\nOn September 12, Dario Amodei published an essay called We Must Pace the Frontier , which says the AI industry should slow down how fast it improves its models. Sam Altman agreed the same day , and Elon Musk, whose Sp…"
+    },
+    {
+      "rank": 8,
+      "hn_id": 49784843,
+      "title": "Thomson-1.0-Small LLM Developed by Thomson Reuters",
+      "title_ja": "Thomson-1.0-Small LLM Developed by Thomson Reuters",
+      "hn_url": "https://news.ycombinator.com/item?id=49784843",
+      "source_url": "https://featherless.ai/models/thomsonreuters/Thomson-1.0-Small",
+      "image_url": "https://featherless.ai/images/feather-icon.png",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-09-21T08:58:46Z",
+      "summary_ja": "Title: Thomson-1.0-Small LLM Developed by Thomson Reuters\nArticle title: Run Thomson-1.0-Small API (Easy Deployment \u0026 Flat-Rate Pricing)\nDescription: Deploy Thomson-1.0-Small (35.1B parameters) via OpenAI-compatible API with 32K context. Flat-rate pricing from $25/month. Thomson-1.0-Small is a 35.1 bi...\n\nArticle text:\nthomsonreuters/Thomson-1.0-Small\nWarm Thomson-1.0-Small is a 35.1 billion parameter Mixture-of-Experts causal language model developed by Thomson Reuters, built upon the Qwen3.6-35B-A3B architecture. It is designed for high-stakes professional work across legal, tax, and journalism domains, leveraging a continual learning paradigm and a 262,144 token context length. The model demonstrates strong performance in domain-specific tasks like legal document processing, tax Q\u0026A, and deep research, while maintaining general capabilities.\nThomson-1.0-Small is a 35.1 billion paramet…"
     }
   ]
 }

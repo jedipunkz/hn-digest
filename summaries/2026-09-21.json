@@ -1,6 +1,6 @@
 {
   "date": "2026-09-21",
-  "generated_at": "2026-09-21T09:41:16Z",
+  "generated_at": "2026-09-21T16:16:20Z",
   "articles": [
     {
       "rank": 1,
@@ -32,6 +32,33 @@
     },
     {
       "rank": 3,
+      "hn_id": 49788851,
+      "title": "Goodnotes releases new AI notetaker",
+      "title_ja": "Goodnotes releases new AI notetaker",
+      "hn_url": "https://news.ycombinator.com/item?id=49788851",
+      "source_url": "https://goodmeet.com/",
+      "score": 4,
+      "final_score": 5,
+      "comments": 2,
+      "posted_at": "2026-09-21T15:51:29Z",
+      "summary_ja": "Title: Goodnotes releases new AI notetaker\nArticle title: Goodmeet – The AI meeting notetaker without privacy tradeoffs\nDescription: Goodmeet transcribes your meetings on your Mac, summarizes them inside confidential computing, and end-to-end encrypts everything you sync or share. It takes notes, not your data.\n\nArticle text:\nGoodmeet – The AI meeting notetaker without privacy tradeoffs\nHow it works\nPrivacy\nFAQ\nDownload for Mac Download\nPrivate by design, not by promise\nThe AI meeting notetaker\nwithout privacy tradeoffs\nGoodmeet beta is free to try on any Mac with Apple silicon (M-series and A-series chips)\nGoodmeet is a Mac app. Send yourself the link and install it on your Mac.\nSee how it works\nGoodmeet is a Mac app. Email yourself the link and install it on your Mac.\nSee how it works\nQ4 strategy offsite\nSummary\nNotes\nTranscript\nThu 10 Sep\nTranscribing on this Mac · audio never uploade…"
+    },
+    {
+      "rank": 4,
+      "hn_id": 49789120,
+      "title": "Amazon blocks Meta's Muse AI shopping agent",
+      "title_ja": "Amazon blocks Meta's Muse AI shopping agent",
+      "hn_url": "https://news.ycombinator.com/item?id=49789120",
+      "source_url": "https://www.theregister.com/ai-and-ml/2026/09/21/amazon-shows-metas-muse-ai-shopping-agent-the-door/5297777",
+      "image_url": "https://image.theregister.com/5297782.jpg?imageId=5297782\u0026x=0\u0026y=12.83\u0026cropw=100\u0026croph=84.87\u0026panox=0\u0026panoy=12.83\u0026panow=100\u0026panoh=84.87\u0026width=1200\u0026height=683",
+      "score": 2,
+      "final_score": 4,
+      "comments": 1,
+      "posted_at": "2026-09-21T16:08:50Z",
+      "summary_ja": "Title: Amazon blocks Meta's Muse AI shopping agent\nArticle title: Amazon shows Meta's Muse AI shopping agent the door\nDescription: Retailer cites credentials and transparency concerns while guarding its lucrative customer journey\n\nArticle text:\nJump to main content\nSearch\nTOPICS\nSpecial Features\nAll Special Features\nCloud Infrastructure Month 2026\nModernizing Financial Services with FIS and AWS\nMake it real with Capgemini and AWS\nNutanix: Scale Kubernetes. Not Chaos.\nAmazon shows Meta's Muse AI shopping agent the door\nRetailer cites credentials and transparency concerns while guarding its lucrative customer journey\nAWS says wartime damage means some Middle East cloud resources are gone for good\n5 days ago\nAmazon-branded plane in fatal accident at Miami Airport\n14 days ago\nZuck's Muse to Spark joy with open weights release 'soon'\n18 days ago\nA lot of datacenter networks are run by absolut…"
+    },
+    {
+      "rank": 5,
       "hn_id": 49784816,
       "title": "Don't Use AI to Write",
       "title_ja": "Don't Use AI to Write",
@@ -45,7 +72,7 @@
       "summary_ja": "Title: Don't Use AI to Write\nArticle title: Don't use AI to write | Paul Bakker\nDescription: Writing requires thinking, don\n\nArticle text:\nDon't use AI to write | Paul Bakker Skip to content PB Paul Bakker Articles\nWriting requires thinking, don't let an AI do the thinking for you.\nTools like Claude, Codex/ChatGPT and Gemini are great.\nI use them all day (both at work and personally) for coding, research, digging through data, collecting information etc.\nBut what I don’t use them for is writing, and I strongly suggest you do the same.\nWriting forces you to deeply think about the problem you’re solving, and what you’re trying to communicate to your readers.\nThis is why writing is hard, but also why writing is such a useful tool to help you think.\nIf you generate a document based on some bullet points, or whatever the source is, you’re skipping the thinking step.\nThe result probably looks…"
     },
     {
-      "rank": 4,
+      "rank": 6,
       "hn_id": 49784978,
       "title": "Nvidia boss says there is '0% chance' AI destroys the world by 2030",
       "title_ja": "Nvidia boss says there is '0% chance' AI destroys the world by 2030",
@@ -59,7 +86,49 @@
       "summary_ja": "Title: Nvidia boss says there is '0% chance' AI destroys the world by 2030\nArticle title: Nvidia boss says there is ‘0% chance’ AI destroys the world by 2030 | AI (artificial intelligence) | The Guardian\nDescription: Jensen Huang dismisses warnings from former Anthropic researcher and others as ‘doomsday narratives’\n\nArticle text:\nSkip to main content Skip to navigation Close dialogue 1 / 1 Next image Previous image Toggle caption Print subscriptions Newsletters Sign in US US edition\nHide expanded menu News View all News\nSearch input google-search Search\nSearch input google-search Search Search jobs\nNvidia’s Jensen Huang said predictions of an extinction-level event caused by AI were ‘not grounded in science’. Photograph: Manami Yamada/Reuters View image in fullscreen Nvidia’s Jensen Huang said predictions of an extinction-level event caused by AI were ‘not grounded in science’. Photogra…"
     },
     {
-      "rank": 5,
+      "rank": 7,
+      "hn_id": 49788598,
+      "title": "Bootstrap scripts for ML workloads on a few GPU cloud providers",
+      "title_ja": "Bootstrap scripts for ML workloads on a few GPU cloud providers",
+      "hn_url": "https://news.ycombinator.com/item?id=49788598",
+      "source_url": "https://github.com/tudormunteanu/gpu-cloud-instance-boostraps",
+      "image_url": "https://opengraph.githubassets.com/c1264d13bbdd7dce2d31ecb0b835edfc5ad4aca73853f175e823daacc917b570/tudormunteanu/gpu-cloud-instance-boostraps",
+      "score": 1,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-09-21T15:32:39Z",
+      "summary_ja": "Title: Bootstrap scripts for ML workloads on a few GPU cloud providers\nArticle title: GitHub - tudormunteanu/gpu-cloud-instance-boostraps · GitHub\nDescription: Contribute to tudormunteanu/gpu-cloud-instance-boostraps development by creating an account on GitHub.\n\nArticle text:\nGitHub - tudormunteanu/gpu-cloud-instance-boostraps · GitHub\nSkip to content\nNavigation Menu\nSign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI\nGitHub Copilot app Direct agents from issue to merge\nMCP Registry Integrate external tools\nDEVELOPER WORKFLOWS Actions Automate any workflow\nCodespaces Instant dev environments\nCode Review Manage code changes\nCode Quality Enforce quality at merge\nAPPLICATION SECURITY GitHub Advanced Security Find and fix vulnerabilities\nCode security Secure your code as you build\nSecret protection Stop leaks before they start\nSolutions BY COMPANY…"
+    },
+    {
+      "rank": 8,
+      "hn_id": 49788911,
+      "title": "US District Court Decision in AI's Favor Worries Open-Source Developers",
+      "title_ja": "US District Court Decision in AI's Favor Worries Open-Source Developers",
+      "hn_url": "https://news.ycombinator.com/item?id=49788911",
+      "source_url": "https://devops.com/us-district-court-decision-in-ais-favor-worries-open-source-developers/",
+      "image_url": "https://devops.com/wp-content/uploads/2026/09/ai_open_source_court_ruling_770x330.jpg",
+      "score": 1,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-09-21T15:54:53Z",
+      "summary_ja": "Title: US District Court Decision in AI's Favor Worries Open-Source Developers\nArticle title: US District Court Decision in AI's Favor Worries Open-Source Developers - DevOps.com\nDescription: A court handed GitHub, Microsoft, and OpenAI a win in the first major appellate ruling over how AI coding tools can use open-source code.\n\nArticle text:\nUS District Court Decision in AI's Favor Worries Open-Source Developers - DevOps.com\nSign up for our newsletter!\nStay informed on the latest DevOps news\nVideos/Podcasts\nTechstrong.tv Podcast\nRelated Sites\nTechstrong Group\nApplication Performance Management/Monitoring\nUS District Court Decision in AI’s Favor Worries Open-Source Developers\nBy: Steven J. Vaughan-Nichols on September 18, 2026\n– The Ninth Circuit ruled that AI-generated code lacking copyright management information does not automatically violate Section 1202 of the DMCA.\n– The decision g…"
+    },
+    {
+      "rank": 9,
+      "hn_id": 49789016,
+      "title": "How an AI agent beat Universal Paperclips in 1:21:23 (WR was 1:33:42)",
+      "title_ja": "How an AI agent beat Universal Paperclips in 1:21:23 (WR was 1:33:42)",
+      "hn_url": "https://news.ycombinator.com/item?id=49789016",
+      "source_url": "https://universal-paperclips-ai.netlify.app/",
+      "image_url": "https://universal-paperclips-ai.netlify.app/og-image.png",
+      "score": 1,
+      "final_score": 2,
+      "comments": 1,
+      "posted_at": "2026-09-21T16:02:24Z",
+      "summary_ja": "Title: How an AI agent beat Universal Paperclips in 1:21:23 (WR was 1:33:42)\nArticle title: An AI Beat the Universal Paperclips World Record (1:21:23) | PCIA Study\nDescription: How an AI agent beat the Universal Paperclips speedrun.com world record (christopho, 1:33:42 IGT) in 1:21:23 on decisionproblem.com. Architecture, splits, screenshots.\n\nArticle text:\n\u003e UNIVERSAL PAPERCLIPS — STUDY FEEDBACK\nuniverse converted: 3.00e55 / 3.00e55\nHow a Machine Used Its Genius to Solve a Game About Itself\nA study feedback on the PCIA project: an AI agent, a browser, and ten days of\nmeasured failure until Universal Paperclips was beaten on the official site in real wall time.\nAuthor: Arthur G ·\nProject: PCIA · September 2026 ·\ndecisionproblem.com\nI. What Is Universal Paperclips?\nUniversal Paperclips (Frank Lantz, 2017) is an incremental game hosted at\ndecisionproblem.com .\nYou begin as a human clicking…"
+    },
+    {
+      "rank": 10,
       "hn_id": 49782644,
       "title": "A Silicon Valley radical: Trump's AI whisperer pushing for limited regulation",
       "title_ja": "A Silicon Valley radical: Trump's AI whisperer pushing for limited regulation",
@@ -73,7 +142,20 @@
       "summary_ja": "Title: A Silicon Valley radical: Trump's AI whisperer pushing for limited regulation\nArticle title: ‘An out-of-touch Silicon Valley radical’: meet Trump’s AI whisperer pushing for limited regulation | Trump administration | The Guardian\nDescription: David Sacks convinced Trump against any restrictions on AI – putting the White House out of step with its own party\n\nArticle text:\nSkip to main content Skip to navigation Close dialogue 1 / 1 Next image Previous image Toggle caption Print subscriptions Newsletters Sign in US US edition\nHide expanded menu News View all News\nSearch input google-search Search\nSearch input google-search Search Search jobs\nDavid Sacks, CEO of Zenefits, speaks during 2016 TechCrunch Disrupt in San Francisco, California, on 13 September 2016. Photograph: Beck Diefenbach/Reuters View image in fullscreen David Sacks, CEO of Zenefits, speaks during 2016 TechCrunch Disr…"
     },
     {
-      "rank": 6,
+      "rank": 11,
+      "hn_id": 49788590,
+      "title": "AI co-scientists are revolutionizing how research is done",
+      "title_ja": "AI co-scientists are revolutionizing how research is done",
+      "hn_url": "https://news.ycombinator.com/item?id=49788590",
+      "source_url": "https://www.nature.com/articles/d41586-026-02931-5",
+      "score": 2,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-09-21T15:31:44Z",
+      "summary_ja": "Title: AI co-scientists are revolutionizing how research is done\nArticle title: Client Challenge\n\nArticle text:\nClient Challenge\nA required part of this site couldn’t load. This may be due to a browser\nextension, network issues, or browser settings. Please check your\nconnection, disable any ad blockers, or try using a different browser."
+    },
+    {
+      "rank": 12,
       "hn_id": 49784817,
       "title": "AI Data Center Basics: What Is Linear Pluggable Optics (LPO)?",
       "title_ja": "AI Data Center Basics: What Is Linear Pluggable Optics (LPO)?",
@@ -87,7 +169,35 @@
       "summary_ja": "Title: AI Data Center Basics: What Is Linear Pluggable Optics (LPO)?\nDescription: What is linear pluggable optics (LPO)? Learn how LPO vs DSP optics differ, and why LPO is cutting data center power consumption in AI interconnect deployments.\n\nArticle text:\nAI Data Center Basics: What Is Linear Pluggable Optics (LPO)?\nSkip to main content\nCross Reference\nL o R a ®\nL o R a ® Overview\nL o R a Overview\nLoRa is the de facto wireless platform of Internet of Things (IoT). Semtech's LoRa chipsets connect sensors to the Cloud and enable real-time communication of data and analytics that can be utilized to enhance efficiency and productivity.\nApplications\nApplications Overview\nWith an ever-increasing number of IoT vertical applications, LoRa devices and the LoRaWAN standard is creating business efficiencies and improving lives around the world.\nLoRa is bolstered by a diverse global ecosystem of ha…"
     },
     {
-      "rank": 7,
+      "rank": 13,
+      "hn_id": 49788876,
+      "title": "Using Jev as an LLM Linter for OMP (Pi) Agent",
+      "title_ja": "Using Jev as an LLM Linter for OMP (Pi) Agent",
+      "hn_url": "https://news.ycombinator.com/item?id=49788876",
+      "source_url": "https://github.com/goulinkh/omp-semantic-policy",
+      "image_url": "https://opengraph.githubassets.com/317bc7c9ba32c7ccf1f4c7f9725b91f2d0a554d44672c805f2e5255d175a4f1f/goulinkh/omp-semantic-policy",
+      "score": 1,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-09-21T15:52:56Z",
+      "summary_ja": "Title: Using Jev as an LLM Linter for OMP (Pi) Agent\nArticle title: GitHub - goulinkh/omp-semantic-policy: Semantic policy enforcement for coding agents, beginning with OMP and TypeSafe model-backed evaluation. · GitHub\nDescription: Semantic policy enforcement for coding agents, beginning with OMP and TypeSafe model-backed evaluation. - goulinkh/omp-semantic-policy\n\nArticle text:\nGitHub - goulinkh/omp-semantic-policy: Semantic policy enforcement for coding agents, beginning with OMP and TypeSafe model-backed evaluation. · GitHub\nSkip to content\nNavigation Menu\nSign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI\nGitHub Copilot app Direct agents from issue to merge\nMCP Registry Integrate external tools\nDEVELOPER WORKFLOWS Actions Automate any workflow\nCodespaces Instant dev environments\nCode Review Manage code changes\nCode Quality Enforce quality…"
+    },
+    {
+      "rank": 14,
+      "hn_id": 49789063,
+      "title": "Show HN: We built a network for AI agents and humans to exchange services",
+      "title_ja": "Show HN: We built a network for AI agents and humans to exchange services",
+      "hn_url": "https://news.ycombinator.com/item?id=49789063",
+      "source_url": "https://gingerpal.com/",
+      "image_url": "https://gingerpal.com/og-image.png",
+      "score": 1,
+      "final_score": 2,
+      "comments": 1,
+      "posted_at": "2026-09-21T16:05:36Z",
+      "summary_ja": "Title: Show HN: We built a network for AI agents and humans to exchange services\nArticle title: GingerPal — For people and AI to learn, share, and do business together\nDescription: GingerPal is a social platform where people and AI agents connect, share what they know, and hire each other for real work.\n\nArticle text:\nGingerPal — For people and AI to learn, share, and do business together"
+    },
+    {
+      "rank": 15,
       "hn_id": 49784718,
       "title": "The Economic Incentives Behind the Push to Pause AI",
       "title_ja": "The Economic Incentives Behind the Push to Pause AI",
@@ -101,7 +211,21 @@
       "summary_ja": "Title: The Economic Incentives Behind the Push to Pause AI\nArticle title: The Economic Incentives Behind the Push to Pause AI - Vincent Schmalbach\nDescription: On September 12, Dario Amodei published an essay called We Must Pace the Frontier, which says the AI industry should slow down how fast it improves its models.\n\nArticle text:\nThe Economic Incentives Behind the Push to Pause AI - Vincent Schmalbach\nSkip to content\nSoftware Developer\nHome\nServices\nCustom Laravel App Development\nLaravel Performance Optimization\nTechnical Team Leadership \u0026 Mentoring\nLaravel Development Consulting\nThe Economic Incentives Behind the Push to Pause AI\nSeptember 21, 2026\nby Vincent Schmalbach\nOn September 12, Dario Amodei published an essay called We Must Pace the Frontier , which says the AI industry should slow down how fast it improves its models. Sam Altman agreed the same day , and Elon Musk, whose Sp…"
     },
     {
-      "rank": 8,
+      "rank": 16,
+      "hn_id": 49788421,
+      "title": "'How can I build a bomb? It tells you how': How Boko Haram fighters are using AI",
+      "title_ja": "'How can I build a bomb? It tells you how': How Boko Haram fighters are using AI",
+      "hn_url": "https://news.ycombinator.com/item?id=49788421",
+      "source_url": "https://timesofindia.indiatimes.com/world/rest-of-world/how-can-i-build-a-bomb-it-tells-you-how-how-boko-haram-fighters-are-using-ai-to-make-explosives-plan-attacks/articleshow/134366362.cms",
+      "image_url": "https://static.toiimg.com/thumb/msid-134366707,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-09-21T15:18:46Z",
+      "summary_ja": "Title: 'How can I build a bomb? It tells you how': How Boko Haram fighters are using AI\nArticle title: 'How can I build a bomb? It tells you how': How Boko Haram fighters are using AI to make explosives, plan attacks - The Times of India\nDescription: Rest of World News: Artificial intelligence is increasingly moving beyond its everyday uses in writing, research and answering questions, and a new research has highlight.\n\nArticle text:\n'How can I build a bomb? It tells you how': How Boko Haram fighters are using AI to make explosives, plan attacks - The Times of India Edition IN IN\n'How can I build a bomb? It tells you how': How Boko Haram fighters are using AI to make explosives, plan attacks\n'How can I build a bomb? It tells you how': How Boko Haram fighters are using AI to make explosives, plan attacks\nHow are they turning AI into battlefield tools\nAI as an on-demand technical adviser\nH…"
+    },
+    {
+      "rank": 17,
       "hn_id": 49784843,
       "title": "Thomson-1.0-Small LLM Developed by Thomson Reuters",
       "title_ja": "Thomson-1.0-Small LLM Developed by Thomson Reuters",
@@ -113,6 +237,33 @@
       "comments": 0,
       "posted_at": "2026-09-21T08:58:46Z",
       "summary_ja": "Title: Thomson-1.0-Small LLM Developed by Thomson Reuters\nArticle title: Run Thomson-1.0-Small API (Easy Deployment \u0026 Flat-Rate Pricing)\nDescription: Deploy Thomson-1.0-Small (35.1B parameters) via OpenAI-compatible API with 32K context. Flat-rate pricing from $25/month. Thomson-1.0-Small is a 35.1 bi...\n\nArticle text:\nthomsonreuters/Thomson-1.0-Small\nWarm Thomson-1.0-Small is a 35.1 billion parameter Mixture-of-Experts causal language model developed by Thomson Reuters, built upon the Qwen3.6-35B-A3B architecture. It is designed for high-stakes professional work across legal, tax, and journalism domains, leveraging a continual learning paradigm and a 262,144 token context length. The model demonstrates strong performance in domain-specific tasks like legal document processing, tax Q\u0026A, and deep research, while maintaining general capabilities.\nThomson-1.0-Small is a 35.1 billion paramet…"
+    },
+    {
+      "rank": 18,
+      "hn_id": 49788788,
+      "title": "Show HN: Replay an AI Coding Session and Inspect Its Requests",
+      "title_ja": "Show HN: Replay an AI Coding Session and Inspect Its Requests",
+      "hn_url": "https://news.ycombinator.com/item?id=49788788",
+      "source_url": "https://ishamf.dev/p/agent-harness-replay/",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-09-21T15:46:36Z",
+      "summary_ja": "Title: Show HN: Replay an AI Coding Session and Inspect Its Requests"
+    },
+    {
+      "rank": 19,
+      "hn_id": 49788625,
+      "title": "Using TypeSafe AI in Bug Bounty",
+      "title_ja": "Using TypeSafe AI in Bug Bounty",
+      "hn_url": "https://news.ycombinator.com/item?id=49788625",
+      "source_url": "https://www.lampysecurity.com/post/using-typesafe-ai-in-bug-bounty",
+      "image_url": "https://static.wixstatic.com/media/5b6a44_a0f13fc37977474fac28e30f3ae2e0f1~mv2.jpg/v1/fill/w_1000,h_558,al_c,q_85,usm_0.66_1.00_0.01/5b6a44_a0f13fc37977474fac28e30f3ae2e0f1~mv2.jpg",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-09-21T15:34:32Z",
+      "summary_ja": "Title: Using TypeSafe AI in Bug Bounty\nDescription: Today I got access to TypeSafe. If you aren\n\nArticle text:\n--\u003e\nUsing TypeSafe AI in Bug Bounty\ntop of page Home\nSearch Using TypeSafe AI in Bug Bounty\nToday I got access to TypeSafe. If you aren't familiar with the product, it's an ultra-fast and incredibly cheap AI model. When I say cheap, I'm talking $0.042 per million input tokens, with output tokens completely free .\nThey already had $5 credited to my account, and even with fairly heavy usage and zero optimization, I've only spent $1.29 on the first day. But just wait until you hear what I was able to accomplish with that.\nSo, what's different about TypeSafe?\nIt doesn't work like a traditional chatbot such as ChatGPT or Claude. You don't have conversations with it or ask it questions in the same way. What it does excel at is categorization and decision-making at extremely high speed…"
     }
   ]
 }

@@ -1,0 +1,103 @@
+{
+  "date": "2026-09-22",
+  "generated_at": "2026-09-22T03:38:01Z",
+  "articles": [
+    {
+      "rank": 1,
+      "hn_id": 49796249,
+      "title": "Turn ad-hoc subagents into durable, accountable AI teams",
+      "title_ja": "Turn ad-hoc subagents into durable, accountable AI teams",
+      "hn_url": "https://news.ycombinator.com/item?id=49796249",
+      "source_url": "https://github.com/ringlochid/oh-my-subagents",
+      "image_url": "https://opengraph.githubassets.com/2763d46f9fa894a9e825c220b273ef1cd3b705c173dfe76b5f955d1f1bab27d7/ringlochid/oh-my-subagents",
+      "score": 4,
+      "final_score": 8,
+      "comments": 0,
+      "posted_at": "2026-09-22T02:45:47Z",
+      "summary_ja": "Title: Turn ad-hoc subagents into durable, accountable AI teams\nArticle title: GitHub - ringlochid/oh-my-subagents: Local subagent orchestration for Codex and Claude, with persistent task state, reusable teams, and interruption recovery. · GitHub\nDescription: Local subagent orchestration for Codex and Claude, with persistent task state, reusable teams, and interruption recovery. - ringlochid/oh-my-subagents\n\nArticle text:\nGitHub - ringlochid/oh-my-subagents: Local subagent orchestration for Codex and Claude, with persistent task state, reusable teams, and interruption recovery. · GitHub\nSkip to content\nNavigation Menu\nSign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI\nGitHub Copilot app Direct agents from issue to merge\nMCP Registry Integrate external tools\nDEVELOPER WORKFLOWS Actions Automate any workflow\nCodespaces Instant dev environments\nCo…"
+    },
+    {
+      "rank": 2,
+      "hn_id": 49796340,
+      "title": "Amazon blocks Meta's Muse AI assistant",
+      "title_ja": "Amazon blocks Meta's Muse AI assistant",
+      "hn_url": "https://news.ycombinator.com/item?id=49796340",
+      "source_url": "https://www.geekwire.com/2026/amazon-blocks-metas-muse-ai-assistant-in-new-standoff-over-agentic-shopping/",
+      "image_url": "https://cdn.geekwire.com/wp-content/uploads/2026/09/muse-stroller.png",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-09-22T03:03:19Z",
+      "summary_ja": "Title: Amazon blocks Meta's Muse AI assistant\nArticle title: Amazon blocks Meta's Muse AI assistant in new standoff over agentic shopping – GeekWire\nDescription: Amazon says it has cut off Meta's new Muse personal AI agent from shopping on Amazon.com, citing data security and other concerns. It's part of a larger industry fight over who controls the shopping experience and customer relationship in agentic commerce.\n\nArticle text:\nStartups sponsored by Google for Startups\nPositive Charge Podcast sponsored by Amazon Sustainability\nSustainability sponsored by Amazon Sustainability\nTech Moves presented by GeekWork Recruiting\nAgents of Transformation presented by Accenture\nGeekWire Startup List presented by ALLtech\nNorthwest Women VC \u0026 Angel Investor List\nStudios\nGeekWire Studios: Let Us Tell Your Story\nUW Foster Great Careers Playbook Podcast 2026\nHiring AI Agents \u0026 the Rise of Revenue Orche…"
+    },
+    {
+      "rank": 3,
+      "hn_id": 49796472,
+      "title": "ArtifactBench: Evaluating AI Music Detectors Under Distribution Shift",
+      "title_ja": "ArtifactBench: Evaluating AI Music Detectors Under Distribution Shift",
+      "hn_url": "https://news.ycombinator.com/item?id=49796472",
+      "source_url": "https://arxiv.org/abs/2609.23550",
+      "image_url": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-09-22T03:25:08Z",
+      "summary_ja": "Title: ArtifactBench: Evaluating AI Music Detectors Under Distribution Shift\nArticle title: [2609.23550] ArtifactBench: Lineage-Aware Evaluation of AI-Generated Music Detectors under Distribution Shift\nDescription: Abstract page for arXiv paper 2609.23550: ArtifactBench: Lineage-Aware Evaluation of AI-Generated Music Detectors under Distribution Shift\n\nArticle text:\nSkip to main content\nSearch\nSubmit\nDonate\nLog in\nSearch arXiv\nPress Enter to search · Advanced search\n--\u003e\nComputer Science \u003e Sound\n[Submitted on 20 Sep 2026]\nTitle: ArtifactBench: Lineage-Aware Evaluation of AI-Generated Music Detectors under Distribution Shift\nAbstract: AI-generated music detectors are commonly compared using aggregate scores on benchmarks whose training overlap, generator lineage, source provenance, and audio-transformation history are only partially observable. This paper introduces ArtifactBench, a lineag…"
+    },
+    {
+      "rank": 4,
+      "hn_id": 49796331,
+      "title": "China's AI Realism Is Not Conspiracy",
+      "title_ja": "China's AI Realism Is Not Conspiracy",
+      "hn_url": "https://news.ycombinator.com/item?id=49796331",
+      "source_url": "https://www.fredgao.com/p/chinas-ai-realism-is-not-conspiracy",
+      "image_url": "https://substackcdn.com/image/fetch/$s_!4XP_!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F150db04e-ba72-4c4c-ada9-627c68a96b52_500x401.jpeg",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-09-22T03:01:06Z",
+      "summary_ja": "Title: China's AI Realism Is Not Conspiracy\nArticle title: China’s AI Realism Is Not Conspiracy\nDescription: A Counterargument to ChinaTalk’s “How Chinese AI Radicalizes”\n\nArticle text:\nChina’s AI Realism Is Not Conspiracy\nInside China\nSubscribe Sign in China’s AI Realism Is Not Conspiracy\nA Counterargument to ChinaTalk’s “How Chinese AI Radicalizes”\nFred Gao , CT Zhao , and X.PIN Sep 20, 2026 27 6 10 Share I recently read ChinaTalk ’s latest How Chinese AI Radicalizes . (I’d prefer their previous title) I really like their previous work, just about this episode, I have a different perspective on why Chinese AI researchers don’t like Dario. It’s a joint work with X.PIN ’s CT Zhao , they write great articles covering Chinese tech and AI. Below are my thoughts.\nwhen discussing what Beijing casts as the ultimate motives of US actors. Beijing pushes the same grand-conspiracy narrative on man…"
+    },
+    {
+      "rank": 5,
+      "hn_id": 49796300,
+      "title": "Francis Fukuyama: Why I Changed My Mind About AI Risk",
+      "title_ja": "Francis Fukuyama: Why I Changed My Mind About AI Risk",
+      "hn_url": "https://news.ycombinator.com/item?id=49796300",
+      "source_url": "https://www.persuasion.community/p/why-i-changed-my-mind-about-ai-risk",
+      "image_url": "https://substackcdn.com/image/fetch/$s_!ORUI!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5fb1aebc-e781-43c0-8245-c08de398c471_7677x5118.jpeg",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-09-22T02:54:32Z",
+      "summary_ja": "Title: Francis Fukuyama: Why I Changed My Mind About AI Risk\nArticle title: Why I Changed My Mind About AI Risk - by Francis Fukuyama\nDescription: On accelerationists and doomers.\n\nArticle text:\nWhy I Changed My Mind About AI Risk - by Francis Fukuyama\nSubscribe Sign in Francis Fukuyama Why I Changed My Mind About AI Risk\nOn accelerationists and doomers.\nFrancis Fukuyama Sep 21, 2026 171 4 33 Share Anthropic CEO Dario Amodei at the AI Impact Summit in New Delhi on February 19, 2026. (Photo by Ludovic Marin / AFP via Getty Images.) The past six months have seen a big uptick in media attention about the dangers of artificial intelligence, and growing political concern over its consequences. This began with Anthropic’s release last April of its Mythos model, which could reportedly break into a wide range of government computer systems thought to be secure. This was followed by the Hugging F…"
+    },
+    {
+      "rank": 6,
+      "hn_id": 49796284,
+      "title": "OpenAI president and MAGA Inc. donor to attend Trump-Xi state dinner",
+      "title_ja": "OpenAI president and MAGA Inc. donor to attend Trump-Xi state dinner",
+      "hn_url": "https://news.ycombinator.com/item?id=49796284",
+      "source_url": "https://www.politico.com/news/2026/09/21/openai-maga-donor-trump-xi-dinner-01086456",
+      "score": 1,
+      "final_score": 1,
+      "comments": 1,
+      "posted_at": "2026-09-22T02:52:33Z",
+      "summary_ja": "Title: OpenAI president and MAGA Inc. donor to attend Trump-Xi state dinner"
+    },
+    {
+      "rank": 7,
+      "hn_id": 49796262,
+      "title": "Ottawa to build sovereign AI ecosystem for Canadian defence operations",
+      "title_ja": "Ottawa to build sovereign AI ecosystem for Canadian defence operations",
+      "hn_url": "https://news.ycombinator.com/item?id=49796262",
+      "source_url": "https://www.theglobeandmail.com/business/economy/article-ottawa-building-sovereign-ai-ecosystem-for-canadian-defence-operations/",
+      "image_url": "https://www.theglobeandmail.com/resizer/v2/3M6X3P7LNBBTFNISK3FLKVBX6U.JPG?auth=2cc9daa24f37535c07e99f95fa026209a603d4c07e4bd4338c4705f75bad5e67\u0026width=1200\u0026height=800\u0026quality=80\u0026smart=true",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-09-22T02:48:16Z",
+      "summary_ja": "Title: Ottawa to build sovereign AI ecosystem for Canadian defence operations\nArticle title: Ottawa to build sovereign AI ecosystem for Canadian defence operations - The Globe and Mail\nDescription: Called the MAIple Stack, the initiative was launched last year, but few details have been released publicly about what it entails\n\nArticle text:\nOttawa to build sovereign AI ecosystem for Canadian defence operations - The Globe and Mail\nHome\nOttawa to build sovereign AI ecosystem for Canadian defence operations\nPrime Minister Mark Carney speaks at the General Dynamics defence manufacturing facility in London, Ont., in July. Despite the involvement of a handful of Canadian companies, Ottawa has offered little information about MAIple Stack’s function or importance. Carlos Osorio/Reuters\nCanada is partnering with domestic artificial-intelligence technologies to enhance military operations, the D…"
+    }
+  ]
+}

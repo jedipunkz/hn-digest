@@ -1,6 +1,6 @@
 {
   "date": "2026-09-23",
-  "generated_at": "2026-09-23T05:33:45Z",
+  "generated_at": "2026-09-23T10:54:37Z",
   "articles": [
     {
       "rank": 1,
@@ -18,6 +18,61 @@
     },
     {
       "rank": 2,
+      "hn_id": 49813704,
+      "title": "What Is an AI Software Factory? Lessons from 3 Client Deployments",
+      "title_ja": "What Is an AI Software Factory? Lessons from 3 Client Deployments",
+      "hn_url": "https://news.ycombinator.com/item?id=49813704",
+      "source_url": "https://camplight.net/ai/ai-software-factory/",
+      "image_url": "https://camplight.net/wp-content/uploads/2026/09/best-ai-software-factory-platform-nest.webp",
+      "score": 4,
+      "final_score": 8,
+      "comments": 0,
+      "posted_at": "2026-09-23T09:57:06Z",
+      "summary_ja": "Title: What Is an AI Software Factory? Lessons from 3 Client Deployments\nArticle title: Best AI Software Factory Platforms: 7 Features to Compare\nDescription: What makes the best AI software factories work? Compare seven essential capabilities, informed by Camplight's experience across three client deployments.\n\nArticle text:\nDon’t get fooled by dark factory vendors — live session, Sept 29.\nSave my seat\n×\nCompany\nClose Company\nOpen Company\nCompany\nCamplight is your unfair advantage in digital product innovation.\nWe’re a Tech Partner and Venture Agency for B2B established (often non-tech) businesses that want to build and accelerate digital products with startup speed and enterprise standards.\nDiscover our mission to evolve human collaboration through digital craftsmanship, shared ownership, and long-term impact.\nExplore our transparent, participatory, and radically human way of working.…"
+    },
+    {
+      "rank": 3,
+      "hn_id": 49813880,
+      "title": "Show HN: Life Forge – Open-source flight simulator for autonomous AI agents",
+      "title_ja": "Show HN: Life Forge – Open-source flight simulator for autonomous AI agents",
+      "hn_url": "https://news.ycombinator.com/item?id=49813880",
+      "source_url": "https://github.com/zariffromlatif/life-forge",
+      "image_url": "https://opengraph.githubassets.com/2380114a9500105c9140d06d8a79a35ef2c8cace5fa40805462babaa3d7dff6c/zariffromlatif/life-forge",
+      "score": 2,
+      "final_score": 4,
+      "comments": 0,
+      "posted_at": "2026-09-23T10:17:33Z",
+      "summary_ja": "Title: Show HN: Life Forge – Open-source flight simulator for autonomous AI agents\nArticle title: GitHub - zariffromlatif/life-forge · GitHub\nDescription: Contribute to zariffromlatif/life-forge development by creating an account on GitHub.\n\nArticle text:\nGitHub - zariffromlatif/life-forge · GitHub\nSkip to content\nNavigation Menu\nSign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI\nGitHub Copilot app Direct agents from issue to merge\nMCP Registry Integrate external tools\nDEVELOPER WORKFLOWS Actions Automate any workflow\nCodespaces Instant dev environments\nCode Review Manage code changes\nCode Quality Enforce quality at merge\nAPPLICATION SECURITY GitHub Advanced Security Find and fix vulnerabilities\nCode security Secure your code as you build\nSecret protection Stop leaks before they start\nSolutions BY COMPANY SIZE Enterprises\nEXPLORE BY TYPE Custom…"
+    },
+    {
+      "rank": 4,
+      "hn_id": 49813922,
+      "title": "The (AI) Nature of the Firm",
+      "title_ja": "The (AI) Nature of the Firm",
+      "hn_url": "https://news.ycombinator.com/item?id=49813922",
+      "source_url": "https://camerongordon0.substack.com/p/the-ai-nature-of-the-firm",
+      "score": 3,
+      "final_score": 3,
+      "comments": 0,
+      "posted_at": "2026-09-23T10:24:04Z",
+      "summary_ja": "Title: The (AI) Nature of the Firm"
+    },
+    {
+      "rank": 5,
+      "hn_id": 49814140,
+      "title": "Anthropic-linked CVEs pile up, attackers mostly shrug",
+      "title_ja": "Anthropic-linked CVEs pile up, attackers mostly shrug",
+      "hn_url": "https://news.ycombinator.com/item?id=49814140",
+      "source_url": "https://www.theregister.com/security/2026/09/21/anthropic-linked-cves-pile-up-attackers-mostly-shrug/5298018",
+      "image_url": "https://image.theregister.com/5298025.jpg?imageId=5298025\u0026x=0\u0026y=0\u0026cropw=100\u0026croph=100\u0026panox=0\u0026panoy=0\u0026panow=100\u0026panoh=100\u0026width=1200\u0026height=683",
+      "score": 1,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-09-23T10:52:11Z",
+      "summary_ja": "Title: Anthropic-linked CVEs pile up, attackers mostly shrug\nDescription: Of 225 flaws found by Glasswing and tracked by VulnCheck researcher, just one has confirmed exploitation in the wild\n\nArticle text:\nJump to main content\nSearch\nTOPICS\nSpecial Features\nAll Special Features\nCloud Infrastructure Month 2026\nModernizing Financial Services with FIS and AWS\nMake it real with Capgemini and AWS\nNutanix: Scale Kubernetes. Not Chaos.\nAnthropic-linked CVEs pile up, attackers mostly shrug\nOf 225 flaws found by Glasswing and tracked by VulnCheck researcher, just one has confirmed exploitation in the wild\nFrontier AI keeps racing despite calls to slow down\n10 hours ago\nTreasury chief says AI bosses, not their bots, will carry the can for criminal acts\n1 day ago\nAgentic security is the billion-dollar challenge for some clever startup to solve\n3 days ago\nAnthropic decides to support OpenAI's markdo…"
+    },
+    {
+      "rank": 6,
       "hn_id": 49811778,
       "title": "Claude Pop – I'm Upping My P(Doom) [video]",
       "title_ja": "Claude Pop – I'm Upping My P(Doom) [video]",
@@ -30,7 +85,7 @@
       "summary_ja": "Title: Claude Pop – I'm Upping My P(Doom) [video]\nArticle title: - YouTube\nDescription: Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.\n\nArticle text:\n- YouTube About Press Copyright Contact us Creators Advertise Developers Terms Privacy Policy \u0026 Safety How YouTube works Test new features © 2026 Google LLC"
     },
     {
-      "rank": 3,
+      "rank": 7,
       "hn_id": 49809698,
       "title": "The ruble markup on AI tokens",
       "title_ja": "The ruble markup on AI tokens",
@@ -43,7 +98,21 @@
       "summary_ja": "Title: The ruble markup on AI tokens\nArticle title: The ruble markup on AI tokens | InferTrail\nDescription: Why the price of an AI token in Russia can include more than model inference.\n\nArticle text:\nInferTrail\nBlog Research Security Analyze my traffic\nMarket structure\nThe ruble markup on AI tokens\nHow payment and region restrictions turned access to foreign AI models into a product of its own.\nArielle Jaffee · September 2026 · 8 minute read\nOn 23 September 2026, the Bank of Russia's official exchange rate was ₽84.0657 to the dollar. Anthropic lists Claude Sonnet 5 at $2 per million input tokens and $10 per million output tokens. Converted at that rate, that is roughly ₽168 and ₽841.\nThat is the provider list price converted into rubles. It is not the same as the retail price offered to a customer paying locally in Russia.\nAITUNNEL's public page lists Sonnet 5 at ₽400 per million input…"
     },
     {
-      "rank": 4,
+      "rank": 8,
+      "hn_id": 49813997,
+      "title": "A thread of early explorations with Claude Opus 5.5",
+      "title_ja": "A thread of early explorations with Claude Opus 5.5",
+      "hn_url": "https://news.ycombinator.com/item?id=49813997",
+      "source_url": "https://twitter.com/claudeai/status/2102471866635919731",
+      "image_url": "https://pbs.twimg.com/amplify_video_thumb/2102467313874178048/img/O2IOHN0jPHhbe1Zh?format=webp\u0026name=large",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-09-23T10:33:50Z",
+      "summary_ja": "Title: A thread of early explorations with Claude Opus 5.5\nArticle title: Claude on X: \"A thread of early explorations with Claude Opus 5.5:\nA short story about a watermelon created by @kevin_t_ngo.\" / X\nDescription: A thread of early explorations with Claude Opus 5.5:\nA short story about a watermelon created by @kevin_t_ngo.\n\nArticle text:\nClaude on X: \"A thread of early explorations with Claude Opus 5.5:\nA short story about a watermelon created by @kevin_t_ngo.\" / X Post\nClaude on X: \"A thread of early explorations with Claude Opus 5.5:\nA short story about a watermelon created by @kevin_t_ngo.\"\n@claudeai A thread of early explorations with Claude Opus 5.5:\nA short story about a watermelon created by @ kevin_t_ngo . 00:00 6:55 PM · Sep 22, 2026 · 590.1K Views 216 420 8.4K 2.2K Log in or sign up for X\nSee what’s happening and join the conversation\nContinue with phone Continue with Apple…"
+    },
+    {
+      "rank": 9,
       "hn_id": 49811744,
       "title": "Choice of over 600 LLMs across 9 providers",
       "title_ja": "Choice of over 600 LLMs across 9 providers",

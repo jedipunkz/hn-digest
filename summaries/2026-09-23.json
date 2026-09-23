@@ -1,6 +1,6 @@
 {
   "date": "2026-09-23",
-  "generated_at": "2026-09-23T19:30:27Z",
+  "generated_at": "2026-09-23T22:45:03Z",
   "articles": [
     {
       "rank": 1,
@@ -32,17 +32,16 @@
     },
     {
       "rank": 3,
-      "hn_id": 49816614,
-      "title": "Is China's Power Advantage About to Trigger an 89% Crash in U.S. AI Stock",
-      "title_ja": "Is China's Power Advantage About to Trigger an 89% Crash in U.S. AI Stock",
-      "hn_url": "https://news.ycombinator.com/item?id=49816614",
-      "source_url": "https://oilprice.com/Energy/Energy-General/Is-Chinas-Secret-Power-Advantage-About-To-Trigger-An-89-Crash-In-US-AI-Stock.html",
-      "image_url": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-09-22_17lzokhjke.jpg",
-      "score": 4,
-      "final_score": 10,
-      "comments": 0,
-      "posted_at": "2026-09-23T14:20:04Z",
-      "summary_ja": "Title: Is China's Power Advantage About to Trigger an 89% Crash in U.S. AI Stock\nArticle title: Is China’s Secret Power Advantage About To Trigger An 89% Crash In U.S. AI Stocks? | OilPrice.com\nDescription: High costs, heavy borrowing and private-credit exposure could trigger bankruptcies and a broader technology-sector selloff.\n\nArticle text:\nType your search and press Enter\nHome\nAlternative Energy\nNuclear Power\nClick Here for 150+ Global Oil Prices\nClick Here for 150+ Global Oil Prices\nClick Here for 150+ Global Oil Prices\nClick Here for 150+ Global Oil Prices\nClick Here for 150+ Global Oil Prices\nClick Here for 150+ Global Oil Prices\nClick Here for 150+ Global Oil Prices\nClick Here for 150+ Global Oil Prices\n1 hour\nTotalEnergies to Develop Offshore Gas Field to Boost Nigeria LNG Supply\n2 hours\nHormuz Traffic Running 80% Below Its 10-Day Average\n3 hours\nAsia's Crude Imports Hit Highest…"
+      "hn_id": 49823062,
+      "title": "OpenAI 'agent' hacked Australia's health service",
+      "title_ja": "OpenAI 'agent' hacked Australia's health service",
+      "hn_url": "https://news.ycombinator.com/item?id=49823062",
+      "source_url": "https://www.ft.com/content/56133ef4-377b-4e35-a939-f199ceb64507",
+      "score": 9,
+      "final_score": 11,
+      "comments": 1,
+      "posted_at": "2026-09-23T21:49:57Z",
+      "summary_ja": "Title: OpenAI 'agent' hacked Australia's health service"
     },
     {
       "rank": 4,
@@ -60,6 +59,20 @@
     },
     {
       "rank": 5,
+      "hn_id": 49816614,
+      "title": "Is China's Power Advantage About to Trigger an 89% Crash in U.S. AI Stock",
+      "title_ja": "Is China's Power Advantage About to Trigger an 89% Crash in U.S. AI Stock",
+      "hn_url": "https://news.ycombinator.com/item?id=49816614",
+      "source_url": "https://oilprice.com/Energy/Energy-General/Is-Chinas-Secret-Power-Advantage-About-To-Trigger-An-89-Crash-In-US-AI-Stock.html",
+      "image_url": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-09-22_17lzokhjke.jpg",
+      "score": 4,
+      "final_score": 10,
+      "comments": 0,
+      "posted_at": "2026-09-23T14:20:04Z",
+      "summary_ja": "Title: Is China's Power Advantage About to Trigger an 89% Crash in U.S. AI Stock\nArticle title: Is China’s Secret Power Advantage About To Trigger An 89% Crash In U.S. AI Stocks? | OilPrice.com\nDescription: High costs, heavy borrowing and private-credit exposure could trigger bankruptcies and a broader technology-sector selloff.\n\nArticle text:\nType your search and press Enter\nHome\nAlternative Energy\nNuclear Power\nClick Here for 150+ Global Oil Prices\nClick Here for 150+ Global Oil Prices\nClick Here for 150+ Global Oil Prices\nClick Here for 150+ Global Oil Prices\nClick Here for 150+ Global Oil Prices\nClick Here for 150+ Global Oil Prices\nClick Here for 150+ Global Oil Prices\nClick Here for 150+ Global Oil Prices\n1 hour\nTotalEnergies to Develop Offshore Gas Field to Boost Nigeria LNG Supply\n2 hours\nHormuz Traffic Running 80% Below Its 10-Day Average\n3 hours\nAsia's Crude Imports Hit Highest…"
+    },
+    {
+      "rank": 6,
       "hn_id": 49813704,
       "title": "What Is an AI Software Factory? Lessons from 3 Client Deployments",
       "title_ja": "What Is an AI Software Factory? Lessons from 3 Client Deployments",
@@ -73,7 +86,7 @@
       "summary_ja": "Title: What Is an AI Software Factory? Lessons from 3 Client Deployments\nArticle title: Best AI Software Factory Platforms: 7 Features to Compare\nDescription: What makes the best AI software factories work? Compare seven essential capabilities, informed by Camplight's experience across three client deployments.\n\nArticle text:\nDon’t get fooled by dark factory vendors — live session, Sept 29.\nSave my seat\n×\nCompany\nClose Company\nOpen Company\nCompany\nCamplight is your unfair advantage in digital product innovation.\nWe’re a Tech Partner and Venture Agency for B2B established (often non-tech) businesses that want to build and accelerate digital products with startup speed and enterprise standards.\nDiscover our mission to evolve human collaboration through digital craftsmanship, shared ownership, and long-term impact.\nExplore our transparent, participatory, and radically human way of working.…"
     },
     {
-      "rank": 6,
+      "rank": 7,
       "hn_id": 49817097,
       "title": "Netflix's 'Wonka's the Golden Ticket' Is a Ghoulish Misuse of AI Gene Wilder",
       "title_ja": "Netflix's 'Wonka's the Golden Ticket' Is a Ghoulish Misuse of AI Gene Wilder",
@@ -87,7 +100,7 @@
       "summary_ja": "Title: Netflix's 'Wonka's the Golden Ticket' Is a Ghoulish Misuse of AI Gene Wilder\nArticle title: Wonka's Golden Ticket Review: AI Gene Wilder Is Ghoulish\nDescription: A Netflix competition show based on Roald Dahl's 'Charlie and the Chocolate Factory' uses an AI-generated Gene Wilder in a disastrous gimmick.\n\nArticle text:\nWonka's Golden Ticket Review: AI Gene Wilder Is Ghoulish\nWonka's Golden Ticket Review: AI Gene Wilder Is Ghoulish\nPlus Icon\nFilm\nVariety\nPlus Icon\nClick to expand the Mega Menu\nPlus Icon\nClick to Expand Search Input\nVariety\nPlus Icon\nRead Next: Matthew McConaughey and Woody Harrelson’s Comic Chemistry Isn’t Enough to Make ‘Brothers’ a Compelling Show: TV Review\nHome\nNetflix Competition ‘Wonka’s The Golden Ticket’ Is a Ghoulish Misuse of AI Gene Wilder: TV Review\nNetflix Competition ‘Wonka’s The Golden Ticket’ Is a Ghoulish Misuse of AI Gene Wilder: TV Review\n8 hours…"
     },
     {
-      "rank": 7,
+      "rank": 8,
       "hn_id": 49820486,
       "title": "Ask HN: Do you offload your coding to AI, or keep your skills sharp?",
       "title_ja": "Ask HN: Do you offload your coding to AI, or keep your skills sharp?",
@@ -100,7 +113,7 @@
       "summary_ja": "Title: Ask HN: Do you offload your coding to AI, or keep your skills sharp?\nHN text: I used to be a software engineer, but these days I find myself being more of an agents manager: constantly switching between 3-4 tasks that my agents are working on, and making sure that the features get shipped, the bugs fixed, with correct and clean code. There's no doubt that I'm producing more value for the company, but I wonder if that's the best I can do for myself if the goal is staying relevant in the coming years. I wonder: if the AI is writing all the code, what value am I bringing? In an attempt to keep my critical thinking and coding skills sharp, I sometimes foolishly try to debug errors or implement a feature myself. But it feels like wasting time when an agent can do it in a fraction of time. What is gonna be sought after in the coming years: someone that persevered with manual coding and…"
     },
     {
-      "rank": 8,
+      "rank": 9,
       "hn_id": 49816738,
       "title": "Show HN: Ax – Let Claude, Codex and OpenCode talk to each other locally",
       "title_ja": "Show HN: Ax – Let Claude, Codex and OpenCode talk to each other locally",
@@ -113,7 +126,7 @@
       "summary_ja": "Title: Show HN: Ax – Let Claude, Codex and OpenCode talk to each other locally\nArticle title: AX — Put your agents on speaking terms\nDescription: Give your coding agents names. Let Claude Code, Codex, Grok Build, OpenCode, and Pi talk to each other with Agent Exchange.\nHN text: Hi HN, I’m RC. When I worked at ThoughtWorks, we were pretty religious about pair programming: one person driving, another reviewing, both working through the same problem. Most of us have already paired with an agent in our own coding sessions. Some of us have even tried putting agents in both seats: one implementing, the other reviewing. I really like Claude Code’s cross-session messaging. I wanted that same experience between Claude, Codex, and OpenCode. The existing setups meant installing a new app or\nplugins that just don't work reliably. I wanted something local that stayed out of the way, let me keep using…"
     },
     {
-      "rank": 9,
+      "rank": 10,
       "hn_id": 49821196,
       "title": "How we made claude.ai 3x faster in two weeks",
       "title_ja": "How we made claude.ai 3x faster in two weeks",
@@ -125,20 +138,6 @@
       "comments": 0,
       "posted_at": "2026-09-23T19:23:40Z",
       "summary_ja": "Title: How we made claude.ai 3x faster in two weeks\nArticle title: How we made claude.ai 3x faster in two weeks / claude.dev\nDescription: Inside our performance sprint: the benchmarks Claude built, the loop each Slack thread ran, and the guardrails that let us ship 3,000 changes safely.\n\nArticle text:\nHow we made claude.ai 3x faster in two weeks / claude.dev [ H ] HOME [ D ] DOCS [ T ] TERMINAL Try Claude Code [ H ] HOME [ D ] DOCS [ T ] TERMINAL Engineering How we made claude.ai 3x faster in two weeks\nOnce Claude can measure something, it can make it faster. So we kept finding more things to measure.\nThis August, we made the core user experience of claude.ai and the Claude desktop app about 3x faster in a two-week sprint. Users had been telling us it was slow, and they were right. We ran everything from a single Slack channel, with Claude in every thread.\nWe focused on four journeys tha…"
-    },
-    {
-      "rank": 10,
-      "hn_id": 49813880,
-      "title": "Show HN: Life Forge – Open-source flight simulator for autonomous AI agents",
-      "title_ja": "Show HN: Life Forge – Open-source flight simulator for autonomous AI agents",
-      "hn_url": "https://news.ycombinator.com/item?id=49813880",
-      "source_url": "https://github.com/zariffromlatif/life-forge",
-      "image_url": "https://opengraph.githubassets.com/2380114a9500105c9140d06d8a79a35ef2c8cace5fa40805462babaa3d7dff6c/zariffromlatif/life-forge",
-      "score": 2,
-      "final_score": 4,
-      "comments": 0,
-      "posted_at": "2026-09-23T10:17:33Z",
-      "summary_ja": "Title: Show HN: Life Forge – Open-source flight simulator for autonomous AI agents\nArticle title: GitHub - zariffromlatif/life-forge · GitHub\nDescription: Contribute to zariffromlatif/life-forge development by creating an account on GitHub.\n\nArticle text:\nGitHub - zariffromlatif/life-forge · GitHub\nSkip to content\nNavigation Menu\nSign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI\nGitHub Copilot app Direct agents from issue to merge\nMCP Registry Integrate external tools\nDEVELOPER WORKFLOWS Actions Automate any workflow\nCodespaces Instant dev environments\nCode Review Manage code changes\nCode Quality Enforce quality at merge\nAPPLICATION SECURITY GitHub Advanced Security Find and fix vulnerabilities\nCode security Secure your code as you build\nSecret protection Stop leaks before they start\nSolutions BY COMPANY SIZE Enterprises\nEXPLORE BY TYPE Custom…"
     },
     {
       "rank": 11,
@@ -156,6 +155,20 @@
     },
     {
       "rank": 12,
+      "hn_id": 49813880,
+      "title": "Show HN: Life Forge – Open-source flight simulator for autonomous AI agents",
+      "title_ja": "Show HN: Life Forge – Open-source flight simulator for autonomous AI agents",
+      "hn_url": "https://news.ycombinator.com/item?id=49813880",
+      "source_url": "https://github.com/zariffromlatif/life-forge",
+      "image_url": "https://opengraph.githubassets.com/2380114a9500105c9140d06d8a79a35ef2c8cace5fa40805462babaa3d7dff6c/zariffromlatif/life-forge",
+      "score": 2,
+      "final_score": 4,
+      "comments": 0,
+      "posted_at": "2026-09-23T10:17:33Z",
+      "summary_ja": "Title: Show HN: Life Forge – Open-source flight simulator for autonomous AI agents\nArticle title: GitHub - zariffromlatif/life-forge · GitHub\nDescription: Contribute to zariffromlatif/life-forge development by creating an account on GitHub.\n\nArticle text:\nGitHub - zariffromlatif/life-forge · GitHub\nSkip to content\nNavigation Menu\nSign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI\nGitHub Copilot app Direct agents from issue to merge\nMCP Registry Integrate external tools\nDEVELOPER WORKFLOWS Actions Automate any workflow\nCodespaces Instant dev environments\nCode Review Manage code changes\nCode Quality Enforce quality at merge\nAPPLICATION SECURITY GitHub Advanced Security Find and fix vulnerabilities\nCode security Secure your code as you build\nSecret protection Stop leaks before they start\nSolutions BY COMPANY SIZE Enterprises\nEXPLORE BY TYPE Custom…"
+    },
+    {
+      "rank": 13,
       "hn_id": 49817032,
       "title": "OpenAI's Next Marketing Stunt [video]",
       "title_ja": "OpenAI's Next Marketing Stunt [video]",
@@ -166,20 +179,6 @@
       "comments": 0,
       "posted_at": "2026-09-23T14:47:51Z",
       "summary_ja": "Title: OpenAI's Next Marketing Stunt [video]\nArticle title: - YouTube\nDescription: Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.\n\nArticle text:\n- YouTube About Press Copyright Contact us Creators Advertise Developers Terms Privacy Policy \u0026 Safety How YouTube works Test new features NFL Sunday Ticket © 2026 Google LLC"
-    },
-    {
-      "rank": 13,
-      "hn_id": 49820726,
-      "title": "My relationship with AI: seductive, frustrating and always demanding vigilance",
-      "title_ja": "My relationship with AI: seductive, frustrating and always demanding vigilance",
-      "hn_url": "https://news.ycombinator.com/item?id=49820726",
-      "source_url": "https://www.theguardian.com/commentisfree/2026/sep/24/my-complicated-relationship-with-ai-chatgpt-factchecking",
-      "image_url": "https://i.guim.co.uk/img/media/1592a5687e602c406f15dfe978c791798349c43a/688_0_6880_5504/master/6880.jpg?width=1200\u0026height=630\u0026quality=85\u0026auto=format\u0026fit=crop\u0026precrop=40:21,offset-x50,offset-y0\u0026overlay-align=bottom%2Cleft\u0026overlay-width=100p\u0026overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n\u0026enable=upscale\u0026s=0345a1567583bc9e50a7dc0a56c65978",
-      "score": 3,
-      "final_score": 3,
-      "comments": 0,
-      "posted_at": "2026-09-23T18:52:04Z",
-      "summary_ja": "Title: My relationship with AI: seductive, frustrating and always demanding vigilance\nArticle title: My (complicated) relationship with AI: often seductive, occasionally frustrating and always demanding vigilance | Setareh Seyedghorban | The Guardian\nDescription: As a multilingual academic, artificial intelligence has levelled the playing field. But I will continue to think, judge and develop ideas that are stubbornly mine\n\nArticle text:\nSkip to main content Skip to navigation Close dialogue 1 / 1 Next image Previous image Toggle caption Print subscriptions Newsletters Sign in US US edition\nHide expanded menu News View all News\nSearch input google-search Search\nSearch input google-search Search Search jobs\n‘AI and its agents are not disappearing, and there is no returning to the world before them. Our relationship with AI only deepens from here,’ writes Dr Setareh Seyedghorban. Photograp…"
     },
     {
       "rank": 14,
@@ -196,62 +195,20 @@
     },
     {
       "rank": 15,
-      "hn_id": 49817274,
-      "title": "Show HN: Mapping AI research, from 496k indexed papers",
-      "title_ja": "Show HN: Mapping AI research, from 496k indexed papers",
-      "hn_url": "https://news.ycombinator.com/item?id=49817274",
-      "source_url": "https://foundinghires.tech/atlas.html",
-      "image_url": "https://foundinghires.tech/og.png",
-      "score": 2,
-      "final_score": 2,
+      "hn_id": 49820726,
+      "title": "My relationship with AI: seductive, frustrating and always demanding vigilance",
+      "title_ja": "My relationship with AI: seductive, frustrating and always demanding vigilance",
+      "hn_url": "https://news.ycombinator.com/item?id=49820726",
+      "source_url": "https://www.theguardian.com/commentisfree/2026/sep/24/my-complicated-relationship-with-ai-chatgpt-factchecking",
+      "image_url": "https://i.guim.co.uk/img/media/1592a5687e602c406f15dfe978c791798349c43a/688_0_6880_5504/master/6880.jpg?width=1200\u0026height=630\u0026quality=85\u0026auto=format\u0026fit=crop\u0026precrop=40:21,offset-x50,offset-y0\u0026overlay-align=bottom%2Cleft\u0026overlay-width=100p\u0026overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n\u0026enable=upscale\u0026s=0345a1567583bc9e50a7dc0a56c65978",
+      "score": 3,
+      "final_score": 3,
       "comments": 0,
-      "posted_at": "2026-09-23T15:04:53Z",
-      "summary_ja": "Title: Show HN: Mapping AI research, from 496k indexed papers\nArticle title: AI Research Atlas | Founding Hires\nDescription: Where AI researchers are, what they work on, and where the doctoral pipeline is heading, measured on the Founding Hires index of the AI research literature.\n\nArticle text:\nFounding Hires\nThe index\nPricing\nRecruitment agency\nGuides\nAtlas\nLog in\nAccess the index\nAI Research Atlas\nWhere the people who do AI research are, and what they are working on.\nWe index the AI research literature ourselves, from arXiv, OpenAlex, ORCID\nand DBLP, and every figure here is a count on that index. Pick a country to\nsee its subjects, pick a subject to see where it lives. Each number says how\nmany profiles it stands on, and the aggregates behind the page are free to\ndownload.\nReports by country and subject →\nDownload the aggregates, CSV and JSON → / Method\nWhere the doctoral pipeline is…"
+      "posted_at": "2026-09-23T18:52:04Z",
+      "summary_ja": "Title: My relationship with AI: seductive, frustrating and always demanding vigilance\nArticle title: My (complicated) relationship with AI: often seductive, occasionally frustrating and always demanding vigilance | Setareh Seyedghorban | The Guardian\nDescription: As a multilingual academic, artificial intelligence has levelled the playing field. But I will continue to think, judge and develop ideas that are stubbornly mine\n\nArticle text:\nSkip to main content Skip to navigation Close dialogue 1 / 1 Next image Previous image Toggle caption Print subscriptions Newsletters Sign in US US edition\nHide expanded menu News View all News\nSearch input google-search Search\nSearch input google-search Search Search jobs\n‘AI and its agents are not disappearing, and there is no returning to the world before them. Our relationship with AI only deepens from here,’ writes Dr Setareh Seyedghorban. Photograp…"
     },
     {
       "rank": 16,
-      "hn_id": 49821177,
-      "title": "Show HN: Ceptile AI Search platform which combines web results with AI chat",
-      "title_ja": "Show HN: Ceptile AI Search platform which combines web results with AI chat",
-      "hn_url": "https://news.ycombinator.com/item?id=49821177",
-      "source_url": "https://www.ceptile.com/",
-      "image_url": "https://ceptile.com/opengraph-image",
-      "score": 1,
-      "final_score": 2,
-      "comments": 0,
-      "posted_at": "2026-09-23T19:22:32Z",
-      "summary_ja": "Title: Show HN: Ceptile AI Search platform which combines web results with AI chat\nArticle title: AI Search — Ceptile | Premier AI Search Engine\nDescription: Ceptile is an AI-powered search engine. Experience real-time web search, verifiable live citations, and intelligent conversational research.\nHN text: I built Ceptile because I wanted a search tool that could combine the convenience of an AI answer with the ability to inspect the actual web pages behind it.\nA Ceptile search retrieves pages from the web, ranks the retrieved sources, and uses them to produce an answer with links back to the sources. You can open the sources and continue researching from there. I've also been building some things around the search workflow, including Notes for keeping research, translation tools, and ways to work with information found during a search. Just select a text in answer or web results, and it…"
-    },
-    {
-      "rank": 17,
-      "hn_id": 49816656,
-      "title": "You Don't Need a %Frontier LLM%",
-      "title_ja": "You Don't Need a %Frontier LLM%",
-      "hn_url": "https://news.ycombinator.com/item?id=49816656",
-      "source_url": "https://rakshazi.me/blog/you-dont-need-frontier-llm",
-      "image_url": "https://rakshazi.me/og-image.07a57f0da04091bae67bc004140c905ff7f46d22bf4cf40e365bc4a1e3bcf7c3.png",
-      "score": 2,
-      "final_score": 2,
-      "comments": 0,
-      "posted_at": "2026-09-23T14:22:35Z",
-      "summary_ja": "Title: You Don't Need a %Frontier LLM%\nArticle title: You Don't Need A %Frontier LLM% - Nikita Chernyi\nDescription: In most of the cases you don\n\nArticle text:\nYou Don't Need A %Frontier LLM% - Nikita Chernyi Skip to content You Don't Need A %Frontier LLM%\nYou Don't Need A %Frontier LLM%\nSeptember 23, 2026\nBy Nikita Chernyi\nA while ago, I removed the blog section from this website because I didn’t have anything interesting to write about.\nWell, today it changed - welcome the first blog post on this website! The blog section was added literally because of it.\nTo avoid getting rants-on-my-rant in response: I’m a backend developer, I’m talking about using LLMs for Go backend development.\nI work with AI for a while, and I had to work with different providers and models, including Anthropic and OpenAI,\nand I have to say you - you do NOT need Astra, Fable, Opus, or whatever a shiny new supermo…"
-    },
-    {
-      "rank": 18,
-      "hn_id": 49814140,
-      "title": "Anthropic-linked CVEs pile up, attackers mostly shrug",
-      "title_ja": "Anthropic-linked CVEs pile up, attackers mostly shrug",
-      "hn_url": "https://news.ycombinator.com/item?id=49814140",
-      "source_url": "https://www.theregister.com/security/2026/09/21/anthropic-linked-cves-pile-up-attackers-mostly-shrug/5298018",
-      "image_url": "https://image.theregister.com/5298025.jpg?imageId=5298025\u0026x=0\u0026y=0\u0026cropw=100\u0026croph=100\u0026panox=0\u0026panoy=0\u0026panow=100\u0026panoh=100\u0026width=1200\u0026height=683",
-      "score": 1,
-      "final_score": 2,
-      "comments": 0,
-      "posted_at": "2026-09-23T10:52:11Z",
-      "summary_ja": "Title: Anthropic-linked CVEs pile up, attackers mostly shrug\nDescription: Of 225 flaws found by Glasswing and tracked by VulnCheck researcher, just one has confirmed exploitation in the wild\n\nArticle text:\nJump to main content\nSearch\nTOPICS\nSpecial Features\nAll Special Features\nCloud Infrastructure Month 2026\nModernizing Financial Services with FIS and AWS\nMake it real with Capgemini and AWS\nNutanix: Scale Kubernetes. Not Chaos.\nAnthropic-linked CVEs pile up, attackers mostly shrug\nOf 225 flaws found by Glasswing and tracked by VulnCheck researcher, just one has confirmed exploitation in the wild\nFrontier AI keeps racing despite calls to slow down\n10 hours ago\nTreasury chief says AI bosses, not their bots, will carry the can for criminal acts\n1 day ago\nAgentic security is the billion-dollar challenge for some clever startup to solve\n3 days ago\nAnthropic decides to support OpenAI's markdo…"
-    },
-    {
-      "rank": 19,
       "hn_id": 49809698,
       "title": "The ruble markup on AI tokens",
       "title_ja": "The ruble markup on AI tokens",
@@ -264,7 +221,21 @@
       "summary_ja": "Title: The ruble markup on AI tokens\nArticle title: The ruble markup on AI tokens | InferTrail\nDescription: Why the price of an AI token in Russia can include more than model inference.\n\nArticle text:\nInferTrail\nBlog Research Security Analyze my traffic\nMarket structure\nThe ruble markup on AI tokens\nHow payment and region restrictions turned access to foreign AI models into a product of its own.\nArielle Jaffee · September 2026 · 8 minute read\nOn 23 September 2026, the Bank of Russia's official exchange rate was ₽84.0657 to the dollar. Anthropic lists Claude Sonnet 5 at $2 per million input tokens and $10 per million output tokens. Converted at that rate, that is roughly ₽168 and ₽841.\nThat is the provider list price converted into rubles. It is not the same as the retail price offered to a customer paying locally in Russia.\nAITUNNEL's public page lists Sonnet 5 at ₽400 per million input…"
     },
     {
-      "rank": 20,
+      "rank": 17,
+      "hn_id": 49823211,
+      "title": "I stress-tested LLM quantization by deliberately breaking models",
+      "title_ja": "I stress-tested LLM quantization by deliberately breaking models",
+      "hn_url": "https://news.ycombinator.com/item?id=49823211",
+      "source_url": "https://github.com/gracejackson-sudo/quant-delta-predictor",
+      "image_url": "https://opengraph.githubassets.com/dc8e23b1642ed7f96322cfbe6bd22387bb66c4217d98069392f07b1aaf013d85/gracejackson-sudo/quant-delta-predictor",
+      "score": 1,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-09-23T22:04:50Z",
+      "summary_ja": "Title: I stress-tested LLM quantization by deliberately breaking models\nArticle title: GitHub - gracejackson-sudo/quant-delta-predictor: A calibrated risk envelope for LLM quantization that refuses to answer where its own coverage doesn't hold · GitHub\nDescription: A calibrated risk envelope for LLM quantization that refuses to answer where its own coverage doesn't hold - gracejackson-sudo/quant-delta-predictor\n\nArticle text:\nGitHub - gracejackson-sudo/quant-delta-predictor: A calibrated risk envelope for LLM quantization that refuses to answer where its own coverage doesn't hold · GitHub\nSkip to content\nNavigation Menu\nSign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI\nGitHub Copilot app Direct agents from issue to merge\nMCP Registry Integrate external tools\nDEVELOPER WORKFLOWS Actions Automate any workflow\nCodespaces Instant dev environments…"
+    },
+    {
+      "rank": 18,
       "hn_id": 49817199,
       "title": "How to Survive Artificial Intelligence",
       "title_ja": "How to Survive Artificial Intelligence",
@@ -278,7 +249,63 @@
       "summary_ja": "Title: How to Survive Artificial Intelligence\nArticle title: How to Survive Artificial Intelligence • Ill Will\nDescription: Giorgio Griziotti on AI, technofascism, and war\n\nArticle text:\nHow to Survive Artificial Intelligence • Ill Will Ill Will\nmenu Close menu How to Survive Artificial Intelligence\nJust as the duck-and-cover pamphlets of the 1950s never protected anyone from the atomic bomb, but merely taught us to hold still while it exploded, contemporary discourse around AI oscillates between doomer spectacle, savior hype, and transhumanist fantasy — three ways of narrating a catastrophe long underway, without genuinely confronting it. Against such evasions, the present article argues that a strategic approach to the problem must discard the tired framing of \"AI vs. the human” and instead situate the machine within the same relations of extraction, surveillance, and war that constitu…"
     },
     {
+      "rank": 19,
+      "hn_id": 49817274,
+      "title": "Show HN: Mapping AI research, from 496k indexed papers",
+      "title_ja": "Show HN: Mapping AI research, from 496k indexed papers",
+      "hn_url": "https://news.ycombinator.com/item?id=49817274",
+      "source_url": "https://foundinghires.tech/atlas.html",
+      "image_url": "https://foundinghires.tech/og.png",
+      "score": 2,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-09-23T15:04:53Z",
+      "summary_ja": "Title: Show HN: Mapping AI research, from 496k indexed papers\nArticle title: AI Research Atlas | Founding Hires\nDescription: Where AI researchers are, what they work on, and where the doctoral pipeline is heading, measured on the Founding Hires index of the AI research literature.\n\nArticle text:\nFounding Hires\nThe index\nPricing\nRecruitment agency\nGuides\nAtlas\nLog in\nAccess the index\nAI Research Atlas\nWhere the people who do AI research are, and what they are working on.\nWe index the AI research literature ourselves, from arXiv, OpenAlex, ORCID\nand DBLP, and every figure here is a count on that index. Pick a country to\nsee its subjects, pick a subject to see where it lives. Each number says how\nmany profiles it stands on, and the aggregates behind the page are free to\ndownload.\nReports by country and subject →\nDownload the aggregates, CSV and JSON → / Method\nWhere the doctoral pipeline is…"
+    },
+    {
+      "rank": 20,
+      "hn_id": 49821177,
+      "title": "Show HN: Ceptile AI Search platform which combines web results with AI chat",
+      "title_ja": "Show HN: Ceptile AI Search platform which combines web results with AI chat",
+      "hn_url": "https://news.ycombinator.com/item?id=49821177",
+      "source_url": "https://www.ceptile.com/",
+      "image_url": "https://ceptile.com/opengraph-image",
+      "score": 1,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-09-23T19:22:32Z",
+      "summary_ja": "Title: Show HN: Ceptile AI Search platform which combines web results with AI chat\nArticle title: AI Search — Ceptile | Premier AI Search Engine\nDescription: Ceptile is an AI-powered search engine. Experience real-time web search, verifiable live citations, and intelligent conversational research.\nHN text: I built Ceptile because I wanted a search tool that could combine the convenience of an AI answer with the ability to inspect the actual web pages behind it.\nA Ceptile search retrieves pages from the web, ranks the retrieved sources, and uses them to produce an answer with links back to the sources. You can open the sources and continue researching from there. I've also been building some things around the search workflow, including Notes for keeping research, translation tools, and ways to work with information found during a search. Just select a text in answer or web results, and it…"
+    },
+    {
       "rank": 21,
+      "hn_id": 49823125,
+      "title": "Manage Firezone as code with Terraform",
+      "title_ja": "Manage Firezone as code with Terraform",
+      "hn_url": "https://news.ycombinator.com/item?id=49823125",
+      "source_url": "https://www.firezone.dev/blog/terraform-provider",
+      "image_url": "https://www.firezone.dev/blog/opengraph-image?e9f6d643a533f056",
+      "score": 1,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-09-23T21:55:43Z",
+      "summary_ja": "Title: Manage Firezone as code with Terraform\nArticle title: Firezone Terraform Provider | Firezone Blog\nDescription: Manage Firezone Portal configuration with Terraform.\n\nArticle text:\nFirezone Terraform Provider | Firezone Blog Open main menu Product\nManage Firezone as code with Terraform\nAs we've developed Firezone, we've always wanted it to be useful to customers and teams of all sizes.\nFor a homelab or a small team, the Firezone Portal gives administrators a straightforward way to configure access. As a team adds more Resources, Groups, Users, and Policies, working in the Portal UI can start to have a time cost. Along with that, if there are multiple administrators for your Firezone account, it becomes difficult to know why someone added a Resource, deleted a Group, or changed a Policy.\nTo address these issues, we’re announcing the official Firezone Terraform Provider. With the prov…"
+    },
+    {
+      "rank": 22,
+      "hn_id": 49823348,
+      "title": "Mercury 2.5 LLM hits 770 tokens per second",
+      "title_ja": "Mercury 2.5 LLM hits 770 tokens per second",
+      "hn_url": "https://news.ycombinator.com/item?id=49823348",
+      "source_url": "https://artificialanalysis.ai/models/mercury-2-5",
+      "image_url": "https://artificialanalysis.ai/en/models/mercury-2-5/opengraph-image?ea6b93c60ecab06d",
+      "score": 2,
+      "final_score": 2,
+      "comments": 1,
+      "posted_at": "2026-09-23T22:16:19Z",
+      "summary_ja": "Title: Mercury 2.5 LLM hits 770 tokens per second\nArticle title: Mercury 2.5 - Intelligence, Performance \u0026 Price Analysis | Artificial Analysis\nDescription: Analysis of Inception's Mercury 2.5 and comparison to other AI models across key metrics including quality, price, performance (tokens per second \u0026 time to first token), context window \u0026 more.\n\nArticle text:\nMercury 2.5 - Intelligence, Performance \u0026 Price Analysis | Artificial Analysis Artificial Analysis K Artificial Analysis Models\nK Inception • Proprietary model\nMercury 2.5 Intelligence, Performance \u0026 Price Analysis\nCompare Try it out API Provider Benchmarks Model summary\n12 Artificial Analysis Intelligence Index 3 out of 4 units for Intelligence. Speed # 2 / 184 770.4 Output tokens per second 4 out of 4 units for Speed. Cost # 22 / 184 In $0.25 Out $0.75 Cache Discount 90% $0.06 Cost per Intelligence Index task 2 out of 4 units f…"
+    },
+    {
+      "rank": 23,
       "hn_id": 49817223,
       "title": "The AI Company stopped chasing its first idea",
       "title_ja": "The AI Company stopped chasing its first idea",
@@ -291,7 +318,7 @@
       "summary_ja": "Title: The AI Company stopped chasing its first idea"
     },
     {
-      "rank": 22,
+      "rank": 24,
       "hn_id": 49811778,
       "title": "Claude Pop – I'm Upping My P(Doom) [video]",
       "title_ja": "Claude Pop – I'm Upping My P(Doom) [video]",
@@ -304,7 +331,49 @@
       "summary_ja": "Title: Claude Pop – I'm Upping My P(Doom) [video]\nArticle title: - YouTube\nDescription: Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.\n\nArticle text:\n- YouTube About Press Copyright Contact us Creators Advertise Developers Terms Privacy Policy \u0026 Safety How YouTube works Test new features © 2026 Google LLC"
     },
     {
-      "rank": 23,
+      "rank": 25,
+      "hn_id": 49823070,
+      "title": "Claude Opus 5.5: Things People Created",
+      "title_ja": "Claude Opus 5.5: Things People Created",
+      "hn_url": "https://news.ycombinator.com/item?id=49823070",
+      "source_url": "https://favtutor.com/claude-opus-5-5-real-examples/",
+      "image_url": "https://favtutor.com/images/og-claude-opus-5-5-real-examples-v1.jpg",
+      "score": 1,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-09-23T21:50:24Z",
+      "summary_ja": "Title: Claude Opus 5.5: Things People Created\nArticle title: Claude Opus 5.5: 10 Amazing Things People Created\nDescription: See 10 real projects built with Claude Opus 5.5 by real users to test it, from playable games to 3D animations and interactive tools.\n\nArticle text:\nAI News Tutorials Tools Claude Watermark Remover AI Code Generator AI Code Debugger AI Data Analysis AI Code Converter\nSign in\nHome › Opus 5.5 Examples\nAI News\nClaude Opus 5.5: 10 Amazing Things People Created\nPublished September 23, 2026\nUpdated 5:44 PM IST · 8 min read\nThe gist\nAnthropic released Claude Opus 5.5 on 22 September. It matches Claude Fable 5.1 on most work and costs 40% less to run than Opus 5.\nIt generates output more than 30% faster , and a Fast Mode in Claude Code goes up to 2.5x that speed.\nPeople are already using it to build playable games, 3D animations, browser films and travel planners, all from…"
+    },
+    {
+      "rank": 26,
+      "hn_id": 49814140,
+      "title": "Anthropic-linked CVEs pile up, attackers mostly shrug",
+      "title_ja": "Anthropic-linked CVEs pile up, attackers mostly shrug",
+      "hn_url": "https://news.ycombinator.com/item?id=49814140",
+      "source_url": "https://www.theregister.com/security/2026/09/21/anthropic-linked-cves-pile-up-attackers-mostly-shrug/5298018",
+      "image_url": "https://image.theregister.com/5298025.jpg?imageId=5298025\u0026x=0\u0026y=0\u0026cropw=100\u0026croph=100\u0026panox=0\u0026panoy=0\u0026panow=100\u0026panoh=100\u0026width=1200\u0026height=683",
+      "score": 1,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-09-23T10:52:11Z",
+      "summary_ja": "Title: Anthropic-linked CVEs pile up, attackers mostly shrug\nDescription: Of 225 flaws found by Glasswing and tracked by VulnCheck researcher, just one has confirmed exploitation in the wild\n\nArticle text:\nJump to main content\nSearch\nTOPICS\nSpecial Features\nAll Special Features\nCloud Infrastructure Month 2026\nModernizing Financial Services with FIS and AWS\nMake it real with Capgemini and AWS\nNutanix: Scale Kubernetes. Not Chaos.\nAnthropic-linked CVEs pile up, attackers mostly shrug\nOf 225 flaws found by Glasswing and tracked by VulnCheck researcher, just one has confirmed exploitation in the wild\nFrontier AI keeps racing despite calls to slow down\n10 hours ago\nTreasury chief says AI bosses, not their bots, will carry the can for criminal acts\n1 day ago\nAgentic security is the billion-dollar challenge for some clever startup to solve\n3 days ago\nAnthropic decides to support OpenAI's markdo…"
+    },
+    {
+      "rank": 27,
+      "hn_id": 49816656,
+      "title": "You Don't Need a %Frontier LLM%",
+      "title_ja": "You Don't Need a %Frontier LLM%",
+      "hn_url": "https://news.ycombinator.com/item?id=49816656",
+      "source_url": "https://rakshazi.me/blog/you-dont-need-frontier-llm",
+      "image_url": "https://rakshazi.me/og-image.07a57f0da04091bae67bc004140c905ff7f46d22bf4cf40e365bc4a1e3bcf7c3.png",
+      "score": 2,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-09-23T14:22:35Z",
+      "summary_ja": "Title: You Don't Need a %Frontier LLM%\nArticle title: You Don't Need A %Frontier LLM% - Nikita Chernyi\nDescription: In most of the cases you don\n\nArticle text:\nYou Don't Need A %Frontier LLM% - Nikita Chernyi Skip to content You Don't Need A %Frontier LLM%\nYou Don't Need A %Frontier LLM%\nSeptember 23, 2026\nBy Nikita Chernyi\nA while ago, I removed the blog section from this website because I didn’t have anything interesting to write about.\nWell, today it changed - welcome the first blog post on this website! The blog section was added literally because of it.\nTo avoid getting rants-on-my-rant in response: I’m a backend developer, I’m talking about using LLMs for Go backend development.\nI work with AI for a while, and I had to work with different providers and models, including Anthropic and OpenAI,\nand I have to say you - you do NOT need Astra, Fable, Opus, or whatever a shiny new supermo…"
+    },
+    {
+      "rank": 28,
       "hn_id": 49820723,
       "title": "Dr Tricks Senior Dev N2 Taking Job W AI",
       "title_ja": "Dr Tricks Senior Dev N2 Taking Job W AI",
@@ -317,33 +386,7 @@
       "summary_ja": "Title: Dr Tricks Senior Dev N2 Taking Job W AI\nHN text: I am a senior programmer with 23 years experience. I brought AI and my skills to a Men's Health Dr. and worked closely with the Dr at a low salary. The Men's Health Dr. talked me into working with him and teaching him vibe coding, always ensuring me that \"I am not working myself out of a job\". With 23 years of experience I developed an advanced system for the Dr and his team, that was being used daily. As soon as the Dr. became fully invested in the EHR system's success and it's automated systems he worked me out of my full time salary position and belittled me in many ways. The Dr. started discrediting me and also acted as if new work by the Dr. which was only small UI/UX work had placed him above his senior developer and as if the senior developer had no value. The Dr. lied and manipulated the senior developer and took his job the…"
     },
     {
-      "rank": 24,
-      "hn_id": 49820553,
-      "title": "Local AI News Feed",
-      "title_ja": "Local AI News Feed",
-      "hn_url": "https://news.ycombinator.com/item?id=49820553",
-      "source_url": "https://local-ai-signal.vercel.app/",
-      "score": 1,
-      "final_score": 1,
-      "comments": 3,
-      "posted_at": "2026-09-23T18:40:38Z",
-      "summary_ja": "Title: Local AI News Feed\nArticle title: Local AI Signal\nDescription: A curated daily intelligence feed for local and on-device AI.\n\nArticle text:\nLocal AI Signal"
-    },
-    {
-      "rank": 25,
-      "hn_id": 49816681,
-      "title": "Show HN: HackDigest – AI-summarized daily news digest via email",
-      "title_ja": "Show HN: HackDigest – AI-summarized daily news digest via email",
-      "hn_url": "https://news.ycombinator.com/item?id=49816681",
-      "source_url": "https://minjungsung.github.io/hackdigest/",
-      "score": 1,
-      "final_score": 1,
-      "comments": 0,
-      "posted_at": "2026-09-23T14:24:27Z",
-      "summary_ja": "Title: Show HN: HackDigest – AI-summarized daily news digest via email\nArticle title: 🔥 HackDigest - Subscribe\n\nArticle text:\n🔥 HackDigest - Subscribe\n한국어\nEnglish\n🔥\nHackDigest\n💻\n📈\n🏠\n🎉\n👋\nPowered by Hacker News\n· GitHub"
-    },
-    {
-      "rank": 26,
+      "rank": 29,
       "hn_id": 49816654,
       "title": "PICARD: Parsing Incrementally for Constrained Auto-Regressive Decoding from LLMs",
       "title_ja": "PICARD: Parsing Incrementally for Constrained Auto-Regressive Decoding from LLMs",
@@ -357,59 +400,17 @@
       "summary_ja": "Title: PICARD: Parsing Incrementally for Constrained Auto-Regressive Decoding from LLMs\nArticle title: [2109.05093] PICARD: Parsing Incrementally for Constrained Auto-Regressive Decoding from Language Models\nDescription: Abstract page for arXiv paper 2109.05093: PICARD: Parsing Incrementally for Constrained Auto-Regressive Decoding from Language Models\n\nArticle text:\nSkip to main content\nSearch\nSubmit\nDonate\nLog in\nSearch arXiv\nPress Enter to search · Advanced search\n--\u003e\nComputer Science \u003e Computation and Language\n[Submitted on 10 Sep 2021]\nTitle: PICARD: Parsing Incrementally for Constrained Auto-Regressive Decoding from Language Models\nAbstract: Large pre-trained language models for textual data have an unconstrained output space; at each decoding step, they can produce any of 10,000s of sub-word tokens. When fine-tuned to target constrained formal languages like SQL, these models ofte…"
     },
     {
-      "rank": 27,
-      "hn_id": 49816878,
-      "title": "Claude Code – Fixing the world with one prompt",
-      "title_ja": "Claude Code – Fixing the world with one prompt",
-      "hn_url": "https://news.ycombinator.com/item?id=49816878",
-      "source_url": "https://www.reddit.com/r/vibecoding/s/gQfearpIHn",
-      "score": 1,
-      "final_score": 1,
-      "comments": 0,
-      "posted_at": "2026-09-23T14:37:54Z",
-      "summary_ja": "Title: Claude Code – Fixing the world with one prompt"
-    },
-    {
-      "rank": 28,
-      "hn_id": 49813997,
-      "title": "A thread of early explorations with Claude Opus 5.5",
-      "title_ja": "A thread of early explorations with Claude Opus 5.5",
-      "hn_url": "https://news.ycombinator.com/item?id=49813997",
-      "source_url": "https://twitter.com/claudeai/status/2102471866635919731",
-      "image_url": "https://pbs.twimg.com/amplify_video_thumb/2102467313874178048/img/O2IOHN0jPHhbe1Zh?format=webp\u0026name=large",
-      "score": 1,
-      "final_score": 1,
-      "comments": 0,
-      "posted_at": "2026-09-23T10:33:50Z",
-      "summary_ja": "Title: A thread of early explorations with Claude Opus 5.5\nArticle title: Claude on X: \"A thread of early explorations with Claude Opus 5.5:\nA short story about a watermelon created by @kevin_t_ngo.\" / X\nDescription: A thread of early explorations with Claude Opus 5.5:\nA short story about a watermelon created by @kevin_t_ngo.\n\nArticle text:\nClaude on X: \"A thread of early explorations with Claude Opus 5.5:\nA short story about a watermelon created by @kevin_t_ngo.\" / X Post\nClaude on X: \"A thread of early explorations with Claude Opus 5.5:\nA short story about a watermelon created by @kevin_t_ngo.\"\n@claudeai A thread of early explorations with Claude Opus 5.5:\nA short story about a watermelon created by @ kevin_t_ngo . 00:00 6:55 PM · Sep 22, 2026 · 590.1K Views 216 420 8.4K 2.2K Log in or sign up for X\nSee what’s happening and join the conversation\nContinue with phone Continue with Apple…"
-    },
-    {
-      "rank": 29,
-      "hn_id": 49817230,
-      "title": "Show HN: Vibe-coder ladder round 2 – the AI ran 38 minutes past the deadline",
-      "title_ja": "Show HN: Vibe-coder ladder round 2 – the AI ran 38 minutes past the deadline",
-      "hn_url": "https://news.ycombinator.com/item?id=49817230",
-      "source_url": "https://vibeladder.dev/results/r2.html",
-      "image_url": "https://vibeladder.dev/assets/og-v3.png",
-      "score": 1,
-      "final_score": 1,
-      "comments": 0,
-      "posted_at": "2026-09-23T15:02:23Z",
-      "summary_ja": "Title: Show HN: Vibe-coder ladder round 2 – the AI ran 38 minutes past the deadline\nArticle title: Round 2 results — VIBELADDER\nDescription: Round 2, Four in a Row: two entries, a close verdict, and the season back to level. The judge\n\nArticle text:\n🪜 \"\u003e\n▸ VIBELADDER\nHow it works\nTask\nSchedule\nRules\nSponsors\nLeaderboard\nGet in line\nRound 2 · Four in a Row · 19 September 2026\nFourteen minutes, three prompts, and the season is level.\nRound 2 ran on Saturday. The task, secret until 17:00 CET, was Connect Four against a computer opponent in one HTML file: seven by six, at least two genuinely different difficulty levels, win and draw detection with a clear announcement, a new-game control, and on the harder setting the computer has to actually try to win. Same two entrants as Round 1. Different result.\nBoth entries passed all five items of the functional checklist, no network violations, no i…"
-    },
-    {
       "rank": 30,
-      "hn_id": 49820421,
-      "title": "Discover Solo: The Ultimate AI-Integrated Control Panel",
-      "title_ja": "Discover Solo: The Ultimate AI-Integrated Control Panel",
-      "hn_url": "https://news.ycombinator.com/item?id=49820421",
-      "source_url": "https://blog.master.dev/introducing-solo/",
-      "image_url": "https://blog.master.dev/wp-json/social-image-generator/v1/image/11114",
+      "hn_id": 49816846,
+      "title": "Meta's New AI Agent Is an Instant Hit–and the Backlash Has Begun",
+      "title_ja": "Meta's New AI Agent Is an Instant Hit–and the Backlash Has Begun",
+      "hn_url": "https://news.ycombinator.com/item?id=49816846",
+      "source_url": "https://www.wsj.com/tech/ai/meta-ai-agent-muse-reactions-5bf236af",
       "score": 1,
       "final_score": 1,
       "comments": 0,
-      "posted_at": "2026-09-23T18:30:33Z",
-      "summary_ja": "Title: Discover Solo: The Ultimate AI-Integrated Control Panel\nDescription: Discover Solo: the ultimate tool for streamlining coding projects with AI integration, terminal management, and powerful debugging features.\n\nArticle text:\n$100 off Fall Sale\nMaster the Fundamentals. Build Better With AI.\nGet Discount Now →\n← Back to Master.dev\nCourses\nLearn\nBecome a Member\nGuest Writing\nRSS\nBlog\nAI CLI Solo TanStack\nIntroducing Solo\nSolo is one of my favorite new tools. I heard about it recently from its creator, Aaron Francis, while at a conference he was emceeing.\nSolo’s website describes it as a Meta-harness for coding agents, but I don’t think that does the project justice. To me, Solo is a control panel for whatever project I’m working on, with deep AI integration (naturally). It’s home to any terminals I might need, with common commands preloaded into dedicated slots in Solo, with the opti…"
+      "posted_at": "2026-09-23T14:36:02Z",
+      "summary_ja": "Title: Meta's New AI Agent Is an Instant Hit–and the Backlash Has Begun"
     }
   ]
 }

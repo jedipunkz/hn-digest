@@ -1,6 +1,6 @@
 {
   "date": "2026-09-23",
-  "generated_at": "2026-09-23T00:03:32Z",
+  "generated_at": "2026-09-23T05:33:45Z",
   "articles": [
     {
       "rank": 1,
@@ -18,6 +18,19 @@
     },
     {
       "rank": 2,
+      "hn_id": 49811778,
+      "title": "Claude Pop – I'm Upping My P(Doom) [video]",
+      "title_ja": "Claude Pop – I'm Upping My P(Doom) [video]",
+      "hn_url": "https://news.ycombinator.com/item?id=49811778",
+      "source_url": "https://www.youtube.com/watch?v=8j-hR4fJywU",
+      "score": 2,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-09-23T04:51:25Z",
+      "summary_ja": "Title: Claude Pop – I'm Upping My P(Doom) [video]\nArticle title: - YouTube\nDescription: Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.\n\nArticle text:\n- YouTube About Press Copyright Contact us Creators Advertise Developers Terms Privacy Policy \u0026 Safety How YouTube works Test new features © 2026 Google LLC"
+    },
+    {
+      "rank": 3,
       "hn_id": 49809698,
       "title": "The ruble markup on AI tokens",
       "title_ja": "The ruble markup on AI tokens",
@@ -28,6 +41,19 @@
       "comments": 0,
       "posted_at": "2026-09-22T23:30:11Z",
       "summary_ja": "Title: The ruble markup on AI tokens\nArticle title: The ruble markup on AI tokens | InferTrail\nDescription: Why the price of an AI token in Russia can include more than model inference.\n\nArticle text:\nInferTrail\nBlog Research Security Analyze my traffic\nMarket structure\nThe ruble markup on AI tokens\nHow payment and region restrictions turned access to foreign AI models into a product of its own.\nArielle Jaffee · September 2026 · 8 minute read\nOn 23 September 2026, the Bank of Russia's official exchange rate was ₽84.0657 to the dollar. Anthropic lists Claude Sonnet 5 at $2 per million input tokens and $10 per million output tokens. Converted at that rate, that is roughly ₽168 and ₽841.\nThat is the provider list price converted into rubles. It is not the same as the retail price offered to a customer paying locally in Russia.\nAITUNNEL's public page lists Sonnet 5 at ₽400 per million input…"
+    },
+    {
+      "rank": 4,
+      "hn_id": 49811744,
+      "title": "Choice of over 600 LLMs across 9 providers",
+      "title_ja": "Choice of over 600 LLMs across 9 providers",
+      "hn_url": "https://news.ycombinator.com/item?id=49811744",
+      "source_url": "https://medium.com/@vektormemory/vektor-v1-9-5-is-live-your-choice-of-over-600-llms-across-9-providers-1569523320a0",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-09-23T04:44:10Z",
+      "summary_ja": "Title: Choice of over 600 LLMs across 9 providers"
     }
   ]
 }

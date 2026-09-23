@@ -1,0 +1,33 @@
+{
+  "date": "2026-09-23",
+  "generated_at": "2026-09-23T00:03:32Z",
+  "articles": [
+    {
+      "rank": 1,
+      "hn_id": 49809567,
+      "title": "The 'AI Safety' Movement Is Making AI Less Safe",
+      "title_ja": "The 'AI Safety' Movement Is Making AI Less Safe",
+      "hn_url": "https://news.ycombinator.com/item?id=49809567",
+      "source_url": "https://reason.com/2026/09/22/the-ai-safety-movement-is-making-ai-less-safe/",
+      "image_url": "https://d2eehagpk5cl65.cloudfront.net/img/q60/uploads/2026/09/AISafetyHarm.jpg",
+      "score": 10,
+      "final_score": 13,
+      "comments": 0,
+      "posted_at": "2026-09-22T23:11:29Z",
+      "summary_ja": "Title: The 'AI Safety' Movement Is Making AI Less Safe\nArticle title: The 'AI safety' movement is making AI less safe\nDescription: The fear of superintelligence is driving decisions that make AI less transparent and more consolidated.\n\nArticle text:\nThe 'AI safety' movement is making AI less safe\nLatest\nThe Reason Interview With Nick Gillespie\nWays To Give To Reason Foundation\nSubscribe\nReason Plus Subscription\nThe 'AI Safety' Movement Is Making AI Less Safe\nThe fear of superintelligence is driving decisions that make AI less transparent and more consolidated.\nMatthew Petti\n|\n9.22.2026 5:16 PM\n(IMAGO/HASAN AKBAS PHOTOGRAPHY/IMAGO/mrhasanakbas/Newscom/Fatima Ruiz/Midjourney.)\nIsn't it weird that the most dramatic cries about AI risk are coming from inside the AI companies? After Anthropic employee Jacob Coxon resigned over fears that its product could destroy humanity itself earlier this…"
+    },
+    {
+      "rank": 2,
+      "hn_id": 49809698,
+      "title": "The ruble markup on AI tokens",
+      "title_ja": "The ruble markup on AI tokens",
+      "hn_url": "https://news.ycombinator.com/item?id=49809698",
+      "source_url": "https://infertrail.com/blog/ruble-markup-ai-tokens/",
+      "score": 1,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-09-22T23:30:11Z",
+      "summary_ja": "Title: The ruble markup on AI tokens\nArticle title: The ruble markup on AI tokens | InferTrail\nDescription: Why the price of an AI token in Russia can include more than model inference.\n\nArticle text:\nInferTrail\nBlog Research Security Analyze my traffic\nMarket structure\nThe ruble markup on AI tokens\nHow payment and region restrictions turned access to foreign AI models into a product of its own.\nArielle Jaffee · September 2026 · 8 minute read\nOn 23 September 2026, the Bank of Russia's official exchange rate was ₽84.0657 to the dollar. Anthropic lists Claude Sonnet 5 at $2 per million input tokens and $10 per million output tokens. Converted at that rate, that is roughly ₽168 and ₽841.\nThat is the provider list price converted into rubles. It is not the same as the retail price offered to a customer paying locally in Russia.\nAITUNNEL's public page lists Sonnet 5 at ₽400 per million input…"
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "date": "2026-09-24",
+  "generated_at": "2026-09-24T01:09:36Z",
+  "articles": [
+    {
+      "rank": 1,
+      "hn_id": 49824686,
+      "title": "Feds Target AI Critics as \"Foreign Agents\"",
+      "title_ja": "Feds Target AI Critics as \"Foreign Agents\"",
+      "hn_url": "https://news.ycombinator.com/item?id=49824686",
+      "source_url": "https://www.kenklippenstein.com/p/feds-think-ai-critics-are-foreign",
+      "image_url": "https://substackcdn.com/image/fetch/$s_!HqSQ!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F597f5afa-4bae-4a2a-aa5b-48f84d0525e7_8161x5441.jpeg",
+      "score": 3,
+      "final_score": 6,
+      "comments": 1,
+      "posted_at": "2026-09-24T00:41:31Z",
+      "summary_ja": "Title: Feds Target AI Critics as \"Foreign Agents\"\nArticle title: Feds Target AI Critics As “Foreign Agents”\nDescription: Trump admin sees China behind opposition to AI data centers\n\nArticle text:\nFeds Target AI Critics As “Foreign Agents”\nKen Klippenstein\nSubscribe Sign in Feds Target AI Critics As “Foreign Agents”\nTrump admin sees China behind opposition to AI data centers\n105 14 38 Share CCP recruits young, apparently Don’t miss part II of this story - subscribe below\nAnxiety over AI and data centers is widely held, but somehow the Trump administration has convinced itself the public concern was manufactured in China.\nThis week, in little- noticed remarks by President Trump and Justice Department warning, the administration declared war on protestors and opponents of AI, threatening“criminal liability” if they “further the propaganda or other goals of a foreign power.”\nWhile that sound…"
+    },
+    {
+      "rank": 2,
+      "hn_id": 49824497,
+      "title": "AI-CAD: An OSS Multi-Agent Harness for Mech. Eng. CAD",
+      "title_ja": "AI-CAD: An OSS Multi-Agent Harness for Mech. Eng. CAD",
+      "hn_url": "https://news.ycombinator.com/item?id=49824497",
+      "source_url": "https://github.com/ai-cad-labs/ai-cad",
+      "image_url": "https://opengraph.githubassets.com/8c7d3ac8a9d007a1a2e3543eaa9d00d7c557bea939ecbf273710db6821a44c8b/ai-cad-labs/ai-cad",
+      "score": 2,
+      "final_score": 4,
+      "comments": 0,
+      "posted_at": "2026-09-24T00:14:44Z",
+      "summary_ja": "Title: AI-CAD: An OSS Multi-Agent Harness for Mech. Eng. CAD\nArticle title: GitHub - ai-cad-labs/ai-cad · GitHub\nDescription: Contribute to ai-cad-labs/ai-cad development by creating an account on GitHub.\n\nArticle text:\nGitHub - ai-cad-labs/ai-cad · GitHub\nSkip to content\nNavigation Menu\nSign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI\nGitHub Copilot app Direct agents from issue to merge\nMCP Registry Integrate external tools\nDEVELOPER WORKFLOWS Actions Automate any workflow\nCodespaces Instant dev environments\nCode Review Manage code changes\nCode Quality Enforce quality at merge\nAPPLICATION SECURITY GitHub Advanced Security Find and fix vulnerabilities\nCode security Secure your code as you build\nSecret protection Stop leaks before they start\nSolutions BY COMPANY SIZE Enterprises\nEXPLORE BY TYPE Customer stories\nSUPPORT \u0026 SERVICES Documentation…"
+    },
+    {
+      "rank": 3,
+      "hn_id": 49824554,
+      "title": "Holistic design systems for the AI coding era",
+      "title_ja": "Holistic design systems for the AI coding era",
+      "hn_url": "https://news.ycombinator.com/item?id=49824554",
+      "source_url": "https://numeric.substack.com/p/design-systems-at-numeric",
+      "score": 2,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-09-24T00:21:16Z",
+      "summary_ja": "Title: Holistic design systems for the AI coding era"
+    },
+    {
+      "rank": 4,
+      "hn_id": 49824623,
+      "title": "OpenAI model breaches Australian government websites",
+      "title_ja": "OpenAI model breaches Australian government websites",
+      "hn_url": "https://news.ycombinator.com/item?id=49824623",
+      "source_url": "https://www.politico.com/news/2026/09/23/openai-australia-government-breach-01091069",
+      "score": 2,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-09-24T00:30:49Z",
+      "summary_ja": "Title: OpenAI model breaches Australian government websites"
+    },
+    {
+      "rank": 5,
+      "hn_id": 49824915,
+      "title": "Show HN: Does per-step reasoning effort save money in Claude Code?",
+      "title_ja": "Show HN: Does per-step reasoning effort save money in Claude Code?",
+      "hn_url": "https://news.ycombinator.com/item?id=49824915",
+      "source_url": "https://github.com/ifoster01/jev-effort",
+      "image_url": "https://opengraph.githubassets.com/a4aaecdb229d7cf76e705963c6eba27063a6a1bc1bedccb5126195c3910c1782/ifoster01/jev-effort",
+      "score": 1,
+      "final_score": 2,
+      "comments": 1,
+      "posted_at": "2026-09-24T01:08:08Z",
+      "summary_ja": "Title: Show HN: Does per-step reasoning effort save money in Claude Code?\nArticle title: GitHub - ifoster01/jev-effort: Per-step reasoning effort for Claude Code, chosen by Jev, without breaking the prompt cache. Unofficial. · GitHub\nDescription: Per-step reasoning effort for Claude Code, chosen by Jev, without breaking the prompt cache. Unofficial. - ifoster01/jev-effort\n\nArticle text:\nGitHub - ifoster01/jev-effort: Per-step reasoning effort for Claude Code, chosen by Jev, without breaking the prompt cache. Unofficial. · GitHub\nSkip to content\nNavigation Menu\nSign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI\nGitHub Copilot app Direct agents from issue to merge\nMCP Registry Integrate external tools\nDEVELOPER WORKFLOWS Actions Automate any workflow\nCodespaces Instant dev environments\nCode Review Manage code changes\nCode Quality Enforce quality…"
+    },
+    {
+      "rank": 6,
+      "hn_id": 49824843,
+      "title": "AI Has Cracked the Most Diabolical Problems in Math. Why Can't It Solve Chess?",
+      "title_ja": "AI Has Cracked the Most Diabolical Problems in Math. Why Can't It Solve Chess?",
+      "hn_url": "https://news.ycombinator.com/item?id=49824843",
+      "source_url": "https://www.wsj.com/tech/ai/chess-artificial-intelligence-ai-e969a830",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-09-24T00:59:41Z",
+      "summary_ja": "Title: AI Has Cracked the Most Diabolical Problems in Math. Why Can't It Solve Chess?"
+    },
+    {
+      "rank": 7,
+      "hn_id": 49824887,
+      "title": "AI startups with hyper ARR growth – what's happening inside these companies?",
+      "title_ja": "AI startups with hyper ARR growth – what's happening inside these companies?",
+      "hn_url": "https://news.ycombinator.com/item?id=49824887",
+      "source_url": "",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-09-24T01:04:35Z",
+      "summary_ja": "Title: AI startups with hyper ARR growth – what's happening inside these companies?\nHN text: Seeing more and more people leave great big tech jobs or very smart new grads start AI companies that seem to hit $10m, $50m, $100m ARR incredibly quickly. What’s actually going on inside these companies? Are they profitable? How much are they burning? Are they really growing that fast? And are founders/employees building for the long term or basically aiming for an acquisition? Would be interested to hear from anyone who’s worked at one of these companies. Does it give you FOMO? I'm starting as SRE @FAANG soon as a career switcher so that's cool in a brand new low level domain in storage. Out of my depth again given lack of knowledge but makes me wonder if a lot of these AI companies will have better outcomes."
+    }
+  ]
+}

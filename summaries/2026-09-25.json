@@ -1,6 +1,6 @@
 {
   "date": "2026-09-25",
-  "generated_at": "2026-09-25T01:11:00Z",
+  "generated_at": "2026-09-25T07:12:14Z",
   "articles": [
     {
       "rank": 1,
@@ -18,6 +18,33 @@
     },
     {
       "rank": 2,
+      "hn_id": 49841032,
+      "title": "Jensen Huang says with AI 'in order to save you, they've got to hurt you first.'",
+      "title_ja": "Jensen Huang says with AI 'in order to save you, they've got to hurt you first.'",
+      "hn_url": "https://news.ycombinator.com/item?id=49841032",
+      "source_url": "https://www.theverge.com/tech/1000140/jensen-huang-nvidia-ai-energy-climate-change-supervillain",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2285784039.jpg?quality=90\u0026strip=all\u0026crop=0%2C10.732984293194%2C100%2C78.534031413613\u0026w=1200",
+      "score": 3,
+      "final_score": 3,
+      "comments": 1,
+      "posted_at": "2026-09-25T06:52:12Z",
+      "summary_ja": "Title: Jensen Huang says with AI 'in order to save you, they've got to hurt you first.'\nArticle title: Jensen Huang talks about AI and climate change like a supervillain | The Verge\nDescription: Nvidia CEO Jensen Huang talked about AI inflicting “an enormous amount of pain and suffering” through its energy use.\n\nArticle text:\nJensen Huang talks about AI and climate change like a supervillain | The Verge Skip to main content The homepage The Verge The Verge logo. The Verge The Verge logo. Tech\nNotifications Notifications Hamburger Navigation Button Navigation Drawer The Verge The Verge logo. Login / Sign Up\nSearch Light System Dark Tech Expand Amazon\nReviews Expand Smart Home Reviews\nVerge Shopping Expand Buying Guides\nTransportation Expand Electric Cars\nJensen Huang talks about AI and climate change like a supervillain Notifications Notifications Comments Drawer Notifications Comments Lo…"
+    },
+    {
+      "rank": 3,
+      "hn_id": 49840850,
+      "title": "Show HN: Reteach – AI tutor that feels human",
+      "title_ja": "Show HN: Reteach – AI tutor that feels human",
+      "hn_url": "https://news.ycombinator.com/item?id=49840850",
+      "source_url": "https://www.reteach.study/",
+      "score": 3,
+      "final_score": 3,
+      "comments": 0,
+      "posted_at": "2026-09-25T06:26:14Z",
+      "summary_ja": "Title: Show HN: Reteach – AI tutor that feels human\nArticle title: Reteach - AI Powered Tutoring\nDescription: Accessible Education through AI-Powered Tutoring\nHN text: Tutoring is very expensive. reteach makes it cheap.\n\nArticle text:\nReteach - AI Powered Tutoring reteach Now in private beta ( A tutor that explains while it draws )\nPurpose-built for college coursework."
+    },
+    {
+      "rank": 4,
       "hn_id": 49838788,
       "title": "Paul Graham on LLMs 'Thinking'",
       "title_ja": "Paul Graham on LLMs 'Thinking'",
@@ -31,7 +58,21 @@
       "summary_ja": "Title: Paul Graham on LLMs 'Thinking'\nArticle title: Paul Graham on X: \"Using \"think\" to describe what an LLM does reminds me of the 16th century, when astronomers didn't really believe in the heliocentric model, but used it for calculations anyway because the math was simpler. We'll start by calling it thinking, then gradually acknowledge it is.\" / X\nDescription: Using \"think\" to describe what an LLM does reminds me of the 16th century, when astronomers didn't really believe in the heliocentric model, but used it for calculations anyway because the math was simpler. We'll start by calling it thinking, then gradually acknowledge it is.\n\nArticle text:\nPaul Graham on X: \"Using \"think\" to describe what an LLM does reminds me of the 16th century, when astronomers didn't really believe in the heliocentric model, but used it for calculations anyway because the math was simpler. We'll start by…"
     },
     {
-      "rank": 3,
+      "rank": 5,
+      "hn_id": 49841139,
+      "title": "Explyt 5.20 – background task panel for AI agent runs in JetBrains IDEs",
+      "title_ja": "Explyt 5.20 – background task panel for AI agent runs in JetBrains IDEs",
+      "hn_url": "https://news.ycombinator.com/item?id=49841139",
+      "source_url": "https://explyt.ai/docs/explyt-test/whats-new-explyt",
+      "image_url": "https://explyt.ai/docs/img/whats-new/background_tasks_panel.png",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-09-25T07:07:26Z",
+      "summary_ja": "Title: Explyt 5.20 – background task panel for AI agent runs in JetBrains IDEs\nArticle title: Explyt 5.20: stop waiting in the chat — a background task panel and notifications outside the IDE | Explyt Tools\nDescription: Explyt 5.20 collects terminals, run configurations, and subagents in one background task panel, adds system notifications, frees Memory Bank space in two stages, and shortens interface delays.\n\nArticle text:\nSkip to main content Explyt Docs Getting started Reference What's new Explyt Spring Try Explyt GitHub On this page Explyt 5.20: stop waiting in the chat — a background task panel and notifications outside the IDE\nPart of the agent's work outlives a single response: a terminal command, a run configuration with tests, a subagent with its own investigation. Each of these processes gets its own card in the chat and keeps running while the agent answers your next messages.…"
+    },
+    {
+      "rank": 6,
       "hn_id": 49838745,
       "title": "ServingStudio: Simulating, Analyzing, and Optimizing LLM Serving Systems",
       "title_ja": "ServingStudio: Simulating, Analyzing, and Optimizing LLM Serving Systems",

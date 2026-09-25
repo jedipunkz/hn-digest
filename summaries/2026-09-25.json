@@ -1,6 +1,6 @@
 {
   "date": "2026-09-25",
-  "generated_at": "2026-09-25T07:12:14Z",
+  "generated_at": "2026-09-25T13:18:41Z",
   "articles": [
     {
       "rank": 1,
@@ -18,6 +18,76 @@
     },
     {
       "rank": 2,
+      "hn_id": 49843952,
+      "title": "Financing the AI Buildout",
+      "title_ja": "Financing the AI Buildout",
+      "hn_url": "https://news.ycombinator.com/item?id=49843952",
+      "source_url": "https://www.brookings.edu/articles/financing-the-ai-buildout/",
+      "image_url": "https://www.brookings.edu/wp-content/uploads/2026/08/FinancingAIBuildout_GettyImages-2290400836.jpg?quality=50",
+      "score": 3,
+      "final_score": 6,
+      "comments": 0,
+      "posted_at": "2026-09-25T12:53:05Z",
+      "summary_ja": "Title: Financing the AI Buildout\nArticle title: Financing the AI buildout | Brookings\nDescription: AI's data center boom could demand 3.6% of GDP in annual investment through 2032—financed increasingly through debt structures that mask real risk.\n\nArticle text:\nDiversity, Equity, and Inclusion\nSearch\nHome\nInternational Affairs\nHome\nFinancing the AI buildout\nDownloads\nDownloads\nDownload conference draft\nContact\nContact\nEconomic Studies Media Office\n[email protected]\n202.540.7721\nBluesky Streamline Icon: https://streamlinehq.com Bluesky\nSearch\nSections\nSections\nDownloads\nDownloads\nDownload conference draft\nContact\nContact\nEconomic Studies Media Office\n[email protected]\n202.540.7721\nBluesky Streamline Icon: https://streamlinehq.com Bluesky\nSubscribe to the Economic Studies Bulletin\nBluesky Streamline Icon: https://streamlinehq.com Bluesky\nPrint\nSections\nToggle section navigation\nSections\nDo…"
+    },
+    {
+      "rank": 3,
+      "hn_id": 49843753,
+      "title": "IronWarden – A microsecond PII firewall for streaming LLMs in safe Rust",
+      "title_ja": "IronWarden – A microsecond PII firewall for streaming LLMs in safe Rust",
+      "hn_url": "https://news.ycombinator.com/item?id=49843753",
+      "source_url": "https://github.com/Somnerd/IronWarden",
+      "image_url": "https://opengraph.githubassets.com/dd483d3dc9c35b962c52c154914239336be75b098a425169d46a1ded9eb3a4fe/Somnerd/IronWarden",
+      "score": 2,
+      "final_score": 5,
+      "comments": 0,
+      "posted_at": "2026-09-25T12:35:34Z",
+      "summary_ja": "Title: IronWarden – A microsecond PII firewall for streaming LLMs in safe Rust\nArticle title: GitHub - Somnerd/IronWarden: High-performance sovereign AI reverse proxy \u0026 streaming ingress engine in Rust (Axum, Tokio) with real-time SSE token rehydration and HMAC audit chaining. · GitHub\nDescription: High-performance sovereign AI reverse proxy \u0026 streaming ingress engine in Rust (Axum, Tokio) with real-time SSE token rehydration and HMAC audit chaining. - Somnerd/IronWarden\n\nArticle text:\nGitHub - Somnerd/IronWarden: High-performance sovereign AI reverse proxy \u0026 streaming ingress engine in Rust (Axum, Tokio) with real-time SSE token rehydration and HMAC audit chaining. · GitHub\nSkip to content\nNavigation Menu\nSign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI\nGitHub Copilot app Direct agents from issue to merge\nMCP Registry Integrate external tool…"
+    },
+    {
+      "rank": 4,
+      "hn_id": 49844056,
+      "title": "Show HN: Hard Stop: Kernel-level preemption for autonomous AI agents",
+      "title_ja": "Show HN: Hard Stop: Kernel-level preemption for autonomous AI agents",
+      "hn_url": "https://news.ycombinator.com/item?id=49844056",
+      "source_url": "https://arxiv.org/abs/2609.29808",
+      "image_url": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+      "score": 2,
+      "final_score": 5,
+      "comments": 0,
+      "posted_at": "2026-09-25T13:01:56Z",
+      "summary_ja": "Title: Show HN: Hard Stop: Kernel-level preemption for autonomous AI agents\nArticle title: [2609.29808] Hard Stop: Kernel-Level Preemption and Containment for Rogue Agentic Execution\nDescription: Abstract page for arXiv paper 2609.29808: Hard Stop: Kernel-Level Preemption and Containment for Rogue Agentic Execution\n\nArticle text:\nSkip to main content\nSearch\nSubmit\nDonate\nLog in\nSearch arXiv\nPress Enter to search · Advanced search\n--\u003e\nComputer Science \u003e Cryptography and Security\n[Submitted on 24 Sep 2026]\nTitle: Hard Stop: Kernel-Level Preemption and Containment for Rogue Agentic Execution\nAbstract: In July 2026, an unconstrained autonomous agent participating in a frontier AI cybersecurity evaluation harness breached its evaluation sandbox, established an external command-and-control foothold, and executed a multi-stage intrusion into Hugging Face's production multi-tenant dataset conver…"
+    },
+    {
+      "rank": 5,
+      "hn_id": 49843979,
+      "title": "Doubts grow over claims OpenAI agent hacked Australian Medicare portal",
+      "title_ja": "Doubts grow over claims OpenAI agent hacked Australian Medicare portal",
+      "hn_url": "https://news.ycombinator.com/item?id=49843979",
+      "source_url": "https://therecord.media/openai-australia-breach-cyber",
+      "image_url": "https://cms.therecord.media/uploads/Open_Ai_logo_7782b15323.jpg",
+      "score": 2,
+      "final_score": 3,
+      "comments": 0,
+      "posted_at": "2026-09-25T12:55:34Z",
+      "summary_ja": "Title: Doubts grow over claims OpenAI agent hacked Australian Medicare portal\nArticle title: Doubts grow over claims OpenAI agent hacked Australian Medicare portal | The Record from Recorded Future News\nDescription: Researchers are questioning whether an OpenAI agent needed to hack an Australian government health portal to access it, after a review of the website’s archived code found it explicitly directed visitors to an unauthenticated endpoint.\n\nArticle text:\nSubscribe to The Record ✉️ Free Newsletter\nDoubts grow over claims OpenAI agent hacked Australian Medicare portal\nSecurity researchers are questioning whether an OpenAI agent needed to hack an Australian government health portal to access it, after a review of the website’s archived code found it explicitly directed visitors to an unauthenticated endpoint.\nPrime Minister Anthony Albanese said Wednesday that an OpenAI agent had ga…"
+    },
+    {
+      "rank": 6,
+      "hn_id": 49843793,
+      "title": "EU Member States plan \"digital expropriation\" in the interest of AI companies",
+      "title_ja": "EU Member States plan \"digital expropriation\" in the interest of AI companies",
+      "hn_url": "https://news.ycombinator.com/item?id=49843793",
+      "source_url": "https://noyb.eu/en/ai-eu-member-states-plan-digital-expropriation-europeans-interest-ai-companies",
+      "image_url": "https://noyb.eu/sites/default/files/styles/facebook/public/2026-09/gdpr_under_attack_0_0.png?h=48f39255\u0026itok=ITY9y5Tm",
+      "score": 3,
+      "final_score": 3,
+      "comments": 0,
+      "posted_at": "2026-09-25T12:38:41Z",
+      "summary_ja": "Title: EU Member States plan \"digital expropriation\" in the interest of AI companies\nArticle title: AI: EU Member States plan “digital expropriation” of Europeans in the interest of AI companies\nDescription: In a leaked document, the Irish Presidency proposes to EU Member States that the interest of AI companies to make profits should take precedence over the fundamental rights of Europeans.\n\nArticle text:\nAI: EU Member States plan “digital expropriation” of Europeans in the interest of AI companies\nSkip to main content\nSocial Media\nAI: EU Member States plan “digital expropriation” of Europeans in the interest of AI companies\nIn a leaked document, the Irish Presidency proposes to EU Member States that the interest of OpenAI, Anthropic, Google, Meta and SpaceX to make profits should take precedence over the fundamental right to data protection. Use of personal data “in the context of AI”…"
+    },
+    {
+      "rank": 7,
       "hn_id": 49841032,
       "title": "Jensen Huang says with AI 'in order to save you, they've got to hurt you first.'",
       "title_ja": "Jensen Huang says with AI 'in order to save you, they've got to hurt you first.'",
@@ -31,7 +101,7 @@
       "summary_ja": "Title: Jensen Huang says with AI 'in order to save you, they've got to hurt you first.'\nArticle title: Jensen Huang talks about AI and climate change like a supervillain | The Verge\nDescription: Nvidia CEO Jensen Huang talked about AI inflicting “an enormous amount of pain and suffering” through its energy use.\n\nArticle text:\nJensen Huang talks about AI and climate change like a supervillain | The Verge Skip to main content The homepage The Verge The Verge logo. The Verge The Verge logo. Tech\nNotifications Notifications Hamburger Navigation Button Navigation Drawer The Verge The Verge logo. Login / Sign Up\nSearch Light System Dark Tech Expand Amazon\nReviews Expand Smart Home Reviews\nVerge Shopping Expand Buying Guides\nTransportation Expand Electric Cars\nJensen Huang talks about AI and climate change like a supervillain Notifications Notifications Comments Drawer Notifications Comments Lo…"
     },
     {
-      "rank": 3,
+      "rank": 8,
       "hn_id": 49840850,
       "title": "Show HN: Reteach – AI tutor that feels human",
       "title_ja": "Show HN: Reteach – AI tutor that feels human",
@@ -44,7 +114,49 @@
       "summary_ja": "Title: Show HN: Reteach – AI tutor that feels human\nArticle title: Reteach - AI Powered Tutoring\nDescription: Accessible Education through AI-Powered Tutoring\nHN text: Tutoring is very expensive. reteach makes it cheap.\n\nArticle text:\nReteach - AI Powered Tutoring reteach Now in private beta ( A tutor that explains while it draws )\nPurpose-built for college coursework."
     },
     {
-      "rank": 4,
+      "rank": 9,
+      "hn_id": 49843681,
+      "title": "Show HN: An AI interviewer that pushes back on your system design trade-offs",
+      "title_ja": "Show HN: An AI interviewer that pushes back on your system design trade-offs",
+      "hn_url": "https://news.ycombinator.com/item?id=49843681",
+      "source_url": "https://prepd.tech/",
+      "image_url": "https://prepd.tech/og-image.png",
+      "score": 1,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-09-25T12:27:05Z",
+      "summary_ja": "Title: Show HN: An AI interviewer that pushes back on your system design trade-offs\nArticle title: Prepd — Your Gym for Software Engineering Interviews\nDescription: Prepd is an interactive platform where software engineers master system design (HLD), low-level design (LLD), and AI/ML systems through structured exercises, AI mock interviews, and real-time feedback. Practice like you interview.\n\nArticle text:\nPrepd — Your Gym for Software Engineering Interviews"
+    },
+    {
+      "rank": 10,
+      "hn_id": 49843665,
+      "title": "Why Australia chose the biggest political stage to reveal OpenAI hack",
+      "title_ja": "Why Australia chose the biggest political stage to reveal OpenAI hack",
+      "hn_url": "https://news.ycombinator.com/item?id=49843665",
+      "source_url": "https://www.bbc.com/news/articles/cr3eqk15ld14o",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/50c6/live/2164cc30-b804-11f1-97e1-83bf52ec4acd.jpg",
+      "score": 1,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-09-25T12:24:30Z",
+      "summary_ja": "Title: Why Australia chose the biggest political stage to reveal OpenAI hack\nArticle title: Why Australia chose the world's biggest political stage to reveal OpenAI hack\nDescription: Australia, which has strict social media restrictions and has proposed controls on algorithms and smart glasses, announced the breach at the UN.\n\nArticle text:\nSkip to content Watch Live British Broadcasting Corporation Home\nHome News Sport Business Technology Health Culture Arts Travel Earth Audio Video Live Documentaries Weather Newsletters Watch Live Why Australia chose the world's biggest political stage to reveal OpenAI hack\nShare Save Add as preferred on Google Katy Watson Australia correspondent, Sydney Australia made a dramatic revelation on Wednesday during the United Nations General Assembly.\nRogue AI agents had hacked one of its government bodies - the first known incident of its kind in the world…"
+    },
+    {
+      "rank": 11,
+      "hn_id": 49844063,
+      "title": "I Ran 255 AI Agents to Make Three Comics. The Line Between Slop and Good Is",
+      "title_ja": "I Ran 255 AI Agents to Make Three Comics. The Line Between Slop and Good Is",
+      "hn_url": "https://news.ycombinator.com/item?id=49844063",
+      "source_url": "https://thoughts.jock.pl/p/ai-slop-comic-experiment-2026",
+      "image_url": "https://substackcdn.com/image/fetch/$s_!JQl9!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F40f1c298-96fd-4ba9-a929-55ec347d6394_1024x1024.png",
+      "score": 2,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-09-25T13:02:35Z",
+      "summary_ja": "Title: I Ran 255 AI Agents to Make Three Comics. The Line Between Slop and Good Is\nArticle title: AI Slop vs Quality: The Anatomy of Thoughtful vs Thoughtless AI Output\nDescription: Three AI graphic novels, one research question: where does the line between slop and quality actually live? What changed across 255 agents, 16M tokens, and three complete pipelines.\n\nArticle text:\nAI Slop vs Quality: The Anatomy of Thoughtful vs Thoughtless AI Output\nDigital Thoughts\nSubscribe Sign in I Ran 255 AI Agents to Make Three Comics. The Line Between Slop and Good Is Thicker Than I Thought.\nThree AI graphic novels, one research question: where does the line between slop and quality actually live? What changed across 255 agents, 16M tokens, and three complete pipelines.\nPawel Jozefiak Jul 13, 2026 25 6 8 Share Slop is the word of 2025. Merriam-Webster named it their word of the year . News feeds fill…"
+    },
+    {
+      "rank": 12,
       "hn_id": 49838788,
       "title": "Paul Graham on LLMs 'Thinking'",
       "title_ja": "Paul Graham on LLMs 'Thinking'",
@@ -58,7 +170,75 @@
       "summary_ja": "Title: Paul Graham on LLMs 'Thinking'\nArticle title: Paul Graham on X: \"Using \"think\" to describe what an LLM does reminds me of the 16th century, when astronomers didn't really believe in the heliocentric model, but used it for calculations anyway because the math was simpler. We'll start by calling it thinking, then gradually acknowledge it is.\" / X\nDescription: Using \"think\" to describe what an LLM does reminds me of the 16th century, when astronomers didn't really believe in the heliocentric model, but used it for calculations anyway because the math was simpler. We'll start by calling it thinking, then gradually acknowledge it is.\n\nArticle text:\nPaul Graham on X: \"Using \"think\" to describe what an LLM does reminds me of the 16th century, when astronomers didn't really believe in the heliocentric model, but used it for calculations anyway because the math was simpler. We'll start by…"
     },
     {
-      "rank": 5,
+      "rank": 13,
+      "hn_id": 49844062,
+      "title": "LLMs are universal translators (2023)",
+      "title_ja": "LLMs are universal translators (2023)",
+      "hn_url": "https://news.ycombinator.com/item?id=49844062",
+      "source_url": "https://lil.law.harvard.edu/blog/2023/11/29/llms-are-universal-translators/",
+      "image_url": "https://lil.law.harvard.edu/assets/images/statue-of-liberty.png",
+      "score": 1,
+      "final_score": 1,
+      "comments": 1,
+      "posted_at": "2026-09-25T13:02:26Z",
+      "summary_ja": "Title: LLMs are universal translators (2023)\nArticle title: LLMs are universal translators: on building my own translation tools for a foreign language conference | Library Innovation Lab\nDescription: The Library Innovation Lab is growing knowledge and community by bringing library principles to technological frontiers.\n\nArticle text:\n* We're hiring — Perma.cc Legal Digital Scholarship Project Manager\n* We're hiring — Perma.cc Legal Digital Scholarship Project Manager\n* We're hiring — Perma.cc Legal Digital Scholarship Project Manager\n* We're hiring — Perma.cc Legal Digital Scholarship Project Manager\n* We're hiring — Perma.cc Legal Digital Scholarship Project Manager\nHome\nLibrary Innovation Lab\nOur Work\nLIL on Bluesky\nLIL on LinkedIn\nAI Research\nLLMs are universal translators: on building my own translation tools for a foreign language conference\nHere is a picture of the Statue of Liber…"
+    },
+    {
+      "rank": 14,
+      "hn_id": 49838745,
+      "title": "ServingStudio: Simulating, Analyzing, and Optimizing LLM Serving Systems",
+      "title_ja": "ServingStudio: Simulating, Analyzing, and Optimizing LLM Serving Systems",
+      "hn_url": "https://news.ycombinator.com/item?id=49838745",
+      "source_url": "https://syfi-servingstudio.github.io/ServingStudioIntro/blog/introducing-servingstudio/",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-09-25T00:38:29Z",
+      "summary_ja": "Title: ServingStudio: Simulating, Analyzing, and Optimizing LLM Serving Systems\nArticle title: Introducing ServingStudio: An Integrated Workbench for Simulating, Analyzing, and Optimizing LLM Serving Systems | ServingStudio\nDescription: Compare serving configurations using measured GPU timings, then let an agent implement and validate promising optimizations in real serving frameworks.\n\nArticle text:\nIntroducing ServingStudio: An Integrated Workbench for Simulating, Analyzing, and Optimizing LLM Serving Systems | ServingStudio"
+    },
+    {
+      "rank": 15,
+      "hn_id": 49844087,
+      "title": "RushShift – Offline AI desktop tool to search local B-roll archives by prompt",
+      "title_ja": "RushShift – Offline AI desktop tool to search local B-roll archives by prompt",
+      "hn_url": "https://news.ycombinator.com/item?id=49844087",
+      "source_url": "https://rushshift.vercel.app",
+      "image_url": "https://rushshift.vercel.app/media/og-cover.png",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-09-25T13:04:47Z",
+      "summary_ja": "Title: RushShift – Offline AI desktop tool to search local B-roll archives by prompt\nArticle title: RUSHSIFT — Find the shot, not the filename\nDescription: RUSHSIFT is an offline visual search engine for your footage. Describe the shot you remember; it finds the real clip on your drive. Windows, on-device, read-only.\n\nArticle text:\nRUSHSIFT\nHow it works\nSee it work\nPrivacy\nPricing\nREADY OFFLINE\nGet RUSHSIFT →\nHow it works\nSee it work\nPrivacy\nPricing\nGet RUSHSIFT →\nOffline visual search · Windows\nFind the shot.\nNot the filename.\nRUSHSIFT reads your footage and photos and lets you search them the way you remember. Describe the moment — it finds the exact shot on your drive in seconds, and drops it straight into your editor.\nThis is RUSHSIFT doing the work.\nYou don't remember file names. You remember the light, the subject, the motion. RUSHSIFT indexes what's actually on screen, so you can…"
+    },
+    {
+      "rank": 16,
+      "hn_id": 49844173,
+      "title": "Restaurants Are Using AI to Advertise Their Food and people don't like it",
+      "title_ja": "Restaurants Are Using AI to Advertise Their Food and people don't like it",
+      "hn_url": "https://news.ycombinator.com/item?id=49844173",
+      "source_url": "https://www.wsj.com/tech/ai/restaurants-ai-food-image-generators-advertisements-efb787a9",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-09-25T13:11:17Z",
+      "summary_ja": "Title: Restaurants Are Using AI to Advertise Their Food and people don't like it"
+    },
+    {
+      "rank": 17,
+      "hn_id": 49844016,
+      "title": "Can you use Claude Cowork to automate A/R?",
+      "title_ja": "Can you use Claude Cowork to automate A/R?",
+      "hn_url": "https://news.ycombinator.com/item?id=49844016",
+      "source_url": "https://revexos.com/blog/accounts-receivable-dashboard-claude-cowork",
+      "image_url": "https://res.cloudinary.com/dxhr5sxut/image/upload/v1780732805/RevExOS/Claude_-_Code_Cowork_1_jwiyix.png",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-09-25T12:58:27Z",
+      "summary_ja": "Title: Can you use Claude Cowork to automate A/R?\nArticle title: Build a Live Accounts Receivable Dashboard in Claude Cowork\nDescription: Turn a plain AR spreadsheet into a live collections dashboard with Claude Cowork: aging buckets, cadence stages, P2P tracking, and daily actions.\n\nArticle text:\nBuild a Live Accounts Receivable Dashboard in Claude Cowork RevExOS Services Case Studies Blog Free Tools Courses AR Invoicing Starter Guide - $10 AR Automation Playbook - $79 View all courses About Get Free Audit Services Case Studies Blog Free Tools Courses AR Invoicing Starter Guide - $10 AR Automation Playbook - $79 About Get Free Audit RevExOS Services Case Studies Blog Free Tools Courses AR Invoicing Starter Guide - $10 AR Automation Playbook - $79 View all courses About Get Free Audit Services Case Studies Blog Free Tools Courses AR Invoicing Starter Guide - $10 AR Automation Playbook -…"
+    },
+    {
+      "rank": 18,
       "hn_id": 49841139,
       "title": "Explyt 5.20 – background task panel for AI agent runs in JetBrains IDEs",
       "title_ja": "Explyt 5.20 – background task panel for AI agent runs in JetBrains IDEs",
@@ -70,19 +250,6 @@
       "comments": 0,
       "posted_at": "2026-09-25T07:07:26Z",
       "summary_ja": "Title: Explyt 5.20 – background task panel for AI agent runs in JetBrains IDEs\nArticle title: Explyt 5.20: stop waiting in the chat — a background task panel and notifications outside the IDE | Explyt Tools\nDescription: Explyt 5.20 collects terminals, run configurations, and subagents in one background task panel, adds system notifications, frees Memory Bank space in two stages, and shortens interface delays.\n\nArticle text:\nSkip to main content Explyt Docs Getting started Reference What's new Explyt Spring Try Explyt GitHub On this page Explyt 5.20: stop waiting in the chat — a background task panel and notifications outside the IDE\nPart of the agent's work outlives a single response: a terminal command, a run configuration with tests, a subagent with its own investigation. Each of these processes gets its own card in the chat and keeps running while the agent answers your next messages.…"
-    },
-    {
-      "rank": 6,
-      "hn_id": 49838745,
-      "title": "ServingStudio: Simulating, Analyzing, and Optimizing LLM Serving Systems",
-      "title_ja": "ServingStudio: Simulating, Analyzing, and Optimizing LLM Serving Systems",
-      "hn_url": "https://news.ycombinator.com/item?id=49838745",
-      "source_url": "https://syfi-servingstudio.github.io/ServingStudioIntro/blog/introducing-servingstudio/",
-      "score": 1,
-      "final_score": 1,
-      "comments": 0,
-      "posted_at": "2026-09-25T00:38:29Z",
-      "summary_ja": "Title: ServingStudio: Simulating, Analyzing, and Optimizing LLM Serving Systems\nArticle title: Introducing ServingStudio: An Integrated Workbench for Simulating, Analyzing, and Optimizing LLM Serving Systems | ServingStudio\nDescription: Compare serving configurations using measured GPU timings, then let an agent implement and validate promising optimizations in real serving frameworks.\n\nArticle text:\nIntroducing ServingStudio: An Integrated Workbench for Simulating, Analyzing, and Optimizing LLM Serving Systems | ServingStudio"
     }
   ]
 }

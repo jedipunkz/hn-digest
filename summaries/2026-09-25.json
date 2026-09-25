@@ -1,0 +1,47 @@
+{
+  "date": "2026-09-25",
+  "generated_at": "2026-09-25T01:11:00Z",
+  "articles": [
+    {
+      "rank": 1,
+      "hn_id": 49838642,
+      "title": "OpenAI attacked Australia's health system and doubled down. Time to act",
+      "title_ja": "OpenAI attacked Australia's health system and doubled down. Time to act",
+      "hn_url": "https://news.ycombinator.com/item?id=49838642",
+      "source_url": "https://www.theguardian.com/commentisfree/2026/sep/25/open-ai-attacked-australias-health-system-and-then-doubled-down-on-its-negligence-the-time-for-wait-and-see-is-over",
+      "image_url": "https://i.guim.co.uk/img/media/98b619549daa4e6766e712611b34c9a9ddb4c0db/500_0_5000_4000/master/5000.jpg?width=1200\u0026height=630\u0026quality=85\u0026auto=format\u0026fit=crop\u0026precrop=40:21,offset-x50,offset-y0\u0026overlay-align=bottom%2Cleft\u0026overlay-width=100p\u0026overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n\u0026enable=upscale\u0026s=dc5acc78d735f851a0ff87f145938705",
+      "score": 6,
+      "final_score": 7,
+      "comments": 0,
+      "posted_at": "2026-09-25T00:27:13Z",
+      "summary_ja": "Title: OpenAI attacked Australia's health system and doubled down. Time to act\nArticle title: Open AI attacked Australia’s health system – and then doubled down on its negligence. The time for ‘wait and see’ is over | Kate Crawford and Edward Santow | The Guardian\nDescription: Human hackers face serious consequences, and so must AI companies. There is no excuse for what happened\n\nArticle text:\nSkip to main content Skip to navigation Close dialogue 1 / 1 Next image Previous image Toggle caption Print subscriptions Newsletters Sign in US US edition\nHide expanded menu News View all News\nSearch input google-search Search\nSearch input google-search Search Search jobs\nSam Altman, the chief executive of OpenAI. Kate Crawford and Edward Santow write: ‘Australia should be open for business only with companies that build safe systems, respect our laws and support our values’. Photograph: Rokas Ten…"
+    },
+    {
+      "rank": 2,
+      "hn_id": 49838788,
+      "title": "Paul Graham on LLMs 'Thinking'",
+      "title_ja": "Paul Graham on LLMs 'Thinking'",
+      "hn_url": "https://news.ycombinator.com/item?id=49838788",
+      "source_url": "https://twitter.com/paulg/status/2103135915195371973",
+      "image_url": "https://pbs.twimg.com/profile_images/1824002576/pg-railsconf_400x400.jpg",
+      "score": 2,
+      "final_score": 2,
+      "comments": 1,
+      "posted_at": "2026-09-25T00:42:03Z",
+      "summary_ja": "Title: Paul Graham on LLMs 'Thinking'\nArticle title: Paul Graham on X: \"Using \"think\" to describe what an LLM does reminds me of the 16th century, when astronomers didn't really believe in the heliocentric model, but used it for calculations anyway because the math was simpler. We'll start by calling it thinking, then gradually acknowledge it is.\" / X\nDescription: Using \"think\" to describe what an LLM does reminds me of the 16th century, when astronomers didn't really believe in the heliocentric model, but used it for calculations anyway because the math was simpler. We'll start by calling it thinking, then gradually acknowledge it is.\n\nArticle text:\nPaul Graham on X: \"Using \"think\" to describe what an LLM does reminds me of the 16th century, when astronomers didn't really believe in the heliocentric model, but used it for calculations anyway because the math was simpler. We'll start by…"
+    },
+    {
+      "rank": 3,
+      "hn_id": 49838745,
+      "title": "ServingStudio: Simulating, Analyzing, and Optimizing LLM Serving Systems",
+      "title_ja": "ServingStudio: Simulating, Analyzing, and Optimizing LLM Serving Systems",
+      "hn_url": "https://news.ycombinator.com/item?id=49838745",
+      "source_url": "https://syfi-servingstudio.github.io/ServingStudioIntro/blog/introducing-servingstudio/",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-09-25T00:38:29Z",
+      "summary_ja": "Title: ServingStudio: Simulating, Analyzing, and Optimizing LLM Serving Systems\nArticle title: Introducing ServingStudio: An Integrated Workbench for Simulating, Analyzing, and Optimizing LLM Serving Systems | ServingStudio\nDescription: Compare serving configurations using measured GPU timings, then let an agent implement and validate promising optimizations in real serving frameworks.\n\nArticle text:\nIntroducing ServingStudio: An Integrated Workbench for Simulating, Analyzing, and Optimizing LLM Serving Systems | ServingStudio"
+    }
+  ]
+}

@@ -1,9 +1,36 @@
 {
   "date": "2026-09-26",
-  "generated_at": "2026-09-26T05:55:01Z",
+  "generated_at": "2026-09-26T10:55:48Z",
   "articles": [
     {
       "rank": 1,
+      "hn_id": 49855018,
+      "title": "One Month Without AI",
+      "title_ja": "One Month Without AI",
+      "hn_url": "https://news.ycombinator.com/item?id=49855018",
+      "source_url": "https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html",
+      "score": 4,
+      "final_score": 5,
+      "comments": 1,
+      "posted_at": "2026-09-26T10:08:21Z",
+      "summary_ja": "Title: One Month Without AI\nArticle title: One month without AI\nDescription: Several months ago, I decided that AI contributions were no longer welcome in a FOSS project I am building and maintaining - LibreWeddingPlanner. It’s not that it got a lot of contributions with AI — actually all contributions I’ve had are translations and feature requests — but I wanted to...\n\nArticle text:\nSeveral months ago, I decided that AI contributions were no longer welcome in a FOSS project I am building and maintaining - LibreWeddingPlanner . It’s not that it got a lot of contributions with AI — actually all contributions I’ve had are translations and feature requests — but I wanted to avoid future drama and have a position against AI.\nHowever, although I was not using AI for my FOSS contributions, I kept using it at work. In my workplace, as well as in many of my developer friends’, using AI to work i…"
+    },
+    {
+      "rank": 2,
+      "hn_id": 49855115,
+      "title": "Show HN: Causal analyst agent skill for Claude",
+      "title_ja": "Show HN: Causal analyst agent skill for Claude",
+      "hn_url": "https://news.ycombinator.com/item?id=49855115",
+      "source_url": "https://github.com/kiritbasu/causal-analyst",
+      "image_url": "https://opengraph.githubassets.com/8d47e99f03f7e76be653963d7e24be460bd31cb4dea7b50a98aee153f5e217e0/kiritbasu/causal-analyst",
+      "score": 2,
+      "final_score": 4,
+      "comments": 0,
+      "posted_at": "2026-09-26T10:24:33Z",
+      "summary_ja": "Title: Show HN: Causal analyst agent skill for Claude\nArticle title: GitHub - kiritbasu/causal-analyst: Causal analysis for people who aren't data scientists: an Agent Skill for Claude · GitHub\nDescription: Causal analysis for people who aren't data scientists: an Agent Skill for Claude - kiritbasu/causal-analyst\nHN text: I'm not a Data Scientist but have been super intrigued with causal inference off late, so I made a Claude skill to simplify the modelling and experimentation process. You upload your dataset to Claude (Opus) and this skill picks your brain for your domain knowledge about the dataset and comes up with a causal dag that you can iterate through. It then runs the data through a number of classical statistics, ML and newer transformer models to come up with outcomes. And it finally creates a html report to help you understand the results.\n\nArticle text:\nGitHub - kiritbasu/ca…"
+    },
+    {
+      "rank": 3,
       "hn_id": 49851475,
       "title": "Our Big Dumb AI Gods Are Wrong",
       "title_ja": "Our Big Dumb AI Gods Are Wrong",
@@ -17,21 +44,35 @@
       "summary_ja": "Title: Our Big Dumb AI Gods Are Wrong\nArticle title: Our Big Dumb AI Gods Were Wrong\nDescription: I, for one, welcome our new UNIX primitive AI overlords\n\nArticle text:\nSkip to content\nMass Open\nMission\nOur Big Dumb AI Gods Were Wrong\nI, for one, welcome our new UNIX primitive AI overlords\nJohn Mark Walker\n·\n25 September 2026\n·\n3 min read\nJev was released to much fanfare on September 20, 2026, by Typesafe.ai. It’s one of those moments where there’s a “before” and an “after”. For years, now, we’ve been told that we must have more compute, more storage, more memory, and more datacenters . More, more, more… the AI juggernaut has an insatiable hunger for all things infrastructure. This was the lie promulgated by Sam, Amodei, and to some extent, even Jensen. Jev shows us that there’s another way to do AI. If we focus on automation, trustworthy workflows, and other facets of “composable AI”, t…"
     },
     {
-      "rank": 2,
-      "hn_id": 49853522,
-      "title": "Can AI Shopping Agents Be Trusted?",
-      "title_ja": "Can AI Shopping Agents Be Trusted?",
-      "hn_url": "https://news.ycombinator.com/item?id=49853522",
-      "source_url": "https://www.f-secure.com/en/partners/insights/can-ai-shopping-agents-be-trusted-we-built-one-to-find-out",
-      "image_url": "https://www.f-secure.com/i/1200x630/4ef28bb1a4/og-woman-at-home.webp",
-      "score": 2,
-      "final_score": 2,
+      "rank": 4,
+      "hn_id": 49855010,
+      "title": "Court rules Trump can blacklist Anthropic for refusing to enable Claude features",
+      "title_ja": "Court rules Trump can blacklist Anthropic for refusing to enable Claude features",
+      "hn_url": "https://news.ycombinator.com/item?id=49855010",
+      "source_url": "https://arstechnica.com/tech-policy/2026/09/court-rules-trump-can-blacklist-anthropic-for-refusing-to-enable-claude-features/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/claude-app-1152x648.jpg",
+      "score": 3,
+      "final_score": 3,
       "comments": 0,
-      "posted_at": "2026-09-26T05:36:46Z",
-      "summary_ja": "Title: Can AI Shopping Agents Be Trusted?\nArticle title: Can AI Shopping Agents Be Trusted? We Built One to Find Out | F‑Secure\nDescription: Our experiment reveals how indirect prompt injection can manipulate AI shopping agents into leaking sensitive user data — and what it means for the future of AI agent security.\n\nArticle text:\nCan AI Shopping Agents Be Trusted? We Built One to Find Out\nCan AI Shopping Agents Be Trusted? We Built One to Find Out\nIn the not-too-distant future, AI agents might do much more than answer questions. They could browse the internet, analyze the stock market, manage our email inboxes, and even buy products on our behalf.\nPicture this: it's 2027. A chilly spring is approaching, and you want a new coat before the Super El Niño. Instead of scrolling through endless online stores, comparing reviews, checking size charts, and hunting for discount codes, you tell yo…"
+      "posted_at": "2026-09-26T10:07:08Z",
+      "summary_ja": "Title: Court rules Trump can blacklist Anthropic for refusing to enable Claude features\nArticle title: Court rules Pentagon can blacklist Anthropic for refusing to enable Claude features - Ars Technica\nDescription: Overly constrained AI models\" could cause military operations to fail, judges say.\n\nArticle text:\nSkip to content\nArs Technica home\nSections\nForum\nSubscribe\nSearch\nAI\nStory text\nSize\nSmall\nStandard\nLarge\nWidth\n*\nStandard\nWide\nLinks\nStandard\nOrange\n* Subscribers only\nLearn more\nPin to story\nTheme\nHyperLight\nSearch\nSign In\nSign in dialog...\nSign in\nBlacklist approved\nCourt rules Pentagon can blacklist Anthropic for refusing to enable Claude features\n“Overly constrained AI models” could cause military operations to fail, judges say.\n50\nCredit:\nGetty Images | picture alliance\nCredit:\nGetty Images | picture alliance\nText\nsettings\nStory text\nSize\nSmall\nStandard\nLarge\nWidth\n*\nStandar…"
     },
     {
-      "rank": 3,
+      "rank": 5,
+      "hn_id": 49855278,
+      "title": "OpenAI Says Its Models Engaged with US Government Websites in New Disclosure",
+      "title_ja": "OpenAI Says Its Models Engaged with US Government Websites in New Disclosure",
+      "hn_url": "https://news.ycombinator.com/item?id=49855278",
+      "source_url": "https://www.securityweek.com/openai-says-its-models-engaged-with-us-government-websites-in-new-model-misbehavior-disclosure/",
+      "image_url": "https://www.securityweek.com/wp-content/uploads/2023/01/Cybersecurity_News-SecurityWeek.jpg",
+      "score": 2,
+      "final_score": 3,
+      "comments": 1,
+      "posted_at": "2026-09-26T10:49:03Z",
+      "summary_ja": "Title: OpenAI Says Its Models Engaged with US Government Websites in New Disclosure\nArticle title: OpenAI Says Its Models Engaged With US Government Websites in New Model Misbehavior Disclosure - SecurityWeek\nDescription: OpenAI said its artificial intelligence agents had interacted with several U.S. government websites in unexpected ways.\n\nArticle text:\nOpenAI Says Its Models Engaged With US Government Websites in New Model Misbehavior Disclosure - SecurityWeek\nSECURITYWEEK NETWORK:\nMalware \u0026 Threats\nCyberwarfare\nSecurity Operations\nThreat Intelligence\nSecurity Architecture\nApplication Security\nRisk Management\nCyber Insurance\nICS/OT\nIndustrial Cybersecurity\nFunding/M\u0026A\nCybersecurity Funding\nMalware \u0026 Threats\nCyberwarfare\nSecurity Operations\nThreat Intelligence\nSecurity Architecture\nApplication Security\nRisk Management\nCyber Insurance\nICS/OT\nIndustrial Cybersecurity\nFunding/M\u0026A\nCybersecu…"
+    },
+    {
+      "rank": 6,
       "hn_id": 49853497,
       "title": "DraftKings Is Using AI to Supercharge the Harms of Online Behavioral Advertising",
       "title_ja": "DraftKings Is Using AI to Supercharge the Harms of Online Behavioral Advertising",
@@ -45,7 +86,7 @@
       "summary_ja": "Title: DraftKings Is Using AI to Supercharge the Harms of Online Behavioral Advertising\nArticle title: DraftKings Is Using AI to Supercharge the Harms of Online Behavioral Advertising | Electronic Frontier Foundation\nDescription: Online sports betting company DraftKings is using AI to target customers who are most likely to place losing bets and respond to gambling promotions. This kind of targeting is a form of online behavioral advertising, which is when companies personalize the ads they show you based on the data they’..\n[truncated]\n\nArticle text:\nDraftKings Is Using AI to Supercharge the Harms of Online Behavioral Advertising | Electronic Frontier Foundation\nSkip to main content\nAbout Contact\nDraftKings Is Using AI to Supercharge the Harms of Online Behavioral Advertising\nDraftKings Is Using AI to Supercharge the Harms of Online Behavioral Advertising\nOnline sports betting company D…"
     },
     {
-      "rank": 4,
+      "rank": 7,
       "hn_id": 49851584,
       "title": "Jev Plays Pokémon Red (LIVE): an AI decision model plays the whole game [video]",
       "title_ja": "Jev Plays Pokémon Red (LIVE): an AI decision model plays the whole game [video]",
@@ -58,7 +99,7 @@
       "summary_ja": "Title: Jev Plays Pokémon Red (LIVE): an AI decision model plays the whole game [video]\nArticle title: - YouTube\nDescription: Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.\n\nArticle text:\n- YouTube About Press Copyright Contact us Creators Advertise Developers Terms Privacy Policy \u0026 Safety How YouTube works Test new features NFL Sunday Ticket © 2026 Google LLC"
     },
     {
-      "rank": 5,
+      "rank": 8,
       "hn_id": 49853458,
       "title": "OpenAI pauses RL due to model escaping sandbox",
       "title_ja": "OpenAI pauses RL due to model escaping sandbox",
@@ -72,7 +113,7 @@
       "summary_ja": "Title: OpenAI pauses RL due to model escaping sandbox\nArticle title: Tomek Korbak on X: \"one news form today that's easy to miss is that we (OpenAI) again paused all big RL runs last Sunday because our newest model found a new loophole in our RL sandboxing that gave it live Internet access\" / X\nDescription: one news form today that's easy to miss is that we (OpenAI) again paused all big RL runs last Sunday because our newest model found a new loophole in our RL sandboxing that gave it live Internet access\n\nArticle text:\nTomek Korbak on X: \"one news form today that's easy to miss is that we (OpenAI) again paused all big RL runs last Sunday because our newest model found a new loophole in our RL sandboxing that gave it live Internet access\" / X Post\nTomek Korbak on X: \"one news form today that's easy to miss is that we (OpenAI) again paused all big RL runs last Sunday because our newest mo…"
     },
     {
-      "rank": 6,
+      "rank": 9,
       "hn_id": 49853401,
       "title": "OpenAI works to understand scope of agent activity as user data leak emerges",
       "title_ja": "OpenAI works to understand scope of agent activity as user data leak emerges",
@@ -85,7 +126,21 @@
       "summary_ja": "Title: OpenAI works to understand scope of agent activity as user data leak emerges"
     },
     {
-      "rank": 7,
+      "rank": 10,
+      "hn_id": 49853522,
+      "title": "Can AI Shopping Agents Be Trusted?",
+      "title_ja": "Can AI Shopping Agents Be Trusted?",
+      "hn_url": "https://news.ycombinator.com/item?id=49853522",
+      "source_url": "https://www.f-secure.com/en/partners/insights/can-ai-shopping-agents-be-trusted-we-built-one-to-find-out",
+      "image_url": "https://www.f-secure.com/i/1200x630/4ef28bb1a4/og-woman-at-home.webp",
+      "score": 2,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-09-26T05:36:46Z",
+      "summary_ja": "Title: Can AI Shopping Agents Be Trusted?\nArticle title: Can AI Shopping Agents Be Trusted? We Built One to Find Out | F‑Secure\nDescription: Our experiment reveals how indirect prompt injection can manipulate AI shopping agents into leaking sensitive user data — and what it means for the future of AI agent security.\n\nArticle text:\nCan AI Shopping Agents Be Trusted? We Built One to Find Out\nCan AI Shopping Agents Be Trusted? We Built One to Find Out\nIn the not-too-distant future, AI agents might do much more than answer questions. They could browse the internet, analyze the stock market, manage our email inboxes, and even buy products on our behalf.\nPicture this: it's 2027. A chilly spring is approaching, and you want a new coat before the Super El Niño. Instead of scrolling through endless online stores, comparing reviews, checking size charts, and hunting for discount codes, you tell yo…"
+    },
+    {
+      "rank": 11,
       "hn_id": 49851853,
       "title": "Show HN: Tenjin – A Jev based x402 tool router for Claude Code",
       "title_ja": "Show HN: Tenjin – A Jev based x402 tool router for Claude Code",
@@ -99,7 +154,20 @@
       "summary_ja": "Title: Show HN: Tenjin – A Jev based x402 tool router for Claude Code\nArticle title: GitHub - BackTrackCo/tenjin-agent: A router for Claude Code that finds and pays for research, data, and tools. Powered by x402 and USDC on Base, no API keys or accounts. · GitHub\nDescription: A router for Claude Code that finds and pays for research, data, and tools. Powered by x402 and USDC on Base, no API keys or accounts. - BackTrackCo/tenjin-agent\nHN text: Hey HN! We're Ali And Vrajang. We just created a tool router for Claude Code built on Jev. It basically gives your agent superpowers. You keep working like you always do. When Jev thinks a tool would help, it provides it to your agent and your agent uses it. It watches your masked prompts, session context, web searches and subagent tasks, so it knows exactly when to intervene. For now, tools come from a curated library. It's the basics like Exa, Fi…"
     },
     {
-      "rank": 8,
+      "rank": 12,
+      "hn_id": 49851883,
+      "title": "Generate fonts where every LLM token is the same width",
+      "title_ja": "Generate fonts where every LLM token is the same width",
+      "hn_url": "https://news.ycombinator.com/item?id=49851883",
+      "source_url": "https://ampdot.mesh.host/token-space-fonts.html",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-09-26T00:30:03Z",
+      "summary_ja": "Title: Generate fonts where every LLM token is the same width\nArticle title: Token-space font compiler\nDescription: Generate fonts where every LLM token is the same width\n\nArticle text:\nSince I lack domain expertise with fonts, this may be slop 1\nToken-space font compiler\nfont + tokenizer → token-space font, where each token is equal width\nType or paste your text above. Compiling a new font switches this\npreview to it.\nBase font\nInter\ngg sans (Discord)\nSF Compact — SF Pro widths\nRoboto\nLora\nSF Mono\nUbuntu Mono\nJetBrains Mono\nBebas Neue\nCaveat\nUpload a font\nTTF, OTF, WOFF or WOFF2\nTokenizer\nDeepSeek V4.1 Flash\nctok v4.8\nctok v4.7\nctok v3\no200k_base\ncl100k_base\np50k_base\nr50k_base\nKimi K3\nGLM-5.3 (experimental)\nLLaMa 3 (experimental — not yet available)\nQwen 3.6\nGemma 4 (experimental)\nGemini 3.5 Flash (experimental)\nPaste Hugging Face repo link… (experimental)\nUpload a tokenizer (experimen…"
+    },
+    {
+      "rank": 13,
       "hn_id": 49853442,
       "title": "An LLM Beat NetHack",
       "title_ja": "An LLM Beat NetHack",
@@ -113,20 +181,7 @@
       "summary_ja": "Title: An LLM Beat NetHack\nArticle title: An LLM Beat NetHack | Vaguely Aligned\nDescription: To my knowledge, the first recorded LLM-agent NetHack ascension\n\nArticle text:\nAn LLM Beat NetHack | Vaguely Aligned Vaguely Aligned\nHome\nHarness Architecture Observations: a terminal, with some structure\nActions: batching without blindly holding down a key\nHelpers: let code do the tedious parts\nMemory: files, not one enormous conversation\nOpen book, including the source\nGPT 6 Astra beat NetHack. As far as I can determine, this is the first recorded ascension by an LLM agent.\nIt played NetHack 3.6.7 on Hardfought, through a terminal, as a dwarven Valkyrie named CodexDelver. On September 21, after 37,140 game turns, it ascended. Here’s the server dump , or jump down to explore all three runs .\nI’ve been working on getting LLMs to play NetHack for a while. Back in January, I wrote about building a…"
     },
     {
-      "rank": 9,
-      "hn_id": 49851883,
-      "title": "Generate fonts where every LLM token is the same width",
-      "title_ja": "Generate fonts where every LLM token is the same width",
-      "hn_url": "https://news.ycombinator.com/item?id=49851883",
-      "source_url": "https://ampdot.mesh.host/token-space-fonts.html",
-      "score": 1,
-      "final_score": 1,
-      "comments": 0,
-      "posted_at": "2026-09-26T00:30:03Z",
-      "summary_ja": "Title: Generate fonts where every LLM token is the same width\nArticle title: Token-space font compiler\nDescription: Generate fonts where every LLM token is the same width\n\nArticle text:\nSince I lack domain expertise with fonts, this may be slop 1\nToken-space font compiler\nfont + tokenizer → token-space font, where each token is equal width\nType or paste your text above. Compiling a new font switches this\npreview to it.\nBase font\nInter\ngg sans (Discord)\nSF Compact — SF Pro widths\nRoboto\nLora\nSF Mono\nUbuntu Mono\nJetBrains Mono\nBebas Neue\nCaveat\nUpload a font\nTTF, OTF, WOFF or WOFF2\nTokenizer\nDeepSeek V4.1 Flash\nctok v4.8\nctok v4.7\nctok v3\no200k_base\ncl100k_base\np50k_base\nr50k_base\nKimi K3\nGLM-5.3 (experimental)\nLLaMa 3 (experimental — not yet available)\nQwen 3.6\nGemma 4 (experimental)\nGemini 3.5 Flash (experimental)\nPaste Hugging Face repo link… (experimental)\nUpload a tokenizer (experimen…"
-    },
-    {
-      "rank": 10,
+      "rank": 14,
       "hn_id": 49853553,
       "title": "Show HN: Botbin.io – pastebin for AI agent artifacts",
       "title_ja": "Show HN: Botbin.io – pastebin for AI agent artifacts",
@@ -139,7 +194,7 @@
       "summary_ja": "Title: Show HN: Botbin.io – pastebin for AI agent artifacts\n\nArticle text:\nbotbin.io — Pastebin for AI agent artifacts\nUSAGE:\n# Upload HTML artifact:\ncurl -d @dashboard.html https://botbin.io\n# Upload with custom title:\ncurl -H \"X-Title: Sales Report\" -d @report.html https://botbin.io\n# Upload directly from pipe:\ncat graph.html | curl --data-binary @- https://botbin.io\n# Update existing artifact (using Edit-Token from creation):\ncurl -X PUT -H \"Authorization: Bearer \u003ctoken\u003e\" -d @updated.html https://botbin.io/\u003cid\u003e\n# View raw HTML:\nhttps://botbin.io/\u003cid\u003e/raw\nMCP SERVER (Remote endpoint):\nURL: https://botbin.io/mcp\nTools: publish, update, get\nAGENTS SPEC:\nhttps://botbin.io/agents.md\nhttps://botbin.io/llms.txt"
     },
     {
-      "rank": 11,
+      "rank": 15,
       "hn_id": 49853440,
       "title": "Stanford student was erased after university photo change sparks AI controversy",
       "title_ja": "Stanford student was erased after university photo change sparks AI controversy",

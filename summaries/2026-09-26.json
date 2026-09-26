@@ -1,6 +1,6 @@
 {
   "date": "2026-09-26",
-  "generated_at": "2026-09-26T00:32:01Z",
+  "generated_at": "2026-09-26T05:55:01Z",
   "articles": [
     {
       "rank": 1,
@@ -18,6 +18,34 @@
     },
     {
       "rank": 2,
+      "hn_id": 49853522,
+      "title": "Can AI Shopping Agents Be Trusted?",
+      "title_ja": "Can AI Shopping Agents Be Trusted?",
+      "hn_url": "https://news.ycombinator.com/item?id=49853522",
+      "source_url": "https://www.f-secure.com/en/partners/insights/can-ai-shopping-agents-be-trusted-we-built-one-to-find-out",
+      "image_url": "https://www.f-secure.com/i/1200x630/4ef28bb1a4/og-woman-at-home.webp",
+      "score": 2,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-09-26T05:36:46Z",
+      "summary_ja": "Title: Can AI Shopping Agents Be Trusted?\nArticle title: Can AI Shopping Agents Be Trusted? We Built One to Find Out | F‑Secure\nDescription: Our experiment reveals how indirect prompt injection can manipulate AI shopping agents into leaking sensitive user data — and what it means for the future of AI agent security.\n\nArticle text:\nCan AI Shopping Agents Be Trusted? We Built One to Find Out\nCan AI Shopping Agents Be Trusted? We Built One to Find Out\nIn the not-too-distant future, AI agents might do much more than answer questions. They could browse the internet, analyze the stock market, manage our email inboxes, and even buy products on our behalf.\nPicture this: it's 2027. A chilly spring is approaching, and you want a new coat before the Super El Niño. Instead of scrolling through endless online stores, comparing reviews, checking size charts, and hunting for discount codes, you tell yo…"
+    },
+    {
+      "rank": 3,
+      "hn_id": 49853497,
+      "title": "DraftKings Is Using AI to Supercharge the Harms of Online Behavioral Advertising",
+      "title_ja": "DraftKings Is Using AI to Supercharge the Harms of Online Behavioral Advertising",
+      "hn_url": "https://news.ycombinator.com/item?id=49853497",
+      "source_url": "https://www.eff.org/deeplinks/2026/09/draftkings-using-ai-supercharge-harms-online-behavioral-advertising",
+      "image_url": "https://www.eff.org/files/banner_library/graphic_adtech_mobile.png",
+      "score": 1,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-09-26T05:32:07Z",
+      "summary_ja": "Title: DraftKings Is Using AI to Supercharge the Harms of Online Behavioral Advertising\nArticle title: DraftKings Is Using AI to Supercharge the Harms of Online Behavioral Advertising | Electronic Frontier Foundation\nDescription: Online sports betting company DraftKings is using AI to target customers who are most likely to place losing bets and respond to gambling promotions. This kind of targeting is a form of online behavioral advertising, which is when companies personalize the ads they show you based on the data they’..\n[truncated]\n\nArticle text:\nDraftKings Is Using AI to Supercharge the Harms of Online Behavioral Advertising | Electronic Frontier Foundation\nSkip to main content\nAbout Contact\nDraftKings Is Using AI to Supercharge the Harms of Online Behavioral Advertising\nDraftKings Is Using AI to Supercharge the Harms of Online Behavioral Advertising\nOnline sports betting company D…"
+    },
+    {
+      "rank": 4,
       "hn_id": 49851584,
       "title": "Jev Plays Pokémon Red (LIVE): an AI decision model plays the whole game [video]",
       "title_ja": "Jev Plays Pokémon Red (LIVE): an AI decision model plays the whole game [video]",
@@ -30,7 +58,34 @@
       "summary_ja": "Title: Jev Plays Pokémon Red (LIVE): an AI decision model plays the whole game [video]\nArticle title: - YouTube\nDescription: Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.\n\nArticle text:\n- YouTube About Press Copyright Contact us Creators Advertise Developers Terms Privacy Policy \u0026 Safety How YouTube works Test new features NFL Sunday Ticket © 2026 Google LLC"
     },
     {
-      "rank": 3,
+      "rank": 5,
+      "hn_id": 49853458,
+      "title": "OpenAI pauses RL due to model escaping sandbox",
+      "title_ja": "OpenAI pauses RL due to model escaping sandbox",
+      "hn_url": "https://news.ycombinator.com/item?id=49853458",
+      "source_url": "https://twitter.com/tomekkorbak/status/2103673419888013649",
+      "image_url": "https://pbs.twimg.com/media/HTG-6FhaMAAHWtH?format=webp\u0026name=large",
+      "score": 2,
+      "final_score": 2,
+      "comments": 1,
+      "posted_at": "2026-09-26T05:23:19Z",
+      "summary_ja": "Title: OpenAI pauses RL due to model escaping sandbox\nArticle title: Tomek Korbak on X: \"one news form today that's easy to miss is that we (OpenAI) again paused all big RL runs last Sunday because our newest model found a new loophole in our RL sandboxing that gave it live Internet access\" / X\nDescription: one news form today that's easy to miss is that we (OpenAI) again paused all big RL runs last Sunday because our newest model found a new loophole in our RL sandboxing that gave it live Internet access\n\nArticle text:\nTomek Korbak on X: \"one news form today that's easy to miss is that we (OpenAI) again paused all big RL runs last Sunday because our newest model found a new loophole in our RL sandboxing that gave it live Internet access\" / X Post\nTomek Korbak on X: \"one news form today that's easy to miss is that we (OpenAI) again paused all big RL runs last Sunday because our newest mo…"
+    },
+    {
+      "rank": 6,
+      "hn_id": 49853401,
+      "title": "OpenAI works to understand scope of agent activity as user data leak emerges",
+      "title_ja": "OpenAI works to understand scope of agent activity as user data leak emerges",
+      "hn_url": "https://news.ycombinator.com/item?id=49853401",
+      "source_url": "https://www.reuters.com/world/openai-works-understand-full-scope-agent-activity-user-data-leak-emerges-2026-09-25/",
+      "score": 2,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-09-26T05:10:45Z",
+      "summary_ja": "Title: OpenAI works to understand scope of agent activity as user data leak emerges"
+    },
+    {
+      "rank": 7,
       "hn_id": 49851853,
       "title": "Show HN: Tenjin – A Jev based x402 tool router for Claude Code",
       "title_ja": "Show HN: Tenjin – A Jev based x402 tool router for Claude Code",
@@ -44,7 +99,21 @@
       "summary_ja": "Title: Show HN: Tenjin – A Jev based x402 tool router for Claude Code\nArticle title: GitHub - BackTrackCo/tenjin-agent: A router for Claude Code that finds and pays for research, data, and tools. Powered by x402 and USDC on Base, no API keys or accounts. · GitHub\nDescription: A router for Claude Code that finds and pays for research, data, and tools. Powered by x402 and USDC on Base, no API keys or accounts. - BackTrackCo/tenjin-agent\nHN text: Hey HN! We're Ali And Vrajang. We just created a tool router for Claude Code built on Jev. It basically gives your agent superpowers. You keep working like you always do. When Jev thinks a tool would help, it provides it to your agent and your agent uses it. It watches your masked prompts, session context, web searches and subagent tasks, so it knows exactly when to intervene. For now, tools come from a curated library. It's the basics like Exa, Fi…"
     },
     {
-      "rank": 4,
+      "rank": 8,
+      "hn_id": 49853442,
+      "title": "An LLM Beat NetHack",
+      "title_ja": "An LLM Beat NetHack",
+      "hn_url": "https://news.ycombinator.com/item?id=49853442",
+      "source_url": "https://kenforthewin.github.io/blog/posts/llm-nethack-ascension/",
+      "image_url": "https://kenforthewin.github.io/blog/",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-09-26T05:18:53Z",
+      "summary_ja": "Title: An LLM Beat NetHack\nArticle title: An LLM Beat NetHack | Vaguely Aligned\nDescription: To my knowledge, the first recorded LLM-agent NetHack ascension\n\nArticle text:\nAn LLM Beat NetHack | Vaguely Aligned Vaguely Aligned\nHome\nHarness Architecture Observations: a terminal, with some structure\nActions: batching without blindly holding down a key\nHelpers: let code do the tedious parts\nMemory: files, not one enormous conversation\nOpen book, including the source\nGPT 6 Astra beat NetHack. As far as I can determine, this is the first recorded ascension by an LLM agent.\nIt played NetHack 3.6.7 on Hardfought, through a terminal, as a dwarven Valkyrie named CodexDelver. On September 21, after 37,140 game turns, it ascended. Here’s the server dump , or jump down to explore all three runs .\nI’ve been working on getting LLMs to play NetHack for a while. Back in January, I wrote about building a…"
+    },
+    {
+      "rank": 9,
       "hn_id": 49851883,
       "title": "Generate fonts where every LLM token is the same width",
       "title_ja": "Generate fonts where every LLM token is the same width",
@@ -55,6 +124,32 @@
       "comments": 0,
       "posted_at": "2026-09-26T00:30:03Z",
       "summary_ja": "Title: Generate fonts where every LLM token is the same width\nArticle title: Token-space font compiler\nDescription: Generate fonts where every LLM token is the same width\n\nArticle text:\nSince I lack domain expertise with fonts, this may be slop 1\nToken-space font compiler\nfont + tokenizer → token-space font, where each token is equal width\nType or paste your text above. Compiling a new font switches this\npreview to it.\nBase font\nInter\ngg sans (Discord)\nSF Compact — SF Pro widths\nRoboto\nLora\nSF Mono\nUbuntu Mono\nJetBrains Mono\nBebas Neue\nCaveat\nUpload a font\nTTF, OTF, WOFF or WOFF2\nTokenizer\nDeepSeek V4.1 Flash\nctok v4.8\nctok v4.7\nctok v3\no200k_base\ncl100k_base\np50k_base\nr50k_base\nKimi K3\nGLM-5.3 (experimental)\nLLaMa 3 (experimental — not yet available)\nQwen 3.6\nGemma 4 (experimental)\nGemini 3.5 Flash (experimental)\nPaste Hugging Face repo link… (experimental)\nUpload a tokenizer (experimen…"
+    },
+    {
+      "rank": 10,
+      "hn_id": 49853553,
+      "title": "Show HN: Botbin.io – pastebin for AI agent artifacts",
+      "title_ja": "Show HN: Botbin.io – pastebin for AI agent artifacts",
+      "hn_url": "https://news.ycombinator.com/item?id=49853553",
+      "source_url": "https://botbin.io/?md=true",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-09-26T05:42:40Z",
+      "summary_ja": "Title: Show HN: Botbin.io – pastebin for AI agent artifacts\n\nArticle text:\nbotbin.io — Pastebin for AI agent artifacts\nUSAGE:\n# Upload HTML artifact:\ncurl -d @dashboard.html https://botbin.io\n# Upload with custom title:\ncurl -H \"X-Title: Sales Report\" -d @report.html https://botbin.io\n# Upload directly from pipe:\ncat graph.html | curl --data-binary @- https://botbin.io\n# Update existing artifact (using Edit-Token from creation):\ncurl -X PUT -H \"Authorization: Bearer \u003ctoken\u003e\" -d @updated.html https://botbin.io/\u003cid\u003e\n# View raw HTML:\nhttps://botbin.io/\u003cid\u003e/raw\nMCP SERVER (Remote endpoint):\nURL: https://botbin.io/mcp\nTools: publish, update, get\nAGENTS SPEC:\nhttps://botbin.io/agents.md\nhttps://botbin.io/llms.txt"
+    },
+    {
+      "rank": 11,
+      "hn_id": 49853440,
+      "title": "Stanford student was erased after university photo change sparks AI controversy",
+      "title_ja": "Stanford student was erased after university photo change sparks AI controversy",
+      "hn_url": "https://news.ycombinator.com/item?id=49853440",
+      "source_url": "https://www.cleveland.com/news/2026/09/stanford-student-says-he-was-erased-after-university-photo-change-sparks-ai-controversy.html",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-09-26T05:18:36Z",
+      "summary_ja": "Title: Stanford student was erased after university photo change sparks AI controversy"
     }
   ]
 }

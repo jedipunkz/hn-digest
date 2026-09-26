@@ -1,0 +1,60 @@
+{
+  "date": "2026-09-26",
+  "generated_at": "2026-09-26T00:32:01Z",
+  "articles": [
+    {
+      "rank": 1,
+      "hn_id": 49851475,
+      "title": "Our Big Dumb AI Gods Are Wrong",
+      "title_ja": "Our Big Dumb AI Gods Are Wrong",
+      "hn_url": "https://news.ycombinator.com/item?id=49851475",
+      "source_url": "https://news.massopen.ai/our-big-dumb-ai-gods-were-wrong/",
+      "image_url": "https://news.massopen.ai/content/images/size/w1200/2026/09/unix-primitives.png",
+      "score": 2,
+      "final_score": 4,
+      "comments": 1,
+      "posted_at": "2026-09-25T23:34:03Z",
+      "summary_ja": "Title: Our Big Dumb AI Gods Are Wrong\nArticle title: Our Big Dumb AI Gods Were Wrong\nDescription: I, for one, welcome our new UNIX primitive AI overlords\n\nArticle text:\nSkip to content\nMass Open\nMission\nOur Big Dumb AI Gods Were Wrong\nI, for one, welcome our new UNIX primitive AI overlords\nJohn Mark Walker\n·\n25 September 2026\n·\n3 min read\nJev was released to much fanfare on September 20, 2026, by Typesafe.ai. It’s one of those moments where there’s a “before” and an “after”. For years, now, we’ve been told that we must have more compute, more storage, more memory, and more datacenters . More, more, more… the AI juggernaut has an insatiable hunger for all things infrastructure. This was the lie promulgated by Sam, Amodei, and to some extent, even Jensen. Jev shows us that there’s another way to do AI. If we focus on automation, trustworthy workflows, and other facets of “composable AI”, t…"
+    },
+    {
+      "rank": 2,
+      "hn_id": 49851584,
+      "title": "Jev Plays Pokémon Red (LIVE): an AI decision model plays the whole game [video]",
+      "title_ja": "Jev Plays Pokémon Red (LIVE): an AI decision model plays the whole game [video]",
+      "hn_url": "https://news.ycombinator.com/item?id=49851584",
+      "source_url": "https://www.youtube.com/watch?v=1HMOA3BawXg",
+      "score": 2,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-09-25T23:43:26Z",
+      "summary_ja": "Title: Jev Plays Pokémon Red (LIVE): an AI decision model plays the whole game [video]\nArticle title: - YouTube\nDescription: Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.\n\nArticle text:\n- YouTube About Press Copyright Contact us Creators Advertise Developers Terms Privacy Policy \u0026 Safety How YouTube works Test new features NFL Sunday Ticket © 2026 Google LLC"
+    },
+    {
+      "rank": 3,
+      "hn_id": 49851853,
+      "title": "Show HN: Tenjin – A Jev based x402 tool router for Claude Code",
+      "title_ja": "Show HN: Tenjin – A Jev based x402 tool router for Claude Code",
+      "hn_url": "https://news.ycombinator.com/item?id=49851853",
+      "source_url": "https://github.com/BackTrackCo/tenjin-agent",
+      "image_url": "https://opengraph.githubassets.com/cbb6526d4394cd964d41fad41ea5d0cd77ef84e6667983f10e80f1ced87f5710/BackTrackCo/tenjin-agent",
+      "score": 1,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-09-26T00:25:57Z",
+      "summary_ja": "Title: Show HN: Tenjin – A Jev based x402 tool router for Claude Code\nArticle title: GitHub - BackTrackCo/tenjin-agent: A router for Claude Code that finds and pays for research, data, and tools. Powered by x402 and USDC on Base, no API keys or accounts. · GitHub\nDescription: A router for Claude Code that finds and pays for research, data, and tools. Powered by x402 and USDC on Base, no API keys or accounts. - BackTrackCo/tenjin-agent\nHN text: Hey HN! We're Ali And Vrajang. We just created a tool router for Claude Code built on Jev. It basically gives your agent superpowers. You keep working like you always do. When Jev thinks a tool would help, it provides it to your agent and your agent uses it. It watches your masked prompts, session context, web searches and subagent tasks, so it knows exactly when to intervene. For now, tools come from a curated library. It's the basics like Exa, Fi…"
+    },
+    {
+      "rank": 4,
+      "hn_id": 49851883,
+      "title": "Generate fonts where every LLM token is the same width",
+      "title_ja": "Generate fonts where every LLM token is the same width",
+      "hn_url": "https://news.ycombinator.com/item?id=49851883",
+      "source_url": "https://ampdot.mesh.host/token-space-fonts.html",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-09-26T00:30:03Z",
+      "summary_ja": "Title: Generate fonts where every LLM token is the same width\nArticle title: Token-space font compiler\nDescription: Generate fonts where every LLM token is the same width\n\nArticle text:\nSince I lack domain expertise with fonts, this may be slop 1\nToken-space font compiler\nfont + tokenizer → token-space font, where each token is equal width\nType or paste your text above. Compiling a new font switches this\npreview to it.\nBase font\nInter\ngg sans (Discord)\nSF Compact — SF Pro widths\nRoboto\nLora\nSF Mono\nUbuntu Mono\nJetBrains Mono\nBebas Neue\nCaveat\nUpload a font\nTTF, OTF, WOFF or WOFF2\nTokenizer\nDeepSeek V4.1 Flash\nctok v4.8\nctok v4.7\nctok v3\no200k_base\ncl100k_base\np50k_base\nr50k_base\nKimi K3\nGLM-5.3 (experimental)\nLLaMa 3 (experimental — not yet available)\nQwen 3.6\nGemma 4 (experimental)\nGemini 3.5 Flash (experimental)\nPaste Hugging Face repo link… (experimental)\nUpload a tokenizer (experimen…"
+    }
+  ]
+}

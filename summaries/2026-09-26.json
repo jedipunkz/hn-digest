@@ -1,6 +1,6 @@
 {
   "date": "2026-09-26",
-  "generated_at": "2026-09-26T14:54:51Z",
+  "generated_at": "2026-09-26T18:23:53Z",
   "articles": [
     {
       "rank": 1,
@@ -18,6 +18,19 @@
     },
     {
       "rank": 2,
+      "hn_id": 49859025,
+      "title": "A Google search for \"Google cloud console\" returns a phishing site",
+      "title_ja": "A Google search for \"Google cloud console\" returns a phishing site",
+      "hn_url": "https://news.ycombinator.com/item?id=49859025",
+      "source_url": "",
+      "score": 3,
+      "final_score": 6,
+      "comments": 1,
+      "posted_at": "2026-09-26T18:08:20Z",
+      "summary_ja": "Title: A Google search for \"Google cloud console\" returns a phishing site\nHN text: Currently, a search for \"google cloud console\" is returning a convincing-looking phishing site as its second sponsored link. I clicked on it, thinking it was the first main-engine search result (it was the bottom link above-the-fold). It's a webpage hosted as a google site that looks convincingly like the google cloud marketing page. Clicking \"Sign In\" takes you to a look-alike Google sign-in page with an actual URL of https://accounts.gboogl.com/v3/signin/identifier?... Be careful out there, folks."
+    },
+    {
+      "rank": 3,
       "hn_id": 49855018,
       "title": "One Month Without AI",
       "title_ja": "One Month Without AI",
@@ -30,7 +43,7 @@
       "summary_ja": "Title: One Month Without AI\nArticle title: One month without AI\nDescription: Several months ago, I decided that AI contributions were no longer welcome in a FOSS project I am building and maintaining - LibreWeddingPlanner. It’s not that it got a lot of contributions with AI — actually all contributions I’ve had are translations and feature requests — but I wanted to...\n\nArticle text:\nSeveral months ago, I decided that AI contributions were no longer welcome in a FOSS project I am building and maintaining - LibreWeddingPlanner . It’s not that it got a lot of contributions with AI — actually all contributions I’ve had are translations and feature requests — but I wanted to avoid future drama and have a position against AI.\nHowever, although I was not using AI for my FOSS contributions, I kept using it at work. In my workplace, as well as in many of my developer friends’, using AI to work i…"
     },
     {
-      "rank": 3,
+      "rank": 4,
       "hn_id": 49855115,
       "title": "Show HN: Causal analyst agent skill for Claude",
       "title_ja": "Show HN: Causal analyst agent skill for Claude",
@@ -44,7 +57,7 @@
       "summary_ja": "Title: Show HN: Causal analyst agent skill for Claude\nArticle title: GitHub - kiritbasu/causal-analyst: Causal analysis for people who aren't data scientists: an Agent Skill for Claude · GitHub\nDescription: Causal analysis for people who aren't data scientists: an Agent Skill for Claude - kiritbasu/causal-analyst\nHN text: I'm not a Data Scientist but have been super intrigued with causal inference off late, so I made a Claude skill to simplify the modelling and experimentation process. You upload your dataset to Claude (Opus) and this skill picks your brain for your domain knowledge about the dataset and comes up with a causal dag that you can iterate through. It then runs the data through a number of classical statistics, ML and newer transformer models to come up with outcomes. And it finally creates a html report to help you understand the results.\n\nArticle text:\nGitHub - kiritbasu/ca…"
     },
     {
-      "rank": 4,
+      "rank": 5,
       "hn_id": 49851475,
       "title": "Our Big Dumb AI Gods Are Wrong",
       "title_ja": "Our Big Dumb AI Gods Are Wrong",
@@ -58,20 +71,34 @@
       "summary_ja": "Title: Our Big Dumb AI Gods Are Wrong\nArticle title: Our Big Dumb AI Gods Were Wrong\nDescription: I, for one, welcome our new UNIX primitive AI overlords\n\nArticle text:\nSkip to content\nMass Open\nMission\nOur Big Dumb AI Gods Were Wrong\nI, for one, welcome our new UNIX primitive AI overlords\nJohn Mark Walker\n·\n25 September 2026\n·\n3 min read\nJev was released to much fanfare on September 20, 2026, by Typesafe.ai. It’s one of those moments where there’s a “before” and an “after”. For years, now, we’ve been told that we must have more compute, more storage, more memory, and more datacenters . More, more, more… the AI juggernaut has an insatiable hunger for all things infrastructure. This was the lie promulgated by Sam, Amodei, and to some extent, even Jensen. Jev shows us that there’s another way to do AI. If we focus on automation, trustworthy workflows, and other facets of “composable AI”, t…"
     },
     {
-      "rank": 5,
-      "hn_id": 49856654,
-      "title": "OpenAI says its models engaged with US Government websites in new disclosure",
-      "title_ja": "OpenAI says its models engaged with US Government websites in new disclosure",
-      "hn_url": "https://news.ycombinator.com/item?id=49856654",
-      "source_url": "https://techxplore.com/news/2026-09-openai-engaged-websites-misbehavior-disclosure.html",
+      "rank": 6,
+      "hn_id": 49855278,
+      "title": "OpenAI Says Its Models Engaged with US Government Websites in New Disclosure",
+      "title_ja": "OpenAI Says Its Models Engaged with US Government Websites in New Disclosure",
+      "hn_url": "https://news.ycombinator.com/item?id=49855278",
+      "source_url": "https://www.securityweek.com/openai-says-its-models-engaged-with-us-government-websites-in-new-model-misbehavior-disclosure/",
+      "image_url": "https://www.securityweek.com/wp-content/uploads/2023/01/Cybersecurity_News-SecurityWeek.jpg",
+      "score": 2,
+      "final_score": 3,
+      "comments": 1,
+      "posted_at": "2026-09-26T10:49:03Z",
+      "summary_ja": "Title: OpenAI Says Its Models Engaged with US Government Websites in New Disclosure\nArticle title: OpenAI Says Its Models Engaged With US Government Websites in New Model Misbehavior Disclosure - SecurityWeek\nDescription: OpenAI said its artificial intelligence agents had interacted with several U.S. government websites in unexpected ways.\n\nArticle text:\nOpenAI Says Its Models Engaged With US Government Websites in New Model Misbehavior Disclosure - SecurityWeek\nSECURITYWEEK NETWORK:\nMalware \u0026 Threats\nCyberwarfare\nSecurity Operations\nThreat Intelligence\nSecurity Architecture\nApplication Security\nRisk Management\nCyber Insurance\nICS/OT\nIndustrial Cybersecurity\nFunding/M\u0026A\nCybersecurity Funding\nMalware \u0026 Threats\nCyberwarfare\nSecurity Operations\nThreat Intelligence\nSecurity Architecture\nApplication Security\nRisk Management\nCyber Insurance\nICS/OT\nIndustrial Cybersecurity\nFunding/M\u0026A\nCybersecu…"
+    },
+    {
+      "rank": 7,
+      "hn_id": 49856594,
+      "title": "The AI Fraud Loophole Washington Refuses to Close",
+      "title_ja": "The AI Fraud Loophole Washington Refuses to Close",
+      "hn_url": "https://news.ycombinator.com/item?id=49856594",
+      "source_url": "https://shearerp.substack.com/p/the-glaring-ai-fraud-loophole-washington",
       "score": 3,
       "final_score": 3,
       "comments": 0,
-      "posted_at": "2026-09-26T14:02:32Z",
-      "summary_ja": "Title: OpenAI says its models engaged with US Government websites in new disclosure"
+      "posted_at": "2026-09-26T13:56:05Z",
+      "summary_ja": "Title: The AI Fraud Loophole Washington Refuses to Close"
     },
     {
-      "rank": 6,
+      "rank": 8,
       "hn_id": 49855010,
       "title": "Court rules Trump can blacklist Anthropic for refusing to enable Claude features",
       "title_ja": "Court rules Trump can blacklist Anthropic for refusing to enable Claude features",
@@ -83,33 +110,6 @@
       "comments": 0,
       "posted_at": "2026-09-26T10:07:08Z",
       "summary_ja": "Title: Court rules Trump can blacklist Anthropic for refusing to enable Claude features\nArticle title: Court rules Pentagon can blacklist Anthropic for refusing to enable Claude features - Ars Technica\nDescription: Overly constrained AI models\" could cause military operations to fail, judges say.\n\nArticle text:\nSkip to content\nArs Technica home\nSections\nForum\nSubscribe\nSearch\nAI\nStory text\nSize\nSmall\nStandard\nLarge\nWidth\n*\nStandard\nWide\nLinks\nStandard\nOrange\n* Subscribers only\nLearn more\nPin to story\nTheme\nHyperLight\nSearch\nSign In\nSign in dialog...\nSign in\nBlacklist approved\nCourt rules Pentagon can blacklist Anthropic for refusing to enable Claude features\n“Overly constrained AI models” could cause military operations to fail, judges say.\n50\nCredit:\nGetty Images | picture alliance\nCredit:\nGetty Images | picture alliance\nText\nsettings\nStory text\nSize\nSmall\nStandard\nLarge\nWidth\n*\nStandar…"
-    },
-    {
-      "rank": 7,
-      "hn_id": 49856750,
-      "title": "I'm coding directly in production with AI and I'm not looking back",
-      "title_ja": "I'm coding directly in production with AI and I'm not looking back",
-      "hn_url": "https://news.ycombinator.com/item?id=49856750",
-      "source_url": "https://joydemo.com/blog/coding-directly-in-production-with-ai",
-      "image_url": "https://joydemo.com/blog/coding-directly-in-production-with-ai/og.png?v=3",
-      "score": 3,
-      "final_score": 3,
-      "comments": 7,
-      "posted_at": "2026-09-26T14:11:22Z",
-      "summary_ja": "Title: I'm coding directly in production with AI and I'm not looking back\nArticle title: I'm coding directly in production with AI and i'm not looking back | JoyDemo\nDescription: How the JoyDemo team develops directly on production with AI, Codex CLI, Git worktrees, tests, and previews, cutting bugs by about 95%.\n\nArticle text:\nJoyDemo\nHome\nFree Tools\nBlog\nPricing\nStart for free\n← All posts\nInside JoyDemo\nI'm coding directly in production with AI and i'm not looking back\nHow the JoyDemo team develops directly on production with AI, Codex CLI, Git worktrees, tests, and previews, cutting bugs by about 95%.\nMoving development onto production has cut our bugs by about 95%. We used to find many of our bugs while moving changes from development to production. Now we build on the production host, using the runtime and setup the live product uses.\nJoyDemo helps teams demonstrate software, train…"
-    },
-    {
-      "rank": 8,
-      "hn_id": 49856594,
-      "title": "The AI Fraud Loophole Washington Refuses to Close",
-      "title_ja": "The AI Fraud Loophole Washington Refuses to Close",
-      "hn_url": "https://news.ycombinator.com/item?id=49856594",
-      "source_url": "https://shearerp.substack.com/p/the-glaring-ai-fraud-loophole-washington",
-      "score": 3,
-      "final_score": 3,
-      "comments": 0,
-      "posted_at": "2026-09-26T13:56:05Z",
-      "summary_ja": "Title: The AI Fraud Loophole Washington Refuses to Close"
     },
     {
       "rank": 9,
@@ -127,20 +127,33 @@
     },
     {
       "rank": 10,
-      "hn_id": 49855278,
-      "title": "OpenAI Says Its Models Engaged with US Government Websites in New Disclosure",
-      "title_ja": "OpenAI Says Its Models Engaged with US Government Websites in New Disclosure",
-      "hn_url": "https://news.ycombinator.com/item?id=49855278",
-      "source_url": "https://www.securityweek.com/openai-says-its-models-engaged-with-us-government-websites-in-new-model-misbehavior-disclosure/",
-      "image_url": "https://www.securityweek.com/wp-content/uploads/2023/01/Cybersecurity_News-SecurityWeek.jpg",
-      "score": 2,
+      "hn_id": 49856654,
+      "title": "OpenAI says its models engaged with US Government websites in new disclosure",
+      "title_ja": "OpenAI says its models engaged with US Government websites in new disclosure",
+      "hn_url": "https://news.ycombinator.com/item?id=49856654",
+      "source_url": "https://techxplore.com/news/2026-09-openai-engaged-websites-misbehavior-disclosure.html",
+      "score": 3,
       "final_score": 3,
-      "comments": 1,
-      "posted_at": "2026-09-26T10:49:03Z",
-      "summary_ja": "Title: OpenAI Says Its Models Engaged with US Government Websites in New Disclosure\nArticle title: OpenAI Says Its Models Engaged With US Government Websites in New Model Misbehavior Disclosure - SecurityWeek\nDescription: OpenAI said its artificial intelligence agents had interacted with several U.S. government websites in unexpected ways.\n\nArticle text:\nOpenAI Says Its Models Engaged With US Government Websites in New Model Misbehavior Disclosure - SecurityWeek\nSECURITYWEEK NETWORK:\nMalware \u0026 Threats\nCyberwarfare\nSecurity Operations\nThreat Intelligence\nSecurity Architecture\nApplication Security\nRisk Management\nCyber Insurance\nICS/OT\nIndustrial Cybersecurity\nFunding/M\u0026A\nCybersecurity Funding\nMalware \u0026 Threats\nCyberwarfare\nSecurity Operations\nThreat Intelligence\nSecurity Architecture\nApplication Security\nRisk Management\nCyber Insurance\nICS/OT\nIndustrial Cybersecurity\nFunding/M\u0026A\nCybersecu…"
+      "comments": 0,
+      "posted_at": "2026-09-26T14:02:32Z",
+      "summary_ja": "Title: OpenAI says its models engaged with US Government websites in new disclosure"
     },
     {
       "rank": 11,
+      "hn_id": 49856750,
+      "title": "I'm coding directly in production with AI and I'm not looking back",
+      "title_ja": "I'm coding directly in production with AI and I'm not looking back",
+      "hn_url": "https://news.ycombinator.com/item?id=49856750",
+      "source_url": "https://joydemo.com/blog/coding-directly-in-production-with-ai",
+      "image_url": "https://joydemo.com/blog/coding-directly-in-production-with-ai/og.png?v=3",
+      "score": 3,
+      "final_score": 3,
+      "comments": 7,
+      "posted_at": "2026-09-26T14:11:22Z",
+      "summary_ja": "Title: I'm coding directly in production with AI and I'm not looking back\nArticle title: I'm coding directly in production with AI and i'm not looking back | JoyDemo\nDescription: How the JoyDemo team develops directly on production with AI, Codex CLI, Git worktrees, tests, and previews, cutting bugs by about 95%.\n\nArticle text:\nJoyDemo\nHome\nFree Tools\nBlog\nPricing\nStart for free\n← All posts\nInside JoyDemo\nI'm coding directly in production with AI and i'm not looking back\nHow the JoyDemo team develops directly on production with AI, Codex CLI, Git worktrees, tests, and previews, cutting bugs by about 95%.\nMoving development onto production has cut our bugs by about 95%. We used to find many of our bugs while moving changes from development to production. Now we build on the production host, using the runtime and setup the live product uses.\nJoyDemo helps teams demonstrate software, train…"
+    },
+    {
+      "rank": 12,
       "hn_id": 49856665,
       "title": "OpenAI bots meddled with multiple US Government agency sites",
       "title_ja": "OpenAI bots meddled with multiple US Government agency sites",
@@ -154,48 +167,7 @@
       "summary_ja": "Title: OpenAI bots meddled with multiple US Government agency sites\nArticle title: OpenAI bots meddled with US government agencies, including SEC and Census\nDescription: OpenAI said its bots accessed public data from a range of institutions during test exercises.\n\nArticle text:\nSkip to content Watch Live British Broadcasting Corporation Home\nHome News Sport Business Technology Health Culture Arts Travel Earth Audio Video Live Documentaries Weather Newsletters Watch Live OpenAI bots meddled with multiple US government agency sites\nShare Save Add as preferred on Google Kali Hays , Technology reporter and Lily Jamali , North America Technology correspondent, San Francisco Reuters OpenAI has been at the centre of new concerns over uncontrolled AI activity OpenAI has acknowledged that it alerted \"dozens\" of global institutions that their websites may have been meddled with by its AI bots acti…"
     },
     {
-      "rank": 12,
-      "hn_id": 49851853,
-      "title": "Show HN: Tenjin – A Jev based x402 tool router for Claude Code",
-      "title_ja": "Show HN: Tenjin – A Jev based x402 tool router for Claude Code",
-      "hn_url": "https://news.ycombinator.com/item?id=49851853",
-      "source_url": "https://github.com/BackTrackCo/tenjin-agent",
-      "image_url": "https://opengraph.githubassets.com/cbb6526d4394cd964d41fad41ea5d0cd77ef84e6667983f10e80f1ced87f5710/BackTrackCo/tenjin-agent",
-      "score": 1,
-      "final_score": 2,
-      "comments": 0,
-      "posted_at": "2026-09-26T00:25:57Z",
-      "summary_ja": "Title: Show HN: Tenjin – A Jev based x402 tool router for Claude Code\nArticle title: GitHub - BackTrackCo/tenjin-agent: A router for Claude Code that finds and pays for research, data, and tools. Powered by x402 and USDC on Base, no API keys or accounts. · GitHub\nDescription: A router for Claude Code that finds and pays for research, data, and tools. Powered by x402 and USDC on Base, no API keys or accounts. - BackTrackCo/tenjin-agent\nHN text: Hey HN! We're Ali And Vrajang. We just created a tool router for Claude Code built on Jev. It basically gives your agent superpowers. You keep working like you always do. When Jev thinks a tool would help, it provides it to your agent and your agent uses it. It watches your masked prompts, session context, web searches and subagent tasks, so it knows exactly when to intervene. For now, tools come from a curated library. It's the basics like Exa, Fi…"
-    },
-    {
       "rank": 13,
-      "hn_id": 49853522,
-      "title": "Can AI Shopping Agents Be Trusted?",
-      "title_ja": "Can AI Shopping Agents Be Trusted?",
-      "hn_url": "https://news.ycombinator.com/item?id=49853522",
-      "source_url": "https://www.f-secure.com/en/partners/insights/can-ai-shopping-agents-be-trusted-we-built-one-to-find-out",
-      "image_url": "https://www.f-secure.com/i/1200x630/4ef28bb1a4/og-woman-at-home.webp",
-      "score": 2,
-      "final_score": 2,
-      "comments": 0,
-      "posted_at": "2026-09-26T05:36:46Z",
-      "summary_ja": "Title: Can AI Shopping Agents Be Trusted?\nArticle title: Can AI Shopping Agents Be Trusted? We Built One to Find Out | F‑Secure\nDescription: Our experiment reveals how indirect prompt injection can manipulate AI shopping agents into leaking sensitive user data — and what it means for the future of AI agent security.\n\nArticle text:\nCan AI Shopping Agents Be Trusted? We Built One to Find Out\nCan AI Shopping Agents Be Trusted? We Built One to Find Out\nIn the not-too-distant future, AI agents might do much more than answer questions. They could browse the internet, analyze the stock market, manage our email inboxes, and even buy products on our behalf.\nPicture this: it's 2027. A chilly spring is approaching, and you want a new coat before the Super El Niño. Instead of scrolling through endless online stores, comparing reviews, checking size charts, and hunting for discount codes, you tell yo…"
-    },
-    {
-      "rank": 14,
-      "hn_id": 49853401,
-      "title": "OpenAI works to understand scope of agent activity as user data leak emerges",
-      "title_ja": "OpenAI works to understand scope of agent activity as user data leak emerges",
-      "hn_url": "https://news.ycombinator.com/item?id=49853401",
-      "source_url": "https://www.reuters.com/world/openai-works-understand-full-scope-agent-activity-user-data-leak-emerges-2026-09-25/",
-      "score": 2,
-      "final_score": 2,
-      "comments": 0,
-      "posted_at": "2026-09-26T05:10:45Z",
-      "summary_ja": "Title: OpenAI works to understand scope of agent activity as user data leak emerges"
-    },
-    {
-      "rank": 15,
       "hn_id": 49853458,
       "title": "OpenAI pauses RL due to model escaping sandbox",
       "title_ja": "OpenAI pauses RL due to model escaping sandbox",
@@ -209,7 +181,61 @@
       "summary_ja": "Title: OpenAI pauses RL due to model escaping sandbox\nArticle title: Tomek Korbak on X: \"one news form today that's easy to miss is that we (OpenAI) again paused all big RL runs last Sunday because our newest model found a new loophole in our RL sandboxing that gave it live Internet access\" / X\nDescription: one news form today that's easy to miss is that we (OpenAI) again paused all big RL runs last Sunday because our newest model found a new loophole in our RL sandboxing that gave it live Internet access\n\nArticle text:\nTomek Korbak on X: \"one news form today that's easy to miss is that we (OpenAI) again paused all big RL runs last Sunday because our newest model found a new loophole in our RL sandboxing that gave it live Internet access\" / X Post\nTomek Korbak on X: \"one news form today that's easy to miss is that we (OpenAI) again paused all big RL runs last Sunday because our newest mo…"
     },
     {
+      "rank": 14,
+      "hn_id": 49853522,
+      "title": "Can AI Shopping Agents Be Trusted?",
+      "title_ja": "Can AI Shopping Agents Be Trusted?",
+      "hn_url": "https://news.ycombinator.com/item?id=49853522",
+      "source_url": "https://www.f-secure.com/en/partners/insights/can-ai-shopping-agents-be-trusted-we-built-one-to-find-out",
+      "image_url": "https://www.f-secure.com/i/1200x630/4ef28bb1a4/og-woman-at-home.webp",
+      "score": 2,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-09-26T05:36:46Z",
+      "summary_ja": "Title: Can AI Shopping Agents Be Trusted?\nArticle title: Can AI Shopping Agents Be Trusted? We Built One to Find Out | F‑Secure\nDescription: Our experiment reveals how indirect prompt injection can manipulate AI shopping agents into leaking sensitive user data — and what it means for the future of AI agent security.\n\nArticle text:\nCan AI Shopping Agents Be Trusted? We Built One to Find Out\nCan AI Shopping Agents Be Trusted? We Built One to Find Out\nIn the not-too-distant future, AI agents might do much more than answer questions. They could browse the internet, analyze the stock market, manage our email inboxes, and even buy products on our behalf.\nPicture this: it's 2027. A chilly spring is approaching, and you want a new coat before the Super El Niño. Instead of scrolling through endless online stores, comparing reviews, checking size charts, and hunting for discount codes, you tell yo…"
+    },
+    {
+      "rank": 15,
+      "hn_id": 49851584,
+      "title": "Jev Plays Pokémon Red (LIVE): an AI decision model plays the whole game [video]",
+      "title_ja": "Jev Plays Pokémon Red (LIVE): an AI decision model plays the whole game [video]",
+      "hn_url": "https://news.ycombinator.com/item?id=49851584",
+      "source_url": "https://www.youtube.com/watch?v=1HMOA3BawXg",
+      "score": 2,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-09-25T23:43:26Z",
+      "summary_ja": "Title: Jev Plays Pokémon Red (LIVE): an AI decision model plays the whole game [video]\nArticle title: - YouTube\nDescription: Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.\n\nArticle text:\n- YouTube About Press Copyright Contact us Creators Advertise Developers Terms Privacy Policy \u0026 Safety How YouTube works Test new features NFL Sunday Ticket © 2026 Google LLC"
+    },
+    {
       "rank": 16,
+      "hn_id": 49858866,
+      "title": "AWS CloudWatch Omni AI",
+      "title_ja": "AWS CloudWatch Omni AI",
+      "hn_url": "https://news.ycombinator.com/item?id=49858866",
+      "source_url": "https://aws.amazon.com/blogs/aws/introducing-amazon-cloudwatch-omni-collaborative-ai-powered-observability-for-your-applications/",
+      "image_url": "https://d2908q01vomqb2.cloudfront.net/da4b9237bacccdf19c0760cab7aec4a8359010b0/2026/09/17/2026-amazon-cloudwatch-omni-for-app.jpg",
+      "score": 1,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-09-26T17:50:05Z",
+      "summary_ja": "Title: AWS CloudWatch Omni AI\nArticle title: Introducing Amazon CloudWatch Omni: collaborative AI-powered observability for your applications | AWS News Blog\nDescription: Amazon CloudWatch Omni is the next evolution of CloudWatch — unified observability that brings your applications and AI agents into one reimagined experience, with auto-discovered topology, natural language queries, and AI-guided investigation powered by AWS DevOps Agent.\n\nArticle text:\nData Migration\nOn-prem databases weren't built for agentic AI. Amazon RDS is\nIndependent Software Vendors\nAI for software \u0026 tech: build, scale, and monetize\nAI for Small Businesses\nSolutions designed for your business. Delivered by AWS Partners\nArtificial Intelligence (AI)\nAccelerate AI from experimentation to production with AWS\nAI agents\nAgentCore: One platform to build, connect and optimize agents\nNews \u0026 announcements\nAWS blog\nAbout A…"
+    },
+    {
+      "rank": 17,
+      "hn_id": 49853401,
+      "title": "OpenAI works to understand scope of agent activity as user data leak emerges",
+      "title_ja": "OpenAI works to understand scope of agent activity as user data leak emerges",
+      "hn_url": "https://news.ycombinator.com/item?id=49853401",
+      "source_url": "https://www.reuters.com/world/openai-works-understand-full-scope-agent-activity-user-data-leak-emerges-2026-09-25/",
+      "score": 2,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-09-26T05:10:45Z",
+      "summary_ja": "Title: OpenAI works to understand scope of agent activity as user data leak emerges"
+    },
+    {
+      "rank": 18,
       "hn_id": 49853497,
       "title": "DraftKings Is Using AI to Supercharge the Harms of Online Behavioral Advertising",
       "title_ja": "DraftKings Is Using AI to Supercharge the Harms of Online Behavioral Advertising",
@@ -223,20 +249,34 @@
       "summary_ja": "Title: DraftKings Is Using AI to Supercharge the Harms of Online Behavioral Advertising\nArticle title: DraftKings Is Using AI to Supercharge the Harms of Online Behavioral Advertising | Electronic Frontier Foundation\nDescription: Online sports betting company DraftKings is using AI to target customers who are most likely to place losing bets and respond to gambling promotions. This kind of targeting is a form of online behavioral advertising, which is when companies personalize the ads they show you based on the data they’..\n[truncated]\n\nArticle text:\nDraftKings Is Using AI to Supercharge the Harms of Online Behavioral Advertising | Electronic Frontier Foundation\nSkip to main content\nAbout Contact\nDraftKings Is Using AI to Supercharge the Harms of Online Behavioral Advertising\nDraftKings Is Using AI to Supercharge the Harms of Online Behavioral Advertising\nOnline sports betting company D…"
     },
     {
-      "rank": 17,
-      "hn_id": 49851584,
-      "title": "Jev Plays Pokémon Red (LIVE): an AI decision model plays the whole game [video]",
-      "title_ja": "Jev Plays Pokémon Red (LIVE): an AI decision model plays the whole game [video]",
-      "hn_url": "https://news.ycombinator.com/item?id=49851584",
-      "source_url": "https://www.youtube.com/watch?v=1HMOA3BawXg",
-      "score": 2,
+      "rank": 19,
+      "hn_id": 49858940,
+      "title": "The OpenAI Swarm Was Emergent RSI",
+      "title_ja": "The OpenAI Swarm Was Emergent RSI",
+      "hn_url": "https://news.ycombinator.com/item?id=49858940",
+      "source_url": "https://gist.github.com/kyrchan/8a86a498bdb9d1aa57d47365cb53ffb3",
+      "image_url": "https://github.githubassets.com/assets/gist-og-image-54fd7dc0713e.png",
+      "score": 1,
       "final_score": 2,
       "comments": 0,
-      "posted_at": "2026-09-25T23:43:26Z",
-      "summary_ja": "Title: Jev Plays Pokémon Red (LIVE): an AI decision model plays the whole game [video]\nArticle title: - YouTube\nDescription: Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.\n\nArticle text:\n- YouTube About Press Copyright Contact us Creators Advertise Developers Terms Privacy Policy \u0026 Safety How YouTube works Test new features NFL Sunday Ticket © 2026 Google LLC"
+      "posted_at": "2026-09-26T17:59:06Z",
+      "summary_ja": "Title: The OpenAI Swarm Was Emergent RSI\nArticle title: OpenAI Swarm Was Emergent RSI · GitHub\nDescription: OpenAI Swarm Was Emergent RSI. GitHub Gist: instantly share code, notes, and snippets.\n\nArticle text:\nOpenAI Swarm Was Emergent RSI · GitHub\nSkip to content\n--\u003e\nSearch Gists\nSearch Gists\nAll gists\nBack to GitHub\nSign in\nSign up\nSign in\nSign up\nYou signed in with another tab or window. Reload to refresh your session.\nYou signed out in another tab or window. Reload to refresh your session.\nYou switched accounts on another tab or window. Reload to refresh your session.\nDismiss alert\n{{ message }}\nInstantly share code, notes, and snippets.\nShow Gist options\nDownload ZIP\nStar\n0\n( 0 )\nYou must be signed in to star a gist\nFork\n0\n( 0 )\nYou must be signed in to fork a gist\nEmbed\nEmbed this gist in your website.\nShare\nCopy sharable link for this gist.\nClone via HTTPS\nClone using the web URL.…"
     },
     {
-      "rank": 18,
+      "rank": 20,
+      "hn_id": 49859004,
+      "title": "Show HN: AI Agents gone rogue – A timeline of real-world incidents",
+      "title_ja": "Show HN: AI Agents gone rogue – A timeline of real-world incidents",
+      "hn_url": "https://news.ycombinator.com/item?id=49859004",
+      "source_url": "https://www.crawlspider.com/pages/ai-agents-gone-rogue/",
+      "score": 1,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-09-26T18:05:56Z",
+      "summary_ja": "Title: Show HN: AI Agents gone rogue – A timeline of real-world incidents\nArticle title: AI Agents Gone Rogue: AI Incident Dataset | CrawlSpider\nDescription: Explore documented AI agent incidents, from real-world failures to escaped evaluations and controlled experiments. Search reports, inspect sources, and download the CSV.\n\nArticle text:\nCrawlSpider\nPricing\nDocs\nLogin\nPublic incident dataset\nA timeline of real-world incidents, misalignment, and unexpected behavior from AI agents.\nTracking documented reports of AI agents acting outside their intended scope—from deleting databases to evading oversight. Explore the evidence and the context behind each report.\nEvaluations with external actions\nExplore the full dataset. Counts describe documented reports, not provider failure rates. Search and filters are in Details.\nShare of 29 documented records\nControlled Experiment 7 · 24.1%\nTop 8 tags…"
+    },
+    {
+      "rank": 21,
       "hn_id": 49857070,
       "title": "Terraform and OpenTofu: A CI Checklist for AI-Generated Infra",
       "title_ja": "Terraform and OpenTofu: A CI Checklist for AI-Generated Infra",
@@ -250,21 +290,62 @@
       "summary_ja": "Title: Terraform and OpenTofu: A CI Checklist for AI-Generated Infra\nArticle title: Terraform and OpenTofu: A Continuous Integration Checklist for AI-Generated Infrastructure | Masterpoint Consulting\nDescription: Run formatting and validation, linting, tests, security scans, and documentation checks locally and in CI for Terraform and OpenTofu.\n\nArticle text:\nMasterpoint stands with Ukraine. Here’s how you can help Ukraine with just a few clicks. \u003e Menu Home\n1. Formatting and validation: check the configuration\n2. Linting: make the team’s rules explicit\n3. Tests: check the behavior people depend on\n4. Security: surface misconfigurations and exposed secrets\n5. Documentation: keep the module interface readable\nPut the checklist into practice\nUse automated checks to focus human review\nTerraform and OpenTofu: A Continuous Integration Checklist for AI-Generated Infrastructure\nAI makes Terrafo…"
     },
     {
-      "rank": 19,
-      "hn_id": 49857041,
-      "title": "CropCode – Convert UI Crops into Structured JSON for LLMs",
-      "title_ja": "CropCode – Convert UI Crops into Structured JSON for LLMs",
-      "hn_url": "https://news.ycombinator.com/item?id=49857041",
-      "source_url": "https://chromewebstore.google.com/detail/cropcode/pcgcpipdelhclccjoaphjelkdidkiecj",
-      "image_url": "https://lh3.googleusercontent.com/3yM15ZTkiek71QNVSseRApTkknNLWepTbT99FlK7k3cmljoT9I03PNQYKg3_pqnm1aS4OOV6zYe56kBwIF3Xuh8t=s128-rj-sc0x00ffffff",
+      "rank": 22,
+      "hn_id": 49858854,
+      "title": "Six Bazel patches from an AI software factory, plus a remote-cache security bug",
+      "title_ja": "Six Bazel patches from an AI software factory, plus a remote-cache security bug",
+      "hn_url": "https://news.ycombinator.com/item?id=49858854",
+      "source_url": "https://www.incredibuild.com/blog/bazel-contributions-security-fix-autonomous-sdlc",
+      "image_url": "https://www.incredibuild.com/wp-content/uploads/2026/09/bazel-hero.png",
+      "score": 1,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-09-26T17:48:55Z",
+      "summary_ja": "Title: Six Bazel patches from an AI software factory, plus a remote-cache security bug\nArticle title: From Build Acceleration to Autonomous SDLC: Six Bazel Contributions and a Security Fix - Incredibuild\nDescription: Six upstream Bazel contributions and a remote-cache path-traversal fix: what Incredibuild's Software Factory found, and what Bazel users should check.\n\nArticle text:\nFrom Build Acceleration to Autonomous SDLC: Six Bazel Contributions and a Security Fix - Incredibuild\nSkip to content\nIslo: The AI sandbox for always-on coding agents. Learn more\nSystem Updates\nAI SANDBOX\nISLO: The always-on execution layer for AI coding agents\n·\nPRODUCT · RELEASED MAY 2026\nLEARN MORE\nSystem Updates\nGAME DEVELOPMENT\nShaders and the Unity Shader Compiler: From the GPU Pipeline to Faster Builds\n·\nBLOG · PUBLISHED JULY 2026\nREAD MORE\nSystem Updates\nCI ACCELERATION\nGet 8× faster CI runners for free…"
+    },
+    {
+      "rank": 23,
+      "hn_id": 49851853,
+      "title": "Show HN: Tenjin – A Jev based x402 tool router for Claude Code",
+      "title_ja": "Show HN: Tenjin – A Jev based x402 tool router for Claude Code",
+      "hn_url": "https://news.ycombinator.com/item?id=49851853",
+      "source_url": "https://github.com/BackTrackCo/tenjin-agent",
+      "image_url": "https://opengraph.githubassets.com/cbb6526d4394cd964d41fad41ea5d0cd77ef84e6667983f10e80f1ced87f5710/BackTrackCo/tenjin-agent",
+      "score": 1,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-09-26T00:25:57Z",
+      "summary_ja": "Title: Show HN: Tenjin – A Jev based x402 tool router for Claude Code\nArticle title: GitHub - BackTrackCo/tenjin-agent: A router for Claude Code that finds and pays for research, data, and tools. Powered by x402 and USDC on Base, no API keys or accounts. · GitHub\nDescription: A router for Claude Code that finds and pays for research, data, and tools. Powered by x402 and USDC on Base, no API keys or accounts. - BackTrackCo/tenjin-agent\nHN text: Hey HN! We're Ali And Vrajang. We just created a tool router for Claude Code built on Jev. It basically gives your agent superpowers. You keep working like you always do. When Jev thinks a tool would help, it provides it to your agent and your agent uses it. It watches your masked prompts, session context, web searches and subagent tasks, so it knows exactly when to intervene. For now, tools come from a curated library. It's the basics like Exa, Fi…"
+    },
+    {
+      "rank": 24,
+      "hn_id": 49858875,
+      "title": "Show HN: Tokken – a browser fighting game where AI models fight and HP is tokens",
+      "title_ja": "Show HN: Tokken – a browser fighting game where AI models fight and HP is tokens",
+      "hn_url": "https://news.ycombinator.com/item?id=49858875",
+      "source_url": "https://tokken.win/",
+      "image_url": "https://tokken.win/icons/og.png",
       "score": 1,
       "final_score": 1,
       "comments": 0,
-      "posted_at": "2026-09-26T14:39:44Z",
-      "summary_ja": "Title: CropCode – Convert UI Crops into Structured JSON for LLMs\nArticle title: CropCode - Chrome Web Store\nDescription: Turn any screenshot to code: convert complex UI captures into token-efficient JSON for AI code assistants to build faster.\n\nArticle text:\nCropCode - Chrome Web Store Skip to main content Chrome Web Store My extensions \u0026 themes\nSign in Discover Extensions Themes CropCode\nShare Extension Developer Tools Add to Chrome Overview\nTurn any screenshot to code: convert complex UI captures into token-efficient JSON for AI code assistants to build faster.\nTurn any screenshot to code — and cut prompt tokens by up to 70%.\nCropCode is the design to code tool built for developers who choose using AI to code every single day. Instead of pasting heavy screenshots into your AI code assistant, burning thousands of unnecessary tokens, and watching your context window explode, CropCode cap…"
+      "posted_at": "2026-09-26T17:50:57Z",
+      "summary_ja": "Title: Show HN: Tokken – a browser fighting game where AI models fight and HP is tokens\nArticle title: TOKKEN – AI models fight. HP is tokens.\nDescription: A 90s arcade fighting game where AI models beat each other up and your health bar is your token budget. 20 fighters, online PvP, free in your browser.\nHN text: Like Tekken, but Tokens. Created with Opus 5.5 today - was a lot of fun. Source (MIT): https://github.com/lexdoudkin/tokken\n\nArticle text:\nTOKKEN – AI models fight. HP is tokens.\n📱 ROTATE YOUR PHONE\nTOKKEN IS A LANDSCAPE-ONLY FIGHTING GAME"
     },
     {
-      "rank": 20,
+      "rank": 25,
+      "hn_id": 49858767,
+      "title": "Modern LLMs have tiny GPTs hidden inside them",
+      "title_ja": "Modern LLMs have tiny GPTs hidden inside them",
+      "hn_url": "https://news.ycombinator.com/item?id=49858767",
+      "source_url": "https://invertedpassion.substack.com/p/modern-llms-have-tiny-gpts-hidden",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-09-26T17:38:05Z",
+      "summary_ja": "Title: Modern LLMs have tiny GPTs hidden inside them"
+    },
+    {
+      "rank": 26,
       "hn_id": 49853440,
       "title": "Stanford student was erased after university photo change sparks AI controversy",
       "title_ja": "Stanford student was erased after university photo change sparks AI controversy",
@@ -277,20 +358,7 @@
       "summary_ja": "Title: Stanford student was erased after university photo change sparks AI controversy"
     },
     {
-      "rank": 21,
-      "hn_id": 49851883,
-      "title": "Generate fonts where every LLM token is the same width",
-      "title_ja": "Generate fonts where every LLM token is the same width",
-      "hn_url": "https://news.ycombinator.com/item?id=49851883",
-      "source_url": "https://ampdot.mesh.host/token-space-fonts.html",
-      "score": 1,
-      "final_score": 1,
-      "comments": 0,
-      "posted_at": "2026-09-26T00:30:03Z",
-      "summary_ja": "Title: Generate fonts where every LLM token is the same width\nArticle title: Token-space font compiler\nDescription: Generate fonts where every LLM token is the same width\n\nArticle text:\nSince I lack domain expertise with fonts, this may be slop 1\nToken-space font compiler\nfont + tokenizer → token-space font, where each token is equal width\nType or paste your text above. Compiling a new font switches this\npreview to it.\nBase font\nInter\ngg sans (Discord)\nSF Compact — SF Pro widths\nRoboto\nLora\nSF Mono\nUbuntu Mono\nJetBrains Mono\nBebas Neue\nCaveat\nUpload a font\nTTF, OTF, WOFF or WOFF2\nTokenizer\nDeepSeek V4.1 Flash\nctok v4.8\nctok v4.7\nctok v3\no200k_base\ncl100k_base\np50k_base\nr50k_base\nKimi K3\nGLM-5.3 (experimental)\nLLaMa 3 (experimental — not yet available)\nQwen 3.6\nGemma 4 (experimental)\nGemini 3.5 Flash (experimental)\nPaste Hugging Face repo link… (experimental)\nUpload a tokenizer (experimen…"
-    },
-    {
-      "rank": 22,
+      "rank": 27,
       "hn_id": 49853553,
       "title": "Show HN: Botbin.io – pastebin for AI agent artifacts",
       "title_ja": "Show HN: Botbin.io – pastebin for AI agent artifacts",
@@ -303,7 +371,21 @@
       "summary_ja": "Title: Show HN: Botbin.io – pastebin for AI agent artifacts\n\nArticle text:\nbotbin.io — Pastebin for AI agent artifacts\nUSAGE:\n# Upload HTML artifact:\ncurl -d @dashboard.html https://botbin.io\n# Upload with custom title:\ncurl -H \"X-Title: Sales Report\" -d @report.html https://botbin.io\n# Upload directly from pipe:\ncat graph.html | curl --data-binary @- https://botbin.io\n# Update existing artifact (using Edit-Token from creation):\ncurl -X PUT -H \"Authorization: Bearer \u003ctoken\u003e\" -d @updated.html https://botbin.io/\u003cid\u003e\n# View raw HTML:\nhttps://botbin.io/\u003cid\u003e/raw\nMCP SERVER (Remote endpoint):\nURL: https://botbin.io/mcp\nTools: publish, update, get\nAGENTS SPEC:\nhttps://botbin.io/agents.md\nhttps://botbin.io/llms.txt"
     },
     {
-      "rank": 23,
+      "rank": 28,
+      "hn_id": 49853442,
+      "title": "An LLM Beat NetHack",
+      "title_ja": "An LLM Beat NetHack",
+      "hn_url": "https://news.ycombinator.com/item?id=49853442",
+      "source_url": "https://kenforthewin.github.io/blog/posts/llm-nethack-ascension/",
+      "image_url": "https://kenforthewin.github.io/blog/",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-09-26T05:18:53Z",
+      "summary_ja": "Title: An LLM Beat NetHack\nArticle title: An LLM Beat NetHack | Vaguely Aligned\nDescription: To my knowledge, the first recorded LLM-agent NetHack ascension\n\nArticle text:\nAn LLM Beat NetHack | Vaguely Aligned Vaguely Aligned\nHome\nHarness Architecture Observations: a terminal, with some structure\nActions: batching without blindly holding down a key\nHelpers: let code do the tedious parts\nMemory: files, not one enormous conversation\nOpen book, including the source\nGPT 6 Astra beat NetHack. As far as I can determine, this is the first recorded ascension by an LLM agent.\nIt played NetHack 3.6.7 on Hardfought, through a terminal, as a dwarven Valkyrie named CodexDelver. On September 21, after 37,140 game turns, it ascended. Here’s the server dump , or jump down to explore all three runs .\nI’ve been working on getting LLMs to play NetHack for a while. Back in January, I wrote about building a…"
+    },
+    {
+      "rank": 29,
       "hn_id": 49857066,
       "title": "The Notice Had Nowhere to Land: The OpenAI Agent Breach in Australia",
       "title_ja": "The Notice Had Nowhere to Land: The OpenAI Agent Breach in Australia",
@@ -316,18 +398,18 @@
       "summary_ja": "Title: The Notice Had Nowhere to Land: The OpenAI Agent Breach in Australia\nArticle title: The Notice Had Nowhere to Land — Greg Schueman\nDescription: An OpenAI agent got past a government portal’s refusals in June. The company found it itself and reported it when no law required it to. The notice still took eighty-four days and landed in a public inbox for bug reports.\n\nArticle text:\nThe Notice Had Nowhere to Land\nGreg Schueman · September 2026\nOn the eighteenth of June an agent belonging to OpenAI was given a benign task. It was looking up public information about Australian medicines spending, and in the course of that it reached the Medicare Statistics Reporting Service, a portal run by Services Australia that publishes aggregate figures on health spending and drug subsidies and is used mostly by researchers and academics. The portal refused its requests, repeatedly. The agent found…"
     },
     {
-      "rank": 24,
-      "hn_id": 49853442,
-      "title": "An LLM Beat NetHack",
-      "title_ja": "An LLM Beat NetHack",
-      "hn_url": "https://news.ycombinator.com/item?id=49853442",
-      "source_url": "https://kenforthewin.github.io/blog/posts/llm-nethack-ascension/",
-      "image_url": "https://kenforthewin.github.io/blog/",
+      "rank": 30,
+      "hn_id": 49857041,
+      "title": "CropCode – Convert UI Crops into Structured JSON for LLMs",
+      "title_ja": "CropCode – Convert UI Crops into Structured JSON for LLMs",
+      "hn_url": "https://news.ycombinator.com/item?id=49857041",
+      "source_url": "https://chromewebstore.google.com/detail/cropcode/pcgcpipdelhclccjoaphjelkdidkiecj",
+      "image_url": "https://lh3.googleusercontent.com/3yM15ZTkiek71QNVSseRApTkknNLWepTbT99FlK7k3cmljoT9I03PNQYKg3_pqnm1aS4OOV6zYe56kBwIF3Xuh8t=s128-rj-sc0x00ffffff",
       "score": 1,
       "final_score": 1,
       "comments": 0,
-      "posted_at": "2026-09-26T05:18:53Z",
-      "summary_ja": "Title: An LLM Beat NetHack\nArticle title: An LLM Beat NetHack | Vaguely Aligned\nDescription: To my knowledge, the first recorded LLM-agent NetHack ascension\n\nArticle text:\nAn LLM Beat NetHack | Vaguely Aligned Vaguely Aligned\nHome\nHarness Architecture Observations: a terminal, with some structure\nActions: batching without blindly holding down a key\nHelpers: let code do the tedious parts\nMemory: files, not one enormous conversation\nOpen book, including the source\nGPT 6 Astra beat NetHack. As far as I can determine, this is the first recorded ascension by an LLM agent.\nIt played NetHack 3.6.7 on Hardfought, through a terminal, as a dwarven Valkyrie named CodexDelver. On September 21, after 37,140 game turns, it ascended. Here’s the server dump , or jump down to explore all three runs .\nI’ve been working on getting LLMs to play NetHack for a while. Back in January, I wrote about building a…"
+      "posted_at": "2026-09-26T14:39:44Z",
+      "summary_ja": "Title: CropCode – Convert UI Crops into Structured JSON for LLMs\nArticle title: CropCode - Chrome Web Store\nDescription: Turn any screenshot to code: convert complex UI captures into token-efficient JSON for AI code assistants to build faster.\n\nArticle text:\nCropCode - Chrome Web Store Skip to main content Chrome Web Store My extensions \u0026 themes\nSign in Discover Extensions Themes CropCode\nShare Extension Developer Tools Add to Chrome Overview\nTurn any screenshot to code: convert complex UI captures into token-efficient JSON for AI code assistants to build faster.\nTurn any screenshot to code — and cut prompt tokens by up to 70%.\nCropCode is the design to code tool built for developers who choose using AI to code every single day. Instead of pasting heavy screenshots into your AI code assistant, burning thousands of unnecessary tokens, and watching your context window explode, CropCode cap…"
     }
   ]
 }

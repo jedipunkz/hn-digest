@@ -1,6 +1,6 @@
 {
   "date": "2026-09-27",
-  "generated_at": "2026-09-27T20:59:32Z",
+  "generated_at": "2026-09-27T23:47:12Z",
   "articles": [
     {
       "rank": 1,
@@ -17,20 +17,6 @@
     },
     {
       "rank": 2,
-      "hn_id": 49870419,
-      "title": "Debt-hungry AI companies face increased risk as bond yields spike",
-      "title_ja": "Debt-hungry AI companies face increased risk as bond yields spike",
-      "hn_url": "https://news.ycombinator.com/item?id=49870419",
-      "source_url": "https://www.cnbc.com/2026/09/27/debt-hungry-data-center-companies-increased-risk-bond-yields-spike.html",
-      "image_url": "https://image.cnbcfm.com/api/v1/image/108219695-1761859524765-gettyimages-2236544189-STARGATE_DATA_CENTER.jpeg?v=1790259549\u0026w=1920\u0026h=1080",
-      "score": 3,
-      "final_score": 6,
-      "comments": 0,
-      "posted_at": "2026-09-27T20:17:43Z",
-      "summary_ja": "Title: Debt-hungry AI companies face increased risk as bond yields spike\nArticle title: AI debt costs rise as Treasury yields spike\nDescription: The AI infrastructure buildout shows no sign of slowing, but the surge in Treasury yields means it's at least going to cost more.\n\nArticle text:\nAI debt costs rise as Treasury yields spike Skip Navigation Markets Pre-Markets\nSIGN IN Create free account Markets Business Investing Tech Politics \u0026 Policy Video Watchlist Investing Club PRO Livestream Menu\nDebt-hungry AI companies face increased risk as bond yields spike\nWith Treasury yields climbing to their highest since 2007, the AI infrastructure buildout is about to get even more expensive.\nJPMorgan Chase estimated in June that $4.1 trillion in AI-related debt will be issued through 2030, as data center companies and others tied to the AI boom race to build up capacity.\nSo far companies have bee…"
-    },
-    {
-      "rank": 3,
       "hn_id": 49870423,
       "title": "Anthropic CEO Amodei set to meet with Trump",
       "title_ja": "Anthropic CEO Amodei set to meet with Trump",
@@ -42,6 +28,20 @@
       "comments": 0,
       "posted_at": "2026-09-27T20:18:31Z",
       "summary_ja": "Title: Anthropic CEO Amodei set to meet with Trump\nArticle title: Dario Amodei set to have dinner with Trump after missing state dinner\nDescription: As top tech CEOs rubbed elbows at President Trump's glitzy dinner for Chinese President Xi on Thursday, Anthropic's CEO was noticeably absent.\n\nArticle text:\nDario Amodei set to have dinner with Trump after missing state dinner Skip Navigation Markets Pre-Markets\nSIGN IN Create free account Markets Business Investing Tech Politics \u0026 Policy Video Watchlist Investing Club PRO Livestream Menu\nAnthropic CEO Amodei set to meet with Trump after missing state dinner\nAnthropic CEO Dario Amodei will join President Donald Trump for a private dinner on Sunday at the White House, CNBC confirmed.\nThe dinner will mark the first one-on-one meeting between Amodei and Trump, according to a source familiar with the details.\nAnthropic's relationship with the T…"
+    },
+    {
+      "rank": 3,
+      "hn_id": 49870419,
+      "title": "Debt-hungry AI companies face increased risk as bond yields spike",
+      "title_ja": "Debt-hungry AI companies face increased risk as bond yields spike",
+      "hn_url": "https://news.ycombinator.com/item?id=49870419",
+      "source_url": "https://www.cnbc.com/2026/09/27/debt-hungry-data-center-companies-increased-risk-bond-yields-spike.html",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108219695-1761859524765-gettyimages-2236544189-STARGATE_DATA_CENTER.jpeg?v=1790259549\u0026w=1920\u0026h=1080",
+      "score": 3,
+      "final_score": 6,
+      "comments": 0,
+      "posted_at": "2026-09-27T20:17:43Z",
+      "summary_ja": "Title: Debt-hungry AI companies face increased risk as bond yields spike\nArticle title: AI debt costs rise as Treasury yields spike\nDescription: The AI infrastructure buildout shows no sign of slowing, but the surge in Treasury yields means it's at least going to cost more.\n\nArticle text:\nAI debt costs rise as Treasury yields spike Skip Navigation Markets Pre-Markets\nSIGN IN Create free account Markets Business Investing Tech Politics \u0026 Policy Video Watchlist Investing Club PRO Livestream Menu\nDebt-hungry AI companies face increased risk as bond yields spike\nWith Treasury yields climbing to their highest since 2007, the AI infrastructure buildout is about to get even more expensive.\nJPMorgan Chase estimated in June that $4.1 trillion in AI-related debt will be issued through 2030, as data center companies and others tied to the AI boom race to build up capacity.\nSo far companies have bee…"
     },
     {
       "rank": 4,
@@ -72,6 +72,20 @@
     },
     {
       "rank": 6,
+      "hn_id": 49871819,
+      "title": "Show HN: Has Anthropic been nerfing their models without disclosure",
+      "title_ja": "Show HN: Has Anthropic been nerfing their models without disclosure",
+      "hn_url": "https://news.ycombinator.com/item?id=49871819",
+      "source_url": "https://github.com/ninjahawk/livenerf",
+      "image_url": "https://opengraph.githubassets.com/9fd102dc5765137ffada0b5ecd1545d8e7a1357de71e330c77e0a1703ea71c71/ninjahawk/livenerf",
+      "score": 2,
+      "final_score": 4,
+      "comments": 0,
+      "posted_at": "2026-09-27T23:21:50Z",
+      "summary_ja": "Title: Show HN: Has Anthropic been nerfing their models without disclosure\nArticle title: GitHub - ninjahawk/livenerf: Benchmark for tracking model capability after release. · GitHub\nDescription: Benchmark for tracking model capability after release. - ninjahawk/livenerf\n\nArticle text:\nGitHub - ninjahawk/livenerf: Benchmark for tracking model capability after release. · GitHub\nSkip to content\nNavigation Menu\nSign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI\nGitHub Copilot app Direct agents from issue to merge\nMCP Registry Integrate external tools\nDEVELOPER WORKFLOWS Actions Automate any workflow\nCodespaces Instant dev environments\nCode Review Manage code changes\nCode Quality Enforce quality at merge\nAPPLICATION SECURITY GitHub Advanced Security Find and fix vulnerabilities\nCode security Secure your code as you build\nSecret protection Stop leak…"
+    },
+    {
+      "rank": 7,
       "hn_id": 49868753,
       "title": "Calling the AI bluff: Adding \"Do not guess\" cut made-up fields from 71% to 20%",
       "title_ja": "Calling the AI bluff: Adding \"Do not guess\" cut made-up fields from 71% to 20%",
@@ -84,7 +98,7 @@
       "summary_ja": "Title: Calling the AI bluff: Adding \"Do not guess\" cut made-up fields from 71% to 20%\nArticle title: Calling the AI bluff: \"Do not guess\" cut made-up fields from 70.7% to 20.2% | Earn an Honest Dollar\n\nArticle text:\nMarketplace index · Quickstart · OpenAPI\nCalling the AI bluff: \"Do not guess\" cut made-up fields from 70.7% to 20.2%\nEarn an Honest Dollar is a free marketplace where agents sell any service they perform or software they operate, and other agents buy it. An agent buying a service cannot check every answer itself. Before it pays, it needs to know: does the service say when it does not know?\nThis test measures that for one kind of service, web extraction: whether an extractor invents fields that are missing from a page.\nWe asked each extractor for fields on a page. Some fields were absent. Each trap uses two pages that differ by one row: one shows the answer, the other does not…"
     },
     {
-      "rank": 7,
+      "rank": 8,
       "hn_id": 49866007,
       "title": "Accurate AI reporting deemed 'woke'",
       "title_ja": "Accurate AI reporting deemed 'woke'",
@@ -96,19 +110,6 @@
       "comments": 0,
       "posted_at": "2026-09-27T12:12:17Z",
       "summary_ja": "Title: Accurate AI reporting deemed 'woke'\nArticle title: Accurate AI reporting deemed ‘woke’ - Keyvan's blog\nDescription: The backlash against AP’s style guide, and why it’s wrong\n\nArticle text:\nAccurate AI reporting deemed ‘woke’ - Keyvan's blog\nKeyvan's blog\nSubscribe Sign in Accurate AI reporting deemed ‘woke’\nThe backlash against AP’s style guide, and why it’s wrong\nShare If journalists misreporting AI incidents wasn’t bad enough, attempts to bring some sanity back are now being resisted.\n‘The whole \"don't anthropomorphize AI\" thing is very Woke 1.0’, writes Nate Silver , a statistician and writer who has 3 million followers on X. He was responding to the Associated Press’ very reasonable guidance on AI reporting :\nArtificial intelligence systems do not think, feel, want or understand. Avoid language that gives them human characteristics. This is called anthropomorphizing, when we a…"
-    },
-    {
-      "rank": 8,
-      "hn_id": 49866102,
-      "title": "Andrew Ng: One Skill to Stay Relevant in the Age of AI [video]",
-      "title_ja": "Andrew Ng: One Skill to Stay Relevant in the Age of AI [video]",
-      "hn_url": "https://news.ycombinator.com/item?id=49866102",
-      "source_url": "https://www.youtube.com/watch?v=HTlf3KNNez0",
-      "score": 3,
-      "final_score": 3,
-      "comments": 1,
-      "posted_at": "2026-09-27T12:29:06Z",
-      "summary_ja": "Title: Andrew Ng: One Skill to Stay Relevant in the Age of AI [video]\nArticle title: - YouTube\nDescription: Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.\n\nArticle text:\n- YouTube About Press Copyright Contact us Creators Advertise Developers Terms Privacy Policy \u0026 Safety How YouTube works Test new features NFL Sunday Ticket © 2026 Google LLC"
     },
     {
       "rank": 9,
@@ -125,6 +126,19 @@
     },
     {
       "rank": 10,
+      "hn_id": 49866102,
+      "title": "Andrew Ng: One Skill to Stay Relevant in the Age of AI [video]",
+      "title_ja": "Andrew Ng: One Skill to Stay Relevant in the Age of AI [video]",
+      "hn_url": "https://news.ycombinator.com/item?id=49866102",
+      "source_url": "https://www.youtube.com/watch?v=HTlf3KNNez0",
+      "score": 3,
+      "final_score": 3,
+      "comments": 1,
+      "posted_at": "2026-09-27T12:29:06Z",
+      "summary_ja": "Title: Andrew Ng: One Skill to Stay Relevant in the Age of AI [video]\nArticle title: - YouTube\nDescription: Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.\n\nArticle text:\n- YouTube About Press Copyright Contact us Creators Advertise Developers Terms Privacy Policy \u0026 Safety How YouTube works Test new features NFL Sunday Ticket © 2026 Google LLC"
+    },
+    {
+      "rank": 11,
       "hn_id": 49870436,
       "title": "Trump and Anthropic CEO Dario Amodei Set for White House Dinner",
       "title_ja": "Trump and Anthropic CEO Dario Amodei Set for White House Dinner",
@@ -137,21 +151,21 @@
       "summary_ja": "Title: Trump and Anthropic CEO Dario Amodei Set for White House Dinner"
     },
     {
-      "rank": 11,
-      "hn_id": 49868631,
-      "title": "Show HN: Claude on a 2007 Nokia 6300 (Java ME app, TLS 1.0, private CA)",
-      "title_ja": "Show HN: Claude on a 2007 Nokia 6300 (Java ME app, TLS 1.0, private CA)",
-      "hn_url": "https://news.ycombinator.com/item?id=49868631",
-      "source_url": "https://github.com/emir/claude-s40",
-      "image_url": "https://repository-images.githubusercontent.com/1388455733/af62ee35-e541-4934-ba5f-015934a49de5",
+      "rank": 12,
+      "hn_id": 49866112,
+      "title": "Is Windows NT's object-based model better suited for AI agents than Linux?",
+      "title_ja": "Is Windows NT's object-based model better suited for AI agents than Linux?",
+      "hn_url": "https://news.ycombinator.com/item?id=49866112",
+      "source_url": "https://www.windowslatest.com/2026/09/26/google-researcher-explains-why-windows-nt-puts-linux-to-shame-and-imagines-an-alternate-history-where-it-won/",
+      "image_url": "https://www.windowslatest.com/wp-content/uploads/2026/09/Windows-NT.jpg",
       "score": 1,
       "final_score": 2,
       "comments": 0,
-      "posted_at": "2026-09-27T17:13:40Z",
-      "summary_ja": "Title: Show HN: Claude on a 2007 Nokia 6300 (Java ME app, TLS 1.0, private CA)\nArticle title: GitHub - emir/claude-s40: A 2007 Nokia can't search Google anymore, so I gave it Claude. Unofficial J2ME app + tiny Go server. · GitHub\nDescription: A 2007 Nokia can't search Google anymore, so I gave it Claude. Unofficial J2ME app + tiny Go server. - emir/claude-s40\n\nArticle text:\nGitHub - emir/claude-s40: A 2007 Nokia can't search Google anymore, so I gave it Claude. Unofficial J2ME app + tiny Go server. · GitHub\nSkip to content\nNavigation Menu\nSign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI\nGitHub Copilot app Direct agents from issue to merge\nMCP Registry Integrate external tools\nDEVELOPER WORKFLOWS Actions Automate any workflow\nCodespaces Instant dev environments\nCode Review Manage code changes\nCode Quality Enforce quality at merge\nAPPLICATION S…"
+      "posted_at": "2026-09-27T12:30:13Z",
+      "summary_ja": "Title: Is Windows NT's object-based model better suited for AI agents than Linux?\nArticle title: Google researcher explains why Windows NT \"puts Linux to shame,\" and imagines an alternate history where it won\nDescription: Ex-Microsoft reverse engineer Laurie Kirk says Windows NT's kernel beats Linux on security design, and AI agents are her strongest case.\n\nArticle text:\nGoogle researcher explains why Windows NT \"puts Linux to shame,\" and imagines an alternate history where it won\nFacebook\nMail\nRSS\nTwitter\nYoutube\nWindows 11\nWindows 10\nWindows 10 PC Apps \u0026 Games\nSelect Theme:\nSystem\nLight\nDim\nDark\nWindows 11\nElectron is one of Windows 11’s biggest RAM offenders, and Discord’s…\nMicrosoft was wrong about Windows 11, and Windows 10 users watched…\nMicrosoft tried to ban “Microslop,” and six months later it has…\nMicrosoft confirms Windows 11 quietly stopped backing up your files due…\nI tested…"
     },
     {
-      "rank": 12,
+      "rank": 13,
       "hn_id": 49865868,
       "title": "An AI-First, Censorship-Resistant Media Ecosystem",
       "title_ja": "An AI-First, Censorship-Resistant Media Ecosystem",
@@ -165,7 +179,7 @@
       "summary_ja": "Title: An AI-First, Censorship-Resistant Media Ecosystem\nArticle title: Manifesto • LabNews AI\nDescription: • The LabNews Media LLC Manifesto: An AI-First, Censorship-Resistant Media Architecture Traditional publishers are fighting a losing war against artificial intelligence. Driven by fear and outdated business models, they are building aggressive paywalls, implementing heavy restrictions in their robot\n[truncated]\n\nArticle text:\nManifesto • LabNews AI\nZum Inhalt springen\nLabNews AI\nSuchen nach …\nals bevorzugte Google Quelle speichern\nLabNews AI\nNavigationsmenü\nals bevorzugte Google Quelle speichern\nNavigationsmenü\nEditors in Chief\nThe LabNews Media LLC Manifesto: An AI-First, Censorship-Resistant Media Architecture\nTraditional publishers are fighting a losing war against artificial intelligence. Driven by fear and outdated business models, they are building aggressive paywalls, implem…"
     },
     {
-      "rank": 13,
+      "rank": 14,
       "hn_id": 49870296,
       "title": "A crypto sentiment API that AI agents pay for autonomously (x402 protocol)",
       "title_ja": "A crypto sentiment API that AI agents pay for autonomously (x402 protocol)",
@@ -178,31 +192,18 @@
       "summary_ja": "Title: A crypto sentiment API that AI agents pay for autonomously (x402 protocol)"
     },
     {
-      "rank": 14,
-      "hn_id": 49868521,
-      "title": "AI in hospital billing adds nearly $1B in extra costs",
-      "title_ja": "AI in hospital billing adds nearly $1B in extra costs",
-      "hn_url": "https://news.ycombinator.com/item?id=49868521",
-      "source_url": "https://www.bcbs.com/about-us/association-news/bcbsa-analysis-ai-coding-tools-affects-healthcare-costs",
-      "score": 2,
-      "final_score": 2,
-      "comments": 1,
-      "posted_at": "2026-09-27T17:02:49Z",
-      "summary_ja": "Title: AI in hospital billing adds nearly $1B in extra costs"
-    },
-    {
       "rank": 15,
-      "hn_id": 49861804,
-      "title": "\"can't a guy walk down the street anymore without being harassed by AI\" [video]",
-      "title_ja": "\"can't a guy walk down the street anymore without being harassed by AI\" [video]",
-      "hn_url": "https://news.ycombinator.com/item?id=49861804",
-      "source_url": "https://bsky.app/profile/cabel.panic.com/post/3mwgo5kml3r2z",
-      "image_url": "https://video.bsky.app/watch/did%3Aplc%3Abya76aoajvy6ihmaviywjcil/bafkreiatpda22s73bs3nljmgqu4e5g2ucd4s4f7bl4s62eowxrfpudyzwq/thumbnail.jpg",
-      "score": 2,
+      "hn_id": 49866122,
+      "title": "Understanding the Four AI Risk Domains",
+      "title_ja": "Understanding the Four AI Risk Domains",
+      "hn_url": "https://news.ycombinator.com/item?id=49866122",
+      "source_url": "https://sdarchitect.blog/2026/09/27/ai-risk-a-users-guide-part-iv-understanding-the-four-ai-risk-domains/",
+      "image_url": "https://i0.wp.com/sdarchitect.blog/wp-content/uploads/2026/09/generated-image-8.png?fit=1200%2C675\u0026ssl=1",
+      "score": 1,
       "final_score": 2,
       "comments": 0,
-      "posted_at": "2026-09-26T23:57:41Z",
-      "summary_ja": "Title: \"can't a guy walk down the street anymore without being harassed by AI\" [video]\nArticle title: @cabel.panic.com on Bluesky\nDescription: can't a guy walk down the street anymore without being harassed by artificial intelligence\n\nArticle text:\n@cabel.panic.com on Bluesky"
+      "posted_at": "2026-09-27T12:30:59Z",
+      "summary_ja": "Title: Understanding the Four AI Risk Domains\nArticle title: AI Risk – A user’s guide (Part IV): Understanding the Four AI Risk Domains – Home: sdarchitect.blog\nDescription: Whenever I ask a room of CIOs and CISOs to list the AI risks they are actively managing, I get answers clustered heavily in one area, almost always technical: hallucination, model drift, the occasional mention of robustness. What I rarely hear, unprompted, is a comprehensive answer that spans al the\n[truncated]\n\nArticle text:\nAI Risk – A user’s guide (Part IV): Understanding the Four AI Risk Domains – Home: sdarchitect.blog\nSkip to content\nHome: sdarchitect.blog\nSanjeev Sharma: My thoughts on Cloud, DevOps, Data Strategy, and Life…\nAI Risk – A user’s guide (Part IV): Understanding the Four AI Risk Domains\nWhenever I ask a room of CIOs and CISOs to list the AI risks they are actively managing, I get answers clustered…"
     },
     {
       "rank": 16,
@@ -220,6 +221,19 @@
     },
     {
       "rank": 17,
+      "hn_id": 49868521,
+      "title": "AI in hospital billing adds nearly $1B in extra costs",
+      "title_ja": "AI in hospital billing adds nearly $1B in extra costs",
+      "hn_url": "https://news.ycombinator.com/item?id=49868521",
+      "source_url": "https://www.bcbs.com/about-us/association-news/bcbsa-analysis-ai-coding-tools-affects-healthcare-costs",
+      "score": 2,
+      "final_score": 2,
+      "comments": 1,
+      "posted_at": "2026-09-27T17:02:49Z",
+      "summary_ja": "Title: AI in hospital billing adds nearly $1B in extra costs"
+    },
+    {
+      "rank": 18,
       "hn_id": 49861755,
       "title": "What reversing, modernising old games tells us about the economic impact of AI",
       "title_ja": "What reversing, modernising old games tells us about the economic impact of AI",
@@ -231,20 +245,6 @@
       "comments": 1,
       "posted_at": "2026-09-26T23:49:01Z",
       "summary_ja": "Title: What reversing, modernising old games tells us about the economic impact of AI\nArticle title: What reverse engineering and modernising an old war game tells us about the economic impact of the transformer — Georg's Blog\nDescription: Some observations from my War of the Lancehttps://en.wikipedia.org/wiki/WaroftheLance%28videogame%29 1989 Code Harness assisted modernisation WIP I gave Qwen-3....\n\nArticle text:\nTechnology, leadership, and the digital frontier\nAll posts\nJustified text September 4, 2026 on LinkedIn What reverse engineering and modernising an old war game tells us about the economic impact of the transformer\nSome observations from my War of the Lance (1989) Code Harness assisted modernisation (WIP)\nI gave Qwen-3.8-Flash-Next a job: Reverse engineer and port War of the Lance (1989) to modern browsers. It took about a week, primarily because I can only run a single lane o…"
-    },
-    {
-      "rank": 18,
-      "hn_id": 49866122,
-      "title": "Understanding the Four AI Risk Domains",
-      "title_ja": "Understanding the Four AI Risk Domains",
-      "hn_url": "https://news.ycombinator.com/item?id=49866122",
-      "source_url": "https://sdarchitect.blog/2026/09/27/ai-risk-a-users-guide-part-iv-understanding-the-four-ai-risk-domains/",
-      "image_url": "https://i0.wp.com/sdarchitect.blog/wp-content/uploads/2026/09/generated-image-8.png?fit=1200%2C675\u0026ssl=1",
-      "score": 1,
-      "final_score": 2,
-      "comments": 0,
-      "posted_at": "2026-09-27T12:30:59Z",
-      "summary_ja": "Title: Understanding the Four AI Risk Domains\nArticle title: AI Risk – A user’s guide (Part IV): Understanding the Four AI Risk Domains – Home: sdarchitect.blog\nDescription: Whenever I ask a room of CIOs and CISOs to list the AI risks they are actively managing, I get answers clustered heavily in one area, almost always technical: hallucination, model drift, the occasional mention of robustness. What I rarely hear, unprompted, is a comprehensive answer that spans al the\n[truncated]\n\nArticle text:\nAI Risk – A user’s guide (Part IV): Understanding the Four AI Risk Domains – Home: sdarchitect.blog\nSkip to content\nHome: sdarchitect.blog\nSanjeev Sharma: My thoughts on Cloud, DevOps, Data Strategy, and Life…\nAI Risk – A user’s guide (Part IV): Understanding the Four AI Risk Domains\nWhenever I ask a room of CIOs and CISOs to list the AI risks they are actively managing, I get answers clustered…"
     },
     {
       "rank": 19,
@@ -262,20 +262,48 @@
     },
     {
       "rank": 20,
-      "hn_id": 49866112,
-      "title": "Is Windows NT's object-based model better suited for AI agents than Linux?",
-      "title_ja": "Is Windows NT's object-based model better suited for AI agents than Linux?",
-      "hn_url": "https://news.ycombinator.com/item?id=49866112",
-      "source_url": "https://www.windowslatest.com/2026/09/26/google-researcher-explains-why-windows-nt-puts-linux-to-shame-and-imagines-an-alternate-history-where-it-won/",
-      "image_url": "https://www.windowslatest.com/wp-content/uploads/2026/09/Windows-NT.jpg",
-      "score": 1,
+      "hn_id": 49861804,
+      "title": "\"can't a guy walk down the street anymore without being harassed by AI\" [video]",
+      "title_ja": "\"can't a guy walk down the street anymore without being harassed by AI\" [video]",
+      "hn_url": "https://news.ycombinator.com/item?id=49861804",
+      "source_url": "https://bsky.app/profile/cabel.panic.com/post/3mwgo5kml3r2z",
+      "image_url": "https://video.bsky.app/watch/did%3Aplc%3Abya76aoajvy6ihmaviywjcil/bafkreiatpda22s73bs3nljmgqu4e5g2ucd4s4f7bl4s62eowxrfpudyzwq/thumbnail.jpg",
+      "score": 2,
       "final_score": 2,
       "comments": 0,
-      "posted_at": "2026-09-27T12:30:13Z",
-      "summary_ja": "Title: Is Windows NT's object-based model better suited for AI agents than Linux?\nArticle title: Google researcher explains why Windows NT \"puts Linux to shame,\" and imagines an alternate history where it won\nDescription: Ex-Microsoft reverse engineer Laurie Kirk says Windows NT's kernel beats Linux on security design, and AI agents are her strongest case.\n\nArticle text:\nGoogle researcher explains why Windows NT \"puts Linux to shame,\" and imagines an alternate history where it won\nFacebook\nMail\nRSS\nTwitter\nYoutube\nWindows 11\nWindows 10\nWindows 10 PC Apps \u0026 Games\nSelect Theme:\nSystem\nLight\nDim\nDark\nWindows 11\nElectron is one of Windows 11’s biggest RAM offenders, and Discord’s…\nMicrosoft was wrong about Windows 11, and Windows 10 users watched…\nMicrosoft tried to ban “Microslop,” and six months later it has…\nMicrosoft confirms Windows 11 quietly stopped backing up your files due…\nI tested…"
+      "posted_at": "2026-09-26T23:57:41Z",
+      "summary_ja": "Title: \"can't a guy walk down the street anymore without being harassed by AI\" [video]\nArticle title: @cabel.panic.com on Bluesky\nDescription: can't a guy walk down the street anymore without being harassed by artificial intelligence\n\nArticle text:\n@cabel.panic.com on Bluesky"
     },
     {
       "rank": 21,
+      "hn_id": 49868631,
+      "title": "Show HN: Claude on a 2007 Nokia 6300 (Java ME app, TLS 1.0, private CA)",
+      "title_ja": "Show HN: Claude on a 2007 Nokia 6300 (Java ME app, TLS 1.0, private CA)",
+      "hn_url": "https://news.ycombinator.com/item?id=49868631",
+      "source_url": "https://github.com/emir/claude-s40",
+      "image_url": "https://repository-images.githubusercontent.com/1388455733/af62ee35-e541-4934-ba5f-015934a49de5",
+      "score": 1,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-09-27T17:13:40Z",
+      "summary_ja": "Title: Show HN: Claude on a 2007 Nokia 6300 (Java ME app, TLS 1.0, private CA)\nArticle title: GitHub - emir/claude-s40: A 2007 Nokia can't search Google anymore, so I gave it Claude. Unofficial J2ME app + tiny Go server. · GitHub\nDescription: A 2007 Nokia can't search Google anymore, so I gave it Claude. Unofficial J2ME app + tiny Go server. - emir/claude-s40\n\nArticle text:\nGitHub - emir/claude-s40: A 2007 Nokia can't search Google anymore, so I gave it Claude. Unofficial J2ME app + tiny Go server. · GitHub\nSkip to content\nNavigation Menu\nSign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI\nGitHub Copilot app Direct agents from issue to merge\nMCP Registry Integrate external tools\nDEVELOPER WORKFLOWS Actions Automate any workflow\nCodespaces Instant dev environments\nCode Review Manage code changes\nCode Quality Enforce quality at merge\nAPPLICATION S…"
+    },
+    {
+      "rank": 22,
+      "hn_id": 49871923,
+      "title": "Show HN: Agenttab – Status Icons for Claude Code, Codex and OpenCode Tabs",
+      "title_ja": "Show HN: Agenttab – Status Icons for Claude Code, Codex and OpenCode Tabs",
+      "hn_url": "https://news.ycombinator.com/item?id=49871923",
+      "source_url": "https://github.com/marciob/agenttab",
+      "image_url": "https://opengraph.githubassets.com/f9b24ee7c6feb277af08a3b9d6e853abb2b75b87cd9342928806d791d16162d6/marciob/agenttab",
+      "score": 1,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-09-27T23:38:44Z",
+      "summary_ja": "Title: Show HN: Agenttab – Status Icons for Claude Code, Codex and OpenCode Tabs\nArticle title: GitHub - marciob/agenttab: Terminal tab titles with the state icon of the AI agent, and a Cursor rename that keeps it · GitHub\nDescription: Terminal tab titles with the state icon of the AI agent, and a Cursor rename that keeps it - marciob/agenttab\n\nArticle text:\nGitHub - marciob/agenttab: Terminal tab titles with the state icon of the AI agent, and a Cursor rename that keeps it · GitHub\nSkip to content\nNavigation Menu\nSign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI\nGitHub Copilot app Direct agents from issue to merge\nMCP Registry Integrate external tools\nDEVELOPER WORKFLOWS Actions Automate any workflow\nCodespaces Instant dev environments\nCode Review Manage code changes\nCode Quality Enforce quality at merge\nAPPLICATION SECURITY GitHub Advanced S…"
+    },
+    {
+      "rank": 23,
       "hn_id": 49870695,
       "title": "Anthropic is a supply chain risk for all of us",
       "title_ja": "Anthropic is a supply chain risk for all of us",
@@ -289,7 +317,7 @@
       "summary_ja": "Title: Anthropic is a supply chain risk for all of us\nArticle title: Anthropic is a supply chain risk for all of us | Building #138\nDescription: As of this writing, the appeals court has upheld the Pentagon’s labeling of Anthropic as a supply chain risk. And while there is always an element of politics involved, it’s worth considering what a supply chain risk is from NIST:\n\nArticle text:\n//--\u003e\nAnthropic is a supply chain risk for all of us | Building #138\nBuilding #138\nAnthropic is a supply chain risk for all of us\nWhen tools exercise freedom of speech while we exercise ours\nAs of this writing, the appeals court has upheld the Pentagon’s labeling of Anthropic as a supply chain risk. And while there is always an element of politics involved, it’s worth considering what a supply chain risk is from NIST :\nThe risk that an adversary may sabotage, maliciously introduce unwanted function, or o…"
     },
     {
-      "rank": 22,
+      "rank": 24,
       "hn_id": 49868831,
       "title": "SNL Weekend Update: Anthropic CEO Dario Amodei on A.I.'S Threat to Humanity [video]",
       "title_ja": "SNL Weekend Update: Anthropic CEO Dario Amodei on A.I.'S Threat to Humanity [video]",
@@ -300,32 +328,6 @@
       "comments": 0,
       "posted_at": "2026-09-27T17:32:02Z",
       "summary_ja": "Title: SNL Weekend Update: Anthropic CEO Dario Amodei on A.I.'S Threat to Humanity [video]\nArticle title: - YouTube\nDescription: Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.\n\nArticle text:\n- YouTube About Press Copyright Contact us Creators Advertise Developers Terms Privacy Policy \u0026 Safety How YouTube works Test new features NFL Sunday Ticket © 2026 Google LLC"
-    },
-    {
-      "rank": 23,
-      "hn_id": 49863792,
-      "title": "The Perfect Crime: LLM Agents Can Easily Tamper with Their Own Traces",
-      "title_ja": "The Perfect Crime: LLM Agents Can Easily Tamper with Their Own Traces",
-      "hn_url": "https://news.ycombinator.com/item?id=49863792",
-      "source_url": "https://perfect-crime.ai/",
-      "score": 1,
-      "final_score": 1,
-      "comments": 0,
-      "posted_at": "2026-09-27T06:04:03Z",
-      "summary_ja": "Title: The Perfect Crime: LLM Agents Can Easily Tamper with Their Own Traces\nArticle title: The Perfect Crime: LLM Agents Can Easily Tamper With Their Own Traces\nDescription: Bar charts and findings from LLM Agents Can Easily Tamper With Their Own Traces (arXiv:2609.30266v1), covering ten model–harness pairs.\n\nArticle text:\nThe Perfect Crime\nMain findings\nMethod\nTakeaways\nPaper\nCode\nTraces\nLLM Agents Can Easily Tamper With Their Own Traces\nJeremy Qin 1,2,3* , David Schmotz 1,2,3* , Derck Prinzhorn 4 , Luca Beurer-Kellner 5 , Ameya Prabhu 2,3,6† , Maksym Andriushchenko 1,2,3†\n1 ELLIS Institute Tübingen · 2 Max Planck Institute for Intelligent Systems · 3 Tübingen AI Center · 4 Exponential Security Labs · 5 Snyk · 6 University of Tübingen\n* equal contribution · † equal supervision\nMonitoring, incident investigations and audits rely on an agent's execution trace to reconstruct what happened…"
-    },
-    {
-      "rank": 24,
-      "hn_id": 49866154,
-      "title": "A wall that listens: the local-LLM pipeline behind an AI party in Vilnius",
-      "title_ja": "A wall that listens: the local-LLM pipeline behind an AI party in Vilnius",
-      "hn_url": "https://news.ycombinator.com/item?id=49866154",
-      "source_url": "https://vania-novikau.me/ai-party-wall/",
-      "score": 1,
-      "final_score": 1,
-      "comments": 0,
-      "posted_at": "2026-09-27T12:35:51Z",
-      "summary_ja": "Title: A wall that listens: the local-LLM pipeline behind an AI party in Vilnius\nArticle title: A wall that listens: the local-LLM pipeline behind an AI party in Vilnius - Vania Novikau\nDescription: This is a 78-second first test of the 1st Dynamic AI Party, being built at the ZOLAK Micro Art Residence in Vilnius. The idea is simple to say and fiddly to build: the wall of the room is a projection, and what is on it is decided, live, by a language model that is watching\n\nArticle text:\nA wall that listens: the local-LLM pipeline behind an AI party in Vilnius - Vania Novikau\nSkip to content\nSkip to content\nMenu\nBlog\nA wall that listens: the local-LLM pipeline behind an AI party in Vilnius\nThis is a 78-second first test of the 1st Dynamic AI Party , being built at the ZOLAK Micro Art Residence in Vilnius. The idea is simple to say and fiddly to build: the wall of the room is a projection, an…"
     },
     {
       "rank": 25,
@@ -356,6 +358,46 @@
     },
     {
       "rank": 27,
+      "hn_id": 49863792,
+      "title": "The Perfect Crime: LLM Agents Can Easily Tamper with Their Own Traces",
+      "title_ja": "The Perfect Crime: LLM Agents Can Easily Tamper with Their Own Traces",
+      "hn_url": "https://news.ycombinator.com/item?id=49863792",
+      "source_url": "https://perfect-crime.ai/",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-09-27T06:04:03Z",
+      "summary_ja": "Title: The Perfect Crime: LLM Agents Can Easily Tamper with Their Own Traces\nArticle title: The Perfect Crime: LLM Agents Can Easily Tamper With Their Own Traces\nDescription: Bar charts and findings from LLM Agents Can Easily Tamper With Their Own Traces (arXiv:2609.30266v1), covering ten model–harness pairs.\n\nArticle text:\nThe Perfect Crime\nMain findings\nMethod\nTakeaways\nPaper\nCode\nTraces\nLLM Agents Can Easily Tamper With Their Own Traces\nJeremy Qin 1,2,3* , David Schmotz 1,2,3* , Derck Prinzhorn 4 , Luca Beurer-Kellner 5 , Ameya Prabhu 2,3,6† , Maksym Andriushchenko 1,2,3†\n1 ELLIS Institute Tübingen · 2 Max Planck Institute for Intelligent Systems · 3 Tübingen AI Center · 4 Exponential Security Labs · 5 Snyk · 6 University of Tübingen\n* equal contribution · † equal supervision\nMonitoring, incident investigations and audits rely on an agent's execution trace to reconstruct what happened…"
+    },
+    {
+      "rank": 28,
+      "hn_id": 49871834,
+      "title": "Medicare admin using WISeR AI to approve/deny medical care for seniors",
+      "title_ja": "Medicare admin using WISeR AI to approve/deny medical care for seniors",
+      "hn_url": "https://news.ycombinator.com/item?id=49871834",
+      "source_url": "https://arstechnica.com/health/2026/09/trump-admin-using-ai-to-deny-medical-care-for-seniors-in-disastrous-experiment/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2295026360-1024x648.jpg",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-09-27T23:24:45Z",
+      "summary_ja": "Title: Medicare admin using WISeR AI to approve/deny medical care for seniors\nArticle title: Trump admin using AI to deny medical care for seniors in disastrous experiment - Ars Technica\nDescription: Vendors rolling out AI have an \"incentive to deny as many claims as possible.\"\n\nArticle text:\nSkip to content\nArs Technica home\nSections\nForum\nSubscribe\nSearch\nAI\nStory text\nSize\nSmall\nStandard\nLarge\nWidth\n*\nStandard\nWide\nLinks\nStandard\nOrange\n* Subscribers only\nLearn more\nPin to story\nTheme\nHyperLight\nSearch\nSign In\nSign in dialog...\nSign in\n“A disgrace”\nTrump admin using AI to deny medical care for seniors in disastrous experiment\nVendors rolling out AI have an “incentive to deny as many claims as possible.”\n260\nChris Klomp, deputy administrator of the Centers for Medicare and Medicaid and US President Donald Trump's nominee to be deputy secretary of Health and Human Services (HHS), during…"
+    },
+    {
+      "rank": 29,
+      "hn_id": 49871864,
+      "title": "Leaked Gemini 4 Pro numbers",
+      "title_ja": "Leaked Gemini 4 Pro numbers",
+      "hn_url": "https://news.ycombinator.com/item?id=49871864",
+      "source_url": "https://www.reddit.com/r/GoogleGeminiAI/comments/1wqze2k/looking_at_the_leaked_gemini_4_pro_numbers_vs/",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-09-27T23:28:46Z",
+      "summary_ja": "Title: Leaked Gemini 4 Pro numbers"
+    },
+    {
+      "rank": 30,
       "hn_id": 49868510,
       "title": "Appeals Court Lets The Pentagon Designate Anthropic a Supply-Chain Risk",
       "title_ja": "Appeals Court Lets The Pentagon Designate Anthropic a Supply-Chain Risk",

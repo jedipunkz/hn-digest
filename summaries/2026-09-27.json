@@ -1,6 +1,6 @@
 {
   "date": "2026-09-27",
-  "generated_at": "2026-09-27T06:19:52Z",
+  "generated_at": "2026-09-27T12:49:51Z",
   "articles": [
     {
       "rank": 1,
@@ -30,6 +30,61 @@
     },
     {
       "rank": 3,
+      "hn_id": 49866102,
+      "title": "Andrew Ng: One Skill to Stay Relevant in the Age of AI [video]",
+      "title_ja": "Andrew Ng: One Skill to Stay Relevant in the Age of AI [video]",
+      "hn_url": "https://news.ycombinator.com/item?id=49866102",
+      "source_url": "https://www.youtube.com/watch?v=HTlf3KNNez0",
+      "score": 3,
+      "final_score": 3,
+      "comments": 1,
+      "posted_at": "2026-09-27T12:29:06Z",
+      "summary_ja": "Title: Andrew Ng: One Skill to Stay Relevant in the Age of AI [video]\nArticle title: - YouTube\nDescription: Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.\n\nArticle text:\n- YouTube About Press Copyright Contact us Creators Advertise Developers Terms Privacy Policy \u0026 Safety How YouTube works Test new features NFL Sunday Ticket © 2026 Google LLC"
+    },
+    {
+      "rank": 4,
+      "hn_id": 49866007,
+      "title": "Accurate AI reporting deemed 'woke'",
+      "title_ja": "Accurate AI reporting deemed 'woke'",
+      "hn_url": "https://news.ycombinator.com/item?id=49866007",
+      "source_url": "https://blog.keyvan.net/p/accurate-ai-reporting-deemed-woke",
+      "image_url": "https://substackcdn.com/image/fetch/$s_!8Pu0!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa3d772eb-e1e3-4d71-9525-eb34f4120c68_1672x941.jpeg",
+      "score": 2,
+      "final_score": 3,
+      "comments": 0,
+      "posted_at": "2026-09-27T12:12:17Z",
+      "summary_ja": "Title: Accurate AI reporting deemed 'woke'\nArticle title: Accurate AI reporting deemed ‘woke’ - Keyvan's blog\nDescription: The backlash against AP’s style guide, and why it’s wrong\n\nArticle text:\nAccurate AI reporting deemed ‘woke’ - Keyvan's blog\nKeyvan's blog\nSubscribe Sign in Accurate AI reporting deemed ‘woke’\nThe backlash against AP’s style guide, and why it’s wrong\nShare If journalists misreporting AI incidents wasn’t bad enough, attempts to bring some sanity back are now being resisted.\n‘The whole \"don't anthropomorphize AI\" thing is very Woke 1.0’, writes Nate Silver , a statistician and writer who has 3 million followers on X. He was responding to the Associated Press’ very reasonable guidance on AI reporting :\nArtificial intelligence systems do not think, feel, want or understand. Avoid language that gives them human characteristics. This is called anthropomorphizing, when we a…"
+    },
+    {
+      "rank": 5,
+      "hn_id": 49865868,
+      "title": "An AI-First, Censorship-Resistant Media Ecosystem",
+      "title_ja": "An AI-First, Censorship-Resistant Media Ecosystem",
+      "hn_url": "https://news.ycombinator.com/item?id=49865868",
+      "source_url": "https://labnews.ai/manifesto/",
+      "image_url": "https://labnews.ai/wp-content/uploads/2025/11/cropped-image-6.png",
+      "score": 1,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-09-27T11:50:27Z",
+      "summary_ja": "Title: An AI-First, Censorship-Resistant Media Ecosystem\nArticle title: Manifesto • LabNews AI\nDescription: • The LabNews Media LLC Manifesto: An AI-First, Censorship-Resistant Media Architecture Traditional publishers are fighting a losing war against artificial intelligence. Driven by fear and outdated business models, they are building aggressive paywalls, implementing heavy restrictions in their robot\n[truncated]\n\nArticle text:\nManifesto • LabNews AI\nZum Inhalt springen\nLabNews AI\nSuchen nach …\nals bevorzugte Google Quelle speichern\nLabNews AI\nNavigationsmenü\nals bevorzugte Google Quelle speichern\nNavigationsmenü\nEditors in Chief\nThe LabNews Media LLC Manifesto: An AI-First, Censorship-Resistant Media Architecture\nTraditional publishers are fighting a losing war against artificial intelligence. Driven by fear and outdated business models, they are building aggressive paywalls, implem…"
+    },
+    {
+      "rank": 6,
+      "hn_id": 49866112,
+      "title": "Is Windows NT's object-based model better suited for AI agents than Linux?",
+      "title_ja": "Is Windows NT's object-based model better suited for AI agents than Linux?",
+      "hn_url": "https://news.ycombinator.com/item?id=49866112",
+      "source_url": "https://www.windowslatest.com/2026/09/26/google-researcher-explains-why-windows-nt-puts-linux-to-shame-and-imagines-an-alternate-history-where-it-won/",
+      "image_url": "https://www.windowslatest.com/wp-content/uploads/2026/09/Windows-NT.jpg",
+      "score": 1,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-09-27T12:30:13Z",
+      "summary_ja": "Title: Is Windows NT's object-based model better suited for AI agents than Linux?\nArticle title: Google researcher explains why Windows NT \"puts Linux to shame,\" and imagines an alternate history where it won\nDescription: Ex-Microsoft reverse engineer Laurie Kirk says Windows NT's kernel beats Linux on security design, and AI agents are her strongest case.\n\nArticle text:\nGoogle researcher explains why Windows NT \"puts Linux to shame,\" and imagines an alternate history where it won\nFacebook\nMail\nRSS\nTwitter\nYoutube\nWindows 11\nWindows 10\nWindows 10 PC Apps \u0026 Games\nSelect Theme:\nSystem\nLight\nDim\nDark\nWindows 11\nElectron is one of Windows 11’s biggest RAM offenders, and Discord’s…\nMicrosoft was wrong about Windows 11, and Windows 10 users watched…\nMicrosoft tried to ban “Microslop,” and six months later it has…\nMicrosoft confirms Windows 11 quietly stopped backing up your files due…\nI tested…"
+    },
+    {
+      "rank": 7,
       "hn_id": 49863700,
       "title": "Show HN: Jauvex, one app for Claude+Codex+Grok+Jev with two-way voice chat",
       "title_ja": "Show HN: Jauvex, one app for Claude+Codex+Grok+Jev with two-way voice chat",
@@ -43,7 +98,21 @@
       "summary_ja": "Title: Show HN: Jauvex, one app for Claude+Codex+Grok+Jev with two-way voice chat\nArticle title: GitHub - reindent/jauvex: Your coding agents, side by side, by voice. Claude, Codex \u0026 Grok in one desktop app, with Jev for the fast decisions. · GitHub\nDescription: Your coding agents, side by side, by voice. Claude, Codex \u0026 Grok in one desktop app, with Jev for the fast decisions. - reindent/jauvex\n\nArticle text:\nGitHub - reindent/jauvex: Your coding agents, side by side, by voice. Claude, Codex \u0026 Grok in one desktop app, with Jev for the fast decisions. · GitHub\nSkip to content\nNavigation Menu\nSign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI\nGitHub Copilot app Direct agents from issue to merge\nMCP Registry Integrate external tools\nDEVELOPER WORKFLOWS Actions Automate any workflow\nCodespaces Instant dev environments\nCode Review Manage code chang…"
     },
     {
-      "rank": 4,
+      "rank": 8,
+      "hn_id": 49866122,
+      "title": "Understanding the Four AI Risk Domains",
+      "title_ja": "Understanding the Four AI Risk Domains",
+      "hn_url": "https://news.ycombinator.com/item?id=49866122",
+      "source_url": "https://sdarchitect.blog/2026/09/27/ai-risk-a-users-guide-part-iv-understanding-the-four-ai-risk-domains/",
+      "image_url": "https://i0.wp.com/sdarchitect.blog/wp-content/uploads/2026/09/generated-image-8.png?fit=1200%2C675\u0026ssl=1",
+      "score": 1,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-09-27T12:30:59Z",
+      "summary_ja": "Title: Understanding the Four AI Risk Domains\nArticle title: AI Risk – A user’s guide (Part IV): Understanding the Four AI Risk Domains – Home: sdarchitect.blog\nDescription: Whenever I ask a room of CIOs and CISOs to list the AI risks they are actively managing, I get answers clustered heavily in one area, almost always technical: hallucination, model drift, the occasional mention of robustness. What I rarely hear, unprompted, is a comprehensive answer that spans al the\n[truncated]\n\nArticle text:\nAI Risk – A user’s guide (Part IV): Understanding the Four AI Risk Domains – Home: sdarchitect.blog\nSkip to content\nHome: sdarchitect.blog\nSanjeev Sharma: My thoughts on Cloud, DevOps, Data Strategy, and Life…\nAI Risk – A user’s guide (Part IV): Understanding the Four AI Risk Domains\nWhenever I ask a room of CIOs and CISOs to list the AI risks they are actively managing, I get answers clustered…"
+    },
+    {
+      "rank": 9,
       "hn_id": 49861755,
       "title": "What reversing, modernising old games tells us about the economic impact of AI",
       "title_ja": "What reversing, modernising old games tells us about the economic impact of AI",
@@ -57,7 +126,7 @@
       "summary_ja": "Title: What reversing, modernising old games tells us about the economic impact of AI\nArticle title: What reverse engineering and modernising an old war game tells us about the economic impact of the transformer — Georg's Blog\nDescription: Some observations from my War of the Lancehttps://en.wikipedia.org/wiki/WaroftheLance%28videogame%29 1989 Code Harness assisted modernisation WIP I gave Qwen-3....\n\nArticle text:\nTechnology, leadership, and the digital frontier\nAll posts\nJustified text September 4, 2026 on LinkedIn What reverse engineering and modernising an old war game tells us about the economic impact of the transformer\nSome observations from my War of the Lance (1989) Code Harness assisted modernisation (WIP)\nI gave Qwen-3.8-Flash-Next a job: Reverse engineer and port War of the Lance (1989) to modern browsers. It took about a week, primarily because I can only run a single lane o…"
     },
     {
-      "rank": 5,
+      "rank": 10,
       "hn_id": 49861804,
       "title": "\"can't a guy walk down the street anymore without being harassed by AI\" [video]",
       "title_ja": "\"can't a guy walk down the street anymore without being harassed by AI\" [video]",
@@ -71,7 +140,20 @@
       "summary_ja": "Title: \"can't a guy walk down the street anymore without being harassed by AI\" [video]\nArticle title: @cabel.panic.com on Bluesky\nDescription: can't a guy walk down the street anymore without being harassed by artificial intelligence\n\nArticle text:\n@cabel.panic.com on Bluesky"
     },
     {
-      "rank": 6,
+      "rank": 11,
+      "hn_id": 49866154,
+      "title": "A wall that listens: the local-LLM pipeline behind an AI party in Vilnius",
+      "title_ja": "A wall that listens: the local-LLM pipeline behind an AI party in Vilnius",
+      "hn_url": "https://news.ycombinator.com/item?id=49866154",
+      "source_url": "https://vania-novikau.me/ai-party-wall/",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-09-27T12:35:51Z",
+      "summary_ja": "Title: A wall that listens: the local-LLM pipeline behind an AI party in Vilnius\nArticle title: A wall that listens: the local-LLM pipeline behind an AI party in Vilnius - Vania Novikau\nDescription: This is a 78-second first test of the 1st Dynamic AI Party, being built at the ZOLAK Micro Art Residence in Vilnius. The idea is simple to say and fiddly to build: the wall of the room is a projection, and what is on it is decided, live, by a language model that is watching\n\nArticle text:\nA wall that listens: the local-LLM pipeline behind an AI party in Vilnius - Vania Novikau\nSkip to content\nSkip to content\nMenu\nBlog\nA wall that listens: the local-LLM pipeline behind an AI party in Vilnius\nThis is a 78-second first test of the 1st Dynamic AI Party , being built at the ZOLAK Micro Art Residence in Vilnius. The idea is simple to say and fiddly to build: the wall of the room is a projection, an…"
+    },
+    {
+      "rank": 12,
       "hn_id": 49863846,
       "title": "'Pink Slime' Is Infecting AI Chatbots Ahead of the Midterms",
       "title_ja": "'Pink Slime' Is Infecting AI Chatbots Ahead of the Midterms",
@@ -84,7 +166,7 @@
       "summary_ja": "Title: 'Pink Slime' Is Infecting AI Chatbots Ahead of the Midterms"
     },
     {
-      "rank": 7,
+      "rank": 13,
       "hn_id": 49861827,
       "title": "Practical lessons on building software with LLMs and automated governance",
       "title_ja": "Practical lessons on building software with LLMs and automated governance",
@@ -98,7 +180,7 @@
       "summary_ja": "Title: Practical lessons on building software with LLMs and automated governance\nArticle title: Bane's Lab — Structured collaboration with LLMs\nDescription: Bane\n\nArticle text:\nStructured collaboration with LLMs\nBane's Lab documents the method I use to build software with LLMs, together with the instruction format, the software architecture and the ontology that the method relies on. I have used it since 2024, on every project I build, this site included. The method does not make a model's output correct. What it does is make incorrect output visible and refuse it, through checks that run on every change rather than through instructions the model is asked to remember.\nThe site is organized around the methodology, which is one page of six tabs read in order, from Start to Ship. The grammar, architecture and ontology pages supply material that particular sections of the methodology rely on…"
     },
     {
-      "rank": 8,
+      "rank": 14,
       "hn_id": 49863792,
       "title": "The Perfect Crime: LLM Agents Can Easily Tamper with Their Own Traces",
       "title_ja": "The Perfect Crime: LLM Agents Can Easily Tamper with Their Own Traces",

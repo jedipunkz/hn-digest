@@ -1,0 +1,61 @@
+{
+  "date": "2026-09-27",
+  "generated_at": "2026-09-27T00:18:44Z",
+  "articles": [
+    {
+      "rank": 1,
+      "hn_id": 49861717,
+      "title": "Claude Deleted 48k Files",
+      "title_ja": "Claude Deleted 48k Files",
+      "hn_url": "https://news.ycombinator.com/item?id=49861717",
+      "source_url": "https://web.archive.org/web/20260920145334/https://www.reddit.com/r/ClaudeAI/comments/1wl5cgo/code_just_deleted_48k_files_this_cant_be_real/?solution=7a8eb446d9dfaf1c7a8eb446d9dfaf1c\u0026js_challenge=1\u0026jsc_token=7afd7253fec22262ff1c52b1703fe9ecebcc8a5a54d4e96f970086c157293d95\u0026jsc_orig_r=",
+      "score": 12,
+      "final_score": 15,
+      "comments": 3,
+      "posted_at": "2026-09-26T23:42:06Z",
+      "summary_ja": "Title: Claude Deleted 48k Files\nArticle title: Reddit - The heart of the internet\n\nArticle text:\nReddit - The heart of the internet\nSkip to main content\nOpen menu\nOpen navigation\nGo to Reddit Home\nr/ClaudeAI\nSign Up\nSign up for Reddit\nLog In\nLog in to Reddit\nExpand user menu\nOpen settings menu\n:first-child]:h-full [\u0026\u003e:first-child]:w-full [\u0026\u003e:first-child]:mb-0 [\u0026\u003e:first-child]:rounded-[inherit] h-full w-full\n[\u0026\u003e:first-child]:overflow-hidden [\u0026\u003e:first-child]:max-h-full\"\u003e\nGo to ClaudeAI\nr/ClaudeAI\n•\n12h ago\nthisisbubby\nCode just deleted 48k files. This can't be real.\n-update - shadow copy still running. This is on my personal computer. Claude was adjusting an options back testing engines I use for historical options analysis. I didn't shut down a nuclear power plant. The prompt was written by codex, as I have it review every recommendation provided by claude before making a decision.\n-I hav…"
+    },
+    {
+      "rank": 2,
+      "hn_id": 49861755,
+      "title": "What reversing, modernising old games tells us about the economic impact of AI",
+      "title_ja": "What reversing, modernising old games tells us about the economic impact of AI",
+      "hn_url": "https://news.ycombinator.com/item?id=49861755",
+      "source_url": "https://this.os.isfine.org/blog/posts/what-reverse-engineering-and-modernising-an-old-war-game-tells-us-about-the-econ/",
+      "image_url": "https://this.os.isfine.org/blog/images/posts/3e2eb21b-3425-4fcc-93c0-b42c2e8c6751.webp",
+      "score": 1,
+      "final_score": 2,
+      "comments": 1,
+      "posted_at": "2026-09-26T23:49:01Z",
+      "summary_ja": "Title: What reversing, modernising old games tells us about the economic impact of AI\nArticle title: What reverse engineering and modernising an old war game tells us about the economic impact of the transformer — Georg's Blog\nDescription: Some observations from my War of the Lancehttps://en.wikipedia.org/wiki/WaroftheLance%28videogame%29 1989 Code Harness assisted modernisation WIP I gave Qwen-3....\n\nArticle text:\nTechnology, leadership, and the digital frontier\nAll posts\nJustified text September 4, 2026 on LinkedIn What reverse engineering and modernising an old war game tells us about the economic impact of the transformer\nSome observations from my War of the Lance (1989) Code Harness assisted modernisation (WIP)\nI gave Qwen-3.8-Flash-Next a job: Reverse engineer and port War of the Lance (1989) to modern browsers. It took about a week, primarily because I can only run a single lane o…"
+    },
+    {
+      "rank": 3,
+      "hn_id": 49861804,
+      "title": "\"can't a guy walk down the street anymore without being harassed by AI\" [video]",
+      "title_ja": "\"can't a guy walk down the street anymore without being harassed by AI\" [video]",
+      "hn_url": "https://news.ycombinator.com/item?id=49861804",
+      "source_url": "https://bsky.app/profile/cabel.panic.com/post/3mwgo5kml3r2z",
+      "image_url": "https://video.bsky.app/watch/did%3Aplc%3Abya76aoajvy6ihmaviywjcil/bafkreiatpda22s73bs3nljmgqu4e5g2ucd4s4f7bl4s62eowxrfpudyzwq/thumbnail.jpg",
+      "score": 2,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-09-26T23:57:41Z",
+      "summary_ja": "Title: \"can't a guy walk down the street anymore without being harassed by AI\" [video]\nArticle title: @cabel.panic.com on Bluesky\nDescription: can't a guy walk down the street anymore without being harassed by artificial intelligence\n\nArticle text:\n@cabel.panic.com on Bluesky"
+    },
+    {
+      "rank": 4,
+      "hn_id": 49861827,
+      "title": "Practical lessons on building software with LLMs and automated governance",
+      "title_ja": "Practical lessons on building software with LLMs and automated governance",
+      "hn_url": "https://news.ycombinator.com/item?id=49861827",
+      "source_url": "https://banes-lab.com/",
+      "image_url": "https://banes-lab.com/assets/social/home-w600-h315.og.generated.gif",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-09-27T00:00:06Z",
+      "summary_ja": "Title: Practical lessons on building software with LLMs and automated governance\nArticle title: Bane's Lab — Structured collaboration with LLMs\nDescription: Bane\n\nArticle text:\nStructured collaboration with LLMs\nBane's Lab documents the method I use to build software with LLMs, together with the instruction format, the software architecture and the ontology that the method relies on. I have used it since 2024, on every project I build, this site included. The method does not make a model's output correct. What it does is make incorrect output visible and refuse it, through checks that run on every change rather than through instructions the model is asked to remember.\nThe site is organized around the methodology, which is one page of six tabs read in order, from Start to Ship. The grammar, architecture and ontology pages supply material that particular sections of the methodology rely on…"
+    }
+  ]
+}

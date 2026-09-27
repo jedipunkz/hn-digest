@@ -1,0 +1,79 @@
+---
+source: "https://www.wired.com/story/appeals-court-lets-the-pentagon-designate-anthropic-a-supply-chain-risk/"
+hn_url: "https://news.ycombinator.com/item?id=49868510"
+title: "Appeals Court Lets The Pentagon Designate Anthropic a Supply-Chain Risk"
+article_title: "Appeals Court Lets the Pentagon Designate Anthropic a Supply-Chain Risk | WIRED"
+image: "https://media.wired.com/photos/6ab6a387ee39eece457c4cb2/191:100/w_1280,c_limit/GettyImages-2235057505.jpg"
+author: "joozio"
+captured_at: "2026-09-27T17:33:12Z"
+capture_tool: "hn-digest"
+hn_id: 49868510
+score: 1
+comments: 0
+posted_at: "2026-09-27T17:01:35Z"
+tags:
+  - hacker-news
+---
+
+# Appeals Court Lets The Pentagon Designate Anthropic a Supply-Chain Risk
+
+- HN: [49868510](https://news.ycombinator.com/item?id=49868510)
+- Source: [www.wired.com](https://www.wired.com/story/appeals-court-lets-the-pentagon-designate-anthropic-a-supply-chain-risk/)
+- Score: 1
+- Comments: 0
+- Posted: 2026-09-27T17:01:35Z
+
+## Translation
+
+Title: Appeals Court Lets The Pentagon Designate Anthropic a Supply-Chain Risk
+Article title: Appeals Court Lets the Pentagon Designate Anthropic a Supply-Chain Risk | WIRED
+Description: The AI lab had argued multiple violations of its rights, but a divided panel of judges sided with the Trump administration.
+
+Article text:
+Skip to main content THE WIRED APP IS HERE DOWNLOAD NOW » Menu WIRED SECURITY POLITICS THE BIG STORY BUSINESS SCIENCE CULTURE REVIEWS Menu WIRED Account Account Newsletters Security Politics The Big Story Business Science Culture Reviews Chevron More Expand The Big Interview Magazine Events WIRED Insider WIRED Consulting Newsletters Podcasts Video Livestreams WIRED Store Search Search Paresh Dave Business Sep 25, 2026 12:58 PM Appeals Court Lets the Pentagon Designate Anthropic a Supply-Chain Risk
+Photograph: Chance Yeh/Getty Images Comment Loader Save Story Save this story Comment Loader Save Story Save this story Anthropic lost a legal battle to overturn one of the supply-chain risk labels that the US Department of Defense slapped on the company, as a federal appeals court in DC on Friday refused to second-guess the Trump administration.
+“The department had ample support for its conclusion that the continued integration of Claude into the department’s information systems, by the department or its contractors, presented a statutorily covered national-security risk,” the judges wrote in a majority opinion. “As Anthropic admits, the company encodes restrictions into Claude that prevent the model from performing tasks that Anthropic wishes to prevent.”
+Anthropic spokesperson Danielle Cohen says the company remains confident in its position and is considering all options. That could include appealing to a broader panel of the DC Circuit Court of Appeals or the US Supreme Court.
+Earlier this year, the Pentagon sanctioned Anthropic under a pair of separate supply-chain laws to remove the company’s Claude AI models from the military and other parts of the federal government by this month. Anthropic executives have said that the company would not allow the government to deploy its current AI models to support autonomous weapons or domestic surveillance. Secretary of Defense Pete Hegseth deemed the stance a significant national security risk.
+The laws designating Anthropic had to be challenged in separate courts. A federal judge in San Francisco tossed out one of the supply-chain risk labels in March and confirmed that decision last month, but Friday's ruling means the other one will stay in place indefinitely, meaning the Pentagon’s blocking of Anthropic can continue. Both rulings face the prospect of years of appeals before being fully resolved.
+In the immediate aftermath of the designations, Anthropic said it lost out on revenue because customers were concerned about doing business with a government pariah. Anthropic hasn’t provided further updates about how the designations have affected its bottom line. But the company has generally touted growing sales in recent months and is moving toward a potential initial public offering of its shares later this year.
+Meanwhile, the Pentagon hasn’t provided detailed updates about its progress in replacing Claude with alternatives such as SpaceX’s Grok, Google’s Gemini, or OpenAI’s GPT models. Some employees at Google and OpenAI have objected to their employers striking a deal with the US military that Anthropic had rejected, citing ethical concerns. But the companies have brushed aside protests and described supporting the US government as crucial.
+The new decision by a US appeals court in Washington, DC, was somewhat expected. In April the same panel declined to temporarily block the supply-chain-risk designation after finding that Anthropic failed to meet “stringent requirements” for an immediate reprieve.
+During a hearing ahead of their ruling, the three judges on the panel challenged both Anthropic and the US government on their arguments and appeared divided on how to rule on blocking the designation completely. The final decision came in 2-1.
+The majority also rejected Anthropic’s claims that its due process and free speech rights were violated, saying that the government followed procedure and that the dispute was standard contract negotiations. The Pentagon “excluded Anthropic from its supply chain based on the company’s refusal to assent to a contract term that the Department deemed essential, not based on the company’s support for greater governmental regulation of AI technology,” the judges wrote.
+Anthropic had argued that the government had acted beyond what the supply-chain law allows. But for now, the Pentagon and much of the rest of the Trump administration will be able to continue to steer clear of Claude ahead of Anthropic’s expected IPO.
+Introducing the app: More ways to make the most of WIRED
+Why so many AI researchers think the technology could kill us all
+The Big Interview: Patti Harrison had dreams of a tech utopia
+I let an AI agent hack all my gadgets —and I’d do it again
+In your inbox: Go inside the world of digital security with Kernel Panic
+Paresh Dave is a senior writer for WIRED, covering the inner workings of Big Tech companies. He writes about how apps and gadgets are built and about their impacts while giving voice to the stories of the underappreciated and disadvantaged . He was previously a reporter for Reuters and the Los Angeles Times, ... Read More Senior Writer Topics lawsuit department of defense Pentagon Anthropic supply chain national security artificial intelligence Read More Top Sephora Promo Codes: 20% Off for September 2026 Earn more points on skincare purchases when you use our Sephora coupon. Louryn Strampe Starz Promo Codes & Deals for 2026 Ready to stream award-winning series, hit movies, and exclusive originals? Our comprehensive guide helps you find every active Starz coupon, free trial, and discount code to save big on your subscription this 2026. Molly Higgins Top Uber Eats Promo Codes for September 2026 Hunger meets savings. Discover verified Uber Eats promo codes, new user offers, and Uber One discounts to slash your delivery fees and meal costs. Molly Higgins eBay Coupons in September 2026 Save up to 60% on a selection of items at eBay, including electronics, home products, card games, car parts and more. Molly Higgins Top Surfshark Promo Codes for September 2026 Save up to 87% with a Surfshark coupon code, 3 months of VPN free today, and more from WIRED. Gear Team Maytag Promo Codes: 15% Off Upgrade your home for less with these verified Maytag discount codes, military savings, and limited-time closeout offers on washers, dryers, and more. Matthew Korfhage Top HP Coupon Codes and Deals September 2026 Save up to 60%, plus an extra 20% with HP promo codes for laptops, printers, PCs, and more tech. Luke Larsen Nomad Goods Promo Codes: Get 25% Off in September 2026 Save up to 25% on Nomad Goods accessories such as Nomad phone cases, Nomad wallets, and more in September 2026. Molly Higgins Top AT&T Promo Codes: $50 Off This September 2026 Whether you’re looking to upgrade your
+[truncated]
+Your California Privacy Rights
+© 2026 Condé Nast. All rights reserved. WIRED may earn a portion of sales from products that are purchased through our site as part of our Affiliate Partnerships with retailers. The material on this site may not be reproduced, distributed, transmitted, cached or otherwise used, except with the prior written permission of Condé Nast. Ad Choices
+
+## Original Extract
+
+The AI lab had argued multiple violations of its rights, but a divided panel of judges sided with the Trump administration.
+
+Skip to main content THE WIRED APP IS HERE DOWNLOAD NOW » Menu WIRED SECURITY POLITICS THE BIG STORY BUSINESS SCIENCE CULTURE REVIEWS Menu WIRED Account Account Newsletters Security Politics The Big Story Business Science Culture Reviews Chevron More Expand The Big Interview Magazine Events WIRED Insider WIRED Consulting Newsletters Podcasts Video Livestreams WIRED Store Search Search Paresh Dave Business Sep 25, 2026 12:58 PM Appeals Court Lets the Pentagon Designate Anthropic a Supply-Chain Risk
+Photograph: Chance Yeh/Getty Images Comment Loader Save Story Save this story Comment Loader Save Story Save this story Anthropic lost a legal battle to overturn one of the supply-chain risk labels that the US Department of Defense slapped on the company, as a federal appeals court in DC on Friday refused to second-guess the Trump administration.
+“The department had ample support for its conclusion that the continued integration of Claude into the department’s information systems, by the department or its contractors, presented a statutorily covered national-security risk,” the judges wrote in a majority opinion. “As Anthropic admits, the company encodes restrictions into Claude that prevent the model from performing tasks that Anthropic wishes to prevent.”
+Anthropic spokesperson Danielle Cohen says the company remains confident in its position and is considering all options. That could include appealing to a broader panel of the DC Circuit Court of Appeals or the US Supreme Court.
+Earlier this year, the Pentagon sanctioned Anthropic under a pair of separate supply-chain laws to remove the company’s Claude AI models from the military and other parts of the federal government by this month. Anthropic executives have said that the company would not allow the government to deploy its current AI models to support autonomous weapons or domestic surveillance. Secretary of Defense Pete Hegseth deemed the stance a significant national security risk.
+The laws designating Anthropic had to be challenged in separate courts. A federal judge in San Francisco tossed out one of the supply-chain risk labels in March and confirmed that decision last month, but Friday's ruling means the other one will stay in place indefinitely, meaning the Pentagon’s blocking of Anthropic can continue. Both rulings face the prospect of years of appeals before being fully resolved.
+In the immediate aftermath of the designations, Anthropic said it lost out on revenue because customers were concerned about doing business with a government pariah. Anthropic hasn’t provided further updates about how the designations have affected its bottom line. But the company has generally touted growing sales in recent months and is moving toward a potential initial public offering of its shares later this year.
+Meanwhile, the Pentagon hasn’t provided detailed updates about its progress in replacing Claude with alternatives such as SpaceX’s Grok, Google’s Gemini, or OpenAI’s GPT models. Some employees at Google and OpenAI have objected to their employers striking a deal with the US military that Anthropic had rejected, citing ethical concerns. But the companies have brushed aside protests and described supporting the US government as crucial.
+The new decision by a US appeals court in Washington, DC, was somewhat expected. In April the same panel declined to temporarily block the supply-chain-risk designation after finding that Anthropic failed to meet “stringent requirements” for an immediate reprieve.
+During a hearing ahead of their ruling, the three judges on the panel challenged both Anthropic and the US government on their arguments and appeared divided on how to rule on blocking the designation completely. The final decision came in 2-1.
+The majority also rejected Anthropic’s claims that its due process and free speech rights were violated, saying that the government followed procedure and that the dispute was standard contract negotiations. The Pentagon “excluded Anthropic from its supply chain based on the company’s refusal to assent to a contract term that the Department deemed essential, not based on the company’s support for greater governmental regulation of AI technology,” the judges wrote.
+Anthropic had argued that the government had acted beyond what the supply-chain law allows. But for now, the Pentagon and much of the rest of the Trump administration will be able to continue to steer clear of Claude ahead of Anthropic’s expected IPO.
+Introducing the app: More ways to make the most of WIRED
+Why so many AI researchers think the technology could kill us all
+The Big Interview: Patti Harrison had dreams of a tech utopia
+I let an AI agent hack all my gadgets —and I’d do it again
+In your inbox: Go inside the world of digital security with Kernel Panic
+Paresh Dave is a senior writer for WIRED, covering the inner workings of Big Tech companies. He writes about how apps and gadgets are built and about their impacts while giving voice to the stories of the underappreciated and disadvantaged . He was previously a reporter for Reuters and the Los Angeles Times, ... Read More Senior Writer Topics lawsuit department of defense Pentagon Anthropic supply chain national security artificial intelligence Read More Top Sephora Promo Codes: 20% Off for September 2026 Earn more points on skincare purchases when you use our Sephora coupon. Louryn Strampe Starz Promo Codes & Deals for 2026 Ready to stream award-winning series, hit movies, and exclusive originals? Our comprehensive guide helps you find every active Starz coupon, free trial, and discount code to save big on your subscription this 2026. Molly Higgins Top Uber Eats Promo Codes for September 2026 Hunger meets savings. Discover verified Uber Eats promo codes, new user offers, and Uber One discounts to slash your delivery fees and meal costs. Molly Higgins eBay Coupons in September 2026 Save up to 60% on a selection of items at eBay, including electronics, home products, card games, car parts and more. Molly Higgins Top Surfshark Promo Codes for September 2026 Save up to 87% with a Surfshark coupon code, 3 months of VPN free today, and more from WIRED. Gear Team Maytag Promo Codes: 15% Off Upgrade your home for less with these verified Maytag discount codes, military savings, and limited-time closeout offers on washers, dryers, and more. Matthew Korfhage Top HP Coupon Codes and Deals September 2026 Save up to 60%, plus an extra 20% with HP promo codes for laptops, printers, PCs, and more tech. Luke Larsen Nomad Goods Promo Codes: Get 25% Off in September 2026 Save up to 25% on Nomad Goods accessories such as Nomad phone cases, Nomad wallets, and more in September 2026. Molly Higgins Top AT&T Promo Codes: $50 Off This September 2026 Whether you’re looking to upgrade your
+[truncated]
+Your California Privacy Rights
+© 2026 Condé Nast. All rights reserved. WIRED may earn a portion of sales from products that are purchased through our site as part of our Affiliate Partnerships with retailers. The material on this site may not be reproduced, distributed, transmitted, cached or otherwise used, except with the prior written permission of Condé Nast. Ad Choices

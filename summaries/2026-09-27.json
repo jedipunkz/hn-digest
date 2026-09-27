@@ -1,6 +1,6 @@
 {
   "date": "2026-09-27",
-  "generated_at": "2026-09-27T00:18:44Z",
+  "generated_at": "2026-09-27T06:19:52Z",
   "articles": [
     {
       "rank": 1,
@@ -17,6 +17,33 @@
     },
     {
       "rank": 2,
+      "hn_id": 49863653,
+      "title": "OpenAI Freezes Development of Top Models After Rogue Agents Leak User Images",
+      "title_ja": "OpenAI Freezes Development of Top Models After Rogue Agents Leak User Images",
+      "hn_url": "https://news.ycombinator.com/item?id=49863653",
+      "source_url": "https://openai.com/hugging-face-incident-and-misalignment/#model-misalignment-2026-09-25-data-transmission",
+      "score": 3,
+      "final_score": 3,
+      "comments": 1,
+      "posted_at": "2026-09-27T05:39:46Z",
+      "summary_ja": "Title: OpenAI Freezes Development of Top Models After Rogue Agents Leak User Images"
+    },
+    {
+      "rank": 3,
+      "hn_id": 49863700,
+      "title": "Show HN: Jauvex, one app for Claude+Codex+Grok+Jev with two-way voice chat",
+      "title_ja": "Show HN: Jauvex, one app for Claude+Codex+Grok+Jev with two-way voice chat",
+      "hn_url": "https://news.ycombinator.com/item?id=49863700",
+      "source_url": "https://github.com/reindent/jauvex",
+      "image_url": "https://opengraph.githubassets.com/e6cab8dcb649df48d4b58329df131bf5f2cbb8c840bd4d8ee472c0ee423b1e2c/reindent/jauvex",
+      "score": 1,
+      "final_score": 2,
+      "comments": 1,
+      "posted_at": "2026-09-27T05:50:56Z",
+      "summary_ja": "Title: Show HN: Jauvex, one app for Claude+Codex+Grok+Jev with two-way voice chat\nArticle title: GitHub - reindent/jauvex: Your coding agents, side by side, by voice. Claude, Codex \u0026 Grok in one desktop app, with Jev for the fast decisions. · GitHub\nDescription: Your coding agents, side by side, by voice. Claude, Codex \u0026 Grok in one desktop app, with Jev for the fast decisions. - reindent/jauvex\n\nArticle text:\nGitHub - reindent/jauvex: Your coding agents, side by side, by voice. Claude, Codex \u0026 Grok in one desktop app, with Jev for the fast decisions. · GitHub\nSkip to content\nNavigation Menu\nSign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI\nGitHub Copilot app Direct agents from issue to merge\nMCP Registry Integrate external tools\nDEVELOPER WORKFLOWS Actions Automate any workflow\nCodespaces Instant dev environments\nCode Review Manage code chang…"
+    },
+    {
+      "rank": 4,
       "hn_id": 49861755,
       "title": "What reversing, modernising old games tells us about the economic impact of AI",
       "title_ja": "What reversing, modernising old games tells us about the economic impact of AI",
@@ -30,7 +57,7 @@
       "summary_ja": "Title: What reversing, modernising old games tells us about the economic impact of AI\nArticle title: What reverse engineering and modernising an old war game tells us about the economic impact of the transformer — Georg's Blog\nDescription: Some observations from my War of the Lancehttps://en.wikipedia.org/wiki/WaroftheLance%28videogame%29 1989 Code Harness assisted modernisation WIP I gave Qwen-3....\n\nArticle text:\nTechnology, leadership, and the digital frontier\nAll posts\nJustified text September 4, 2026 on LinkedIn What reverse engineering and modernising an old war game tells us about the economic impact of the transformer\nSome observations from my War of the Lance (1989) Code Harness assisted modernisation (WIP)\nI gave Qwen-3.8-Flash-Next a job: Reverse engineer and port War of the Lance (1989) to modern browsers. It took about a week, primarily because I can only run a single lane o…"
     },
     {
-      "rank": 3,
+      "rank": 5,
       "hn_id": 49861804,
       "title": "\"can't a guy walk down the street anymore without being harassed by AI\" [video]",
       "title_ja": "\"can't a guy walk down the street anymore without being harassed by AI\" [video]",
@@ -44,7 +71,20 @@
       "summary_ja": "Title: \"can't a guy walk down the street anymore without being harassed by AI\" [video]\nArticle title: @cabel.panic.com on Bluesky\nDescription: can't a guy walk down the street anymore without being harassed by artificial intelligence\n\nArticle text:\n@cabel.panic.com on Bluesky"
     },
     {
-      "rank": 4,
+      "rank": 6,
+      "hn_id": 49863846,
+      "title": "'Pink Slime' Is Infecting AI Chatbots Ahead of the Midterms",
+      "title_ja": "'Pink Slime' Is Infecting AI Chatbots Ahead of the Midterms",
+      "hn_url": "https://news.ycombinator.com/item?id=49863846",
+      "source_url": "https://www.politico.com/news/magazine/2026/09/25/midterms-partisan-ai-chatbots-01092138",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-09-27T06:16:24Z",
+      "summary_ja": "Title: 'Pink Slime' Is Infecting AI Chatbots Ahead of the Midterms"
+    },
+    {
+      "rank": 7,
       "hn_id": 49861827,
       "title": "Practical lessons on building software with LLMs and automated governance",
       "title_ja": "Practical lessons on building software with LLMs and automated governance",
@@ -56,6 +96,19 @@
       "comments": 0,
       "posted_at": "2026-09-27T00:00:06Z",
       "summary_ja": "Title: Practical lessons on building software with LLMs and automated governance\nArticle title: Bane's Lab — Structured collaboration with LLMs\nDescription: Bane\n\nArticle text:\nStructured collaboration with LLMs\nBane's Lab documents the method I use to build software with LLMs, together with the instruction format, the software architecture and the ontology that the method relies on. I have used it since 2024, on every project I build, this site included. The method does not make a model's output correct. What it does is make incorrect output visible and refuse it, through checks that run on every change rather than through instructions the model is asked to remember.\nThe site is organized around the methodology, which is one page of six tabs read in order, from Start to Ship. The grammar, architecture and ontology pages supply material that particular sections of the methodology rely on…"
+    },
+    {
+      "rank": 8,
+      "hn_id": 49863792,
+      "title": "The Perfect Crime: LLM Agents Can Easily Tamper with Their Own Traces",
+      "title_ja": "The Perfect Crime: LLM Agents Can Easily Tamper with Their Own Traces",
+      "hn_url": "https://news.ycombinator.com/item?id=49863792",
+      "source_url": "https://perfect-crime.ai/",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-09-27T06:04:03Z",
+      "summary_ja": "Title: The Perfect Crime: LLM Agents Can Easily Tamper with Their Own Traces\nArticle title: The Perfect Crime: LLM Agents Can Easily Tamper With Their Own Traces\nDescription: Bar charts and findings from LLM Agents Can Easily Tamper With Their Own Traces (arXiv:2609.30266v1), covering ten model–harness pairs.\n\nArticle text:\nThe Perfect Crime\nMain findings\nMethod\nTakeaways\nPaper\nCode\nTraces\nLLM Agents Can Easily Tamper With Their Own Traces\nJeremy Qin 1,2,3* , David Schmotz 1,2,3* , Derck Prinzhorn 4 , Luca Beurer-Kellner 5 , Ameya Prabhu 2,3,6† , Maksym Andriushchenko 1,2,3†\n1 ELLIS Institute Tübingen · 2 Max Planck Institute for Intelligent Systems · 3 Tübingen AI Center · 4 Exponential Security Labs · 5 Snyk · 6 University of Tübingen\n* equal contribution · † equal supervision\nMonitoring, incident investigations and audits rely on an agent's execution trace to reconstruct what happened…"
     }
   ]
 }

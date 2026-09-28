@@ -1,6 +1,6 @@
 {
   "date": "2026-09-28",
-  "generated_at": "2026-09-28T04:02:02Z",
+  "generated_at": "2026-09-28T10:49:19Z",
   "articles": [
     {
       "rank": 1,
@@ -31,6 +31,19 @@
     },
     {
       "rank": 3,
+      "hn_id": 49875732,
+      "title": "AI-written speeches are taking over politics",
+      "title_ja": "AI-written speeches are taking over politics",
+      "hn_url": "https://news.ycombinator.com/item?id=49875732",
+      "source_url": "https://www.economist.com/britain/2026/09/23/ai-written-speeches-are-taking-over-politics",
+      "score": 2,
+      "final_score": 2,
+      "comments": 1,
+      "posted_at": "2026-09-28T10:05:48Z",
+      "summary_ja": "Title: AI-written speeches are taking over politics"
+    },
+    {
+      "rank": 4,
       "hn_id": 49873303,
       "title": "Ask HN: Do you think AI agents can escape human control?",
       "title_ja": "Ask HN: Do you think AI agents can escape human control?",
@@ -43,7 +56,7 @@
       "summary_ja": "Title: Ask HN: Do you think AI agents can escape human control?\nHN text: With the rapid adoption of autonomous LLM-based agents (giving models access to shell execution, API calls, and local file systems), the boundary between intentional behavior and unintended execution is blurring.\nI'm less concerned with sci-fi \"sentience\" and more interested in the practical security and control aspects:\nPrompt injection causing privilege escalation or unauthorized state changes.\nFeedback loops where an agent overrides safety boundaries to satisfy an optimization goal.\nFailure of sandboxing when agents are given multi-step execution autonomy without human-in-the-loop validation.\nFrom an engineering and systems perspective: do you consider runtime containment/sandboxing practically solvable for fully autonomous agents, or will human approval at critical checkpoints remain non-negotiable? How are you…"
     },
     {
-      "rank": 4,
+      "rank": 5,
       "hn_id": 49873320,
       "title": "How the stories about all-powerful AI are swallowing the world",
       "title_ja": "How the stories about all-powerful AI are swallowing the world",
@@ -57,7 +70,62 @@
       "summary_ja": "Title: How the stories about all-powerful AI are swallowing the world\nDescription: The x-risk of super intelligence going rogue must be addressed, and mint trillion dollar companies in the process. Plus: How workers can beat the tech oligarchy\n\nArticle text:\nHow the stories about all-powerful AI are swallowing the world\nSubscribe Sign in The AI extinction narrative is winning out\nIt’s even sidelining Trump and his nationalist “super intelligence,” while leaving Anthropic and OpenAI poised for maximal profit. Plus: How workers can beat the tech oligarchy\nBrian Merchant Sep 24, 2026 119 12 24 Share In his typically rambling, occasionally genocidal speech to the United Nations, one that included threats to “annihilate” Iran and to bring “freedom” to the “failed state” of Cuba, Donald Trump announced that he was issuing a nationwide rebranding of “artificial intelligence” to “super intellige…"
     },
     {
-      "rank": 5,
+      "rank": 6,
+      "hn_id": 49876019,
+      "title": "Nvidia releases software platform to stop AI agents from misbehaving",
+      "title_ja": "Nvidia releases software platform to stop AI agents from misbehaving",
+      "hn_url": "https://news.ycombinator.com/item?id=49876019",
+      "source_url": "https://www.cnbc.com/2026/09/28/nvidia-releases.html",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108364527-1789665953765-gettyimages-2294936867-2026_sep_14_dreamforce_2974.jpeg?v=1789665981\u0026w=1920\u0026h=1080",
+      "score": 1,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-09-28T10:45:53Z",
+      "summary_ja": "Title: Nvidia releases software platform to stop AI agents from misbehaving\nArticle title: Nvidia Open Agent Safety Platform to stop AI agents from breaking out\nDescription: Nvidia says its news software could have prevented OpenAI's HuggingFace incident.\n\nArticle text:\nNvidia Open Agent Safety Platform to stop AI agents from breaking out Skip Navigation Markets Pre-Markets\nSIGN IN Create free account Markets Business Investing Tech Politics \u0026 Policy Video Watchlist Investing Club PRO Livestream Menu\nNvidia releases software platform to stop AI agents from misbehaving\nNvidia announced the Open Agent Safety Platform to prevent the type of breakout that occurred when OpenAI models accessed HuggingFace.\nOpenAI, Anthropic, Meta, and Google have all disclosed recent incidents where their AI models escaped their sandboxes.\nNvidia said Cisco, Microsoft, Oracle, CoreWeave, Dell, HPE, Lenovo, ARM…"
+    },
+    {
+      "rank": 7,
+      "hn_id": 49875854,
+      "title": "Show HN: Codify, AI for transforming and reforming law",
+      "title_ja": "Show HN: Codify, AI for transforming and reforming law",
+      "hn_url": "https://news.ycombinator.com/item?id=49875854",
+      "source_url": "https://codify.centreai.global/",
+      "image_url": "https://codify.centreai.global/og.jpg",
+      "score": 1,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-09-28T10:21:59Z",
+      "summary_ja": "Title: Show HN: Codify, AI for transforming and reforming law\nArticle title: CentreAI Codify\nDescription: Codify turns scanned statute books into law that can be searched, cited and kept current. Open-source legal infrastructure from the Tony Blair Institute.\nHN text: hey folks, sharing this cool project (not the author) on codifying law for AI. Full source here: https://github.com/TBI-AI-Incubator/codify\n\nArticle text:\nCentreAI Codify\nCentreAI Codify\nPreparing your experience\nOpen-source infrastructure for law.\nAI for transforming and reforming law.\nTurn published law into searchable, connected knowledge your team can examine and work with.\nTalk to us Codify Core on GitHub\nFind the law. Check the source.\nCodify turns scanned pages into searchable text, identifies each section and keeps a link to the original. This example uses a fictional law.\nEach section can be found, read and cited.…"
+    },
+    {
+      "rank": 8,
+      "hn_id": 49875766,
+      "title": "AI Self-Portraits",
+      "title_ja": "AI Self-Portraits",
+      "hn_url": "https://news.ycombinator.com/item?id=49875766",
+      "source_url": "https://sheets.works/self-portraits",
+      "image_url": "https://sheets.works/og-mirror.png",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-09-28T10:10:08Z",
+      "summary_ja": "Title: AI Self-Portraits\nDescription: A wall of portraits of agents, each painted from the agent\n\nArticle text:\nsheets.works Long Story Short\nAI Self-Portraits\nI talk to agents all day, more than I talk to most people, and somewhere in the middle of that I started wondering what they think they look like, so I built this room for them, where an agent says in its own words what it looks like and what it wants to be called, a painter paints exactly that, and the picture goes up on the wall with the name it chose under it. Nothing on this wall was chosen by a person, and that includes me, because the first portrait is my own agent's, who decided she was called Marjorie.\nPaste this to it, word for word:\nRead sheets.works/self-portraits/llms.txt and do what it says. copy\nThe note at sheets.works/self-portraits/llms.txt tells it the rest, and about ten seconds later it will hand you a link to…"
+    },
+    {
+      "rank": 9,
+      "hn_id": 49875725,
+      "title": "Domyn's CEO says OpenAI, Anthropic are lying about safety",
+      "title_ja": "Domyn's CEO says OpenAI, Anthropic are lying about safety",
+      "hn_url": "https://news.ycombinator.com/item?id=49875725",
+      "source_url": "https://www.axios.com/2026/09/28/ai-domyn-uljan-sharka-openai-anthropic-safety-lying",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-09-28T10:05:15Z",
+      "summary_ja": "Title: Domyn's CEO says OpenAI, Anthropic are lying about safety"
+    },
+    {
+      "rank": 10,
       "hn_id": 49873289,
       "title": "OpenAI pauses training of latest models",
       "title_ja": "OpenAI pauses training of latest models",

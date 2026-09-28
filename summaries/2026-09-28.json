@@ -1,0 +1,74 @@
+{
+  "date": "2026-09-28",
+  "generated_at": "2026-09-28T04:02:02Z",
+  "articles": [
+    {
+      "rank": 1,
+      "hn_id": 49873241,
+      "title": "Thinking Fast and Slow in AI: The Role of Metacognition",
+      "title_ja": "Thinking Fast and Slow in AI: The Role of Metacognition",
+      "hn_url": "https://news.ycombinator.com/item?id=49873241",
+      "source_url": "https://arxiv.org/abs/2110.01834",
+      "image_url": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+      "score": 4,
+      "final_score": 5,
+      "comments": 0,
+      "posted_at": "2026-09-28T03:23:53Z",
+      "summary_ja": "Title: Thinking Fast and Slow in AI: The Role of Metacognition\nArticle title: [2110.01834] Thinking Fast and Slow in AI: the Role of Metacognition\nDescription: Abstract page for arXiv paper 2110.01834: Thinking Fast and Slow in AI: the Role of Metacognition\n\nArticle text:\nSkip to main content\nSearch\nSubmit\nDonate\nLog in\nSearch arXiv\nPress Enter to search · Advanced search\n--\u003e\nComputer Science \u003e Artificial Intelligence\n[Submitted on 5 Oct 2021]\nTitle: Thinking Fast and Slow in AI: the Role of Metacognition\nAbstract: AI systems have seen dramatic advancement in recent years, bringing many applications that pervade our everyday life. However, we are still mostly seeing instances of narrow AI: many of these recent developments are typically focused on a very limited set of competencies and goals, e.g., image interpretation, natural language processing, classification, prediction, and many ot…"
+    },
+    {
+      "rank": 2,
+      "hn_id": 49873255,
+      "title": "Australia Senate Requests OpenAI, Anthropic CEOs Face AI Inquiry",
+      "title_ja": "Australia Senate Requests OpenAI, Anthropic CEOs Face AI Inquiry",
+      "hn_url": "https://news.ycombinator.com/item?id=49873255",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-09-27/australia-senate-requests-openai-anthropic-ceos-face-ai-inquiry",
+      "score": 3,
+      "final_score": 3,
+      "comments": 0,
+      "posted_at": "2026-09-28T03:26:57Z",
+      "summary_ja": "Title: Australia Senate Requests OpenAI, Anthropic CEOs Face AI Inquiry"
+    },
+    {
+      "rank": 3,
+      "hn_id": 49873303,
+      "title": "Ask HN: Do you think AI agents can escape human control?",
+      "title_ja": "Ask HN: Do you think AI agents can escape human control?",
+      "hn_url": "https://news.ycombinator.com/item?id=49873303",
+      "source_url": "",
+      "score": 2,
+      "final_score": 2,
+      "comments": 1,
+      "posted_at": "2026-09-28T03:36:14Z",
+      "summary_ja": "Title: Ask HN: Do you think AI agents can escape human control?\nHN text: With the rapid adoption of autonomous LLM-based agents (giving models access to shell execution, API calls, and local file systems), the boundary between intentional behavior and unintended execution is blurring.\nI'm less concerned with sci-fi \"sentience\" and more interested in the practical security and control aspects:\nPrompt injection causing privilege escalation or unauthorized state changes.\nFeedback loops where an agent overrides safety boundaries to satisfy an optimization goal.\nFailure of sandboxing when agents are given multi-step execution autonomy without human-in-the-loop validation.\nFrom an engineering and systems perspective: do you consider runtime containment/sandboxing practically solvable for fully autonomous agents, or will human approval at critical checkpoints remain non-negotiable? How are you…"
+    },
+    {
+      "rank": 4,
+      "hn_id": 49873320,
+      "title": "How the stories about all-powerful AI are swallowing the world",
+      "title_ja": "How the stories about all-powerful AI are swallowing the world",
+      "hn_url": "https://news.ycombinator.com/item?id=49873320",
+      "source_url": "https://www.bloodinthemachine.com/p/how-the-stories-about-all-powerful",
+      "image_url": "https://substackcdn.com/image/fetch/$s_!GQDS!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8c7a23b4-5595-4a34-be95-97a7e30f00b8_6000x4378.jpeg",
+      "score": 1,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-09-28T03:38:55Z",
+      "summary_ja": "Title: How the stories about all-powerful AI are swallowing the world\nDescription: The x-risk of super intelligence going rogue must be addressed, and mint trillion dollar companies in the process. Plus: How workers can beat the tech oligarchy\n\nArticle text:\nHow the stories about all-powerful AI are swallowing the world\nSubscribe Sign in The AI extinction narrative is winning out\nIt’s even sidelining Trump and his nationalist “super intelligence,” while leaving Anthropic and OpenAI poised for maximal profit. Plus: How workers can beat the tech oligarchy\nBrian Merchant Sep 24, 2026 119 12 24 Share In his typically rambling, occasionally genocidal speech to the United Nations, one that included threats to “annihilate” Iran and to bring “freedom” to the “failed state” of Cuba, Donald Trump announced that he was issuing a nationwide rebranding of “artificial intelligence” to “super intellige…"
+    },
+    {
+      "rank": 5,
+      "hn_id": 49873289,
+      "title": "OpenAI pauses training of latest models",
+      "title_ja": "OpenAI pauses training of latest models",
+      "hn_url": "https://news.ycombinator.com/item?id=49873289",
+      "source_url": "https://www.nbcnews.com/tech/tech-news/openai-pauses-training-latest-models-agents-searched-us-government-sit-rcna600098",
+      "image_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-09/260927-sam-altman-unga-ww-1431-9a5b8b.jpg",
+      "score": 1,
+      "final_score": 1,
+      "comments": 1,
+      "posted_at": "2026-09-28T03:33:26Z",
+      "summary_ja": "Title: OpenAI pauses training of latest models\nArticle title: OpenAI pauses training of latest models after agents searched U.S. government sites in unexpected ways\nDescription: AI labs are facing pressure from lawmakers and tech experts to slow development so they can build guardrails to stop agents from acting on their own.\n\nArticle text:\nOpenAI pauses training of latest models after agents searched U.S. government sites in unexpected ways\nIE 11 is not supported. For an optimal experience visit our site on another browser. Skip to Content NBC News Logo Meet the Press\nShopping Early Prime Day Deals\nThere are no new alerts at this time\nOpenAI pauses training of latest models after agents searched U.S. government sites in unexpected ways\nListen to this article with a free profile 00:00 00:00 OpenAI CEO Sam Altman at the U.N. General Assembly in New York last week. The latest OpenAI incide…"
+    }
+  ]
+}

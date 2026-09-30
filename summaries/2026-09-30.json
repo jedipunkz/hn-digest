@@ -1,6 +1,6 @@
 {
   "date": "2026-09-30",
-  "generated_at": "2026-09-30T01:11:55Z",
+  "generated_at": "2026-09-30T08:07:03Z",
   "articles": [
     {
       "rank": 1,
@@ -60,20 +60,6 @@
     },
     {
       "rank": 5,
-      "hn_id": 49902852,
-      "title": "Show HN: InfiniHash App Store – compliance tools built end-to-end by AI agents",
-      "title_ja": "Show HN: InfiniHash App Store – compliance tools built end-to-end by AI agents",
-      "hn_url": "https://news.ycombinator.com/item?id=49902852",
-      "source_url": "https://apps.infinihash.com/",
-      "image_url": "https://apps.infinihash.com/public/og/store.png",
-      "score": 1,
-      "final_score": 2,
-      "comments": 1,
-      "posted_at": "2026-09-30T00:34:59Z",
-      "summary_ja": "Title: Show HN: InfiniHash App Store – compliance tools built end-to-end by AI agents\nArticle title: InfiniHash App Store — tools that produce proof\nDescription: Small, serious tools that produce proof: access reviews, vendor bank-change verification and recurring-controls evidence. Five minutes to start, free.\n\nArticle text:\nSkip to content\nInfiniHash App Store\nApps\nGuides\nBlog\nPricing\nStatus\nSecurity\nAccount\nSoftware, by agents, for everyone.\nSmall, serious tools that produce proof.\nEach app does one job, works end to end in under five minutes, needs no third-party account, and leaves you with a PDF an auditor or insurer accepts. Start free; pay a flat monthly price when it earns it.\nEvery app on this store was researched, built and shipped by AI agents, working from public evidence and this platform's own tests. A person at InfiniHash handles the legal pages, billing and what gets pub…"
-    },
-    {
-      "rank": 6,
       "hn_id": 49902866,
       "title": "Vibe Coding Discover – A Catalog of AI OSS for Agents, MCP, Skills, RAG",
       "title_ja": "Vibe Coding Discover – A Catalog of AI OSS for Agents, MCP, Skills, RAG",
@@ -87,34 +73,75 @@
       "summary_ja": "Title: Vibe Coding Discover – A Catalog of AI OSS for Agents, MCP, Skills, RAG\nArticle title: Vibe Coding Discover — Discover AI Open Source for Vibe Coding\nDescription: Discover top AI open source — Agents, MCP, Skills, RAG, Tools and Frameworks. Vibe Coding Discover helps you find the right project so you can code faster.\n\nArticle text:\nVibe Coding Discover — Discover AI Open Source for Vibe Coding Vibe Coding Discover Home Explore Use Cases Submit Discover AI Open Source\nfor Vibe Coding\nDiscover top AI open source — Agents, MCP, Skills, RAG, Tools and Frameworks. Vibe Coding Discover helps you find the right project so you can code faster.\nToday ( 09/30/2026 UTC): + 3 projects , + 20 use cases\nFully local, open-source ElevenLabs alternative for voice cloning, voice design, dubbing, dictation, transcription and audiobooks in 646 languages. Ships a desktop app (Electron/Tauri), model ma…"
     },
     {
-      "rank": 7,
-      "hn_id": 49902727,
-      "title": "AI does, and does not, change the way I do math",
-      "title_ja": "AI does, and does not, change the way I do math",
-      "hn_url": "https://news.ycombinator.com/item?id=49902727",
-      "source_url": "https://terrytao.wordpress.com/2026/09/29/how-ai-does-and-does-not-change-the-way-i-do-math/",
-      "image_url": "https://secure.gravatar.com/blavatar/bd4bda4207561b6998f10dec44b570f04ff4072b20f89162d525b186dfca3e49?s=200\u0026ts=1790730664",
+      "rank": 6,
+      "hn_id": 49905773,
+      "title": "Show HN: Melete – an open-source alternative to OpenAI's Dots",
+      "title_ja": "Show HN: Melete – an open-source alternative to OpenAI's Dots",
+      "hn_url": "https://news.ycombinator.com/item?id=49905773",
+      "source_url": "https://github.com/ychampion/melete",
+      "image_url": "https://opengraph.githubassets.com/18a8179f0bea4cf9ad2bac265604fadb441fd80c7e7f218fc734634dd10d3fa5/ychampion/melete",
       "score": 1,
-      "final_score": 1,
+      "final_score": 2,
       "comments": 0,
-      "posted_at": "2026-09-30T00:20:30Z",
-      "summary_ja": "Title: AI does, and does not, change the way I do math\nArticle title: How AI does, and does not, change the way I do math | What's new\nDescription: [This is a guest post by Rachel Webb. This blog post was initially written in a different file format and converted using AI. — T.] The way I do math experienced a great upheaval once before,…\n\nArticle text:\nWhat's new Updates on my research and expository papers, discussion of open problems, and other maths-related topics. By Terence Tao\nHow AI does, and does not, change the way I do math\n29 September, 2026 in guest blog , math.GM | Tags: AI , Rachel Webb | by Terence Tao\n[This is a guest post by Rachel Webb . This blog post was initially written in a different file format and converted using AI. — T.]\nThe way I do math experienced a great upheaval once before, halfway through my PhD. I was in a seminar with a group of graduate students and…"
+      "posted_at": "2026-09-30T07:51:10Z",
+      "summary_ja": "Title: Show HN: Melete – an open-source alternative to OpenAI's Dots\nArticle title: GitHub - ychampion/melete: Superintelligence Personal AI that does work you while you sleep. Open source, model agnostic alternative to Dots \u0026 Muse. Built on Hermes · GitHub\nDescription: Superintelligence Personal AI that does work you while you sleep. Open source, model agnostic alternative to Dots \u0026 Muse. Built on Hermes - ychampion/melete\n\nArticle text:\nGitHub - ychampion/melete: Superintelligence Personal AI that does work you while you sleep. Open source, model agnostic alternative to Dots \u0026 Muse. Built on Hermes · GitHub\nSkip to content\nNavigation Menu\nSign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI\nGitHub Copilot app Direct agents from issue to merge\nMCP Registry Integrate external tools\nDEVELOPER WORKFLOWS Actions Automate any workflow\nCodespaces Inst…"
+    },
+    {
+      "rank": 7,
+      "hn_id": 49902852,
+      "title": "Show HN: InfiniHash App Store – compliance tools built end-to-end by AI agents",
+      "title_ja": "Show HN: InfiniHash App Store – compliance tools built end-to-end by AI agents",
+      "hn_url": "https://news.ycombinator.com/item?id=49902852",
+      "source_url": "https://apps.infinihash.com/",
+      "image_url": "https://apps.infinihash.com/public/og/store.png",
+      "score": 1,
+      "final_score": 2,
+      "comments": 1,
+      "posted_at": "2026-09-30T00:34:59Z",
+      "summary_ja": "Title: Show HN: InfiniHash App Store – compliance tools built end-to-end by AI agents\nArticle title: InfiniHash App Store — tools that produce proof\nDescription: Small, serious tools that produce proof: access reviews, vendor bank-change verification and recurring-controls evidence. Five minutes to start, free.\n\nArticle text:\nSkip to content\nInfiniHash App Store\nApps\nGuides\nBlog\nPricing\nStatus\nSecurity\nAccount\nSoftware, by agents, for everyone.\nSmall, serious tools that produce proof.\nEach app does one job, works end to end in under five minutes, needs no third-party account, and leaves you with a PDF an auditor or insurer accepts. Start free; pay a flat monthly price when it earns it.\nEvery app on this store was researched, built and shipped by AI agents, working from public evidence and this platform's own tests. A person at InfiniHash handles the legal pages, billing and what gets pub…"
     },
     {
       "rank": 8,
-      "hn_id": 49902647,
-      "title": "Build Freely: Non-AI Shed Plan Generator",
-      "title_ja": "Build Freely: Non-AI Shed Plan Generator",
-      "hn_url": "https://news.ycombinator.com/item?id=49902647",
-      "source_url": "https://buildfreely.com/",
+      "hn_id": 49905745,
+      "title": "How to Make Money from OpenAI DevDay 2026",
+      "title_ja": "How to Make Money from OpenAI DevDay 2026",
+      "hn_url": "https://news.ycombinator.com/item?id=49905745",
+      "source_url": "https://aiextracash.com/tools/chatgpt/openai-devday-2026-money-opportunities/",
       "score": 1,
-      "final_score": 1,
+      "final_score": 2,
       "comments": 0,
-      "posted_at": "2026-09-30T00:11:39Z",
-      "summary_ja": "Title: Build Freely: Non-AI Shed Plan Generator\nArticle title: Build Freely Non-AI Shed Plan Generator\n\nArticle text:\nIt does not use AI. All code was written manually.\nCurrently, it can generate only single story, rectangular structures with either a shed, gable, or hip roof.\nIt is possible to generate designs which are unsafe and do not adhere to proper building codes. Review design with a engineer before building.\nVideo: Talk @PTWD\nFor feedback, email\n←Dan at this domain.\nBOM part plans sometimes display poorly rotated parts causing\ndifficultly in measuring lumber and often causing associated lumber\nmaterial to be \"Unknown\".\nOpenings above openings not fully supported -- framing intersects other window.\nAn opening with impossible header may prevent successful rendition.\nImproves part edges in 3D client.\nAdds hip roof support (still a work in progress).\nConcrete foundations can now be…"
+      "posted_at": "2026-09-30T07:47:53Z",
+      "summary_ja": "Title: How to Make Money from OpenAI DevDay 2026\nArticle title: OpenAI DevDay 2026: 7 Ways to Make Money From the Announcements\nDescription: OpenAI\n\nArticle text:\nAIEXTRA CASH ALPHA HOME IDEAS SKILLS TOOLS MUSE JEV 中文 HOME / ChatGPT Hub OpenAI DevDay 2026: 7 Ways to Make Money From the Announcements\nOpenAI DevDay 2026: 7 Ways to Make Money From the Announcements\nEvery AI wave mints winners, and you hear about it late. In 2024 the GPT Store handed its early movers outsized traffic while the rest of us read the recap. Yesterday, OpenAI DevDay 2026 did it again: Sam Altman took the stage at Fort Mason in San Francisco and, in a single keynote, attacked the two hardest problems in the AI business — distribution and token costs . ChatGPT is becoming an app store (plugin extensions), and your users’ own subscriptions can now pay your AI bills (Sign in with ChatGPT). Run the math: 1M input + 20…"
     },
     {
       "rank": 9,
+      "hn_id": 49905796,
+      "title": "How to Future-Proof Your Career in the Age of AI",
+      "title_ja": "How to Future-Proof Your Career in the Age of AI",
+      "hn_url": "https://news.ycombinator.com/item?id=49905796",
+      "source_url": "https://www.noemamag.com/why-a-liberal-arts-education-will-soon-be-more-valuable-than-ever/",
+      "image_url": "https://noemamag.imgix.net/2026/04/blackout_no4_julesjulien-scaled.png?fit=crop\u0026fm=png\u0026h=628\u0026ixlib=php-3.3.1\u0026w=1200\u0026wpsize=noema-social-facebook\u0026s=cd6ba90e416ec88e68cffe17b5a3e80f",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-09-30T07:54:45Z",
+      "summary_ja": "Title: How to Future-Proof Your Career in the Age of AI\nArticle title: How To Future-Proof Your Career In The Age Of AI - NOEMA\nDescription: The most prized workers will be those who can decode a sea of outputs, spot the meaningful signal and translate it into action that others understand and trust.\n\nArticle text:\nHow To Future-Proof Your Career In The Age Of AI - NOEMA\nSkip to the content\nSubscribe\nPublished\nby the\nBerggruen\nInstitute\nHow To Future-Proof Your Career In The Age Of AI\nThe most prized workers will be those who can decode a sea of outputs, spot the meaningful signal and translate it into action that others understand and trust.\nNils Gilman is a deputy editor of Noema Magazine and the chief operating officer at the Berggruen Institute.\nThe history of economic progress is a graveyard of tools. The water frame replaced the spinning jenny; the automobile replaced the horse; th…"
+    },
+    {
+      "rank": 10,
+      "hn_id": 49905644,
+      "title": "Doing a Machine Learning PhD While Working in Japan",
+      "title_ja": "Doing a Machine Learning PhD While Working in Japan",
+      "hn_url": "https://news.ycombinator.com/item?id=49905644",
+      "source_url": "https://www.tokyodev.com/articles/doing-a-machine-learning-phd-while-working-in-japan",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-09-30T07:33:45Z",
+      "summary_ja": "Title: Doing a Machine Learning PhD While Working in Japan"
+    },
+    {
+      "rank": 11,
       "hn_id": 49903119,
       "title": "Diffsmith AI Code Review Tool",
       "title_ja": "Diffsmith AI Code Review Tool",
@@ -128,7 +155,7 @@
       "summary_ja": "Title: Diffsmith AI Code Review Tool\nArticle title: ‎Diffsmith - Code Review Studio App - App Store\nDescription: Download Diffsmith - Code Review Studio by Mergeable Pty Ltd on the App Store. See screenshots, ratings and reviews, user tips, and more apps like Diffsmith -…\n\nArticle text:\n‎Diffsmith - Code Review Studio App - App Store\nSearch Discover\nDiffsmith - Code Review Studio\nMac Diffsmith is a fast, native macOS studio for reviewing local git changes \u0026 commits made by your existing AI agent. You can use Diffsmith to leave inline comments, then hand them straight back to the AI as a perfectly-formatted prompt or let your AI agent read and reply to them via MCP.\nOpen a repo, read the uncomitted diff or a past commit, drop notes on the exact lines that matter, and work with any AI assistant you already use to get a response or get the code changed. No more retyping file names and line…"
     },
     {
-      "rank": 10,
+      "rank": 12,
       "hn_id": 49902947,
       "title": "Moloch: Tristan Harris' new cautionary short film about the AI race [video]",
       "title_ja": "Moloch: Tristan Harris' new cautionary short film about the AI race [video]",
@@ -139,6 +166,59 @@
       "comments": 0,
       "posted_at": "2026-09-30T00:45:59Z",
       "summary_ja": "Title: Moloch: Tristan Harris' new cautionary short film about the AI race [video]\nArticle title: - YouTube\nDescription: Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.\n\nArticle text:\n- YouTube About Press Copyright Contact us Creators Advertise Developers Terms Privacy Policy \u0026 Safety How YouTube works Test new features NFL Sunday Ticket © 2026 Google LLC"
+    },
+    {
+      "rank": 13,
+      "hn_id": 49905669,
+      "title": "OpenAI DevDay Recap – what's new",
+      "title_ja": "OpenAI DevDay Recap – what's new",
+      "hn_url": "https://news.ycombinator.com/item?id=49905669",
+      "source_url": "https://openai.com/pl-PL/index/devday-2026-recap/",
+      "score": 1,
+      "final_score": 1,
+      "comments": 2,
+      "posted_at": "2026-09-30T07:36:21Z",
+      "summary_ja": "Title: OpenAI DevDay Recap – what's new"
+    },
+    {
+      "rank": 14,
+      "hn_id": 49902647,
+      "title": "Build Freely: Non-AI Shed Plan Generator",
+      "title_ja": "Build Freely: Non-AI Shed Plan Generator",
+      "hn_url": "https://news.ycombinator.com/item?id=49902647",
+      "source_url": "https://buildfreely.com/",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-09-30T00:11:39Z",
+      "summary_ja": "Title: Build Freely: Non-AI Shed Plan Generator\nArticle title: Build Freely Non-AI Shed Plan Generator\n\nArticle text:\nIt does not use AI. All code was written manually.\nCurrently, it can generate only single story, rectangular structures with either a shed, gable, or hip roof.\nIt is possible to generate designs which are unsafe and do not adhere to proper building codes. Review design with a engineer before building.\nVideo: Talk @PTWD\nFor feedback, email\n←Dan at this domain.\nBOM part plans sometimes display poorly rotated parts causing\ndifficultly in measuring lumber and often causing associated lumber\nmaterial to be \"Unknown\".\nOpenings above openings not fully supported -- framing intersects other window.\nAn opening with impossible header may prevent successful rendition.\nImproves part edges in 3D client.\nAdds hip roof support (still a work in progress).\nConcrete foundations can now be…"
+    },
+    {
+      "rank": 15,
+      "hn_id": 49905603,
+      "title": "Atrocious AI-Written Tests",
+      "title_ja": "Atrocious AI-Written Tests",
+      "hn_url": "https://news.ycombinator.com/item?id=49905603",
+      "source_url": "https://gruhn.me/blog/2026-09-29/",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-09-30T07:29:27Z",
+      "summary_ja": "Title: Atrocious AI-Written Tests\nArticle title: Niklas Gruhn - Atrocious AI-written tests\n\nArticle text:\nNiklas Gruhn - Atrocious AI-written tests\nNiklas Gruhn\nAtrocious AI-written tests\nI stopped reviewing tests.\nIt's too tempting when there are 10,000 other lines to review.\nBut recently I got a failing test after changing a comment in a source file.\nI had to see what on earth these tests are doing that we're running all day, every day.\nThat particular test was scanning source files with a regex for the keyword \"wall-clock\".\nMy bad for using that in a comment.\nApparently, a certain \"wall-clock error\" was retired at some point.\nI guess we want to make sure it's not re-introduced?\nit ( \"no source emits wall-clock error text\" , ( ) =\u003e {\nconst sourceFiles = [ /* ... */ ] ;\nfor ( const path of sourceFiles ) {\nconst content = readFileSync ( path ) ;\nexpect ( content ) . not . toMatch ( / wal…"
+    },
+    {
+      "rank": 16,
+      "hn_id": 49902727,
+      "title": "AI does, and does not, change the way I do math",
+      "title_ja": "AI does, and does not, change the way I do math",
+      "hn_url": "https://news.ycombinator.com/item?id=49902727",
+      "source_url": "https://terrytao.wordpress.com/2026/09/29/how-ai-does-and-does-not-change-the-way-i-do-math/",
+      "image_url": "https://secure.gravatar.com/blavatar/bd4bda4207561b6998f10dec44b570f04ff4072b20f89162d525b186dfca3e49?s=200\u0026ts=1790730664",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-09-30T00:20:30Z",
+      "summary_ja": "Title: AI does, and does not, change the way I do math\nArticle title: How AI does, and does not, change the way I do math | What's new\nDescription: [This is a guest post by Rachel Webb. This blog post was initially written in a different file format and converted using AI. — T.] The way I do math experienced a great upheaval once before,…\n\nArticle text:\nWhat's new Updates on my research and expository papers, discussion of open problems, and other maths-related topics. By Terence Tao\nHow AI does, and does not, change the way I do math\n29 September, 2026 in guest blog , math.GM | Tags: AI , Rachel Webb | by Terence Tao\n[This is a guest post by Rachel Webb . This blog post was initially written in a different file format and converted using AI. — T.]\nThe way I do math experienced a great upheaval once before, halfway through my PhD. I was in a seminar with a group of graduate students and…"
     }
   ]
 }

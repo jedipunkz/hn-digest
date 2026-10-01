@@ -1,6 +1,6 @@
 {
   "date": "2026-10-01",
-  "generated_at": "2026-10-01T00:25:02Z",
+  "generated_at": "2026-10-01T06:56:19Z",
   "articles": [
     {
       "rank": 1,
@@ -18,6 +18,62 @@
     },
     {
       "rank": 2,
+      "hn_id": 49918483,
+      "title": "Let skills in Gemini tackle your most repetitive tasks",
+      "title_ja": "Let skills in Gemini tackle your most repetitive tasks",
+      "hn_url": "https://news.ycombinator.com/item?id=49918483",
+      "source_url": "https://blog.google/products-and-platforms/products/gemini/automate-tasks-with-skills/",
+      "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Skills_thumbnail.width-1300.png",
+      "score": 2,
+      "final_score": 4,
+      "comments": 1,
+      "posted_at": "2026-10-01T06:47:50Z",
+      "summary_ja": "Title: Let skills in Gemini tackle your most repetitive tasks\nArticle title: Automate repetitive tasks with Skills\nDescription: Automate repetitive tasks with new reusable skills in Google Gemini. Get the transition details.\n\nArticle text:\nSkip to main content\nLet skills in Gemini tackle your most repetitive tasks\nModels \u0026 Research\nGoogle DeepMind\nInfrastructure \u0026 cloud\nGlobal network\nOutreach \u0026 initiatives\nCreating opportunity\nInside Google\nAround the globe\nInnovation \u0026 AI\nInnovation \u0026 AI\nProducts \u0026 platforms\nProducts \u0026 platforms\nGlobal (English)\nAfrica (English)\nAustralia (English)\nBrasil (Português)\nCanada (English)\nCanada (Français)\nČesko (Čeština)\nDeutschland (Deutsch)\nEspaña (Español)\nFrance (Français)\nGreece (Ελληνικά)\nIndia (English)\nIndonesia (Bahasa Indonesia)\nIreland (English)\nItalia (Italiano)\n日本 (日本語)\n대한민국 (한국어)\nLatinoamérica (Español)\nMalaysia (Melayu)\nالشرق الأوسط وشمال أف…"
+    },
+    {
+      "rank": 3,
+      "hn_id": 49918520,
+      "title": "Meta wants people to use 'AI agents' to do daily tasks. Why that's a problem",
+      "title_ja": "Meta wants people to use 'AI agents' to do daily tasks. Why that's a problem",
+      "hn_url": "https://news.ycombinator.com/item?id=49918520",
+      "source_url": "https://theconversation.com/meta-wants-people-to-use-ai-agents-to-do-daily-tasks-for-them-heres-why-thats-a-problem-292962",
+      "image_url": "https://images.theconversation.com/files/763022/original/file-20260930-50-ubkefz.png?ixlib=rb-4.1.1\u0026rect=0%2C120%2C1920%2C960\u0026q=45\u0026auto=format\u0026w=1356\u0026h=668\u0026fit=crop",
+      "score": 3,
+      "final_score": 3,
+      "comments": 0,
+      "posted_at": "2026-10-01T06:52:51Z",
+      "summary_ja": "Title: Meta wants people to use 'AI agents' to do daily tasks. Why that's a problem\nArticle title: Meta wants people to use ‘AI agents’ to do daily tasks for them. Here’s why that’s a problem\nDescription: Meta can’t beat its rivals on raw AI capability. With its new Muse agent, it doesn’t need to\n\nArticle text:\nMeta wants people to use ‘AI agents’ to do daily tasks for them. Here’s why that’s a problem\nSearch analysis, research, academics…\nHome\nArts + Culture\nEconomy\nEducation\nEnvironment + Energy\nEthics + Religion\nHealth\nPolitics + Society\nScience + Tech\nWorld\nPodcasts\nLocal\nMeta\nMeta wants people to use ‘AI agents’ to do daily tasks for them. Here’s why that’s a problem\nLink copied\nShare article\nShare article\nCopy link\nEmail\nBluesky\nFacebook\nWhatsApp\nMessenger\nLinkedIn\nX (Twitter)\nPrint article\nMeta wants users to turn to a cute artificial intelligence (AI) “agent” throughout the day t…"
+    },
+    {
+      "rank": 4,
+      "hn_id": 49918452,
+      "title": "Stephen Fry: AI, a means to an end, or a means to our end? (Sep 2024)",
+      "title_ja": "Stephen Fry: AI, a means to an end, or a means to our end? (Sep 2024)",
+      "hn_url": "https://news.ycombinator.com/item?id=49918452",
+      "source_url": "https://web.archive.org/web/20240915122038/https://stephenfry.substack.com/p/ai-a-means-to-an-end-or-a-means-to",
+      "image_url": "https://web.archive.org/web/20240915122038im_/https://substackcdn.com/image/fetch/f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fstephenfry.substack.com%2Ftwitter%2Fsubscribe-card.jpg%3Fv%3D-1283205841%26version%3D9",
+      "score": 3,
+      "final_score": 3,
+      "comments": 1,
+      "posted_at": "2026-10-01T06:43:42Z",
+      "summary_ja": "Title: Stephen Fry: AI, a means to an end, or a means to our end? (Sep 2024)\nArticle title: AI: A Means to an End or a Means to Our End?\nDescription: The text of a talk I gave on Thursday 12th September as the inaugural “Living Well With Technology” lecture for King’s College London’s Digital Futures Institute.\n\nArticle text:\nAI: A Means to an End or a Means to Our End?\n49 captures\n15 Sep 2024 - 10 May 2026\nAug\nSEP\nOct\n15\n2023\n2024\n2025\nsuccess\nfail\nAbout this capture\nTIMESTAMPS\nThe Wayback Machine - https://web.archive.org/web/20240915122038/https://stephenfry.substack.com/p/ai-a-means-to-an-end-or-a-means-to\nThe Fry Corner\nSubscribe Sign in Share this post AI: A Means to an End or a Means to Our End? stephenfry.substack.com Copy link Facebook Email Note Other AI: A Means to an End or a Means to Our End?\nThe text of a talk I gave on Thursday 12th September as the inaugural “Living Well…"
+    },
+    {
+      "rank": 5,
+      "hn_id": 49918330,
+      "title": "Archestra-AI/OpenAPPA: Deterministic guardrails that don't break agents",
+      "title_ja": "Archestra-AI/OpenAPPA: Deterministic guardrails that don't break agents",
+      "hn_url": "https://news.ycombinator.com/item?id=49918330",
+      "source_url": "https://github.com/archestra-ai/OpenAPPA",
+      "image_url": "https://opengraph.githubassets.com/248ac7e7498eddc3009a64bacd5d58f6b4aa850d139eb689a2027c10a77fcb3a/archestra-ai/OpenAPPA",
+      "score": 1,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-10-01T06:23:27Z",
+      "summary_ja": "Title: Archestra-AI/OpenAPPA: Deterministic guardrails that don't break agents\nArticle title: GitHub - archestra-ai/OpenAPPA: Deterministic guardrails that don't break agents · GitHub\nDescription: Deterministic guardrails that don't break agents. Contribute to archestra-ai/OpenAPPA development by creating an account on GitHub.\n\nArticle text:\nGitHub - archestra-ai/OpenAPPA: Deterministic guardrails that don't break agents · GitHub\nSkip to content\nNavigation Menu\nSign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI\nGitHub Copilot app Direct agents from issue to merge\nMCP Registry Integrate external tools\nDEVELOPER WORKFLOWS Actions Automate any workflow\nCodespaces Instant dev environments\nCode Review Manage code changes\nCode Quality Enforce quality at merge\nAPPLICATION SECURITY GitHub Advanced Security Find and fix vulnerabilities\nCode security Sec…"
+    },
+    {
+      "rank": 6,
       "hn_id": 49916068,
       "title": "Google announces Gemini 4, restricts access to 'trusted cyber defenders'",
       "title_ja": "Google announces Gemini 4, restricts access to 'trusted cyber defenders'",
@@ -31,7 +87,7 @@
       "summary_ja": "Title: Google announces Gemini 4, restricts access to 'trusted cyber defenders'\nArticle title: Google announces Gemini 4 and says it’s so capable that only ‘trusted cyber defenders’ can have it right now | The Verge\nDescription: Google’s new AI frontier model is Gemini 4 Argon, but it’s launching first to select “cyber defenders” to ensure it has appropriate safeguards.\n\nArticle text:\nGoogle announces Gemini 4 and says it’s so capable that only ‘trusted cyber defenders’ can have it right now | The Verge Skip to main content The homepage The Verge The Verge logo. The Verge The Verge logo. Tech\nNotifications Notifications Hamburger Navigation Button Navigation Drawer The Verge The Verge logo. Login / Sign Up\nSearch Light System Dark Tech Expand Amazon\nReviews Expand Smart Home Reviews\nVerge Shopping Expand Buying Guides\nTransportation Expand Electric Cars\nGoogle announces Gemini 4 and says…"
     },
     {
-      "rank": 3,
+      "rank": 7,
       "hn_id": 49915934,
       "title": "Millions of dollars paid to AI providers, where was that money going before?",
       "title_ja": "Millions of dollars paid to AI providers, where was that money going before?",
@@ -42,6 +98,60 @@
       "comments": 1,
       "posted_at": "2026-09-30T23:44:30Z",
       "summary_ja": "Title: Millions of dollars paid to AI providers, where was that money going before?\nArticle title: - YouTube\nDescription: Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.\n\nArticle text:\n- YouTube About Press Copyright Contact us Creators Advertise Developers Terms Privacy Policy \u0026 Safety How YouTube works Test new features NFL Sunday Ticket © 2026 Google LLC"
+    },
+    {
+      "rank": 8,
+      "hn_id": 49918353,
+      "title": "Should AI Be Open? (2015)",
+      "title_ja": "Should AI Be Open? (2015)",
+      "hn_url": "https://news.ycombinator.com/item?id=49918353",
+      "source_url": "https://slatestarcodex.com/2015/12/17/should-ai-be-open/",
+      "image_url": "https://slatestarcodex.com/wp-content/themes/two_column_pujugama/images/codex_spotlight.png",
+      "score": 2,
+      "final_score": 2,
+      "comments": 1,
+      "posted_at": "2026-10-01T06:27:59Z",
+      "summary_ja": "Title: Should AI Be Open? (2015)\nArticle title: Should AI Be Open? | Slate Star Codex\nDescription: I. H.G. Wells’ 1914 sci-fi book The World Set Free did a pretty good job predicting nuclear weapons:They did not see it until the atomic bombs burst in their fumbling hands…before the l…\n\nArticle text:\nH.G. Wells’ 1914 sci-fi book The World Set Free did a pretty good job predicting nuclear weapons:\nThey did not see it until the atomic bombs burst in their fumbling hands…before the last war began it was a matter of common knowledge that a man could carry about in a handbag an amount of latent energy sufficient to wreck half a city\nWells believed the coming atomic bombs would be so deadly that we would inevitably create a utopian one-world government to prevent them from ever being used. Sorry, Wells. It was a nice thought.\nBut imagine that in the 1910s and 1920s, some elites had started thin…"
+    },
+    {
+      "rank": 9,
+      "hn_id": 49918537,
+      "title": "AI CEO Interviews (2026)",
+      "title_ja": "AI CEO Interviews (2026)",
+      "hn_url": "https://news.ycombinator.com/item?id=49918537",
+      "source_url": "https://www.youtube.com/watch?v=DlTNN0gvkLM",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-10-01T06:54:43Z",
+      "summary_ja": "Title: AI CEO Interviews (2026)\nArticle title: - YouTube\nDescription: Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.\n\nArticle text:\n- YouTube About Press Copyright Contact us Creators Advertise Developers Terms Privacy Policy \u0026 Safety How YouTube works Test new features NFL Sunday Ticket © 2026 Google LLC"
+    },
+    {
+      "rank": 10,
+      "hn_id": 49918447,
+      "title": "OpenAI's Brockman Backs Out of Pledged $25M Donation to AI Super Pac",
+      "title_ja": "OpenAI's Brockman Backs Out of Pledged $25M Donation to AI Super Pac",
+      "hn_url": "https://news.ycombinator.com/item?id=49918447",
+      "source_url": "https://www.wsj.com/tech/ai/openai-president-backs-out-of-pledged-25-million-donation-to-ai-super-pac-efb31fb4",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-10-01T06:42:37Z",
+      "summary_ja": "Title: OpenAI's Brockman Backs Out of Pledged $25M Donation to AI Super Pac"
+    },
+    {
+      "rank": 11,
+      "hn_id": 49918395,
+      "title": "The AI Pascal's Wager",
+      "title_ja": "The AI Pascal's Wager",
+      "hn_url": "https://news.ycombinator.com/item?id=49918395",
+      "source_url": "https://ploum.net/2026-10-01-pascal_wager.html",
+      "image_url": "https://ploum.net/files/pascaline.jpg",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-10-01T06:34:37Z",
+      "summary_ja": "Title: The AI Pascal's Wager\nArticle title: The AI Pascal’s Wager\nDescription: The AI Pascal’s Wager par Ploum - Lionel Dricot.\n\nArticle text:\nBlog\nLivres\nSoftware\nÀ Propos\nThe AI Pascal’s Wager\nShould you accept contributions generated by LLMs in your Open Source project?\nLet’s put aside for a moment all the ethical/ecological/societal considerations about the use of generated code (also known as \"slop\" if you don’t like it and \"vibecode\" if you do) in open source projects and consider it from a simple, practical, pragmatic point of view.\nThere are basically three potential positions:\n1. Mostly accepting LLMs as neutral tools that contributors could use (with safeguards or not, with policy of human reviewing or not).\n2. Finding a compromise or choosing not to do anything, issuing some \"not yes, not no\" guidelines. This is now known as the \"Debian AI policy\".\n3. Strongly rejecting LLMs (…"
     }
   ]
 }

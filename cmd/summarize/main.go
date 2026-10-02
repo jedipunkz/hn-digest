@@ -17,16 +17,20 @@ import (
 
 	"github.com/jedipunkz/hn-digest/internal/frontmatter"
 	"github.com/jedipunkz/hn-digest/internal/gtranslate"
+	"github.com/jedipunkz/hn-digest/internal/llm"
 	"github.com/jedipunkz/hn-digest/internal/ogimage"
 )
 
 const (
 	topN                = 30
 	maxTranslationChars = 4000
-	// summaryChars caps the extractive summary. GitHub Models was retired
-	// (410 github_models_retirement_brownout), so there is no free LLM to
-	// abstract the article with; the lead of the Japanese translation stands in.
+	// summaryChars caps the extractive summary, which stands in whenever the
+	// LLM summary is unavailable (no GEMINI_API_KEY, rate limit, outage).
 	summaryChars = 900
+	// llmFailureLimit stops calling the LLM for the rest of the run after this
+	// many consecutive failures. A bad key or a retired model fails on every
+	// article, and 30 doomed calls only slow the workflow down.
+	llmFailureLimit = 3
 )
 
 // Interest categories: each matched category contributes its bonus once.
@@ -83,6 +87,9 @@ type parsedArticle struct {
 	comments     int
 	postedAt     string
 	translation  string
+	// summary is a previously generated LLM summary cached in the front
+	// matter, so each article costs at most one API call ever.
+	summary string
 }
 
 // summaryArticle is the JSON-serialisable output per article.
@@ -119,6 +126,8 @@ func run(ctx context.Context, args []string) error {
 	outDir := fs.String("out", "summaries", "output directory for summary JSON files")
 	contentsDir := fs.String("contents", "contents", "base contents directory")
 	n := fs.Int("n", topN, "number of top articles to include")
+	llmMax := fs.Int("llm-max", topN, "max LLM summary calls per run (0 disables the LLM)")
+	llmInterval := fs.Duration("llm-interval", 4*time.Second, "pause between LLM calls, to stay inside the free-tier requests-per-minute limit")
 	if err := fs.Parse(args); err != nil {
 		return err
 	}
@@ -149,6 +158,12 @@ func run(ctx context.Context, args []string) error {
 	imageClient := &http.Client{Timeout: 20 * time.Second}
 	results := make([]summaryArticle, 0, len(articles))
 
+	summarizer := llm.FromEnv()
+	if summarizer == nil {
+		log.Println("GEMINI_API_KEY is not set; falling back to extractive summaries.")
+	}
+	llmCalls, llmFailures := 0, 0
+
 	for i, art := range articles {
 		rank := i + 1
 		log.Printf("[%d/%d] final=%d hn=%d title=%s", rank, len(articles), art.finalScore, art.score, truncate(art.title, 60))
@@ -163,7 +178,37 @@ func run(ctx context.Context, args []string) error {
 		if !art.imageChecked && art.sourceURL != "" {
 			art.imageURL = backfillImage(ctx, imageClient, art)
 		}
-		summary := leadSummary(art.translation, summaryChars)
+		summary := art.summary
+		if summary == "" && summarizer != nil && llmCalls < *llmMax && llmFailures < llmFailureLimit {
+			// Pace the calls: the free tier is limited per minute, and a 429
+			// burns a retry that a short wait avoids outright.
+			if llmCalls > 0 && *llmInterval > 0 {
+				select {
+				case <-ctx.Done():
+					return ctx.Err()
+				case <-time.After(*llmInterval):
+				}
+			}
+			llmCalls++
+			generated, err := summarizer.Summarize(ctx, art.title, translationBody(art.translation))
+			if err != nil {
+				// Never fatal: the extractive summary below still ships.
+				llmFailures++
+				log.Printf("warning: llm summary hn=%d: %v", art.hnID, err)
+				if llmFailures >= llmFailureLimit {
+					log.Printf("warning: %d consecutive LLM failures; extractive summaries for the rest of this run.", llmFailures)
+				}
+			} else {
+				llmFailures = 0
+				summary = generated
+				if err := persistSummary(art.path, summary); err != nil {
+					log.Printf("warning: cache summary for %s: %v", art.path, err)
+				}
+			}
+		}
+		if summary == "" {
+			summary = leadSummary(art.translation, summaryChars)
+		}
 		results = append(results, summaryArticle{
 			Rank:       rank,
 			HnID:       art.hnID,
@@ -237,6 +282,7 @@ func loadArticles(dir string) ([]parsedArticle, error) {
 			comments:     frontmatter.Int(text, "comments"),
 			postedAt:     frontmatter.String(text, "posted_at"),
 			translation:  translation,
+			summary:      frontmatter.String(text, "summary_ja"),
 		})
 	}
 	return articles, nil
@@ -264,26 +310,51 @@ func backfillImage(ctx context.Context, client *http.Client, art parsedArticle) 
 }
 
 func persistImage(path, imageURL string) error {
+	return persistKey(path, "image", imageURL, withImage)
+}
+
+// persistSummary caches the LLM summary in the article's front matter so the
+// hourly run re-uses it instead of paying for the same article again. This is
+// what keeps the daily call count near the number of new stories rather than
+// 30 x 24, which is what would actually blow through the free-tier quota.
+func persistSummary(path, summary string) error {
+	return persistKey(path, "summary_ja", summary, withSummary)
+}
+
+func persistKey(path, key, value string, rewrite func(string, string) (string, bool)) error {
 	data, err := os.ReadFile(path)
 	if err != nil {
 		return err
 	}
-	updated, ok := withImage(string(data), imageURL)
+	updated, ok := rewrite(string(data), value)
 	if !ok {
 		return fmt.Errorf("no front matter in %s", path)
 	}
 	return os.WriteFile(path, []byte(updated), 0o644)
 }
 
-var (
-	imageLineRe        = regexp.MustCompile(`(?m)^image:.*$`)
-	articleTitleLineRe = regexp.MustCompile(`(?m)^article_title:.*$`)
-)
-
 // withImage sets the front matter image key, matching how cmd/hn-digest writes
 // it (%q-quoted). Edits stay inside the front matter block: the article body can
 // contain a line starting with "image:" too.
 func withImage(text, imageURL string) (string, bool) {
+	// Keep the crawler's field order for files written before `image` existed.
+	return withFrontMatterKey(text, "image", imageURL, "article_title")
+}
+
+// withSummary caches the generated summary next to the other derived keys.
+func withSummary(text, summary string) (string, bool) {
+	return withFrontMatterKey(text, "summary_ja", summary, "image", "article_title")
+}
+
+func keyLineRe(key string) *regexp.Regexp {
+	return regexp.MustCompile(`(?m)^` + regexp.QuoteMeta(key) + `:.*$`)
+}
+
+// withFrontMatterKey sets key to a %q-quoted value inside the front matter
+// block only, so a body line that happens to start with the same key is left
+// alone. When the key is absent it is inserted after the first anchor present,
+// or appended when none is.
+func withFrontMatterKey(text, key, value string, anchors ...string) (string, bool) {
 	const closing = "\n---\n"
 	if !strings.HasPrefix(text, "---\n") {
 		return text, false
@@ -293,18 +364,16 @@ func withImage(text, imageURL string) (string, bool) {
 		return text, false
 	}
 	head, rest := text[:end], text[end:]
-	line := fmt.Sprintf("image: %q", imageURL)
-	switch {
-	case imageLineRe.MatchString(head):
-		head = imageLineRe.ReplaceAllLiteralString(head, line)
-	case articleTitleLineRe.MatchString(head):
-		// Keep the crawler's field order for files written before `image` existed.
-		loc := articleTitleLineRe.FindStringIndex(head)
-		head = head[:loc[1]] + "\n" + line + head[loc[1]:]
-	default:
-		head += "\n" + line
+	line := fmt.Sprintf("%s: %q", key, value)
+	if re := keyLineRe(key); re.MatchString(head) {
+		return re.ReplaceAllLiteralString(head, line) + rest, true
 	}
-	return head + rest, true
+	for _, anchor := range anchors {
+		if loc := keyLineRe(anchor).FindStringIndex(head); loc != nil {
+			return head[:loc[1]] + "\n" + line + head[loc[1]:] + rest, true
+		}
+	}
+	return head + "\n" + line + rest, true
 }
 
 var translationRe = regexp.MustCompile(`(?s)## Translation\n\n(.*?)(?:\n## |\z)`)

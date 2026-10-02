@@ -39,6 +39,10 @@ jobs:
       - name: Generate summaries
         env:
           DATE: ${{ inputs.date }}
+          # Optional. Without it the summaries fall back to the extractive lead;
+          # the step never fails on a missing key, a rate limit or an outage.
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GEMINI_MODEL: ${{ vars.GEMINI_MODEL }}
         run: |
           set -euo pipefail
           if [[ -n "$DATE" ]]; then
@@ -50,9 +54,10 @@ jobs:
       - name: Commit and push summaries
         run: |
           set -euo pipefail
-          # contents/ is included because summarize backfills the image front
-          # matter of older articles; without committing that, every run would
-          # re-fetch the same pages.
+          # contents/ is included because summarize writes back into the front
+          # matter: the backfilled image, and the generated summary. Without
+          # committing that, every run would re-fetch the same pages and
+          # re-summarise the same articles.
           if [[ -z "$(git status --porcelain -- summaries contents)" ]]; then
             echo "No summary changes to commit."
             exit 0

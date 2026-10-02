@@ -1,9 +1,65 @@
 {
   "date": "2026-10-02",
-  "generated_at": "2026-10-02T00:34:41Z",
+  "generated_at": "2026-10-02T06:46:18Z",
   "articles": [
     {
       "rank": 1,
+      "hn_id": 49930345,
+      "title": "OpenAI cuts ties with 3 safety researchers",
+      "title_ja": "OpenAI cuts ties with 3 safety researchers",
+      "hn_url": "https://news.ycombinator.com/item?id=49930345",
+      "source_url": "https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports/",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/05/openai-logo-code-background.jpg?resize=1200,798",
+      "score": 3,
+      "final_score": 7,
+      "comments": 0,
+      "posted_at": "2026-10-02T06:15:46Z",
+      "summary_ja": "Title: OpenAI cuts ties with 3 safety researchers\nArticle title: OpenAI cuts ties with 3 safety researchers, WSJ reports | TechCrunch\nDescription: OpenAI has parted ways with three safety researchers after an internal investigation found they mishandled sensitive company information, report says.\n\nArticle text:\n–:–:–:–\nLast day to demo your breakthrough to 10,000+ tech leaders is on Oct 2 . Book Exhibit Table Now.\nDisrupt ticket savings of up to $200 + 50% off a second ends Sept 25, 11:59 p.m. PT. REGISTER HERE.\nTechCrunch Desktop Logo\nTechCrunch Mobile Logo\nLatest\nOpenAI cuts ties with 3 safety researchers, WSJ reports\nOpenAI has parted ways with three researchers on its safety team who allegedly shared confidential company information with a third-party AI safety organization, The Wall Street Journal reported on Thursday.\n“We have parted ways with three individuals for violating our po…"
+    },
+    {
+      "rank": 2,
+      "hn_id": 49930364,
+      "title": "AI training of copyrighted material not fair use: Third Circuit",
+      "title_ja": "AI training of copyrighted material not fair use: Third Circuit",
+      "hn_url": "https://news.ycombinator.com/item?id=49930364",
+      "source_url": "https://www.courthousenews.com/ai-training-of-copyrighted-material-not-fair-use-third-circuit/",
+      "image_url": "https://imagedelivery.net/wKQ19LTSBT0ARz08tkssqQ/www.courthousenews.com/2025/10/artificial-intelligence-chip-circuit-illustration.jpg/w=1300,h=731,fit=crop",
+      "score": 3,
+      "final_score": 6,
+      "comments": 0,
+      "posted_at": "2026-10-02T06:18:31Z",
+      "summary_ja": "Title: AI training of copyrighted material not fair use: Third Circuit\nArticle title: AI training of copyrighted material not fair use: Third Circuit | Courthouse News Service\nDescription: Using someone else\n\nArticle text:\nAI training of copyrighted material not fair use: Third Circuit | Courthouse News Service\nLog in to CasePortal\nWednesday, April 23, 2025\nFree Litigation Reports\nFind Judicial Opinions Home\nAI training of copyrighted material not fair use: Third Circuit\nUsing someone else's \"creative spark\" to start a competing business runs afoul of copyright law, the panel found.\nA conception of artificial intelligence. (Igor Omilaev/Unsplash via Courthouse News) PHILADELPHIA (CN) — The Third Circuit rejected an artificial intelligence company’s fair use defense after it trained its AI on a competitor’s product, finding the training constituted copyright infringement — and potentially…"
+    },
+    {
+      "rank": 3,
+      "hn_id": 49930244,
+      "title": "AI upscaling is coming to PS5",
+      "title_ja": "AI upscaling is coming to PS5",
+      "hn_url": "https://news.ycombinator.com/item?id=49930244",
+      "source_url": "https://blog.playstation.com/2026/10/01/ai-upscaling-is-coming-to-ps5/",
+      "image_url": "https://blog.playstation.com/tachyon/2026/10/5f2b04388e41b48507f4c8d57ce8f53bd059f03a.jpg",
+      "score": 3,
+      "final_score": 6,
+      "comments": 0,
+      "posted_at": "2026-10-02T05:59:48Z",
+      "summary_ja": "Title: AI upscaling is coming to PS5\nArticle title: AI upscaling is coming to PS5 – PlayStation.Blog\nDescription: Marvel's Wolverine and Ghost of Yōtei will be the first titles to use the new Quick Spectral Super Resolution (QSSR) library.\n\nArticle text:\nAI upscaling is coming to PS5 – PlayStation.Blog\nSkip to content\nplaystation.com\nPlayStation .Blog\nMenu\nPS5\nLogin\nSearch\nSearch PlayStation Blog\nSearch PlayStation Blog\nCategories\nPlayStation 5\nLogin to Comment\nSelect a region\nCurrent region:\nEnglish\nFrench\n39\n0\n344\nLike this\nMarvel's Wolverine and Ghost of Yōtei will be the first titles to use the new Quick Spectral Super Resolution (QSSR) library.\nSince the launch of PlayStation Spectral Super Resolution (PSSR) on PS5 Pro , players and developers have asked whether similar image-quality improvements could be brought to the PS5 console. PSSR analyzes game images pixel by pixel and uses…"
+    },
+    {
+      "rank": 4,
+      "hn_id": 49930177,
+      "title": "Stages of grief about the effect of AI on open source",
+      "title_ja": "Stages of grief about the effect of AI on open source",
+      "hn_url": "https://news.ycombinator.com/item?id=49930177",
+      "source_url": "https://twitter.com/awesomekling/status/2105814628785934386",
+      "image_url": "https://pbs.twimg.com/profile_images/2000586443077373955/2BQTH8rC_400x400.jpg",
+      "score": 3,
+      "final_score": 6,
+      "comments": 2,
+      "posted_at": "2026-10-02T05:46:02Z",
+      "summary_ja": "Title: Stages of grief about the effect of AI on open source\nArticle title: Andreas Kling on X: \"Stages of grief about the effect of AI on open source.\nDenial:\n- AI code is slop! Nobody serious will use this.\n- Open source will keep working exactly like it always has.\nAnger:\n- These AI slop PRs are ruining GitHub!\n- Ban AI-generated code!\n- If you close PRs, you're not o… /\n[truncated]\nDescription: Stages of grief about the effect of AI on open source.\nDenial:\n- AI code is slop! Nobody serious will use this.\n- Open source will keep working exactly like it always has.\nAnger:\n- These AI slop PRs are ruining GitHub!\n- Ban AI-generated code!\n- If you close PRs, you're not open source anymore!\n…\n\nArticle text:\nAndreas Kling on X: \"Stages of grief about the effect of AI on open source.\nDenial:\n- AI code is slop! Nobody serious will use this.\n- Open source will keep working exactly like it alwa…"
+    },
+    {
+      "rank": 5,
       "hn_id": 49928432,
       "title": "Show HN: Zero Slop – Open-source skill that finds and fixes AI slop in writing",
       "title_ja": "Show HN: Zero Slop – Open-source skill that finds and fixes AI slop in writing",
@@ -17,7 +73,21 @@
       "summary_ja": "Title: Show HN: Zero Slop – Open-source skill that finds and fixes AI slop in writing\nArticle title: GitHub - manavmishra/ZeroSlop: Open-source Agent Skill that finds and removes AI slop from your writing · GitHub\nDescription: Open-source Agent Skill that finds and removes AI slop from your writing - manavmishra/ZeroSlop\n\nArticle text:\nGitHub - manavmishra/ZeroSlop: Open-source Agent Skill that finds and removes AI slop from your writing · GitHub\nSkip to content\nNavigation Menu\nSign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI\nGitHub Copilot app Direct agents from issue to merge\nMCP Registry Integrate external tools\nDEVELOPER WORKFLOWS Actions Automate any workflow\nCodespaces Instant dev environments\nCode Review Manage code changes\nCode Quality Enforce quality at merge\nAPPLICATION SECURITY GitHub Advanced Security Find and fix vulnerabilities…"
     },
     {
-      "rank": 2,
+      "rank": 6,
+      "hn_id": 49930291,
+      "title": "ImageGen: Local AI image generation for Mac with Qwen-Image 2.1",
+      "title_ja": "ImageGen: Local AI image generation for Mac with Qwen-Image 2.1",
+      "hn_url": "https://news.ycombinator.com/item?id=49930291",
+      "source_url": "https://github.com/ph1lb4/imagegen-mac",
+      "image_url": "https://opengraph.githubassets.com/5e05cbd19efef653516d00998537132d98da5924e1b146e540d2703a266dc0ec/ph1lb4/imagegen-mac",
+      "score": 1,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-10-02T06:06:15Z",
+      "summary_ja": "Title: ImageGen: Local AI image generation for Mac with Qwen-Image 2.1\nArticle title: GitHub - ph1lb4/imagegen-mac: Local AI image generation for Mac. Run Qwen-Image 2.1 on Apple Silicon, offline and private, with a built-in MCP server for Claude Code and AI agents. · GitHub\nDescription: Local AI image generation for Mac. Run Qwen-Image 2.1 on Apple Silicon, offline and private, with a built-in MCP server for Claude Code and AI agents. - ph1lb4/imagegen-mac\n\nArticle text:\nGitHub - ph1lb4/imagegen-mac: Local AI image generation for Mac. Run Qwen-Image 2.1 on Apple Silicon, offline and private, with a built-in MCP server for Claude Code and AI agents. · GitHub\nSkip to content\nNavigation Menu\nSign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI\nGitHub Copilot app Direct agents from issue to merge\nMCP Registry Integrate external tools\nDEVELOPER WORKF…"
+    },
+    {
+      "rank": 7,
       "hn_id": 49928435,
       "title": "Show HN: Soothsay - Your AI types curl | sh. soothsay checks the script first",
       "title_ja": "Show HN: Soothsay - Your AI types curl | sh. soothsay checks the script first",
@@ -31,7 +101,7 @@
       "summary_ja": "Title: Show HN: Soothsay - Your AI types curl | sh. soothsay checks the script first\nArticle title: GitHub - rijuld/soothsay: Read the omens before you `curl | sh`: explains what an install script will do before it runs, and stops AI coding agents running unreviewed installers (Claude Code hook). · GitHub\nDescription: Read the omens before you `curl | sh`: explains what an install script will do before it runs, and stops AI coding agents running unreviewed installers (Claude Code hook). - rijuld/soothsay\n\nArticle text:\nGitHub - rijuld/soothsay: Read the omens before you `curl | sh`: explains what an install script will do before it runs, and stops AI coding agents running unreviewed installers (Claude Code hook). · GitHub\nSkip to content\nNavigation Menu\nSign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI\nGitHub Copilot app Direct agents from iss…"
     },
     {
-      "rank": 3,
+      "rank": 8,
       "hn_id": 49928565,
       "title": "Superhuman AI for Stratego",
       "title_ja": "Superhuman AI for Stratego",
@@ -45,7 +115,34 @@
       "summary_ja": "Title: Superhuman AI for Stratego\nArticle title: [2511.07312] Superhuman AI for Stratego Using Self-Play Reinforcement Learning and Test-Time Search\nDescription: Abstract page for arXiv paper 2511.07312: Superhuman AI for Stratego Using Self-Play Reinforcement Learning and Test-Time Search\n\nArticle text:\nSkip to main content\nSearch\nSubmit\nDonate\nLog in\nSearch arXiv\nPress Enter to search · Advanced search\n--\u003e\nComputer Science \u003e Machine Learning\n[Submitted on 10 Nov 2025]\nTitle: Superhuman AI for Stratego Using Self-Play Reinforcement Learning and Test-Time Search\nAbstract: Few classical games have been regarded as such significant benchmarks of artificial intelligence as to have justified training costs in the millions of dollars. Among these, Stratego -- a board wargame exemplifying the challenge of strategic decision making under massive amounts of hidden information -- stands apart as…"
     },
     {
-      "rank": 4,
+      "rank": 9,
+      "hn_id": 49930430,
+      "title": "AI godfather Yann LeCun: Anthropic CEO deluded, doesn't understand cybersecurity",
+      "title_ja": "AI godfather Yann LeCun: Anthropic CEO deluded, doesn't understand cybersecurity",
+      "hn_url": "https://news.ycombinator.com/item?id=49930430",
+      "source_url": "https://fortune.com/2026/10/01/yann-lecun-anthropic-ceo-dario-amodei-deluded-crazy-cybersecurity/",
+      "image_url": "https://fortune.com/img-assets/wp-content/uploads/2026/10/GettyImages-2281711510.jpg?resize=1200,600",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-10-02T06:31:39Z",
+      "summary_ja": "Title: AI godfather Yann LeCun: Anthropic CEO deluded, doesn't understand cybersecurity\nArticle title: Yann LeCun: Anthropic CEO Dario Amodei is ‘deluded,’ ‘crazy,’ and doesn’t understand cybersecurity | Fortune\nDescription: Everything you need to know before you reach the office this morning.\n\nArticle text:\nYann LeCun: Anthropic CEO Dario Amodei is ‘deluded,’ ‘crazy,’ and doesn’t understand cybersecurity | Fortune Search Subscribe Home\nAI ‘godfather’ Yann LeCun: Anthropic CEO Dario Amodei is ‘deluded,’ ‘crazy,’ and doesn’t understand cybersecurity\nBy Jim Edwards Jim Edwards Executive Editor, Global News Down Arrow Button Icon October 1, 2026, 6:06 AM ET Yann LeCun at VivaTech in Paris on June 17, 2026. Photographer: Benjamin Girette/Bloomberg Google source logo Add Fortune on Google for similar content. Add us on Google Add us on Google Good morning. On Fortune’s radar today:\nAI ‘godfat…"
+    },
+    {
+      "rank": 10,
+      "hn_id": 49930421,
+      "title": "Is Claude Conscious?",
+      "title_ja": "Is Claude Conscious?",
+      "hn_url": "https://news.ycombinator.com/item?id=49930421",
+      "source_url": "https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html",
+      "score": 1,
+      "final_score": 1,
+      "comments": 1,
+      "posted_at": "2026-10-02T06:29:35Z",
+      "summary_ja": "Title: Is Claude Conscious?"
+    },
+    {
+      "rank": 11,
       "hn_id": 49928376,
       "title": "What do you want from AI",
       "title_ja": "What do you want from AI",
@@ -59,7 +156,7 @@
       "summary_ja": "Title: What do you want from AI\nArticle title: What do you want from AI? \\ Anthropic\nDescription: Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.\n\nArticle text:\nWhat do you want from AI? \\ Anthropic Skip to main content Skip to footer Research\nSocietal Impacts What do you want from AI?\nWe’re launching a new study using Anthropic Interviewer to learn from your experiences with AI, and we’d like you to participate. After you finish, you can decide to make your interview public, so that anyone, not just Anthropic, can read and learn from it. You can participate here .\nWe are at a pivotal moment in the development of AI, as its growing capabilities mean it becomes potentially more useful and more dangerous. Frontier AI is rapidly accelerating discoveries in science and medicine , while at the same time the cost of its…"
     },
     {
-      "rank": 5,
+      "rank": 12,
       "hn_id": 49928524,
       "title": "Where Are the Prepared Minds? The Impact of AI on Scientific Thinking",
       "title_ja": "Where Are the Prepared Minds? The Impact of AI on Scientific Thinking",

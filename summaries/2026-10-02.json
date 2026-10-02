@@ -1,0 +1,75 @@
+{
+  "date": "2026-10-02",
+  "generated_at": "2026-10-02T00:34:41Z",
+  "articles": [
+    {
+      "rank": 1,
+      "hn_id": 49928432,
+      "title": "Show HN: Zero Slop – Open-source skill that finds and fixes AI slop in writing",
+      "title_ja": "Show HN: Zero Slop – Open-source skill that finds and fixes AI slop in writing",
+      "hn_url": "https://news.ycombinator.com/item?id=49928432",
+      "source_url": "https://github.com/manavmishra/ZeroSlop",
+      "image_url": "https://repository-images.githubusercontent.com/1322140852/5f048a4c-df6f-40ce-a4a1-a08aba87c137",
+      "score": 2,
+      "final_score": 4,
+      "comments": 0,
+      "posted_at": "2026-10-02T00:04:16Z",
+      "summary_ja": "Title: Show HN: Zero Slop – Open-source skill that finds and fixes AI slop in writing\nArticle title: GitHub - manavmishra/ZeroSlop: Open-source Agent Skill that finds and removes AI slop from your writing · GitHub\nDescription: Open-source Agent Skill that finds and removes AI slop from your writing - manavmishra/ZeroSlop\n\nArticle text:\nGitHub - manavmishra/ZeroSlop: Open-source Agent Skill that finds and removes AI slop from your writing · GitHub\nSkip to content\nNavigation Menu\nSign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI\nGitHub Copilot app Direct agents from issue to merge\nMCP Registry Integrate external tools\nDEVELOPER WORKFLOWS Actions Automate any workflow\nCodespaces Instant dev environments\nCode Review Manage code changes\nCode Quality Enforce quality at merge\nAPPLICATION SECURITY GitHub Advanced Security Find and fix vulnerabilities…"
+    },
+    {
+      "rank": 2,
+      "hn_id": 49928435,
+      "title": "Show HN: Soothsay - Your AI types curl | sh. soothsay checks the script first",
+      "title_ja": "Show HN: Soothsay - Your AI types curl | sh. soothsay checks the script first",
+      "hn_url": "https://news.ycombinator.com/item?id=49928435",
+      "source_url": "https://github.com/rijuld/soothsay",
+      "image_url": "https://repository-images.githubusercontent.com/1393933011/34469c0c-dd0b-45d6-ad52-90a83654d7dc",
+      "score": 1,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-10-02T00:04:39Z",
+      "summary_ja": "Title: Show HN: Soothsay - Your AI types curl | sh. soothsay checks the script first\nArticle title: GitHub - rijuld/soothsay: Read the omens before you `curl | sh`: explains what an install script will do before it runs, and stops AI coding agents running unreviewed installers (Claude Code hook). · GitHub\nDescription: Read the omens before you `curl | sh`: explains what an install script will do before it runs, and stops AI coding agents running unreviewed installers (Claude Code hook). - rijuld/soothsay\n\nArticle text:\nGitHub - rijuld/soothsay: Read the omens before you `curl | sh`: explains what an install script will do before it runs, and stops AI coding agents running unreviewed installers (Claude Code hook). · GitHub\nSkip to content\nNavigation Menu\nSign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI\nGitHub Copilot app Direct agents from iss…"
+    },
+    {
+      "rank": 3,
+      "hn_id": 49928565,
+      "title": "Superhuman AI for Stratego",
+      "title_ja": "Superhuman AI for Stratego",
+      "hn_url": "https://news.ycombinator.com/item?id=49928565",
+      "source_url": "https://arxiv.org/abs/2511.07312",
+      "image_url": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+      "score": 2,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-10-02T00:27:51Z",
+      "summary_ja": "Title: Superhuman AI for Stratego\nArticle title: [2511.07312] Superhuman AI for Stratego Using Self-Play Reinforcement Learning and Test-Time Search\nDescription: Abstract page for arXiv paper 2511.07312: Superhuman AI for Stratego Using Self-Play Reinforcement Learning and Test-Time Search\n\nArticle text:\nSkip to main content\nSearch\nSubmit\nDonate\nLog in\nSearch arXiv\nPress Enter to search · Advanced search\n--\u003e\nComputer Science \u003e Machine Learning\n[Submitted on 10 Nov 2025]\nTitle: Superhuman AI for Stratego Using Self-Play Reinforcement Learning and Test-Time Search\nAbstract: Few classical games have been regarded as such significant benchmarks of artificial intelligence as to have justified training costs in the millions of dollars. Among these, Stratego -- a board wargame exemplifying the challenge of strategic decision making under massive amounts of hidden information -- stands apart as…"
+    },
+    {
+      "rank": 4,
+      "hn_id": 49928376,
+      "title": "What do you want from AI",
+      "title_ja": "What do you want from AI",
+      "hn_url": "https://news.ycombinator.com/item?id=49928376",
+      "source_url": "https://www.anthropic.com/research/your-thoughts-on-ai",
+      "image_url": "https://www-cdn.anthropic.com/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-10-01T23:55:12Z",
+      "summary_ja": "Title: What do you want from AI\nArticle title: What do you want from AI? \\ Anthropic\nDescription: Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.\n\nArticle text:\nWhat do you want from AI? \\ Anthropic Skip to main content Skip to footer Research\nSocietal Impacts What do you want from AI?\nWe’re launching a new study using Anthropic Interviewer to learn from your experiences with AI, and we’d like you to participate. After you finish, you can decide to make your interview public, so that anyone, not just Anthropic, can read and learn from it. You can participate here .\nWe are at a pivotal moment in the development of AI, as its growing capabilities mean it becomes potentially more useful and more dangerous. Frontier AI is rapidly accelerating discoveries in science and medicine , while at the same time the cost of its…"
+    },
+    {
+      "rank": 5,
+      "hn_id": 49928524,
+      "title": "Where Are the Prepared Minds? The Impact of AI on Scientific Thinking",
+      "title_ja": "Where Are the Prepared Minds? The Impact of AI on Scientific Thinking",
+      "hn_url": "https://news.ycombinator.com/item?id=49928524",
+      "source_url": "https://ai.nejm.org/doi/full/10.1056/AIe2601110?query=featured_home",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-10-02T00:20:55Z",
+      "summary_ja": "Title: Where Are the Prepared Minds? The Impact of AI on Scientific Thinking"
+    }
+  ]
+}

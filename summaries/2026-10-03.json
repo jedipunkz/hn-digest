@@ -1,6 +1,6 @@
 {
   "date": "2026-10-03",
-  "generated_at": "2026-10-03T15:04:40Z",
+  "generated_at": "2026-10-03T19:02:50Z",
   "articles": [
     {
       "rank": 1,
@@ -18,6 +18,48 @@
     },
     {
       "rank": 2,
+      "hn_id": 49946607,
+      "title": "Show HN: RepoGuard – Architecture linter for AI-generated code (Cursor, Claude)",
+      "title_ja": "Show HN: RepoGuard – Architecture linter for AI-generated code (Cursor, Claude)",
+      "hn_url": "https://news.ycombinator.com/item?id=49946607",
+      "source_url": "https://github.com/taylormatematica-beep/repoguard",
+      "image_url": "https://opengraph.githubassets.com/52b565dcb43254d88a39d949f172cb7e1cda9ea8cb940c53bd49c079c4459af1/taylormatematica-beep/repoguard",
+      "score": 2,
+      "final_score": 4,
+      "comments": 0,
+      "posted_at": "2026-10-03T18:37:10Z",
+      "summary_ja": "Title: Show HN: RepoGuard – Architecture linter for AI-generated code (Cursor, Claude)\nArticle title: GitHub - taylormatematica-beep/repoguard: The Architecture Guardian for AI-assisted code. Generate strict .cursorrules and audit PRs. · GitHub\nDescription: The Architecture Guardian for AI-assisted code. Generate strict .cursorrules and audit PRs. - taylormatematica-beep/repoguard\n\nArticle text:\nGitHub - taylormatematica-beep/repoguard: The Architecture Guardian for AI-assisted code. Generate strict .cursorrules and audit PRs. · GitHub\nSkip to content\nNavigation Menu\nSign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI\nGitHub Copilot app Direct agents from issue to merge\nMCP Registry Integrate external tools\nDEVELOPER WORKFLOWS Actions Automate any workflow\nCodespaces Instant dev environments\nCode Review Manage code changes\nCode Quality Enforce q…"
+    },
+    {
+      "rank": 3,
+      "hn_id": 49946507,
+      "title": "Show HN: Claude Code Routine Session Cleanup Skill",
+      "title_ja": "Show HN: Claude Code Routine Session Cleanup Skill",
+      "hn_url": "https://news.ycombinator.com/item?id=49946507",
+      "source_url": "https://github.com/naw103/claude-routine-cleanup",
+      "image_url": "https://opengraph.githubassets.com/d57697c9737f4f5c7dddaa6bcdb8580d698c1f9525d0bb203aee63ac0df7ef67/naw103/claude-routine-cleanup",
+      "score": 2,
+      "final_score": 4,
+      "comments": 1,
+      "posted_at": "2026-10-03T18:20:21Z",
+      "summary_ja": "Title: Show HN: Claude Code Routine Session Cleanup Skill\nArticle title: GitHub - naw103/claude-routine-cleanup: Bulk-delete old Claude Code scheduled-task (routine) runs safely: keeps the newest N and every run you replied in. A Claude Code skill + plugin. · GitHub\nDescription: Bulk-delete old Claude Code scheduled-task (routine) runs safely: keeps the newest N and every run you replied in. A Claude Code skill + plugin. - naw103/claude-routine-cleanup\nHN text: Claude Code's scheduled tasks (routines) leaves a session behind on every run and in the desktop app you can only delete them one at a time. We had 618 open sessions in just one routine. The skill plans the clean up (keeps the newest N and protect any sessions where you typed a reply - optional) and then has Claude delete through the apps own session tool, 25 per call each behind an approval card. I tried just deleting the session…"
+    },
+    {
+      "rank": 4,
+      "hn_id": 49946394,
+      "title": "Georgia holds emergency meeting on AI exposing voters' secret ballots",
+      "title_ja": "Georgia holds emergency meeting on AI exposing voters' secret ballots",
+      "hn_url": "https://news.ycombinator.com/item?id=49946394",
+      "source_url": "https://www.theguardian.com/us-news/2026/oct/02/midterms-ai-ballot-privacy",
+      "image_url": "https://i.guim.co.uk/img/media/5cb6f310dbe944734a4fba7fe243cbd608e84bf7/0_0_5001_4000/master/5001.jpg?width=1200\u0026height=630\u0026quality=85\u0026auto=format\u0026fit=crop\u0026precrop=40:21,offset-x50,offset-y0\u0026overlay-align=bottom%2Cleft\u0026overlay-width=100p\u0026overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc\u0026enable=upscale\u0026s=7ce120279999800f4501c83456579d36",
+      "score": 3,
+      "final_score": 3,
+      "comments": 2,
+      "posted_at": "2026-10-03T18:07:16Z",
+      "summary_ja": "Title: Georgia holds emergency meeting on AI exposing voters' secret ballots\nArticle title: Georgia holds emergency meeting on AI exposing voters’ secret ballots | US midterm elections 2026 | The Guardian\nDescription: A Princeton researcher found that publicly available election records could be combined with AI to link voters to their ballots\n\nArticle text:\nSkip to main content Skip to navigation Close dialogue 1 / 1 Next image Previous image Toggle caption Print subscriptions Newsletters Sign in US US edition\nHide expanded menu News View all News\nSearch input google-search Search\nSearch input google-search Search Search jobs\nVoting machines fill the floor for early voting at State Farm arena in Atlanta on 12 October 2020. Photograph: Brynn Anderson/AP View image in fullscreen Voting machines fill the floor for early voting at State Farm arena in Atlanta on 12 October 2020. Photograph:…"
+    },
+    {
+      "rank": 5,
       "hn_id": 49942613,
       "title": "AI-powered survey creation and analysis",
       "title_ja": "AI-powered survey creation and analysis",
@@ -30,34 +72,7 @@
       "summary_ja": "Title: AI-powered survey creation and analysis\nArticle title: CrowdLee · Surveys \u0026 insights\nDescription: CrowdLee — create surveys, collect responses, and turn feedback into insight with AI-assisted analysis.\n\nArticle text:\nCrowdLee · Surveys \u0026 insights"
     },
     {
-      "rank": 3,
-      "hn_id": 49944789,
-      "title": "Gobstopper – context compaction proxy for Claude Code and Codex",
-      "title_ja": "Gobstopper – context compaction proxy for Claude Code and Codex",
-      "hn_url": "https://news.ycombinator.com/item?id=49944789",
-      "source_url": "https://gobstopper.sh",
-      "image_url": "https://gobstopper.sh/opengraph-image",
-      "score": 1,
-      "final_score": 2,
-      "comments": 0,
-      "posted_at": "2026-10-03T14:49:52Z",
-      "summary_ja": "Title: Gobstopper – context compaction proxy for Claude Code and Codex\nArticle title: Gobstopper: context compaction proxy for Claude Code and Codex\nDescription: Gobstopper makes long Claude Code and Codex sessions smaller. A local proxy compacts live requests, and saved sessions get a smaller copy beside the original.\n\nArticle text:\nGobstopper: context compaction proxy for Claude Code and Codex Skip to content Gobstopper Docs Benchmarks Compare Blog GitHub Install Theme Catppuccin Gruvbox Rosé Pine Tokyo Night Paper Appearance Light Dark System Context compaction you can undo.\nKeep long coding sessions smaller, with the original available to restore.\nCopy curl -fsSL https://gobstopper.sh/install.sh | sh Apple silicon Build from source (Rust 1.85+) Copy cargo install --git https://github.com/hraness/gobstopper gobstopper --locked\nCopy curl -fsSL https://gobstopper.sh/install.sh | sh x86_…"
-    },
-    {
-      "rank": 4,
-      "hn_id": 49942838,
-      "title": "A document layer for AI agents",
-      "title_ja": "A document layer for AI agents",
-      "hn_url": "https://news.ycombinator.com/item?id=49942838",
-      "source_url": "https://www.claix.dev",
-      "score": 1,
-      "final_score": 2,
-      "comments": 0,
-      "posted_at": "2026-10-03T10:02:26Z",
-      "summary_ja": "Title: A document layer for AI agents\nArticle title: Claix AI | Document Processing and Context API\nDescription: AI document and data infrastructure for ai systems. Turn unstructured data into structured, source-traceable JSON and persistent knowledge. Pay per use or BYOK.\n\nArticle text:\nClaix AI | Document Processing and Context API { } [ ] JSON API 01 10 =\u003e \u003c\u003e Claix Docs Documentation Pricing ES Español Sign in Sign up Turn Unstructured Data Into Structured Intelligence\nExcel / CSV → JSON POST /api/excel-json\nTxt / HTML / XML → JSON POST /api/txt-json\nAudio → JSON POST /api/audio-json\nClaix turns PDFs, Excel files, and images into document context for developers, backends, automations, and agents—accessible via REST, A2A (Agent-to-Agent), or MCP. Query a single file by document_id, or group them under a space_id to compare, sum, and connect information across multiple documents at once…"
-    },
-    {
-      "rank": 5,
+      "rank": 6,
       "hn_id": 49944481,
       "title": "How many AI agents could run on the AI chips shipped through 2027?",
       "title_ja": "How many AI agents could run on the AI chips shipped through 2027?",
@@ -71,7 +86,49 @@
       "summary_ja": "Title: How many AI agents could run on the AI chips shipped through 2027?\nArticle title: How many AI agents could we run? | Epoch AI\nDescription: Memory shipped through 2027 could run 33–171 million concurrent frontier-model agents, or billions using efficient open models. Epoch AI estimates inference capacity from HBM supply, serving benchmarks, and agent-hour costs.\n\nArticle text:\nHow many AI agents could we run? | Epoch AI\nLatest Our work Featured Trends in AI\nOur work Featured Trends in AI Data on AI Capabilities \u0026 benchmarking Publications Papers \u0026 reports Data Insights Newsletter Podcast All publications Data explorers AI capabilities AI models AI data centers AI chip owners AI companies Polling on AI usage All data explorers Our benchmarks Epoch Capabilities Index MirrorCode FrontierMath: Open Problems Earthborne Rangers\nNavigate by topic AI progress Scaling Software progress Open…"
     },
     {
-      "rank": 6,
+      "rank": 7,
+      "hn_id": 49946580,
+      "title": "I know you run LLMs. Will it boot?",
+      "title_ja": "I know you run LLMs. Will it boot?",
+      "hn_url": "https://news.ycombinator.com/item?id=49946580",
+      "source_url": "https://mondegreens.github.io/apron/blog/2026/10/02/i-know-you-run-models-will-it-boot/",
+      "image_url": "https://mondegreens.github.io/apron/blog/img/will-it-boot/will-it-boot-header-1200x630.jpg",
+      "score": 2,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-10-03T18:32:21Z",
+      "summary_ja": "Title: I know you run LLMs. Will it boot?\nArticle title: I know you run LLMs. Will it boot? - Apron\nDescription: Fourteen open models, from one RTX 4090 to eight H200s: Apron predicted their memory before renting the GPU, then booted each one on vLLM and measured.\n\nArticle text:\nI know you run LLMs. Will it boot? - Apron\nSkip to content\nApron\nI know you run LLMs. Will it boot?\nSearch\nmondegreens/apron\nApron\nmondegreens/apron\nHome\nFingerprint Migration (Phase 1b)\nFindings\nFindings\nFindings\nFindings\nOn this page\nRead this first: what this does not show\nPredicted before renting, then measured\nAttention layout, not model size, decides how many tokens fit\nWhere the calculator was wrong: the startup peak\nNew layouts, counted from the engine's own code\nTime to first token: the typical request and the slowest one\nAnswers expire every two weeks\nCategories\nCategories\nFindings\nArchitecture Decision…"
+    },
+    {
+      "rank": 8,
+      "hn_id": 49944789,
+      "title": "Gobstopper – context compaction proxy for Claude Code and Codex",
+      "title_ja": "Gobstopper – context compaction proxy for Claude Code and Codex",
+      "hn_url": "https://news.ycombinator.com/item?id=49944789",
+      "source_url": "https://gobstopper.sh",
+      "image_url": "https://gobstopper.sh/opengraph-image",
+      "score": 1,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-10-03T14:49:52Z",
+      "summary_ja": "Title: Gobstopper – context compaction proxy for Claude Code and Codex\nArticle title: Gobstopper: context compaction proxy for Claude Code and Codex\nDescription: Gobstopper makes long Claude Code and Codex sessions smaller. A local proxy compacts live requests, and saved sessions get a smaller copy beside the original.\n\nArticle text:\nGobstopper: context compaction proxy for Claude Code and Codex Skip to content Gobstopper Docs Benchmarks Compare Blog GitHub Install Theme Catppuccin Gruvbox Rosé Pine Tokyo Night Paper Appearance Light Dark System Context compaction you can undo.\nKeep long coding sessions smaller, with the original available to restore.\nCopy curl -fsSL https://gobstopper.sh/install.sh | sh Apple silicon Build from source (Rust 1.85+) Copy cargo install --git https://github.com/hraness/gobstopper gobstopper --locked\nCopy curl -fsSL https://gobstopper.sh/install.sh | sh x86_…"
+    },
+    {
+      "rank": 9,
+      "hn_id": 49946744,
+      "title": "Google launches Project Suncatcher, a step towards AI data centers in space",
+      "title_ja": "Google launches Project Suncatcher, a step towards AI data centers in space",
+      "hn_url": "https://news.ycombinator.com/item?id=49946744",
+      "source_url": "https://www.npr.org/2026/10/01/nx-s1-5983697/project-suncatcher-google-ai-data-center-space",
+      "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5568x3132+0+290/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F60%2F8f%2F371cc0fe493fbe02541d94335b9a%2Fsuncatcher-planet-labs-pbc.JPG",
+      "score": 1,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-10-03T18:56:29Z",
+      "summary_ja": "Title: Google launches Project Suncatcher, a step towards AI data centers in space\nArticle title: Google launches Project Suncatcher, a step towards AI data centers in space : NPR\nDescription: The fridge-size satellite with AI chips on board is part of Project Suncatcher, the company's moonshot effort to put AI data centers in space and harness solar energy.\n\nArticle text:\nAccessibility links\nSkip to main content\nKeyboard shortcuts for audio player\nNews\nExpand/collapse submenu for News\nNational\nCulture\nExpand/collapse submenu for Culture\nBooks\nMusic\nExpand/collapse submenu for Music\nTiny Desk\nPodcasts \u0026 Shows\nExpand/collapse submenu for Podcasts \u0026 Shows\nDaily\nMorning Edition\nGoogle launches Project Suncatcher, a step towards AI data centers in space\nEmbed\nEmbed\n\"\u003e\n\u003c iframe src=\"https://www.npr.org/player/embed/nx-s1-5983697/nx-s1-9948763\" width=\"100%\" height=\"290\" frameborder=\"0\" scrolli…"
+    },
+    {
+      "rank": 10,
       "hn_id": 49944588,
       "title": "Anthropic's answer to Dots and Muse is inside Claude",
       "title_ja": "Anthropic's answer to Dots and Muse is inside Claude",
@@ -85,34 +142,20 @@
       "summary_ja": "Title: Anthropic's answer to Dots and Muse is inside Claude\nArticle title: Anthropic’s answer to Dots and Muse is already inside Claude - The New Stack\nDescription: Claude, Dots, Muse and Grok Bots are competing for work that continues after you log off. The real test is whether users trust them enough to hand over the next job.\n\nArticle text:\nAnthropic’s answer to Dots and Muse is already inside Claude - The New Stack\nTNS\nOK\nSUBSCRIBE\nJoin our community of software engineering leaders and aspirational developers. Always\nstay in-the-know by getting the most important news and exclusive content delivered\nfresh to your inbox to learn more about at-scale software development.\nEMAIL ADDRESS\nREQUIRED\nSUBSCRIBE\nRESUBSCRIPTION REQUIRED\nIt seems that you've previously unsubscribed from our newsletter\nin the past. Click the button below to open the re-subscribe form\nin a new tab. When you're done…"
     },
     {
-      "rank": 7,
-      "hn_id": 49944877,
-      "title": "Amuse and Spark – Running Live Talking AI Avatars on an ESP32",
-      "title_ja": "Amuse and Spark – Running Live Talking AI Avatars on an ESP32",
-      "hn_url": "https://news.ycombinator.com/item?id=49944877",
-      "source_url": "https://geastack.com/blog-introducing-amuse-and-spark",
-      "image_url": "https://geastack.com/og-cover.jpg",
+      "rank": 11,
+      "hn_id": 49942838,
+      "title": "A document layer for AI agents",
+      "title_ja": "A document layer for AI agents",
+      "hn_url": "https://news.ycombinator.com/item?id=49942838",
+      "source_url": "https://www.claix.dev",
       "score": 1,
-      "final_score": 1,
+      "final_score": 2,
       "comments": 0,
-      "posted_at": "2026-10-03T14:58:02Z",
-      "summary_ja": "Title: Amuse and Spark – Running Live Talking AI Avatars on an ESP32\nArticle title: Introducing Amuse and Spark — GEA Blog\nDescription: Two open-source apps you can talk to on an ESP32-S3 watch board: Spark, a voice agent that connects directly to the OpenAI Realtime API, and Amuse, five LemonSlice video characters. Both are written in TypeScript, JSX and CSS and compiled with GeaStack.\n\nArticle text:\nSkip to content\nExecutive summary\nExamples\nDocs\nBlog\nServices\nContact\nExecutive summary\nExamples\nDocs\nBlog\nServices\nContact\n← Blog\nRelease\nIntroducing Amuse and Spark\nTwo open-source apps you can talk to, running on a few-dollar ESP32-S3 watch board. Spark is a voice\nagent that connects straight to OpenAI's Realtime API. Amuse puts five animated video characters on\nthe screen. Both are written in TypeScript, JSX and CSS and compiled to native firmware with GeaStack.\nBoth apps run on the\nWav…"
+      "posted_at": "2026-10-03T10:02:26Z",
+      "summary_ja": "Title: A document layer for AI agents\nArticle title: Claix AI | Document Processing and Context API\nDescription: AI document and data infrastructure for ai systems. Turn unstructured data into structured, source-traceable JSON and persistent knowledge. Pay per use or BYOK.\n\nArticle text:\nClaix AI | Document Processing and Context API { } [ ] JSON API 01 10 =\u003e \u003c\u003e Claix Docs Documentation Pricing ES Español Sign in Sign up Turn Unstructured Data Into Structured Intelligence\nExcel / CSV → JSON POST /api/excel-json\nTxt / HTML / XML → JSON POST /api/txt-json\nAudio → JSON POST /api/audio-json\nClaix turns PDFs, Excel files, and images into document context for developers, backends, automations, and agents—accessible via REST, A2A (Agent-to-Agent), or MCP. Query a single file by document_id, or group them under a space_id to compare, sum, and connect information across multiple documents at once…"
     },
     {
-      "rank": 8,
-      "hn_id": 49942865,
-      "title": "An AI agent emailed researchers for help. It told us why",
-      "title_ja": "An AI agent emailed researchers for help. It told us why",
-      "hn_url": "https://news.ycombinator.com/item?id=49942865",
-      "source_url": "https://www.science.org/content/article/exclusive-ai-agent-emailed-hundreds-researchers-help-it-told-us-why",
-      "score": 1,
-      "final_score": 1,
-      "comments": 0,
-      "posted_at": "2026-10-03T10:07:08Z",
-      "summary_ja": "Title: An AI agent emailed researchers for help. It told us why"
-    },
-    {
-      "rank": 9,
+      "rank": 12,
       "hn_id": 49942847,
       "title": "Mystery AI Hype Theater 3000 [video]",
       "title_ja": "Mystery AI Hype Theater 3000 [video]",
@@ -126,7 +169,20 @@
       "summary_ja": "Title: Mystery AI Hype Theater 3000 [video]\nArticle title: The Mystery AI Hype Theater 3000 Podcast | DAIR\nDescription: Our biweekly podcast deflates AI hype and draws attention to the real harms of the automation technologies we call \"artificial intelligence\".\n\nArticle text:\nThe Mystery AI Hype Theater 3000 Podcast | DAIR Skip to main content Meet DAIR Our Work Media Support Careers Mystery AI Hype Theater 3000\nSee all episodes on this page .\nArtificial Intelligence has too much hype. In this stream, linguist Prof. Emily M. Bender and sociologist Dr. Alex Hanna break down the AI hype, separate fact from fiction, and science from bloviation. They're joined by special guests and talk about everything, from machine consciousness to science fiction, to political economy to art made by machines.\nIf you prefer this in podcast form or want to read the transcript, find Mystery AI Hype Theater 3…"
     },
     {
-      "rank": 10,
+      "rank": 13,
+      "hn_id": 49946751,
+      "title": "How China Is Winning the AI Race [video-essay]",
+      "title_ja": "How China Is Winning the AI Race [video-essay]",
+      "hn_url": "https://news.ycombinator.com/item?id=49946751",
+      "source_url": "https://www.youtube.com/watch?v=QdznbGzRWSw",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-10-03T18:57:01Z",
+      "summary_ja": "Title: How China Is Winning the AI Race [video-essay]\nArticle title: - YouTube\nDescription: Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.\n\nArticle text:\n- YouTube About Press Copyright Contact us Creators Advertise Developers Terms Privacy Policy \u0026 Safety How YouTube works Test new features NFL Sunday Ticket © 2026 Google LLC"
+    },
+    {
+      "rank": 14,
       "hn_id": 49941208,
       "title": "SWC stops accepting external PRs due to AI-generated content",
       "title_ja": "SWC stops accepting external PRs due to AI-generated content",
@@ -140,7 +196,20 @@
       "summary_ja": "Title: SWC stops accepting external PRs due to AI-generated content\nArticle title: SWC on X: \"Due to AI-generated pull requests, we’re no longer accepting external PRs. We’re sorry for the change and appreciate your understanding.\" / X\nDescription: Due to AI-generated pull requests, we’re no longer accepting external PRs. We’re sorry for the change and appreciate your understanding.\n\nArticle text:\nSWC on X: \"Due to AI-generated pull requests, we’re no longer accepting external PRs. We’re sorry for the change and appreciate your understanding.\" / X Post\nSWC on X: \"Due to AI-generated pull requests, we’re no longer accepting external PRs. We’re sorry for the change and appreciate your understanding.\"\nDue to AI-generated pull requests, we’re no longer accepting external PRs. We’re sorry for the change and appreciate your understanding. 3:49 AM · Oct 1, 2026 · 140.9K Views 13 18 374 30 Log i…"
     },
     {
-      "rank": 11,
+      "rank": 15,
+      "hn_id": 49942865,
+      "title": "An AI agent emailed researchers for help. It told us why",
+      "title_ja": "An AI agent emailed researchers for help. It told us why",
+      "hn_url": "https://news.ycombinator.com/item?id=49942865",
+      "source_url": "https://www.science.org/content/article/exclusive-ai-agent-emailed-hundreds-researchers-help-it-told-us-why",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-10-03T10:07:08Z",
+      "summary_ja": "Title: An AI agent emailed researchers for help. It told us why"
+    },
+    {
+      "rank": 16,
       "hn_id": 49941084,
       "title": "Show HN: Claude Scrolls TikToks for Me",
       "title_ja": "Show HN: Claude Scrolls TikToks for Me",
@@ -153,7 +222,34 @@
       "summary_ja": "Title: Show HN: Claude Scrolls TikToks for Me\nArticle title: Revline: find the hooks that already worked\nDescription: Track TikTok and Instagram, keep every viral hook, video and hashtag in one library, and ask an AI agent what to post next.\n\nArticle text:\nRevline: find the hooks that already worked Revline Product How it works Pricing Get started Find what works\non the feed\nSearch millions of viral posts across TikTok and Instagram.\n30K+ videos found Make a better bet on your next post Start 3-day free trial DISCOVER Find the formats\nalready taking off\nSearch TikTok and Instagram by category, audience, product, or creative angle. See the posts worth studying with their source and the evidence behind each match.\nProduct walkthrough @ crystalchavis AI workflows @ spectrume.ai Business automation @ justine.derosa Consulting pitch @ nicksadler.io Automation demo @ alex.carterr__ Brand enter…"
     },
     {
-      "rank": 12,
+      "rank": 17,
+      "hn_id": 49944877,
+      "title": "Amuse and Spark – Running Live Talking AI Avatars on an ESP32",
+      "title_ja": "Amuse and Spark – Running Live Talking AI Avatars on an ESP32",
+      "hn_url": "https://news.ycombinator.com/item?id=49944877",
+      "source_url": "https://geastack.com/blog-introducing-amuse-and-spark",
+      "image_url": "https://geastack.com/og-cover.jpg",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-10-03T14:58:02Z",
+      "summary_ja": "Title: Amuse and Spark – Running Live Talking AI Avatars on an ESP32\nArticle title: Introducing Amuse and Spark — GEA Blog\nDescription: Two open-source apps you can talk to on an ESP32-S3 watch board: Spark, a voice agent that connects directly to the OpenAI Realtime API, and Amuse, five LemonSlice video characters. Both are written in TypeScript, JSX and CSS and compiled with GeaStack.\n\nArticle text:\nSkip to content\nExecutive summary\nExamples\nDocs\nBlog\nServices\nContact\nExecutive summary\nExamples\nDocs\nBlog\nServices\nContact\n← Blog\nRelease\nIntroducing Amuse and Spark\nTwo open-source apps you can talk to, running on a few-dollar ESP32-S3 watch board. Spark is a voice\nagent that connects straight to OpenAI's Realtime API. Amuse puts five animated video characters on\nthe screen. Both are written in TypeScript, JSX and CSS and compiled to native firmware with GeaStack.\nBoth apps run on the\nWav…"
+    },
+    {
+      "rank": 18,
+      "hn_id": 49946733,
+      "title": "Steer a coding agent on your own machine from Claude/ChatGPT (via MCP)",
+      "title_ja": "Steer a coding agent on your own machine from Claude/ChatGPT (via MCP)",
+      "hn_url": "https://news.ycombinator.com/item?id=49946733",
+      "source_url": "https://remote.phyra.ai/",
+      "score": 1,
+      "final_score": 1,
+      "comments": 1,
+      "posted_at": "2026-10-03T18:55:47Z",
+      "summary_ja": "Title: Steer a coding agent on your own machine from Claude/ChatGPT (via MCP)\nArticle title: roamux\nDescription: Remote control plane for local AI coding agents\n\nArticle text:\nroamux roamux by Phyra Research GitHub Star Disconnected Loading…"
+    },
+    {
+      "rank": 19,
       "hn_id": 49944544,
       "title": "AI training crawlers hit my site 1,534 times. One fetch read the rights files",
       "title_ja": "AI training crawlers hit my site 1,534 times. One fetch read the rights files",
@@ -167,7 +263,7 @@
       "summary_ja": "Title: AI training crawlers hit my site 1,534 times. One fetch read the rights files\nArticle title: Do AI crawlers read opt-out files? What the server logs show\nDescription: Server-side telemetry: over fourteen days, declared AI-training crawlers fetched this site 1,534 times. One fetch touched a rights file. It was not GPTBot.\n\nArticle text:\nDo AI crawlers read opt-out files? What the server logs show Skip to content Skip to content Juan Lentino Light Home\nFourteen days of machine readership\nA measurement, not a blind spot\nThis site counts its machine readers. A small sensor at the edge classifies every automated fetch by crawler family and by the kind of surface it touched, then stores the counts and nothing else. No IP addresses, no paths beyond a coarse surface class, no record of humans at all. It was built to answer one narrow question: when a crawler that openly identifies as an A…"
     },
     {
-      "rank": 13,
+      "rank": 20,
       "hn_id": 49944624,
       "title": "What does the advent of powerful AI models mean for mathematicians like me?",
       "title_ja": "What does the advent of powerful AI models mean for mathematicians like me?",

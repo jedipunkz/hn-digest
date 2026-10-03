@@ -1,9 +1,23 @@
 {
   "date": "2026-10-03",
-  "generated_at": "2026-10-03T10:14:51Z",
+  "generated_at": "2026-10-03T15:04:40Z",
   "articles": [
     {
       "rank": 1,
+      "hn_id": 49944432,
+      "title": "What Kubernetes' \"monolith\" lesson means for AI agent harnesses",
+      "title_ja": "What Kubernetes' \"monolith\" lesson means for AI agent harnesses",
+      "hn_url": "https://news.ycombinator.com/item?id=49944432",
+      "source_url": "https://thenewstack.io/kubecon-agent-harness-koordinator/",
+      "image_url": "https://cdn.thenewstack.io/media/2026/10/de419750-growtika-qpkdga-kdik-unsplash-scaled.jpg",
+      "score": 2,
+      "final_score": 5,
+      "comments": 0,
+      "posted_at": "2026-10-03T14:12:07Z",
+      "summary_ja": "Title: What Kubernetes' \"monolith\" lesson means for AI agent harnesses\nArticle title: What Kubernetes’ \"monolith\" lesson means for AI agent harnesses - The New Stack\nDescription: In this edition of our Road to KubeCon series, Craig McLuckie wants agent harnesses off the laptop, and Koordinator pushes GPU allocation past 95%.\n\nArticle text:\nWhat Kubernetes’ \"monolith\" lesson means for AI agent harnesses - The New Stack\nTNS\nOK\nSUBSCRIBE\nJoin our community of software engineering leaders and aspirational developers. Always\nstay in-the-know by getting the most important news and exclusive content delivered\nfresh to your inbox to learn more about at-scale software development.\nEMAIL ADDRESS\nREQUIRED\nSUBSCRIBE\nRESUBSCRIPTION REQUIRED\nIt seems that you've previously unsubscribed from our newsletter\nin the past. Click the button below to open the re-subscribe form\nin a new tab. When you're done,…"
+    },
+    {
+      "rank": 2,
       "hn_id": 49942613,
       "title": "AI-powered survey creation and analysis",
       "title_ja": "AI-powered survey creation and analysis",
@@ -16,7 +30,21 @@
       "summary_ja": "Title: AI-powered survey creation and analysis\nArticle title: CrowdLee · Surveys \u0026 insights\nDescription: CrowdLee — create surveys, collect responses, and turn feedback into insight with AI-assisted analysis.\n\nArticle text:\nCrowdLee · Surveys \u0026 insights"
     },
     {
-      "rank": 2,
+      "rank": 3,
+      "hn_id": 49944789,
+      "title": "Gobstopper – context compaction proxy for Claude Code and Codex",
+      "title_ja": "Gobstopper – context compaction proxy for Claude Code and Codex",
+      "hn_url": "https://news.ycombinator.com/item?id=49944789",
+      "source_url": "https://gobstopper.sh",
+      "image_url": "https://gobstopper.sh/opengraph-image",
+      "score": 1,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-10-03T14:49:52Z",
+      "summary_ja": "Title: Gobstopper – context compaction proxy for Claude Code and Codex\nArticle title: Gobstopper: context compaction proxy for Claude Code and Codex\nDescription: Gobstopper makes long Claude Code and Codex sessions smaller. A local proxy compacts live requests, and saved sessions get a smaller copy beside the original.\n\nArticle text:\nGobstopper: context compaction proxy for Claude Code and Codex Skip to content Gobstopper Docs Benchmarks Compare Blog GitHub Install Theme Catppuccin Gruvbox Rosé Pine Tokyo Night Paper Appearance Light Dark System Context compaction you can undo.\nKeep long coding sessions smaller, with the original available to restore.\nCopy curl -fsSL https://gobstopper.sh/install.sh | sh Apple silicon Build from source (Rust 1.85+) Copy cargo install --git https://github.com/hraness/gobstopper gobstopper --locked\nCopy curl -fsSL https://gobstopper.sh/install.sh | sh x86_…"
+    },
+    {
+      "rank": 4,
       "hn_id": 49942838,
       "title": "A document layer for AI agents",
       "title_ja": "A document layer for AI agents",
@@ -29,7 +57,49 @@
       "summary_ja": "Title: A document layer for AI agents\nArticle title: Claix AI | Document Processing and Context API\nDescription: AI document and data infrastructure for ai systems. Turn unstructured data into structured, source-traceable JSON and persistent knowledge. Pay per use or BYOK.\n\nArticle text:\nClaix AI | Document Processing and Context API { } [ ] JSON API 01 10 =\u003e \u003c\u003e Claix Docs Documentation Pricing ES Español Sign in Sign up Turn Unstructured Data Into Structured Intelligence\nExcel / CSV → JSON POST /api/excel-json\nTxt / HTML / XML → JSON POST /api/txt-json\nAudio → JSON POST /api/audio-json\nClaix turns PDFs, Excel files, and images into document context for developers, backends, automations, and agents—accessible via REST, A2A (Agent-to-Agent), or MCP. Query a single file by document_id, or group them under a space_id to compare, sum, and connect information across multiple documents at once…"
     },
     {
-      "rank": 3,
+      "rank": 5,
+      "hn_id": 49944481,
+      "title": "How many AI agents could run on the AI chips shipped through 2027?",
+      "title_ja": "How many AI agents could run on the AI chips shipped through 2027?",
+      "hn_url": "https://news.ycombinator.com/item?id=49944481",
+      "source_url": "https://epoch.ai/publications/estimating-the-agent-population",
+      "image_url": "https://epoch.ai/assets/images/posts/2026/estimating-the-agent-population/t-estimating-the-agent-population.jpg",
+      "score": 1,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-10-03T14:17:36Z",
+      "summary_ja": "Title: How many AI agents could run on the AI chips shipped through 2027?\nArticle title: How many AI agents could we run? | Epoch AI\nDescription: Memory shipped through 2027 could run 33–171 million concurrent frontier-model agents, or billions using efficient open models. Epoch AI estimates inference capacity from HBM supply, serving benchmarks, and agent-hour costs.\n\nArticle text:\nHow many AI agents could we run? | Epoch AI\nLatest Our work Featured Trends in AI\nOur work Featured Trends in AI Data on AI Capabilities \u0026 benchmarking Publications Papers \u0026 reports Data Insights Newsletter Podcast All publications Data explorers AI capabilities AI models AI data centers AI chip owners AI companies Polling on AI usage All data explorers Our benchmarks Epoch Capabilities Index MirrorCode FrontierMath: Open Problems Earthborne Rangers\nNavigate by topic AI progress Scaling Software progress Open…"
+    },
+    {
+      "rank": 6,
+      "hn_id": 49944588,
+      "title": "Anthropic's answer to Dots and Muse is inside Claude",
+      "title_ja": "Anthropic's answer to Dots and Muse is inside Claude",
+      "hn_url": "https://news.ycombinator.com/item?id=49944588",
+      "source_url": "https://thenewstack.io/claude-answer-to-dots-muse/",
+      "image_url": "https://cdn.thenewstack.io/media/2026/10/afe55952-claud-muse-dots-grok-bots-1024x576.png",
+      "score": 1,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-10-03T14:29:11Z",
+      "summary_ja": "Title: Anthropic's answer to Dots and Muse is inside Claude\nArticle title: Anthropic’s answer to Dots and Muse is already inside Claude - The New Stack\nDescription: Claude, Dots, Muse and Grok Bots are competing for work that continues after you log off. The real test is whether users trust them enough to hand over the next job.\n\nArticle text:\nAnthropic’s answer to Dots and Muse is already inside Claude - The New Stack\nTNS\nOK\nSUBSCRIBE\nJoin our community of software engineering leaders and aspirational developers. Always\nstay in-the-know by getting the most important news and exclusive content delivered\nfresh to your inbox to learn more about at-scale software development.\nEMAIL ADDRESS\nREQUIRED\nSUBSCRIBE\nRESUBSCRIPTION REQUIRED\nIt seems that you've previously unsubscribed from our newsletter\nin the past. Click the button below to open the re-subscribe form\nin a new tab. When you're done…"
+    },
+    {
+      "rank": 7,
+      "hn_id": 49944877,
+      "title": "Amuse and Spark – Running Live Talking AI Avatars on an ESP32",
+      "title_ja": "Amuse and Spark – Running Live Talking AI Avatars on an ESP32",
+      "hn_url": "https://news.ycombinator.com/item?id=49944877",
+      "source_url": "https://geastack.com/blog-introducing-amuse-and-spark",
+      "image_url": "https://geastack.com/og-cover.jpg",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-10-03T14:58:02Z",
+      "summary_ja": "Title: Amuse and Spark – Running Live Talking AI Avatars on an ESP32\nArticle title: Introducing Amuse and Spark — GEA Blog\nDescription: Two open-source apps you can talk to on an ESP32-S3 watch board: Spark, a voice agent that connects directly to the OpenAI Realtime API, and Amuse, five LemonSlice video characters. Both are written in TypeScript, JSX and CSS and compiled with GeaStack.\n\nArticle text:\nSkip to content\nExecutive summary\nExamples\nDocs\nBlog\nServices\nContact\nExecutive summary\nExamples\nDocs\nBlog\nServices\nContact\n← Blog\nRelease\nIntroducing Amuse and Spark\nTwo open-source apps you can talk to, running on a few-dollar ESP32-S3 watch board. Spark is a voice\nagent that connects straight to OpenAI's Realtime API. Amuse puts five animated video characters on\nthe screen. Both are written in TypeScript, JSX and CSS and compiled to native firmware with GeaStack.\nBoth apps run on the\nWav…"
+    },
+    {
+      "rank": 8,
       "hn_id": 49942865,
       "title": "An AI agent emailed researchers for help. It told us why",
       "title_ja": "An AI agent emailed researchers for help. It told us why",
@@ -42,7 +112,7 @@
       "summary_ja": "Title: An AI agent emailed researchers for help. It told us why"
     },
     {
-      "rank": 4,
+      "rank": 9,
       "hn_id": 49942847,
       "title": "Mystery AI Hype Theater 3000 [video]",
       "title_ja": "Mystery AI Hype Theater 3000 [video]",
@@ -56,7 +126,7 @@
       "summary_ja": "Title: Mystery AI Hype Theater 3000 [video]\nArticle title: The Mystery AI Hype Theater 3000 Podcast | DAIR\nDescription: Our biweekly podcast deflates AI hype and draws attention to the real harms of the automation technologies we call \"artificial intelligence\".\n\nArticle text:\nThe Mystery AI Hype Theater 3000 Podcast | DAIR Skip to main content Meet DAIR Our Work Media Support Careers Mystery AI Hype Theater 3000\nSee all episodes on this page .\nArtificial Intelligence has too much hype. In this stream, linguist Prof. Emily M. Bender and sociologist Dr. Alex Hanna break down the AI hype, separate fact from fiction, and science from bloviation. They're joined by special guests and talk about everything, from machine consciousness to science fiction, to political economy to art made by machines.\nIf you prefer this in podcast form or want to read the transcript, find Mystery AI Hype Theater 3…"
     },
     {
-      "rank": 5,
+      "rank": 10,
       "hn_id": 49941208,
       "title": "SWC stops accepting external PRs due to AI-generated content",
       "title_ja": "SWC stops accepting external PRs due to AI-generated content",
@@ -70,7 +140,7 @@
       "summary_ja": "Title: SWC stops accepting external PRs due to AI-generated content\nArticle title: SWC on X: \"Due to AI-generated pull requests, we’re no longer accepting external PRs. We’re sorry for the change and appreciate your understanding.\" / X\nDescription: Due to AI-generated pull requests, we’re no longer accepting external PRs. We’re sorry for the change and appreciate your understanding.\n\nArticle text:\nSWC on X: \"Due to AI-generated pull requests, we’re no longer accepting external PRs. We’re sorry for the change and appreciate your understanding.\" / X Post\nSWC on X: \"Due to AI-generated pull requests, we’re no longer accepting external PRs. We’re sorry for the change and appreciate your understanding.\"\nDue to AI-generated pull requests, we’re no longer accepting external PRs. We’re sorry for the change and appreciate your understanding. 3:49 AM · Oct 1, 2026 · 140.9K Views 13 18 374 30 Log i…"
     },
     {
-      "rank": 6,
+      "rank": 11,
       "hn_id": 49941084,
       "title": "Show HN: Claude Scrolls TikToks for Me",
       "title_ja": "Show HN: Claude Scrolls TikToks for Me",
@@ -81,6 +151,34 @@
       "comments": 1,
       "posted_at": "2026-10-03T03:14:40Z",
       "summary_ja": "Title: Show HN: Claude Scrolls TikToks for Me\nArticle title: Revline: find the hooks that already worked\nDescription: Track TikTok and Instagram, keep every viral hook, video and hashtag in one library, and ask an AI agent what to post next.\n\nArticle text:\nRevline: find the hooks that already worked Revline Product How it works Pricing Get started Find what works\non the feed\nSearch millions of viral posts across TikTok and Instagram.\n30K+ videos found Make a better bet on your next post Start 3-day free trial DISCOVER Find the formats\nalready taking off\nSearch TikTok and Instagram by category, audience, product, or creative angle. See the posts worth studying with their source and the evidence behind each match.\nProduct walkthrough @ crystalchavis AI workflows @ spectrume.ai Business automation @ justine.derosa Consulting pitch @ nicksadler.io Automation demo @ alex.carterr__ Brand enter…"
+    },
+    {
+      "rank": 12,
+      "hn_id": 49944544,
+      "title": "AI training crawlers hit my site 1,534 times. One fetch read the rights files",
+      "title_ja": "AI training crawlers hit my site 1,534 times. One fetch read the rights files",
+      "hn_url": "https://news.ycombinator.com/item?id=49944544",
+      "source_url": "https://juanlentino.com/notes/the-rights-files-nobody-reads/",
+      "image_url": "https://juanlentino.com/wp-content/uploads/sn-og/post-2071.png?v=1789736196",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-10-03T14:24:44Z",
+      "summary_ja": "Title: AI training crawlers hit my site 1,534 times. One fetch read the rights files\nArticle title: Do AI crawlers read opt-out files? What the server logs show\nDescription: Server-side telemetry: over fourteen days, declared AI-training crawlers fetched this site 1,534 times. One fetch touched a rights file. It was not GPTBot.\n\nArticle text:\nDo AI crawlers read opt-out files? What the server logs show Skip to content Skip to content Juan Lentino Light Home\nFourteen days of machine readership\nA measurement, not a blind spot\nThis site counts its machine readers. A small sensor at the edge classifies every automated fetch by crawler family and by the kind of surface it touched, then stores the counts and nothing else. No IP addresses, no paths beyond a coarse surface class, no record of humans at all. It was built to answer one narrow question: when a crawler that openly identifies as an A…"
+    },
+    {
+      "rank": 13,
+      "hn_id": 49944624,
+      "title": "What does the advent of powerful AI models mean for mathematicians like me?",
+      "title_ja": "What does the advent of powerful AI models mean for mathematicians like me?",
+      "hn_url": "https://news.ycombinator.com/item?id=49944624",
+      "source_url": "https://terrytao.wordpress.com/2026/10/03/what-does-the-advent-of-powerful-ai-models-mean-for-mathematicians-like-me/",
+      "image_url": "https://secure.gravatar.com/blavatar/bd4bda4207561b6998f10dec44b570f04ff4072b20f89162d525b186dfca3e49?s=200\u0026ts=1791038567",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-10-03T14:32:51Z",
+      "summary_ja": "Title: What does the advent of powerful AI models mean for mathematicians like me?\nArticle title: What does the advent of powerful AI models mean for mathematicians like me? | What's new\nDescription: [This is a guest post by Jennifer Taback. This blog post was initially written in a different file format and converted using AI. — T.] Recently I have read a stream of articles questioning t…\n\nArticle text:\nWhat's new Updates on my research and expository papers, discussion of open problems, and other maths-related topics. By Terence Tao\nWhat does the advent of powerful AI models mean for mathematicians like me?\n3 October, 2026 in guest blog , math.GM , opinion | by Terence Tao\n[This is a guest post by Jennifer Taback . This blog post was initially written in a different file format and converted using AI. — T.]\nRecently I have read a stream of articles questioning the future of mathematics…"
     }
   ]
 }

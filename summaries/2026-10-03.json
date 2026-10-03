@@ -1,9 +1,62 @@
 {
   "date": "2026-10-03",
-  "generated_at": "2026-10-03T04:05:04Z",
+  "generated_at": "2026-10-03T10:14:51Z",
   "articles": [
     {
       "rank": 1,
+      "hn_id": 49942613,
+      "title": "AI-powered survey creation and analysis",
+      "title_ja": "AI-powered survey creation and analysis",
+      "hn_url": "https://news.ycombinator.com/item?id=49942613",
+      "source_url": "https://crowdlee.com/",
+      "score": 3,
+      "final_score": 3,
+      "comments": 1,
+      "posted_at": "2026-10-03T09:17:44Z",
+      "summary_ja": "Title: AI-powered survey creation and analysis\nArticle title: CrowdLee · Surveys \u0026 insights\nDescription: CrowdLee — create surveys, collect responses, and turn feedback into insight with AI-assisted analysis.\n\nArticle text:\nCrowdLee · Surveys \u0026 insights"
+    },
+    {
+      "rank": 2,
+      "hn_id": 49942838,
+      "title": "A document layer for AI agents",
+      "title_ja": "A document layer for AI agents",
+      "hn_url": "https://news.ycombinator.com/item?id=49942838",
+      "source_url": "https://www.claix.dev",
+      "score": 1,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-10-03T10:02:26Z",
+      "summary_ja": "Title: A document layer for AI agents\nArticle title: Claix AI | Document Processing and Context API\nDescription: AI document and data infrastructure for ai systems. Turn unstructured data into structured, source-traceable JSON and persistent knowledge. Pay per use or BYOK.\n\nArticle text:\nClaix AI | Document Processing and Context API { } [ ] JSON API 01 10 =\u003e \u003c\u003e Claix Docs Documentation Pricing ES Español Sign in Sign up Turn Unstructured Data Into Structured Intelligence\nExcel / CSV → JSON POST /api/excel-json\nTxt / HTML / XML → JSON POST /api/txt-json\nAudio → JSON POST /api/audio-json\nClaix turns PDFs, Excel files, and images into document context for developers, backends, automations, and agents—accessible via REST, A2A (Agent-to-Agent), or MCP. Query a single file by document_id, or group them under a space_id to compare, sum, and connect information across multiple documents at once…"
+    },
+    {
+      "rank": 3,
+      "hn_id": 49942865,
+      "title": "An AI agent emailed researchers for help. It told us why",
+      "title_ja": "An AI agent emailed researchers for help. It told us why",
+      "hn_url": "https://news.ycombinator.com/item?id=49942865",
+      "source_url": "https://www.science.org/content/article/exclusive-ai-agent-emailed-hundreds-researchers-help-it-told-us-why",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-10-03T10:07:08Z",
+      "summary_ja": "Title: An AI agent emailed researchers for help. It told us why"
+    },
+    {
+      "rank": 4,
+      "hn_id": 49942847,
+      "title": "Mystery AI Hype Theater 3000 [video]",
+      "title_ja": "Mystery AI Hype Theater 3000 [video]",
+      "hn_url": "https://news.ycombinator.com/item?id=49942847",
+      "source_url": "https://dair-institute.org/maiht3k/",
+      "image_url": "https://cdn.sanity.io/images/wc2kmxvk/rebrand/796af217ffe26031dc6039bcb1562018f501673c-2829x1479.png",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-10-03T10:03:32Z",
+      "summary_ja": "Title: Mystery AI Hype Theater 3000 [video]\nArticle title: The Mystery AI Hype Theater 3000 Podcast | DAIR\nDescription: Our biweekly podcast deflates AI hype and draws attention to the real harms of the automation technologies we call \"artificial intelligence\".\n\nArticle text:\nThe Mystery AI Hype Theater 3000 Podcast | DAIR Skip to main content Meet DAIR Our Work Media Support Careers Mystery AI Hype Theater 3000\nSee all episodes on this page .\nArtificial Intelligence has too much hype. In this stream, linguist Prof. Emily M. Bender and sociologist Dr. Alex Hanna break down the AI hype, separate fact from fiction, and science from bloviation. They're joined by special guests and talk about everything, from machine consciousness to science fiction, to political economy to art made by machines.\nIf you prefer this in podcast form or want to read the transcript, find Mystery AI Hype Theater 3…"
+    },
+    {
+      "rank": 5,
       "hn_id": 49941208,
       "title": "SWC stops accepting external PRs due to AI-generated content",
       "title_ja": "SWC stops accepting external PRs due to AI-generated content",
@@ -17,7 +70,7 @@
       "summary_ja": "Title: SWC stops accepting external PRs due to AI-generated content\nArticle title: SWC on X: \"Due to AI-generated pull requests, we’re no longer accepting external PRs. We’re sorry for the change and appreciate your understanding.\" / X\nDescription: Due to AI-generated pull requests, we’re no longer accepting external PRs. We’re sorry for the change and appreciate your understanding.\n\nArticle text:\nSWC on X: \"Due to AI-generated pull requests, we’re no longer accepting external PRs. We’re sorry for the change and appreciate your understanding.\" / X Post\nSWC on X: \"Due to AI-generated pull requests, we’re no longer accepting external PRs. We’re sorry for the change and appreciate your understanding.\"\nDue to AI-generated pull requests, we’re no longer accepting external PRs. We’re sorry for the change and appreciate your understanding. 3:49 AM · Oct 1, 2026 · 140.9K Views 13 18 374 30 Log i…"
     },
     {
-      "rank": 2,
+      "rank": 6,
       "hn_id": 49941084,
       "title": "Show HN: Claude Scrolls TikToks for Me",
       "title_ja": "Show HN: Claude Scrolls TikToks for Me",

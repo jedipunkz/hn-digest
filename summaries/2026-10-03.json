@@ -1,0 +1,33 @@
+{
+  "date": "2026-10-03",
+  "generated_at": "2026-10-03T04:05:04Z",
+  "articles": [
+    {
+      "rank": 1,
+      "hn_id": 49941208,
+      "title": "SWC stops accepting external PRs due to AI-generated content",
+      "title_ja": "SWC stops accepting external PRs due to AI-generated content",
+      "hn_url": "https://news.ycombinator.com/item?id=49941208",
+      "source_url": "https://twitter.com/swc_rs/status/2105505428893544847",
+      "image_url": "https://pbs.twimg.com/profile_images/1492792129781133312/l_t9vML4_400x400.jpg",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-10-03T03:45:39Z",
+      "summary_ja": "Title: SWC stops accepting external PRs due to AI-generated content\nArticle title: SWC on X: \"Due to AI-generated pull requests, we’re no longer accepting external PRs. We’re sorry for the change and appreciate your understanding.\" / X\nDescription: Due to AI-generated pull requests, we’re no longer accepting external PRs. We’re sorry for the change and appreciate your understanding.\n\nArticle text:\nSWC on X: \"Due to AI-generated pull requests, we’re no longer accepting external PRs. We’re sorry for the change and appreciate your understanding.\" / X Post\nSWC on X: \"Due to AI-generated pull requests, we’re no longer accepting external PRs. We’re sorry for the change and appreciate your understanding.\"\nDue to AI-generated pull requests, we’re no longer accepting external PRs. We’re sorry for the change and appreciate your understanding. 3:49 AM · Oct 1, 2026 · 140.9K Views 13 18 374 30 Log i…"
+    },
+    {
+      "rank": 2,
+      "hn_id": 49941084,
+      "title": "Show HN: Claude Scrolls TikToks for Me",
+      "title_ja": "Show HN: Claude Scrolls TikToks for Me",
+      "hn_url": "https://news.ycombinator.com/item?id=49941084",
+      "source_url": "https://tryrevline.com/",
+      "score": 1,
+      "final_score": 1,
+      "comments": 1,
+      "posted_at": "2026-10-03T03:14:40Z",
+      "summary_ja": "Title: Show HN: Claude Scrolls TikToks for Me\nArticle title: Revline: find the hooks that already worked\nDescription: Track TikTok and Instagram, keep every viral hook, video and hashtag in one library, and ask an AI agent what to post next.\n\nArticle text:\nRevline: find the hooks that already worked Revline Product How it works Pricing Get started Find what works\non the feed\nSearch millions of viral posts across TikTok and Instagram.\n30K+ videos found Make a better bet on your next post Start 3-day free trial DISCOVER Find the formats\nalready taking off\nSearch TikTok and Instagram by category, audience, product, or creative angle. See the posts worth studying with their source and the evidence behind each match.\nProduct walkthrough @ crystalchavis AI workflows @ spectrume.ai Business automation @ justine.derosa Consulting pitch @ nicksadler.io Automation demo @ alex.carterr__ Brand enter…"
+    }
+  ]
+}

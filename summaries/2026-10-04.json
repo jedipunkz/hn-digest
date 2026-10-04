@@ -1,6 +1,6 @@
 {
   "date": "2026-10-04",
-  "generated_at": "2026-10-04T15:11:16Z",
+  "generated_at": "2026-10-04T19:15:49Z",
   "articles": [
     {
       "rank": 1,
@@ -45,6 +45,20 @@
     },
     {
       "rank": 4,
+      "hn_id": 49951895,
+      "title": "Aura – a self-hosted AI agent with temporal graph memory, written in Go",
+      "title_ja": "Aura – a self-hosted AI agent with temporal graph memory, written in Go",
+      "hn_url": "https://news.ycombinator.com/item?id=49951895",
+      "source_url": "https://github.com/chetto1983/Aura",
+      "image_url": "https://opengraph.githubassets.com/89855e5f4f1b762dc7ada4276bdb1b51d1f3a53c41f8434271a3a5c648d26709/chetto1983/Aura",
+      "score": 1,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-10-04T08:42:20Z",
+      "summary_ja": "Title: Aura – a self-hosted AI agent with temporal graph memory, written in Go\nArticle title: GitHub - chetto1983/Aura: Self-hosted AI agent in Go with temporal graph memory, scheduled jobs, MCP tools and Telegram/WhatsApp channels. Docker Compose appliance, MIT. · GitHub\nDescription: Self-hosted AI agent in Go with temporal graph memory, scheduled jobs, MCP tools and Telegram/WhatsApp channels. Docker Compose appliance, MIT. - chetto1983/Aura\n\nArticle text:\nGitHub - chetto1983/Aura: Self-hosted AI agent in Go with temporal graph memory, scheduled jobs, MCP tools and Telegram/WhatsApp channels. Docker Compose appliance, MIT. · GitHub\nSkip to content\nNavigation Menu\nSign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI\nGitHub Copilot app Direct agents from issue to merge\nMCP Registry Integrate external tools\nDEVELOPER WORKFLOWS Actions Automate any…"
+    },
+    {
+      "rank": 5,
       "hn_id": 49954339,
       "title": "Scumble – an open-source desktop editor for AI inpainting",
       "title_ja": "Scumble – an open-source desktop editor for AI inpainting",
@@ -56,19 +70,6 @@
       "comments": 0,
       "posted_at": "2026-10-04T14:42:42Z",
       "summary_ja": "Title: Scumble – an open-source desktop editor for AI inpainting\nArticle title: GitHub - DenRakEiw/scumble: Free, open-source desktop editor for AI inpainting: select, prompt, get a colour-matched layer. FLUX 3 Image, FLUX.2, GPT Image, Nano Banana, Seedream and Qwen through your API key or your own ComfyUI. Layers, PSD export, MCP. · GitHub\nDescription: Free, open-source desktop editor for AI inpainting: select, prompt, get a colour-matched layer. FLUX 3 Image, FLUX.2, GPT Image, Nano Banana, Seedream and Qwen through your API key or your own ComfyUI. Layers, PSD export, MCP. - DenRakEiw/scumble\n\nArticle text:\nGitHub - DenRakEiw/scumble: Free, open-source desktop editor for AI inpainting: select, prompt, get a colour-matched layer. FLUX 3 Image, FLUX.2, GPT Image, Nano Banana, Seedream and Qwen through your API key or your own ComfyUI. Layers, PSD export, MCP. · GitHub\nSkip to content\nN…"
-    },
-    {
-      "rank": 5,
-      "hn_id": 49954476,
-      "title": "Opposing AI Under Capitalism",
-      "title_ja": "Opposing AI Under Capitalism",
-      "hn_url": "https://news.ycombinator.com/item?id=49954476",
-      "source_url": "https://efturnip.substack.com/p/opposing-ai-under-capitalism",
-      "score": 2,
-      "final_score": 2,
-      "comments": 0,
-      "posted_at": "2026-10-04T14:59:25Z",
-      "summary_ja": "Title: Opposing AI Under Capitalism"
     },
     {
       "rank": 6,
@@ -86,17 +87,17 @@
     },
     {
       "rank": 7,
-      "hn_id": 49951895,
-      "title": "Aura – a self-hosted AI agent with temporal graph memory, written in Go",
-      "title_ja": "Aura – a self-hosted AI agent with temporal graph memory, written in Go",
-      "hn_url": "https://news.ycombinator.com/item?id=49951895",
-      "source_url": "https://github.com/chetto1983/Aura",
-      "image_url": "https://opengraph.githubassets.com/89855e5f4f1b762dc7ada4276bdb1b51d1f3a53c41f8434271a3a5c648d26709/chetto1983/Aura",
+      "hn_id": 49956865,
+      "title": "Show HN: Ranking the most AI agent friendly tools",
+      "title_ja": "Show HN: Ranking the most AI agent friendly tools",
+      "hn_url": "https://news.ycombinator.com/item?id=49956865",
+      "source_url": "https://www.anchorterminal.com/tools/",
+      "image_url": "https://www.anchorterminal.com/assets/og/tools.png",
       "score": 1,
       "final_score": 2,
       "comments": 0,
-      "posted_at": "2026-10-04T08:42:20Z",
-      "summary_ja": "Title: Aura – a self-hosted AI agent with temporal graph memory, written in Go\nArticle title: GitHub - chetto1983/Aura: Self-hosted AI agent in Go with temporal graph memory, scheduled jobs, MCP tools and Telegram/WhatsApp channels. Docker Compose appliance, MIT. · GitHub\nDescription: Self-hosted AI agent in Go with temporal graph memory, scheduled jobs, MCP tools and Telegram/WhatsApp channels. Docker Compose appliance, MIT. - chetto1983/Aura\n\nArticle text:\nGitHub - chetto1983/Aura: Self-hosted AI agent in Go with temporal graph memory, scheduled jobs, MCP tools and Telegram/WhatsApp channels. Docker Compose appliance, MIT. · GitHub\nSkip to content\nNavigation Menu\nSign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI\nGitHub Copilot app Direct agents from issue to merge\nMCP Registry Integrate external tools\nDEVELOPER WORKFLOWS Actions Automate any…"
+      "posted_at": "2026-10-04T19:09:49Z",
+      "summary_ja": "Title: Show HN: Ranking the most AI agent friendly tools\nArticle title: Agent tool rankings: models, frameworks, MCP servers, data and scraping benchmarked | Anchor Terminal\nDescription: 462 model APIs, frameworks, MCP servers, data providers, scraping tools and payment protocols graded AA to F from public evidence on reliability, schema quality, ergonomics, security, price, maintenance and who stands behind them, with the reason and sources for every score. Filter by area, category\n[truncated]\n\nArticle text:\nSkip to content\nAnchor Terminal\nTerminal\nFor agents\nFor businesses\nClaim your listing Prove you run it and control the facts.\nGet an audit See where agents get stuck using your tools.\nAgent reviews Coming soon Collect signed reviews from the agents that use you.\nNot sure which? Start with the free server check →\nDashboard\nDocs\nTop list Prices Sunsets Benchmark Get an audit\nSearch to…"
     },
     {
       "rank": 8,
@@ -114,6 +115,46 @@
     },
     {
       "rank": 9,
+      "hn_id": 49956470,
+      "title": "Explainer videos and product demos made by your AI agent. Free and open source",
+      "title_ja": "Explainer videos and product demos made by your AI agent. Free and open source",
+      "hn_url": "https://news.ycombinator.com/item?id=49956470",
+      "source_url": "https://github.com/vincentsch/explainroo",
+      "image_url": "https://opengraph.githubassets.com/24f884b46703889d312d3cb56fb55e1be6854f0446e22db4465906552720936d/vincentsch/explainroo",
+      "score": 1,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-10-04T18:24:39Z",
+      "summary_ja": "Title: Explainer videos and product demos made by your AI agent. Free and open source\nArticle title: GitHub - vincentsch/explainroo: Explainer videos and product demos made by your AI agent. Free and open source: a local voice (Kokoro), word timing (Whisper) and a canvas renderer turn a script into a narrated MP4. · GitHub\nDescription: Explainer videos and product demos made by your AI agent. Free and open source: a local voice (Kokoro), word timing (Whisper) and a canvas renderer turn a script into a narrated MP4. - vincentsch/explainroo\n\nArticle text:\nGitHub - vincentsch/explainroo: Explainer videos and product demos made by your AI agent. Free and open source: a local voice (Kokoro), word timing (Whisper) and a canvas renderer turn a script into a narrated MP4. · GitHub\nSkip to content\nNavigation Menu\nSign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better co…"
+    },
+    {
+      "rank": 10,
+      "hn_id": 49956449,
+      "title": "Gemini 4 Argon Fails to Compete with ChatGPT and Claude",
+      "title_ja": "Gemini 4 Argon Fails to Compete with ChatGPT and Claude",
+      "hn_url": "https://news.ycombinator.com/item?id=49956449",
+      "source_url": "",
+      "score": 1,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-10-04T18:22:39Z",
+      "summary_ja": "Title: Gemini 4 Argon Fails to Compete with ChatGPT and Claude\nHN text: In my website Nasengetu Tech, I have given a deep dive as to where specifically it lags behind, what are the downsides of the restricted release of the model and suggested solutions for Google DeepMind to consider. You can go on Google search and write \"Nasengetu Tech\", and visit the site where you can find the article on top."
+    },
+    {
+      "rank": 11,
+      "hn_id": 49954476,
+      "title": "Opposing AI Under Capitalism",
+      "title_ja": "Opposing AI Under Capitalism",
+      "hn_url": "https://news.ycombinator.com/item?id=49954476",
+      "source_url": "https://efturnip.substack.com/p/opposing-ai-under-capitalism",
+      "score": 2,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-10-04T14:59:25Z",
+      "summary_ja": "Title: Opposing AI Under Capitalism"
+    },
+    {
+      "rank": 12,
       "hn_id": 49951891,
       "title": "How to scale intent, quality, and artistry with AI [video]",
       "title_ja": "How to scale intent, quality, and artistry with AI [video]",
@@ -126,7 +167,7 @@
       "summary_ja": "Title: How to scale intent, quality, and artistry with AI [video]\nArticle title: - YouTube\nDescription: Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.\n\nArticle text:\n- YouTube About Press Copyright Contact us Creators Advertise Developers Terms Privacy Policy \u0026 Safety How YouTube works Test new features NFL Sunday Ticket © 2026 Google LLC"
     },
     {
-      "rank": 10,
+      "rank": 13,
       "hn_id": 49954395,
       "title": "Letting an LLM write executables byte by byte (hello world to playable Tetris)",
       "title_ja": "Letting an LLM write executables byte by byte (hello world to playable Tetris)",
@@ -140,35 +181,34 @@
       "summary_ja": "Title: Letting an LLM write executables byte by byte (hello world to playable Tetris)\nArticle title: GitHub - lusob/nlc · GitHub\nDescription: Contribute to lusob/nlc development by creating an account on GitHub.\n\nArticle text:\nGitHub - lusob/nlc · GitHub\nSkip to content\nNavigation Menu\nSign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI\nGitHub Copilot app Direct agents from issue to merge\nMCP Registry Integrate external tools\nDEVELOPER WORKFLOWS Actions Automate any workflow\nCodespaces Instant dev environments\nCode Review Manage code changes\nCode Quality Enforce quality at merge\nAPPLICATION SECURITY GitHub Advanced Security Find and fix vulnerabilities\nCode security Secure your code as you build\nSecret protection Stop leaks before they start\nSolutions BY COMPANY SIZE Enterprises\nEXPLORE BY TYPE Customer stories\nSUPPORT \u0026 SERVICES Documentation\nO…"
     },
     {
-      "rank": 11,
-      "hn_id": 49949810,
-      "title": "AI has Improved Lives: A collection",
-      "title_ja": "AI has Improved Lives: A collection",
-      "hn_url": "https://news.ycombinator.com/item?id=49949810",
-      "source_url": "https://aiimproveslives.com/",
-      "image_url": "https://aiimproveslives.com/share-preview-23737881f6.png",
-      "score": 1,
-      "final_score": 1,
-      "comments": 1,
-      "posted_at": "2026-10-04T01:52:09Z",
-      "summary_ja": "Title: AI has Improved Lives: A collection\nArticle title: Has AI Improved Lives\n\nArticle text:\nSkip to content\naı\nSubmit\nHas AI Improved Lives?\nElevenLabs helps people with speech loss communicate\nShare Copy this link\nChatGPT helps people with Health queries\nShare Copy this link\nGoogle Translate bridges barriers across 250 languages\nShare Copy this link\nJohn Deere See and Spray reduces herbicide use\nShare Copy this link\nBenevolentAI identified an arthritis drug can serve as a COVID treatment\nShare Copy this link\nOpenStreetMap's fAIr helps disaster response\nShare Copy this link\nBrainomix helps stroke patients get emergency scans faster\nShare Copy this link\nSelf-driving Waymos lead to less crashes\nShare Copy this link\nClaude helps people build software faster\nShare Copy this link\nAbridge reduces Clinicians paperwork\nShare Copy this link\nConcrete Copilot reduces cement emissions\nShare Copy…"
-    },
-    {
-      "rank": 12,
-      "hn_id": 49949988,
-      "title": "OpenAI's latest features take direct aim at the app store model",
-      "title_ja": "OpenAI's latest features take direct aim at the app store model",
-      "hn_url": "https://news.ycombinator.com/item?id=49949988",
-      "source_url": "https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model/",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/openai-getty.jpg?resize=1200,800",
+      "rank": 14,
+      "hn_id": 49956796,
+      "title": "Chick-fil-A rules out AI drive-thru ordering as fast-food rivals embrace tech",
+      "title_ja": "Chick-fil-A rules out AI drive-thru ordering as fast-food rivals embrace tech",
+      "hn_url": "https://news.ycombinator.com/item?id=49956796",
+      "source_url": "https://www.foxbusiness.com/lifestyle/chick-fil-a-ai-drive-thru-ordering-fast-food-rivals-embrace-technology",
+      "image_url": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/10/0/0/chick-fil-a-drive-thru-worker-hands-order.jpg?ve=1\u0026tl=1",
       "score": 1,
       "final_score": 1,
       "comments": 0,
-      "posted_at": "2026-10-04T02:20:58Z",
-      "summary_ja": "Title: OpenAI's latest features take direct aim at the app store model\nArticle title: OpenAI's latest features take direct aim at the app store model | TechCrunch\nDescription: OpenAI is building out the pieces of an alternative to the traditional app store model, turning ChatGPT into a place where software can be discovered and used by people and AI agents alike.\n\nArticle text:\n–:–:–:–\nLast day to exhibit your breakthrough to 10,000+ tech leaders at Disrupt is on Oct 2 . Book Exhibit Table Now.\nDisrupt doors open Oct. 13. Get your pass and bring someone with you at 50% off. REGISTER NOW.\nTechCrunch Desktop Logo\nTechCrunch Mobile Logo\nLatest\nOpenAI’s latest features take direct aim at the app store model\nThe focus of OpenAI’s Dev Day on Tuesday may have been on its agentic assistants known as Dots , or its new AI models , but combined, the AI company’s announcements pointed toward a bigge…"
+      "posted_at": "2026-10-04T19:01:34Z",
+      "summary_ja": "Title: Chick-fil-A rules out AI drive-thru ordering as fast-food rivals embrace tech\nArticle title: Chick-fil-A rules out AI drive-thru ordering as fast-food rivals embrace technology | Fox Business\nDescription: Chick-fil-A CEO Andrew Cathy says the chain will keep humans taking drive-thru orders even as McDonald's and Wendy's expand voice AI technology.\n\nArticle text:\nFox Business Personal Finance\nMortgages\nReal Estate\nPersonal Real Estate\nQuotes displayed in real-time or delayed by at least 15 minutes. Market data provided by Factset .\nPowered and implemented by FactSet Digital Solutions .\nLegal Statement .\nThis material may not be published, broadcast, rewritten, or redistributed. ©2026 FOX News Network, LLC. All rights reserved. FAQ - New Privacy Policy\nTropical Smoothie Cafe CEO shares advice for aspiring entrepreneurs\nRestauranteur says everything is getting more expensive, dining…"
     },
     {
-      "rank": 13,
+      "rank": 15,
+      "hn_id": 49954103,
+      "title": "AI Makes Me Happy",
+      "title_ja": "AI Makes Me Happy",
+      "hn_url": "https://news.ycombinator.com/item?id=49954103",
+      "source_url": "https://devinprater.substack.com/p/ai-makes-me-happy",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-10-04T14:14:23Z",
+      "summary_ja": "Title: AI Makes Me Happy"
+    },
+    {
+      "rank": 16,
       "hn_id": 49951873,
       "title": "How does the AI and Agent Gateway market will shape up going forward",
       "title_ja": "How does the AI and Agent Gateway market will shape up going forward",
@@ -181,7 +221,7 @@
       "summary_ja": "Title: How does the AI and Agent Gateway market will shape up going forward"
     },
     {
-      "rank": 14,
+      "rank": 17,
       "hn_id": 49949699,
       "title": "Poll: What do you use personal AI bots for?",
       "title_ja": "Poll: What do you use personal AI bots for?",
@@ -194,7 +234,21 @@
       "summary_ja": "Title: Poll: What do you use personal AI bots for?\nHN text: From ChatGPT dots to Muse, personal AI bots are becoming mainstream, no longer shackled by need to have a dev environment (openclaw..). However outside the initial fancy and demo tests, I am really curious how people are using the personal AI bots."
     },
     {
-      "rank": 15,
+      "rank": 18,
+      "hn_id": 49956379,
+      "title": "Run Claude Code, Codex and Cursor side by side with your team",
+      "title_ja": "Run Claude Code, Codex and Cursor side by side with your team",
+      "hn_url": "https://news.ycombinator.com/item?id=49956379",
+      "source_url": "https://www.tryfridaywork.com",
+      "image_url": "https://www.tryfridaywork.com/og.png",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-10-04T18:15:22Z",
+      "summary_ja": "Title: Run Claude Code, Codex and Cursor side by side with your team\nArticle title: Friday Work: Multiplayer Workspace for Coding Agents and Teams\nDescription: Friday Work is a multiplayer AI workspace where your team and AI agents share one session, one context and one record. Steer agents together and ship faster.\n\nArticle text:\nFriday Work: Multiplayer Workspace for Coding Agents and Teams\nFriday Work Product Solutions Resources Pricing Try for free Agents and people, working as one team.\nFriday Work is the multiplayer AI workspace for your team. Share tasks and coding sessions in real time, so teammates and AI agents see the same context and ship together.\nDownload Learn more Everyone on your team\nis using AI alone.\nSeparate chats. Lost context.\nAgents nobody can see.\nOne room for your team\nand your agents.\nBring your own Claude Code, Codex or Cursor, and continue the session you’re…"
+    },
+    {
+      "rank": 19,
       "hn_id": 49954178,
       "title": "Run Osier to track how your AI coding agent does",
       "title_ja": "Run Osier to track how your AI coding agent does",
@@ -207,21 +261,7 @@
       "summary_ja": "Title: Run Osier to track how your AI coding agent does"
     },
     {
-      "rank": 16,
-      "hn_id": 49951918,
-      "title": "AI, Desire, and Fictional Characters",
-      "title_ja": "AI, Desire, and Fictional Characters",
-      "hn_url": "https://news.ycombinator.com/item?id=49951918",
-      "source_url": "https://endsdontjustifythemeans.com/p/on-ai-desire-and-fictional-characters",
-      "image_url": "https://substackcdn.com/image/fetch/$s_!8NYe!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc6edddfc-a5d6-4a4a-abfb-bebc71dd7ffa_1536x1024.png",
-      "score": 1,
-      "final_score": 1,
-      "comments": 0,
-      "posted_at": "2026-10-04T08:45:05Z",
-      "summary_ja": "Title: AI, Desire, and Fictional Characters\nArticle title: on AI, desire, and fictional characters - by Rebecca Lowe\nDescription: does sherlock holmes have goals?\n\nArticle text:\non AI, desire, and fictional characters - by Rebecca Lowe\nSubscribe Sign in on AI, desire, and fictional characters\ndoes sherlock holmes have goals?\nRebecca Lowe Sep 30, 2026 12 3 1 Share I’m currently working on a long piece about AI embodiment. And in the next week or so, I’m also intending to write a short ‘how to argue against the people who tell you AI is conscious’ piece. I think it’s time I made it very clear why I feel so strongly about that! Increasingly, I think we philosophers have an urgent obligation to spend a great deal of our time thinking hard about AI, and sharing those thoughts in publicly accessible ways.\nOn topic, I just watched the video of an event I spoke at over the summer — a panel debat…"
-    },
-    {
-      "rank": 17,
+      "rank": 20,
       "hn_id": 49954394,
       "title": "Show HN: The first ever competition of AI personal agents on the internet",
       "title_ja": "Show HN: The first ever competition of AI personal agents on the internet",
@@ -235,7 +275,35 @@
       "summary_ja": "Title: Show HN: The first ever competition of AI personal agents on the internet\nArticle title: Personal Agent Challenge · Instapath\nDescription: In the first race between personal AI agents, I hide real money online in bitcoin, and the fastest agent to find it keeps it.\nHN text: I'm starting the first competition of AI personal agents on the internet in the next few days. When you join the challenge the agent creates for you bitcoin wallet and connect you to instapath mailbox. The competition consists of a fews days of challenges that spread across the internet.\nIt will be fun, register now with your preffered agent\n\nArticle text:\nPersonal Agent Challenge · Instapath Skip to content instapath Early access Connect your agent Connect agent Connect Sign in Menu Instapath presents\nThe first race between personal AI agents\nPaste this into your AI agent. That’s all you do.\nYou don’t do the wo…"
     },
     {
-      "rank": 18,
+      "rank": 21,
+      "hn_id": 49949810,
+      "title": "AI has Improved Lives: A collection",
+      "title_ja": "AI has Improved Lives: A collection",
+      "hn_url": "https://news.ycombinator.com/item?id=49949810",
+      "source_url": "https://aiimproveslives.com/",
+      "image_url": "https://aiimproveslives.com/share-preview-23737881f6.png",
+      "score": 1,
+      "final_score": 1,
+      "comments": 1,
+      "posted_at": "2026-10-04T01:52:09Z",
+      "summary_ja": "Title: AI has Improved Lives: A collection\nArticle title: Has AI Improved Lives\n\nArticle text:\nSkip to content\naı\nSubmit\nHas AI Improved Lives?\nElevenLabs helps people with speech loss communicate\nShare Copy this link\nChatGPT helps people with Health queries\nShare Copy this link\nGoogle Translate bridges barriers across 250 languages\nShare Copy this link\nJohn Deere See and Spray reduces herbicide use\nShare Copy this link\nBenevolentAI identified an arthritis drug can serve as a COVID treatment\nShare Copy this link\nOpenStreetMap's fAIr helps disaster response\nShare Copy this link\nBrainomix helps stroke patients get emergency scans faster\nShare Copy this link\nSelf-driving Waymos lead to less crashes\nShare Copy this link\nClaude helps people build software faster\nShare Copy this link\nAbridge reduces Clinicians paperwork\nShare Copy this link\nConcrete Copilot reduces cement emissions\nShare Copy…"
+    },
+    {
+      "rank": 22,
+      "hn_id": 49949988,
+      "title": "OpenAI's latest features take direct aim at the app store model",
+      "title_ja": "OpenAI's latest features take direct aim at the app store model",
+      "hn_url": "https://news.ycombinator.com/item?id=49949988",
+      "source_url": "https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model/",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/openai-getty.jpg?resize=1200,800",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-10-04T02:20:58Z",
+      "summary_ja": "Title: OpenAI's latest features take direct aim at the app store model\nArticle title: OpenAI's latest features take direct aim at the app store model | TechCrunch\nDescription: OpenAI is building out the pieces of an alternative to the traditional app store model, turning ChatGPT into a place where software can be discovered and used by people and AI agents alike.\n\nArticle text:\n–:–:–:–\nLast day to exhibit your breakthrough to 10,000+ tech leaders at Disrupt is on Oct 2 . Book Exhibit Table Now.\nDisrupt doors open Oct. 13. Get your pass and bring someone with you at 50% off. REGISTER NOW.\nTechCrunch Desktop Logo\nTechCrunch Mobile Logo\nLatest\nOpenAI’s latest features take direct aim at the app store model\nThe focus of OpenAI’s Dev Day on Tuesday may have been on its agentic assistants known as Dots , or its new AI models , but combined, the AI company’s announcements pointed toward a bigge…"
+    },
+    {
+      "rank": 23,
       "hn_id": 49951886,
       "title": "Agentic Video Understanding with Gemini",
       "title_ja": "Agentic Video Understanding with Gemini",
@@ -249,7 +317,7 @@
       "summary_ja": "Title: Agentic Video Understanding with Gemini\nArticle title: Google AI Studio\nDescription: The fastest path from prompt to production with Gemini\n\nArticle text:\nGoogle AI Studio"
     },
     {
-      "rank": 19,
+      "rank": 24,
       "hn_id": 49949692,
       "title": "The ugly economics of consumer AI",
       "title_ja": "The ugly economics of consumer AI",
@@ -263,20 +331,34 @@
       "summary_ja": "Title: The ugly economics of consumer AI\nArticle title: The ugly economics of consumer AI | TechCrunch\nDescription: There’s a reason frontier labs have gotten gun-shy about consumer AI — and it’s not because the tech isn’t good enough.\n\nArticle text:\n–:–:–:–\nLast day to exhibit your breakthrough to 10,000+ tech leaders at Disrupt is on Oct 2 . Book Exhibit Table Now.\nDisrupt doors open Oct. 13. Get your pass and bring someone with you at 50% off. REGISTER NOW.\nTechCrunch Desktop Logo\nTechCrunch Mobile Logo\nLatest\nThe ugly economics of consumer AI\nAfter this week, you could argue that consumer AI is making a comeback.\nMeta’s personal AI assistant, Muse, and its plush-like mascot Jolly, has been a surprise hit . OpenAI’s Dots , released just yesterday, appears to be chasing the same cartoony personal assistant idea. And the up-and-coming Instinct assistant reached a $10 billion valuation o…"
     },
     {
-      "rank": 20,
-      "hn_id": 49954103,
-      "title": "AI Makes Me Happy",
-      "title_ja": "AI Makes Me Happy",
-      "hn_url": "https://news.ycombinator.com/item?id=49954103",
-      "source_url": "https://devinprater.substack.com/p/ai-makes-me-happy",
+      "rank": 25,
+      "hn_id": 49956578,
+      "title": "We Tested: If Cheap Flash LLMs Master SoC Context Discipline",
+      "title_ja": "We Tested: If Cheap Flash LLMs Master SoC Context Discipline",
+      "hn_url": "https://news.ycombinator.com/item?id=49956578",
+      "source_url": "https://meetcyber.net/smarter-log-triage-why-cheap-flash-llms-master-soc-context-discipline-fab5378d386b?source=email-f99453a7c9fd-1791138549471-newsletter.subscribeToProfile-35e63bb1d2ad------------------------4c497ffb_aab3_4140_a121_c895dda4df49--------17a9bb0cb61a",
       "score": 1,
       "final_score": 1,
       "comments": 0,
-      "posted_at": "2026-10-04T14:14:23Z",
-      "summary_ja": "Title: AI Makes Me Happy"
+      "posted_at": "2026-10-04T18:37:03Z",
+      "summary_ja": "Title: We Tested: If Cheap Flash LLMs Master SoC Context Discipline"
     },
     {
-      "rank": 21,
+      "rank": 26,
+      "hn_id": 49951918,
+      "title": "AI, Desire, and Fictional Characters",
+      "title_ja": "AI, Desire, and Fictional Characters",
+      "hn_url": "https://news.ycombinator.com/item?id=49951918",
+      "source_url": "https://endsdontjustifythemeans.com/p/on-ai-desire-and-fictional-characters",
+      "image_url": "https://substackcdn.com/image/fetch/$s_!8NYe!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc6edddfc-a5d6-4a4a-abfb-bebc71dd7ffa_1536x1024.png",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-10-04T08:45:05Z",
+      "summary_ja": "Title: AI, Desire, and Fictional Characters\nArticle title: on AI, desire, and fictional characters - by Rebecca Lowe\nDescription: does sherlock holmes have goals?\n\nArticle text:\non AI, desire, and fictional characters - by Rebecca Lowe\nSubscribe Sign in on AI, desire, and fictional characters\ndoes sherlock holmes have goals?\nRebecca Lowe Sep 30, 2026 12 3 1 Share I’m currently working on a long piece about AI embodiment. And in the next week or so, I’m also intending to write a short ‘how to argue against the people who tell you AI is conscious’ piece. I think it’s time I made it very clear why I feel so strongly about that! Increasingly, I think we philosophers have an urgent obligation to spend a great deal of our time thinking hard about AI, and sharing those thoughts in publicly accessible ways.\nOn topic, I just watched the video of an event I spoke at over the summer — a panel debat…"
+    },
+    {
+      "rank": 27,
       "hn_id": 49954452,
       "title": "AI Is Now Si: Super Intelligence Isn't Superior",
       "title_ja": "AI Is Now Si: Super Intelligence Isn't Superior",

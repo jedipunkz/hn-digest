@@ -1,6 +1,6 @@
 {
   "date": "2026-10-04",
-  "generated_at": "2026-10-04T09:24:45Z",
+  "generated_at": "2026-10-04T15:11:16Z",
   "articles": [
     {
       "rank": 1,
@@ -32,20 +32,60 @@
     },
     {
       "rank": 3,
-      "hn_id": 49949681,
-      "title": "AI rebrand causes 'unprecedented' demand for Slovenian website names",
-      "title_ja": "AI rebrand causes 'unprecedented' demand for Slovenian website names",
-      "hn_url": "https://news.ycombinator.com/item?id=49949681",
-      "source_url": "https://www.bbc.com/news/articles/cqx2z23xj555o",
-      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/4ff7/live/977f2bf0-bd85-11f1-ab03-fd866f8788d0.jpg",
-      "score": 2,
-      "final_score": 2,
-      "comments": 0,
-      "posted_at": "2026-10-04T01:27:11Z",
-      "summary_ja": "Title: AI rebrand causes 'unprecedented' demand for Slovenian website names\nArticle title: Trump's AI rebrand causes 'unprecedented' demand for Slovenian website names\nDescription: The president wants AI to be called super intelligence - or SI - the same initials used by Slovenian domains.\n\nArticle text:\nSkip to content Watch Live British Broadcasting Corporation Home\nHome News Sport Business Technology Health Culture Arts Travel Earth Audio Video Live Documentaries Weather Newsletters Watch Live Trump's AI rebrand causes 'unprecedented' demand for Slovenian website names\nShare Save Add as preferred on Google Laura Cress Technology reporter Getty Images Donald Trump's push to rename AI may be behind an \"unprecedented\" rise in registrations for domain names in Slovenia, according to its official national registry.\nThe US president wants AI to be called \"super intelligence\" - or SI - the s…"
+      "hn_id": 49954166,
+      "title": "Why Linux is picking up at a rapid pace for AI usage?",
+      "title_ja": "Why Linux is picking up at a rapid pace for AI usage?",
+      "hn_url": "https://news.ycombinator.com/item?id=49954166",
+      "source_url": "",
+      "score": 4,
+      "final_score": 5,
+      "comments": 4,
+      "posted_at": "2026-10-04T14:21:01Z",
+      "summary_ja": "Title: Why Linux is picking up at a rapid pace for AI usage?"
     },
     {
       "rank": 4,
+      "hn_id": 49954339,
+      "title": "Scumble – an open-source desktop editor for AI inpainting",
+      "title_ja": "Scumble – an open-source desktop editor for AI inpainting",
+      "hn_url": "https://news.ycombinator.com/item?id=49954339",
+      "source_url": "https://github.com/DenRakEiw/scumble",
+      "image_url": "https://opengraph.githubassets.com/12b96874e20dfec885f96f2a77d837cbca949be05246c32b5e328056eb7fd8a8/DenRakEiw/scumble",
+      "score": 1,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-10-04T14:42:42Z",
+      "summary_ja": "Title: Scumble – an open-source desktop editor for AI inpainting\nArticle title: GitHub - DenRakEiw/scumble: Free, open-source desktop editor for AI inpainting: select, prompt, get a colour-matched layer. FLUX 3 Image, FLUX.2, GPT Image, Nano Banana, Seedream and Qwen through your API key or your own ComfyUI. Layers, PSD export, MCP. · GitHub\nDescription: Free, open-source desktop editor for AI inpainting: select, prompt, get a colour-matched layer. FLUX 3 Image, FLUX.2, GPT Image, Nano Banana, Seedream and Qwen through your API key or your own ComfyUI. Layers, PSD export, MCP. - DenRakEiw/scumble\n\nArticle text:\nGitHub - DenRakEiw/scumble: Free, open-source desktop editor for AI inpainting: select, prompt, get a colour-matched layer. FLUX 3 Image, FLUX.2, GPT Image, Nano Banana, Seedream and Qwen through your API key or your own ComfyUI. Layers, PSD export, MCP. · GitHub\nSkip to content\nN…"
+    },
+    {
+      "rank": 5,
+      "hn_id": 49954476,
+      "title": "Opposing AI Under Capitalism",
+      "title_ja": "Opposing AI Under Capitalism",
+      "hn_url": "https://news.ycombinator.com/item?id=49954476",
+      "source_url": "https://efturnip.substack.com/p/opposing-ai-under-capitalism",
+      "score": 2,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-10-04T14:59:25Z",
+      "summary_ja": "Title: Opposing AI Under Capitalism"
+    },
+    {
+      "rank": 6,
+      "hn_id": 49954107,
+      "title": "The first ever competition of AI personal agents on the internet is kicking off",
+      "title_ja": "The first ever competition of AI personal agents on the internet is kicking off",
+      "hn_url": "https://news.ycombinator.com/item?id=49954107",
+      "source_url": "https://twitter.com/ddaniel3141/status/2106748777826529457",
+      "image_url": "https://pbs.twimg.com/amplify_video_thumb/2106744458981015552/img/ViG7C3OB-7VxDUzh?format=webp\u0026name=large",
+      "score": 2,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-10-04T14:14:40Z",
+      "summary_ja": "Title: The first ever competition of AI personal agents on the internet is kicking off\nArticle title: Dvir on X: \"The first ever competition of ai personal agents\non the internet is kicking off !\nPrepare your preferred ai agent for the competition.. it's starting soon but no one knows when 🤐\nRead more \u0026 register now your preferred agent here\nhttps://t.co/UA3W3g4dFf\n(statistics will be shared … / X\nDescription: The first ever competition of ai personal agents\non the internet is kicking off !\nPrepare your preferred ai agent for the competition.. it's starting soon but no one knows when 🤐\nRead more \u0026 register now your preferred agent here\nhttps://t.co/UA3W3g4dFf\n(statistics will be shared at the end o…\n\nArticle text:\nDvir on X: \"The first ever competition of ai personal agents\non the internet is kicking off !\nPrepare your preferred ai agent for the competition.. it's starting soon but no on…"
+    },
+    {
+      "rank": 7,
       "hn_id": 49951895,
       "title": "Aura – a self-hosted AI agent with temporal graph memory, written in Go",
       "title_ja": "Aura – a self-hosted AI agent with temporal graph memory, written in Go",
@@ -59,7 +99,21 @@
       "summary_ja": "Title: Aura – a self-hosted AI agent with temporal graph memory, written in Go\nArticle title: GitHub - chetto1983/Aura: Self-hosted AI agent in Go with temporal graph memory, scheduled jobs, MCP tools and Telegram/WhatsApp channels. Docker Compose appliance, MIT. · GitHub\nDescription: Self-hosted AI agent in Go with temporal graph memory, scheduled jobs, MCP tools and Telegram/WhatsApp channels. Docker Compose appliance, MIT. - chetto1983/Aura\n\nArticle text:\nGitHub - chetto1983/Aura: Self-hosted AI agent in Go with temporal graph memory, scheduled jobs, MCP tools and Telegram/WhatsApp channels. Docker Compose appliance, MIT. · GitHub\nSkip to content\nNavigation Menu\nSign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI\nGitHub Copilot app Direct agents from issue to merge\nMCP Registry Integrate external tools\nDEVELOPER WORKFLOWS Actions Automate any…"
     },
     {
-      "rank": 5,
+      "rank": 8,
+      "hn_id": 49949681,
+      "title": "AI rebrand causes 'unprecedented' demand for Slovenian website names",
+      "title_ja": "AI rebrand causes 'unprecedented' demand for Slovenian website names",
+      "hn_url": "https://news.ycombinator.com/item?id=49949681",
+      "source_url": "https://www.bbc.com/news/articles/cqx2z23xj555o",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/4ff7/live/977f2bf0-bd85-11f1-ab03-fd866f8788d0.jpg",
+      "score": 2,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-10-04T01:27:11Z",
+      "summary_ja": "Title: AI rebrand causes 'unprecedented' demand for Slovenian website names\nArticle title: Trump's AI rebrand causes 'unprecedented' demand for Slovenian website names\nDescription: The president wants AI to be called super intelligence - or SI - the same initials used by Slovenian domains.\n\nArticle text:\nSkip to content Watch Live British Broadcasting Corporation Home\nHome News Sport Business Technology Health Culture Arts Travel Earth Audio Video Live Documentaries Weather Newsletters Watch Live Trump's AI rebrand causes 'unprecedented' demand for Slovenian website names\nShare Save Add as preferred on Google Laura Cress Technology reporter Getty Images Donald Trump's push to rename AI may be behind an \"unprecedented\" rise in registrations for domain names in Slovenia, according to its official national registry.\nThe US president wants AI to be called \"super intelligence\" - or SI - the s…"
+    },
+    {
+      "rank": 9,
       "hn_id": 49951891,
       "title": "How to scale intent, quality, and artistry with AI [video]",
       "title_ja": "How to scale intent, quality, and artistry with AI [video]",
@@ -72,21 +126,21 @@
       "summary_ja": "Title: How to scale intent, quality, and artistry with AI [video]\nArticle title: - YouTube\nDescription: Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.\n\nArticle text:\n- YouTube About Press Copyright Contact us Creators Advertise Developers Terms Privacy Policy \u0026 Safety How YouTube works Test new features NFL Sunday Ticket © 2026 Google LLC"
     },
     {
-      "rank": 6,
-      "hn_id": 49951918,
-      "title": "AI, Desire, and Fictional Characters",
-      "title_ja": "AI, Desire, and Fictional Characters",
-      "hn_url": "https://news.ycombinator.com/item?id=49951918",
-      "source_url": "https://endsdontjustifythemeans.com/p/on-ai-desire-and-fictional-characters",
-      "image_url": "https://substackcdn.com/image/fetch/$s_!8NYe!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc6edddfc-a5d6-4a4a-abfb-bebc71dd7ffa_1536x1024.png",
+      "rank": 10,
+      "hn_id": 49954395,
+      "title": "Letting an LLM write executables byte by byte (hello world to playable Tetris)",
+      "title_ja": "Letting an LLM write executables byte by byte (hello world to playable Tetris)",
+      "hn_url": "https://news.ycombinator.com/item?id=49954395",
+      "source_url": "https://github.com/lusob/nlc",
+      "image_url": "https://opengraph.githubassets.com/0cd998af7e48e8f9588d23e0a562835f6f7692ba257d48d7a7cbf9093c96b4e0/lusob/nlc",
       "score": 1,
-      "final_score": 1,
+      "final_score": 2,
       "comments": 0,
-      "posted_at": "2026-10-04T08:45:05Z",
-      "summary_ja": "Title: AI, Desire, and Fictional Characters\nArticle title: on AI, desire, and fictional characters - by Rebecca Lowe\nDescription: does sherlock holmes have goals?\n\nArticle text:\non AI, desire, and fictional characters - by Rebecca Lowe\nSubscribe Sign in on AI, desire, and fictional characters\ndoes sherlock holmes have goals?\nRebecca Lowe Sep 30, 2026 12 3 1 Share I’m currently working on a long piece about AI embodiment. And in the next week or so, I’m also intending to write a short ‘how to argue against the people who tell you AI is conscious’ piece. I think it’s time I made it very clear why I feel so strongly about that! Increasingly, I think we philosophers have an urgent obligation to spend a great deal of our time thinking hard about AI, and sharing those thoughts in publicly accessible ways.\nOn topic, I just watched the video of an event I spoke at over the summer — a panel debat…"
+      "posted_at": "2026-10-04T14:48:16Z",
+      "summary_ja": "Title: Letting an LLM write executables byte by byte (hello world to playable Tetris)\nArticle title: GitHub - lusob/nlc · GitHub\nDescription: Contribute to lusob/nlc development by creating an account on GitHub.\n\nArticle text:\nGitHub - lusob/nlc · GitHub\nSkip to content\nNavigation Menu\nSign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI\nGitHub Copilot app Direct agents from issue to merge\nMCP Registry Integrate external tools\nDEVELOPER WORKFLOWS Actions Automate any workflow\nCodespaces Instant dev environments\nCode Review Manage code changes\nCode Quality Enforce quality at merge\nAPPLICATION SECURITY GitHub Advanced Security Find and fix vulnerabilities\nCode security Secure your code as you build\nSecret protection Stop leaks before they start\nSolutions BY COMPANY SIZE Enterprises\nEXPLORE BY TYPE Customer stories\nSUPPORT \u0026 SERVICES Documentation\nO…"
     },
     {
-      "rank": 7,
+      "rank": 11,
       "hn_id": 49949810,
       "title": "AI has Improved Lives: A collection",
       "title_ja": "AI has Improved Lives: A collection",
@@ -100,34 +154,7 @@
       "summary_ja": "Title: AI has Improved Lives: A collection\nArticle title: Has AI Improved Lives\n\nArticle text:\nSkip to content\naı\nSubmit\nHas AI Improved Lives?\nElevenLabs helps people with speech loss communicate\nShare Copy this link\nChatGPT helps people with Health queries\nShare Copy this link\nGoogle Translate bridges barriers across 250 languages\nShare Copy this link\nJohn Deere See and Spray reduces herbicide use\nShare Copy this link\nBenevolentAI identified an arthritis drug can serve as a COVID treatment\nShare Copy this link\nOpenStreetMap's fAIr helps disaster response\nShare Copy this link\nBrainomix helps stroke patients get emergency scans faster\nShare Copy this link\nSelf-driving Waymos lead to less crashes\nShare Copy this link\nClaude helps people build software faster\nShare Copy this link\nAbridge reduces Clinicians paperwork\nShare Copy this link\nConcrete Copilot reduces cement emissions\nShare Copy…"
     },
     {
-      "rank": 8,
-      "hn_id": 49951886,
-      "title": "Agentic Video Understanding with Gemini",
-      "title_ja": "Agentic Video Understanding with Gemini",
-      "hn_url": "https://news.ycombinator.com/item?id=49951886",
-      "source_url": "https://aistudio.google.com/learn/agentic-video-understanding-with-gemini",
-      "image_url": "https://ai.google.dev/static/site-assets/images/share-ais-513315318.png",
-      "score": 1,
-      "final_score": 1,
-      "comments": 0,
-      "posted_at": "2026-10-04T08:40:22Z",
-      "summary_ja": "Title: Agentic Video Understanding with Gemini\nArticle title: Google AI Studio\nDescription: The fastest path from prompt to production with Gemini\n\nArticle text:\nGoogle AI Studio"
-    },
-    {
-      "rank": 9,
-      "hn_id": 49951873,
-      "title": "How does the AI and Agent Gateway market will shape up going forward",
-      "title_ja": "How does the AI and Agent Gateway market will shape up going forward",
-      "hn_url": "https://news.ycombinator.com/item?id=49951873",
-      "source_url": "",
-      "score": 1,
-      "final_score": 1,
-      "comments": 0,
-      "posted_at": "2026-10-04T08:39:15Z",
-      "summary_ja": "Title: How does the AI and Agent Gateway market will shape up going forward"
-    },
-    {
-      "rank": 10,
+      "rank": 12,
       "hn_id": 49949988,
       "title": "OpenAI's latest features take direct aim at the app store model",
       "title_ja": "OpenAI's latest features take direct aim at the app store model",
@@ -141,7 +168,20 @@
       "summary_ja": "Title: OpenAI's latest features take direct aim at the app store model\nArticle title: OpenAI's latest features take direct aim at the app store model | TechCrunch\nDescription: OpenAI is building out the pieces of an alternative to the traditional app store model, turning ChatGPT into a place where software can be discovered and used by people and AI agents alike.\n\nArticle text:\n–:–:–:–\nLast day to exhibit your breakthrough to 10,000+ tech leaders at Disrupt is on Oct 2 . Book Exhibit Table Now.\nDisrupt doors open Oct. 13. Get your pass and bring someone with you at 50% off. REGISTER NOW.\nTechCrunch Desktop Logo\nTechCrunch Mobile Logo\nLatest\nOpenAI’s latest features take direct aim at the app store model\nThe focus of OpenAI’s Dev Day on Tuesday may have been on its agentic assistants known as Dots , or its new AI models , but combined, the AI company’s announcements pointed toward a bigge…"
     },
     {
-      "rank": 11,
+      "rank": 13,
+      "hn_id": 49951873,
+      "title": "How does the AI and Agent Gateway market will shape up going forward",
+      "title_ja": "How does the AI and Agent Gateway market will shape up going forward",
+      "hn_url": "https://news.ycombinator.com/item?id=49951873",
+      "source_url": "",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-10-04T08:39:15Z",
+      "summary_ja": "Title: How does the AI and Agent Gateway market will shape up going forward"
+    },
+    {
+      "rank": 14,
       "hn_id": 49949699,
       "title": "Poll: What do you use personal AI bots for?",
       "title_ja": "Poll: What do you use personal AI bots for?",
@@ -154,7 +194,62 @@
       "summary_ja": "Title: Poll: What do you use personal AI bots for?\nHN text: From ChatGPT dots to Muse, personal AI bots are becoming mainstream, no longer shackled by need to have a dev environment (openclaw..). However outside the initial fancy and demo tests, I am really curious how people are using the personal AI bots."
     },
     {
-      "rank": 12,
+      "rank": 15,
+      "hn_id": 49954178,
+      "title": "Run Osier to track how your AI coding agent does",
+      "title_ja": "Run Osier to track how your AI coding agent does",
+      "hn_url": "https://news.ycombinator.com/item?id=49954178",
+      "source_url": "https://www.npmjs.com/package/osier-dev",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-10-04T14:22:05Z",
+      "summary_ja": "Title: Run Osier to track how your AI coding agent does"
+    },
+    {
+      "rank": 16,
+      "hn_id": 49951918,
+      "title": "AI, Desire, and Fictional Characters",
+      "title_ja": "AI, Desire, and Fictional Characters",
+      "hn_url": "https://news.ycombinator.com/item?id=49951918",
+      "source_url": "https://endsdontjustifythemeans.com/p/on-ai-desire-and-fictional-characters",
+      "image_url": "https://substackcdn.com/image/fetch/$s_!8NYe!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc6edddfc-a5d6-4a4a-abfb-bebc71dd7ffa_1536x1024.png",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-10-04T08:45:05Z",
+      "summary_ja": "Title: AI, Desire, and Fictional Characters\nArticle title: on AI, desire, and fictional characters - by Rebecca Lowe\nDescription: does sherlock holmes have goals?\n\nArticle text:\non AI, desire, and fictional characters - by Rebecca Lowe\nSubscribe Sign in on AI, desire, and fictional characters\ndoes sherlock holmes have goals?\nRebecca Lowe Sep 30, 2026 12 3 1 Share I’m currently working on a long piece about AI embodiment. And in the next week or so, I’m also intending to write a short ‘how to argue against the people who tell you AI is conscious’ piece. I think it’s time I made it very clear why I feel so strongly about that! Increasingly, I think we philosophers have an urgent obligation to spend a great deal of our time thinking hard about AI, and sharing those thoughts in publicly accessible ways.\nOn topic, I just watched the video of an event I spoke at over the summer — a panel debat…"
+    },
+    {
+      "rank": 17,
+      "hn_id": 49954394,
+      "title": "Show HN: The first ever competition of AI personal agents on the internet",
+      "title_ja": "Show HN: The first ever competition of AI personal agents on the internet",
+      "hn_url": "https://news.ycombinator.com/item?id=49954394",
+      "source_url": "https://instapath.ai/personal-agent-challenge",
+      "image_url": "https://instapath.ai/personal-agent-challenge/preview",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-10-04T14:48:09Z",
+      "summary_ja": "Title: Show HN: The first ever competition of AI personal agents on the internet\nArticle title: Personal Agent Challenge · Instapath\nDescription: In the first race between personal AI agents, I hide real money online in bitcoin, and the fastest agent to find it keeps it.\nHN text: I'm starting the first competition of AI personal agents on the internet in the next few days. When you join the challenge the agent creates for you bitcoin wallet and connect you to instapath mailbox. The competition consists of a fews days of challenges that spread across the internet.\nIt will be fun, register now with your preffered agent\n\nArticle text:\nPersonal Agent Challenge · Instapath Skip to content instapath Early access Connect your agent Connect agent Connect Sign in Menu Instapath presents\nThe first race between personal AI agents\nPaste this into your AI agent. That’s all you do.\nYou don’t do the wo…"
+    },
+    {
+      "rank": 18,
+      "hn_id": 49951886,
+      "title": "Agentic Video Understanding with Gemini",
+      "title_ja": "Agentic Video Understanding with Gemini",
+      "hn_url": "https://news.ycombinator.com/item?id=49951886",
+      "source_url": "https://aistudio.google.com/learn/agentic-video-understanding-with-gemini",
+      "image_url": "https://ai.google.dev/static/site-assets/images/share-ais-513315318.png",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-10-04T08:40:22Z",
+      "summary_ja": "Title: Agentic Video Understanding with Gemini\nArticle title: Google AI Studio\nDescription: The fastest path from prompt to production with Gemini\n\nArticle text:\nGoogle AI Studio"
+    },
+    {
+      "rank": 19,
       "hn_id": 49949692,
       "title": "The ugly economics of consumer AI",
       "title_ja": "The ugly economics of consumer AI",
@@ -166,6 +261,33 @@
       "comments": 0,
       "posted_at": "2026-10-04T01:29:12Z",
       "summary_ja": "Title: The ugly economics of consumer AI\nArticle title: The ugly economics of consumer AI | TechCrunch\nDescription: There’s a reason frontier labs have gotten gun-shy about consumer AI — and it’s not because the tech isn’t good enough.\n\nArticle text:\n–:–:–:–\nLast day to exhibit your breakthrough to 10,000+ tech leaders at Disrupt is on Oct 2 . Book Exhibit Table Now.\nDisrupt doors open Oct. 13. Get your pass and bring someone with you at 50% off. REGISTER NOW.\nTechCrunch Desktop Logo\nTechCrunch Mobile Logo\nLatest\nThe ugly economics of consumer AI\nAfter this week, you could argue that consumer AI is making a comeback.\nMeta’s personal AI assistant, Muse, and its plush-like mascot Jolly, has been a surprise hit . OpenAI’s Dots , released just yesterday, appears to be chasing the same cartoony personal assistant idea. And the up-and-coming Instinct assistant reached a $10 billion valuation o…"
+    },
+    {
+      "rank": 20,
+      "hn_id": 49954103,
+      "title": "AI Makes Me Happy",
+      "title_ja": "AI Makes Me Happy",
+      "hn_url": "https://news.ycombinator.com/item?id=49954103",
+      "source_url": "https://devinprater.substack.com/p/ai-makes-me-happy",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-10-04T14:14:23Z",
+      "summary_ja": "Title: AI Makes Me Happy"
+    },
+    {
+      "rank": 21,
+      "hn_id": 49954452,
+      "title": "AI Is Now Si: Super Intelligence Isn't Superior",
+      "title_ja": "AI Is Now Si: Super Intelligence Isn't Superior",
+      "hn_url": "https://news.ycombinator.com/item?id=49954452",
+      "source_url": "https://tej.as/blog/super-intelligence-isnt-superior",
+      "image_url": "https://tej.as/img/og/blog/super-intelligence-isnt-superior.png",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-10-04T14:56:12Z",
+      "summary_ja": "Title: AI Is Now Si: Super Intelligence Isn't Superior\nArticle title: AI Is Now SI: Super Intelligence Isn't Superior\nDescription: US agencies now call AI Super Intelligence (SI), yet its definition didn\n\nArticle text:\nAI Is Now SI: Super Intelligence Isn't Superior Tejas Kumar . Speaking\nMore Speaking Talks, topics and fees\nStory My testimony, in chapters\nDark Tejas Kumar / Writing AI Is Now SI: Super Intelligence Isn't Superior\nOct 4, 2026 / 12 min read / Share on 𝕏\nBy Tejas Kumar , AI Engineer at IBM\nThis morning Elon Musk posted 3 lines on X : “No more AI”, “SI”, “It’s better”. By lunchtime in Berlin it had 2.8 million views and he’d agreed to rename SpaceXAI to SpaceXSI . He’s following an executive order that President Trump signed on 29 September, which tells every US federal agency to say “Super Intelligence” instead of “Artificial Intelligence” and to “not acknowledge the usage…"
     }
   ]
 }

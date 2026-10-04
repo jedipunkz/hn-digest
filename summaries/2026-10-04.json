@@ -1,9 +1,23 @@
 {
   "date": "2026-10-04",
-  "generated_at": "2026-10-04T02:27:00Z",
+  "generated_at": "2026-10-04T09:24:45Z",
   "articles": [
     {
       "rank": 1,
+      "hn_id": 49951888,
+      "title": "Impact of AI Search Summaries on Website Traffic",
+      "title_ja": "Impact of AI Search Summaries on Website Traffic",
+      "hn_url": "https://news.ycombinator.com/item?id=49951888",
+      "source_url": "https://arxiv.org/abs/2602.18455",
+      "image_url": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+      "score": 3,
+      "final_score": 6,
+      "comments": 1,
+      "posted_at": "2026-10-04T08:40:59Z",
+      "summary_ja": "Title: Impact of AI Search Summaries on Website Traffic\nArticle title: [2602.18455] Impact of AI Search Summaries on Website Traffic: Evidence from Google AI Overviews and Wikipedia\nDescription: Abstract page for arXiv paper 2602.18455: Impact of AI Search Summaries on Website Traffic: Evidence from Google AI Overviews and Wikipedia\n\nArticle text:\nSkip to main content\nSearch\nSubmit\nDonate\nLog in\nSearch arXiv\nPress Enter to search · Advanced search\n--\u003e\nComputer Science \u003e Computers and Society\n[Submitted on 5 Feb 2026 ( v1 ), last revised 2 Sep 2026 (this version, v6)]\nTitle: Impact of AI Search Summaries on Website Traffic: Evidence from Google AI Overviews and Wikipedia\nAbstract: Search engines increasingly display AI-generated answers above organic links, potentially displacing traffic to upstream publishers. We estimate the impact of Google's AI Overviews (AIO) on Wikipedia's search tr…"
+    },
+    {
+      "rank": 2,
       "hn_id": 49949804,
       "title": "What if we created a local AI tool to measure your security?",
       "title_ja": "What if we created a local AI tool to measure your security?",
@@ -17,7 +31,7 @@
       "summary_ja": "Title: What if we created a local AI tool to measure your security?\nArticle title: GitHub - just-not-google/BiNeuron: BiNeuron is a local AI assistant that detects programming languages from requests/files, selects specialized models based on hardware, and generates code/docs/analysis via configurable prompts. It extracts text from PDFs, Word, images (OCR), and other formats, tran\n[truncated]\nDescription: BiNeuron is a local AI assistant that detects programming languages from requests/files, selects specialized models based on hardware, and generates code/docs/analysis via configurable prompts. It extracts text from PDFs, Word, images (OCR), and other formats, translates, filters profanity, and uses\n[truncated]\n\nArticle text:\nGitHub - just-not-google/BiNeuron: BiNeuron is a local AI assistant that detects programming languages from requests/files, selects specialized models based on har…"
     },
     {
-      "rank": 2,
+      "rank": 3,
       "hn_id": 49949681,
       "title": "AI rebrand causes 'unprecedented' demand for Slovenian website names",
       "title_ja": "AI rebrand causes 'unprecedented' demand for Slovenian website names",
@@ -31,7 +45,48 @@
       "summary_ja": "Title: AI rebrand causes 'unprecedented' demand for Slovenian website names\nArticle title: Trump's AI rebrand causes 'unprecedented' demand for Slovenian website names\nDescription: The president wants AI to be called super intelligence - or SI - the same initials used by Slovenian domains.\n\nArticle text:\nSkip to content Watch Live British Broadcasting Corporation Home\nHome News Sport Business Technology Health Culture Arts Travel Earth Audio Video Live Documentaries Weather Newsletters Watch Live Trump's AI rebrand causes 'unprecedented' demand for Slovenian website names\nShare Save Add as preferred on Google Laura Cress Technology reporter Getty Images Donald Trump's push to rename AI may be behind an \"unprecedented\" rise in registrations for domain names in Slovenia, according to its official national registry.\nThe US president wants AI to be called \"super intelligence\" - or SI - the s…"
     },
     {
-      "rank": 3,
+      "rank": 4,
+      "hn_id": 49951895,
+      "title": "Aura – a self-hosted AI agent with temporal graph memory, written in Go",
+      "title_ja": "Aura – a self-hosted AI agent with temporal graph memory, written in Go",
+      "hn_url": "https://news.ycombinator.com/item?id=49951895",
+      "source_url": "https://github.com/chetto1983/Aura",
+      "image_url": "https://opengraph.githubassets.com/89855e5f4f1b762dc7ada4276bdb1b51d1f3a53c41f8434271a3a5c648d26709/chetto1983/Aura",
+      "score": 1,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-10-04T08:42:20Z",
+      "summary_ja": "Title: Aura – a self-hosted AI agent with temporal graph memory, written in Go\nArticle title: GitHub - chetto1983/Aura: Self-hosted AI agent in Go with temporal graph memory, scheduled jobs, MCP tools and Telegram/WhatsApp channels. Docker Compose appliance, MIT. · GitHub\nDescription: Self-hosted AI agent in Go with temporal graph memory, scheduled jobs, MCP tools and Telegram/WhatsApp channels. Docker Compose appliance, MIT. - chetto1983/Aura\n\nArticle text:\nGitHub - chetto1983/Aura: Self-hosted AI agent in Go with temporal graph memory, scheduled jobs, MCP tools and Telegram/WhatsApp channels. Docker Compose appliance, MIT. · GitHub\nSkip to content\nNavigation Menu\nSign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI\nGitHub Copilot app Direct agents from issue to merge\nMCP Registry Integrate external tools\nDEVELOPER WORKFLOWS Actions Automate any…"
+    },
+    {
+      "rank": 5,
+      "hn_id": 49951891,
+      "title": "How to scale intent, quality, and artistry with AI [video]",
+      "title_ja": "How to scale intent, quality, and artistry with AI [video]",
+      "hn_url": "https://news.ycombinator.com/item?id=49951891",
+      "source_url": "https://www.youtube.com/watch?v=GLvFTMtw4Jk",
+      "score": 2,
+      "final_score": 2,
+      "comments": 1,
+      "posted_at": "2026-10-04T08:41:58Z",
+      "summary_ja": "Title: How to scale intent, quality, and artistry with AI [video]\nArticle title: - YouTube\nDescription: Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.\n\nArticle text:\n- YouTube About Press Copyright Contact us Creators Advertise Developers Terms Privacy Policy \u0026 Safety How YouTube works Test new features NFL Sunday Ticket © 2026 Google LLC"
+    },
+    {
+      "rank": 6,
+      "hn_id": 49951918,
+      "title": "AI, Desire, and Fictional Characters",
+      "title_ja": "AI, Desire, and Fictional Characters",
+      "hn_url": "https://news.ycombinator.com/item?id=49951918",
+      "source_url": "https://endsdontjustifythemeans.com/p/on-ai-desire-and-fictional-characters",
+      "image_url": "https://substackcdn.com/image/fetch/$s_!8NYe!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc6edddfc-a5d6-4a4a-abfb-bebc71dd7ffa_1536x1024.png",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-10-04T08:45:05Z",
+      "summary_ja": "Title: AI, Desire, and Fictional Characters\nArticle title: on AI, desire, and fictional characters - by Rebecca Lowe\nDescription: does sherlock holmes have goals?\n\nArticle text:\non AI, desire, and fictional characters - by Rebecca Lowe\nSubscribe Sign in on AI, desire, and fictional characters\ndoes sherlock holmes have goals?\nRebecca Lowe Sep 30, 2026 12 3 1 Share I’m currently working on a long piece about AI embodiment. And in the next week or so, I’m also intending to write a short ‘how to argue against the people who tell you AI is conscious’ piece. I think it’s time I made it very clear why I feel so strongly about that! Increasingly, I think we philosophers have an urgent obligation to spend a great deal of our time thinking hard about AI, and sharing those thoughts in publicly accessible ways.\nOn topic, I just watched the video of an event I spoke at over the summer — a panel debat…"
+    },
+    {
+      "rank": 7,
       "hn_id": 49949810,
       "title": "AI has Improved Lives: A collection",
       "title_ja": "AI has Improved Lives: A collection",
@@ -45,7 +100,34 @@
       "summary_ja": "Title: AI has Improved Lives: A collection\nArticle title: Has AI Improved Lives\n\nArticle text:\nSkip to content\naı\nSubmit\nHas AI Improved Lives?\nElevenLabs helps people with speech loss communicate\nShare Copy this link\nChatGPT helps people with Health queries\nShare Copy this link\nGoogle Translate bridges barriers across 250 languages\nShare Copy this link\nJohn Deere See and Spray reduces herbicide use\nShare Copy this link\nBenevolentAI identified an arthritis drug can serve as a COVID treatment\nShare Copy this link\nOpenStreetMap's fAIr helps disaster response\nShare Copy this link\nBrainomix helps stroke patients get emergency scans faster\nShare Copy this link\nSelf-driving Waymos lead to less crashes\nShare Copy this link\nClaude helps people build software faster\nShare Copy this link\nAbridge reduces Clinicians paperwork\nShare Copy this link\nConcrete Copilot reduces cement emissions\nShare Copy…"
     },
     {
-      "rank": 4,
+      "rank": 8,
+      "hn_id": 49951886,
+      "title": "Agentic Video Understanding with Gemini",
+      "title_ja": "Agentic Video Understanding with Gemini",
+      "hn_url": "https://news.ycombinator.com/item?id=49951886",
+      "source_url": "https://aistudio.google.com/learn/agentic-video-understanding-with-gemini",
+      "image_url": "https://ai.google.dev/static/site-assets/images/share-ais-513315318.png",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-10-04T08:40:22Z",
+      "summary_ja": "Title: Agentic Video Understanding with Gemini\nArticle title: Google AI Studio\nDescription: The fastest path from prompt to production with Gemini\n\nArticle text:\nGoogle AI Studio"
+    },
+    {
+      "rank": 9,
+      "hn_id": 49951873,
+      "title": "How does the AI and Agent Gateway market will shape up going forward",
+      "title_ja": "How does the AI and Agent Gateway market will shape up going forward",
+      "hn_url": "https://news.ycombinator.com/item?id=49951873",
+      "source_url": "",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-10-04T08:39:15Z",
+      "summary_ja": "Title: How does the AI and Agent Gateway market will shape up going forward"
+    },
+    {
+      "rank": 10,
       "hn_id": 49949988,
       "title": "OpenAI's latest features take direct aim at the app store model",
       "title_ja": "OpenAI's latest features take direct aim at the app store model",
@@ -59,7 +141,7 @@
       "summary_ja": "Title: OpenAI's latest features take direct aim at the app store model\nArticle title: OpenAI's latest features take direct aim at the app store model | TechCrunch\nDescription: OpenAI is building out the pieces of an alternative to the traditional app store model, turning ChatGPT into a place where software can be discovered and used by people and AI agents alike.\n\nArticle text:\n–:–:–:–\nLast day to exhibit your breakthrough to 10,000+ tech leaders at Disrupt is on Oct 2 . Book Exhibit Table Now.\nDisrupt doors open Oct. 13. Get your pass and bring someone with you at 50% off. REGISTER NOW.\nTechCrunch Desktop Logo\nTechCrunch Mobile Logo\nLatest\nOpenAI’s latest features take direct aim at the app store model\nThe focus of OpenAI’s Dev Day on Tuesday may have been on its agentic assistants known as Dots , or its new AI models , but combined, the AI company’s announcements pointed toward a bigge…"
     },
     {
-      "rank": 5,
+      "rank": 11,
       "hn_id": 49949699,
       "title": "Poll: What do you use personal AI bots for?",
       "title_ja": "Poll: What do you use personal AI bots for?",
@@ -72,7 +154,7 @@
       "summary_ja": "Title: Poll: What do you use personal AI bots for?\nHN text: From ChatGPT dots to Muse, personal AI bots are becoming mainstream, no longer shackled by need to have a dev environment (openclaw..). However outside the initial fancy and demo tests, I am really curious how people are using the personal AI bots."
     },
     {
-      "rank": 6,
+      "rank": 12,
       "hn_id": 49949692,
       "title": "The ugly economics of consumer AI",
       "title_ja": "The ugly economics of consumer AI",

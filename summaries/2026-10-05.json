@@ -1,6 +1,6 @@
 {
   "date": "2026-10-05",
-  "generated_at": "2026-10-05T01:40:31Z",
+  "generated_at": "2026-10-05T08:29:03Z",
   "articles": [
     {
       "rank": 1,
@@ -18,6 +18,19 @@
     },
     {
       "rank": 2,
+      "hn_id": 49961774,
+      "title": "EmTech Future 2026: When AI Meets Everything",
+      "title_ja": "EmTech Future 2026: When AI Meets Everything",
+      "hn_url": "https://news.ycombinator.com/item?id=49961774",
+      "source_url": "https://www.technologyreview.com/2026/10/05/1145413/emtech-future-2026-when-ai-meets-everything/",
+      "score": 1,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-10-05T07:34:12Z",
+      "summary_ja": "Title: EmTech Future 2026: When AI Meets Everything\nArticle title: EmTech Future 2026: When AI Meets Everything | MIT Technology Review\nDescription: Yossi Matias, Vice President \u0026amp; Head of Google Research, explores how AI is beginning to reshape biology, infrastructure, manufacturing, and science, and why its greatest impact may come when it intersects with other fields. Step inside the newsroom with our MIT Technology Review editors for shar\n[truncated]\n\nArticle text:\nSkip to Content Menu MIT Technology Review MIT Technology Review The Big Story\nMenu MIT Technology Review MIT Technology Review The Big Story\nEmTech Future 2026: When AI Meets Everything\nPlus a special MIT Technology Review Insiders Panel\nMIT Technology Review archive page\nOnly available to MIT Technology Review subscribers.\nYossi Matias, Vice President \u0026 Head of Google Research, explores how AI is beginning to reshape…"
+    },
+    {
+      "rank": 3,
       "hn_id": 49959733,
       "title": "L402 edge cache for AI agents paying over Lightning",
       "title_ja": "L402 edge cache for AI agents paying over Lightning",
@@ -31,7 +44,49 @@
       "summary_ja": "Title: L402 edge cache for AI agents paying over Lightning\nArticle title: GitHub - CharlesStrogish/bitcoin-stratigraphy-mcp: An enterprise-grade, L402-gated AI Notary Hub and MCP data server vending thermodynamic Bitcoin telemetry. Features 15 canonical tools, OpenTimestamps state anchoring, a free sandbox, 100-call Macro-Macaroon batch payments, and LangChain/LlamaIndex\n[truncated]\nDescription: An enterprise-grade, L402-gated AI Notary Hub and MCP data server vending thermodynamic Bitcoin telemetry. Features 15 canonical tools, OpenTimestamps state anchoring, a free sandbox, 100-call Macro-Macaroon batch payments, and LangChain/LlamaIndex cookbooks. Built for autonomous AI agents settling\n[truncated]\n\nArticle text:\nGitHub - CharlesStrogish/bitcoin-stratigraphy-mcp: An enterprise-grade, L402-gated AI Notary Hub and MCP data server vending thermodynamic Bitcoin telemetry. Features 15 cano…"
     },
     {
-      "rank": 3,
+      "rank": 4,
+      "hn_id": 49962099,
+      "title": "Show HN: Decision models remove training, not production ML Engineering",
+      "title_ja": "Show HN: Decision models remove training, not production ML Engineering",
+      "hn_url": "https://news.ycombinator.com/item?id=49962099",
+      "source_url": "https://agentunicorn.ai/research/decision-models-production",
+      "image_url": "https://agentunicorn.ai/__l5e/assets-v1/706e0c2c-eed1-4f81-8068-8897a00964cb/decision-models-cover.png",
+      "score": 1,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-10-05T08:20:50Z",
+      "summary_ja": "Title: Show HN: Decision models remove training, not production ML Engineering\nArticle title: Jev-like Decision Models Make Prototyping Trivial. Production Still Requires ML Engineering | AgentUnicorn.AI Research\nDescription: A reusable decision model can remove task-specific training from the critical path. It cannot remove task specification, representative evidence, calibration, selective automation, replay, monitoring, or change control. What actually changes in the ML lifecycle — and what does not.\n\nArticle text:\nJev-like Decision Models Make Prototyping Trivial. Production Still Requires ML Engineering | AgentUnicorn.AI Research AgentUnicorn .AI Enterprise Industries Fintech Retail \u0026 E-commerce Airlines Telecom Insurance Marketplaces Real Estate Travel \u0026 Hospitality Automotive Clinics \u0026 Dental All industries → Research \u0026 Insights About us Book a meeting Request pricing Research \u0026 I…"
+    },
+    {
+      "rank": 5,
+      "hn_id": 49961802,
+      "title": "Show HN: I built a 3D globe of upcoming AI conferences",
+      "title_ja": "Show HN: I built a 3D globe of upcoming AI conferences",
+      "hn_url": "https://news.ycombinator.com/item?id=49961802",
+      "source_url": "https://aieventsworld.com/en/",
+      "image_url": "https://aieventsworld.com/og-image.png",
+      "score": 2,
+      "final_score": 2,
+      "comments": 1,
+      "posted_at": "2026-10-05T07:39:23Z",
+      "summary_ja": "Title: Show HN: I built a 3D globe of upcoming AI conferences\nArticle title: AI Conference Calendar – Upcoming AI Events | AI Events World\nDescription: Find your next AI conference on a live world map: upcoming AI conferences, summits and events in the next 12 months. Past events are removed automatically.\n\nArticle text:\nEN ▼ English Español Français Deutsch Italiano Nederlands\nLive AI Events\nAI Events World\nAI conferences in the next 12 months.\nPast events are removed.\nOne event per city.\nWorld Summit AI 2026 – Amsterdam, Netherlands (2026-10-07 to 2026-10-08) World Summit AI 2026 is an AI summit taking place October 7-8, 2026 at Taets Art \u0026 Event Park, Amsterdam.\nCypher 2026 – Bengaluru, India (2026-10-07 to 2026-10-09) Cypher 2026 is the 10th edition of the AI summit and expo taking place October 7-9, 2026 at KTPO Whitefield, Bengaluru.\nAI Engineer New York 2026 – New York, United Sta…"
+    },
+    {
+      "rank": 6,
+      "hn_id": 49962088,
+      "title": "Show HN: The Velocity Trap, the Phoenix Project for the AI Age",
+      "title_ja": "Show HN: The Velocity Trap, the Phoenix Project for the AI Age",
+      "hn_url": "https://news.ycombinator.com/item?id=49962088",
+      "source_url": "https://colineberhardt.github.io/the-velocity-trap/",
+      "image_url": "https://colineberhardt.github.io/the-velocity-trap/assets/images/social-card.png",
+      "score": 1,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-10-05T08:19:22Z",
+      "summary_ja": "Title: Show HN: The Velocity Trap, the Phoenix Project for the AI Age\nArticle title: Contents · The Velocity Trap\nDescription: A business fable for the AI age, in the tradition of The Phoenix Project — an investigator is called in after a routine piece of software quietly fails, and finds a lot more waiting underneath it.\nHN text: I'm taking a bit of a risk with this one, this is a novella I authored with the help of AI. If that offends you, please move on! Everyone on HN knows just how much AI is disrupting our industry. Although, much of the industry narrative focusses on the tools, the AI, the harnesses, and their ever-growing capabilities. We need to spend just as much, if not more time discussing the impact this is having on us. Humans will still be a significant part of the software engineering ‘system’, and many of us are rapidly trying to determine what our role will ultimately b…"
+    },
+    {
+      "rank": 7,
       "hn_id": 49959618,
       "title": "Fix Your AI Slop Problem by Giving Reviewers Credit",
       "title_ja": "Fix Your AI Slop Problem by Giving Reviewers Credit",
@@ -45,7 +100,7 @@
       "summary_ja": "Title: Fix Your AI Slop Problem by Giving Reviewers Credit\nArticle title: Fix Your AI Slop Problem By Giving Reviewers Credit\nDescription: Reviewing isn't free labour. When AI writes and reviews your PRs, the human approval stops meaning anything. Here's how to make code review count again.\n\nArticle text:\nFix Your AI Slop Problem By Giving Reviewers Credit\nDan Unparsed\nSubscribe Sign in Fix Your AI Slop Problem By Giving Reviewers Credit\nThree AI passes missed a bug you could find by scrolling up\nDan Apushkinsky Oct 02, 2026 2 1 Share Approved\nI was reviewing a PR recently. See if you can spot the bug:\n# Branch C doesn't have a printer\nuser = new Person(...)\n... user does some shit ...\nif user not in branch_c:\nuser.print_document()\n... 50 lines of library logic ...\n### New code added in the PR:\n+ staff = new Person(...)\n... staff does some shit ...\n+ staff.print_document() Obviously I do…"
     },
     {
-      "rank": 4,
+      "rank": 8,
       "hn_id": 49959744,
       "title": "I Quit OpenAI Because Its Culture Is Broken",
       "title_ja": "I Quit OpenAI Because Its Culture Is Broken",
@@ -58,7 +113,7 @@
       "summary_ja": "Title: I Quit OpenAI Because Its Culture Is Broken"
     },
     {
-      "rank": 5,
+      "rank": 9,
       "hn_id": 49959663,
       "title": "Primitives for Sane Conversation About AI",
       "title_ja": "Primitives for Sane Conversation About AI",
@@ -72,7 +127,21 @@
       "summary_ja": "Title: Primitives for Sane Conversation About AI\nArticle title: Primitives for Sane Conversation About AI – Human Paradox - Colin's Blog\nDescription: Think about how much pure energy, in the form of human brain-power, has gone into arguing about AI. This post will consume some, all of Reddit, Hacker News, ...\n\nArticle text:\nPrimitives for Sane Conversation About AI\nThink about how much pure energy, in the form of human brain-power, has gone into arguing about AI. This post will consume some, all of Reddit, Hacker News, Facebook comment threads, conversations between co-workers, upcoming tryptophan-fueled Thanksgiving debates... It's substantial.\nPart of this is just because, well, people like to argue. And hey - that's fair. I am not here to criticize that even remotely. Arguing is a time-honored human tradition, and an important tool of intellectual (and emotional) progress. However, pe…"
     },
     {
-      "rank": 6,
+      "rank": 10,
+      "hn_id": 49961749,
+      "title": "TypeSafe AI's Jev vs. Perplexity's Decisions API",
+      "title_ja": "TypeSafe AI's Jev vs. Perplexity's Decisions API",
+      "hn_url": "https://news.ycombinator.com/item?id=49961749",
+      "source_url": "https://vercel.com/i/jev-vs-perplexity",
+      "image_url": "https://images.ctfassets.net/e5382hct74si/1cH9kPmvxLbJt2XXVAPBNv/5f5110484a448e9c0f582dc6c5aad686/image.png",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-10-05T07:31:16Z",
+      "summary_ja": "Title: TypeSafe AI's Jev vs. Perplexity's Decisions API\nArticle title: TypeSafe AI's Jev vs. Perplexity's Decisions API - Vercel\nDescription: Compare Jev and Perplexity's Decisions API by input support, answer types, deployment options, and the work required to switch providers.\n\nArticle text:\nTypeSafe AI's Jev vs. Perplexity's Decisions API - Vercel Skip to content Copy Wordmark Copy Logo Download Brand Assets Brand Guidelines Products Agent Stack AI SDK\nTypeSafe AI's Jev vs. Perplexity's Decisions API\nArticles Build with AI 5 Oct 2026\nTypeSafe AI's Jev and Perplexity's Decisions API both evaluate supplied state using typed questions. Jev works with text, including structured records. Perplexity also accepts images and publishes decision-model weights. For text workflows, compare their predictions on your own examples before deciding whether to switch.\nThe choice starts with the evidenc…"
+    },
+    {
+      "rank": 11,
       "hn_id": 49959703,
       "title": "Who is cleaning up all the garbage LLMs generate?",
       "title_ja": "Who is cleaning up all the garbage LLMs generate?",

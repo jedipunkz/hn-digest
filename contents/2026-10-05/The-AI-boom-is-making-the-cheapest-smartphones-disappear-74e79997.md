@@ -1,0 +1,119 @@
+---
+source: "https://restofworld.org/2026/ai-data-center-memory-chip-shortage-cheap-smartphones-digital-divide/"
+hn_url: "https://news.ycombinator.com/item?id=49968110"
+title: "The AI boom is making the cheapest smartphones disappear"
+article_title: "How AI data centers are killing off the $100 smartphone - Rest of World"
+image: "https://restofworld.org/wp-content/uploads/2026/10/smartphone-price-ai-2-1600x900.jpg"
+author: "whiteblossom"
+captured_at: "2026-10-05T17:59:13Z"
+capture_tool: "hn-digest"
+hn_id: 49968110
+score: 1
+comments: 0
+posted_at: "2026-10-05T17:53:45Z"
+tags:
+  - hacker-news
+---
+
+# The AI boom is making the cheapest smartphones disappear
+
+- HN: [49968110](https://news.ycombinator.com/item?id=49968110)
+- Source: [restofworld.org](https://restofworld.org/2026/ai-data-center-memory-chip-shortage-cheap-smartphones-digital-divide/)
+- Score: 1
+- Comments: 0
+- Posted: 2026-10-05T17:53:45Z
+
+## Translation
+
+Title: The AI boom is making the cheapest smartphones disappear
+Article title: How AI data centers are killing off the $100 smartphone - Rest of World
+Description: As Samsung, SK Hynix, and Micron divert memory chips to AI data centers, global smartphone prices are surging and threatening to widen the digital divide for 800 million people.
+
+Article text:
+How AI data centers are killing off the $100 smartphone - Rest of World
+Skip to content
+Rest of World
+Reporting Global Tech Stories
+Global Innovation The AI boom is making the world’s cheapest smartphones disappear
+Sign In
+About
+The AI boom is making the world’s cheapest smartphones disappear
+AI data centers are driving demand for memory chips, pushing phone makers to raise prices and abandon some of their most affordable models.
+The world’s cheapest smartphones are disappearing because AI infrastructure is absorbing the components.
+Prices of existing smartphone models have risen by about 15% globally this year , while newly launched models are roughly 25% more expensive than last year. A global memory chip shortage, driven by demand from AI data centers, is pushing up the cost of making smartphones.
+Chinese smartphone makers — which have championed affordable, feature-rich devices and account for approximately 60% of all smartphones shipped globally — have “drastically reduced” their entry-level projects this year as memory-chip costs have risen, Ivan Lam, senior analyst at research firm Counterpoint, told Rest of World . They are instead prioritizing more profitable premium devices.
+The smartphone price increases vary sharply by region: They have risen by 21% in India, 19% across Asia-Pacific, and 18% in the Middle East and Africa. In the U.S., they have gone up by just 5%.
+The shift could affect more than consumers looking for cheaper phones. For people who have yet to buy their first smartphone, higher prices could make it harder to get online at all — potentially widening the digital divide. The consequences will also reach the U.S. as more essential services move online and the global supply chain for smartphones becomes more expensive.
+GSMA, the global mobile industry association, had earlier said nearly 800 million more people will use mobile internet by 2030. But it is concerned that rising smartphone costs would affect this projection and widen the gap of digital inequality, Claire Sibthorpe, head of digital inclusion at the group’s nonprofit foundation, told Rest of World .
+“We live in an increasingly digital world, and the proliferation of technologies such as AI is creating greater digital divides and inequities,” Sibthorpe said. “Stakeholders are increasingly using AI to provide access to important services, but people won’t be able to benefit without access to an internet-enabled phone and the internet.”
+In 2025, more than one in four smartphones shipped globally cost less than $150 . That market is now shrinking.
+Chinese phonemakers including Xiaomi i Xiaomi Xiaomi is a Chinese consumer electronics company that leads the country in smartphone manufacturing and sales. READ MORE , Oppo, Vivo, and Huawei i Huawei Huawei is a Chinese technology company focused on mobile phones and telecommunications, and is seen as a poster child for China’s global tech ambitions. READ MORE have built their businesses around offering affordable phones with increasingly sophisticated features. But the economics of that strategy are changing.
+What used to be below $150 may become below $250, or even $300.” Ivan Lam, senior analyst, Counterpoint
+Chinese companies “would rather reduce investment in products below $150 or $200 and put more resources into higher-margin phones, branding, user experience, and AI,” said Lam.
+In India, Xiaomi raised the price of a 128GB Redmi 15C from 12,499 rupees ($140) at launch last December to 16,999 rupees ($190) in June, a 36% increase. In Southeast Asia, Oppo’s sub-$100 phone shipments plunged 96%, and Vivo moved its main entry-level model above $100 in most markets, according to research firm Omdia . In Africa, where 81% of smartphones shipped last year cost less than $200, shipments of sub-$100 phones fell 34% year over year in the second quarter of 2026.
+“What used to be below $150 may become below $250, or even $300,” Lam said, adding that he does not expect costs to return to their pre-2025 levels.
+The memory-chip shortage is unlikely to ease soon, Ramon Llamas, research director in mobile devices at market research and advisory firm IDC, told Rest of World.
+“ There are three primary manufacturers of memory, and in late 2025, all of them pivoted the vast majority of their supply towards AI centers instead of consumer electronics,” Llamas said. “That left many companies scrambling for inventory. … Scarcity of memory has driven up prices for memory, and those price increases have been passed on to the consumer.”
+Samsung Electronics, SK Hynix, and Micron Technology make up more than 90% of the global memory chip market. These companies have entered several partnerships with U.S. AI giants in recent years.
+S&P Global has estimated that the capital expenditure of U.S. hyperscalers — Alphabet, Amazon, Microsoft, Meta, Oracle, and SpaceX — will exceed $1.3 trillion in 2027 , up from a projected $870 billion in 2026 and $470 billion in 2025.
+Shipments of sub-$100 smartphones are already falling sharply. The 173 million sub-$100 smartphones shipped globally last year are disappearing, with shipments falling almost 60% year over year in the second quarter of 2026, according to IDC.
+For the world’s poorest consumers, the problem is not simply that smartphones are getting more expensive. It’s that the cheapest phones are disappearing.
+The price of a smartphone remains a major barrier for lower-income groups to get online, according to GSMA’s September report. An entry-level device costs the poorest 20% the equivalent of 44% of their monthly income, and 76% for people in sub-Saharan Africa.
+When smartphones remain available but become unaffordable, consumers make difficult sacrifices to keep themselves online.” Claire Sibthorpe, head of digital inclusion at GSMA’s foundation
+For many lower-income consumers, gains in income are unlikely to keep pace with the sudden rise in handset prices.
+“When smartphones remain available but become unaffordable, consumers make difficult sacrifices to keep themselves online. They might delay upgrading, borrow or share their devices, remain on older feature phones, or go offline when they are unable to replace a device that is no longer working or stolen. Often, it means they won’t have an internet-enabled device at all,” Sibthorpe said.
+Innovation
+Who gets to decide if AI is safe? Africa wants a say
+African companies race to adopt American and Chinese AI, with little attention paid to safety.
+EV Revolution
+Awkward: Saudi Arabia’s new EV brand takes on the U.S. rival it already controls
+The Saudi wealth fund’s new EV will compete with Chinese rivals and with Lucid, the U.S. carmaker the fund controls.
+Innovation
+AI companies want to embed safety evaluators, but countries need their own
+At a Rest of World event in New York last week, speakers explored how countries sidelined by the U.S.-China race can retain some control over safety standards as they adopt models from OpenAI, Anthropic, and others.
+
+## Original Extract
+
+As Samsung, SK Hynix, and Micron divert memory chips to AI data centers, global smartphone prices are surging and threatening to widen the digital divide for 800 million people.
+
+How AI data centers are killing off the $100 smartphone - Rest of World
+Skip to content
+Rest of World
+Reporting Global Tech Stories
+Global Innovation The AI boom is making the world’s cheapest smartphones disappear
+Sign In
+About
+The AI boom is making the world’s cheapest smartphones disappear
+AI data centers are driving demand for memory chips, pushing phone makers to raise prices and abandon some of their most affordable models.
+The world’s cheapest smartphones are disappearing because AI infrastructure is absorbing the components.
+Prices of existing smartphone models have risen by about 15% globally this year , while newly launched models are roughly 25% more expensive than last year. A global memory chip shortage, driven by demand from AI data centers, is pushing up the cost of making smartphones.
+Chinese smartphone makers — which have championed affordable, feature-rich devices and account for approximately 60% of all smartphones shipped globally — have “drastically reduced” their entry-level projects this year as memory-chip costs have risen, Ivan Lam, senior analyst at research firm Counterpoint, told Rest of World . They are instead prioritizing more profitable premium devices.
+The smartphone price increases vary sharply by region: They have risen by 21% in India, 19% across Asia-Pacific, and 18% in the Middle East and Africa. In the U.S., they have gone up by just 5%.
+The shift could affect more than consumers looking for cheaper phones. For people who have yet to buy their first smartphone, higher prices could make it harder to get online at all — potentially widening the digital divide. The consequences will also reach the U.S. as more essential services move online and the global supply chain for smartphones becomes more expensive.
+GSMA, the global mobile industry association, had earlier said nearly 800 million more people will use mobile internet by 2030. But it is concerned that rising smartphone costs would affect this projection and widen the gap of digital inequality, Claire Sibthorpe, head of digital inclusion at the group’s nonprofit foundation, told Rest of World .
+“We live in an increasingly digital world, and the proliferation of technologies such as AI is creating greater digital divides and inequities,” Sibthorpe said. “Stakeholders are increasingly using AI to provide access to important services, but people won’t be able to benefit without access to an internet-enabled phone and the internet.”
+In 2025, more than one in four smartphones shipped globally cost less than $150 . That market is now shrinking.
+Chinese phonemakers including Xiaomi i Xiaomi Xiaomi is a Chinese consumer electronics company that leads the country in smartphone manufacturing and sales. READ MORE , Oppo, Vivo, and Huawei i Huawei Huawei is a Chinese technology company focused on mobile phones and telecommunications, and is seen as a poster child for China’s global tech ambitions. READ MORE have built their businesses around offering affordable phones with increasingly sophisticated features. But the economics of that strategy are changing.
+What used to be below $150 may become below $250, or even $300.” Ivan Lam, senior analyst, Counterpoint
+Chinese companies “would rather reduce investment in products below $150 or $200 and put more resources into higher-margin phones, branding, user experience, and AI,” said Lam.
+In India, Xiaomi raised the price of a 128GB Redmi 15C from 12,499 rupees ($140) at launch last December to 16,999 rupees ($190) in June, a 36% increase. In Southeast Asia, Oppo’s sub-$100 phone shipments plunged 96%, and Vivo moved its main entry-level model above $100 in most markets, according to research firm Omdia . In Africa, where 81% of smartphones shipped last year cost less than $200, shipments of sub-$100 phones fell 34% year over year in the second quarter of 2026.
+“What used to be below $150 may become below $250, or even $300,” Lam said, adding that he does not expect costs to return to their pre-2025 levels.
+The memory-chip shortage is unlikely to ease soon, Ramon Llamas, research director in mobile devices at market research and advisory firm IDC, told Rest of World.
+“ There are three primary manufacturers of memory, and in late 2025, all of them pivoted the vast majority of their supply towards AI centers instead of consumer electronics,” Llamas said. “That left many companies scrambling for inventory. … Scarcity of memory has driven up prices for memory, and those price increases have been passed on to the consumer.”
+Samsung Electronics, SK Hynix, and Micron Technology make up more than 90% of the global memory chip market. These companies have entered several partnerships with U.S. AI giants in recent years.
+S&P Global has estimated that the capital expenditure of U.S. hyperscalers — Alphabet, Amazon, Microsoft, Meta, Oracle, and SpaceX — will exceed $1.3 trillion in 2027 , up from a projected $870 billion in 2026 and $470 billion in 2025.
+Shipments of sub-$100 smartphones are already falling sharply. The 173 million sub-$100 smartphones shipped globally last year are disappearing, with shipments falling almost 60% year over year in the second quarter of 2026, according to IDC.
+For the world’s poorest consumers, the problem is not simply that smartphones are getting more expensive. It’s that the cheapest phones are disappearing.
+The price of a smartphone remains a major barrier for lower-income groups to get online, according to GSMA’s September report. An entry-level device costs the poorest 20% the equivalent of 44% of their monthly income, and 76% for people in sub-Saharan Africa.
+When smartphones remain available but become unaffordable, consumers make difficult sacrifices to keep themselves online.” Claire Sibthorpe, head of digital inclusion at GSMA’s foundation
+For many lower-income consumers, gains in income are unlikely to keep pace with the sudden rise in handset prices.
+“When smartphones remain available but become unaffordable, consumers make difficult sacrifices to keep themselves online. They might delay upgrading, borrow or share their devices, remain on older feature phones, or go offline when they are unable to replace a device that is no longer working or stolen. Often, it means they won’t have an internet-enabled device at all,” Sibthorpe said.
+Innovation
+Who gets to decide if AI is safe? Africa wants a say
+African companies race to adopt American and Chinese AI, with little attention paid to safety.
+EV Revolution
+Awkward: Saudi Arabia’s new EV brand takes on the U.S. rival it already controls
+The Saudi wealth fund’s new EV will compete with Chinese rivals and with Lucid, the U.S. carmaker the fund controls.
+Innovation
+AI companies want to embed safety evaluators, but countries need their own
+At a Rest of World event in New York last week, speakers explored how countries sidelined by the U.S.-China race can retain some control over safety standards as they adopt models from OpenAI, Anthropic, and others.

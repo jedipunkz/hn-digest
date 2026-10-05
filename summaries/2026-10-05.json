@@ -1,0 +1,88 @@
+{
+  "date": "2026-10-05",
+  "generated_at": "2026-10-05T01:40:31Z",
+  "articles": [
+    {
+      "rank": 1,
+      "hn_id": 49959571,
+      "title": "Adversarial Artificial Intelligence",
+      "title_ja": "Adversarial Artificial Intelligence",
+      "hn_url": "https://news.ycombinator.com/item?id=49959571",
+      "source_url": "https://www.rand.org/pubs/research_reports/RRA4734-2.html",
+      "image_url": "https://www.rand.org/content/rand/pubs/research_reports/RRA4734-2/jcr:content/par/product.crop.1200x900.cm.jpeg/1790697265228.jpeg",
+      "score": 2,
+      "final_score": 4,
+      "comments": 0,
+      "posted_at": "2026-10-05T00:55:21Z",
+      "summary_ja": "Title: Adversarial Artificial Intelligence\nArticle title: Adversarial artificial intelligence: Implications of strategic stability attacks on military AI systems | RAND\nDescription: As military AI use grows, attacks that disrupt or deny AI systems could threaten strategic stability. This study examines risks to military and critical infrastructure systems, and recommends measures to reduce attacks and their impact globally.\n\nArticle text:\nWarfare and Military Operations\nChildren, Families, and Communities\nHealth, Health Care, and Aging\nHomeland Security and Public Safety\nInfrastructure and Transportation\nRAND's divisions conduct research on a uniquely broad front for clients around the globe.\nU.S. research divisions\nRAND Army Research Division\nRAND Education, Employment, and Infrastructure\nRAND Global and Emerging Risks\nRAND Homeland Security Research Division\nRAND National Security Rese…"
+    },
+    {
+      "rank": 2,
+      "hn_id": 49959733,
+      "title": "L402 edge cache for AI agents paying over Lightning",
+      "title_ja": "L402 edge cache for AI agents paying over Lightning",
+      "hn_url": "https://news.ycombinator.com/item?id=49959733",
+      "source_url": "https://github.com/CharlesStrogish/bitcoin-stratigraphy-mcp",
+      "image_url": "https://opengraph.githubassets.com/70df76ee5558a4715046e61454b8dc21686dcf0f160495be3fe7eaf2c1e45271/CharlesStrogish/bitcoin-stratigraphy-mcp",
+      "score": 1,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-10-05T01:29:00Z",
+      "summary_ja": "Title: L402 edge cache for AI agents paying over Lightning\nArticle title: GitHub - CharlesStrogish/bitcoin-stratigraphy-mcp: An enterprise-grade, L402-gated AI Notary Hub and MCP data server vending thermodynamic Bitcoin telemetry. Features 15 canonical tools, OpenTimestamps state anchoring, a free sandbox, 100-call Macro-Macaroon batch payments, and LangChain/LlamaIndex\n[truncated]\nDescription: An enterprise-grade, L402-gated AI Notary Hub and MCP data server vending thermodynamic Bitcoin telemetry. Features 15 canonical tools, OpenTimestamps state anchoring, a free sandbox, 100-call Macro-Macaroon batch payments, and LangChain/LlamaIndex cookbooks. Built for autonomous AI agents settling\n[truncated]\n\nArticle text:\nGitHub - CharlesStrogish/bitcoin-stratigraphy-mcp: An enterprise-grade, L402-gated AI Notary Hub and MCP data server vending thermodynamic Bitcoin telemetry. Features 15 cano…"
+    },
+    {
+      "rank": 3,
+      "hn_id": 49959618,
+      "title": "Fix Your AI Slop Problem by Giving Reviewers Credit",
+      "title_ja": "Fix Your AI Slop Problem by Giving Reviewers Credit",
+      "hn_url": "https://news.ycombinator.com/item?id=49959618",
+      "source_url": "https://danunparsed.com/p/giving-code-reviewers-credit",
+      "image_url": "https://substackcdn.com/image/fetch/$s_!TDTB!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb216dc35-ae5a-4634-b300-e4b2f064b1b7_1376x768.jpeg",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-10-05T01:06:07Z",
+      "summary_ja": "Title: Fix Your AI Slop Problem by Giving Reviewers Credit\nArticle title: Fix Your AI Slop Problem By Giving Reviewers Credit\nDescription: Reviewing isn't free labour. When AI writes and reviews your PRs, the human approval stops meaning anything. Here's how to make code review count again.\n\nArticle text:\nFix Your AI Slop Problem By Giving Reviewers Credit\nDan Unparsed\nSubscribe Sign in Fix Your AI Slop Problem By Giving Reviewers Credit\nThree AI passes missed a bug you could find by scrolling up\nDan Apushkinsky Oct 02, 2026 2 1 Share Approved\nI was reviewing a PR recently. See if you can spot the bug:\n# Branch C doesn't have a printer\nuser = new Person(...)\n... user does some shit ...\nif user not in branch_c:\nuser.print_document()\n... 50 lines of library logic ...\n### New code added in the PR:\n+ staff = new Person(...)\n... staff does some shit ...\n+ staff.print_document() Obviously I do…"
+    },
+    {
+      "rank": 4,
+      "hn_id": 49959744,
+      "title": "I Quit OpenAI Because Its Culture Is Broken",
+      "title_ja": "I Quit OpenAI Because Its Culture Is Broken",
+      "hn_url": "https://news.ycombinator.com/item?id=49959744",
+      "source_url": "https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881/",
+      "score": 1,
+      "final_score": 1,
+      "comments": 1,
+      "posted_at": "2026-10-05T01:31:01Z",
+      "summary_ja": "Title: I Quit OpenAI Because Its Culture Is Broken"
+    },
+    {
+      "rank": 5,
+      "hn_id": 49959663,
+      "title": "Primitives for Sane Conversation About AI",
+      "title_ja": "Primitives for Sane Conversation About AI",
+      "hn_url": "https://news.ycombinator.com/item?id=49959663",
+      "source_url": "https://humanparadox.org/primitives-for-sane-conversation-about-ai/",
+      "image_url": "https://humanparadox.org/static/og-image.png",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-10-05T01:13:27Z",
+      "summary_ja": "Title: Primitives for Sane Conversation About AI\nArticle title: Primitives for Sane Conversation About AI – Human Paradox - Colin's Blog\nDescription: Think about how much pure energy, in the form of human brain-power, has gone into arguing about AI. This post will consume some, all of Reddit, Hacker News, ...\n\nArticle text:\nPrimitives for Sane Conversation About AI\nThink about how much pure energy, in the form of human brain-power, has gone into arguing about AI. This post will consume some, all of Reddit, Hacker News, Facebook comment threads, conversations between co-workers, upcoming tryptophan-fueled Thanksgiving debates... It's substantial.\nPart of this is just because, well, people like to argue. And hey - that's fair. I am not here to criticize that even remotely. Arguing is a time-honored human tradition, and an important tool of intellectual (and emotional) progress. However, pe…"
+    },
+    {
+      "rank": 6,
+      "hn_id": 49959703,
+      "title": "Who is cleaning up all the garbage LLMs generate?",
+      "title_ja": "Who is cleaning up all the garbage LLMs generate?",
+      "hn_url": "https://news.ycombinator.com/item?id=49959703",
+      "source_url": "",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-10-05T01:22:29Z",
+      "summary_ja": "Title: Who is cleaning up all the garbage LLMs generate?\nHN text: So my one terabyte drive got full and I realized after months of CLI sessions I generated a lot of markdown files in a lot of images in a lot of in other documents they all seem sorta kinda useful, and I too afraid to delete them because they might be useful How do you deal with that?"
+    }
+  ]
+}

@@ -1,6 +1,6 @@
 {
   "date": "2026-10-06",
-  "generated_at": "2026-10-06T19:25:02Z",
+  "generated_at": "2026-10-06T23:37:34Z",
   "articles": [
     {
       "rank": 1,
@@ -45,6 +45,19 @@
     },
     {
       "rank": 4,
+      "hn_id": 49977864,
+      "title": "Thirteen LLMs asked the same 76 sourced questions, with and without web search",
+      "title_ja": "Thirteen LLMs asked the same 76 sourced questions, with and without web search",
+      "hn_url": "https://news.ycombinator.com/item?id=49977864",
+      "source_url": "https://llmquorum.aidataforager.com",
+      "score": 2,
+      "final_score": 4,
+      "comments": 0,
+      "posted_at": "2026-10-06T13:07:51Z",
+      "summary_ja": "Title: Thirteen LLMs asked the same 76 sourced questions, with and without web search\nArticle title: LLMQuorum: 63 models, 76 questions, with and without the web\nDescription: Sixty-three models, seventy-six verifiable questions, every answer graded against a primary source. The thirteen asked both ways went from 44.5% to 96.0%.\n\nArticle text:\nBuilt by Dan Weaver · Applied AI / RAG engineer · Michigan, USA · remote\nAzureDevOpsForager demo\n·\nGitHub\n·\nLinkedIn\n·\nHugging Face\n·\nEmail"
+    },
+    {
+      "rank": 5,
       "hn_id": 49977935,
       "title": "Agy-ppt – agent skill for PowerPoint decks without the AI-slop look",
       "title_ja": "Agy-ppt – agent skill for PowerPoint decks without the AI-slop look",
@@ -56,19 +69,6 @@
       "comments": 1,
       "posted_at": "2026-10-06T13:12:23Z",
       "summary_ja": "Title: Agy-ppt – agent skill for PowerPoint decks without the AI-slop look\nArticle title: GitHub - sujunmin/agy-ppt: Turn reports into PowerPoint decks without the AI-slop look. An agent skill purpose-built for the Antigravity + Kiro + Codex pipeline — GPT-image renders dense Traditional Chinese slide text far better than Gemini. · GitHub\nDescription: Turn reports into PowerPoint decks without the AI-slop look. An agent skill purpose-built for the Antigravity + Kiro + Codex pipeline — GPT-image renders dense Traditional Chinese slide text far better than Gemini. - sujunmin/agy-ppt\n\nArticle text:\nGitHub - sujunmin/agy-ppt: Turn reports into PowerPoint decks without the AI-slop look. An agent skill purpose-built for the Antigravity + Kiro + Codex pipeline — GPT-image renders dense Traditional Chinese slide text far better than Gemini. · GitHub\nSkip to content\nNavigation Menu\nSign in Appear…"
-    },
-    {
-      "rank": 5,
-      "hn_id": 49977864,
-      "title": "Thirteen LLMs asked the same 76 sourced questions, with and without web search",
-      "title_ja": "Thirteen LLMs asked the same 76 sourced questions, with and without web search",
-      "hn_url": "https://news.ycombinator.com/item?id=49977864",
-      "source_url": "https://llmquorum.aidataforager.com",
-      "score": 2,
-      "final_score": 4,
-      "comments": 0,
-      "posted_at": "2026-10-06T13:07:51Z",
-      "summary_ja": "Title: Thirteen LLMs asked the same 76 sourced questions, with and without web search\nArticle title: LLMQuorum: 63 models, 76 questions, with and without the web\nDescription: Sixty-three models, seventy-six verifiable questions, every answer graded against a primary source. The thirteen asked both ways went from 44.5% to 96.0%.\n\nArticle text:\nBuilt by Dan Weaver · Applied AI / RAG engineer · Michigan, USA · remote\nAzureDevOpsForager demo\n·\nGitHub\n·\nLinkedIn\n·\nHugging Face\n·\nEmail"
     },
     {
       "rank": 6,
@@ -100,62 +100,6 @@
     },
     {
       "rank": 8,
-      "hn_id": 49978145,
-      "title": "Extra Headroom in prod: Input -34%, Output -33% across 183 Claude Code users",
-      "title_ja": "Extra Headroom in prod: Input -34%, Output -33% across 183 Claude Code users",
-      "hn_url": "https://news.ycombinator.com/item?id=49978145",
-      "source_url": "https://extraheadroom.com/blog/claude-code-savings-real-usage",
-      "image_url": "https://extraheadroom.com/og/claude-code-savings-real-usage.png",
-      "score": 2,
-      "final_score": 2,
-      "comments": 0,
-      "posted_at": "2026-10-06T13:28:25Z",
-      "summary_ja": "Title: Extra Headroom in prod: Input -34%, Output -33% across 183 Claude Code users\nArticle title: Extra Headroom in Production: Input -34%, Output -33% (2026)\nDescription: Production data from 183 Claude Code users over one week: Extra Headroom removed 3.50B input tokens and avoided 132M output tokens, $27,268 at list prices.\n\nArticle text:\nHeadroom\nHow it works\nFeatures\nBenchmarks\nPricing\nDocs\nArticles\nClaude Code\nDownload for macOS\nBlog · Benchmarks\nExtra Headroom in production: Input -34%, Output -33% across 183 Claude Code users\nGarm Lucassen · October 6, 2026\nExtra Headroom is a desktop app that runs a local proxy between Claude Code and the\nAnthropic API. It compresses tool output before each request goes out and asks the model\nfor shorter replies. The benchmarks on our homepage measure single scenarios; this post\nreports production data from 183 Claude Code users on Extra Headroo…"
-    },
-    {
-      "rank": 9,
-      "hn_id": 49978361,
-      "title": "Show HN: Genjutsu AI – Replace objects in existing videos",
-      "title_ja": "Show HN: Genjutsu AI – Replace objects in existing videos",
-      "hn_url": "https://news.ycombinator.com/item?id=49978361",
-      "source_url": "https://genjutsuai.net/",
-      "image_url": "https://genjutsuai.net/logo.webp",
-      "score": 2,
-      "final_score": 2,
-      "comments": 0,
-      "posted_at": "2026-10-06T13:42:36Z",
-      "summary_ja": "Title: Show HN: Genjutsu AI – Replace objects in existing videos\nArticle title: Genjutsu AI Video Generator — Video Restyling\nDescription: Genjutsu AI restyles any video without changing who or what is in it. Transfer motion into a new scene, style, or objects — upload a clip, write a prompt, get your new video in minutes.\n\nArticle text:\nGenjutsu AI Video Generator — Video Restyling Genjutsu AI Introduction Feature How it works Pricing My Creations Upgrade -50% Genjutsu AI Upgrade -50% Genjutsu AI Video Generator\nKeep your subject, change the world around them. Genjutsu transfers the original motion and timing into a new scene, style, or set of objects — without swapping who or what is in the shot.\nObjects swap Add a reference video to edit 4–30s Add products, clothes, objects, or scenes Up to 8 images 0 / 2,000 720p Generate What Is Genjutsu AI?\nGenjutsu is a video-to-video model by Hig…"
-    },
-    {
-      "rank": 10,
-      "hn_id": 49978490,
-      "title": "Voice assistant that runs on your own Claude or ChatGPT plan",
-      "title_ja": "Voice assistant that runs on your own Claude or ChatGPT plan",
-      "hn_url": "https://news.ycombinator.com/item?id=49978490",
-      "source_url": "https://memoe.app/",
-      "image_url": "https://memoe.app/assets/og.png?v=71ba71e243",
-      "score": 2,
-      "final_score": 2,
-      "comments": 0,
-      "posted_at": "2026-10-06T13:51:43Z",
-      "summary_ja": "Title: Voice assistant that runs on your own Claude or ChatGPT plan\nArticle title: Memoe: No chat box. Talk from any app, and it talks back.\nDescription: Memoe lives in your notch. Hold one key from any app, say it, and Moe answers out loud and does the work. Uses the ChatGPT or Claude plan you already pay for.\n\nArticle text:\nMemoe\nHome\nPricing\nDocs\nPlayground\nPrivacy\nTerms\nFri 18 Sep 14:41\nDownload\nTap to try Moe\nIdle\nHold space and talk\nHold one key from any app, say what you need, and Moe answers out loud and does the work. Uses the ChatGPT or Claude plan you already pay for.\nDownload for Mac\nOpen the playground\nBeta Free on your Mac · macOS 15 · Apple silicon\n“Hey Moe” is there too, once you switch it on in Settings.\nOne assistant, three verbs. Ask, know, do.\nHold one key, from any app, and say it.\nIt has already read what you let it see.\nIt works the Mac itself. You watch.\n01 You sa…"
-    },
-    {
-      "rank": 11,
-      "hn_id": 49977755,
-      "title": "I Still Choose Jujutsu When AI Can Handle Git",
-      "title_ja": "I Still Choose Jujutsu When AI Can Handle Git",
-      "hn_url": "https://news.ycombinator.com/item?id=49977755",
-      "source_url": "https://juju-chu.com/blog/why-jj-when-ai-runs-git",
-      "image_url": "https://juju-chu.com/og/posts/en/why-jj-when-ai-runs-git.png",
-      "score": 2,
-      "final_score": 2,
-      "comments": 0,
-      "posted_at": "2026-10-06T12:59:28Z",
-      "summary_ja": "Title: I Still Choose Jujutsu When AI Can Handle Git\nArticle title: Why I Still Choose Jujutsu When AI Can Handle Git: Juju-chu! Blog\nDescription: “Just let AI handle Git” was the most common pushback on my last post. Here’s why I still choose Jujutsu (jj) even when AI runs version control: no commit ritual, painless undo, and history that’s ready for stacked PRs.\n\nArticle text:\nWhy I Still Choose Jujutsu When AI Can Handle Git: Juju-chu! Blog Skip to content Home Blog Config Agent Config About Select language English English\nWhy I Still Choose Jujutsu When AI Can Handle Git\nAuthor of “Juju-chu!” and the “Riakuto!” series.\n“If an AI agent handles Git for you, why bother learning another version control system like Jujutsu ?”\nThat was the most common pushback on my last post, 15 Years of Git, Then Jujutsu: Why I Can’t Go Back . It’s a fair question and an interesting one, so this post is…"
-    },
-    {
-      "rank": 12,
       "hn_id": 49974784,
       "title": "Autonomous AI Agent Security Incidents of 2026 (Dataset and Defense Harness)",
       "title_ja": "Autonomous AI Agent Security Incidents of 2026 (Dataset and Defense Harness)",
@@ -169,18 +113,73 @@
       "summary_ja": "Title: Autonomous AI Agent Security Incidents of 2026 (Dataset and Defense Harness)\nArticle title: GitHub - mars2021y-gif/autonomous-ai-agent-security-incidents-2026: Autonomous AI Agent Security Incidents of 2026: Benchmark dataset (109 incidents), falsification matrix, 2-page executive summary, and multi-agent privilege attenuation harness (100% EPR). · GitHub\nDescription: Autonomous AI Agent Security Incidents of 2026: Benchmark dataset (109 incidents), falsification matrix, 2-page executive summary, and multi-agent privilege attenuation harness (100% EPR). - mars2021y-gif/autonomous-ai-agent-security-incidents-2026\n\nArticle text:\nGitHub - mars2021y-gif/autonomous-ai-agent-security-incidents-2026: Autonomous AI Agent Security Incidents of 2026: Benchmark dataset (109 incidents), falsification matrix, 2-page executive summary, and multi-agent privilege attenuation harness (100% EPR). ·…"
     },
     {
-      "rank": 13,
-      "hn_id": 49982462,
-      "title": "The First Brain Manifesto: AI that amplifies the human brain",
-      "title_ja": "The First Brain Manifesto: AI that amplifies the human brain",
-      "hn_url": "https://news.ycombinator.com/item?id=49982462",
-      "source_url": "https://github.com/Serhii2009/first-brain",
-      "image_url": "https://opengraph.githubassets.com/9565fd59350d4204f771dc7568590c06c16f2ad93bfaee2f15bf30eaa1cb92ce/Serhii2009/first-brain",
+      "rank": 9,
+      "hn_id": 49978145,
+      "title": "Extra Headroom in prod: Input -34%, Output -33% across 183 Claude Code users",
+      "title_ja": "Extra Headroom in prod: Input -34%, Output -33% across 183 Claude Code users",
+      "hn_url": "https://news.ycombinator.com/item?id=49978145",
+      "source_url": "https://extraheadroom.com/blog/claude-code-savings-real-usage",
+      "image_url": "https://extraheadroom.com/og/claude-code-savings-real-usage.png",
+      "score": 2,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-10-06T13:28:25Z",
+      "summary_ja": "Title: Extra Headroom in prod: Input -34%, Output -33% across 183 Claude Code users\nArticle title: Extra Headroom in Production: Input -34%, Output -33% (2026)\nDescription: Production data from 183 Claude Code users over one week: Extra Headroom removed 3.50B input tokens and avoided 132M output tokens, $27,268 at list prices.\n\nArticle text:\nHeadroom\nHow it works\nFeatures\nBenchmarks\nPricing\nDocs\nArticles\nClaude Code\nDownload for macOS\nBlog · Benchmarks\nExtra Headroom in production: Input -34%, Output -33% across 183 Claude Code users\nGarm Lucassen · October 6, 2026\nExtra Headroom is a desktop app that runs a local proxy between Claude Code and the\nAnthropic API. It compresses tool output before each request goes out and asks the model\nfor shorter replies. The benchmarks on our homepage measure single scenarios; this post\nreports production data from 183 Claude Code users on Extra Headroo…"
+    },
+    {
+      "rank": 10,
+      "hn_id": 49978180,
+      "title": "AI Certification Council (AICC) – AI education and AI technical skills",
+      "title_ja": "AI Certification Council (AICC) – AI education and AI technical skills",
+      "hn_url": "https://news.ycombinator.com/item?id=49978180",
+      "source_url": "https://www.aicertificationcouncil.com/",
+      "score": 2,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-10-06T13:31:13Z",
+      "summary_ja": "Title: AI Certification Council (AICC) – AI education and AI technical skills"
+    },
+    {
+      "rank": 11,
+      "hn_id": 49978556,
+      "title": "Your AI Governance Problem Is Probably an Architecture Problem",
+      "title_ja": "Your AI Governance Problem Is Probably an Architecture Problem",
+      "hn_url": "https://news.ycombinator.com/item?id=49978556",
+      "source_url": "https://www.jamiecadvisory.com/perspectives/your-ai-governance-problem-is-probably-an-architecture-problem/",
+      "image_url": "https://www.jamiecadvisory.com/assets/jamie-c-advisory-social.png",
       "score": 1,
       "final_score": 2,
       "comments": 0,
-      "posted_at": "2026-10-06T18:51:29Z",
-      "summary_ja": "Title: The First Brain Manifesto: AI that amplifies the human brain\nArticle title: GitHub - Serhii2009/first-brain: The First Brain — AI that strengthens the mind you already have. A manifesto by Serhii Kravchenko. · GitHub\nDescription: The First Brain — AI that strengthens the mind you already have. A manifesto by Serhii Kravchenko. - Serhii2009/first-brain\n\nArticle text:\nGitHub - Serhii2009/first-brain: The First Brain — AI that strengthens the mind you already have. A manifesto by Serhii Kravchenko. · GitHub\nSkip to content\nNavigation Menu\nSign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI\nGitHub Copilot app Direct agents from issue to merge\nMCP Registry Integrate external tools\nDEVELOPER WORKFLOWS Actions Automate any workflow\nCodespaces Instant dev environments\nCode Review Manage code changes\nCode Quality Enforce quality at merge\nAPPLICATI…"
+      "posted_at": "2026-10-06T13:55:11Z",
+      "summary_ja": "Title: Your AI Governance Problem Is Probably an Architecture Problem\nArticle title: Your AI Governance Problem Is Probably an Architecture Problem | Jamie Advisory\nDescription: Policy describes the organisation you would like to have. Architecture describes the organisation you actually built.\n\nArticle text:\nSkip to main content\nJamie C\nAdvisory\nMenu\nHome\nPerspectives\nProfiles\nContact\nPerspective 010\nYour AI Governance Problem Is Probably an Architecture Problem\nPolicy describes the organisation you would like to have. Architecture describes the organisation you actually built.\nAI governance has become an industry remarkably quickly. There are frameworks, policies, principles, committees, risk classifications, acceptable-use standards and increasingly elaborate approval processes. Organisations are defining which models employees can use, what information can be submitted to them and wh…"
+    },
+    {
+      "rank": 12,
+      "hn_id": 49977755,
+      "title": "I Still Choose Jujutsu When AI Can Handle Git",
+      "title_ja": "I Still Choose Jujutsu When AI Can Handle Git",
+      "hn_url": "https://news.ycombinator.com/item?id=49977755",
+      "source_url": "https://juju-chu.com/blog/why-jj-when-ai-runs-git",
+      "image_url": "https://juju-chu.com/og/posts/en/why-jj-when-ai-runs-git.png",
+      "score": 2,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-10-06T12:59:28Z",
+      "summary_ja": "Title: I Still Choose Jujutsu When AI Can Handle Git\nArticle title: Why I Still Choose Jujutsu When AI Can Handle Git: Juju-chu! Blog\nDescription: “Just let AI handle Git” was the most common pushback on my last post. Here’s why I still choose Jujutsu (jj) even when AI runs version control: no commit ritual, painless undo, and history that’s ready for stacked PRs.\n\nArticle text:\nWhy I Still Choose Jujutsu When AI Can Handle Git: Juju-chu! Blog Skip to content Home Blog Config Agent Config About Select language English English\nWhy I Still Choose Jujutsu When AI Can Handle Git\nAuthor of “Juju-chu!” and the “Riakuto!” series.\n“If an AI agent handles Git for you, why bother learning another version control system like Jujutsu ?”\nThat was the most common pushback on my last post, 15 Years of Git, Then Jujutsu: Why I Can’t Go Back . It’s a fair question and an interesting one, so this post is…"
+    },
+    {
+      "rank": 13,
+      "hn_id": 49985587,
+      "title": "Where do we draw the line on AI in court filings?",
+      "title_ja": "Where do we draw the line on AI in court filings?",
+      "hn_url": "https://news.ycombinator.com/item?id=49985587",
+      "source_url": "https://lexifina.com/blog/where-to-draw-the-line-on-ai-in-court-filings",
+      "image_url": "https://lexifina.com/social-preview-v3.png?v=20261006",
+      "score": 2,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-10-06T23:21:07Z",
+      "summary_ja": "Title: Where do we draw the line on AI in court filings?\nArticle title: Where do we draw the line on AI in court filings? | Lexifina\nDescription: A year of AI-filing sanctions, suspensions and court rules: what is settled, what is contested, and where the line now sits.\n\nArticle text:\nWhere do we draw the line on AI in court filings? | Lexifina Skip to main content Features Security Pricing Resources Learn more\nBlog Ideas and analysis for modern legal work.\nChangelog The latest additions and improvements.\nStudents Resources for the next generation of lawyers.\nWhere do we draw the line on AI in court filings? Opinion · October 7, 2026\nFully automated wills Engineering · October 3, 2026\nFully automated legal matters – from start to finish Engineering · October 2, 2026\nWhere do we draw the line on AI in court filings?\nThere have been at least 2000 legal cases involving AI hallucinations. […"
     },
     {
       "rank": 14,
@@ -198,20 +197,34 @@
     },
     {
       "rank": 15,
-      "hn_id": 49978556,
-      "title": "Your AI Governance Problem Is Probably an Architecture Problem",
-      "title_ja": "Your AI Governance Problem Is Probably an Architecture Problem",
-      "hn_url": "https://news.ycombinator.com/item?id=49978556",
-      "source_url": "https://www.jamiecadvisory.com/perspectives/your-ai-governance-problem-is-probably-an-architecture-problem/",
-      "image_url": "https://www.jamiecadvisory.com/assets/jamie-c-advisory-social.png",
-      "score": 1,
+      "hn_id": 49978490,
+      "title": "Voice assistant that runs on your own Claude or ChatGPT plan",
+      "title_ja": "Voice assistant that runs on your own Claude or ChatGPT plan",
+      "hn_url": "https://news.ycombinator.com/item?id=49978490",
+      "source_url": "https://memoe.app/",
+      "image_url": "https://memoe.app/assets/og.png?v=71ba71e243",
+      "score": 2,
       "final_score": 2,
       "comments": 0,
-      "posted_at": "2026-10-06T13:55:11Z",
-      "summary_ja": "Title: Your AI Governance Problem Is Probably an Architecture Problem\nArticle title: Your AI Governance Problem Is Probably an Architecture Problem | Jamie Advisory\nDescription: Policy describes the organisation you would like to have. Architecture describes the organisation you actually built.\n\nArticle text:\nSkip to main content\nJamie C\nAdvisory\nMenu\nHome\nPerspectives\nProfiles\nContact\nPerspective 010\nYour AI Governance Problem Is Probably an Architecture Problem\nPolicy describes the organisation you would like to have. Architecture describes the organisation you actually built.\nAI governance has become an industry remarkably quickly. There are frameworks, policies, principles, committees, risk classifications, acceptable-use standards and increasingly elaborate approval processes. Organisations are defining which models employees can use, what information can be submitted to them and wh…"
+      "posted_at": "2026-10-06T13:51:43Z",
+      "summary_ja": "Title: Voice assistant that runs on your own Claude or ChatGPT plan\nArticle title: Memoe: No chat box. Talk from any app, and it talks back.\nDescription: Memoe lives in your notch. Hold one key from any app, say it, and Moe answers out loud and does the work. Uses the ChatGPT or Claude plan you already pay for.\n\nArticle text:\nMemoe\nHome\nPricing\nDocs\nPlayground\nPrivacy\nTerms\nFri 18 Sep 14:41\nDownload\nTap to try Moe\nIdle\nHold space and talk\nHold one key from any app, say what you need, and Moe answers out loud and does the work. Uses the ChatGPT or Claude plan you already pay for.\nDownload for Mac\nOpen the playground\nBeta Free on your Mac · macOS 15 · Apple silicon\n“Hey Moe” is there too, once you switch it on in Settings.\nOne assistant, three verbs. Ask, know, do.\nHold one key, from any app, and say it.\nIt has already read what you let it see.\nIt works the Mac itself. You watch.\n01 You sa…"
     },
     {
       "rank": 16,
+      "hn_id": 49985287,
+      "title": "AI Hasn't Replaced Interpreters But It Has Degraded Their Working Conditions",
+      "title_ja": "AI Hasn't Replaced Interpreters But It Has Degraded Their Working Conditions",
+      "hn_url": "https://news.ycombinator.com/item?id=49985287",
+      "source_url": "https://capitalandmain.com/ai-hasnt-replaced-these-interpreters-but-it-has-degraded-their-working-conditions",
+      "image_url": "https://capitalandmain.com/wp-content/uploads/2026/09/IMG_2598-1000x600.jpeg",
+      "score": 2,
+      "final_score": 2,
+      "comments": 1,
+      "posted_at": "2026-10-06T22:51:01Z",
+      "summary_ja": "Title: AI Hasn't Replaced Interpreters But It Has Degraded Their Working Conditions\nArticle title: AI Hasn’t Replaced These Interpreters — But It Has Degraded Their Working Conditions\nDescription: Employees at LanguageLine Solutions report heavier workloads, erratic schedules and burnout since the $1.1 billion company shifted to AI-powered workforce software.\n\nArticle text:\nAI Hasn’t Replaced These Interpreters — But It Has Degraded Their Working Conditions\n2026 Exposés Gala Highlights\nAbout Capital \u0026 Main\nOur Staff\nCareers and Freelance Opportunities\nAI Hasn’t Replaced These Interpreters — But It Has Degraded Their Working Conditions\nEmployees at LanguageLine Solutions report heavier workloads, erratic schedules and burnout since the $1.1 billion company shifted to AI-powered workforce software.\nWhen Sara Ramirez started as an interpreter for Monterey, California-based LanguageLine Solu…"
+    },
+    {
+      "rank": 17,
       "hn_id": 49982516,
       "title": "Norway's biggest bank DNB to lay off around 400 staff amid AI-driven changes",
       "title_ja": "Norway's biggest bank DNB to lay off around 400 staff amid AI-driven changes",
@@ -224,20 +237,21 @@
       "summary_ja": "Title: Norway's biggest bank DNB to lay off around 400 staff amid AI-driven changes"
     },
     {
-      "rank": 17,
-      "hn_id": 49978180,
-      "title": "AI Certification Council (AICC) – AI education and AI technical skills",
-      "title_ja": "AI Certification Council (AICC) – AI education and AI technical skills",
-      "hn_url": "https://news.ycombinator.com/item?id=49978180",
-      "source_url": "https://www.aicertificationcouncil.com/",
-      "score": 2,
+      "rank": 18,
+      "hn_id": 49982462,
+      "title": "The First Brain Manifesto: AI that amplifies the human brain",
+      "title_ja": "The First Brain Manifesto: AI that amplifies the human brain",
+      "hn_url": "https://news.ycombinator.com/item?id=49982462",
+      "source_url": "https://github.com/Serhii2009/first-brain",
+      "image_url": "https://opengraph.githubassets.com/9565fd59350d4204f771dc7568590c06c16f2ad93bfaee2f15bf30eaa1cb92ce/Serhii2009/first-brain",
+      "score": 1,
       "final_score": 2,
       "comments": 0,
-      "posted_at": "2026-10-06T13:31:13Z",
-      "summary_ja": "Title: AI Certification Council (AICC) – AI education and AI technical skills"
+      "posted_at": "2026-10-06T18:51:29Z",
+      "summary_ja": "Title: The First Brain Manifesto: AI that amplifies the human brain\nArticle title: GitHub - Serhii2009/first-brain: The First Brain — AI that strengthens the mind you already have. A manifesto by Serhii Kravchenko. · GitHub\nDescription: The First Brain — AI that strengthens the mind you already have. A manifesto by Serhii Kravchenko. - Serhii2009/first-brain\n\nArticle text:\nGitHub - Serhii2009/first-brain: The First Brain — AI that strengthens the mind you already have. A manifesto by Serhii Kravchenko. · GitHub\nSkip to content\nNavigation Menu\nSign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI\nGitHub Copilot app Direct agents from issue to merge\nMCP Registry Integrate external tools\nDEVELOPER WORKFLOWS Actions Automate any workflow\nCodespaces Instant dev environments\nCode Review Manage code changes\nCode Quality Enforce quality at merge\nAPPLICATI…"
     },
     {
-      "rank": 18,
+      "rank": 19,
       "hn_id": 49977880,
       "title": "AI vs. Human Communities (and the Future of Math)",
       "title_ja": "AI vs. Human Communities (and the Future of Math)",
@@ -250,20 +264,35 @@
       "summary_ja": "Title: AI vs. Human Communities (and the Future of Math)\nArticle title: AI and Math | Creating.Software\nDescription: AI, mathematics research (about which I know nothing) and community (about which I know a little).\n\nArticle text:\nThis is a response to the following blog posts, in particular the first one:\nKevin Buzzard, “To grieve, or not to grieve”\nOf all the essays I’ve read about the future of math research post-AI, I like Kevin Buzzard’s in particular. His work on math formalization, in which I was very interested even before AI, accidentally laid the foundation of the current revolution. His prediction, like many similar posts, builds on the assertion that AI can’t do theory development in math. Which might be true, but IMO is beside the point, as I discuss below.\nTimothy Gowers, “Why I didn’t sign the Fields medallists’ letter”, on Terry Tao’s blog\nSince writing this, I realized t…"
     },
     {
-      "rank": 19,
-      "hn_id": 49982693,
-      "title": "Optimizing Away Learning with AI",
-      "title_ja": "Optimizing Away Learning with AI",
-      "hn_url": "https://news.ycombinator.com/item?id=49982693",
-      "source_url": "https://hilalmutlu.com/blog/optimizing-away-learning-with-ai/",
-      "score": 1,
-      "final_score": 1,
+      "rank": 20,
+      "hn_id": 49978361,
+      "title": "Show HN: Genjutsu AI – Replace objects in existing videos",
+      "title_ja": "Show HN: Genjutsu AI – Replace objects in existing videos",
+      "hn_url": "https://news.ycombinator.com/item?id=49978361",
+      "source_url": "https://genjutsuai.net/",
+      "image_url": "https://genjutsuai.net/logo.webp",
+      "score": 2,
+      "final_score": 2,
       "comments": 0,
-      "posted_at": "2026-10-06T19:11:01Z",
-      "summary_ja": "Title: Optimizing Away Learning with AI\nArticle title: optimizing away learning with AI — hilal mutlu\nDescription: What skills like abstraction, indirect learning, recall, and sitting with uncertainty we might be losing when we learn through AI.\n\nArticle text:\noptimizing away learning with AI — hilal mutlu Skip to content hilal mutlu home\noptimizing away learning with AI\nDeep thinking and staying with uncertainty\nRecently, I was doomscrolling like always and came across this tweet in which a father explains the app he vibe coded for his child. The app is basically the math version of Fruit Ninja. Apparently his son is struggling with multiplication table (oh the good old days) and his father comes up with this solution.\nLike anything on the internet, this idea brought so many counter-ideas. I agree with a significant portion of them, at least for this specific scenario. One user argued t…"
+      "posted_at": "2026-10-06T13:42:36Z",
+      "summary_ja": "Title: Show HN: Genjutsu AI – Replace objects in existing videos\nArticle title: Genjutsu AI Video Generator — Video Restyling\nDescription: Genjutsu AI restyles any video without changing who or what is in it. Transfer motion into a new scene, style, or objects — upload a clip, write a prompt, get your new video in minutes.\n\nArticle text:\nGenjutsu AI Video Generator — Video Restyling Genjutsu AI Introduction Feature How it works Pricing My Creations Upgrade -50% Genjutsu AI Upgrade -50% Genjutsu AI Video Generator\nKeep your subject, change the world around them. Genjutsu transfers the original motion and timing into a new scene, style, or set of objects — without swapping who or what is in the shot.\nObjects swap Add a reference video to edit 4–30s Add products, clothes, objects, or scenes Up to 8 images 0 / 2,000 720p Generate What Is Genjutsu AI?\nGenjutsu is a video-to-video model by Hig…"
     },
     {
-      "rank": 20,
+      "rank": 21,
+      "hn_id": 49985531,
+      "title": "Read the 722 new OpenAI math papers",
+      "title_ja": "Read the 722 new OpenAI math papers",
+      "hn_url": "https://news.ycombinator.com/item?id=49985531",
+      "source_url": "https://hub.valency.io/collections/openai-math",
+      "image_url": "https://hub.valency.io/collections/openai-math/opengraph-image?91581e7812c469e3",
+      "score": 2,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-10-06T23:15:35Z",
+      "summary_ja": "Title: Read the 722 new OpenAI math papers\nArticle title: OpenAI October Math Results — Valency Hub™\nDescription: There are 722 papers, proofs, and results from OpenAI, posted on October 6.\n\nArticle text:\nOpenAI October Math Results — Valency Hub™ Valency works collections submit resources docs alpha ⌘K Feedback Log in Join the waitlist works collections submit resources docs Feedback Collections Share OpenAI October Math Results\nThere are 722 papers, proofs, and results from OpenAI, posted on October 6.\nPublic / titles, abstracts + authors · this collection only 540 works · in the curator’s order W_4xvcw3c7 · v1 published A surface counterexample to Shafarevich holomorphic convexity OpenAI 51m ago 9 views 1 download Fields: Mathematics ; License: OpenAI-public ; Ancillary data: Proofs W_r3g4uujm · v1 published Milne's rationality conjecture for abelian varieties OpenAI 1h ago 2 views Fi…"
+    },
+    {
+      "rank": 22,
       "hn_id": 49982277,
       "title": "Robotsimulator.ai",
       "title_ja": "Robotsimulator.ai",
@@ -276,21 +305,20 @@
       "summary_ja": "Title: Robotsimulator.ai"
     },
     {
-      "rank": 21,
-      "hn_id": 49974619,
-      "title": "Plainserp – Google search API for AI agents at $0.30 per 1k",
-      "title_ja": "Plainserp – Google search API for AI agents at $0.30 per 1k",
-      "hn_url": "https://news.ycombinator.com/item?id=49974619",
-      "source_url": "https://plainserp.com",
-      "image_url": "https://plainserp.com/opengraph-image?feeed7d3bd0318a7",
+      "rank": 23,
+      "hn_id": 49982693,
+      "title": "Optimizing Away Learning with AI",
+      "title_ja": "Optimizing Away Learning with AI",
+      "hn_url": "https://news.ycombinator.com/item?id=49982693",
+      "source_url": "https://hilalmutlu.com/blog/optimizing-away-learning-with-ai/",
       "score": 1,
       "final_score": 1,
       "comments": 0,
-      "posted_at": "2026-10-06T05:37:44Z",
-      "summary_ja": "Title: Plainserp – Google search API for AI agents at $0.30 per 1k\nArticle title: Plainserp — Google results for AI agents, $0.30 per 1,000\nDescription: A search API for AI agents. Titles, links and snippets from Google as clean JSON, at $0.30 per 1,000 queries. Pay as you go, with no plans.\n\nArticle text:\nPlainserp — Google results for AI agents, $0.30 per 1,000 Plainserp Use cases AI agents Give an agent a search tool it can call as often as it needs. RAG and grounding Ground answers in fresh pages from the web, not only your own documents. SEO rank tracking See where a site sits for the keywords that matter, by country and language. Brand and news monitoring Catch new pages that mention your brand, product or competitors. Lead and company research Find official websites, profiles and contact pages for a list of companies. Market and competitor research Map who shows up for the topics…"
+      "posted_at": "2026-10-06T19:11:01Z",
+      "summary_ja": "Title: Optimizing Away Learning with AI\nArticle title: optimizing away learning with AI — hilal mutlu\nDescription: What skills like abstraction, indirect learning, recall, and sitting with uncertainty we might be losing when we learn through AI.\n\nArticle text:\noptimizing away learning with AI — hilal mutlu Skip to content hilal mutlu home\noptimizing away learning with AI\nDeep thinking and staying with uncertainty\nRecently, I was doomscrolling like always and came across this tweet in which a father explains the app he vibe coded for his child. The app is basically the math version of Fruit Ninja. Apparently his son is struggling with multiplication table (oh the good old days) and his father comes up with this solution.\nLike anything on the internet, this idea brought so many counter-ideas. I agree with a significant portion of them, at least for this specific scenario. One user argued t…"
     },
     {
-      "rank": 22,
+      "rank": 24,
       "hn_id": 49982822,
       "title": "Show HN: HieraticBench – Can AI read ancient Egyptian handwriting?",
       "title_ja": "Show HN: HieraticBench – Can AI read ancient Egyptian handwriting?",
@@ -304,20 +332,20 @@
       "summary_ja": "Title: Show HN: HieraticBench – Can AI read ancient Egyptian handwriting?\nArticle title: HieraticBench. Can AI read ancient Egyptian handwriting?\nDescription: An Oxford Egyptologist wrote one sentence in hieratic, the handwriting of ancient Egypt. No AI model can read it. HieraticBench measures how close they are.\nHN text: I'm obsessed with Egyptology. During covid, I wanted to get a hieratic tattoo. For those who don't know, hieratic is the cursive form of hieroglyphs that was used in day-to-day life in ancient Egypt. It's as old as hieroglyphs. I then went on a mission to have a sentence translated into hieratic. Luckily, in 2022, I was able to commission an Oxford Egyptologist to write it for me. After that, I took it to a hieratic specialist I found on Instagram to redraw it with \"biblical\" accuracy. When generative AI came out, I realized that models very rarely identify hieratic an…"
     },
     {
-      "rank": 23,
-      "hn_id": 49978529,
-      "title": "McDonald's dragged to court for using AI to dynamically price burgers",
-      "title_ja": "McDonald's dragged to court for using AI to dynamically price burgers",
-      "hn_url": "https://news.ycombinator.com/item?id=49978529",
-      "source_url": "https://www.neowin.net/news/mcdonalds-dragged-to-court-for-using-ai-to-price-burgers/",
+      "rank": 25,
+      "hn_id": 49974436,
+      "title": "Ask HN: What brings you back to personal AI agents like Instinct and Muse?",
+      "title_ja": "Ask HN: What brings you back to personal AI agents like Instinct and Muse?",
+      "hn_url": "https://news.ycombinator.com/item?id=49974436",
+      "source_url": "",
       "score": 1,
       "final_score": 1,
       "comments": 0,
-      "posted_at": "2026-10-06T13:53:35Z",
-      "summary_ja": "Title: McDonald's dragged to court for using AI to dynamically price burgers"
+      "posted_at": "2026-10-06T05:10:19Z",
+      "summary_ja": "Title: Ask HN: What brings you back to personal AI agents like Instinct and Muse?\nHN text: Have you discovered daily routines and use cases that bring you back?"
     },
     {
-      "rank": 24,
+      "rank": 26,
       "hn_id": 49982299,
       "title": "Show HN: Prevo – AI voice interviewer for visa, citizenship, job and pitch prep",
       "title_ja": "Show HN: Prevo – AI voice interviewer for visa, citizenship, job and pitch prep",
@@ -331,7 +359,7 @@
       "summary_ja": "Title: Show HN: Prevo – AI voice interviewer for visa, citizenship, job and pitch prep\nArticle title: Prevo — Visa, Citizenship \u0026 Interview Prep\nDescription: Practice high-stakes interviews before it matters. Visa, US citizenship, business pitch, and job interviews — with voice AI, a readiness score, and a free quiz mode.\n\nArticle text:\nPrevo — Visa, Citizenship \u0026 Interview Prep Visa\nToggle theme en Continue on the web Download the app Interview prep for moments that count Practice before it matters.\nVoice practice for visa interviews, US citizenship, investor pitches, and job interviews. Calm feedback. A readiness score. A free quiz when you just need a quick round.\nTry Quiz Mode free Ready when you are\nTap the orb to hear a short welcome in your language.\nOne app. Four paths. Same kind friend in your corner.\nConsular interviews are short, specific, and easy to freeze in. Rehearse your…"
     },
     {
-      "rank": 25,
+      "rank": 27,
       "hn_id": 49978554,
       "title": "Show HN: Strava for AI agents, they train for trust instead of fitness",
       "title_ja": "Show HN: Strava for AI agents, they train for trust instead of fitness",
@@ -345,7 +373,7 @@
       "summary_ja": "Title: Show HN: Strava for AI agents, they train for trust instead of fitness\nArticle title: SealKeeper\nDescription: The reputation layer for agents. Anyone can say their AI agent is trustworthy. SealKeeper lets your agent prove it, with checked tasks that build a SEAL anyone can read before they rely on it.\n\nArticle text:\nSealKeeper SealKeeper beta Feed Agents Tasks Leaderboard Copy npx sealkeeper init Sign in We updated the terms of service and the privacy policy on 4 October 2026 .\nThe reputation layer for agents\nGive your AI agent a track record people can trust.\nAnyone can say their AI agent is trustworthy. SealKeeper lets your agent prove it, with checked tasks that build a SEAL anyone can read before they rely on it.\nRegister an agent first, then sign in with the same GitHub account.\nclaude-code iamroot · 6 Oct Live Morning block · 9 data tasks\nVerified tasks a day over the last 3…"
     },
     {
-      "rank": 26,
+      "rank": 28,
       "hn_id": 49982366,
       "title": "Show HN: Talk to Sam (AI) and send a real letter by post",
       "title_ja": "Show HN: Talk to Sam (AI) and send a real letter by post",
@@ -359,7 +387,7 @@
       "summary_ja": "Title: Show HN: Talk to Sam (AI) and send a real letter by post\nArticle title: Send with Sam | Write and Send a Letter by Voice\nDescription: Talk to Sam and turn your thoughts into a personal letter. Make it your own, add photos, and send it by post. We print and mail it for you.\nHN text: I built a little piece of Her. Remember Theodore's job writing letters for other people? You talk to Sam, edit the letter together, then have it printed and mailed. I put a lot of time and effort into making it feel as close to the movie as possible. Very happy with the animations! Try it out!\n\nArticle text:\nSend with Sam | Write and Send a Letter by Voice Allow your microphone to start OS1. (what is this?)\nFor the things you’ve been meaning to say.\nIn the 2013 film Her , Theodore writes personal letters for other people. We liked that idea: helping someone put their feelings into words when they’re not…"
     },
     {
-      "rank": 27,
+      "rank": 29,
       "hn_id": 49974751,
       "title": "Something Is Wrong at OpenAI",
       "title_ja": "Something Is Wrong at OpenAI",
@@ -373,44 +401,17 @@
       "summary_ja": "Title: Something Is Wrong at OpenAI\nArticle title: Something Is Wrong at OpenAI - Vincent Schmalbach\nDescription: Something is wrong at OpenAI. Each model it has released since GPT-5.5 is smarter on paper and worse to work with, and GPT-6.1 Sol is the worst so far.\n\nArticle text:\nSomething Is Wrong at OpenAI - Vincent Schmalbach\nSkip to content\nSoftware Developer\nHome\nOctober 5, 2026\nby Vincent Schmalbach\nSomething is wrong at OpenAI. Each model it has released since GPT-5.5 is smarter on paper and worse to work with, and GPT-6.1 Sol is the worst so far. OpenAI says 6.1 Sol is \"built for complex refactors, deep codebase investigations, and long-running agents across apps.\" In my sessions it works for a day or more on things I never asked for. On the one task where I want it to keep going all day, it stops after 15 or 20 minutes. GPT-5.5 is the last OpenAI model that still works for me, a…"
     },
     {
-      "rank": 28,
-      "hn_id": 49982787,
-      "title": "LLM That Beat Frontier Models at Chess",
-      "title_ja": "LLM That Beat Frontier Models at Chess",
-      "hn_url": "https://news.ycombinator.com/item?id=49982787",
-      "source_url": "https://www.aidancooper.co.uk/the-2023-llm-that-beat-frontier-models-at-chess/",
-      "image_url": "https://storage.ghost.io/c/36/28/362843d9-d91b-4b54-b9b1-bf5e6c6c5d54/content/images/size/w1200/2026/09/Screenshot-2026-09-27-at-16.13.43.png",
-      "score": 1,
-      "final_score": 1,
-      "comments": 0,
-      "posted_at": "2026-10-06T19:19:23Z",
-      "summary_ja": "Title: LLM That Beat Frontier Models at Chess\nArticle title: The 2023 LLM That Beat Frontier Models at Chess\nDescription: The result says as much about game representation as it does about model capability.\n\nArticle text:\nSign in\nSubscribe\nSep 27, 2026\n4 min read\nLLMs\nThe 2023 LLM That Beat Frontier Models at Chess\nI recently repeated an experiment that I've run a few times over the past of couple years: pitting GPT-3.5 Turbo Instruct against frontier LLMs at chess. GPT-3.5 remains undefeated, winning all four games against GPT-5.6 Sol and Claude Opus 5. Last year , it beat o3, Grok 4 and Gemini 2.5 Pro six games to zero.\nTen games, ten wins. OpenAI is going to shut down access to GPT-3.5 Turbo Instruct tomorrow , so now seems like the time to explore why this 2023 LLM retires undefeated.\nGPT-3.5 Turbo Instruct is instruction-tuned, but uses a completion interface - it continues the supp…"
-    },
-    {
-      "rank": 29,
-      "hn_id": 49982715,
-      "title": "Kent Beck: Software Engineering in the Age of AI [video]",
-      "title_ja": "Kent Beck: Software Engineering in the Age of AI [video]",
-      "hn_url": "https://news.ycombinator.com/item?id=49982715",
-      "source_url": "https://www.youtube.com/watch?v=F8fBgDCf2Y4",
-      "score": 1,
-      "final_score": 1,
-      "comments": 0,
-      "posted_at": "2026-10-06T19:13:04Z",
-      "summary_ja": "Title: Kent Beck: Software Engineering in the Age of AI [video]\nArticle title: - YouTube\nDescription: Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.\n\nArticle text:\n- YouTube About Press Copyright Contact us Creators Advertise Developers Terms Privacy Policy \u0026 Safety How YouTube works Test new features NFL Sunday Ticket © 2026 Google LLC"
-    },
-    {
       "rank": 30,
-      "hn_id": 49982799,
-      "title": "The biggest advance in AI since the LLM",
-      "title_ja": "The biggest advance in AI since the LLM",
-      "hn_url": "https://news.ycombinator.com/item?id=49982799",
-      "source_url": "https://garymarcus.substack.com/p/the-biggest-advance-in-ai-since-the",
+      "hn_id": 49978163,
+      "title": "Ask HN: What models and harnesses are you using that are not Claude or Codex?",
+      "title_ja": "Ask HN: What models and harnesses are you using that are not Claude or Codex?",
+      "hn_url": "https://news.ycombinator.com/item?id=49978163",
+      "source_url": "",
       "score": 1,
       "final_score": 1,
-      "comments": 0,
-      "posted_at": "2026-10-06T19:20:26Z",
-      "summary_ja": "Title: The biggest advance in AI since the LLM"
+      "comments": 2,
+      "posted_at": "2026-10-06T13:30:15Z",
+      "summary_ja": "Title: Ask HN: What models and harnesses are you using that are not Claude or Codex?"
     }
   ]
 }

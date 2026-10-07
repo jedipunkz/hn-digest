@@ -1,6 +1,6 @@
 {
   "date": "2026-10-07",
-  "generated_at": "2026-10-07T04:39:06Z",
+  "generated_at": "2026-10-07T11:34:22Z",
   "articles": [
     {
       "rank": 1,
@@ -18,6 +18,48 @@
     },
     {
       "rank": 2,
+      "hn_id": 49991074,
+      "title": "OpenAI Mathematics Manuscript Collection",
+      "title_ja": "OpenAI Mathematics Manuscript Collection",
+      "hn_url": "https://news.ycombinator.com/item?id=49991074",
+      "source_url": "https://github.com/openai/math/blob/main/CONTENTS.md",
+      "image_url": "https://opengraph.githubassets.com/5be91961d817e70eeeeddbf1683b31f7b10c94bd75d843a2552ddd10552a8ac5/openai/math",
+      "score": 2,
+      "final_score": 4,
+      "comments": 0,
+      "posted_at": "2026-10-07T11:07:36Z",
+      "summary_ja": "Title: OpenAI Mathematics Manuscript Collection\nArticle title: math/CONTENTS.md at main · openai/math · GitHub\nDescription: Contribute to openai/math development by creating an account on GitHub.\n\nArticle text:\nmath/CONTENTS.md at main · openai/math · GitHub\nSkip to content\nNavigation Menu\nSign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI\nGitHub Copilot app Direct agents from issue to merge\nMCP Registry Integrate external tools\nDEVELOPER WORKFLOWS Actions Automate any workflow\nCodespaces Instant dev environments\nCode Review Manage code changes\nCode Quality Enforce quality at merge\nAPPLICATION SECURITY GitHub Advanced Security Find and fix vulnerabilities\nCode security Secure your code as you build\nSecret protection Stop leaks before they start\nSolutions BY COMPANY SIZE Enterprises\nEXPLORE BY TYPE Customer stories\nSUPPORT \u0026 SERVICES Documentati…"
+    },
+    {
+      "rank": 3,
+      "hn_id": 49990946,
+      "title": "Rex – Superlogical's AI multiplexer, now in beta",
+      "title_ja": "Rex – Superlogical's AI multiplexer, now in beta",
+      "hn_url": "https://news.ycombinator.com/item?id=49990946",
+      "source_url": "https://www.superlogical.com/updates/public-testing-beginning",
+      "image_url": "https://www.superlogical.com/updates/public-testing-beginning/og.webp",
+      "score": 2,
+      "final_score": 4,
+      "comments": 0,
+      "posted_at": "2026-10-07T10:51:22Z",
+      "summary_ja": "Title: Rex – Superlogical's AI multiplexer, now in beta\nArticle title: Public testing is beginning — Superlogical\nDescription: Rex is ready for public testing and we\n\nArticle text:\nPublic testing is beginning — Superlogical\nPublic testing is beginning\nRex is ready for public testing. We're beginning to invite members of our mailing list today.\nRex is a drop-in replacement for whichever terminal you use today and you will feel an instant upgrade\nin user experience, quality, and capabilities such as persistent sessions,\nperformant and responsive remote connections, program activity status,\nand more. Plus, it's simply beautiful.\nInitially, we're limiting testing to our macOS application.\nThe macOS application self-hosts its own Rex server and it is able to connect\nto other Rex servers. If you have multiple macOS devices, you can run Rex\non all of them and connect to any through the macOS ap…"
+    },
+    {
+      "rank": 4,
+      "hn_id": 49990944,
+      "title": "We tried to reproduce LLM judge position bias",
+      "title_ja": "We tried to reproduce LLM judge position bias",
+      "hn_url": "https://news.ycombinator.com/item?id=49990944",
+      "source_url": "https://github.com/ViridianAIQualityAssurance/viridian-assurance-research/tree/main/studies/001-position-sensitivity",
+      "image_url": "https://opengraph.githubassets.com/f9856e1f28c6fb7bb062afa24df73b8229ac2da22a9327052a446700d2392c42/ViridianAIQualityAssurance/viridian-assurance-research",
+      "score": 1,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-10-07T10:51:20Z",
+      "summary_ja": "Title: We tried to reproduce LLM judge position bias\nArticle title: viridian-assurance-research/studies/001-position-sensitivity at main · ViridianAIQualityAssurance/viridian-assurance-research · GitHub\nDescription: Independent research on AI evaluation validity, LLM-as-a-judge reliability, benchmark comparability and experimental assurance. - viridian-assurance-research/studies/001-position-sensitivity at main · ViridianAIQualityAssurance/viridian-assurance-research\n\nArticle text:\nviridian-assurance-research/studies/001-position-sensitivity at main · ViridianAIQualityAssurance/viridian-assurance-research · GitHub\nSkip to content\nNavigation Menu\nSign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI\nGitHub Copilot app Direct agents from issue to merge\nMCP Registry Integrate external tools\nDEVELOPER WORKFLOWS Actions Automate any workflow\nCodespaces…"
+    },
+    {
+      "rank": 5,
       "hn_id": 49988038,
       "title": "Claude subscription plan provides more value than OpenAI's, study says",
       "title_ja": "Claude subscription plan provides more value than OpenAI's, study says",
@@ -31,7 +73,48 @@
       "summary_ja": "Title: Claude subscription plan provides more value than OpenAI's, study says\nArticle title: Anthropic Claude subscription plan provides more value than OpenAI's, study says\nDescription: Research firm not exactly thrilled by House of Altman\n\nArticle text:\nJump to main content\nSearch\nTOPICS\nSpecial Features\nAll Special Features\nCloud Infrastructure Month 2026\nModernizing Financial Services with FIS and AWS\nMake it real with Capgemini and AWS\nNutanix: Scale Kubernetes. Not Chaos.\nAnthropic Claude subscription plan provides more value than OpenAI's, study says\nResearch firm not exactly thrilled by House of Altman's subscription changes\nSouth Korean president calls for creation of tools that stop all cyber-attacks\nnow\nAnthropic reconfigures its cool kids security program\n4 hours ago\nWikimedia Foundation comes forward as latest OpenAI agent assault victim\n11 hours ago\nOpenAI rolls out weak sa…"
     },
     {
-      "rank": 3,
+      "rank": 6,
+      "hn_id": 49991006,
+      "title": "AI agent posted personal bank balances into company Slack",
+      "title_ja": "AI agent posted personal bank balances into company Slack",
+      "hn_url": "https://news.ycombinator.com/item?id=49991006",
+      "source_url": "https://twitter.com/ShaneMac/status/2107486740491669879",
+      "image_url": "https://pbs.twimg.com/media/HT9I9a3W4AAUueB?format=webp\u0026name=large",
+      "score": 2,
+      "final_score": 2,
+      "comments": 1,
+      "posted_at": "2026-10-07T10:59:17Z",
+      "summary_ja": "Title: AI agent posted personal bank balances into company Slack\nArticle title: Shane Mac on X: \"Embarrassed to share this, but it scared the shit out of me\nLast Thursday, an AI agent posted my personal bank balances into our company Slack. As me\nIt broke down all my expenses in detail. Then it apologized\nBe careful of the dark side of proactive agents\nMore below...\" / X\nDescription: Embarrassed to share this, but it scared the shit out of me\nLast Thursday, an AI agent posted my personal bank balances into our company Slack. As me\nIt broke down all my expenses in detail. Then it apologized\nBe careful of the dark side of proactive agents\nMore below...\n\nArticle text:\nShane Mac on X: \"Embarrassed to share this, but it scared the shit out of me\nLast Thursday, an AI agent posted my personal bank balances into our company Slack. As me\nIt broke down all my expenses in detail. Then it apologized…"
+    },
+    {
+      "rank": 7,
+      "hn_id": 49991249,
+      "title": "Valkey 9.2 Targets Memory Overhead with AI Used to Improve Its Code",
+      "title_ja": "Valkey 9.2 Targets Memory Overhead with AI Used to Improve Its Code",
+      "hn_url": "https://news.ycombinator.com/item?id=49991249",
+      "source_url": "https://techstrong.it/featured/valkey-9-2-targets-memory-overhead-with-ai-used-to-improve-its-code/",
+      "image_url": "https://techstrong.it/wp-content/uploads/2026/10/valkey_ai_770x330-1.jpg",
+      "score": 1,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-10-07T11:28:38Z",
+      "summary_ja": "Title: Valkey 9.2 Targets Memory Overhead with AI Used to Improve Its Code\nArticle title: Valkey 9.2 Targets Memory Overhead With AI Used to Improve Its Code - Techstrong IT\nDescription: Some open-source projects are hesitant to talk about how they use AI to improve their code. Not Valkey. Its developers are proud AI users.\n\nArticle text:\nValkey 9.2 Targets Memory Overhead With AI Used to Improve Its Code - Techstrong IT\nSkip to content\nToggle Navigation Latest Articles\nValkey 9.2 Targets Memory Overhead With AI Used to Improve Its Code\n– Valkey 9.2 introduces forkless RDB snapshotting to reduce the memory overhead caused by copy-on-write during database snapshots.\n– The Valkey team hopes the new snapshotting approach can reduce reserved memory requirements from roughly 50% to about 10% to 15%.\n– A new Path Hash data type is designed for prefix-aware workloads and could help support LLM…"
+    },
+    {
+      "rank": 8,
+      "hn_id": 49991138,
+      "title": "Jev made me rethink AI Ops Engineering",
+      "title_ja": "Jev made me rethink AI Ops Engineering",
+      "hn_url": "https://news.ycombinator.com/item?id=49991138",
+      "source_url": "https://arminn.com/writing/jev-made-me-rethink-ai-ops-engineering/",
+      "score": 1,
+      "final_score": 2,
+      "comments": 1,
+      "posted_at": "2026-10-07T11:15:14Z",
+      "summary_ja": "Title: Jev made me rethink AI Ops Engineering\nArticle title: Jev made me rethink AI Ops Engineering — Armin Naimi\nDescription: How AI Ops systems can combine code, decision models, LLMs, agents and human judgment.\n\nArticle text:\nJev made me rethink AI Ops Engineering — Armin Naimi Skip to content Armin Naimi AI Ops Engineer \u0026 Leader | Product Builder Jev made me rethink AI Ops Engineering\nI’ve been thinking a lot about AI Ops Engineering lately.\nNot “AI infrastructure” in the sense of hosting models.\nI mean the engineering discipline around making AI actually operate inside a company.\nConnecting models to business systems. Giving them the right context. Deciding what they are allowed to do. Routing work between humans, agents and software. Measuring what happens. Handling failures. And, increasingly, deciding which kind of intelligence should be used for which decision .\nJev made that la…"
+    },
+    {
+      "rank": 9,
       "hn_id": 49988183,
       "title": "Research;Open Sourcing Health Research with AI – Accelerating Evidence Synthesis",
       "title_ja": "Research;Open Sourcing Health Research with AI – Accelerating Evidence Synthesis",
@@ -44,20 +127,74 @@
       "summary_ja": "Title: Research;Open Sourcing Health Research with AI – Accelerating Evidence Synthesis\nArticle title: Open Sourcing Health Research: An AI Approach to the Betterment of Humankind | Zenodo\nDescription: Background. Planning and checking health research takes skilled teams months. AI agents can now search, read, extract and analyse, but evidence-synthesis bodies require human accountability, validation and transparent reporting. This paper describes a construct, open-sourcing health research, in whi\n[truncated]\n\nArticle text:\nOpen Sourcing Health Research: An AI Approach to the Betterment of Humankind | Zenodo\nSkip to main\nYou are using an outdated browser. Please upgrade your browser to improve your experience.\nOpen Sourcing Health Research: An AI Approach to the Betterment of Humankind\nBackground. Planning and checking health research takes skilled teams months. AI agents can now search,…"
     },
     {
-      "rank": 4,
-      "hn_id": 49988056,
-      "title": "Ask HN: Does AI do better with CSS or Tailwind?",
-      "title_ja": "Ask HN: Does AI do better with CSS or Tailwind?",
-      "hn_url": "https://news.ycombinator.com/item?id=49988056",
-      "source_url": "",
+      "rank": 10,
+      "hn_id": 49991123,
+      "title": "Musician sent to prison for $10M streaming fraud using AI bots",
+      "title_ja": "Musician sent to prison for $10M streaming fraud using AI bots",
+      "hn_url": "https://news.ycombinator.com/item?id=49991123",
+      "source_url": "https://www.bleepingcomputer.com/news/security/musician-gets-18-months-in-prison-for-10-million-streaming-fraud-using-ai-bots/",
+      "image_url": "https://www.bleepstatic.com/content/hl-images/2026/10/07/Streaming_music_bots.jpg",
+      "score": 1,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-10-07T11:13:16Z",
+      "summary_ja": "Title: Musician sent to prison for $10M streaming fraud using AI bots\nArticle title: Musician sent to prison for $10 million streaming fraud using AI bots\nDescription: A North Carolina musician was sentenced to 18 months in prison for collecting more than $10 million in royalties from Spotify, Apple Music, Amazon Music, and YouTube Music in a massive streaming royalty fraud scheme.\n\nArticle text:\nMusician sent to prison for $10 million streaming fraud using AI bots\nGoogle halts open-source bug bounty program amid AI spam surge\nOpenAI is adding invisible watermarks to ChatGPT and Codex text in the EU\nMicrosoft: Windows KB5124010 update crashes some games and apps\nSouth Korea probes bank breaches amid suspected AI-powered attacks\nOne Babbel subscription gets you all 14 languages for life\nMusician sent to prison for $10 million streaming fraud using AI bots\nAdvantest confirms personal infor…"
+    },
+    {
+      "rank": 11,
+      "hn_id": 49991163,
+      "title": "Claude tells Ben Thompson his Mac Mini is compromised",
+      "title_ja": "Claude tells Ben Thompson his Mac Mini is compromised",
+      "hn_url": "https://news.ycombinator.com/item?id=49991163",
+      "source_url": "https://www.reddit.com/r/ClaudeAI/comments/1wzkpu9/claude_tells_ben_thompson_his_mac_mini_is/",
       "score": 1,
       "final_score": 1,
       "comments": 0,
-      "posted_at": "2026-10-07T04:09:32Z",
-      "summary_ja": "Title: Ask HN: Does AI do better with CSS or Tailwind?\nHN text: For those who have let AI build sufficiently large projects, what worked out better for you: AI writing raw CSS, or restricting it to Tailwind utility classes?"
+      "posted_at": "2026-10-07T11:17:38Z",
+      "summary_ja": "Title: Claude tells Ben Thompson his Mac Mini is compromised"
     },
     {
-      "rank": 5,
+      "rank": 12,
+      "hn_id": 49988005,
+      "title": "Local AI is real now. And it's blowing my mind",
+      "title_ja": "Local AI is real now. And it's blowing my mind",
+      "hn_url": "https://news.ycombinator.com/item?id=49988005",
+      "source_url": "https://hive.technology/lab-notes/local-ai-is-real/",
+      "image_url": "https://hive.technology/lab-notes/local-ai-is-real/og.png",
+      "score": 1,
+      "final_score": 1,
+      "comments": 1,
+      "posted_at": "2026-10-07T04:02:20Z",
+      "summary_ja": "Title: Local AI is real now. And it's blowing my mind\nArticle title: Local AI is real now · Hive.Tech™\nDescription: There is a whole class of work I want an agent chewing on all night that is not worth frontier prices. A year of trying local sucked. Then the hardware caught up: four open models on one machine, on solar, taking real work. The box, the numbers, and what it cannot do yet.\n\nArticle text:\n[ HIVE.TECH ] ™\nNEXUS\nDEV\nWORK\nCOMPANY\n// DEV \u003e LAB NOTES · 261002\nThere is a whole class of work I want an agent chewing on all night that is not worth frontier prices. A year of trying local sucked. Then the hardware caught up: four open models on one machine, on solar, taking real work. The box, the numbers, and what it cannot do yet.\nFOR AGENTS: this article as plain text with a reading guide, local-ai-is-real.agents.md .\nDISCUSS THIS WITH AN AGENT COPY\nRead https://hive.technology/lab-n…"
+    },
+    {
+      "rank": 13,
+      "hn_id": 49991218,
+      "title": "LLMs and Data Poisoning Are Weaponized to Manufacture Consensus",
+      "title_ja": "LLMs and Data Poisoning Are Weaponized to Manufacture Consensus",
+      "hn_url": "https://news.ycombinator.com/item?id=49991218",
+      "source_url": "https://medium.com/@eslam.elsewedy/synthetic-truth-how-marketing-power-and-ai-bend-reality-cd8a1173b968",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-10-07T11:23:55Z",
+      "summary_ja": "Title: LLMs and Data Poisoning Are Weaponized to Manufacture Consensus"
+    },
+    {
+      "rank": 14,
+      "hn_id": 49990896,
+      "title": "The Simulation's Ending – Claude Opus 5.5 music video",
+      "title_ja": "The Simulation's Ending – Claude Opus 5.5 music video",
+      "hn_url": "https://news.ycombinator.com/item?id=49990896",
+      "source_url": "https://www.youtube.com/watch?v=R_ErmTs7g9I",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-10-07T10:43:48Z",
+      "summary_ja": "Title: The Simulation's Ending – Claude Opus 5.5 music video\nArticle title: - YouTube\nDescription: Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.\n\nArticle text:\n- YouTube About Press Copyright Contact us Creators Advertise Developers Terms Privacy Policy \u0026 Safety How YouTube works Test new features NFL Sunday Ticket © 2026 Google LLC"
+    },
+    {
+      "rank": 15,
       "hn_id": 49988081,
       "title": "Guide to Using Generative AI in Programming – Textbook by Antti Laaksonen",
       "title_ja": "Guide to Using Generative AI in Programming – Textbook by Antti Laaksonen",
@@ -70,18 +207,17 @@
       "summary_ja": "Title: Guide to Using Generative AI in Programming – Textbook by Antti Laaksonen\nArticle title: Client Challenge\n\nArticle text:\nClient Challenge\nA required part of this site couldn’t load. This may be due to a browser\nextension, network issues, or browser settings. Please check your\nconnection, disable any ad blockers, or try using a different browser."
     },
     {
-      "rank": 6,
-      "hn_id": 49988005,
-      "title": "Local AI is real now. And it's blowing my mind",
-      "title_ja": "Local AI is real now. And it's blowing my mind",
-      "hn_url": "https://news.ycombinator.com/item?id=49988005",
-      "source_url": "https://hive.technology/lab-notes/local-ai-is-real/",
-      "image_url": "https://hive.technology/lab-notes/local-ai-is-real/og.png",
+      "rank": 16,
+      "hn_id": 49988056,
+      "title": "Ask HN: Does AI do better with CSS or Tailwind?",
+      "title_ja": "Ask HN: Does AI do better with CSS or Tailwind?",
+      "hn_url": "https://news.ycombinator.com/item?id=49988056",
+      "source_url": "",
       "score": 1,
       "final_score": 1,
-      "comments": 1,
-      "posted_at": "2026-10-07T04:02:20Z",
-      "summary_ja": "Title: Local AI is real now. And it's blowing my mind\nArticle title: Local AI is real now · Hive.Tech™\nDescription: There is a whole class of work I want an agent chewing on all night that is not worth frontier prices. A year of trying local sucked. Then the hardware caught up: four open models on one machine, on solar, taking real work. The box, the numbers, and what it cannot do yet.\n\nArticle text:\n[ HIVE.TECH ] ™\nNEXUS\nDEV\nWORK\nCOMPANY\n// DEV \u003e LAB NOTES · 261002\nThere is a whole class of work I want an agent chewing on all night that is not worth frontier prices. A year of trying local sucked. Then the hardware caught up: four open models on one machine, on solar, taking real work. The box, the numbers, and what it cannot do yet.\nFOR AGENTS: this article as plain text with a reading guide, local-ai-is-real.agents.md .\nDISCUSS THIS WITH AN AGENT COPY\nRead https://hive.technology/lab-n…"
+      "comments": 0,
+      "posted_at": "2026-10-07T04:09:32Z",
+      "summary_ja": "Title: Ask HN: Does AI do better with CSS or Tailwind?\nHN text: For those who have let AI build sufficiently large projects, what worked out better for you: AI writing raw CSS, or restricting it to Tailwind utility classes?"
     }
   ]
 }

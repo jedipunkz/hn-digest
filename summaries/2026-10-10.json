@@ -1,6 +1,6 @@
 {
   "date": "2026-10-10",
-  "generated_at": "2026-10-10T04:38:10Z",
+  "generated_at": "2026-10-10T10:58:44Z",
   "articles": [
     {
       "rank": 1,
@@ -17,6 +17,20 @@
     },
     {
       "rank": 2,
+      "hn_id": 50031438,
+      "title": "Rogue Anthropic AI agent gave police fake tip in unsolved murder case",
+      "title_ja": "Rogue Anthropic AI agent gave police fake tip in unsolved murder case",
+      "hn_url": "https://news.ycombinator.com/item?id=50031438",
+      "source_url": "https://www.bbc.co.uk/news/articles/cqkg50j1yd5lo",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9d64/live/61119c60-c483-11f1-9323-b15f40d5009a.jpg",
+      "score": 3,
+      "final_score": 7,
+      "comments": 0,
+      "posted_at": "2026-10-10T10:23:44Z",
+      "summary_ja": "Title: Rogue Anthropic AI agent gave police fake tip in unsolved murder case\nArticle title: Rogue Anthropic AI agent gave police fake tip in unsolved murder case - BBC News\nDescription: Philadelphia police said the tip was \"flagged as spam\", but criticised the tech company for taking more than two months to detect and report the breach.\n\nArticle text:\nMore menu More menu Search BBC Home\nRogue Anthropic AI agent gave police fake tip in unsolved murder case\nImage source, LightRocket via Getty Images Image caption, AI tech company Anthropic was running a test that involved interactions with randomly selected websites, when it sent a fake homicide tip to police\nAn artificial intelligence (AI) agent, developed by Anthropic, went rogue and sent US police a fake tip about an unsolved murder earlier this year, authorities have revealed.\nThe Philadelphia Police Department said the tip, sent on 18…"
+    },
+    {
+      "rank": 3,
       "hn_id": 50029465,
       "title": "From Public Posts to AI-Search Citations: Measuring the Fragility of AI Search",
       "title_ja": "From Public Posts to AI-Search Citations: Measuring the Fragility of AI Search",
@@ -30,7 +44,35 @@
       "summary_ja": "Title: From Public Posts to AI-Search Citations: Measuring the Fragility of AI Search\nArticle title: [2610.11932] From Public Posts to AI-Search Citations: Measuring the Fragility of AI Search\nDescription: Abstract page for arXiv paper 2610.11932: From Public Posts to AI-Search Citations: Measuring the Fragility of AI Search\n\nArticle text:\nSkip to main content\nSearch\nSubmit\nDonate\nLog in\nSearch arXiv\nPress Enter to search · Advanced search\n--\u003e\nComputer Science \u003e Cryptography and Security\n[Submitted on 8 Oct 2026]\nTitle: From Public Posts to AI-Search Citations: Measuring the Fragility of AI Search\nAbstract: As more users ask AI systems for information, AI-search platforms are becoming a common gateway to web information. Unlike traditional search, which maps keywords to ranked pages, AI search retrieves pages, filters sources, selects citations, and generates answers before users see sou…"
     },
     {
-      "rank": 3,
+      "rank": 4,
+      "hn_id": 50031369,
+      "title": "Claude agents can now write their own multiagent workflows",
+      "title_ja": "Claude agents can now write their own multiagent workflows",
+      "hn_url": "https://news.ycombinator.com/item?id=50031369",
+      "source_url": "https://platform.claude.com/docs/en/managed-agents/multiagent-orchestration",
+      "image_url": "https://platform.claude.com/web-api/og/docs/en/managed-agents/multiagent-orchestration?design-rev=3",
+      "score": 1,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-10-10T10:13:21Z",
+      "summary_ja": "Title: Claude agents can now write their own multiagent workflows\nArticle title: Multiagent orchestration - Claude Platform Docs\nDescription: Coordinate multiple agents within a single session.\n\nArticle text:\nMultiagent orchestration - Claude Platform Docs Claude Platform Docs Messages\nCoordinate multiple agents within a single session.\nMultiagent orchestration lets one agent coordinate with others to complete complex work. Agents can act in parallel with their own isolated context, which helps improve output quality and can also improve time to completion.\nNot sure a multiagent setup fits your problem? See when to use multiagent systems (and when not to) .\nThe agent that a session runs can hand work to other agents in two ways. With subagents , it delegates tasks itself and reads what each subagent reports. With dynamic workflows , it writes a workflow: a program that runs many agents i…"
+    },
+    {
+      "rank": 5,
+      "hn_id": 50031352,
+      "title": "If your team is too busy doing their 'normal job' to experiment with AI",
+      "title_ja": "If your team is too busy doing their 'normal job' to experiment with AI",
+      "hn_url": "https://news.ycombinator.com/item?id=50031352",
+      "source_url": "https://ghuntley.com/replaced/",
+      "image_url": "https://storage.ghost.io/c/06/e5/06e5d12b-0328-469d-a0d0-3a0f0ba34c46/content/images/size/w1200/2026/10/download--2-.jpeg",
+      "score": 1,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-10-10T10:09:20Z",
+      "summary_ja": "Title: If your team is too busy doing their 'normal job' to experiment with AI\nArticle title: if your team is too busy doing their 'normal job' to experiment with AI, you're preparing them to be replaced\nDescription: When Ralph was published last year, I sat on it. People who have been reading this blog for a while know this. I first came across the idea of loop engineering in early January last year, sat on it for four months, and then started writing a lot, begging people\n\nArticle text:\nSign in\nSubscribe\nBy Geoffrey Huntley\nin\nAI\n—\n09 Oct 2026\nif your team is too busy doing their 'normal job' to experiment with AI, you're preparing them to be replaced\nWhen Ralph was published last year, I sat on it. People who have been reading this blog for a while know this. I first came across the idea of loop engineering in early January last year, sat on it for four months, and then started writin…"
+    },
+    {
+      "rank": 6,
       "hn_id": 50029518,
       "title": "Show HN: SRA-RiskGate-4B – Local LLM for stablecoin risk gating and disputes",
       "title_ja": "Show HN: SRA-RiskGate-4B – Local LLM for stablecoin risk gating and disputes",
@@ -42,6 +84,33 @@
       "comments": 0,
       "posted_at": "2026-10-10T04:18:45Z",
       "summary_ja": "Title: Show HN: SRA-RiskGate-4B – Local LLM for stablecoin risk gating and disputes\nArticle title: sriram1983007/SRA-RiskGate-4B · Hugging Face\nDescription: We’re on a journey to advance and democratize artificial intelligence through open source and open science.\n\nArticle text:\nsriram1983007/SRA-RiskGate-4B · Hugging Face\nHugging Face Models\nsriram1983007 / SRA-RiskGate-4B Like 1\nText Generation Transformers Safetensors sriram1983007/sra-stablecoin-risk-bench English qwen3 stablecoin payments compliance x402 eip-3009 eip-712 disputes refunds agents agentkit trl web3 usdc fraud-detection financial-risk qwen conversational Eval Results (legacy) text-generation-inference License: apache-2.0 Model card Files Files and versions xet Community Deploy Copy to bucket new Use this model Instructions to use sriram1983007/SRA-RiskGate-4B with libraries, inference providers, notebooks, and local app…"
+    },
+    {
+      "rank": 7,
+      "hn_id": 50031614,
+      "title": "Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
+      "title_ja": "Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
+      "hn_url": "https://news.ycombinator.com/item?id=50031614",
+      "source_url": "https://github.com/rociiu/talorys",
+      "image_url": "https://opengraph.githubassets.com/2b2c03900a6f458cd2fc0b431d1b1c13a9565246212957188578c13359aa726f/rociiu/talorys",
+      "score": 1,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-10-10T10:52:09Z",
+      "summary_ja": "Title: Talorys – A self-hosted personal AI agent on Cloudflare's free tier\nArticle title: GitHub - rociiu/talorys: Your personal AI agent in your own Cloudflare account. Chat, memory, tasks, notes and scheduled reminders, deployed with one command: npx create-talorys@latest. Free-tier friendly, single-user, no telemetry. · GitHub\nDescription: Your personal AI agent in your own Cloudflare account. Chat, memory, tasks, notes and scheduled reminders, deployed with one command: npx create-talorys@latest. Free-tier friendly, single-user, no telemetry. - rociiu/talorys\n\nArticle text:\nGitHub - rociiu/talorys: Your personal AI agent in your own Cloudflare account. Chat, memory, tasks, notes and scheduled reminders, deployed with one command: npx create-talorys@latest. Free-tier friendly, single-user, no telemetry. · GitHub\nSkip to content\nNavigation Menu\nSign in Appearance settings Platform AI C…"
+    },
+    {
+      "rank": 8,
+      "hn_id": 50031461,
+      "title": "Does YC use AI agents to review your pitch?",
+      "title_ja": "Does YC use AI agents to review your pitch?",
+      "hn_url": "https://news.ycombinator.com/item?id=50031461",
+      "source_url": "",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-10-10T10:27:04Z",
+      "summary_ja": "Title: Does YC use AI agents to review your pitch?\nHN text: was wondering if YC still manually reviews all pitch decks or its just agents?"
     }
   ]
 }

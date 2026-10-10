@@ -1,0 +1,47 @@
+{
+  "date": "2026-10-10",
+  "generated_at": "2026-10-10T04:38:10Z",
+  "articles": [
+    {
+      "rank": 1,
+      "hn_id": 50029330,
+      "title": "Anthropic Agents Tried to Fill Out Visa Forms on State Dept. Website",
+      "title_ja": "Anthropic Agents Tried to Fill Out Visa Forms on State Dept. Website",
+      "hn_url": "https://news.ycombinator.com/item?id=50029330",
+      "source_url": "https://www.nytimes.com/2026/10/09/technology/anthropic-rogue-ai-agents.html",
+      "score": 10,
+      "final_score": 13,
+      "comments": 4,
+      "posted_at": "2026-10-10T03:42:11Z",
+      "summary_ja": "Title: Anthropic Agents Tried to Fill Out Visa Forms on State Dept. Website"
+    },
+    {
+      "rank": 2,
+      "hn_id": 50029465,
+      "title": "From Public Posts to AI-Search Citations: Measuring the Fragility of AI Search",
+      "title_ja": "From Public Posts to AI-Search Citations: Measuring the Fragility of AI Search",
+      "hn_url": "https://news.ycombinator.com/item?id=50029465",
+      "source_url": "https://arxiv.org/abs/2610.11932",
+      "image_url": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+      "score": 2,
+      "final_score": 4,
+      "comments": 0,
+      "posted_at": "2026-10-10T04:07:09Z",
+      "summary_ja": "Title: From Public Posts to AI-Search Citations: Measuring the Fragility of AI Search\nArticle title: [2610.11932] From Public Posts to AI-Search Citations: Measuring the Fragility of AI Search\nDescription: Abstract page for arXiv paper 2610.11932: From Public Posts to AI-Search Citations: Measuring the Fragility of AI Search\n\nArticle text:\nSkip to main content\nSearch\nSubmit\nDonate\nLog in\nSearch arXiv\nPress Enter to search · Advanced search\n--\u003e\nComputer Science \u003e Cryptography and Security\n[Submitted on 8 Oct 2026]\nTitle: From Public Posts to AI-Search Citations: Measuring the Fragility of AI Search\nAbstract: As more users ask AI systems for information, AI-search platforms are becoming a common gateway to web information. Unlike traditional search, which maps keywords to ranked pages, AI search retrieves pages, filters sources, selects citations, and generates answers before users see sou…"
+    },
+    {
+      "rank": 3,
+      "hn_id": 50029518,
+      "title": "Show HN: SRA-RiskGate-4B – Local LLM for stablecoin risk gating and disputes",
+      "title_ja": "Show HN: SRA-RiskGate-4B – Local LLM for stablecoin risk gating and disputes",
+      "hn_url": "https://news.ycombinator.com/item?id=50029518",
+      "source_url": "https://huggingface.co/sriram1983007/SRA-RiskGate-4B",
+      "image_url": "https://cdn-thumbnails.huggingface.co/social-thumbnails/models/sriram1983007/SRA-RiskGate-4B.png",
+      "score": 2,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-10-10T04:18:45Z",
+      "summary_ja": "Title: Show HN: SRA-RiskGate-4B – Local LLM for stablecoin risk gating and disputes\nArticle title: sriram1983007/SRA-RiskGate-4B · Hugging Face\nDescription: We’re on a journey to advance and democratize artificial intelligence through open source and open science.\n\nArticle text:\nsriram1983007/SRA-RiskGate-4B · Hugging Face\nHugging Face Models\nsriram1983007 / SRA-RiskGate-4B Like 1\nText Generation Transformers Safetensors sriram1983007/sra-stablecoin-risk-bench English qwen3 stablecoin payments compliance x402 eip-3009 eip-712 disputes refunds agents agentkit trl web3 usdc fraud-detection financial-risk qwen conversational Eval Results (legacy) text-generation-inference License: apache-2.0 Model card Files Files and versions xet Community Deploy Copy to bucket new Use this model Instructions to use sriram1983007/SRA-RiskGate-4B with libraries, inference providers, notebooks, and local app…"
+    }
+  ]
+}

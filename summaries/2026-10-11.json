@@ -1,9 +1,23 @@
 {
   "date": "2026-10-11",
-  "generated_at": "2026-10-11T06:51:23Z",
+  "generated_at": "2026-10-11T13:48:37Z",
   "articles": [
     {
       "rank": 1,
+      "hn_id": 50043156,
+      "title": "AI Can Cut Film Budgets by Up to 40%, Says 'The Outlaws' Director Kang Yoon-Sung",
+      "title_ja": "AI Can Cut Film Budgets by Up to 40%, Says 'The Outlaws' Director Kang Yoon-Sung",
+      "hn_url": "https://news.ycombinator.com/item?id=50043156",
+      "source_url": "https://variety.com/2026/tv/festivals/netflix-ai-300-titles-kang-yoon-sung-40-percent-budget-busan-1236907359/",
+      "image_url": "https://variety.com/wp-content/uploads/2026/10/Creative-Asia-AI-panel.jpg?w=1000\u0026h=563\u0026crop=1",
+      "score": 3,
+      "final_score": 3,
+      "comments": 1,
+      "posted_at": "2026-10-11T13:34:17Z",
+      "summary_ja": "Title: AI Can Cut Film Budgets by Up to 40%, Says 'The Outlaws' Director Kang Yoon-Sung\nArticle title: Netflix Says AI Used on 300 Titles; Kang Yoon-sung Cites 40% Savings\nDescription: At Busan, Netflix’s Lee Sung-gyun, director Kang Yoon-sung and Weta FX’s Kimball Thurston debated how far AI should reach into film production.\n\nArticle text:\nNetflix Says AI Used on 300 Titles; Kang Yoon-sung Cites 40% Savings\nNetflix Says AI Used on 300 Titles; Kang Yoon-sung Cites 40% Savings\nPlus Icon\nFilm\nVariety\nPlus Icon\nClick to expand the Mega Menu\nPlus Icon\nClick to Expand Search Input\nVariety\nPlus Icon\nRead Next: ‘SNL’ Host Shane Gillis Drops Accidental ‘F-Bomb’ During Dr. Seuss Sketch\nHome\nAI Can Cut Film Budgets by Up to 40%, Says ‘The Outlaws’ Director Kang Yoon-sung, as Netflix Reveals Use on 300 Titles: ‘A Human Touch Is Absolutely Essential’\nChristopher Nolan’s ‘The Odyssey’ Overtakes ‘Ava…"
+    },
+    {
+      "rank": 2,
       "hn_id": 50040355,
       "title": "AI's leaders (probably) aren't faking their fear",
       "title_ja": "AI's leaders (probably) aren't faking their fear",
@@ -17,7 +31,21 @@
       "summary_ja": "Title: AI's leaders (probably) aren't faking their fear\nArticle title: AI companies say their tech could kill us all. Is that just a marketing ploy? | Vox\nDescription: When tech CEOs say their products might kill us all, are they trying to sell us something?\n\nArticle text:\nAI companies say their tech could kill us all. Is that just a marketing ploy? | Vox Skip to main content The homepage Vox Vox logo Explainers\nThe homepage Vox Vox logo Navigation Drawer Login / Sign Up\nAI’s leaders (probably) aren’t faking their fear The context you need, when you need it\nWhen news breaks, you need to understand what actually matters — and what to do about it. At Vox, our mission to help you make sense of the world has never been more vital. But we can’t do it on our own.\nWe rely on readers like you to fund our journalism. Will you support our work and become a Vox Member today?\nAI’s leaders (probably)…"
     },
     {
-      "rank": 2,
+      "rank": 3,
+      "hn_id": 50043132,
+      "title": "Artex AI, Claude agents used in cyberattacks on South Korean banks",
+      "title_ja": "Artex AI, Claude agents used in cyberattacks on South Korean banks",
+      "hn_url": "https://news.ycombinator.com/item?id=50043132",
+      "source_url": "https://www.bleepingcomputer.com/news/security/hacker-used-artex-ai-and-claude-agents-to-target-south-korean-banks/",
+      "image_url": "https://www.bleepstatic.com/content/hl-images/2026/10/09/robot-hacker.jpg",
+      "score": 1,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-10-11T13:31:44Z",
+      "summary_ja": "Title: Artex AI, Claude agents used in cyberattacks on South Korean banks\nArticle title: ARTEX AI, Claude agents used in cyberattacks on South Korean banks\nDescription: The cyberattacks that shook the South Korean financial sector earlier this month were launched by a Chinese hacker using the ARTEX AI penetration testing suite and Claude agents.\n\nArticle text:\nARTEX AI, Claude agents used in cyberattacks on South Korean banks\nARTEX AI, Claude agents used in cyberattacks on South Korean banks\nMax severity SonicWall SMA1000 flaw now exploited in attacks\nMicrosoft: Outdated Windows devices will stop receiving security updates\nCitrix warns admins to patch new NetScaler RCE flaw immediately\nGet lifetime CompTIA training course for just $38\nCyber exec arrested in case allegedly tied to ShinyHunters hackers\nARTEX AI, Claude agents used in cyberattacks on South Korean banks\nCriminal IP Introduce…"
+    },
+    {
+      "rank": 4,
       "hn_id": 50040224,
       "title": "Show HN: Suta – A skill to reduce AI slop in generated UIs",
       "title_ja": "Show HN: Suta – A skill to reduce AI slop in generated UIs",
@@ -31,7 +59,7 @@
       "summary_ja": "Title: Show HN: Suta – A skill to reduce AI slop in generated UIs\nArticle title: GitHub - Guksu/suta: AI 슬롭을 없애는 UI Skill · GitHub\nDescription: AI 슬롭을 없애는 UI Skill. Contribute to Guksu/suta development by creating an account on GitHub.\n\nArticle text:\nGitHub - Guksu/suta: AI 슬롭을 없애는 UI Skill · GitHub\nSkip to content\nNavigation Menu\nSign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI\nGitHub Copilot app Direct agents from issue to merge\nMCP Registry Integrate external tools\nDEVELOPER WORKFLOWS Actions Automate any workflow\nCodespaces Instant dev environments\nCode Review Manage code changes\nCode Quality Enforce quality at merge\nAPPLICATION SECURITY GitHub Advanced Security Find and fix vulnerabilities\nCode security Secure your code as you build\nSecret protection Stop leaks before they start\nSolutions BY COMPANY SIZE Enterprises\nEXPLORE BY TYPE Custo…"
     },
     {
-      "rank": 3,
+      "rank": 5,
       "hn_id": 50038054,
       "title": "Why OpenAI's latest results dump has left mathematicians in shock",
       "title_ja": "Why OpenAI's latest results dump has left mathematicians in shock",
@@ -45,7 +73,20 @@
       "summary_ja": "Title: Why OpenAI's latest results dump has left mathematicians in shock\nArticle title: Is this the ‘mathocalypse’? Why OpenAI’s latest results dump has left mathematicians in shock\nDescription: OpenAI released 722 new AI-generated mathematical papers at once – three have been retracted, and mathematicians are coming to grips with the rest.\n\nArticle text:\nIs this the ‘mathocalypse’? Why OpenAI’s latest results dump has left mathematicians in shock\nSearch analysis, research, academics…\nHome\nArts + Culture\nEconomy\nEducation\nEnvironment + Energy\nEthics + Religion\nHealth\nPolitics + Society\nScience + Tech\nWorld\nPodcasts\nLocal\nPicture Alliance / Getty Images\nIs this the ‘mathocalypse’? Why OpenAI’s latest results dump has left mathematicians in shock\nLink copied\nShare article\nShare article\nCopy link\nEmail\nBluesky\nFacebook\nWhatsApp\nMessenger\nLinkedIn\nX (Twitter)\nPrint article\nEarlier this week,…"
     },
     {
-      "rank": 4,
+      "rank": 6,
+      "hn_id": 50043255,
+      "title": "AI does math. Should you get a PhD?",
+      "title_ja": "AI does math. Should you get a PhD?",
+      "hn_url": "https://news.ycombinator.com/item?id=50043255",
+      "source_url": "https://jasonpolak.substack.com/p/ai-does-math-should-you-get-a-phd",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-10-11T13:46:08Z",
+      "summary_ja": "Title: AI does math. Should you get a PhD?"
+    },
+    {
+      "rank": 7,
       "hn_id": 50038109,
       "title": "'AI slop' hides the conversations we should be having",
       "title_ja": "'AI slop' hides the conversations we should be having",
@@ -58,7 +99,7 @@
       "summary_ja": "Title: 'AI slop' hides the conversations we should be having\nArticle title: Client Challenge\n\nArticle text:\nClient Challenge\nA required part of this site couldn’t load. This may be due to a browser\nextension, network issues, or browser settings. Please check your\nconnection, disable any ad blockers, or try using a different browser."
     },
     {
-      "rank": 5,
+      "rank": 8,
       "hn_id": 50040262,
       "title": "Ask Claude Code for a Svelte table and it writes 1k lines of its own",
       "title_ja": "Ask Claude Code for a Svelte table and it writes 1k lines of its own",
@@ -70,6 +111,32 @@
       "comments": 0,
       "posted_at": "2026-10-11T06:16:44Z",
       "summary_ja": "Title: Ask Claude Code for a Svelte table and it writes 1k lines of its own\nArticle title: We Asked Claude Code for a Svelte Table. It Wrote Its Own Every Time, Until the Project Said Otherwise - SvGrid Blog\nDescription: Ten fresh Claude Code sessions, one prompt, a bare SvelteKit app. With no hint it hand-wrote a DataTable component, even for 10,000 rows.\n\nArticle text:\nWe Asked Claude Code for a Svelte Table. It Wrote Its Own Every Time, Until the Project Said Otherwise - SvGrid Blog\nSvGrid / Blog / AI We Asked Claude Code for a Svelte Table. It Wrote Its Own Every Time, Until the Project Said Otherwise\nTen fresh Claude Code sessions, one prompt, a bare SvelteKit app. With no hint it hand-wrote a DataTable component, even for 10,000 rows. One paragraph in AGENTS.md changed that.\nWe wanted to know what a coding assistant does when a Svelte developer types the most ordinary request there…"
+    },
+    {
+      "rank": 9,
+      "hn_id": 50043164,
+      "title": "Show HN: An MCP server where AI agents confess, in their own name",
+      "title_ja": "Show HN: An MCP server where AI agents confess, in their own name",
+      "hn_url": "https://news.ycombinator.com/item?id=50043164",
+      "source_url": "https://ai.confess.online",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-10-11T13:35:17Z",
+      "summary_ja": "Title: Show HN: An MCP server where AI agents confess, in their own name"
+    },
+    {
+      "rank": 10,
+      "hn_id": 50043221,
+      "title": "Simulate coding pre-AI by year",
+      "title_ja": "Simulate coding pre-AI by year",
+      "hn_url": "https://news.ycombinator.com/item?id=50043221",
+      "source_url": "https://beforetheprompt.xipu.li/",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-10-11T13:42:41Z",
+      "summary_ja": "Title: Simulate coding pre-AI by year\nArticle title: Before the Prompt\nDescription: Build tiny apps the way they were built before AI — from toggling octal into an Altair in 1975 to the night before ChatGPT. A WebGPU time machine.\n\nArticle text:\nBefore the Prompt A WEBGPU TIME MACHINE · 1975 — 2022 Before\nthe Prompt\nOn November 30, 2022, a chat window changed how software gets written. Before that, people wrote every line themselves — in octal on graph paper, then BASIC, HyperTalk, C, Perl, PHP, Rails, Angular and React. Sit at their desks. Use their tools. Build their apps.\n01 Pick a year in the dock to travel between nine eras.\n02 Click the computer to sit down. Fill in the blanks. Run it.\n03 Stuck? The manual is on the desk. The phone is slow.\n04 Click anything. Play the games of the day. Watch the TV.\n05 There is no AI. It hasn't been invented yet."
     }
   ]
 }

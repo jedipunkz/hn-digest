@@ -1,0 +1,33 @@
+{
+  "date": "2026-10-11",
+  "generated_at": "2026-10-11T00:07:40Z",
+  "articles": [
+    {
+      "rank": 1,
+      "hn_id": 50038054,
+      "title": "Why OpenAI's latest results dump has left mathematicians in shock",
+      "title_ja": "Why OpenAI's latest results dump has left mathematicians in shock",
+      "hn_url": "https://news.ycombinator.com/item?id=50038054",
+      "source_url": "https://theconversation.com/is-this-the-mathocalypse-why-openais-latest-results-dump-has-left-mathematicians-in-shock-293837",
+      "image_url": "https://images.theconversation.com/files/765115/original/file-20261009-50-mgf66.jpg?ixlib=rb-4.1.1\u0026rect=0%2C787%2C4095%2C2047\u0026q=45\u0026auto=format\u0026w=1356\u0026h=668\u0026fit=crop",
+      "score": 2,
+      "final_score": 2,
+      "comments": 1,
+      "posted_at": "2026-10-10T23:08:23Z",
+      "summary_ja": "Title: Why OpenAI's latest results dump has left mathematicians in shock\nArticle title: Is this the ‘mathocalypse’? Why OpenAI’s latest results dump has left mathematicians in shock\nDescription: OpenAI released 722 new AI-generated mathematical papers at once – three have been retracted, and mathematicians are coming to grips with the rest.\n\nArticle text:\nIs this the ‘mathocalypse’? Why OpenAI’s latest results dump has left mathematicians in shock\nSearch analysis, research, academics…\nHome\nArts + Culture\nEconomy\nEducation\nEnvironment + Energy\nEthics + Religion\nHealth\nPolitics + Society\nScience + Tech\nWorld\nPodcasts\nLocal\nPicture Alliance / Getty Images\nIs this the ‘mathocalypse’? Why OpenAI’s latest results dump has left mathematicians in shock\nLink copied\nShare article\nShare article\nCopy link\nEmail\nBluesky\nFacebook\nWhatsApp\nMessenger\nLinkedIn\nX (Twitter)\nPrint article\nEarlier this week,…"
+    },
+    {
+      "rank": 2,
+      "hn_id": 50038109,
+      "title": "'AI slop' hides the conversations we should be having",
+      "title_ja": "'AI slop' hides the conversations we should be having",
+      "hn_url": "https://news.ycombinator.com/item?id=50038109",
+      "source_url": "https://doi.org/10.1038/s44387-026-00161-8",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-10-10T23:16:14Z",
+      "summary_ja": "Title: 'AI slop' hides the conversations we should be having\nArticle title: Client Challenge\n\nArticle text:\nClient Challenge\nA required part of this site couldn’t load. This may be due to a browser\nextension, network issues, or browser settings. Please check your\nconnection, disable any ad blockers, or try using a different browser."
+    }
+  ]
+}

@@ -1,9 +1,37 @@
 {
   "date": "2026-10-11",
-  "generated_at": "2026-10-11T00:07:40Z",
+  "generated_at": "2026-10-11T06:51:23Z",
   "articles": [
     {
       "rank": 1,
+      "hn_id": 50040355,
+      "title": "AI's leaders (probably) aren't faking their fear",
+      "title_ja": "AI's leaders (probably) aren't faking their fear",
+      "hn_url": "https://news.ycombinator.com/item?id=50040355",
+      "source_url": "https://www.vox.com/politics/505834/ai-doom-anthropic-openai-pr",
+      "image_url": "https://platform.vox.com/wp-content/uploads/sites/2/2026/10/gettyimages-2296174530.jpg?quality=90\u0026strip=all\u0026crop=0%2C10.737892056687%2C100%2C78.524215886627\u0026w=1200",
+      "score": 2,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-10-11T06:43:59Z",
+      "summary_ja": "Title: AI's leaders (probably) aren't faking their fear\nArticle title: AI companies say their tech could kill us all. Is that just a marketing ploy? | Vox\nDescription: When tech CEOs say their products might kill us all, are they trying to sell us something?\n\nArticle text:\nAI companies say their tech could kill us all. Is that just a marketing ploy? | Vox Skip to main content The homepage Vox Vox logo Explainers\nThe homepage Vox Vox logo Navigation Drawer Login / Sign Up\nAI’s leaders (probably) aren’t faking their fear The context you need, when you need it\nWhen news breaks, you need to understand what actually matters — and what to do about it. At Vox, our mission to help you make sense of the world has never been more vital. But we can’t do it on our own.\nWe rely on readers like you to fund our journalism. Will you support our work and become a Vox Member today?\nAI’s leaders (probably)…"
+    },
+    {
+      "rank": 2,
+      "hn_id": 50040224,
+      "title": "Show HN: Suta – A skill to reduce AI slop in generated UIs",
+      "title_ja": "Show HN: Suta – A skill to reduce AI slop in generated UIs",
+      "hn_url": "https://news.ycombinator.com/item?id=50040224",
+      "source_url": "https://github.com/Guksu/suta",
+      "image_url": "https://opengraph.githubassets.com/7834acba03ac15b47f90de58851e7e2ff82bccaef3f3c0447bba01e448f4795c/Guksu/suta",
+      "score": 1,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-10-11T06:10:15Z",
+      "summary_ja": "Title: Show HN: Suta – A skill to reduce AI slop in generated UIs\nArticle title: GitHub - Guksu/suta: AI 슬롭을 없애는 UI Skill · GitHub\nDescription: AI 슬롭을 없애는 UI Skill. Contribute to Guksu/suta development by creating an account on GitHub.\n\nArticle text:\nGitHub - Guksu/suta: AI 슬롭을 없애는 UI Skill · GitHub\nSkip to content\nNavigation Menu\nSign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI\nGitHub Copilot app Direct agents from issue to merge\nMCP Registry Integrate external tools\nDEVELOPER WORKFLOWS Actions Automate any workflow\nCodespaces Instant dev environments\nCode Review Manage code changes\nCode Quality Enforce quality at merge\nAPPLICATION SECURITY GitHub Advanced Security Find and fix vulnerabilities\nCode security Secure your code as you build\nSecret protection Stop leaks before they start\nSolutions BY COMPANY SIZE Enterprises\nEXPLORE BY TYPE Custo…"
+    },
+    {
+      "rank": 3,
       "hn_id": 50038054,
       "title": "Why OpenAI's latest results dump has left mathematicians in shock",
       "title_ja": "Why OpenAI's latest results dump has left mathematicians in shock",
@@ -17,7 +45,7 @@
       "summary_ja": "Title: Why OpenAI's latest results dump has left mathematicians in shock\nArticle title: Is this the ‘mathocalypse’? Why OpenAI’s latest results dump has left mathematicians in shock\nDescription: OpenAI released 722 new AI-generated mathematical papers at once – three have been retracted, and mathematicians are coming to grips with the rest.\n\nArticle text:\nIs this the ‘mathocalypse’? Why OpenAI’s latest results dump has left mathematicians in shock\nSearch analysis, research, academics…\nHome\nArts + Culture\nEconomy\nEducation\nEnvironment + Energy\nEthics + Religion\nHealth\nPolitics + Society\nScience + Tech\nWorld\nPodcasts\nLocal\nPicture Alliance / Getty Images\nIs this the ‘mathocalypse’? Why OpenAI’s latest results dump has left mathematicians in shock\nLink copied\nShare article\nShare article\nCopy link\nEmail\nBluesky\nFacebook\nWhatsApp\nMessenger\nLinkedIn\nX (Twitter)\nPrint article\nEarlier this week,…"
     },
     {
-      "rank": 2,
+      "rank": 4,
       "hn_id": 50038109,
       "title": "'AI slop' hides the conversations we should be having",
       "title_ja": "'AI slop' hides the conversations we should be having",
@@ -28,6 +56,20 @@
       "comments": 0,
       "posted_at": "2026-10-10T23:16:14Z",
       "summary_ja": "Title: 'AI slop' hides the conversations we should be having\nArticle title: Client Challenge\n\nArticle text:\nClient Challenge\nA required part of this site couldn’t load. This may be due to a browser\nextension, network issues, or browser settings. Please check your\nconnection, disable any ad blockers, or try using a different browser."
+    },
+    {
+      "rank": 5,
+      "hn_id": 50040262,
+      "title": "Ask Claude Code for a Svelte table and it writes 1k lines of its own",
+      "title_ja": "Ask Claude Code for a Svelte table and it writes 1k lines of its own",
+      "hn_url": "https://news.ycombinator.com/item?id=50040262",
+      "source_url": "https://svgrid.com/blog/ai-assistant-writes-its-own-table/",
+      "image_url": "https://svgrid.com/og/blog/ai-assistant-writes-its-own-table.png",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-10-11T06:16:44Z",
+      "summary_ja": "Title: Ask Claude Code for a Svelte table and it writes 1k lines of its own\nArticle title: We Asked Claude Code for a Svelte Table. It Wrote Its Own Every Time, Until the Project Said Otherwise - SvGrid Blog\nDescription: Ten fresh Claude Code sessions, one prompt, a bare SvelteKit app. With no hint it hand-wrote a DataTable component, even for 10,000 rows.\n\nArticle text:\nWe Asked Claude Code for a Svelte Table. It Wrote Its Own Every Time, Until the Project Said Otherwise - SvGrid Blog\nSvGrid / Blog / AI We Asked Claude Code for a Svelte Table. It Wrote Its Own Every Time, Until the Project Said Otherwise\nTen fresh Claude Code sessions, one prompt, a bare SvelteKit app. With no hint it hand-wrote a DataTable component, even for 10,000 rows. One paragraph in AGENTS.md changed that.\nWe wanted to know what a coding assistant does when a Svelte developer types the most ordinary request there…"
     }
   ]
 }

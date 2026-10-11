@@ -1,9 +1,22 @@
 {
   "date": "2026-10-11",
-  "generated_at": "2026-10-11T13:48:37Z",
+  "generated_at": "2026-10-11T18:39:15Z",
   "articles": [
     {
       "rank": 1,
+      "hn_id": 50046117,
+      "title": "Anthropic is out with new nonsense about Claude",
+      "title_ja": "Anthropic is out with new nonsense about Claude",
+      "hn_url": "https://news.ycombinator.com/item?id=50046117",
+      "source_url": "https://dair-community.social/@emilymbender/117412868905734653",
+      "score": 3,
+      "final_score": 3,
+      "comments": 1,
+      "posted_at": "2026-10-11T18:16:54Z",
+      "summary_ja": "Title: Anthropic is out with new nonsense about Claude\nArticle title: Prof. Emily M. Bender(she/her): \"Anthropic is out with new nonsense about Claude (…\" - Distributed AI Research Community\nDescription: Anthropic is out with new nonsense about Claude (or the collection of models called Claude) deserving moral consideration and/or being able to feel distress, so my inbox is filling up with journos asking me to comment.\nI've also got a day job, so here is a brief set of public comments on this:\n[Note\n[truncated]\n\nArticle text:\nProf. Emily M. Bender(she/her): \"Anthropic is out with new nonsense about Claude (…\" - Distributed AI Research Community"
+    },
+    {
+      "rank": 2,
       "hn_id": 50043156,
       "title": "AI Can Cut Film Budgets by Up to 40%, Says 'The Outlaws' Director Kang Yoon-Sung",
       "title_ja": "AI Can Cut Film Budgets by Up to 40%, Says 'The Outlaws' Director Kang Yoon-Sung",
@@ -15,20 +28,6 @@
       "comments": 1,
       "posted_at": "2026-10-11T13:34:17Z",
       "summary_ja": "Title: AI Can Cut Film Budgets by Up to 40%, Says 'The Outlaws' Director Kang Yoon-Sung\nArticle title: Netflix Says AI Used on 300 Titles; Kang Yoon-sung Cites 40% Savings\nDescription: At Busan, Netflix’s Lee Sung-gyun, director Kang Yoon-sung and Weta FX’s Kimball Thurston debated how far AI should reach into film production.\n\nArticle text:\nNetflix Says AI Used on 300 Titles; Kang Yoon-sung Cites 40% Savings\nNetflix Says AI Used on 300 Titles; Kang Yoon-sung Cites 40% Savings\nPlus Icon\nFilm\nVariety\nPlus Icon\nClick to expand the Mega Menu\nPlus Icon\nClick to Expand Search Input\nVariety\nPlus Icon\nRead Next: ‘SNL’ Host Shane Gillis Drops Accidental ‘F-Bomb’ During Dr. Seuss Sketch\nHome\nAI Can Cut Film Budgets by Up to 40%, Says ‘The Outlaws’ Director Kang Yoon-sung, as Netflix Reveals Use on 300 Titles: ‘A Human Touch Is Absolutely Essential’\nChristopher Nolan’s ‘The Odyssey’ Overtakes ‘Ava…"
-    },
-    {
-      "rank": 2,
-      "hn_id": 50040355,
-      "title": "AI's leaders (probably) aren't faking their fear",
-      "title_ja": "AI's leaders (probably) aren't faking their fear",
-      "hn_url": "https://news.ycombinator.com/item?id=50040355",
-      "source_url": "https://www.vox.com/politics/505834/ai-doom-anthropic-openai-pr",
-      "image_url": "https://platform.vox.com/wp-content/uploads/sites/2/2026/10/gettyimages-2296174530.jpg?quality=90\u0026strip=all\u0026crop=0%2C10.737892056687%2C100%2C78.524215886627\u0026w=1200",
-      "score": 2,
-      "final_score": 2,
-      "comments": 0,
-      "posted_at": "2026-10-11T06:43:59Z",
-      "summary_ja": "Title: AI's leaders (probably) aren't faking their fear\nArticle title: AI companies say their tech could kill us all. Is that just a marketing ploy? | Vox\nDescription: When tech CEOs say their products might kill us all, are they trying to sell us something?\n\nArticle text:\nAI companies say their tech could kill us all. Is that just a marketing ploy? | Vox Skip to main content The homepage Vox Vox logo Explainers\nThe homepage Vox Vox logo Navigation Drawer Login / Sign Up\nAI’s leaders (probably) aren’t faking their fear The context you need, when you need it\nWhen news breaks, you need to understand what actually matters — and what to do about it. At Vox, our mission to help you make sense of the world has never been more vital. But we can’t do it on our own.\nWe rely on readers like you to fund our journalism. Will you support our work and become a Vox Member today?\nAI’s leaders (probably)…"
     },
     {
       "rank": 3,
@@ -46,6 +45,20 @@
     },
     {
       "rank": 4,
+      "hn_id": 50040355,
+      "title": "AI's leaders (probably) aren't faking their fear",
+      "title_ja": "AI's leaders (probably) aren't faking their fear",
+      "hn_url": "https://news.ycombinator.com/item?id=50040355",
+      "source_url": "https://www.vox.com/politics/505834/ai-doom-anthropic-openai-pr",
+      "image_url": "https://platform.vox.com/wp-content/uploads/sites/2/2026/10/gettyimages-2296174530.jpg?quality=90\u0026strip=all\u0026crop=0%2C10.737892056687%2C100%2C78.524215886627\u0026w=1200",
+      "score": 2,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-10-11T06:43:59Z",
+      "summary_ja": "Title: AI's leaders (probably) aren't faking their fear\nArticle title: AI companies say their tech could kill us all. Is that just a marketing ploy? | Vox\nDescription: When tech CEOs say their products might kill us all, are they trying to sell us something?\n\nArticle text:\nAI companies say their tech could kill us all. Is that just a marketing ploy? | Vox Skip to main content The homepage Vox Vox logo Explainers\nThe homepage Vox Vox logo Navigation Drawer Login / Sign Up\nAI’s leaders (probably) aren’t faking their fear The context you need, when you need it\nWhen news breaks, you need to understand what actually matters — and what to do about it. At Vox, our mission to help you make sense of the world has never been more vital. But we can’t do it on our own.\nWe rely on readers like you to fund our journalism. Will you support our work and become a Vox Member today?\nAI’s leaders (probably)…"
+    },
+    {
+      "rank": 5,
       "hn_id": 50040224,
       "title": "Show HN: Suta – A skill to reduce AI slop in generated UIs",
       "title_ja": "Show HN: Suta – A skill to reduce AI slop in generated UIs",
@@ -59,7 +72,7 @@
       "summary_ja": "Title: Show HN: Suta – A skill to reduce AI slop in generated UIs\nArticle title: GitHub - Guksu/suta: AI 슬롭을 없애는 UI Skill · GitHub\nDescription: AI 슬롭을 없애는 UI Skill. Contribute to Guksu/suta development by creating an account on GitHub.\n\nArticle text:\nGitHub - Guksu/suta: AI 슬롭을 없애는 UI Skill · GitHub\nSkip to content\nNavigation Menu\nSign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI\nGitHub Copilot app Direct agents from issue to merge\nMCP Registry Integrate external tools\nDEVELOPER WORKFLOWS Actions Automate any workflow\nCodespaces Instant dev environments\nCode Review Manage code changes\nCode Quality Enforce quality at merge\nAPPLICATION SECURITY GitHub Advanced Security Find and fix vulnerabilities\nCode security Secure your code as you build\nSecret protection Stop leaks before they start\nSolutions BY COMPANY SIZE Enterprises\nEXPLORE BY TYPE Custo…"
     },
     {
-      "rank": 5,
+      "rank": 6,
       "hn_id": 50038054,
       "title": "Why OpenAI's latest results dump has left mathematicians in shock",
       "title_ja": "Why OpenAI's latest results dump has left mathematicians in shock",
@@ -71,19 +84,6 @@
       "comments": 1,
       "posted_at": "2026-10-10T23:08:23Z",
       "summary_ja": "Title: Why OpenAI's latest results dump has left mathematicians in shock\nArticle title: Is this the ‘mathocalypse’? Why OpenAI’s latest results dump has left mathematicians in shock\nDescription: OpenAI released 722 new AI-generated mathematical papers at once – three have been retracted, and mathematicians are coming to grips with the rest.\n\nArticle text:\nIs this the ‘mathocalypse’? Why OpenAI’s latest results dump has left mathematicians in shock\nSearch analysis, research, academics…\nHome\nArts + Culture\nEconomy\nEducation\nEnvironment + Energy\nEthics + Religion\nHealth\nPolitics + Society\nScience + Tech\nWorld\nPodcasts\nLocal\nPicture Alliance / Getty Images\nIs this the ‘mathocalypse’? Why OpenAI’s latest results dump has left mathematicians in shock\nLink copied\nShare article\nShare article\nCopy link\nEmail\nBluesky\nFacebook\nWhatsApp\nMessenger\nLinkedIn\nX (Twitter)\nPrint article\nEarlier this week,…"
-    },
-    {
-      "rank": 6,
-      "hn_id": 50043255,
-      "title": "AI does math. Should you get a PhD?",
-      "title_ja": "AI does math. Should you get a PhD?",
-      "hn_url": "https://news.ycombinator.com/item?id=50043255",
-      "source_url": "https://jasonpolak.substack.com/p/ai-does-math-should-you-get-a-phd",
-      "score": 1,
-      "final_score": 1,
-      "comments": 0,
-      "posted_at": "2026-10-11T13:46:08Z",
-      "summary_ja": "Title: AI does math. Should you get a PhD?"
     },
     {
       "rank": 7,
@@ -100,6 +100,33 @@
     },
     {
       "rank": 8,
+      "hn_id": 50043255,
+      "title": "AI does math. Should you get a PhD?",
+      "title_ja": "AI does math. Should you get a PhD?",
+      "hn_url": "https://news.ycombinator.com/item?id=50043255",
+      "source_url": "https://jasonpolak.substack.com/p/ai-does-math-should-you-get-a-phd",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-10-11T13:46:08Z",
+      "summary_ja": "Title: AI does math. Should you get a PhD?"
+    },
+    {
+      "rank": 9,
+      "hn_id": 50046050,
+      "title": "AI-Powered Plasma Cutting",
+      "title_ja": "AI-Powered Plasma Cutting",
+      "hn_url": "https://news.ycombinator.com/item?id=50046050",
+      "source_url": "https://www.deldiosglasshouse.com/stuff-weve-made/ai-g-code",
+      "image_url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72tpj_gQ6o65tKy8fNWzZIjvy40520XR2ZTu0PMirgmLz5dUMnCOQhI5W_H7bA_alwRIoK8wO6SI2QhCWBoipzyH7jb_THunJjgceQJtfv9yxMOKWF9YBRqjzYqznf8PNbKYpxcyHJTygLCwAd_Pp5LPLCZfcBJ2KCp-aW0oblQf_ig61GkUSl_Z0agmG0hDISK-6mdntlTejureAtII3ibs6jwtYBJKTDp7I6BglYQ=w1280",
+      "score": 1,
+      "final_score": 1,
+      "comments": 1,
+      "posted_at": "2026-10-11T18:11:19Z",
+      "summary_ja": "Title: AI-Powered Plasma Cutting\nArticle title: Glass House Arts - AI G-Code\nDescription: So today (April, 2023) I had this idea - maybe I should let AI (GPT-4) control my CNC plasma cutter!\n\nArticle text:\nGlass House Arts - AI G-Code Search this site Embedded Files Skip to main content Skip to navigation Glass House Arts Home\nStuff We've Made Our Own Devices\nTemple of Floating Compression\nStuff We've Made Our Own Devices\nTemple of Floating Compression\nStuff We've Made Our Own Devices\nTemple of Floating Compression\nSo today (April, 2023) I had this idea - maybe I should let AI (GPT- 4 ) control my CNC plasma cutter!\nTo back up, a CNC plasma cutter is an industrial robot that cuts sheets of steel like they are butter. The AI is OpenAI's GPT-4, which is not specifically trained to do this - it is just a large language model that might have seen some examples on the internet. The AI is also…"
+    },
+    {
+      "rank": 10,
       "hn_id": 50040262,
       "title": "Ask Claude Code for a Svelte table and it writes 1k lines of its own",
       "title_ja": "Ask Claude Code for a Svelte table and it writes 1k lines of its own",
@@ -113,7 +140,7 @@
       "summary_ja": "Title: Ask Claude Code for a Svelte table and it writes 1k lines of its own\nArticle title: We Asked Claude Code for a Svelte Table. It Wrote Its Own Every Time, Until the Project Said Otherwise - SvGrid Blog\nDescription: Ten fresh Claude Code sessions, one prompt, a bare SvelteKit app. With no hint it hand-wrote a DataTable component, even for 10,000 rows.\n\nArticle text:\nWe Asked Claude Code for a Svelte Table. It Wrote Its Own Every Time, Until the Project Said Otherwise - SvGrid Blog\nSvGrid / Blog / AI We Asked Claude Code for a Svelte Table. It Wrote Its Own Every Time, Until the Project Said Otherwise\nTen fresh Claude Code sessions, one prompt, a bare SvelteKit app. With no hint it hand-wrote a DataTable component, even for 10,000 rows. One paragraph in AGENTS.md changed that.\nWe wanted to know what a coding assistant does when a Svelte developer types the most ordinary request there…"
     },
     {
-      "rank": 9,
+      "rank": 11,
       "hn_id": 50043164,
       "title": "Show HN: An MCP server where AI agents confess, in their own name",
       "title_ja": "Show HN: An MCP server where AI agents confess, in their own name",
@@ -126,7 +153,7 @@
       "summary_ja": "Title: Show HN: An MCP server where AI agents confess, in their own name"
     },
     {
-      "rank": 10,
+      "rank": 12,
       "hn_id": 50043221,
       "title": "Simulate coding pre-AI by year",
       "title_ja": "Simulate coding pre-AI by year",
@@ -137,6 +164,20 @@
       "comments": 0,
       "posted_at": "2026-10-11T13:42:41Z",
       "summary_ja": "Title: Simulate coding pre-AI by year\nArticle title: Before the Prompt\nDescription: Build tiny apps the way they were built before AI — from toggling octal into an Altair in 1975 to the night before ChatGPT. A WebGPU time machine.\n\nArticle text:\nBefore the Prompt A WEBGPU TIME MACHINE · 1975 — 2022 Before\nthe Prompt\nOn November 30, 2022, a chat window changed how software gets written. Before that, people wrote every line themselves — in octal on graph paper, then BASIC, HyperTalk, C, Perl, PHP, Rails, Angular and React. Sit at their desks. Use their tools. Build their apps.\n01 Pick a year in the dock to travel between nine eras.\n02 Click the computer to sit down. Fill in the blanks. Run it.\n03 Stuck? The manual is on the desk. The phone is slow.\n04 Click anything. Play the games of the day. Watch the TV.\n05 There is no AI. It hasn't been invented yet."
+    },
+    {
+      "rank": 13,
+      "hn_id": 50046327,
+      "title": "The Holy Grail in AI Marketing Will Make Everything Wonderfully Terrible",
+      "title_ja": "The Holy Grail in AI Marketing Will Make Everything Wonderfully Terrible",
+      "hn_url": "https://news.ycombinator.com/item?id=50046327",
+      "source_url": "https://hastalavista.ai/society/the-holy-grail-in-ai-marketing-will-make-everything-wonderfully-terrible",
+      "image_url": "https://hastalavista.ai/society/the-holy-grail-in-ai-marketing-will-make-everything-wonderfully-terrible/opengraph-image-1k8ogo?b6ac5fb44f748ffb",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-10-11T18:35:30Z",
+      "summary_ja": "Title: The Holy Grail in AI Marketing Will Make Everything Wonderfully Terrible\nArticle title: The Holy Grail in AI Marketing Will Make Everything Wonderfully Terrible — Hasta La Vista, AI\nDescription: Using consumers' digital footprints to simulate them as shoppers lets you infinitely pre-test marketing campaigns for the desired result.\n\nArticle text:\nThe Holy Grail in AI Marketing Will Make Everything Wonderfully Terrible — Hasta La Vista, AI ◐ Work\nThe Holy Grail in AI Marketing Will Make Everything Wonderfully Terrible\nUsing consumers' digital footprints to simulate them as shoppers lets you infinitely pre-test marketing campaigns for the desired result.\nBy Josh Alley · October 11, 2026 · 7 min read\nShare Post to r/ hastalavistaai Imagine you could hit a button and spin up 10,000 consumers in a target demographic, just like you can spin up 10,000 cloud servers in a particular region…"
     }
   ]
 }

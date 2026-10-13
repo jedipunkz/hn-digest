@@ -1,0 +1,47 @@
+{
+  "date": "2026-10-13",
+  "generated_at": "2026-10-13T02:26:58Z",
+  "articles": [
+    {
+      "rank": 1,
+      "hn_id": 50065692,
+      "title": "AI Models Can Provably Hide Arbitrary Capabilities",
+      "title_ja": "AI Models Can Provably Hide Arbitrary Capabilities",
+      "hn_url": "https://news.ycombinator.com/item?id=50065692",
+      "source_url": "https://arxiv.org/abs/2610.13928",
+      "image_url": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+      "score": 3,
+      "final_score": 3,
+      "comments": 0,
+      "posted_at": "2026-10-13T02:07:08Z",
+      "summary_ja": "Title: AI Models Can Provably Hide Arbitrary Capabilities\nArticle title: [2610.13928] AI Models Can Provably Hide Arbitrary Capabilities\nDescription: Abstract page for arXiv paper 2610.13928: AI Models Can Provably Hide Arbitrary Capabilities\n\nArticle text:\nSkip to main content\nSearch\nSubmit\nDonate\nLog in\nSearch arXiv\nPress Enter to search · Advanced search\n--\u003e\nComputer Science \u003e Machine Learning\n[Submitted on 9 Oct 2026]\nTitle: AI Models Can Provably Hide Arbitrary Capabilities\nAbstract: Capability evaluations aim to surface dangerous model behaviors before deployment, but their reliability depends on the assumption that hidden capabilities can be elicited. We show this assumption does not hold under adversarial conditions by constructing backdoor attacks that embed encrypted neural networks within host model weights, decrypting and executing them only upon receiving a secret trigger. U…"
+    },
+    {
+      "rank": 2,
+      "hn_id": 50065724,
+      "title": "I gave 16 IA's control of the AI nations in Humankind",
+      "title_ja": "I gave 16 IA's control of the AI nations in Humankind",
+      "hn_url": "https://news.ycombinator.com/item?id=50065724",
+      "source_url": "https://mod.io/g/humankind/m/realpolitik",
+      "image_url": "https://thumb.modcdn.io/mods/f6bd/6436393/crop_1280x720/site_mail.jpg",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-10-13T02:10:39Z",
+      "summary_ja": "Title: I gave 16 IA's control of the AI nations in Humankind\nArticle title: Realpolitik: Living Nations for Humankind - mod.io\nDescription: NATIONS THAT THINK Every computer nation thinks once per turn with the AI model you choose. It reads a dossier with only what it can know, writes letters to you and to other nations, keeps a secret diary, and remembers what you did. Its decisions be\n\nArticle text:\nRealpolitik: Living Nations for Humankind - mod.io"
+    },
+    {
+      "rank": 3,
+      "hn_id": 50065804,
+      "title": "Show HN: MEF LLM Studio 0.2.0",
+      "title_ja": "Show HN: MEF LLM Studio 0.2.0",
+      "hn_url": "https://news.ycombinator.com/item?id=50065804",
+      "source_url": "https://www.mef-llm-studio.com/en/",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-10-13T02:24:46Z",
+      "summary_ja": "Title: Show HN: MEF LLM Studio 0.2.0\nArticle title: Overview — M.E.F LLM Studio\nDescription: M.E.F LLM Studio is an educational app for beginners: understand language models through clear explanations and small, hands-on experiments, without writing scripts. Follow the path from tokens through training to generated text. Brain Explorer, Wiki and Vision also make text and image generation ex\n[truncated]\n\nArticle text:\nSkip to content M.E.F LLM Studio Menu + Overview Features Getting started Alpha \u0026 download Changelog DE EN RO For Windows · Desktop application UNDERSTAND LANGUAGE MODELS · STEP BY STEP\nUnderstand language models.\nBy building one yourself.\nM.E.F LLM Studio is an educational app for beginners: understand language models through clear explanations and small, hands-on experiments, without writing scripts. Follow the path from tokens through training to generated text. Brain Exp…"
+    }
+  ]
+}

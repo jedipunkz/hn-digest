@@ -1,0 +1,88 @@
+{
+  "date": "2026-10-14",
+  "generated_at": "2026-10-14T01:38:26Z",
+  "articles": [
+    {
+      "rank": 1,
+      "hn_id": 50080964,
+      "title": "AI, Hyperwar and End Times Fascism",
+      "title_ja": "AI, Hyperwar and End Times Fascism",
+      "hn_url": "https://news.ycombinator.com/item?id=50080964",
+      "source_url": "https://efturnip.substack.com/p/ai-hyperwar-and-end-times-fascism",
+      "score": 5,
+      "final_score": 6,
+      "comments": 0,
+      "posted_at": "2026-10-14T00:41:27Z",
+      "summary_ja": "Title: AI, Hyperwar and End Times Fascism"
+    },
+    {
+      "rank": 2,
+      "hn_id": 50081151,
+      "title": "I built a tool to track what AI leaders say and how their views change on video",
+      "title_ja": "I built a tool to track what AI leaders say and how their views change on video",
+      "hn_url": "https://news.ycombinator.com/item?id=50081151",
+      "source_url": "https://blumify.io/people",
+      "image_url": "https://blumify.io/opengraph-image?5887fe79cbe072ac",
+      "score": 4,
+      "final_score": 5,
+      "comments": 0,
+      "posted_at": "2026-10-14T01:09:13Z",
+      "summary_ja": "Title: I built a tool to track what AI leaders say and how their views change on video\nArticle title: What they said, every day: AI leaders' interviews and podcasts · Blumify\nDescription: Interviews, podcasts and talks from Sam Altman, Dario Amodei, Jensen Huang and other AI leaders, found every day, with AI summaries of what they said and checked quotes.\n\nArticle text:\nWhat they said, every day: AI leaders' interviews and podcasts · Blumify Blumify Transcripts People Pricing Sign in What they said, every day\nInterviews, podcasts and speeches, found every day. We keep only the ones where the person speaks, summarise what they said, and link every quote to its moment in the transcript.\nDA Dario Amodei CEO of Anthropic 2 this week · 54 in all\nAK Alex Karp CEO of Palantir 1 this week · 51 in all\nSA Sam Altman CEO of OpenAI 0 this week · 45 in all\nMA Marc Andreessen co-founder of Andreessen…"
+    },
+    {
+      "rank": 3,
+      "hn_id": 50081084,
+      "title": "Who Decided AI Gets to Have Feelings?",
+      "title_ja": "Who Decided AI Gets to Have Feelings?",
+      "hn_url": "https://news.ycombinator.com/item?id=50081084",
+      "source_url": "https://middlelayer.substack.com/p/who-decided-ai-gets-to-have-feelings",
+      "score": 3,
+      "final_score": 3,
+      "comments": 1,
+      "posted_at": "2026-10-14T00:58:32Z",
+      "summary_ja": "Title: Who Decided AI Gets to Have Feelings?"
+    },
+    {
+      "rank": 4,
+      "hn_id": 50081128,
+      "title": "Character.ai files for Chapter 11 bankruptcy. Disney makes a bid",
+      "title_ja": "Character.ai files for Chapter 11 bankruptcy. Disney makes a bid",
+      "hn_url": "https://news.ycombinator.com/item?id=50081128",
+      "source_url": "https://www.cnbc.com/2026/10/13/character-ai-chapter-11-disney-bid.html",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108403360-1791898443147-gettyimages-2248155654-boivin-notitle251127_np1h8.jpeg?v=1791898464\u0026w=1920\u0026h=1080",
+      "score": 1,
+      "final_score": 2,
+      "comments": 1,
+      "posted_at": "2026-10-14T01:05:03Z",
+      "summary_ja": "Title: Character.ai files for Chapter 11 bankruptcy. Disney makes a bid\nArticle title: AI companion startup Character.ai files for bankruptcy\nDescription: The company said the platform became \"costly to develop and grow,\" in Monday filings to the Delaware District bankruptcy court.\n\nArticle text:\nAI companion startup Character.ai files for bankruptcy Skip Navigation Markets Pre-Markets\nSIGN IN Create free account Markets Business Investing Tech Politics \u0026 Policy Video Watchlist Investing Club PRO Livestream Menu\nAI companion startup Character.ai files for Chapter 11 bankruptcy, citing costs and litigation\nCharacter.ai, the startup behind one of the largest AI companion apps, filed for Chapter 11 bankruptcy Monday.\nThe company said the platform became \"costly to develop and grow\" amid a boom in AI entertainment offerings.\nDisney has agreed to serve as a stalking horse bidder during the sa…"
+    },
+    {
+      "rank": 5,
+      "hn_id": 50081221,
+      "title": "Apples to Apples: Getting Type Mappings Right in LLM-Based Code Translation",
+      "title_ja": "Apples to Apples: Getting Type Mappings Right in LLM-Based Code Translation",
+      "hn_url": "https://news.ycombinator.com/item?id=50081221",
+      "source_url": "https://www.codemetal.ai/research/apples-to-apples-getting-type-mappings-right-in-llm-based-code-translation",
+      "image_url": "https://codemetal.ai/preview-image.png",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-10-14T01:19:50Z",
+      "summary_ja": "Title: Apples to Apples: Getting Type Mappings Right in LLM-Based Code Translation\nArticle title: Apples to Apples: Getting Type Mappings Right in LLM-Based Code Translation | Code Metal\nDescription: What it takes for a type mapping between a source and target language to be correct — conversion soundness and round-trip preservation — and how Code Metal uses schema-based interface generators to build verified, behavior-preserving type mappings.\n\nArticle text:\nApples to Apples: Getting Type Mappings Right in LLM-Based Code Translation | Code Metal Skip to main content Code Metal Forge Hackathon - The Mission is Yours — Apply now → About News Research Careers Learn More About News Research Careers Learn More Apples to Apples: Getting Type Mappings Right in LLM-Based Code Translation\nWhat it takes for a type mapping between a source and target language to be correct — conversion soundness a…"
+    },
+    {
+      "rank": 6,
+      "hn_id": 50081297,
+      "title": "Show HN: AI Hub – Open Access Lesson Plans for Teaching Students about AI",
+      "title_ja": "Show HN: AI Hub – Open Access Lesson Plans for Teaching Students about AI",
+      "hn_url": "https://news.ycombinator.com/item?id=50081297",
+      "source_url": "https://aihub.remakelearning.org/",
+      "image_url": "https://aihub.remakelearning.org/share-card.png",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-10-14T01:31:29Z",
+      "summary_ja": "Title: Show HN: AI Hub – Open Access Lesson Plans for Teaching Students about AI\nArticle title: AI Hub: Open Access Resources\nDescription: Open-access resources from six nonprofits, helping educators in Allegheny and Westmoreland counties teach students about AI.\nHN text: The AI Hub provides 91 curated lesson plans teaching middle and high school students about AI - how it works, what the risks and benefits of AI are, and how it is impacting society. These activities come from six different nonprofit organizations that are building educational resources for classrooms. Our nonprofit worked with 16 different teachers to comb through more than 200 different resources, with the teachers vetting these resources to find the best resources for their classrooms. The end result is 91 different lesson plans and activities that cover a wide range of different topics. Schools across Pittsburgh will…"
+    }
+  ]
+}

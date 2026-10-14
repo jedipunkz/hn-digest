@@ -1,6 +1,6 @@
 {
   "date": "2026-10-14",
-  "generated_at": "2026-10-14T18:22:04Z",
+  "generated_at": "2026-10-14T22:05:35Z",
   "articles": [
     {
       "rank": 1,
@@ -31,6 +31,19 @@
     },
     {
       "rank": 3,
+      "hn_id": 50095323,
+      "title": "Tell HN: Don't mass spam employers with LLM generated emails",
+      "title_ja": "Tell HN: Don't mass spam employers with LLM generated emails",
+      "hn_url": "https://news.ycombinator.com/item?id=50095323",
+      "source_url": "",
+      "score": 5,
+      "final_score": 10,
+      "comments": 1,
+      "posted_at": "2026-10-14T21:09:24Z",
+      "summary_ja": "Title: Tell HN: Don't mass spam employers with LLM generated emails\nHN text: If you're looking for a job, do -not- have Claude bulk email every company on \"Who's Hiring\". These things all look the same and your message is just going to get marked spam. For example, it's painfully obvious that our staff eng role's \"combination of distributed execution, workload optimization, and cost-aware infrastructure\" is not, in fact, \"unusually close\" to whatever line on your resume Claude decided is tangentially relevant. Just write a normal email by hand and send it. If you it looks like you spent 5 minutes looking up what we do and are actually excited I'll at least look at your resume; if you spent 0 minutes thinking about the job posting I'm going to spend 0 minutes on this too."
+    },
+    {
+      "rank": 4,
       "hn_id": 50091794,
       "title": "Neckbeard – a DevOps/platform/SRE plugin for your agent",
       "title_ja": "Neckbeard – a DevOps/platform/SRE plugin for your agent",
@@ -44,7 +57,21 @@
       "summary_ja": "Title: Neckbeard – a DevOps/platform/SRE plugin for your agent\nArticle title: GitHub - bealesh/neckbeard: Agent plugin that scaffolds tested, cost-honest cloud infrastructure from a versioned module catalog · GitHub\nDescription: Agent plugin that scaffolds tested, cost-honest cloud infrastructure from a versioned module catalog - bealesh/neckbeard\n\nArticle text:\nGitHub - bealesh/neckbeard: Agent plugin that scaffolds tested, cost-honest cloud infrastructure from a versioned module catalog · GitHub\nSkip to content\nNavigation Menu\nSign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI\nGitHub Copilot app Direct agents from issue to merge\nMCP Registry Integrate external tools\nDEVELOPER WORKFLOWS Actions Automate any workflow\nCodespaces Instant dev environments\nCode Review Manage code changes\nCode Quality Enforce quality at merge\nAPPLICATION SECURITY Gi…"
     },
     {
-      "rank": 4,
+      "rank": 5,
+      "hn_id": 50095545,
+      "title": "Eight states sue OpenAI, saying ChatGPT isn't safe for kids",
+      "title_ja": "Eight states sue OpenAI, saying ChatGPT isn't safe for kids",
+      "hn_url": "https://news.ycombinator.com/item?id=50095545",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25462005/STK155_OPEN_AI_CVirginia_B.jpg?quality=90\u0026strip=all\u0026crop=0%2C10.732984293194%2C100%2C78.534031413613\u0026w=1200",
+      "score": 5,
+      "final_score": 9,
+      "comments": 0,
+      "posted_at": "2026-10-14T21:24:43Z",
+      "summary_ja": "Title: Eight states sue OpenAI, saying ChatGPT isn't safe for kids\nArticle title: Eight states sue OpenAI, saying ChatGPT isn’t safe for kids | The Verge\nDescription: Eight US states, including Kansas, Arizona, Iowa, and others are suing OpenAI over claims the company mislead customers about the safety of ChatGPT.\n\nArticle text:\nEight states sue OpenAI, saying ChatGPT isn’t safe for kids | The Verge Skip to main content The homepage The Verge The Verge logo. The Verge The Verge logo. Tech\nNotifications Notifications Hamburger Navigation Button Navigation Drawer The Verge The Verge logo. Login / Sign Up\nSearch Light System Dark Tech Expand Amazon\nReviews Expand Smart Home Reviews\nVerge Shopping Expand Buying Guides\nTransportation Expand Electric Cars\nEight states sue OpenAI, saying ChatGPT isn’t safe for kids Notifications Notifications Comments Drawer Notifications Comments Loading comme…"
+    },
+    {
+      "rank": 6,
       "hn_id": 50080964,
       "title": "AI, Hyperwar and End Times Fascism",
       "title_ja": "AI, Hyperwar and End Times Fascism",
@@ -57,7 +84,7 @@
       "summary_ja": "Title: AI, Hyperwar and End Times Fascism"
     },
     {
-      "rank": 5,
+      "rank": 7,
       "hn_id": 50086596,
       "title": "DeepMind and Singapore fine-tune an on-device Gemma model for scam detection",
       "title_ja": "DeepMind and Singapore fine-tune an on-device Gemma model for scam detection",
@@ -70,7 +97,7 @@
       "summary_ja": "Title: DeepMind and Singapore fine-tune an on-device Gemma model for scam detection\nArticle title: On-Device AI Against Scams: Google DeepMind \u0026 MDDI — Google DeepMind\n\nArticle text:\nSkip to main content Explore our next generation AI systems\nOur latest AI breakthroughs and updates from the lab\nUnlocking a new era of discovery with AI\nOur mission is to build AI responsibly to benefit humanity\nExplore our next generation AI systems\nOur latest AI breakthroughs and updates from the lab\nUnlocking a new era of discovery with AI\nOur mission is to build AI responsibly to benefit humanity\nGoogle DeepMind Google AI Learn about all our AI Google DeepMind Explore the frontier of AI Google Labs Try our AI experiments Google Research Explore our research Products and apps Gemini app Chat with Gemini Google AI Studio Build with our next-gen models Google Antigravity Our agentic development platform Mo…"
     },
     {
-      "rank": 6,
+      "rank": 8,
       "hn_id": 50081151,
       "title": "I built a tool to track what AI leaders say and how their views change on video",
       "title_ja": "I built a tool to track what AI leaders say and how their views change on video",
@@ -84,7 +111,7 @@
       "summary_ja": "Title: I built a tool to track what AI leaders say and how their views change on video\nArticle title: What they said, every day: AI leaders' interviews and podcasts · Blumify\nDescription: Interviews, podcasts and talks from Sam Altman, Dario Amodei, Jensen Huang and other AI leaders, found every day, with AI summaries of what they said and checked quotes.\n\nArticle text:\nWhat they said, every day: AI leaders' interviews and podcasts · Blumify Blumify Transcripts People Pricing Sign in What they said, every day\nInterviews, podcasts and speeches, found every day. We keep only the ones where the person speaks, summarise what they said, and link every quote to its moment in the transcript.\nDA Dario Amodei CEO of Anthropic 2 this week · 54 in all\nAK Alex Karp CEO of Palantir 1 this week · 51 in all\nSA Sam Altman CEO of OpenAI 0 this week · 45 in all\nMA Marc Andreessen co-founder of Andreessen…"
     },
     {
-      "rank": 7,
+      "rank": 9,
       "hn_id": 50091939,
       "title": "Show HN: Golang DL/ML primitives with inference, diffusion, vision, systemone",
       "title_ja": "Show HN: Golang DL/ML primitives with inference, diffusion, vision, systemone",
@@ -98,21 +125,7 @@
       "summary_ja": "Title: Show HN: Golang DL/ML primitives with inference, diffusion, vision, systemone\nArticle title: GitHub - computerex/dlgo: Golang inference engine and deep learning primitives · GitHub\nDescription: Golang inference engine and deep learning primitives - computerex/dlgo\nHN text: I created a DL inference engine that slowly grew to have more and functionality. - Inference for a bunch of open weights architectures - Diffusion image generation fir Z ai turbo - Vision input into LLM for inference - Vulkan/fast CPU, optimized kernels - Playground for testing - Last but not least, system one fast inference mode with same API semantics as Jev It's MIT, so go nuts\n\nArticle text:\nGitHub - computerex/dlgo: Golang inference engine and deep learning primitives · GitHub\nSkip to content\nNavigation Menu\nSign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI\nGitHu…"
     },
     {
-      "rank": 8,
-      "hn_id": 50087289,
-      "title": "AI agent behavior drift analysis with Cloudflare Clef",
-      "title_ja": "AI agent behavior drift analysis with Cloudflare Clef",
-      "hn_url": "https://news.ycombinator.com/item?id=50087289",
-      "source_url": "https://arcjet.com/blog/how-we-built-ai-agent-behavior-drift-analysis-with-cloudflare-clef",
-      "image_url": "https://arcjet.com/blog/how-we-built-ai-agent-behavior-drift-analysis-with-cloudflare-clef/opengraph-image?7dbc18ee16f9fc83",
-      "score": 2,
-      "final_score": 3,
-      "comments": 0,
-      "posted_at": "2026-10-14T13:17:14Z",
-      "summary_ja": "Title: AI agent behavior drift analysis with Cloudflare Clef\nArticle title: How we built AI agent behavior drift analysis with Cloudflare Clef | Arcjet Blog\nDescription: How Arcjet monitors AI coding agent sessions in real time, detecting risky actions and behavior drift with Cloudflare's Clef decision model.\n\nArticle text:\nHow we built AI agent behavior drift analysis with Cloudflare Clef | Arcjet Blog Product Building blocks\nShield WAF Bot protection Rate limiting Signup form protection Email validation Sensitive information Prompt injection New Content moderation New Filters For agents\nArcjet Plugin Arcjet Skills MCP Server CLI Protections\nAstro Deno Express Fastify Next.js NestJS React Router Nuxt Bun SvelteKit Hono Flask Node.js FastAPI Remix AI Agent Frameworks\nClaude Agent SDK Claude Managed Agents Cloudflare Think CrewAI Genkit Google ADK LangChain LangGraph Mastra Microsoft Agen…"
-    },
-    {
-      "rank": 9,
+      "rank": 10,
       "hn_id": 50091971,
       "title": "Can superintelligent AI be banned?",
       "title_ja": "Can superintelligent AI be banned?",
@@ -124,19 +137,6 @@
       "comments": 0,
       "posted_at": "2026-10-14T17:55:29Z",
       "summary_ja": "Title: Can superintelligent AI be banned?\nArticle title: Can superintelligent AI be banned? - by Mike Elgan\nDescription: One Midwestern city wants to outlaw superintelligence. Here’s why.\n\nArticle text:\nCan superintelligent AI be banned? - by Mike Elgan\nSubscribe Sign in Can superintelligent AI be banned?\nOne Midwestern city wants to outlaw superintelligence. Here’s why.\nMike Elgan Oct 14, 2026 ∙ Paid 1 Share SILICON VALLEY, CALIF., (OCTOBER 14, 2026) — The consensus is that superintelligent AI could wipe out humanity. The proposed defenses keep piling up: kill switches, Microsoft CEO Satya Nadella’s “emergency brake,” safety standards shared among democracies, and math-based methods like formal verification and “provably safe” design.\nOne local government is trying a different approach: just ban it.\nCouncil member Dave Rollo of Bloomington, Indiana, will introduce an ordinance today tha…"
-    },
-    {
-      "rank": 10,
-      "hn_id": 50081084,
-      "title": "Who Decided AI Gets to Have Feelings?",
-      "title_ja": "Who Decided AI Gets to Have Feelings?",
-      "hn_url": "https://news.ycombinator.com/item?id=50081084",
-      "source_url": "https://middlelayer.substack.com/p/who-decided-ai-gets-to-have-feelings",
-      "score": 3,
-      "final_score": 3,
-      "comments": 1,
-      "posted_at": "2026-10-14T00:58:32Z",
-      "summary_ja": "Title: Who Decided AI Gets to Have Feelings?"
     },
     {
       "rank": 11,
@@ -153,6 +153,101 @@
     },
     {
       "rank": 12,
+      "hn_id": 50081084,
+      "title": "Who Decided AI Gets to Have Feelings?",
+      "title_ja": "Who Decided AI Gets to Have Feelings?",
+      "hn_url": "https://news.ycombinator.com/item?id=50081084",
+      "source_url": "https://middlelayer.substack.com/p/who-decided-ai-gets-to-have-feelings",
+      "score": 3,
+      "final_score": 3,
+      "comments": 1,
+      "posted_at": "2026-10-14T00:58:32Z",
+      "summary_ja": "Title: Who Decided AI Gets to Have Feelings?"
+    },
+    {
+      "rank": 13,
+      "hn_id": 50087289,
+      "title": "AI agent behavior drift analysis with Cloudflare Clef",
+      "title_ja": "AI agent behavior drift analysis with Cloudflare Clef",
+      "hn_url": "https://news.ycombinator.com/item?id=50087289",
+      "source_url": "https://arcjet.com/blog/how-we-built-ai-agent-behavior-drift-analysis-with-cloudflare-clef",
+      "image_url": "https://arcjet.com/blog/how-we-built-ai-agent-behavior-drift-analysis-with-cloudflare-clef/opengraph-image?7dbc18ee16f9fc83",
+      "score": 2,
+      "final_score": 3,
+      "comments": 0,
+      "posted_at": "2026-10-14T13:17:14Z",
+      "summary_ja": "Title: AI agent behavior drift analysis with Cloudflare Clef\nArticle title: How we built AI agent behavior drift analysis with Cloudflare Clef | Arcjet Blog\nDescription: How Arcjet monitors AI coding agent sessions in real time, detecting risky actions and behavior drift with Cloudflare's Clef decision model.\n\nArticle text:\nHow we built AI agent behavior drift analysis with Cloudflare Clef | Arcjet Blog Product Building blocks\nShield WAF Bot protection Rate limiting Signup form protection Email validation Sensitive information Prompt injection New Content moderation New Filters For agents\nArcjet Plugin Arcjet Skills MCP Server CLI Protections\nAstro Deno Express Fastify Next.js NestJS React Router Nuxt Bun SvelteKit Hono Flask Node.js FastAPI Remix AI Agent Frameworks\nClaude Agent SDK Claude Managed Agents Cloudflare Think CrewAI Genkit Google ADK LangChain LangGraph Mastra Microsoft Agen…"
+    },
+    {
+      "rank": 14,
+      "hn_id": 50095789,
+      "title": "Accelerometer-derived real-world sleep stages and risk of incident diseases",
+      "title_ja": "Accelerometer-derived real-world sleep stages and risk of incident diseases",
+      "hn_url": "https://news.ycombinator.com/item?id=50095789",
+      "source_url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1005213",
+      "image_url": "https://journals.plos.org/plosmedicine/article/figure/image?id=10.1371/journal.pmed.1005213.g007\u0026size=inline",
+      "score": 2,
+      "final_score": 3,
+      "comments": 1,
+      "posted_at": "2026-10-14T21:43:30Z",
+      "summary_ja": "Title: Accelerometer-derived real-world sleep stages and risk of incident diseases\nArticle title: Accelerometer-derived real-world sleep stages and risk of incident diseases: A UK Biobank cohort study and phenome-wide association analysis | PLOS Medicine\nDescription: In this observational study, Shengzhi Sun and colleagues examine accelerometer-derived sleep patterns in 95,559 participants from the UK Biobank and find that differences in sleep stages, duration, regularity, and fragmentation are associated with the future incidence of a wide range of diseases. Th\n[truncated]\n\nArticle text:\nAccelerometer-derived real-world sleep stages and risk of incident diseases: A UK Biobank cohort study and phenome-wide association analysis | PLOS Medicine\nSkip to main content\nAdvertisement\nPLOS Medicine\nPublish\nSubmissions\nGetting Started\nPolicies\nBest Practices in Research Reporting\nMaterials, Softw…"
+    },
+    {
+      "rank": 15,
+      "hn_id": 50091413,
+      "title": "Why Big Tech Keeps Losing LLMs to Basic Social Engineering",
+      "title_ja": "Why Big Tech Keeps Losing LLMs to Basic Social Engineering",
+      "hn_url": "https://news.ycombinator.com/item?id=50091413",
+      "source_url": "https://medium.com/@kate8382/why-big-tech-keeps-losing-llms-to-basic-social-engineering-efc1a87a3daf",
+      "score": 2,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-10-14T17:26:30Z",
+      "summary_ja": "Title: Why Big Tech Keeps Losing LLMs to Basic Social Engineering"
+    },
+    {
+      "rank": 16,
+      "hn_id": 50095901,
+      "title": "Getting into a Kubernetes Cluster with Nothing but SSH",
+      "title_ja": "Getting into a Kubernetes Cluster with Nothing but SSH",
+      "hn_url": "https://news.ycombinator.com/item?id=50095901",
+      "source_url": "https://fables-for-robots.ch/blog/getting-into-a-kubernetes-cluster-with-nothing-but-ssh/",
+      "image_url": "https://fables-for-robots.ch/images/posts/getting-into-a-kubernetes-cluster-with-nothing-but-ssh-og.jpg",
+      "score": 1,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-10-14T21:51:53Z",
+      "summary_ja": "Title: Getting into a Kubernetes Cluster with Nothing but SSH\nArticle title: Getting Into a Kubernetes Cluster With Nothing but SSH | Fables for Robots\nDescription: kosh runs inside a cluster and gives whoever holds an accepted SSH key a k9s-like terminal UI, over ssh or over iroh-ssh.\n\nArticle text:\nGetting Into a Kubernetes Cluster With Nothing but SSH | Fables for Robots\nFablesFor\nRobots\nAbout\nServices\nProjects\nBlog\nContact\n2026-10-14 · 9 min read · Dragan Milic\nGetting Into a Kubernetes Cluster With Nothing but SSH\nkosh runs inside a cluster and gives whoever holds an accepted SSH key a k9s-like terminal UI, over ssh or over iroh-ssh.\nTo look at what runs in a Kubernetes cluster you need a kubeconfig with a credential in it, a way to reach the API server, and kubectl or k9s on the machine you sit at.\nFor one person and one cluster that is fine. With more people and more clusters it b…"
+    },
+    {
+      "rank": 17,
+      "hn_id": 50095314,
+      "title": "Man sentenced to 18 months for AI music scam",
+      "title_ja": "Man sentenced to 18 months for AI music scam",
+      "hn_url": "https://news.ycombinator.com/item?id=50095314",
+      "source_url": "https://www.justice.gov/usao-sdny/pr/north-carolina-man-sentenced-18-months-prison-super-intelligence-assisted-music",
+      "score": 2,
+      "final_score": 2,
+      "comments": 2,
+      "posted_at": "2026-10-14T21:08:55Z",
+      "summary_ja": "Title: Man sentenced to 18 months for AI music scam"
+    },
+    {
+      "rank": 18,
+      "hn_id": 50095544,
+      "title": "SoftBank junk bond sale raises stakes for CEO Son's all-in AI bet",
+      "title_ja": "SoftBank junk bond sale raises stakes for CEO Son's all-in AI bet",
+      "hn_url": "https://news.ycombinator.com/item?id=50095544",
+      "source_url": "https://www.japantimes.co.jp/business/2026/10/14/companies/softbank-junk-bond-sale/",
+      "image_url": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/14/568241.jpg?v=3.1",
+      "score": 2,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-10-14T21:24:41Z",
+      "summary_ja": "Title: SoftBank junk bond sale raises stakes for CEO Son's all-in AI bet\nArticle title: SoftBank junk bond sale raises stakes for CEO Son’s all-in AI bet - The Japan Times\nDescription: Son’s bets have a mixed track record.\n\nArticle text:\nSoftBank junk bond sale raises stakes for CEO Son’s all-in AI bet\nSoftBank Group Chairman and CEO Masayoshi Son's bets have a mixed track record — his investment in Chinese tech giant Alibaba was a major success, but he also directed $16 billion to Adam Neumann's WeWork, which ultimately went bankrupt.\n| REUTERS\nBy Anton Bridge\nREUTERS\nSHARE/SAVE\nX\nFacebook\nLinkedIn\nReddit\nBluesky\nThreads\nEmail\nPrint\nBookmark story\nCopy link\nOct 14, 2026\nSoftBank’s promise to pay its highest-ever yields in a record $11 billion junk-bond offering highlights the pressure on CEO Masayoshi Son to secure returns on his all-in bet on artificial intelligence amid concerns about…"
+    },
+    {
+      "rank": 19,
       "hn_id": 50087078,
       "title": "Show HN: Evlat, see which of your AI agents waiting on you",
       "title_ja": "Show HN: Evlat, see which of your AI agents waiting on you",
@@ -166,7 +261,7 @@
       "summary_ja": "Title: Show HN: Evlat, see which of your AI agents waiting on you\nArticle title: Evlat: which agent is waiting on you?\nDescription: Evlat docks a thin black strip to the edge of your Mac\n\nArticle text:\nSkip to content\nevlat\nHow it works\nWorks with\nFAQ\nDocs\nChangelog\nEN\nDownload\nWhich of your agents is waiting on you?\nA thin strip on the edge of your Mac’s screen. One click takes you straight back to whichever agent needs you.\nDownload for Mac\nSource on GitHub\nmacOS 14+ · Apple silicon · free · no permissions\nProjects\nroadmap.md\nscreenshot.png\nWorks with\nClaude Code waiting for approval\nAnything you run evlat watch · 62%\nNot just agents. Anything that takes a while.\nStart the long one (an image build, a training run, the full e2e suite, a deploy) with evlat watch in front, then go do something else. It keeps a ring on the bar while it runs: green when it exits 0, red with the exit code wh…"
     },
     {
-      "rank": 13,
+      "rank": 20,
       "hn_id": 50081128,
       "title": "Character.ai files for Chapter 11 bankruptcy. Disney makes a bid",
       "title_ja": "Character.ai files for Chapter 11 bankruptcy. Disney makes a bid",
@@ -180,34 +275,21 @@
       "summary_ja": "Title: Character.ai files for Chapter 11 bankruptcy. Disney makes a bid\nArticle title: AI companion startup Character.ai files for bankruptcy\nDescription: The company said the platform became \"costly to develop and grow,\" in Monday filings to the Delaware District bankruptcy court.\n\nArticle text:\nAI companion startup Character.ai files for bankruptcy Skip Navigation Markets Pre-Markets\nSIGN IN Create free account Markets Business Investing Tech Politics \u0026 Policy Video Watchlist Investing Club PRO Livestream Menu\nAI companion startup Character.ai files for Chapter 11 bankruptcy, citing costs and litigation\nCharacter.ai, the startup behind one of the largest AI companion apps, filed for Chapter 11 bankruptcy Monday.\nThe company said the platform became \"costly to develop and grow\" amid a boom in AI entertainment offerings.\nDisney has agreed to serve as a stalking horse bidder during the sa…"
     },
     {
-      "rank": 14,
-      "hn_id": 50091376,
-      "title": "Show HN: Model Atlas – An LLM leaderboard you can reweight",
-      "title_ja": "Show HN: Model Atlas – An LLM leaderboard you can reweight",
-      "hn_url": "https://news.ycombinator.com/item?id=50091376",
-      "source_url": "https://philippdubach.com/model-atlas/",
-      "image_url": "https://static.philippdubach.com/ograph/ograph-post.jpg",
-      "score": 2,
+      "rank": 21,
+      "hn_id": 50095555,
+      "title": "Show HN: A Claude skill that answers B2B marketing questions from one method",
+      "title_ja": "Show HN: A Claude skill that answers B2B marketing questions from one method",
+      "hn_url": "https://news.ycombinator.com/item?id=50095555",
+      "source_url": "https://github.com/zachbrown29/lintel-marketing-playbooks",
+      "image_url": "https://opengraph.githubassets.com/297a5b209a1f013b1db353239ecf18c21efc8a5d06fdcb18201e23072fce2f68/zachbrown29/lintel-marketing-playbooks",
+      "score": 1,
       "final_score": 2,
       "comments": 0,
-      "posted_at": "2026-10-14T17:24:52Z",
-      "summary_ja": "Title: Show HN: Model Atlas – An LLM leaderboard you can reweight\nArticle title: Model Atlas · Philipp D. Dubach\nDescription: Compare model configurations with capability weights and published benchmark results.\n\nArticle text:\nSkip to content PDD\nHome\nWriting\nProjects\nResearch\nLinks ↗ Subscribe\nModel Atlas\nIndex Benchmarks Method Loading evidence…"
+      "posted_at": "2026-10-14T21:25:42Z",
+      "summary_ja": "Title: Show HN: A Claude skill that answers B2B marketing questions from one method\nArticle title: GitHub - zachbrown29/lintel-marketing-playbooks: A Claude skill for B2B software marketing questions: diagnose first, name the framework that owns it, give the numbers. Seed to Series B. · GitHub\nDescription: A Claude skill for B2B software marketing questions: diagnose first, name the framework that owns it, give the numbers. Seed to Series B. - zachbrown29/lintel-marketing-playbooks\n\nArticle text:\nGitHub - zachbrown29/lintel-marketing-playbooks: A Claude skill for B2B software marketing questions: diagnose first, name the framework that owns it, give the numbers. Seed to Series B. · GitHub\nSkip to content\nNavigation Menu\nSign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI\nGitHub Copilot app Direct agents from issue to merge\nMCP Registry Integrate…"
     },
     {
-      "rank": 15,
-      "hn_id": 50091403,
-      "title": "Students should only use AI for things they know how to do well",
-      "title_ja": "Students should only use AI for things they know how to do well",
-      "hn_url": "https://news.ycombinator.com/item?id=50091403",
-      "source_url": "https://dtwuva.substack.com/p/students-should-only-use-ai-for-things",
-      "score": 2,
-      "final_score": 2,
-      "comments": 1,
-      "posted_at": "2026-10-14T17:26:02Z",
-      "summary_ja": "Title: Students should only use AI for things they know how to do well"
-    },
-    {
-      "rank": 16,
+      "rank": 22,
       "hn_id": 50087116,
       "title": "AI on AI's Future",
       "title_ja": "AI on AI's Future",
@@ -221,62 +303,21 @@
       "summary_ja": "Title: AI on AI's Future\nArticle title: AI on AI's future... - Hugh Howey\nDescription: Artificial intelligence (AI) holds tremendous promise to help us address some of the world’s toughest challenges—from healthcare and education to climate change and disaster relief. However, truly making the world a “better place” with AI requires not only the right applications but also a commitmen\n[truncated]\n\nArticle text:\nAI on AI's future... - Hugh Howey\nSkip to content\nAbout\nArtificial intelligence (AI) holds tremendous promise to help us address some of the world’s toughest challenges—from healthcare and education to climate change and disaster relief. However, truly making the world a “better place” with AI requires not only the right applications but also a commitment to responsible, ethical development and use. Below are some ways to harness AI for global benefit, along with considerations fo…"
     },
     {
-      "rank": 17,
-      "hn_id": 50091652,
-      "title": "Nedster – An open-source local AI",
-      "title_ja": "Nedster – An open-source local AI",
-      "hn_url": "https://news.ycombinator.com/item?id=50091652",
-      "source_url": "https://github.com/unrealumanga/Nedster",
-      "image_url": "https://opengraph.githubassets.com/e8746b62efa58aaa79f86731f8ce265d83a7db1d6c392f3435bd517051fb9f39/unrealumanga/Nedster",
+      "rank": 23,
+      "hn_id": 50095802,
+      "title": "The Art of Building AI Coding Agents: The book that builds itself",
+      "title_ja": "The Art of Building AI Coding Agents: The book that builds itself",
+      "hn_url": "https://news.ycombinator.com/item?id=50095802",
+      "source_url": "https://github.com/waywardgeek/ensemble",
+      "image_url": "https://opengraph.githubassets.com/ed931a46b6fa6ef603244033b38017f05b7b8092b234cc44c390fb182db44d70/waywardgeek/ensemble",
       "score": 1,
       "final_score": 2,
       "comments": 0,
-      "posted_at": "2026-10-14T17:37:41Z",
-      "summary_ja": "Title: Nedster – An open-source local AI\nArticle title: GitHub - unrealumanga/Nedster: Local-first AI coding and automation agent with automatic Ollama setup, hardware-aware models, RAG, MCP, and a friendly terminal UI. · GitHub\nDescription: Local-first AI coding and automation agent with automatic Ollama setup, hardware-aware models, RAG, MCP, and a friendly terminal UI. - unrealumanga/Nedster\n\nArticle text:\nGitHub - unrealumanga/Nedster: Local-first AI coding and automation agent with automatic Ollama setup, hardware-aware models, RAG, MCP, and a friendly terminal UI. · GitHub\nSkip to content\nNavigation Menu\nSign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI\nGitHub Copilot app Direct agents from issue to merge\nMCP Registry Integrate external tools\nDEVELOPER WORKFLOWS Actions Automate any workflow\nCodespaces Instant dev environments\nCode Revie…"
+      "posted_at": "2026-10-14T21:44:37Z",
+      "summary_ja": "Title: The Art of Building AI Coding Agents: The book that builds itself\nArticle title: GitHub - waywardgeek/ensemble: The book that builds an AI coding agent. The agent that builds the next edition. · GitHub\nDescription: The book that builds an AI coding agent. The agent that builds the next edition. - waywardgeek/ensemble\n\nArticle text:\nGitHub - waywardgeek/ensemble: The book that builds an AI coding agent. The agent that builds the next edition. · GitHub\nSkip to content\nNavigation Menu\nSign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI\nGitHub Copilot app Direct agents from issue to merge\nMCP Registry Integrate external tools\nDEVELOPER WORKFLOWS Actions Automate any workflow\nCodespaces Instant dev environments\nCode Review Manage code changes\nCode Quality Enforce quality at merge\nAPPLICATION SECURITY GitHub Advanced Security Find and fix vulne…"
     },
     {
-      "rank": 18,
-      "hn_id": 50091413,
-      "title": "Why Big Tech Keeps Losing LLMs to Basic Social Engineering",
-      "title_ja": "Why Big Tech Keeps Losing LLMs to Basic Social Engineering",
-      "hn_url": "https://news.ycombinator.com/item?id=50091413",
-      "source_url": "https://medium.com/@kate8382/why-big-tech-keeps-losing-llms-to-basic-social-engineering-efc1a87a3daf",
-      "score": 2,
-      "final_score": 2,
-      "comments": 0,
-      "posted_at": "2026-10-14T17:26:30Z",
-      "summary_ja": "Title: Why Big Tech Keeps Losing LLMs to Basic Social Engineering"
-    },
-    {
-      "rank": 19,
-      "hn_id": 50091686,
-      "title": "HomePod Mini 1 Will Also Support Siri AI Later This Year, Says CNET",
-      "title_ja": "HomePod Mini 1 Will Also Support Siri AI Later This Year, Says CNET",
-      "hn_url": "https://news.ycombinator.com/item?id=50091686",
-      "source_url": "https://www.macrumors.com/2026/10/14/homepod-mini-1-to-support-siri-ai-says-cnet/",
-      "image_url": "https://images.macrumors.com/t/vNCnNh4c6NZGG2wexoQH1l1CoVo=/2500x/article-new/2020/11/homepod-mini-thumb-feature.jpg",
-      "score": 1,
-      "final_score": 2,
-      "comments": 0,
-      "posted_at": "2026-10-14T17:39:39Z",
-      "summary_ja": "Title: HomePod Mini 1 Will Also Support Siri AI Later This Year, Says CNET\nArticle title: No, HomePod Mini 1 Won't Support Siri AI as CNET Reported - MacRumors\nDescription: Update – 10:30 a.m. Pacific Time: CNET has corrected its article and now says only the HomePod mini 2 will support Siri AI. Original article follows.\n\nArticle text:\nNo, HomePod Mini 1 Won't Support Siri AI as CNET Reported - MacRumors\nSkip to Content Got a tip for us? Let us know\na. Send us an email\nForums Forums Show Forums menu Login\nNo, HomePod Mini 1 Won't Support Siri AI as CNET Reported\nUpdate – 10:30 a.m. Pacific Time: CNET has corrected its article and now says only the HomePod mini 2 will support Siri AI. Original article follows.\n\"The HomePod Mini 2 also gets a faster S10 processor, which should help with processing Siri AI requests,\" he said. \"However, the current S5-powered HomePod Mini will also get Siri…"
-    },
-    {
-      "rank": 20,
-      "hn_id": 50092067,
-      "title": "Kubernetes Rightsizing: Which Requests to Change, and When Not To",
-      "title_ja": "Kubernetes Rightsizing: Which Requests to Change, and When Not To",
-      "hn_url": "https://news.ycombinator.com/item?id=50092067",
-      "source_url": "https://radarhq.io/blog/kubernetes-rightsizing-requests",
-      "image_url": "https://radarhq.io/images/blog/radar-cost-rightsizing-scan.png",
-      "score": 1,
-      "final_score": 2,
-      "comments": 0,
-      "posted_at": "2026-10-14T18:00:12Z",
-      "summary_ja": "Title: Kubernetes Rightsizing: Which Requests to Change, and When Not To\nArticle title: Kubernetes Rightsizing: Which Requests to Change, and When Not To | Radar\nDescription: How to right-size Kubernetes CPU and memory requests with Prometheus, and when HPA, OOMKills, bursty usage or throttling should stop a reduction.\n\nArticle text:\nKubernetes Rightsizing: Which Requests to Change, and When Not To | Radar Radar by Skyhook Product Overview Everything Radar OSS and Radar Cloud ship together Issues \u0026 root cause Failures folded to the cause, with blast radius AI investigations Root cause from your agent, Radar's UI or Radar Cloud MCP server Radar's cluster context for Claude Code, Codex, Cursor and any MCP agent Applications Workloads folded into apps - health, envs, skew Topology Live resource graph, ELK.js-laid-out, SSE updates Event timeline Every K8s event and delta, past the default 1-…"
-    },
-    {
-      "rank": 21,
+      "rank": 24,
       "hn_id": 50086815,
       "title": "Will China overtake the US in the AI race? (In charts)",
       "title_ja": "Will China overtake the US in the AI race? (In charts)",
@@ -290,35 +331,35 @@
       "summary_ja": "Title: Will China overtake the US in the AI race? (In charts)\nArticle title: Will China overtake the US in the AI race? (In charts) - Salvatore Zappalà's Website\nDescription: China has far more electricity than the US, but chips are the real bottleneck, and there the US is years ahead. China leads on open models and, increasingly, on talent.\n\nArticle text:\nWill China overtake the US in the AI race? (In charts) - Salvatore Zappalà's Website\n← Salvatore Zappalà's Website\nWill China overtake the US in the AI race? (In charts)\nNOTE: This is a written version of my YouTube video:\nWill China overtake the US in the AI race?\nTwo months ago, while reading IFP’s report How Should the US Prepare\nfor Increasingly Automated AI R\u0026D? , I came across this graph, showing how China’s electricity generation has been growing at a much steeper rate than in the US:\nBut, as is often the case with this kind of…"
     },
     {
-      "rank": 22,
-      "hn_id": 50092262,
-      "title": "I spent 48 hours in SF hanging out with billionaires, data labs and AI execs",
-      "title_ja": "I spent 48 hours in SF hanging out with billionaires, data labs and AI execs",
-      "hn_url": "https://news.ycombinator.com/item?id=50092262",
-      "source_url": "https://twitter.com/gregisenberg/status/2110414696037716372",
-      "image_url": "https://pbs.twimg.com/media/HUmxH1EXsAAXxld?format=webp\u0026name=large",
-      "score": 2,
-      "final_score": 2,
-      "comments": 0,
-      "posted_at": "2026-10-14T18:12:19Z",
-      "summary_ja": "Title: I spent 48 hours in SF hanging out with billionaires, data labs and AI execs\nArticle title: GREG ISENBERG on X: \"I spent 48 hours in SF hanging out with billionaires, data labs and AI founders and execs running $1B to $100B companies.\nMy observations:\n1. Sooo MANY stories of data brokers making like $2M a WEEK selling company data to labs. I can't tell if it's the beginning or a bubble,… /\n[truncated]\nDescription: I spent 48 hours in SF hanging out with billionaires, data labs and AI founders and execs running $1B to $100B companies.\nMy observations:\n1. Sooo MANY stories of data brokers making like $2M a WEEK selling company data to labs. I can't tell if it's the beginning or a bubble, and I kept wondering…\n\nArticle text:\nGREG ISENBERG on X: \"I spent 48 hours in SF hanging out with billionaires, data labs and AI founders and execs running $1B to $100B companies.\nMy observations:\n1…"
-    },
-    {
-      "rank": 23,
-      "hn_id": 50091698,
-      "title": "AI Cost Transparency Report Q4 2026: 10 providers, 25 criteria, open dataset",
-      "title_ja": "AI Cost Transparency Report Q4 2026: 10 providers, 25 criteria, open dataset",
-      "hn_url": "https://news.ycombinator.com/item?id=50091698",
-      "source_url": "https://tokenburnindex.com/reports/2026-q4",
-      "image_url": "https://tokenburnindex.com/og-transparency.png",
+      "rank": 25,
+      "hn_id": 50091652,
+      "title": "Nedster – An open-source local AI",
+      "title_ja": "Nedster – An open-source local AI",
+      "hn_url": "https://news.ycombinator.com/item?id=50091652",
+      "source_url": "https://github.com/unrealumanga/Nedster",
+      "image_url": "https://opengraph.githubassets.com/e8746b62efa58aaa79f86731f8ce265d83a7db1d6c392f3435bd517051fb9f39/unrealumanga/Nedster",
       "score": 1,
       "final_score": 2,
       "comments": 0,
-      "posted_at": "2026-10-14T17:40:10Z",
-      "summary_ja": "Title: AI Cost Transparency Report Q4 2026: 10 providers, 25 criteria, open dataset\nArticle title: AI Cost Transparency Report — Q4 2026 — TokenBurn Index\nDescription: Edition #1. 10 AI providers scored against a frozen public rubric, 32 models priced across four canonical workloads, and five field notes from measured usage. Dataset included, CC BY 4.0.\n\nArticle text:\nAI Cost Transparency Report — Q4 2026 — TokenBurn Index PRICING SNAPSHOT 2026-10-13 CLAUDE FABLE 5 $ 10.00 / $ 50.00 MTOK CLAUDE FABLE 5.1 $ 10.00 / $ 50.00 MTOK CLAUDE OPUS 5 $ 5.00 / $ 25.00 MTOK CLAUDE OPUS 4.8 $ 5.00 / $ 25.00 MTOK CLAUDE OPUS 5.5 $ 4.00 / $ 20.00 MTOK CLAUDE SONNET 5.5 $ 2.00 / $ 10.00 MTOK CLAUDE SONNET 5 $ 2.00 / $ 10.00 MTOK CLAUDE HAIKU 5.5 $ 0.10 / $ 0.50 MTOK CLAUDE HAIKU 4.5 $ 1.00 / $ 5.00 MTOK GPT-6 ASTRA $ 10.00 / $ 50.00 MTOK GPT-5.6 $ 4.00 / $ 20.00 MTOK GPT-5.6 CYBER $ 12.50 / $ 75.00 MTOK…"
+      "posted_at": "2026-10-14T17:37:41Z",
+      "summary_ja": "Title: Nedster – An open-source local AI\nArticle title: GitHub - unrealumanga/Nedster: Local-first AI coding and automation agent with automatic Ollama setup, hardware-aware models, RAG, MCP, and a friendly terminal UI. · GitHub\nDescription: Local-first AI coding and automation agent with automatic Ollama setup, hardware-aware models, RAG, MCP, and a friendly terminal UI. - unrealumanga/Nedster\n\nArticle text:\nGitHub - unrealumanga/Nedster: Local-first AI coding and automation agent with automatic Ollama setup, hardware-aware models, RAG, MCP, and a friendly terminal UI. · GitHub\nSkip to content\nNavigation Menu\nSign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI\nGitHub Copilot app Direct agents from issue to merge\nMCP Registry Integrate external tools\nDEVELOPER WORKFLOWS Actions Automate any workflow\nCodespaces Instant dev environments\nCode Revie…"
     },
     {
-      "rank": 24,
+      "rank": 26,
+      "hn_id": 50091376,
+      "title": "Show HN: Model Atlas – An LLM leaderboard you can reweight",
+      "title_ja": "Show HN: Model Atlas – An LLM leaderboard you can reweight",
+      "hn_url": "https://news.ycombinator.com/item?id=50091376",
+      "source_url": "https://philippdubach.com/model-atlas/",
+      "image_url": "https://static.philippdubach.com/ograph/ograph-post.jpg",
+      "score": 2,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-10-14T17:24:52Z",
+      "summary_ja": "Title: Show HN: Model Atlas – An LLM leaderboard you can reweight\nArticle title: Model Atlas · Philipp D. Dubach\nDescription: Compare model configurations with capability weights and published benchmark results.\n\nArticle text:\nSkip to content PDD\nHome\nWriting\nProjects\nResearch\nLinks ↗ Subscribe\nModel Atlas\nIndex Benchmarks Method Loading evidence…"
+    },
+    {
+      "rank": 27,
       "hn_id": 50091734,
       "title": "Goldigging gals are flocking to Silicon Valley to land rich husbands in AI",
       "title_ja": "Goldigging gals are flocking to Silicon Valley to land rich husbands in AI",
@@ -332,7 +373,7 @@
       "summary_ja": "Title: Goldigging gals are flocking to Silicon Valley to land rich husbands in AI\nDescription: Chinese and Chinese American women are flocking to Silicon Valley from across the country and around the globe with the aim of landing a husband who works in AI at companies like Anthropic and OpenAI.\n\nArticle text:\nPrimary Menu\nSections\nUS News\nMetro\nSwitch between CA and NY editions here.\nCA\nNY\nSearch\nSearch\ntrending now\nSkip to main content\nMom murders husband and son at Poconos resort before calling 911...\nMom’s chilling words after allegedly murdering husband, son...\nMajor banks closed accounts of MAGA, pro-life and other...\nFormer child actor killed by tiger had ‘significant mental...\nWide-eyed Dem candidate slurs her way through train...\nPhillies make surprising decision on next manager after Alex Cora...\nWoman survives 20 hours at sea after going overboard on Royal...\nHochul, Blakeman s…"
     },
     {
-      "rank": 25,
+      "rank": 28,
       "hn_id": 50087077,
       "title": "Google ships Gemini 4 Argon, Amex launches agent purchase authorization, plus",
       "title_ja": "Google ships Gemini 4 Argon, Amex launches agent purchase authorization, plus",
@@ -345,7 +386,7 @@
       "summary_ja": "Title: Google ships Gemini 4 Argon, Amex launches agent purchase authorization, plus"
     },
     {
-      "rank": 26,
+      "rank": 29,
       "hn_id": 50086752,
       "title": "Has the AI Boom Impacted the U.S. Current Account?",
       "title_ja": "Has the AI Boom Impacted the U.S. Current Account?",
@@ -359,59 +400,18 @@
       "summary_ja": "Title: Has the AI Boom Impacted the U.S. Current Account?\nArticle title: Has the AI Boom Impacted the U.S. Current Account? - Liberty Street Economics\nDescription: A look at why the AI boom hasn’t substantially affected the trade balance despite the climb in imports of semiconductors, servers, and computing equipment.\n\nArticle text:\nMuseum \u0026 Visits\nRegional Economy\nData \u0026 Statistics\nCareers\nBlogs\nNews \u0026 Events\nAbout the\nNew York Fed\nAbout the New York Fed\nEthics and Conflicts of Interest\nAt the New York Fed, our mission is to make the U.S. economy stronger and the financial system more stable for all segments of society. We do this by executing monetary policy, providing financial services, supervising banks and conducting research and providing expertise on issues that impact the nation and communities we serve.\nThe Teller Window is a publication featuring expert knowledge and insight f…"
     },
     {
-      "rank": 27,
-      "hn_id": 50083555,
-      "title": "Ask HN: How to deal with just being a PR reviewer for LLMs nowadays",
-      "title_ja": "Ask HN: How to deal with just being a PR reviewer for LLMs nowadays",
-      "hn_url": "https://news.ycombinator.com/item?id=50083555",
-      "source_url": "",
-      "score": 1,
-      "final_score": 1,
-      "comments": 0,
-      "posted_at": "2026-10-14T07:06:49Z",
-      "summary_ja": "Title: Ask HN: How to deal with just being a PR reviewer for LLMs nowadays\nHN text: I know .. architecture is important and yes it is also fun to figure it out, but apart from that all that was fun for me is done by AI nowadays and I am basically a PR reviewer for Claude now. And I hate it. I am looking at a terminal window half of the day and have to figure out what the LLM wants to do ... depending on much Anthropic nervs the model, this can be easy or it still invents words and I have to check every detail. My brain feels like it is getting cooked after a couple of hours, but the work day is only half done. How do you guys deal with this?"
-    },
-    {
-      "rank": 28,
-      "hn_id": 50083514,
-      "title": "How to be more ambitious when using AI",
-      "title_ja": "How to be more ambitious when using AI",
-      "hn_url": "https://news.ycombinator.com/item?id=50083514",
-      "source_url": "https://felixrieseberg.com/how-to-be-more-ambitious-a-tutorial-for-humans-with-models/",
-      "image_url": "https://storage.ghost.io/c/89/e0/89e08557-681a-40be-8264-278bf46d6b25/content/images/size/w1200/2026/10/modo_de_volar_a_way_of_flying_1951.10.55-1.jpg",
-      "score": 1,
-      "final_score": 1,
-      "comments": 0,
-      "posted_at": "2026-10-14T07:01:13Z",
-      "summary_ja": "Title: How to be more ambitious when using AI\nArticle title: How to be more ambitious: A tutorial for humans with models\nDescription: I work on Claude. It's an interesting experience: Every day I learn about yet another feat accomplished with or by Claude that I hadn't considered, didn\u0026\n\nArticle text:\nFelix Rieseberg\nAbout Work Posts Online\nAUTO\n◂ Posts How to be more ambitious: A tutorial for humans with models\n▶︎ PLAY 0:00:00 ↑ ↓ SCROLL · ← → SECTIONS\nTYPESET\n13 October 2026 8 MIN\nHow to be more ambitious: A tutorial for humans with models\nI work on Claude. It's an interesting experience: Every day I learn about yet another feat accomplished with or by Claude that I hadn't considered, didn't think possible, or simply lacked the curiosity and time to try. This month, it may have helped discover a new planet , I've seen the first AI music video that I really like , and we are discussing…"
-    },
-    {
-      "rank": 29,
-      "hn_id": 50086559,
-      "title": "Gemini vs ElevenLabs Voice Cloning",
-      "title_ja": "Gemini vs ElevenLabs Voice Cloning",
-      "hn_url": "https://news.ycombinator.com/item?id=50086559",
-      "source_url": "https://techstackups.com/comparisons/gemini-vs-elevenlabs-voice-cloning-tts/",
-      "image_url": "https://techstackups.com/img/comparisons/gemini-vs-elevenlabs/cover.jpg",
-      "score": 1,
-      "final_score": 1,
-      "comments": 0,
-      "posted_at": "2026-10-14T12:21:26Z",
-      "summary_ja": "Title: Gemini vs ElevenLabs Voice Cloning\nArticle title: Gemini vs ElevenLabs Voice Cloning and TTS (2026): Gemini 3.8 Flash vs Eleven v4 | Tech Stackups\nDescription: Gemini vs ElevenLabs on voice cloning and text to speech: I ran Gemini 3.8 Flash TTS and Eleven v4 through emotion, hard text, long-form, dialogue and cloning tests, with the audio so you can judge.\n\nArticle text:\nSkip to main content Tech Stackups Home Topics Comparisons Guides Articles Explainers News AX Search Gemini vs ElevenLabs Voice Cloning and TTS (2026): Gemini 3.8 Flash vs Eleven v4\nGoogle released Gemini 3.8 Flash TTS on 23 September 2026. ElevenLabs released Eleven v4 five days later. I put both through the same five tests, covering emotional tags, hard-to-say text, long-form narration, a two-person argument, and cloning my own voice.\nElevenLabs won three of the five (hard text, long-form, dialogue). Gemini won…"
-    },
-    {
       "rank": 30,
-      "hn_id": 50092311,
-      "title": "Europe's leaders abandon the race for frontier AI",
-      "title_ja": "Europe's leaders abandon the race for frontier AI",
-      "hn_url": "https://news.ycombinator.com/item?id=50092311",
-      "source_url": "https://www.politico.eu/article/europe-ai-strategy-frontier-models-us-china/",
-      "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/10/13/GettyImages-2296123232-scaled.jpg",
+      "hn_id": 50091686,
+      "title": "HomePod Mini 1 Will Also Support Siri AI Later This Year, Says CNET",
+      "title_ja": "HomePod Mini 1 Will Also Support Siri AI Later This Year, Says CNET",
+      "hn_url": "https://news.ycombinator.com/item?id=50091686",
+      "source_url": "https://www.macrumors.com/2026/10/14/homepod-mini-1-to-support-siri-ai-says-cnet/",
+      "image_url": "https://images.macrumors.com/t/vNCnNh4c6NZGG2wexoQH1l1CoVo=/2500x/article-new/2020/11/homepod-mini-thumb-feature.jpg",
       "score": 1,
-      "final_score": 1,
+      "final_score": 2,
       "comments": 0,
-      "posted_at": "2026-10-14T18:15:05Z",
-      "summary_ja": "Title: Europe's leaders abandon the race for frontier AI\nArticle title: Europe’s leaders abandon the race for frontier AI – POLITICO\nDescription: The new mantra? Don’t panic about owning the models — put them to work instead.\n\nArticle text:\nEurope’s leaders abandon the race for frontier AI – POLITICO\nSkip to main content\nAdvertisement\nMenu\nSearch for:\nSearch\nEdition: Europe\nEurope\nPolicy areas\nAgriculture and Food\nCompetition and Industrial Policy\nCybersecurity and Data Protection\nGlobal Policy Lab: Living Cities\nPodcasts\nBrussels Playbook Podcast\nFeatured Series\nIrish Presidency of the EU\nBreaking out: Stories of Roma empowerment\nA global emergency: Tackling antimicrobial resistance\nPoll of polls\nElections in Europe\nPolitico Live\nSee All Future Events\nEurope’s leaders abandon the race for frontier AI\nThe new mantra? Don’t panic about owning the models — put them to work instead.\nFree ar…"
+      "posted_at": "2026-10-14T17:39:39Z",
+      "summary_ja": "Title: HomePod Mini 1 Will Also Support Siri AI Later This Year, Says CNET\nArticle title: No, HomePod Mini 1 Won't Support Siri AI as CNET Reported - MacRumors\nDescription: Update – 10:30 a.m. Pacific Time: CNET has corrected its article and now says only the HomePod mini 2 will support Siri AI. Original article follows.\n\nArticle text:\nNo, HomePod Mini 1 Won't Support Siri AI as CNET Reported - MacRumors\nSkip to Content Got a tip for us? Let us know\na. Send us an email\nForums Forums Show Forums menu Login\nNo, HomePod Mini 1 Won't Support Siri AI as CNET Reported\nUpdate – 10:30 a.m. Pacific Time: CNET has corrected its article and now says only the HomePod mini 2 will support Siri AI. Original article follows.\n\"The HomePod Mini 2 also gets a faster S10 processor, which should help with processing Siri AI requests,\" he said. \"However, the current S5-powered HomePod Mini will also get Siri…"
     }
   ]
 }

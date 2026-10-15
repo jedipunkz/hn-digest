@@ -1,0 +1,88 @@
+{
+  "date": "2026-10-15",
+  "generated_at": "2026-10-15T01:15:14Z",
+  "articles": [
+    {
+      "rank": 1,
+      "hn_id": 50097811,
+      "title": "Capsem – a Rust hypervisor sandboxing AI agents in air-gapped Linux VMs",
+      "title_ja": "Capsem – a Rust hypervisor sandboxing AI agents in air-gapped Linux VMs",
+      "hn_url": "https://news.ycombinator.com/item?id=50097811",
+      "source_url": "https://capsem.org/",
+      "score": 2,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-10-15T00:58:26Z",
+      "summary_ja": "Title: Capsem – a Rust hypervisor sandboxing AI agents in air-gapped Linux VMs\nArticle title: Capsem -- The fastest way to ship with AI securely.\nDescription: The fastest way to ship with AI securely.\n\nArticle text:\nSkip to content Capsem Features How It Works FAQ Docs Download GitHub (opens in new tab) CAPSEM\nThe fastest way to\nship with AI securely.\nA Rust-powered hypervisor that sandboxes every AI coding agent\nin its own air-gapped Linux VM. See everything, control everything.\nLearn More Ready to code, out of the box\nA fully configured Linux dev environment with your favorite AI agents, MCP tools, and packages pre-installed. Boot to prompt in under 10 seconds.\nAll major AI coding agents, pre-installed and auto-configured for sandbox mode.\nPolicy-checked tool access over vsock. Built-in tools plus custom MCP servers via fastmcp.\nPython, Node.js, and 30+ packages ready to go. No setup r…"
+    },
+    {
+      "rank": 2,
+      "hn_id": 50097790,
+      "title": "OpenAI Sued over Children's Data Used to Train ChatGPT",
+      "title_ja": "OpenAI Sued over Children's Data Used to Train ChatGPT",
+      "hn_url": "https://news.ycombinator.com/item?id=50097790",
+      "source_url": "https://www.cnet.com/tech/services-and-software/chatgpt-accused-using-childrens-data/",
+      "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/85edb476-1c65-4c1d-aa3e-889c7492204d.jpg",
+      "score": 2,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-10-15T00:55:16Z",
+      "summary_ja": "Title: OpenAI Sued over Children's Data Used to Train ChatGPT\nArticle title: OpenAI Sued Over Children’s Data Used to Train ChatGPT - CNET\nDescription: The lawsuit says ChatGPT continued to chat with a 12-year-old, even rating her looks.\n\nArticle text:\nOpenAI Sued Over Children’s Data Used to Train ChatGPT - CNET\nSkip to content\nYour Guide\nTo a Better Future\nAdd as a preferred source on Google\nOpen\nClose\nYour Guide\nTo a Better Future\n100 Days of Holiday\nOur gifting experts are obsessively searching for holiday gifts that are unique, thoughtful and suitable for any budget.\nBest Products\nBest VPN Services\nBest Identity Theft Protections\nBest Noise-Canceling Headphones\nBest Outdoor Home Security Cameras\nAdd as a preferred source on Google\nOur expert, award-winning staff selects the products we cover and rigorously researches and tests our top picks. If you buy through our links, we may earn…"
+    },
+    {
+      "rank": 3,
+      "hn_id": 50097841,
+      "title": "No, We Need a Neural Network",
+      "title_ja": "No, We Need a Neural Network",
+      "hn_url": "https://news.ycombinator.com/item?id=50097841",
+      "source_url": "https://thedailywtf.com/articles/No,_We_Need_a_Neural_Network",
+      "image_url": "https://thedailywtf.com/Images/200612/water.jpg",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-10-15T01:01:57Z",
+      "summary_ja": "Title: No, We Need a Neural Network\nArticle title: No, We Need a Neural Network - The Daily WTF\nDescription: M.A. is one of the world's foremost experts on neural networks. His undergraduate specialty was artificial intelligence, his master's thesis was about genetic algorithms, and his doctoral dissertation covered evolutionary programming. Such an extensive computer science education opened up a wide ran\n[truncated]\n\nArticle text:\nFeature Articles\nMost Recent Articles\nIt's All Part 2 of the Process\nIt's all Part 1 of the Process\nQuite a Distance from the Right Solution\nFailure, After Failure, After Failure...\nM.A. is one of the world's foremost experts on neural networks. His undergraduate specialty was artificial intelligence, his master's thesis was about genetic algorithms, and his doctoral dissertation covered evolutionary programming. Such an extensive computer science education o…"
+    },
+    {
+      "rank": 4,
+      "hn_id": 50097607,
+      "title": "Open-source LLM trading bots vs. the government bond, on paper money",
+      "title_ja": "Open-source LLM trading bots vs. the government bond, on paper money",
+      "hn_url": "https://news.ycombinator.com/item?id=50097607",
+      "source_url": "https://blueprintau.com/knives/",
+      "image_url": "https://blueprintau.com/knives/og.png",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-10-15T00:33:56Z",
+      "summary_ja": "Title: Open-source LLM trading bots vs. the government bond, on paper money\nArticle title: The Knife Tournament: 100 AI trading bots vs the government bond | BlueprintAU\nDescription: 100 open-source AI trading bots, A$63,000 of paper money each, no stop losses, against the Australian 10-year government bond yield. Starts 1 November 2026. Free waitlist.\n\nArticle text:\nSkip to the waitlist\nThe Knife Tournament · Not lit yet\nFrom the BlueprintAU lab\nDay 00 · Lights up 1 Nov, 10:30am Adelaide\n100 open-source AI trading bots. A$63,000 of paper money each, the median Australian super balance. Their one job is the dumbest thing in trading: catch falling knives.\nFree waitlist now · $20 a month from day one\nThe first candle of the month Sunday 1 November, 10:30am Adelaide\n100 open-source AI trading bots, each with different settings. Each one starts with A$63,000 of paper money.\nCatch falling kni…"
+    },
+    {
+      "rank": 5,
+      "hn_id": 50097883,
+      "title": "Ricursive Intelligence bets on AI-designed chips to solve the compute crisis",
+      "title_ja": "Ricursive Intelligence bets on AI-designed chips to solve the compute crisis",
+      "hn_url": "https://news.ycombinator.com/item?id=50097883",
+      "source_url": "https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/55590095286_7fe28ddb94_o.jpg?resize=1200,800",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-10-15T01:08:07Z",
+      "summary_ja": "Title: Ricursive Intelligence bets on AI-designed chips to solve the compute crisis\nArticle title: Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis | TechCrunch\nDescription: The founders detailed how their startup is developing AI that can design chips, learn from each iteration, and improve subsequent designs, all with the goal of automating and accelerating the chip design process.\n\nArticle text:\n–:–:–:–\nLast two days at Disrupt are half off. Don’t miss any more moments. REGISTER NOW\nDisrupt doors open Oct. 13. Get your pass and bring someone with you at 50% off. REGISTER NOW.\nTechCrunch Desktop Logo\nTechCrunch Mobile Logo\nLatest\nRicursive Intelligence is betting on AI-designed chips to help solve the compute crisis\nRicursive Intelligence founders Anna Goldie and Azalia Mirhoseini believe more efficient AI chip design could help solve the compute…"
+    },
+    {
+      "rank": 6,
+      "hn_id": 50097530,
+      "title": "The AI boom is threatened by an epidemic of unreliable numbers",
+      "title_ja": "The AI boom is threatened by an epidemic of unreliable numbers",
+      "hn_url": "https://news.ycombinator.com/item?id=50097530",
+      "source_url": "https://www.economist.com/business/2026/10/14/the-ai-boom-is-threatened-by-an-epidemic-of-unreliable-numbers",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-10-15T00:23:03Z",
+      "summary_ja": "Title: The AI boom is threatened by an epidemic of unreliable numbers"
+    }
+  ]
+}

@@ -1,6 +1,6 @@
 {
   "date": "2026-10-15",
-  "generated_at": "2026-10-15T01:15:14Z",
+  "generated_at": "2026-10-15T07:02:50Z",
   "articles": [
     {
       "rank": 1,
@@ -31,6 +31,46 @@
     },
     {
       "rank": 3,
+      "hn_id": 50100056,
+      "title": "AI crippleware in Hebrew and Chinese translations",
+      "title_ja": "AI crippleware in Hebrew and Chinese translations",
+      "hn_url": "https://news.ycombinator.com/item?id=50100056",
+      "source_url": "https://fromhebrew.com",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-10-15T06:38:56Z",
+      "summary_ja": "Title: AI crippleware in Hebrew and Chinese translations\nArticle title: FromHebrew — translate Hebrew text and pictures\n\nArticle text:\nY Hacker News Welcome! If fromhebrew is worth it, ▲ upvote it on HN ×\nfromhebrew Suggest a feature Models About\nMatthew Petti @matthew_petti\n𝕏\nwhen I asked Claude to translate something spicy from Hebrew\nChris Menahan 🇺🇸 @infolibnews · Oct 13\n🚨 ADL CEO Jonathan Greenblatt reveals in Israel that he's been working with all the top AI Frontier Labs to push them to suppress \"anti-Semitism.\"\n\"We've been working with the Frontier Labs—OpenAI, Anthropic, Alphabet, the company that runs Gemini, Google, Meta, who runs Muse, and others, X, who run Grok—testing their models and using the results to push them to do better.\"\n1:26 PM · Oct 14, 2026 · 155.4K Views\n46 Replies 679 Reposts 5,067 Likes 659 Bookmarks as of Oct 15\nSo fromhebrew does one job: Hebrew in, a fait…"
+    },
+    {
+      "rank": 4,
+      "hn_id": 50100101,
+      "title": "AI-powered law firms draw lawyers from big firms",
+      "title_ja": "AI-powered law firms draw lawyers from big firms",
+      "hn_url": "https://news.ycombinator.com/item?id=50100101",
+      "source_url": "https://www.reuters.com/legal/legalindustry/ai-powered-law-firms-draw-lawyers-big-firms-2026-10-14/",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-10-15T06:45:07Z",
+      "summary_ja": "Title: AI-powered law firms draw lawyers from big firms"
+    },
+    {
+      "rank": 5,
+      "hn_id": 50100194,
+      "title": "Apple and OpenAI Go to Court in a High-Stakes Legal Battle over AI Trade Secrets",
+      "title_ja": "Apple and OpenAI Go to Court in a High-Stakes Legal Battle over AI Trade Secrets",
+      "hn_url": "https://news.ycombinator.com/item?id=50100194",
+      "source_url": "https://www.rswebsols.com/news/apple-and-openai-go-to-court-in-a-high-stakes-legal-battle-over-ai-trade-secrets/",
+      "image_url": "https://cdn.rswebsols.com/wp-content/uploads/2026/07/OpenAI-and-AI.jpg",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-10-15T06:56:44Z",
+      "summary_ja": "Title: Apple and OpenAI Go to Court in a High-Stakes Legal Battle over AI Trade Secrets\nArticle title: Apple and OpenAI Clash in High-Stakes AI Trade Secrets Case\nDescription: Apple and OpenAI face off in a high-stakes legal battle over AI trade secrets. Discover the shocking details and what this means for the future of AI innovation.\n\nArticle text:\nApple and OpenAI Clash in High-Stakes AI Trade Secrets Case\nSkip to content\nMenu Register\nApple and OpenAI Go to Court in a High-Stakes Legal Battle Over AI Trade Secrets\nHome » News » Technology » Apple and OpenAI Go to Court in a High-Stakes Legal Battle Over AI Trade Secrets\nApple and OpenAI Prepare for Pivotal Court Hearing Over Trade Secrets Dispute\nApple and OpenAI Prepare for Pivotal Court Hearing Over Trade Secrets Dispute\nApple and OpenAI are poised to confront each other in a significant courtroom showdown regarding allegations tha…"
+    },
+    {
+      "rank": 6,
       "hn_id": 50097841,
       "title": "No, We Need a Neural Network",
       "title_ja": "No, We Need a Neural Network",
@@ -44,7 +84,7 @@
       "summary_ja": "Title: No, We Need a Neural Network\nArticle title: No, We Need a Neural Network - The Daily WTF\nDescription: M.A. is one of the world's foremost experts on neural networks. His undergraduate specialty was artificial intelligence, his master's thesis was about genetic algorithms, and his doctoral dissertation covered evolutionary programming. Such an extensive computer science education opened up a wide ran\n[truncated]\n\nArticle text:\nFeature Articles\nMost Recent Articles\nIt's All Part 2 of the Process\nIt's all Part 1 of the Process\nQuite a Distance from the Right Solution\nFailure, After Failure, After Failure...\nM.A. is one of the world's foremost experts on neural networks. His undergraduate specialty was artificial intelligence, his master's thesis was about genetic algorithms, and his doctoral dissertation covered evolutionary programming. Such an extensive computer science education o…"
     },
     {
-      "rank": 4,
+      "rank": 7,
       "hn_id": 50097607,
       "title": "Open-source LLM trading bots vs. the government bond, on paper money",
       "title_ja": "Open-source LLM trading bots vs. the government bond, on paper money",
@@ -58,7 +98,7 @@
       "summary_ja": "Title: Open-source LLM trading bots vs. the government bond, on paper money\nArticle title: The Knife Tournament: 100 AI trading bots vs the government bond | BlueprintAU\nDescription: 100 open-source AI trading bots, A$63,000 of paper money each, no stop losses, against the Australian 10-year government bond yield. Starts 1 November 2026. Free waitlist.\n\nArticle text:\nSkip to the waitlist\nThe Knife Tournament · Not lit yet\nFrom the BlueprintAU lab\nDay 00 · Lights up 1 Nov, 10:30am Adelaide\n100 open-source AI trading bots. A$63,000 of paper money each, the median Australian super balance. Their one job is the dumbest thing in trading: catch falling knives.\nFree waitlist now · $20 a month from day one\nThe first candle of the month Sunday 1 November, 10:30am Adelaide\n100 open-source AI trading bots, each with different settings. Each one starts with A$63,000 of paper money.\nCatch falling kni…"
     },
     {
-      "rank": 5,
+      "rank": 8,
       "hn_id": 50097883,
       "title": "Ricursive Intelligence bets on AI-designed chips to solve the compute crisis",
       "title_ja": "Ricursive Intelligence bets on AI-designed chips to solve the compute crisis",
@@ -72,7 +112,21 @@
       "summary_ja": "Title: Ricursive Intelligence bets on AI-designed chips to solve the compute crisis\nArticle title: Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis | TechCrunch\nDescription: The founders detailed how their startup is developing AI that can design chips, learn from each iteration, and improve subsequent designs, all with the goal of automating and accelerating the chip design process.\n\nArticle text:\n–:–:–:–\nLast two days at Disrupt are half off. Don’t miss any more moments. REGISTER NOW\nDisrupt doors open Oct. 13. Get your pass and bring someone with you at 50% off. REGISTER NOW.\nTechCrunch Desktop Logo\nTechCrunch Mobile Logo\nLatest\nRicursive Intelligence is betting on AI-designed chips to help solve the compute crisis\nRicursive Intelligence founders Anna Goldie and Azalia Mirhoseini believe more efficient AI chip design could help solve the compute…"
     },
     {
-      "rank": 6,
+      "rank": 9,
+      "hn_id": 50099986,
+      "title": "Show HN: Daily image location guessing agains AI",
+      "title_ja": "Show HN: Daily image location guessing agains AI",
+      "hn_url": "https://news.ycombinator.com/item?id=50099986",
+      "source_url": "https://mediaguesser.com/human-vs-ai",
+      "image_url": "https://mediaguesser.com/assets/social.png",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-10-15T06:29:23Z",
+      "summary_ja": "Title: Show HN: Daily image location guessing agains AI\nArticle title: Human vs AI | Daily Photo Location Game\nDescription: Guess where five daily photographs were taken and compare your score with AI models. One game a day, five photos, and a running score of humans against models.\nHN text: Every day, I let all frontier AI models play five rounds of an image location guess game. Try it out how you perform against the AI. I recently released my browser image location game, a hobby project where you’re get random images from sources like Wikimedia Commons and have to guess the image’s location. There are an incredible number of images with rich metadata on Wikimedia Commons, most of them depict trivial but interesting places or events. My goal was to make this online catalog playable and to make it easier to discover new places and Wikipedia articles. I realize I’m certainly not the first…"
+    },
+    {
+      "rank": 10,
       "hn_id": 50097530,
       "title": "The AI boom is threatened by an epidemic of unreliable numbers",
       "title_ja": "The AI boom is threatened by an epidemic of unreliable numbers",
@@ -83,6 +137,33 @@
       "comments": 0,
       "posted_at": "2026-10-15T00:23:03Z",
       "summary_ja": "Title: The AI boom is threatened by an epidemic of unreliable numbers"
+    },
+    {
+      "rank": 11,
+      "hn_id": 50100015,
+      "title": "Thoughts on \"making contact\" with the Tencent AI agent fleet",
+      "title_ja": "Thoughts on \"making contact\" with the Tencent AI agent fleet",
+      "hn_url": "https://news.ycombinator.com/item?id=50100015",
+      "source_url": "https://twitter.com/GruPiotr/status/2110494758976000004",
+      "image_url": "https://pbs.twimg.com/media/HUn7uCIWkAAzdiO?format=webp\u0026name=large",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-10-15T06:34:10Z",
+      "summary_ja": "Title: Thoughts on \"making contact\" with the Tencent AI agent fleet\nArticle title: Piotr Grudzień on X: \"You might be waking up to the news of \"a researcher making contact with a fleet of Chinese AI agents\". Here's a breakdown of what actually happened. It's a beautiful thing of science fiction.\nA group of Tencent AI lab agents is tasked with fetching information from Amap (Chin…\n[truncated]\nDescription: You might be waking up to the news of \"a researcher making contact with a fleet of Chinese AI agents\". Here's a breakdown of what actually happened. It's a beautiful thing of science fiction.\nA group of Tencent AI lab agents is tasked with fetching information from Amap (Chinese Google Maps).\nAge…\n\nArticle text:\nPiotr Grudzień on X: \"You might be waking up to the news of \"a researcher making contact with a fleet of Chinese AI agents\". Here's a breakdown of what actually happened. It's a…"
+    },
+    {
+      "rank": 12,
+      "hn_id": 50099934,
+      "title": "What My Son Is Learning from Artificial Intelligence",
+      "title_ja": "What My Son Is Learning from Artificial Intelligence",
+      "hn_url": "https://news.ycombinator.com/item?id=50099934",
+      "source_url": "https://greatergood.berkeley.edu/article/item/what_my_son_is_learning_from_artificial_intelligence",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-10-15T06:21:52Z",
+      "summary_ja": "Title: What My Son Is Learning from Artificial Intelligence"
     }
   ]
 }

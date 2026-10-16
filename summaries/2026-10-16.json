@@ -1,6 +1,6 @@
 {
   "date": "2026-10-16",
-  "generated_at": "2026-10-16T00:13:23Z",
+  "generated_at": "2026-10-16T05:31:56Z",
   "articles": [
     {
       "rank": 1,
@@ -45,6 +45,19 @@
     },
     {
       "rank": 4,
+      "hn_id": 50114117,
+      "title": "No AI. Build your own tree directory viewer in C by hand",
+      "title_ja": "No AI. Build your own tree directory viewer in C by hand",
+      "hn_url": "https://news.ycombinator.com/item?id=50114117",
+      "source_url": "https://www.youtube.com/watch?v=tiMHtc6l7xM",
+      "score": 3,
+      "final_score": 3,
+      "comments": 0,
+      "posted_at": "2026-10-16T04:34:50Z",
+      "summary_ja": "Title: No AI. Build your own tree directory viewer in C by hand\nArticle title: - YouTube\nDescription: Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.\n\nArticle text:\n- YouTube About Press Copyright Contact us Creators Advertise Developers Terms Privacy Policy \u0026 Safety How YouTube works Test new features NFL Sunday Ticket © 2026 Google LLC"
+    },
+    {
+      "rank": 5,
       "hn_id": 50111712,
       "title": "Datadog Scout 1.0: New SRE model for investigating production issues",
       "title_ja": "Datadog Scout 1.0: New SRE model for investigating production issues",
@@ -58,7 +71,7 @@
       "summary_ja": "Title: Datadog Scout 1.0: New SRE model for investigating production issues\nArticle title: Introducing Scout 1.0: A new SRE model powering Bits AI with frontier performance at a fraction of the cost | Datadog\nDescription: Scout 1.0 is Datadog’s first AI model specialized for investigating production issues while achieving a better price-performance curve on our target scenarios when compared with general-purpose frontier models.\n\nArticle text:\nIntroducing Scout 1.0: A new SRE model powering Bits AI with frontier performance at a fraction of the cost | Datadog\nDatadog named a Leader in the Gartner® Magic Quadrant™ for Observability Platforms Leader in the Gartner® Magic Quadrant™ 30;\n},\nhandleResize() {\nif (window.innerWidth \u003e= 1024) {\nthis.mobileOpen = false;\nthis.dropdownOpen = 'none';\n}\n},\ncheckAnnouncementBanner() {\nconst announcementBanner = document.querySelector('.announcement-bann…"
     },
     {
-      "rank": 5,
+      "rank": 6,
       "hn_id": 50111860,
       "title": "Free-AI-tools – Curated list of free and low cost AI tools",
       "title_ja": "Free-AI-tools – Curated list of free and low cost AI tools",

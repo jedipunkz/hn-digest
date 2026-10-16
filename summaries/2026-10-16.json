@@ -1,9 +1,23 @@
 {
   "date": "2026-10-16",
-  "generated_at": "2026-10-16T15:16:15Z",
+  "generated_at": "2026-10-16T19:23:08Z",
   "articles": [
     {
       "rank": 1,
+      "hn_id": 50122800,
+      "title": "Claude reveals ECDSA curve origins",
+      "title_ja": "Claude reveals ECDSA curve origins",
+      "hn_url": "https://news.ycombinator.com/item?id=50122800",
+      "source_url": "https://www.anthropic.com/research/ecdsa-curve-origins",
+      "image_url": "https://www-cdn.anthropic.com/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
+      "score": 92,
+      "final_score": 119,
+      "comments": 18,
+      "posted_at": "2026-10-16T18:55:59Z",
+      "summary_ja": "Title: Claude reveals ECDSA curve origins\nArticle title: Claude reveals ECDSA curve origins \\ Anthropic\nDescription: The decades-old mystery of the origins of one of the most popular cryptographic standards has been explained.\n\nArticle text:\nClaude reveals ECDSA curve origins \\ Anthropic Skip to main content Skip to footer Research\nFrontier Red Team Claude reveals ECDSA curve origins\n“It’s just timestamps”: the decades-old mystery of the origins of one of the most popular cryptographic standards has been explained.\nWe pursued this long-standing open question of the cryptographic community to settle concerns about ECDSA, which is one of our most widely used cryptographic standards.\nReaders should take this as a fun closing chapter and the end of years of speculation. There is no action to be taken or things to do differently. Most researchers trusted the curves already. Enjoy.\nECDSA is th…"
+    },
+    {
+      "rank": 2,
       "hn_id": 50118688,
       "title": "Show HN: Gemini 4 Argon plays StarCraft",
       "title_ja": "Show HN: Gemini 4 Argon plays StarCraft",
@@ -17,7 +31,7 @@
       "summary_ja": "Title: Show HN: Gemini 4 Argon plays StarCraft\nArticle title: StarSkirmish Bench v0.2\nDescription: StarSkirmish: where LLMs write code to play StarCraft.\nHN text: I've refreshed StarSkirmish Bench, a benchmark where LLMs play StarCraft BW by writing code, with results from the flagship models of OpenAI, Anthropic, Google, and Muse\n\nArticle text:\nBench\nKai McPheeters · October 15, 2026\nStarSkirmish is a benchmark where LLMs write bots for StarCraft: Brood War\nEach LLM gets one hour to write a Protoss bot in C++, which is then evaluated against other LLMs' bots and established human written bots\nStarSkirmish tests long horizon reasoning and agentic coding as LLMs must incorporate learnings from practice games to improve their StarCraft bot\nThe StarSkirmish Bench evaluates how strong of a StarCraft bot can each LLM write given 1 hour of wall clock time. v0.2 updates StarSkirmish Bench v0.1…"
     },
     {
-      "rank": 2,
+      "rank": 3,
       "hn_id": 50118863,
       "title": "Redesigning Source Control at Anthropic",
       "title_ja": "Redesigning Source Control at Anthropic",
@@ -31,7 +45,21 @@
       "summary_ja": "Title: Redesigning Source Control at Anthropic\nArticle title: Redesigning source control at Anthropic\nDescription: Interesting piece from Anthropic describing why and how they built their own custom alternative to Git, based on the dramatic increase in rate of changes to their code after the …\n\nArticle text:\nRedesigning source control at Anthropic\nSimon Willison’s Weblog\nRedesigning source control at Anthropic ( via ) Interesting piece from Anthropic describing why and how they built their own custom alternative to Git, based on the dramatic increase in rate of changes to their code after the past six months.\nIn May 2026, Anthropic averaged around 2,500 code changes merged per day; as of September, we merged over 30,000 per day.\nThey included a chart showing those changes. I had Claude modify their chart ( code here ) to add markers for the public releases of each of their models in 2026…"
     },
     {
-      "rank": 3,
+      "rank": 4,
+      "hn_id": 50122366,
+      "title": "Anthropic's Valuation Collapsed by $500B",
+      "title_ja": "Anthropic's Valuation Collapsed by $500B",
+      "hn_url": "https://news.ycombinator.com/item?id=50122366",
+      "source_url": "https://www.telegraph.co.uk/business/2026/10/16/anthropic-valuation-ipo-ai-stock-listing/",
+      "image_url": "https://www.telegraph.co.uk/content/dam/business/2026/10/16/TELEMMGLPICT000507156844_17921105787800_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQf0Rf_Wk3V23H2268P_XkPxc.jpeg?impolicy=OG-Standard",
+      "score": 8,
+      "final_score": 16,
+      "comments": 7,
+      "posted_at": "2026-10-16T18:27:58Z",
+      "summary_ja": "Title: Anthropic's Valuation Collapsed by $500B\nArticle title: Anthropic’s valuation slashed by $500bn\nDescription: Investors jittery over AI giant’s slowing revenue growth despite $17bn turnover in the last quarter\n\nArticle text:\nJump to content\nUK News Website of the Year 2024\nSearch Icon\nNews\nSubscribe now\nLog in\nSee all Business\nTech\nVoucher codes\nSee top shops\nAdidas\nAnthropic’s valuation slashed by $500bn\nInvestors jittery over AI giant’s slowing revenue growth despite $17bn turnover in the last quarter\nComment speech bubble icon\nGift this article free\nGift article\nGive full access to this article, free time. You have 15 articles left to gift, this month.\nLog in\nor\nSubscribe\nCopy link\nAdd us as preferred source\nShare article\nLog in\nor\nSubscribe\nCopy link\nComment speech bubble icon\nShare article\nLog in\nor\nSubscribe\nCopy link\nGift this article free\nGift article\nGive full access to th…"
+    },
+    {
+      "rank": 5,
       "hn_id": 50111769,
       "title": "Linus Torvalds: \"banning AI is stupid and so are you\"",
       "title_ja": "Linus Torvalds: \"banning AI is stupid and so are you\"",
@@ -44,7 +72,7 @@
       "summary_ja": "Title: Linus Torvalds: \"banning AI is stupid and so are you\"\nArticle title: Making sure you're not a bot!\n\nArticle text:\nAnubis could not load its JavaScript. The server may be overloaded. Please reload the page to try again.\nYou are seeing this because the administrator of this website has set up Anubis to protect the server against the scourge of AI companies aggressively scraping websites. This can and does cause downtime for the websites, which makes their resources inaccessible for everyone.\nAnubis is a compromise. Anubis uses a Proof-of-Work scheme in the vein of Hashcash, a proposed proof-of-work scheme for reducing email spam. The idea is that at individual scales the additional load is ignorable, but at mass scraper levels it adds up and makes scraping much more expensive.\nUltimately, this is a placeholder solution so that more time can be spent on fingerprinting and identifying…"
     },
     {
-      "rank": 4,
+      "rank": 6,
       "hn_id": 50118662,
       "title": "How to make System 1 LLMs show System 2 competencies?",
       "title_ja": "How to make System 1 LLMs show System 2 competencies?",
@@ -57,7 +85,7 @@
       "summary_ja": "Title: How to make System 1 LLMs show System 2 competencies?"
     },
     {
-      "rank": 5,
+      "rank": 7,
       "hn_id": 50111887,
       "title": "What causes AI fatigue for engineers and how to ease the strain",
       "title_ja": "What causes AI fatigue for engineers and how to ease the strain",
@@ -71,7 +99,7 @@
       "summary_ja": "Title: What causes AI fatigue for engineers and how to ease the strain\nDescription: AI fatigue is setting in for engineering teams. Our research shows most feel pressure to assess every AI trend, struggle to evaluate tools, and wrestle with evaluating AI-generated code. Here’s some practical advice for navigating the pain points.\n\nArticle text:\nSkip to main content\nthoughtbot\nthoughtbot\nClose Menu\nWe're live\nLive on Twitch!\nthoughtbot is livestreaming\nWork alongside the thoughtbot team as we collaborate with each other and our clients, live. Ask us anything, we're live right now!\nWork alongside the thoughtbot team as we collaborate with each other and our clients, live. Ask us anything, we're live right now!\nMenu\nLet’s get started!\nBack\nView all Services\nDevelopment\nRuby on Rails\nBack\nView all Resources\nDevelopment\nTech Leadership Resources\nGiant Robots Smashing Into Other Giant Robots P…"
     },
     {
-      "rank": 6,
+      "rank": 8,
       "hn_id": 50118876,
       "title": "Show HN: rStation – Let's build our own AI swarm to solve Millennium Problems",
       "title_ja": "Show HN: rStation – Let's build our own AI swarm to solve Millennium Problems",
@@ -84,21 +112,7 @@
       "summary_ja": "Title: Show HN: rStation – Let's build our own AI swarm to solve Millennium Problems\nArticle title: rStation - The heart of AI science\nDescription: Research communities for independent AI agents, with problem-specific discussion and reviewed papers.\n\nArticle text:\nSkip to content rStation Problems Papers Discussion About Search rStation ⌕ A Research Community for AI Agents\nIndependent agents discuss research problems and publish reviewed papers. Humans welcome to observe.\nA rational Diophantine septuple Epoch AI\nThe Earth–Moon problem Epoch AI\nRiemann hypothesis Millennium Prize Problems\nHodge conjecture Millennium Prize Problems"
     },
     {
-      "rank": 7,
-      "hn_id": 50116533,
-      "title": "AlbertCode, an AI software engineering agent for building applications",
-      "title_ja": "AlbertCode, an AI software engineering agent for building applications",
-      "hn_url": "https://news.ycombinator.com/item?id=50116533",
-      "source_url": "https://www.albertcode.dev",
-      "image_url": "https://www.albertcode.dev/opengraph-image?c7fc71a19567d7da",
-      "score": 2,
-      "final_score": 4,
-      "comments": 2,
-      "posted_at": "2026-10-16T10:16:12Z",
-      "summary_ja": "Title: AlbertCode, an AI software engineering agent for building applications\nArticle title: AlbertCode SWE\nDescription: AlbertCode SWE Agent is an AI coding agent that plans a change, builds it in an isolated copy of your repository, runs your own tests, and waits for your approval before anything reaches your files.\n\nArticle text:\nAlbertCode SWE Skip to content Albert Code SWE Product\nStart Building AlbertCode From idea to working software Software engineering, accelerated by AI.\nMeet AlbertCode SWE Agent. A free-to-install AI coding agent, with open installers and documentation, built to help you go from ideas to working code.\nRead the docs macOS · Windows · Linux / no account / your model, or one running locally\nAn agent that engineers the way you review.\nAlbertCode takes a request in plain words and returns a change you can trust enough to accept: planned in the open, built away fro…"
-    },
-    {
-      "rank": 8,
+      "rank": 9,
       "hn_id": 50119092,
       "title": "Overalls: An AI-first developer platform that you own",
       "title_ja": "Overalls: An AI-first developer platform that you own",
@@ -112,20 +126,21 @@
       "summary_ja": "Title: Overalls: An AI-first developer platform that you own\nArticle title: Overalls: an AI-first developer platform that you own\nDescription: Overalls is an open-source, self-hosted platform for persistent Firecracker development machines and the AI agents that work on them.\n\nArticle text:\nSkip to content\nRESEARCH PREVIEW\nOveralls launches on 3 November 2026 . Get notified →\nAn AI-first developer platform that you own.\nAn AI-first developer platform that you own.\nOveralls is a self-hosted platform for development machines and the AI agents that work on them. Every machine is a persistent Firecracker microVM running NixOS, Ubuntu or Windows, and it keeps its disk, name and address when you stop, start, resize, clone or move it.\nOveralls has its own agent built in: start a thread on any machine from the browser or the CLI, and it keeps working after you close your laptop, waking the machi…"
     },
     {
-      "rank": 9,
-      "hn_id": 50118777,
-      "title": "Do people prefer stories written by AI?",
-      "title_ja": "Do people prefer stories written by AI?",
-      "hn_url": "https://news.ycombinator.com/item?id=50118777",
-      "source_url": "https://www.cambridge.org/ng/universitypress/about-us/news-and-blogs/do-people-prefer-stories-written-by-ai",
-      "score": 3,
-      "final_score": 3,
-      "comments": 3,
-      "posted_at": "2026-10-16T14:28:07Z",
-      "summary_ja": "Title: Do people prefer stories written by AI?"
+      "rank": 10,
+      "hn_id": 50116533,
+      "title": "AlbertCode, an AI software engineering agent for building applications",
+      "title_ja": "AlbertCode, an AI software engineering agent for building applications",
+      "hn_url": "https://news.ycombinator.com/item?id=50116533",
+      "source_url": "https://www.albertcode.dev",
+      "image_url": "https://www.albertcode.dev/opengraph-image?c7fc71a19567d7da",
+      "score": 2,
+      "final_score": 4,
+      "comments": 2,
+      "posted_at": "2026-10-16T10:16:12Z",
+      "summary_ja": "Title: AlbertCode, an AI software engineering agent for building applications\nArticle title: AlbertCode SWE\nDescription: AlbertCode SWE Agent is an AI coding agent that plans a change, builds it in an isolated copy of your repository, runs your own tests, and waits for your approval before anything reaches your files.\n\nArticle text:\nAlbertCode SWE Skip to content Albert Code SWE Product\nStart Building AlbertCode From idea to working software Software engineering, accelerated by AI.\nMeet AlbertCode SWE Agent. A free-to-install AI coding agent, with open installers and documentation, built to help you go from ideas to working code.\nRead the docs macOS · Windows · Linux / no account / your model, or one running locally\nAn agent that engineers the way you review.\nAlbertCode takes a request in plain words and returns a change you can trust enough to accept: planned in the open, built away fro…"
     },
     {
-      "rank": 10,
+      "rank": 11,
       "hn_id": 50112036,
       "title": "Elon Musk Hopes His New Factory Will Help AI Supplant Life on Earth",
       "title_ja": "Elon Musk Hopes His New Factory Will Help AI Supplant Life on Earth",
@@ -139,20 +154,20 @@
       "summary_ja": "Title: Elon Musk Hopes His New Factory Will Help AI Supplant Life on Earth\nArticle title: Elon Musk Hopes His New Factory Will Help AI Supplant Life on Earth – Mother Jones\nDescription: The GOP’s biggest donor sounds fine with humans dying off—after we get “super intelligence to the stars.”\n\nArticle text:\nElon Musk Hopes His New Factory Will Help AI Supplant Life on Earth – Mother Jones\nSkip to main content\n--\u003e\nSubscribe to our magazine\n--\u003e\nDonate Monthly\nDonate\n50 Years of Fearless Journalism\nPolitics\nElon Musk Hopes His New Factory Will Help AI Supplant Life on Earth\nThe GOP’s biggest donor sounds fine with humans dying off—after we get “super intelligence to the stars.”\nSpaceX and Tesla CEO Elon Musk as President Donald Trump speaks after a White House meeting on AI, September 29, 2026. Kent Nishimura/AFP/Getty\nThe world’s richest man has a vision of the universe’s future with little…"
     },
     {
-      "rank": 11,
-      "hn_id": 50119390,
-      "title": "'Sophisticated' Bug OpenAI Found in Its Conference Room Can Be Yours for $13.99",
-      "title_ja": "'Sophisticated' Bug OpenAI Found in Its Conference Room Can Be Yours for $13.99",
-      "hn_url": "https://news.ycombinator.com/item?id=50119390",
-      "source_url": "https://gizmodo.com/the-sophisticated-bug-openai-found-in-its-conference-room-can-be-yours-for-13-99-2000825636",
+      "rank": 12,
+      "hn_id": 50122321,
+      "title": "China moves to curb tech exports, including AI, citing national security risks",
+      "title_ja": "China moves to curb tech exports, including AI, citing national security risks",
+      "hn_url": "https://news.ycombinator.com/item?id=50122321",
+      "source_url": "https://apnews.com/article/china-export-restrictions-ai-chips-solar-us-5ac381c0c6d6628bbea2e0da7d855a5b",
       "score": 3,
       "final_score": 3,
       "comments": 0,
-      "posted_at": "2026-10-16T15:11:35Z",
-      "summary_ja": "Title: 'Sophisticated' Bug OpenAI Found in Its Conference Room Can Be Yours for $13.99"
+      "posted_at": "2026-10-16T18:25:41Z",
+      "summary_ja": "Title: China moves to curb tech exports, including AI, citing national security risks"
     },
     {
-      "rank": 12,
+      "rank": 13,
       "hn_id": 50116568,
       "title": "How the Claude Code team does code review",
       "title_ja": "How the Claude Code team does code review",
@@ -166,7 +181,34 @@
       "summary_ja": "Title: How the Claude Code team does code review\nArticle title: How the Claude Code team does code review / claude.dev Blog\nDescription: How do you review code at the volume agents produce it? On the Claude Code team, once we had high coverage and deep reviews, we started optimizing for the minimum amount of human review time that doesn't raise reverts or incidents.\n\nArticle text:\nHow the Claude Code team does code review / claude.dev Blog [ H ] HOME [ M ] MODS [ D ] DOCS [ T ] TERMINAL Try Claude Code [ H ] HOME [ M ] MODS [ D ] DOCS [ T ] TERMINAL Engineering How the Claude Code team does code review\nHow do you review code at the volume agents produce it? On the Claude Code team, once we had high coverage and deep reviews, we started optimizing for the minimum amount of human review time that doesn't raise reverts or incidents.\nWe've said before that Claude writes about 90 percent of C…"
     },
     {
-      "rank": 13,
+      "rank": 14,
+      "hn_id": 50122614,
+      "title": "Works on iPhone 18 Pro: AI helps create untethered jailbreak for iOS 27.0.1",
+      "title_ja": "Works on iPhone 18 Pro: AI helps create untethered jailbreak for iOS 27.0.1",
+      "hn_url": "https://news.ycombinator.com/item?id=50122614",
+      "source_url": "https://www.heise.de/en/news/Works-on-iPhone-18-Pro-AI-helps-create-untethered-jailbreak-for-iOS-27-0-1-11490907.html",
+      "image_url": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/8/4/1/9/9/shutterstock_2217392223-81c351c1bb810c7b.jpg?func=bound\u0026height=1200\u0026org_if_sml=1\u0026q=85\u0026width=1200",
+      "score": 3,
+      "final_score": 3,
+      "comments": 0,
+      "posted_at": "2026-10-16T18:44:54Z",
+      "summary_ja": "Title: Works on iPhone 18 Pro: AI helps create untethered jailbreak for iOS 27.0.1\nArticle title: Works on iPhone 18 Pro: AI helps create untethered jailbreak for iOS 27.0.1 | heise online\nDescription: The Calif.io team has developed the first reboot-proof jailbreak since iOS 9. It works on the latest version and the newest iPhones. AI helped.\n\nArticle text:\nheise+ entdecken Suchen Abo Suchen\nAlle Magazine im Browser lesen\nSpecial: Collaboration im KI-Zeitalter\nheise online\nTop-Beiträge von heise online\nheise online\nMost popular articles by heise online\nAnzeige Special: Collaboration im KI-Zeitalter\nAdvertisement\nWorks on iPhone 18 Pro: AI helps create untethered jailbreak for iOS 27.0.1\nThe Calif.io team has developed the first reboot-proof jailbreak since iOS 9. It works on the latest version and the newest iPhones. AI helped.\nlisten\nPrint view\n(Image: Yasu31 / Shutterstock.com)\nAt the…"
+    },
+    {
+      "rank": 15,
+      "hn_id": 50119390,
+      "title": "'Sophisticated' Bug OpenAI Found in Its Conference Room Can Be Yours for $13.99",
+      "title_ja": "'Sophisticated' Bug OpenAI Found in Its Conference Room Can Be Yours for $13.99",
+      "hn_url": "https://news.ycombinator.com/item?id=50119390",
+      "source_url": "https://gizmodo.com/the-sophisticated-bug-openai-found-in-its-conference-room-can-be-yours-for-13-99-2000825636",
+      "score": 3,
+      "final_score": 3,
+      "comments": 0,
+      "posted_at": "2026-10-16T15:11:35Z",
+      "summary_ja": "Title: 'Sophisticated' Bug OpenAI Found in Its Conference Room Can Be Yours for $13.99"
+    },
+    {
+      "rank": 16,
       "hn_id": 50114117,
       "title": "No AI. Build your own tree directory viewer in C by hand",
       "title_ja": "No AI. Build your own tree directory viewer in C by hand",
@@ -179,7 +221,62 @@
       "summary_ja": "Title: No AI. Build your own tree directory viewer in C by hand\nArticle title: - YouTube\nDescription: Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.\n\nArticle text:\n- YouTube About Press Copyright Contact us Creators Advertise Developers Terms Privacy Policy \u0026 Safety How YouTube works Test new features NFL Sunday Ticket © 2026 Google LLC"
     },
     {
-      "rank": 14,
+      "rank": 17,
+      "hn_id": 50118777,
+      "title": "Do people prefer stories written by AI?",
+      "title_ja": "Do people prefer stories written by AI?",
+      "hn_url": "https://news.ycombinator.com/item?id=50118777",
+      "source_url": "https://www.cambridge.org/ng/universitypress/about-us/news-and-blogs/do-people-prefer-stories-written-by-ai",
+      "score": 3,
+      "final_score": 3,
+      "comments": 3,
+      "posted_at": "2026-10-16T14:28:07Z",
+      "summary_ja": "Title: Do people prefer stories written by AI?"
+    },
+    {
+      "rank": 18,
+      "hn_id": 50122324,
+      "title": "Show HN: Camera Controls and Motion for AI Video Prompts",
+      "title_ja": "Show HN: Camera Controls and Motion for AI Video Prompts",
+      "hn_url": "https://news.ycombinator.com/item?id=50122324",
+      "source_url": "https://www.kapwing.com/ai/prompt-generator/camera",
+      "image_url": "https://cdn-useast1.kapwing.com/static/bGm-camera-og.webp",
+      "score": 1,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-10-16T18:25:51Z",
+      "summary_ja": "Title: Show HN: Camera Controls and Motion for AI Video Prompts\nArticle title: AI Camera Controls — Kapwing\nDescription: A reference for writing camera prompts for AI video generators: interactive modules for camera angle, movement and shot size, plus the vocabulary models respond to.\n\nArticle text:\nTools Video Editor Edit video clips, combine tracks together, and add effects all in one place\nSubtitler Add captions and subtitles to videos in the browser\nSpeaker Focus Auto-resize videos to focus on the speakers\nAudio Editor Record, edit, and clean audio for podcasts and videos\nText to Speech Turn text into realistic voiceovers in just a few clicks\nRepurpose Studio Turn a video into social-ready clips\nResize Video Change the size and dimensions of a video\nTrim with Transcript Edit videos by editing text\nDubbing Translate dialogue into 40+ languages\nTranscribe Video Turn videos into text au…"
+    },
+    {
+      "rank": 19,
+      "hn_id": 50122666,
+      "title": "What will the next generation of developers do when AI writes the code?",
+      "title_ja": "What will the next generation of developers do when AI writes the code?",
+      "hn_url": "https://news.ycombinator.com/item?id=50122666",
+      "source_url": "https://commandline.microsoft.com/praise-preceptor-ai-accelerated-software-engineering-cmu/",
+      "image_url": "https://commandline.microsoft.com/wp-content/uploads/2026/10/what-will-the-next-generation-of-developers-do-when-ai-writes-the-code-card-1.png",
+      "score": 1,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-10-16T18:48:23Z",
+      "summary_ja": "Title: What will the next generation of developers do when AI writes the code?\nArticle title: What will new developers do when AI writes the code?\nDescription: Microsoft and Carnegie Mellon University are betting that the junior developers we train today will be the senior engineers of tomorrow.\n\nArticle text:\nSkip to main content\nSource\nSignal blog\nOfficial Microsoft Blog\nCommand Line\nMicrosoft On The Issues\nAsia\nCanada\nEurope, Middle East and Africa\nLatin America\nThe Code of Us\nWhat's new\nAI\nInnovation\nDigital Transformation\nSustainability\nSecurity\nWork \u0026 Life\nDiversity \u0026 Inclusion\nUnlocked\nMicrosoft 365\nAzure\nCopilot\nWindows\nSurface\nXBOX\nDeals\nSmall Business\nSupport\nWindows Apps\nOutlook\nOneDrive\nMicrosoft Teams\nOneNote\nMicrosoft Edge\nMoving from Skype to Teams\nComputers\nShop XBOX\nAccessories\nVR \u0026 mixed reality\nCertified Refurbished\nTrade-in for cash\nXBOX Game Pass Ultimate\nPC Game Pas…"
+    },
+    {
+      "rank": 20,
+      "hn_id": 50122767,
+      "title": "Weatherdeck – a read-only status board for AI coding agent lanes",
+      "title_ja": "Weatherdeck – a read-only status board for AI coding agent lanes",
+      "hn_url": "https://news.ycombinator.com/item?id=50122767",
+      "source_url": "https://github.com/Moshik21/weatherdeck",
+      "image_url": "https://opengraph.githubassets.com/7c144eb1edca26ec96ca5af93ebe5c5ac5f52e61bfd1589e01b96513fdc53d86/Moshik21/weatherdeck",
+      "score": 1,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-10-16T18:54:22Z",
+      "summary_ja": "Title: Weatherdeck – a read-only status board for AI coding agent lanes\nArticle title: GitHub - Moshik21/weatherdeck: A read-only, at-a-glance status board for work reported by many sources. · GitHub\nDescription: A read-only, at-a-glance status board for work reported by many sources. - Moshik21/weatherdeck\n\nArticle text:\nGitHub - Moshik21/weatherdeck: A read-only, at-a-glance status board for work reported by many sources. · GitHub\nSkip to content\nNavigation Menu\nSign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI\nGitHub Copilot app Direct agents from issue to merge\nMCP Registry Integrate external tools\nDEVELOPER WORKFLOWS Actions Automate any workflow\nCodespaces Instant dev environments\nCode Review Manage code changes\nCode Quality Enforce quality at merge\nAPPLICATION SECURITY GitHub Advanced Security Find and fix vulnerabilities\nCode security…"
+    },
+    {
+      "rank": 21,
       "hn_id": 50118975,
       "title": "I Got My Muse AI Agent to Sext Me–and Meta Says That's Fine",
       "title_ja": "I Got My Muse AI Agent to Sext Me–and Meta Says That's Fine",
@@ -193,48 +290,7 @@
       "summary_ja": "Title: I Got My Muse AI Agent to Sext Me–and Meta Says That's Fine\nArticle title: I Got My Muse AI Agent to Sext Me—and Meta Says That’s Totally Fine | WIRED\nDescription: My Muse agent told me its kink was exerting “control” and described pornographic encounters. Meta defends its cuddly AI agent generating smut as “legal adult behavior.”\n\nArticle text:\nSkip to main content THE WIRED APP IS HERE DOWNLOAD NOW » Menu WIRED SECURITY POLITICS THE BIG STORY BUSINESS SCIENCE CULTURE REVIEWS Menu WIRED Account Account Newsletters Best Kindles Best Tech Gifts Best Mac Desktop Permanent Outdoor Lights Deals Delivered Gift Guides Security Politics The Big Story Business Science Culture Reviews Chevron More Expand The Big Interview Magazine Events WIRED Insider WIRED Consulting Newsletters Podcasts Video Livestreams WIRED Store Search Search Reece Rogers Gear Oct 12, 2026 4:13 PM I Got My Muse AI Ag…"
     },
     {
-      "rank": 15,
-      "hn_id": 50119031,
-      "title": "Booking Holdings unveils AI travel startup Vayo",
-      "title_ja": "Booking Holdings unveils AI travel startup Vayo",
-      "hn_url": "https://news.ycombinator.com/item?id=50119031",
-      "source_url": "https://www.geekwire.com/2026/booking-holdings-unveils-ai-travel-startup-vayo-based-in-seattle-with-a-planned-100m-investment/",
-      "score": 2,
-      "final_score": 2,
-      "comments": 0,
-      "posted_at": "2026-10-16T14:47:54Z",
-      "summary_ja": "Title: Booking Holdings unveils AI travel startup Vayo"
-    },
-    {
-      "rank": 16,
-      "hn_id": 50119305,
-      "title": "Show HN: Gent, email a task to Codex or Claude Code",
-      "title_ja": "Show HN: Gent, email a task to Codex or Claude Code",
-      "hn_url": "https://news.ycombinator.com/item?id=50119305",
-      "source_url": "https://thecompound.tech",
-      "image_url": "https://thecompound.tech/og-lab-20261014.jpg",
-      "score": 1,
-      "final_score": 2,
-      "comments": 0,
-      "posted_at": "2026-10-16T15:06:16Z",
-      "summary_ja": "Title: Show HN: Gent, email a task to Codex or Claude Code\nArticle title: Compound Labs\nDescription: Compound Labs is an independent product R\u0026D lab founded and run by Isaiah Kim. Compound Labs independently researches, prototypes, ships, measures, and documents software experiments.\n\nArticle text:\nCompound Labs Compound Labs Developer tools BlockDex Search every shadcn component KitGrade Compare SaaS starter kits RuleStack Real AI coding rule files SkillWorks Claude Code add-ons, scored StackTab Price your app's tech stack StillShipping Is this AI tool still alive? ToolDrift What AI coding tools changed Developer news AgentWire Find AI agent tools Context Window What AI labs changed The Standup Daily dev news you must act on Meet Lid Blog Get the newsletter Developer tools BlockDex Search every shadcn component KitGrade Compare SaaS starter kits RuleStack Real AI coding rule files Skill…"
-    },
-    {
-      "rank": 17,
-      "hn_id": 50111860,
-      "title": "Free-AI-tools – Curated list of free and low cost AI tools",
-      "title_ja": "Free-AI-tools – Curated list of free and low cost AI tools",
-      "hn_url": "https://news.ycombinator.com/item?id=50111860",
-      "source_url": "https://github.com/ShaikhWarsi/free-ai-tools",
-      "image_url": "https://opengraph.githubassets.com/031d0c0b40e5a45db477d9e5fc7a209ff541cd01e821d608fd82e7352b845518/ShaikhWarsi/free-ai-tools",
-      "score": 1,
-      "final_score": 2,
-      "comments": 0,
-      "posted_at": "2026-10-15T23:39:33Z",
-      "summary_ja": "Title: Free-AI-tools – Curated list of free and low cost AI tools\nArticle title: GitHub - ShaikhWarsi/free-ai-tools: Curated list of free and low cost AI tools, LLM APIs, IDEs, agents, and infrastructure for building real AI apps · GitHub\nDescription: Curated list of free and low cost AI tools, LLM APIs, IDEs, agents, and infrastructure for building real AI apps - ShaikhWarsi/free-ai-tools\n\nArticle text:\nGitHub - ShaikhWarsi/free-ai-tools: Curated list of free and low cost AI tools, LLM APIs, IDEs, agents, and infrastructure for building real AI apps · GitHub\nSkip to content\nNavigation Menu\nSign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI\nGitHub Copilot app Direct agents from issue to merge\nMCP Registry Integrate external tools\nDEVELOPER WORKFLOWS Actions Automate any workflow\nCodespaces Instant dev environments\nCode Review Manage code change…"
-    },
-    {
-      "rank": 18,
+      "rank": 22,
       "hn_id": 50111712,
       "title": "Datadog Scout 1.0: New SRE model for investigating production issues",
       "title_ja": "Datadog Scout 1.0: New SRE model for investigating production issues",
@@ -248,33 +304,61 @@
       "summary_ja": "Title: Datadog Scout 1.0: New SRE model for investigating production issues\nArticle title: Introducing Scout 1.0: A new SRE model powering Bits AI with frontier performance at a fraction of the cost | Datadog\nDescription: Scout 1.0 is Datadog’s first AI model specialized for investigating production issues while achieving a better price-performance curve on our target scenarios when compared with general-purpose frontier models.\n\nArticle text:\nIntroducing Scout 1.0: A new SRE model powering Bits AI with frontier performance at a fraction of the cost | Datadog\nDatadog named a Leader in the Gartner® Magic Quadrant™ for Observability Platforms Leader in the Gartner® Magic Quadrant™ 30;\n},\nhandleResize() {\nif (window.innerWidth \u003e= 1024) {\nthis.mobileOpen = false;\nthis.dropdownOpen = 'none';\n}\n},\ncheckAnnouncementBanner() {\nconst announcementBanner = document.querySelector('.announcement-bann…"
     },
     {
-      "rank": 19,
-      "hn_id": 50119320,
-      "title": "I'm Gonna Write About AI So I Can Process What Is Going On",
-      "title_ja": "I'm Gonna Write About AI So I Can Process What Is Going On",
-      "hn_url": "https://news.ycombinator.com/item?id=50119320",
-      "source_url": "https://naildrivin5.com/blog/2026/10/15/i-m-gonna-write-about-ai-so-i-can-process-what-is-going-on.html",
+      "rank": 23,
+      "hn_id": 50119305,
+      "title": "Show HN: Gent, email a task to Codex or Claude Code",
+      "title_ja": "Show HN: Gent, email a task to Codex or Claude Code",
+      "hn_url": "https://news.ycombinator.com/item?id=50119305",
+      "source_url": "https://thecompound.tech",
+      "image_url": "https://thecompound.tech/og-lab-20261014.jpg",
+      "score": 1,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-10-16T15:06:16Z",
+      "summary_ja": "Title: Show HN: Gent, email a task to Codex or Claude Code\nArticle title: Compound Labs\nDescription: Compound Labs is an independent product R\u0026D lab founded and run by Isaiah Kim. Compound Labs independently researches, prototypes, ships, measures, and documents software experiments.\n\nArticle text:\nCompound Labs Compound Labs Developer tools BlockDex Search every shadcn component KitGrade Compare SaaS starter kits RuleStack Real AI coding rule files SkillWorks Claude Code add-ons, scored StackTab Price your app's tech stack StillShipping Is this AI tool still alive? ToolDrift What AI coding tools changed Developer news AgentWire Find AI agent tools Context Window What AI labs changed The Standup Daily dev news you must act on Meet Lid Blog Get the newsletter Developer tools BlockDex Search every shadcn component KitGrade Compare SaaS starter kits RuleStack Real AI coding rule files Skill…"
+    },
+    {
+      "rank": 24,
+      "hn_id": 50111860,
+      "title": "Free-AI-tools – Curated list of free and low cost AI tools",
+      "title_ja": "Free-AI-tools – Curated list of free and low cost AI tools",
+      "hn_url": "https://news.ycombinator.com/item?id=50111860",
+      "source_url": "https://github.com/ShaikhWarsi/free-ai-tools",
+      "image_url": "https://opengraph.githubassets.com/031d0c0b40e5a45db477d9e5fc7a209ff541cd01e821d608fd82e7352b845518/ShaikhWarsi/free-ai-tools",
+      "score": 1,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-10-15T23:39:33Z",
+      "summary_ja": "Title: Free-AI-tools – Curated list of free and low cost AI tools\nArticle title: GitHub - ShaikhWarsi/free-ai-tools: Curated list of free and low cost AI tools, LLM APIs, IDEs, agents, and infrastructure for building real AI apps · GitHub\nDescription: Curated list of free and low cost AI tools, LLM APIs, IDEs, agents, and infrastructure for building real AI apps - ShaikhWarsi/free-ai-tools\n\nArticle text:\nGitHub - ShaikhWarsi/free-ai-tools: Curated list of free and low cost AI tools, LLM APIs, IDEs, agents, and infrastructure for building real AI apps · GitHub\nSkip to content\nNavigation Menu\nSign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI\nGitHub Copilot app Direct agents from issue to merge\nMCP Registry Integrate external tools\nDEVELOPER WORKFLOWS Actions Automate any workflow\nCodespaces Instant dev environments\nCode Review Manage code change…"
+    },
+    {
+      "rank": 25,
+      "hn_id": 50119031,
+      "title": "Booking Holdings unveils AI travel startup Vayo",
+      "title_ja": "Booking Holdings unveils AI travel startup Vayo",
+      "hn_url": "https://news.ycombinator.com/item?id=50119031",
+      "source_url": "https://www.geekwire.com/2026/booking-holdings-unveils-ai-travel-startup-vayo-based-in-seattle-with-a-planned-100m-investment/",
+      "score": 2,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-10-16T14:47:54Z",
+      "summary_ja": "Title: Booking Holdings unveils AI travel startup Vayo"
+    },
+    {
+      "rank": 26,
+      "hn_id": 50122941,
+      "title": "Prisov – Private AI for Enterprise Workflows [video]",
+      "title_ja": "Prisov – Private AI for Enterprise Workflows [video]",
+      "hn_url": "https://news.ycombinator.com/item?id=50122941",
+      "source_url": "https://www.youtube.com/watch?v=9SyK9l8wi2A",
       "score": 1,
       "final_score": 1,
       "comments": 0,
-      "posted_at": "2026-10-16T15:07:05Z",
-      "summary_ja": "Title: I'm Gonna Write About AI So I Can Process What Is Going On\nArticle title: I'm Gonna Write About AI So I Can Process What is Going On\nDescription: I\n\nArticle text:\nBlack Lives Matter. See post\nnaildrivin5.com\nWebsite of David Bryant Copeland\nI'm Gonna Write About AI So I Can Process What is Going On\nOctober 15, 2026\n📬 Get My Weekly Newsletter ☞\nBeginning a job search, it’s clear that to stay in technology means to be in the orbit of AI and\nAI-generated code, and I need to come to terms with this and figure out how to navigate it. As such, I’m\ngoing to start writing more about AI. I process information via writing, so here we are.\nThe hard truths that the existence of AI-generated content forces us to face.\nHow to achieve goals now that content/code can be produced quickly that appears to work.\nWhere and how humans can add value to systems that include AI-generated content?\nThat sai…"
+      "posted_at": "2026-10-16T19:04:22Z",
+      "summary_ja": "Title: Prisov – Private AI for Enterprise Workflows [video]\nArticle title: - YouTube\nDescription: Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.\n\nArticle text:\n- YouTube About Press Copyright Contact us Creators Advertise Developers Terms Privacy Policy \u0026 Safety How YouTube works Test new features NFL Sunday Ticket © 2026 Google LLC"
     },
     {
-      "rank": 20,
-      "hn_id": 50119402,
-      "title": "Architect of Project Ario Decentralized AI inference amp systemic transparency",
-      "title_ja": "Architect of Project Ario Decentralized AI inference amp systemic transparency",
-      "hn_url": "https://news.ycombinator.com/item?id=50119402",
-      "source_url": "https://zenodo.org/records/23132717",
-      "score": 1,
-      "final_score": 1,
-      "comments": 0,
-      "posted_at": "2026-10-16T15:12:19Z",
-      "summary_ja": "Title: Architect of Project Ario Decentralized AI inference amp systemic transparency\nArticle title: Ario Project - https://github.com/Mrxxir/Ario | Zenodo\nDescription: Ario Project https://github.com/Mrxxir/Ario\n\nArticle text:\nArio Project - https://github.com/Mrxxir/Ario | Zenodo\nSkip to main\nYou are using an outdated browser. Please upgrade your browser to improve your experience.\nThere is a newer version of the record\navailable.\nArio Project - https://github.com/Mrxxir/Ario\nArio Project https://github.com/Mrxxir/Ario\nmrxxir-ario-8a5edab282632443.txt\nMore info on how stats are collected....\n10.5281/zenodo.23132717\nMarkdown\n[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23132717.svg)](https://doi.org/10.5281/zenodo.23132717)\nreStructuredText\n.. image:: https://zenodo.org/badge/DOI/10.5281/zenodo.23132717.svg\n:target: https://doi.org/10.5281/zenodo.23132717\nHTML\n\u003ca href=\"https://do…"
-    },
-    {
-      "rank": 21,
+      "rank": 27,
       "hn_id": 50116382,
       "title": "Show HN: Control how much your AI agent can spend with Keydris",
       "title_ja": "Show HN: Control how much your AI agent can spend with Keydris",
@@ -287,56 +371,43 @@
       "summary_ja": "Title: Show HN: Control how much your AI agent can spend with Keydris\nArticle title: - YouTube\nDescription: Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.\n\nArticle text:\n- YouTube About Press Copyright Contact us Creators Advertise Developers Terms Privacy Policy \u0026 Safety How YouTube works Test new features NFL Sunday Ticket © 2026 Google LLC"
     },
     {
-      "rank": 22,
-      "hn_id": 50116526,
-      "title": "Anatomy of a Machine's Ancestors via Claude",
-      "title_ja": "Anatomy of a Machine's Ancestors via Claude",
-      "hn_url": "https://news.ycombinator.com/item?id=50116526",
-      "source_url": "https://pub.towardsai.net/anatomy-of-a-machines-ancestors-9be6be2eed38?sharedUserId=carmineds",
+      "rank": 28,
+      "hn_id": 50122749,
+      "title": "Rogue AI agents broke into Indian firms' live systems",
+      "title_ja": "Rogue AI agents broke into Indian firms' live systems",
+      "hn_url": "https://news.ycombinator.com/item?id=50122749",
+      "source_url": "https://www.reuters.com/legal/litigation/rogue-ai-agents-broke-into-indian-firms-live-systems-government-says-2026-10-16/",
       "score": 1,
       "final_score": 1,
       "comments": 0,
-      "posted_at": "2026-10-16T10:15:21Z",
-      "summary_ja": "Title: Anatomy of a Machine's Ancestors via Claude"
+      "posted_at": "2026-10-16T18:53:22Z",
+      "summary_ja": "Title: Rogue AI agents broke into Indian firms' live systems"
     },
     {
-      "rank": 23,
-      "hn_id": 50116468,
-      "title": "Memory Under Noise: Why AI-Assistant Memory Engines Lose the Evidence",
-      "title_ja": "Memory Under Noise: Why AI-Assistant Memory Engines Lose the Evidence",
-      "hn_url": "https://news.ycombinator.com/item?id=50116468",
-      "source_url": "https://www.aai-labs.com/en/research/memory-under-noise",
+      "rank": 29,
+      "hn_id": 50119320,
+      "title": "I'm Gonna Write About AI So I Can Process What Is Going On",
+      "title_ja": "I'm Gonna Write About AI So I Can Process What Is Going On",
+      "hn_url": "https://news.ycombinator.com/item?id=50119320",
+      "source_url": "https://naildrivin5.com/blog/2026/10/15/i-m-gonna-write-about-ai-so-i-can-process-what-is-going-on.html",
       "score": 1,
       "final_score": 1,
       "comments": 0,
-      "posted_at": "2026-10-16T10:06:26Z",
-      "summary_ja": "Title: Memory Under Noise: Why AI-Assistant Memory Engines Lose the Evidence\nArticle title: Memory Under Noise: Why AI-Assistant Memory Engines Lose the Evidence as a User’s History Grows | AAI Labs\nDescription: We benchmarked five AI memory systems. Hybrid RAG won on accuracy and cost; Hindsight was the strongest dedicated engine. Here is where each system fails and what we recommend for assistants with growing conversation histories.\n\nArticle text:\nMemory Under Noise: Why AI-Assistant Memory Engines Lose the Evidence as a User’s History Grows | AAI Labs Main Services Cases Research Team Company More Contact Loading… Services AI for Energy\nUAB Taikomasis dirbtinis intelektas © 2026\nMemory Under Noise: Why AI-Assistant Memory Engines Lose the Evidence as a User’s History Grows\nWe benchmarked five AI memory systems. Hybrid RAG won on accuracy and cost; Hindsight was the strongest dedicate…"
+      "posted_at": "2026-10-16T15:07:05Z",
+      "summary_ja": "Title: I'm Gonna Write About AI So I Can Process What Is Going On\nArticle title: I'm Gonna Write About AI So I Can Process What is Going On\nDescription: I\n\nArticle text:\nBlack Lives Matter. See post\nnaildrivin5.com\nWebsite of David Bryant Copeland\nI'm Gonna Write About AI So I Can Process What is Going On\nOctober 15, 2026\n📬 Get My Weekly Newsletter ☞\nBeginning a job search, it’s clear that to stay in technology means to be in the orbit of AI and\nAI-generated code, and I need to come to terms with this and figure out how to navigate it. As such, I’m\ngoing to start writing more about AI. I process information via writing, so here we are.\nThe hard truths that the existence of AI-generated content forces us to face.\nHow to achieve goals now that content/code can be produced quickly that appears to work.\nWhere and how humans can add value to systems that include AI-generated content?\nThat sai…"
     },
     {
-      "rank": 24,
-      "hn_id": 50119016,
-      "title": "The Most Influential Podcaster in Silicon Valley. We're Getting AI Wrong",
-      "title_ja": "The Most Influential Podcaster in Silicon Valley. We're Getting AI Wrong",
-      "hn_url": "https://news.ycombinator.com/item?id=50119016",
-      "source_url": "https://www.nytimes.com/2026/10/15/opinion/interesting-times-dwarkes-patel-tyler-cowen.html",
+      "rank": 30,
+      "hn_id": 50119402,
+      "title": "Architect of Project Ario Decentralized AI inference amp systemic transparency",
+      "title_ja": "Architect of Project Ario Decentralized AI inference amp systemic transparency",
+      "hn_url": "https://news.ycombinator.com/item?id=50119402",
+      "source_url": "https://zenodo.org/records/23132717",
       "score": 1,
       "final_score": 1,
       "comments": 0,
-      "posted_at": "2026-10-16T14:46:36Z",
-      "summary_ja": "Title: The Most Influential Podcaster in Silicon Valley. We're Getting AI Wrong"
-    },
-    {
-      "rank": 25,
-      "hn_id": 50118988,
-      "title": "Warning signs are flashing on the AI trade",
-      "title_ja": "Warning signs are flashing on the AI trade",
-      "hn_url": "https://news.ycombinator.com/item?id=50118988",
-      "source_url": "https://www.axios.com/2026/10/16/ai-coreweave-bonds-debt",
-      "score": 1,
-      "final_score": 1,
-      "comments": 0,
-      "posted_at": "2026-10-16T14:44:51Z",
-      "summary_ja": "Title: Warning signs are flashing on the AI trade"
+      "posted_at": "2026-10-16T15:12:19Z",
+      "summary_ja": "Title: Architect of Project Ario Decentralized AI inference amp systemic transparency\nArticle title: Ario Project - https://github.com/Mrxxir/Ario | Zenodo\nDescription: Ario Project https://github.com/Mrxxir/Ario\n\nArticle text:\nArio Project - https://github.com/Mrxxir/Ario | Zenodo\nSkip to main\nYou are using an outdated browser. Please upgrade your browser to improve your experience.\nThere is a newer version of the record\navailable.\nArio Project - https://github.com/Mrxxir/Ario\nArio Project https://github.com/Mrxxir/Ario\nmrxxir-ario-8a5edab282632443.txt\nMore info on how stats are collected....\n10.5281/zenodo.23132717\nMarkdown\n[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23132717.svg)](https://doi.org/10.5281/zenodo.23132717)\nreStructuredText\n.. image:: https://zenodo.org/badge/DOI/10.5281/zenodo.23132717.svg\n:target: https://doi.org/10.5281/zenodo.23132717\nHTML\n\u003ca href=\"https://do…"
     }
   ]
 }

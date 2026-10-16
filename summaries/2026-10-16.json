@@ -1,6 +1,6 @@
 {
   "date": "2026-10-16",
-  "generated_at": "2026-10-16T05:31:56Z",
+  "generated_at": "2026-10-16T10:51:01Z",
   "articles": [
     {
       "rank": 1,
@@ -31,6 +31,20 @@
     },
     {
       "rank": 3,
+      "hn_id": 50116533,
+      "title": "AlbertCode, an AI software engineering agent for building applications",
+      "title_ja": "AlbertCode, an AI software engineering agent for building applications",
+      "hn_url": "https://news.ycombinator.com/item?id=50116533",
+      "source_url": "https://www.albertcode.dev",
+      "image_url": "https://www.albertcode.dev/opengraph-image?c7fc71a19567d7da",
+      "score": 2,
+      "final_score": 4,
+      "comments": 2,
+      "posted_at": "2026-10-16T10:16:12Z",
+      "summary_ja": "Title: AlbertCode, an AI software engineering agent for building applications\nArticle title: AlbertCode SWE\nDescription: AlbertCode SWE Agent is an AI coding agent that plans a change, builds it in an isolated copy of your repository, runs your own tests, and waits for your approval before anything reaches your files.\n\nArticle text:\nAlbertCode SWE Skip to content Albert Code SWE Product\nStart Building AlbertCode From idea to working software Software engineering, accelerated by AI.\nMeet AlbertCode SWE Agent. A free-to-install AI coding agent, with open installers and documentation, built to help you go from ideas to working code.\nRead the docs macOS · Windows · Linux / no account / your model, or one running locally\nAn agent that engineers the way you review.\nAlbertCode takes a request in plain words and returns a change you can trust enough to accept: planned in the open, built away fro…"
+    },
+    {
+      "rank": 4,
       "hn_id": 50112036,
       "title": "Elon Musk Hopes His New Factory Will Help AI Supplant Life on Earth",
       "title_ja": "Elon Musk Hopes His New Factory Will Help AI Supplant Life on Earth",
@@ -44,7 +58,21 @@
       "summary_ja": "Title: Elon Musk Hopes His New Factory Will Help AI Supplant Life on Earth\nArticle title: Elon Musk Hopes His New Factory Will Help AI Supplant Life on Earth – Mother Jones\nDescription: The GOP’s biggest donor sounds fine with humans dying off—after we get “super intelligence to the stars.”\n\nArticle text:\nElon Musk Hopes His New Factory Will Help AI Supplant Life on Earth – Mother Jones\nSkip to main content\n--\u003e\nSubscribe to our magazine\n--\u003e\nDonate Monthly\nDonate\n50 Years of Fearless Journalism\nPolitics\nElon Musk Hopes His New Factory Will Help AI Supplant Life on Earth\nThe GOP’s biggest donor sounds fine with humans dying off—after we get “super intelligence to the stars.”\nSpaceX and Tesla CEO Elon Musk as President Donald Trump speaks after a White House meeting on AI, September 29, 2026. Kent Nishimura/AFP/Getty\nThe world’s richest man has a vision of the universe’s future with little…"
     },
     {
-      "rank": 4,
+      "rank": 5,
+      "hn_id": 50116568,
+      "title": "How the Claude Code team does code review",
+      "title_ja": "How the Claude Code team does code review",
+      "hn_url": "https://news.ycombinator.com/item?id=50116568",
+      "source_url": "https://claude.dev/blog/solving-code-review-at-anthropic/",
+      "image_url": "https://claude.dev/blog/solving-code-review-at-anthropic/og.png",
+      "score": 2,
+      "final_score": 3,
+      "comments": 1,
+      "posted_at": "2026-10-16T10:20:48Z",
+      "summary_ja": "Title: How the Claude Code team does code review\nArticle title: How the Claude Code team does code review / claude.dev Blog\nDescription: How do you review code at the volume agents produce it? On the Claude Code team, once we had high coverage and deep reviews, we started optimizing for the minimum amount of human review time that doesn't raise reverts or incidents.\n\nArticle text:\nHow the Claude Code team does code review / claude.dev Blog [ H ] HOME [ M ] MODS [ D ] DOCS [ T ] TERMINAL Try Claude Code [ H ] HOME [ M ] MODS [ D ] DOCS [ T ] TERMINAL Engineering How the Claude Code team does code review\nHow do you review code at the volume agents produce it? On the Claude Code team, once we had high coverage and deep reviews, we started optimizing for the minimum amount of human review time that doesn't raise reverts or incidents.\nWe've said before that Claude writes about 90 percent of C…"
+    },
+    {
+      "rank": 6,
       "hn_id": 50114117,
       "title": "No AI. Build your own tree directory viewer in C by hand",
       "title_ja": "No AI. Build your own tree directory viewer in C by hand",
@@ -57,7 +85,7 @@
       "summary_ja": "Title: No AI. Build your own tree directory viewer in C by hand\nArticle title: - YouTube\nDescription: Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.\n\nArticle text:\n- YouTube About Press Copyright Contact us Creators Advertise Developers Terms Privacy Policy \u0026 Safety How YouTube works Test new features NFL Sunday Ticket © 2026 Google LLC"
     },
     {
-      "rank": 5,
+      "rank": 7,
       "hn_id": 50111712,
       "title": "Datadog Scout 1.0: New SRE model for investigating production issues",
       "title_ja": "Datadog Scout 1.0: New SRE model for investigating production issues",
@@ -71,7 +99,7 @@
       "summary_ja": "Title: Datadog Scout 1.0: New SRE model for investigating production issues\nArticle title: Introducing Scout 1.0: A new SRE model powering Bits AI with frontier performance at a fraction of the cost | Datadog\nDescription: Scout 1.0 is Datadog’s first AI model specialized for investigating production issues while achieving a better price-performance curve on our target scenarios when compared with general-purpose frontier models.\n\nArticle text:\nIntroducing Scout 1.0: A new SRE model powering Bits AI with frontier performance at a fraction of the cost | Datadog\nDatadog named a Leader in the Gartner® Magic Quadrant™ for Observability Platforms Leader in the Gartner® Magic Quadrant™ 30;\n},\nhandleResize() {\nif (window.innerWidth \u003e= 1024) {\nthis.mobileOpen = false;\nthis.dropdownOpen = 'none';\n}\n},\ncheckAnnouncementBanner() {\nconst announcementBanner = document.querySelector('.announcement-bann…"
     },
     {
-      "rank": 6,
+      "rank": 8,
       "hn_id": 50111860,
       "title": "Free-AI-tools – Curated list of free and low cost AI tools",
       "title_ja": "Free-AI-tools – Curated list of free and low cost AI tools",
@@ -83,6 +111,45 @@
       "comments": 0,
       "posted_at": "2026-10-15T23:39:33Z",
       "summary_ja": "Title: Free-AI-tools – Curated list of free and low cost AI tools\nArticle title: GitHub - ShaikhWarsi/free-ai-tools: Curated list of free and low cost AI tools, LLM APIs, IDEs, agents, and infrastructure for building real AI apps · GitHub\nDescription: Curated list of free and low cost AI tools, LLM APIs, IDEs, agents, and infrastructure for building real AI apps - ShaikhWarsi/free-ai-tools\n\nArticle text:\nGitHub - ShaikhWarsi/free-ai-tools: Curated list of free and low cost AI tools, LLM APIs, IDEs, agents, and infrastructure for building real AI apps · GitHub\nSkip to content\nNavigation Menu\nSign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI\nGitHub Copilot app Direct agents from issue to merge\nMCP Registry Integrate external tools\nDEVELOPER WORKFLOWS Actions Automate any workflow\nCodespaces Instant dev environments\nCode Review Manage code change…"
+    },
+    {
+      "rank": 9,
+      "hn_id": 50116526,
+      "title": "Anatomy of a Machine's Ancestors via Claude",
+      "title_ja": "Anatomy of a Machine's Ancestors via Claude",
+      "hn_url": "https://news.ycombinator.com/item?id=50116526",
+      "source_url": "https://pub.towardsai.net/anatomy-of-a-machines-ancestors-9be6be2eed38?sharedUserId=carmineds",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-10-16T10:15:21Z",
+      "summary_ja": "Title: Anatomy of a Machine's Ancestors via Claude"
+    },
+    {
+      "rank": 10,
+      "hn_id": 50116468,
+      "title": "Memory Under Noise: Why AI-Assistant Memory Engines Lose the Evidence",
+      "title_ja": "Memory Under Noise: Why AI-Assistant Memory Engines Lose the Evidence",
+      "hn_url": "https://news.ycombinator.com/item?id=50116468",
+      "source_url": "https://www.aai-labs.com/en/research/memory-under-noise",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-10-16T10:06:26Z",
+      "summary_ja": "Title: Memory Under Noise: Why AI-Assistant Memory Engines Lose the Evidence\nArticle title: Memory Under Noise: Why AI-Assistant Memory Engines Lose the Evidence as a User’s History Grows | AAI Labs\nDescription: We benchmarked five AI memory systems. Hybrid RAG won on accuracy and cost; Hindsight was the strongest dedicated engine. Here is where each system fails and what we recommend for assistants with growing conversation histories.\n\nArticle text:\nMemory Under Noise: Why AI-Assistant Memory Engines Lose the Evidence as a User’s History Grows | AAI Labs Main Services Cases Research Team Company More Contact Loading… Services AI for Energy\nUAB Taikomasis dirbtinis intelektas © 2026\nMemory Under Noise: Why AI-Assistant Memory Engines Lose the Evidence as a User’s History Grows\nWe benchmarked five AI memory systems. Hybrid RAG won on accuracy and cost; Hindsight was the strongest dedicate…"
+    },
+    {
+      "rank": 11,
+      "hn_id": 50116382,
+      "title": "Show HN: Control how much your AI agent can spend with Keydris",
+      "title_ja": "Show HN: Control how much your AI agent can spend with Keydris",
+      "hn_url": "https://news.ycombinator.com/item?id=50116382",
+      "source_url": "https://www.youtube.com/watch?v=fboNucIC3uU",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-10-16T09:56:12Z",
+      "summary_ja": "Title: Show HN: Control how much your AI agent can spend with Keydris\nArticle title: - YouTube\nDescription: Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.\n\nArticle text:\n- YouTube About Press Copyright Contact us Creators Advertise Developers Terms Privacy Policy \u0026 Safety How YouTube works Test new features NFL Sunday Ticket © 2026 Google LLC"
     }
   ]
 }

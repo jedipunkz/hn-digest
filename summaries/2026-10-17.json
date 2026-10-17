@@ -1,6 +1,6 @@
 {
   "date": "2026-10-17",
-  "generated_at": "2026-10-17T06:39:02Z",
+  "generated_at": "2026-10-17T11:25:59Z",
   "articles": [
     {
       "rank": 1,
@@ -59,6 +59,20 @@
     },
     {
       "rank": 5,
+      "hn_id": 50129954,
+      "title": "Amazon devices chief sees a future where AI devices replace the need to use apps",
+      "title_ja": "Amazon devices chief sees a future where AI devices replace the need to use apps",
+      "hn_url": "https://news.ycombinator.com/item?id=50129954",
+      "source_url": "https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-sees-a-future-where-ai-devices-replace-the-need-to-use-apps/",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2300374993.jpg?w=1024",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-10-17T11:00:47Z",
+      "summary_ja": "Title: Amazon devices chief sees a future where AI devices replace the need to use apps\nArticle title: Amazon devices chief Panos Panay sees a future where AI devices replace the need to use apps | TechCrunch\nDescription: Speaking at TechCrunch Disrupt, Amazon devices chief Panos Panay described a future where ambient AI devices work in the background, anticipating users' needs instead of waiting for commands.\n\nArticle text:\n–:–:–:–\nLast day to save up to $200 to TechCrunch Founder Summit on Oct. 16. Register now.\nDisrupt doors open Oct. 13. Get your pass and bring someone with you at 50% off. REGISTER NOW.\nTechCrunch Desktop Logo\nTechCrunch Mobile Logo\nLatest\nAmazon devices chief Panos Panay sees a future where AI devices replace the need to use apps\nAmazon is placing its bets on ambient computing, not apps, as the future of personal AI.\nAlongside the launch of the company’s new AI wear…"
+    },
+    {
+      "rank": 6,
       "hn_id": 50126802,
       "title": "Android gets AI defenses against messaging scams, fake calls",
       "title_ja": "Android gets AI defenses against messaging scams, fake calls",
@@ -72,7 +86,7 @@
       "summary_ja": "Title: Android gets AI defenses against messaging scams, fake calls\nDescription: Google announced new AI-powered defenses against scam messages and call-forwarding abuse on Android, currently rolling out to eligible devices.\n\nArticle text:\nAndroid gets AI defenses against messaging scams, fake calls\nAnthropic warns self-replicating AI could spread to your smart devices\nMicrosoft October 2026 Patch Tuesday fixes 1,411 flaws, 3 zero-days\nWindows 11 KB5127648 \u0026 KB5126653 cumulative updates released\nLedger confirms spy chip implant behind wallet crypto thefts\nCritical BlockStrap flaw lets hackers run code on Magento servers\nTargeted ads installed Candiru spyware in zero-click attacks\nEmployees using personal ChatGPT at work? Here's what IT admins need to do\nBurger King Japan data breach exposes 11 million customer records\nHow to access the Dark Web using the Tor Browser\nHow to enable Kernel-…"
     },
     {
-      "rank": 6,
+      "rank": 7,
       "hn_id": 50126478,
       "title": "Ask HN: How (if at all) are you leveraging LLMs?",
       "title_ja": "Ask HN: How (if at all) are you leveraging LLMs?",
@@ -85,7 +99,7 @@
       "summary_ja": "Title: Ask HN: How (if at all) are you leveraging LLMs?"
     },
     {
-      "rank": 7,
+      "rank": 8,
       "hn_id": 50128463,
       "title": "OpenAI outperforms Chinese models in cost per task",
       "title_ja": "OpenAI outperforms Chinese models in cost per task",
@@ -98,7 +112,21 @@
       "summary_ja": "Title: OpenAI outperforms Chinese models in cost per task\nArticle title: Cost per task is the number to watch | nikvdp\n\nArticle text:\nCost per task is the number to watch | nikvdp\nnikvdp\nBlog\nUse system theme\nUse light theme\nUse dark theme\nCost per task is the number to watch\nA few months ago I wrote about “good enough” models , arguing that cheap models had gotten smart enough for most coding work, and that the expensive frontier models were best saved for the tasks that actually need them. That’s mostly played out as expected. Which leaves a new question: once you’re sure you don’t need the smartest model for a task, how do you find the cheapest one that’s still smart enough?\nThe obvious move is to compare prices per token, but that path is paved with footguns. What you actually pay comes down to what the industry has termed “cost per task”: how much it costs to have a model finish a g…"
     },
     {
-      "rank": 8,
+      "rank": 9,
+      "hn_id": 50129960,
+      "title": "Roundtables: A Conversation with the Creator of AI-Designed Viruses",
+      "title_ja": "Roundtables: A Conversation with the Creator of AI-Designed Viruses",
+      "hn_url": "https://news.ycombinator.com/item?id=50129960",
+      "source_url": "https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
+      "image_url": "https://wp.technologyreview.com/wp-content/uploads/2024/01/MIT-TR-Roundtables_Oct-2-Thumbnail.png?resize=1200,600",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-10-17T11:02:17Z",
+      "summary_ja": "Title: Roundtables: A Conversation with the Creator of AI-Designed Viruses\nArticle title: Roundtables: A Conversation With the Creator of AI-Designed Viruses | MIT Technology Review\nDescription: Listen to the session or watch below Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscopic viruses. It isn’t yet an example of AI-generated life, but that c\n[truncated]\n\nArticle text:\nSkip to Content Menu MIT Technology Review MIT Technology Review The Big Story\nMenu MIT Technology Review MIT Technology Review The Big Story\nRoundtables: A Conversation With the Creator of AI-Designed Viruses\nWatch a subscriber-only conversation with one of MIT Technology Review's Innovators Under 35.\nMIT Technology Review archive page\nAvailable only for MIT Technology Revi…"
+    },
+    {
+      "rank": 10,
       "hn_id": 50128314,
       "title": "Sterile Knowledge: Artificial Intelligence, and the Genealogy of Understanding",
       "title_ja": "Sterile Knowledge: Artificial Intelligence, and the Genealogy of Understanding",
@@ -111,7 +139,7 @@
       "summary_ja": "Title: Sterile Knowledge: Artificial Intelligence, and the Genealogy of Understanding"
     },
     {
-      "rank": 9,
+      "rank": 11,
       "hn_id": 50128468,
       "title": "Why Math Dumped OpenAI",
       "title_ja": "Why Math Dumped OpenAI",

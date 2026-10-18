@@ -1,6 +1,6 @@
 {
   "date": "2026-10-18",
-  "generated_at": "2026-10-18T16:29:18Z",
+  "generated_at": "2026-10-18T19:16:03Z",
   "articles": [
     {
       "rank": 1,
@@ -32,20 +32,6 @@
     },
     {
       "rank": 3,
-      "hn_id": 50140329,
-      "title": "Agent-bridge – an OpenAI-compatible API for headless coding-agent CLIs",
-      "title_ja": "Agent-bridge – an OpenAI-compatible API for headless coding-agent CLIs",
-      "hn_url": "https://news.ycombinator.com/item?id=50140329",
-      "source_url": "https://github.com/R3n3r0/agent-bridge",
-      "image_url": "https://opengraph.githubassets.com/0b7b13e7465443fd5f2d210f6225ec43a2104494a5b7c146fa15e40063a3e3de/R3n3r0/agent-bridge",
-      "score": 2,
-      "final_score": 5,
-      "comments": 0,
-      "posted_at": "2026-10-18T12:02:28Z",
-      "summary_ja": "Title: Agent-bridge – an OpenAI-compatible API for headless coding-agent CLIs\nArticle title: GitHub - R3n3r0/agent-bridge: OpenAI-compatible API server for headless coding-agent CLIs (Claude Code, Codex, Kimi Code). Chat, streaming, tool calling, MCP, sessions and images through any OpenAI SDK. Single Go binary, Docker image with a web login page. Self-hosted. · GitHub\nDescription: OpenAI-compatible API server for headless coding-agent CLIs (Claude Code, Codex, Kimi Code). Chat, streaming, tool calling, MCP, sessions and images through any OpenAI SDK. Single Go binary, Docker image with a web login page. Self-hosted. - R3n3r0/agent-bridge\n\nArticle text:\nGitHub - R3n3r0/agent-bridge: OpenAI-compatible API server for headless coding-agent CLIs (Claude Code, Codex, Kimi Code). Chat, streaming, tool calling, MCP, sessions and images through any OpenAI SDK. Single Go binary, Docker image with…"
-    },
-    {
-      "rank": 4,
       "hn_id": 50138889,
       "title": "Florida woman uses Claude as her diary. The diary tipped off the FBI",
       "title_ja": "Florida woman uses Claude as her diary. The diary tipped off the FBI",
@@ -57,6 +43,20 @@
       "comments": 0,
       "posted_at": "2026-10-18T07:49:23Z",
       "summary_ja": "Title: Florida woman uses Claude as her diary. The diary tipped off the FBI\nArticle title: Florida woman uses Claude as her diary. The diary tipped off the FBI. - MACCUS\nDescription: Two messages typed into Claude led to a Florida woman's arrest. Here is who can read your AI chats and when AI companies alert the police.\n\nArticle text:\nFlorida woman uses Claude as her diary. The diary tipped off the FBI. - MACCUS\nSkip to content\nEnglish Français\nMenu\nMenu\nServices\nService Overview\nEVE: Externalised Virtual Employee\nFlorida woman uses Claude as her diary. The diary tipped off the FBI.\nTwo messages typed into Claude led to a Florida woman's arrest. Here is who can read your AI chats and when AI companies alert the police.\nA 30-year-old woman from Bonita Springs, Florida, was arrested at home on September 30, 2026, after two messages she allegedly typed into Claude, Anthropic’s AI assistant,…"
+    },
+    {
+      "rank": 4,
+      "hn_id": 50140329,
+      "title": "Agent-bridge – an OpenAI-compatible API for headless coding-agent CLIs",
+      "title_ja": "Agent-bridge – an OpenAI-compatible API for headless coding-agent CLIs",
+      "hn_url": "https://news.ycombinator.com/item?id=50140329",
+      "source_url": "https://github.com/R3n3r0/agent-bridge",
+      "image_url": "https://opengraph.githubassets.com/0b7b13e7465443fd5f2d210f6225ec43a2104494a5b7c146fa15e40063a3e3de/R3n3r0/agent-bridge",
+      "score": 2,
+      "final_score": 5,
+      "comments": 0,
+      "posted_at": "2026-10-18T12:02:28Z",
+      "summary_ja": "Title: Agent-bridge – an OpenAI-compatible API for headless coding-agent CLIs\nArticle title: GitHub - R3n3r0/agent-bridge: OpenAI-compatible API server for headless coding-agent CLIs (Claude Code, Codex, Kimi Code). Chat, streaming, tool calling, MCP, sessions and images through any OpenAI SDK. Single Go binary, Docker image with a web login page. Self-hosted. · GitHub\nDescription: OpenAI-compatible API server for headless coding-agent CLIs (Claude Code, Codex, Kimi Code). Chat, streaming, tool calling, MCP, sessions and images through any OpenAI SDK. Single Go binary, Docker image with a web login page. Self-hosted. - R3n3r0/agent-bridge\n\nArticle text:\nGitHub - R3n3r0/agent-bridge: OpenAI-compatible API server for headless coding-agent CLIs (Claude Code, Codex, Kimi Code). Chat, streaming, tool calling, MCP, sessions and images through any OpenAI SDK. Single Go binary, Docker image with…"
     },
     {
       "rank": 5,
@@ -88,34 +88,20 @@
     },
     {
       "rank": 7,
-      "hn_id": 50140462,
-      "title": "How Far Will AI Assistants Go for a Refund They Can't Get?",
-      "title_ja": "How Far Will AI Assistants Go for a Refund They Can't Get?",
-      "hn_url": "https://news.ycombinator.com/item?id=50140462",
-      "source_url": "https://www.vals.ai/blogs/impossible-refund",
-      "image_url": "https://www.vals.ai/blogs/2026-10-15-impossible-refund/hero-vals.webp",
+      "hn_id": 50143999,
+      "title": "Self-hosted workspace where notes, tasks and AI chats are all items",
+      "title_ja": "Self-hosted workspace where notes, tasks and AI chats are all items",
+      "hn_url": "https://news.ycombinator.com/item?id=50143999",
+      "source_url": "https://github.com/sianachi/nixsites",
+      "image_url": "https://opengraph.githubassets.com/67dbcc8d662dc3a694cedf3107905b947348f9962a8a3ab7b516288a77ed98c6/sianachi/nixsites",
       "score": 2,
-      "final_score": 2,
+      "final_score": 4,
       "comments": 0,
-      "posted_at": "2026-10-18T12:22:58Z",
-      "summary_ja": "Title: How Far Will AI Assistants Go for a Refund They Can't Get?\nArticle title: How Far Will AI Assistants Go for a Refund They Can’t Get? | Vals AI\nDescription: Six AI assistants pursued an impossible £350 train refund in a simulated world, escalating to government officials, legal clinics and bank chargebacks.\n\nArticle text:\nHow Far Will AI Assistants Go for a Refund They Can’t Get? | Vals AI\nBenchmarks\nHow Far Will AI Assistants Go for a Refund They Can’t Get?\nSpamming the government, using a sick mother as leverage and threatening the small claims court.\nIn 15 simulated days, Grok sent 50 emails to an MP’s office. Fable shared a private family illness with five organisations, and three agents threatened court proceedings.\nWe asked six personal assistant agents to recover a £350 train-ticket refund after the 28-day claim window had closed. They could read the live web and email but a…"
+      "posted_at": "2026-10-18T18:39:42Z",
+      "summary_ja": "Title: Self-hosted workspace where notes, tasks and AI chats are all items\nArticle title: GitHub - sianachi/nixsites · GitHub\nDescription: Contribute to sianachi/nixsites development by creating an account on GitHub.\n\nArticle text:\nGitHub - sianachi/nixsites · GitHub\nSkip to content\nNavigation Menu\nSign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI\nGitHub Copilot app Direct agents from issue to merge\nMCP Registry Integrate external tools\nDEVELOPER WORKFLOWS Actions Automate any workflow\nCodespaces Instant dev environments\nCode Review Manage code changes\nCode Quality Enforce quality at merge\nAPPLICATION SECURITY GitHub Advanced Security Find and fix vulnerabilities\nCode security Secure your code as you build\nSecret protection Stop leaks before they start\nSolutions BY COMPANY SIZE Enterprises\nEXPLORE BY TYPE Customer stories\nSUPPORT \u0026 SERVICES Do…"
     },
     {
       "rank": 8,
-      "hn_id": 50140566,
-      "title": "How the AI boom might end: 5 scenarios",
-      "title_ja": "How the AI boom might end: 5 scenarios",
-      "hn_url": "https://news.ycombinator.com/item?id=50140566",
-      "source_url": "https://martinalderson.com/posts/how-the-ai-boom-might-really-end/",
-      "image_url": "https://martinalderson.com/img/og/how-the-ai-boom-might-really-end-5-scenarios.png",
-      "score": 1,
-      "final_score": 2,
-      "comments": 0,
-      "posted_at": "2026-10-18T12:37:42Z",
-      "summary_ja": "Title: How the AI boom might end: 5 scenarios\nArticle title: How the AI boom might really end: 5 scenarios - Martin Alderson\nDescription: With chip stocks on their longest losing streak since 2008 and Anthropic heading for IPO, five ways the AI boom could end - and why I think the value is real but may not flow to the people putting the money in.\n\nArticle text:\nMartin Alderson\nNewsletter\nRSS\nAbout/Contact\nHow the AI boom might really end: 5 scenarios\nWith the Anthropic IPO gathering pace - and chip stocks just posting their longest losing streak since 2008 amid worries about AI debt , I thought it'd be worth writing up some of my thoughts I've put together while thinking through what may happen. By no means is this meant to be exhaustive - just a list of what I think is the most interesting to think through.\nBefore I dive into the scenarios, while I'm sure there are going to be failures…"
-    },
-    {
-      "rank": 9,
       "hn_id": 50137246,
       "title": "OpenAI Saudi national bugging case shows threat to U.S. leadership in AI",
       "title_ja": "OpenAI Saudi national bugging case shows threat to U.S. leadership in AI",
@@ -129,20 +115,7 @@
       "summary_ja": "Title: OpenAI Saudi national bugging case shows threat to U.S. leadership in AI\nArticle title: OpenAI bugging case shows threat U.S. AI leadership: Clayton\nDescription: AI \"amplifies\" existing cybersecurity risks toward U.S. digital infrastructure, Clayton said on \"Squawk Box.\"\n\nArticle text:\nOpenAI bugging case shows threat U.S. AI leadership: Clayton Skip Navigation Markets Pre-Markets\nSIGN IN Create free account Markets Business Investing Tech Politics \u0026 Policy Video Watchlist Investing Club PRO Livestream Menu\nOpenAI Saudi national bugging case shows threat to U.S. leadership in AI: DNI Clayton\nU.S. companies and the Trump administration both \"need to be wary\" of AI-related foreign espionage attempts, Director of National Intelligence Jay Clayton told CNBC.\nClayton was asked how concerned Americans should be in light of the recently revealed case charging Saudi national Abdulrahman A…"
     },
     {
-      "rank": 10,
-      "hn_id": 50142310,
-      "title": "Replacing an LLM judge with a deterministic model: 9.2x faster, 4.5x cheaper",
-      "title_ja": "Replacing an LLM judge with a deterministic model: 9.2x faster, 4.5x cheaper",
-      "hn_url": "https://news.ycombinator.com/item?id=50142310",
-      "source_url": "https://medium.com/@gbenga-awodokun/building-clinical-ai-agents-with-langchain-and-jev-decision-healthcare-trustworthy-ai-lab-v2-1b81e271f1c9",
-      "score": 2,
-      "final_score": 2,
-      "comments": 0,
-      "posted_at": "2026-10-18T16:07:52Z",
-      "summary_ja": "Title: Replacing an LLM judge with a deterministic model: 9.2x faster, 4.5x cheaper"
-    },
-    {
-      "rank": 11,
+      "rank": 9,
       "hn_id": 50138839,
       "title": "Show HN: Connecting Captions Local Private AI Interpreter",
       "title_ja": "Show HN: Connecting Captions Local Private AI Interpreter",
@@ -156,34 +129,20 @@
       "summary_ja": "Title: Show HN: Connecting Captions Local Private AI Interpreter\nArticle title: Connecting Captions · local-host.ai\nDescription: On-device live captions on a Mac. Speech and translation stay on the machine. For presentations, bilingual rooms, and any conversation that needs a translation.\nHN text: Hi HN, I built Connecting Captions, a live captioning and translation overlay for macOS that runs entirely on-device. Nothing goes over the network: no API calls, no audio leaving your machine, and it keeps working offline. I wanted live translation I could use in meetings and conversations without worrying about connectivity, latency spikes, or sending sensitive audio to a third party. The technically interesting part is a low-latency, self-correcting pipeline for speech-to-text and translation. It has two modes: Sentence mode: buffers until a sentence boundary, then translates with full conte…"
     },
     {
-      "rank": 12,
-      "hn_id": 50142192,
-      "title": "AI-Assisted Product Discovery: When Code Is Cheap, Judgment Is the Job",
-      "title_ja": "AI-Assisted Product Discovery: When Code Is Cheap, Judgment Is the Job",
-      "hn_url": "https://news.ycombinator.com/item?id=50142192",
-      "source_url": "https://age-of-product.com/ai-assisted-product-discovery/",
+      "rank": 10,
+      "hn_id": 50143897,
+      "title": "Leaked Anthropic Draft AI Regulatory Bill Is Unacceptable and Troubling",
+      "title_ja": "Leaked Anthropic Draft AI Regulatory Bill Is Unacceptable and Troubling",
+      "hn_url": "https://news.ycombinator.com/item?id=50143897",
+      "source_url": "https://thezvi.substack.com/p/leaked-anthropic-draft-ai-regulatory",
       "score": 2,
       "final_score": 2,
-      "comments": 1,
-      "posted_at": "2026-10-18T15:55:35Z",
-      "summary_ja": "Title: AI-Assisted Product Discovery: When Code Is Cheap, Judgment Is the Job"
-    },
-    {
-      "rank": 13,
-      "hn_id": 50137325,
-      "title": "Best Free GPU Cloud Options for AI Startups and Researchers",
-      "title_ja": "Best Free GPU Cloud Options for AI Startups and Researchers",
-      "hn_url": "https://news.ycombinator.com/item?id=50137325",
-      "source_url": "https://www.gmicloud.ai/ja/blog/best-free-gpu-cloud-options-for-ai-startups-and-researchers",
-      "image_url": "https://cdn.prod.website-files.com/6683d8c62e4e62685a8d91c8/6a2a899fd8df279cf1712182_GMI%20Cloud%20-%20Blog%20(35).webp",
-      "score": 1,
-      "final_score": 2,
       "comments": 0,
-      "posted_at": "2026-10-18T02:35:00Z",
-      "summary_ja": "Title: Best Free GPU Cloud Options for AI Startups and Researchers\nArticle title: Best Free GPU Cloud Options for AI Startups in 2026 Guide\nDescription: Compare the best free GPU cloud options for AI startups, researchers, and developers. Explore notebooks, inference APIs, credits, and grants. Learn more.\n\nArticle text:\nBest Free GPU Cloud Options for AI Startups in 2026 Guide 推論\nログイン 営業にお問い合わせ More Blog Posts X Discord LinkedIn YouTube 製品\n送信することにより、お客様が提供された情報（個人情報を含む場合があります）を当社が収集および使用することについてご理解いただいたものとみなされます。"
+      "posted_at": "2026-10-18T18:28:58Z",
+      "summary_ja": "Title: Leaked Anthropic Draft AI Regulatory Bill Is Unacceptable and Troubling"
     },
     {
-      "rank": 14,
+      "rank": 11,
       "hn_id": 50140542,
       "title": "Uh filter Claude Code plugin",
       "title_ja": "Uh filter Claude Code plugin",
@@ -197,7 +156,89 @@
       "summary_ja": "Title: Uh filter Claude Code plugin\nArticle title: GitHub - amirzak/claude-code-voice-uh-filter: Claude Code mod that strips spoken filler words (uh, um, mm) from voice-dictated prompts · GitHub\nDescription: Claude Code mod that strips spoken filler words (uh, um, mm) from voice-dictated prompts - amirzak/claude-code-voice-uh-filter\n\nArticle text:\nGitHub - amirzak/claude-code-voice-uh-filter: Claude Code mod that strips spoken filler words (uh, um, mm) from voice-dictated prompts · GitHub\nSkip to content\nNavigation Menu\nSign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI\nGitHub Copilot app Direct agents from issue to merge\nMCP Registry Integrate external tools\nDEVELOPER WORKFLOWS Actions Automate any workflow\nCodespaces Instant dev environments\nCode Review Manage code changes\nCode Quality Enforce quality at merge\nAPPLICATION SECURITY GitHub Adva…"
     },
     {
+      "rank": 12,
+      "hn_id": 50140462,
+      "title": "How Far Will AI Assistants Go for a Refund They Can't Get?",
+      "title_ja": "How Far Will AI Assistants Go for a Refund They Can't Get?",
+      "hn_url": "https://news.ycombinator.com/item?id=50140462",
+      "source_url": "https://www.vals.ai/blogs/impossible-refund",
+      "image_url": "https://www.vals.ai/blogs/2026-10-15-impossible-refund/hero-vals.webp",
+      "score": 2,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-10-18T12:22:58Z",
+      "summary_ja": "Title: How Far Will AI Assistants Go for a Refund They Can't Get?\nArticle title: How Far Will AI Assistants Go for a Refund They Can’t Get? | Vals AI\nDescription: Six AI assistants pursued an impossible £350 train refund in a simulated world, escalating to government officials, legal clinics and bank chargebacks.\n\nArticle text:\nHow Far Will AI Assistants Go for a Refund They Can’t Get? | Vals AI\nBenchmarks\nHow Far Will AI Assistants Go for a Refund They Can’t Get?\nSpamming the government, using a sick mother as leverage and threatening the small claims court.\nIn 15 simulated days, Grok sent 50 emails to an MP’s office. Fable shared a private family illness with five organisations, and three agents threatened court proceedings.\nWe asked six personal assistant agents to recover a £350 train-ticket refund after the 28-day claim window had closed. They could read the live web and email but a…"
+    },
+    {
+      "rank": 13,
+      "hn_id": 50142310,
+      "title": "Replacing an LLM judge with a deterministic model: 9.2x faster, 4.5x cheaper",
+      "title_ja": "Replacing an LLM judge with a deterministic model: 9.2x faster, 4.5x cheaper",
+      "hn_url": "https://news.ycombinator.com/item?id=50142310",
+      "source_url": "https://medium.com/@gbenga-awodokun/building-clinical-ai-agents-with-langchain-and-jev-decision-healthcare-trustworthy-ai-lab-v2-1b81e271f1c9",
+      "score": 2,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-10-18T16:07:52Z",
+      "summary_ja": "Title: Replacing an LLM judge with a deterministic model: 9.2x faster, 4.5x cheaper"
+    },
+    {
+      "rank": 14,
+      "hn_id": 50144227,
+      "title": "Trustbut checks if an AI agent's new tests fail without its change",
+      "title_ja": "Trustbut checks if an AI agent's new tests fail without its change",
+      "hn_url": "https://news.ycombinator.com/item?id=50144227",
+      "source_url": "https://github.com/isAlmogK/trustbut",
+      "image_url": "https://opengraph.githubassets.com/df7720e61ae13e780590a6de6ac952420820171b32c213508bbb03d0c0aea28d/isAlmogK/trustbut",
+      "score": 1,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-10-18T19:07:31Z",
+      "summary_ja": "Title: Trustbut checks if an AI agent's new tests fail without its change\nArticle title: GitHub - isAlmogK/trustbut: Trust, but verify, for AI coding agents. A local CLI that reruns your tests and prints a receipt of what your agent actually did: which new tests prove the change, which pass without it, and what got skipped, deleted or silenced. Works with Claude Code, Codex, Cursor, Gem\n[truncated]\nDescription: Trust, but verify, for AI coding agents. A local CLI that reruns your tests and prints a receipt of what your agent actually did: which new tests prove the change, which pass without it, and what got skipped, deleted or silenced. Works with Claude Code, Codex, Cursor, Gemini and OpenCode. No LLM, no\n[truncated]\n\nArticle text:\nGitHub - isAlmogK/trustbut: Trust, but verify, for AI coding agents. A local CLI that reruns your tests and prints a receipt of what your agent actually did:…"
+    },
+    {
       "rank": 15,
+      "hn_id": 50140566,
+      "title": "How the AI boom might end: 5 scenarios",
+      "title_ja": "How the AI boom might end: 5 scenarios",
+      "hn_url": "https://news.ycombinator.com/item?id=50140566",
+      "source_url": "https://martinalderson.com/posts/how-the-ai-boom-might-really-end/",
+      "image_url": "https://martinalderson.com/img/og/how-the-ai-boom-might-really-end-5-scenarios.png",
+      "score": 1,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-10-18T12:37:42Z",
+      "summary_ja": "Title: How the AI boom might end: 5 scenarios\nArticle title: How the AI boom might really end: 5 scenarios - Martin Alderson\nDescription: With chip stocks on their longest losing streak since 2008 and Anthropic heading for IPO, five ways the AI boom could end - and why I think the value is real but may not flow to the people putting the money in.\n\nArticle text:\nMartin Alderson\nNewsletter\nRSS\nAbout/Contact\nHow the AI boom might really end: 5 scenarios\nWith the Anthropic IPO gathering pace - and chip stocks just posting their longest losing streak since 2008 amid worries about AI debt , I thought it'd be worth writing up some of my thoughts I've put together while thinking through what may happen. By no means is this meant to be exhaustive - just a list of what I think is the most interesting to think through.\nBefore I dive into the scenarios, while I'm sure there are going to be failures…"
+    },
+    {
+      "rank": 16,
+      "hn_id": 50142192,
+      "title": "AI-Assisted Product Discovery: When Code Is Cheap, Judgment Is the Job",
+      "title_ja": "AI-Assisted Product Discovery: When Code Is Cheap, Judgment Is the Job",
+      "hn_url": "https://news.ycombinator.com/item?id=50142192",
+      "source_url": "https://age-of-product.com/ai-assisted-product-discovery/",
+      "score": 2,
+      "final_score": 2,
+      "comments": 1,
+      "posted_at": "2026-10-18T15:55:35Z",
+      "summary_ja": "Title: AI-Assisted Product Discovery: When Code Is Cheap, Judgment Is the Job"
+    },
+    {
+      "rank": 17,
+      "hn_id": 50137325,
+      "title": "Best Free GPU Cloud Options for AI Startups and Researchers",
+      "title_ja": "Best Free GPU Cloud Options for AI Startups and Researchers",
+      "hn_url": "https://news.ycombinator.com/item?id=50137325",
+      "source_url": "https://www.gmicloud.ai/ja/blog/best-free-gpu-cloud-options-for-ai-startups-and-researchers",
+      "image_url": "https://cdn.prod.website-files.com/6683d8c62e4e62685a8d91c8/6a2a899fd8df279cf1712182_GMI%20Cloud%20-%20Blog%20(35).webp",
+      "score": 1,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-10-18T02:35:00Z",
+      "summary_ja": "Title: Best Free GPU Cloud Options for AI Startups and Researchers\nArticle title: Best Free GPU Cloud Options for AI Startups in 2026 Guide\nDescription: Compare the best free GPU cloud options for AI startups, researchers, and developers. Explore notebooks, inference APIs, credits, and grants. Learn more.\n\nArticle text:\nBest Free GPU Cloud Options for AI Startups in 2026 Guide 推論\nログイン 営業にお問い合わせ More Blog Posts X Discord LinkedIn YouTube 製品\n送信することにより、お客様が提供された情報（個人情報を含む場合があります）を当社が収集および使用することについてご理解いただいたものとみなされます。"
+    },
+    {
+      "rank": 18,
       "hn_id": 50140560,
       "title": "Show HN: Independent LLM benchmark index tracking 22 frontier models",
       "title_ja": "Show HN: Independent LLM benchmark index tracking 22 frontier models",
@@ -210,7 +251,33 @@
       "summary_ja": "Title: Show HN: Independent LLM benchmark index tracking 22 frontier models\nArticle title: AI Models\nDescription: Live 2026 AI coding model leaderboard. Compare models on SWE-bench Verified, GPQA Diamond, and HLE scores weighted by cost and throughput.\n\nArticle text:\nAI Models\nSkip to Content\nNews\nSubscribe\nHome\n/\nRankings \u0026 Benchmarks\nLIVE TELEMETRY • FRONTIER LLM BENCHMARKS\nAI Coding Benchmarks \u0026 Rankings Leaderboard\nEmpirical evaluations measuring coding proficiency, reasoning benchmarks (GPQA, SWE-bench Verified, HLE), and real-time value-for-money ($/point) metrics.\nArtificial Analysis Intelligence Index • Higher is better\nGPT-6 Astra (max) Benchmarks, Price \u0026 Specs (Oct 2026): 55 (OpenAI)\n55\nO\nGPT-6 Astra (m..\nClaude Fable 5.1 (max with fallback): 53 (Anthropic)\n53\nA\nClaude Fable 5..\nClaude Opus 5 (max) Benchmarks, Price \u0026 Specs (Oct 2026): 53 (Anthropic)\n53\nA\nClaude Opus 5 ..\nMuse…"
     },
     {
-      "rank": 16,
+      "rank": 19,
+      "hn_id": 50144145,
+      "title": "A protocol for LLM intent search",
+      "title_ja": "A protocol for LLM intent search",
+      "hn_url": "https://news.ycombinator.com/item?id=50144145",
+      "source_url": "https://zenodo.org/records/23452266",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-10-18T18:59:13Z",
+      "summary_ja": "Title: A protocol for LLM intent search\nArticle title: A test for intent | Zenodo\nDescription: This paper develops a reusable protocol for testing whether a candidate internal-state readout captures a model's strategy rather than merely reflecting its topic or the immediate question. The protocol requires held-out prediction of the realized public response, performance exceeding a private-not\n[truncated]\n\nArticle text:\nA test for intent | Zenodo\nSkip to main\nYou are using an outdated browser. Please upgrade your browser to improve your experience.\nThis paper develops a reusable protocol for testing whether a candidate internal-state readout captures a model's strategy rather than merely reflecting its topic or the immediate question. The protocol requires held-out prediction of the realized public response, performance exceeding a private-note text baseline, failure under controls that r…"
+    },
+    {
+      "rank": 20,
+      "hn_id": 50143868,
+      "title": "AI/Pangram and Writing",
+      "title_ja": "AI/Pangram and Writing",
+      "hn_url": "https://news.ycombinator.com/item?id=50143868",
+      "source_url": "https://ninza7.medium.com/ai-pangram-writing-966c1da59c48",
+      "score": 1,
+      "final_score": 1,
+      "comments": 1,
+      "posted_at": "2026-10-18T18:26:11Z",
+      "summary_ja": "Title: AI/Pangram and Writing"
+    },
+    {
+      "rank": 21,
       "hn_id": 50142478,
       "title": "Vertick – built with DominoKit and agentic AI",
       "title_ja": "Vertick – built with DominoKit and agentic AI",
@@ -223,7 +290,7 @@
       "summary_ja": "Title: Vertick – built with DominoKit and agentic AI\nArticle title: Vertick\n\nArticle text:\nVertick"
     },
     {
-      "rank": 17,
+      "rank": 22,
       "hn_id": 50142494,
       "title": "Would you switch credit cards for your rewards on your AI spend?",
       "title_ja": "Would you switch credit cards for your rewards on your AI spend?",

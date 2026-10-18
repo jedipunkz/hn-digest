@@ -1,9 +1,23 @@
 {
   "date": "2026-10-18",
-  "generated_at": "2026-10-18T08:37:01Z",
+  "generated_at": "2026-10-18T13:01:22Z",
   "articles": [
     {
       "rank": 1,
+      "hn_id": 50140329,
+      "title": "Agent-bridge – an OpenAI-compatible API for headless coding-agent CLIs",
+      "title_ja": "Agent-bridge – an OpenAI-compatible API for headless coding-agent CLIs",
+      "hn_url": "https://news.ycombinator.com/item?id=50140329",
+      "source_url": "https://github.com/R3n3r0/agent-bridge",
+      "image_url": "https://opengraph.githubassets.com/0b7b13e7465443fd5f2d210f6225ec43a2104494a5b7c146fa15e40063a3e3de/R3n3r0/agent-bridge",
+      "score": 2,
+      "final_score": 5,
+      "comments": 0,
+      "posted_at": "2026-10-18T12:02:28Z",
+      "summary_ja": "Title: Agent-bridge – an OpenAI-compatible API for headless coding-agent CLIs\nArticle title: GitHub - R3n3r0/agent-bridge: OpenAI-compatible API server for headless coding-agent CLIs (Claude Code, Codex, Kimi Code). Chat, streaming, tool calling, MCP, sessions and images through any OpenAI SDK. Single Go binary, Docker image with a web login page. Self-hosted. · GitHub\nDescription: OpenAI-compatible API server for headless coding-agent CLIs (Claude Code, Codex, Kimi Code). Chat, streaming, tool calling, MCP, sessions and images through any OpenAI SDK. Single Go binary, Docker image with a web login page. Self-hosted. - R3n3r0/agent-bridge\n\nArticle text:\nGitHub - R3n3r0/agent-bridge: OpenAI-compatible API server for headless coding-agent CLIs (Claude Code, Codex, Kimi Code). Chat, streaming, tool calling, MCP, sessions and images through any OpenAI SDK. Single Go binary, Docker image with…"
+    },
+    {
+      "rank": 2,
       "hn_id": 50138889,
       "title": "Florida woman uses Claude as her diary. The diary tipped off the FBI",
       "title_ja": "Florida woman uses Claude as her diary. The diary tipped off the FBI",
@@ -17,7 +31,21 @@
       "summary_ja": "Title: Florida woman uses Claude as her diary. The diary tipped off the FBI\nArticle title: Florida woman uses Claude as her diary. The diary tipped off the FBI. - MACCUS\nDescription: Two messages typed into Claude led to a Florida woman's arrest. Here is who can read your AI chats and when AI companies alert the police.\n\nArticle text:\nFlorida woman uses Claude as her diary. The diary tipped off the FBI. - MACCUS\nSkip to content\nEnglish Français\nMenu\nMenu\nServices\nService Overview\nEVE: Externalised Virtual Employee\nFlorida woman uses Claude as her diary. The diary tipped off the FBI.\nTwo messages typed into Claude led to a Florida woman's arrest. Here is who can read your AI chats and when AI companies alert the police.\nA 30-year-old woman from Bonita Springs, Florida, was arrested at home on September 30, 2026, after two messages she allegedly typed into Claude, Anthropic’s AI assistant,…"
     },
     {
-      "rank": 2,
+      "rank": 3,
+      "hn_id": 50140420,
+      "title": "How to Make Your Own Flying Car AI Video (Make a Tesla Roadster AI Video)",
+      "title_ja": "How to Make Your Own Flying Car AI Video (Make a Tesla Roadster AI Video)",
+      "hn_url": "https://news.ycombinator.com/item?id=50140420",
+      "source_url": "https://roadster-ai.net/blog/how-to-make-roadster-ai-video",
+      "image_url": "https://roadster-ai.net/preview.png",
+      "score": 2,
+      "final_score": 4,
+      "comments": 0,
+      "posted_at": "2026-10-18T12:17:30Z",
+      "summary_ja": "Title: How to Make Your Own Flying Car AI Video (Make a Tesla Roadster AI Video)\nArticle title: How to Make a Tesla Roadster AI Flying Car Video(2026)\nDescription: Learn how to make a Tesla Roadster AI flying car video with your own car photo. Follow this simple guide to create realistic AI videos in minutes.\n\nArticle text:\nHow to Make a Tesla Roadster AI Flying Car Video(2026) Roadster AI Home Blog Pricing Blog How to Make a Tesla Roadster AI Flying Car Video(2026) How to Make a Tesla Roadster AI Flying Car Video(2026)\nOct 18, 2026 Table of Contents\n(How Do I Make a Flying Car AI Video?)\nRecently, Tesla unveiled a flying car at a launch event, and it quickly became a viral sensation.\nWhat if we want to make our own car fly just like the one in the launch event video?\nThere's a way to do it. We can use AI to make it happen.\nOpen the Tesla Roadster AI Video Generator: https://roadster-ai.…"
+    },
+    {
+      "rank": 4,
       "hn_id": 50137325,
       "title": "Best Free GPU Cloud Options for AI Startups and Researchers",
       "title_ja": "Best Free GPU Cloud Options for AI Startups and Researchers",
@@ -31,7 +59,35 @@
       "summary_ja": "Title: Best Free GPU Cloud Options for AI Startups and Researchers\nArticle title: Best Free GPU Cloud Options for AI Startups in 2026 Guide\nDescription: Compare the best free GPU cloud options for AI startups, researchers, and developers. Explore notebooks, inference APIs, credits, and grants. Learn more.\n\nArticle text:\nBest Free GPU Cloud Options for AI Startups in 2026 Guide 推論\nログイン 営業にお問い合わせ More Blog Posts X Discord LinkedIn YouTube 製品\n送信することにより、お客様が提供された情報（個人情報を含む場合があります）を当社が収集および使用することについてご理解いただいたものとみなされます。"
     },
     {
-      "rank": 3,
+      "rank": 5,
+      "hn_id": 50140462,
+      "title": "How Far Will AI Assistants Go for a Refund They Can't Get?",
+      "title_ja": "How Far Will AI Assistants Go for a Refund They Can't Get?",
+      "hn_url": "https://news.ycombinator.com/item?id=50140462",
+      "source_url": "https://www.vals.ai/blogs/impossible-refund",
+      "image_url": "https://www.vals.ai/blogs/2026-10-15-impossible-refund/hero-vals.webp",
+      "score": 2,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-10-18T12:22:58Z",
+      "summary_ja": "Title: How Far Will AI Assistants Go for a Refund They Can't Get?\nArticle title: How Far Will AI Assistants Go for a Refund They Can’t Get? | Vals AI\nDescription: Six AI assistants pursued an impossible £350 train refund in a simulated world, escalating to government officials, legal clinics and bank chargebacks.\n\nArticle text:\nHow Far Will AI Assistants Go for a Refund They Can’t Get? | Vals AI\nBenchmarks\nHow Far Will AI Assistants Go for a Refund They Can’t Get?\nSpamming the government, using a sick mother as leverage and threatening the small claims court.\nIn 15 simulated days, Grok sent 50 emails to an MP’s office. Fable shared a private family illness with five organisations, and three agents threatened court proceedings.\nWe asked six personal assistant agents to recover a £350 train-ticket refund after the 28-day claim window had closed. They could read the live web and email but a…"
+    },
+    {
+      "rank": 6,
+      "hn_id": 50140566,
+      "title": "How the AI boom might end: 5 scenarios",
+      "title_ja": "How the AI boom might end: 5 scenarios",
+      "hn_url": "https://news.ycombinator.com/item?id=50140566",
+      "source_url": "https://martinalderson.com/posts/how-the-ai-boom-might-really-end/",
+      "image_url": "https://martinalderson.com/img/og/how-the-ai-boom-might-really-end-5-scenarios.png",
+      "score": 1,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-10-18T12:37:42Z",
+      "summary_ja": "Title: How the AI boom might end: 5 scenarios\nArticle title: How the AI boom might really end: 5 scenarios - Martin Alderson\nDescription: With chip stocks on their longest losing streak since 2008 and Anthropic heading for IPO, five ways the AI boom could end - and why I think the value is real but may not flow to the people putting the money in.\n\nArticle text:\nMartin Alderson\nNewsletter\nRSS\nAbout/Contact\nHow the AI boom might really end: 5 scenarios\nWith the Anthropic IPO gathering pace - and chip stocks just posting their longest losing streak since 2008 amid worries about AI debt , I thought it'd be worth writing up some of my thoughts I've put together while thinking through what may happen. By no means is this meant to be exhaustive - just a list of what I think is the most interesting to think through.\nBefore I dive into the scenarios, while I'm sure there are going to be failures…"
+    },
+    {
+      "rank": 7,
       "hn_id": 50137246,
       "title": "OpenAI Saudi national bugging case shows threat to U.S. leadership in AI",
       "title_ja": "OpenAI Saudi national bugging case shows threat to U.S. leadership in AI",
@@ -45,7 +101,7 @@
       "summary_ja": "Title: OpenAI Saudi national bugging case shows threat to U.S. leadership in AI\nArticle title: OpenAI bugging case shows threat U.S. AI leadership: Clayton\nDescription: AI \"amplifies\" existing cybersecurity risks toward U.S. digital infrastructure, Clayton said on \"Squawk Box.\"\n\nArticle text:\nOpenAI bugging case shows threat U.S. AI leadership: Clayton Skip Navigation Markets Pre-Markets\nSIGN IN Create free account Markets Business Investing Tech Politics \u0026 Policy Video Watchlist Investing Club PRO Livestream Menu\nOpenAI Saudi national bugging case shows threat to U.S. leadership in AI: DNI Clayton\nU.S. companies and the Trump administration both \"need to be wary\" of AI-related foreign espionage attempts, Director of National Intelligence Jay Clayton told CNBC.\nClayton was asked how concerned Americans should be in light of the recently revealed case charging Saudi national Abdulrahman A…"
     },
     {
-      "rank": 4,
+      "rank": 8,
       "hn_id": 50138839,
       "title": "Show HN: Connecting Captions Local Private AI Interpreter",
       "title_ja": "Show HN: Connecting Captions Local Private AI Interpreter",
@@ -57,6 +113,33 @@
       "comments": 0,
       "posted_at": "2026-10-18T07:41:31Z",
       "summary_ja": "Title: Show HN: Connecting Captions Local Private AI Interpreter\nArticle title: Connecting Captions · local-host.ai\nDescription: On-device live captions on a Mac. Speech and translation stay on the machine. For presentations, bilingual rooms, and any conversation that needs a translation.\nHN text: Hi HN, I built Connecting Captions, a live captioning and translation overlay for macOS that runs entirely on-device. Nothing goes over the network: no API calls, no audio leaving your machine, and it keeps working offline. I wanted live translation I could use in meetings and conversations without worrying about connectivity, latency spikes, or sending sensitive audio to a third party. The technically interesting part is a low-latency, self-correcting pipeline for speech-to-text and translation. It has two modes: Sentence mode: buffers until a sentence boundary, then translates with full conte…"
+    },
+    {
+      "rank": 9,
+      "hn_id": 50140542,
+      "title": "Uh filter Claude Code plugin",
+      "title_ja": "Uh filter Claude Code plugin",
+      "hn_url": "https://news.ycombinator.com/item?id=50140542",
+      "source_url": "https://github.com/amirzak/claude-code-voice-uh-filter",
+      "image_url": "https://opengraph.githubassets.com/5a647338145cbf3d1c70b1d8f0b502bb03e1b3905fe24d8a881b339235346700/amirzak/claude-code-voice-uh-filter",
+      "score": 1,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-10-18T12:33:55Z",
+      "summary_ja": "Title: Uh filter Claude Code plugin\nArticle title: GitHub - amirzak/claude-code-voice-uh-filter: Claude Code mod that strips spoken filler words (uh, um, mm) from voice-dictated prompts · GitHub\nDescription: Claude Code mod that strips spoken filler words (uh, um, mm) from voice-dictated prompts - amirzak/claude-code-voice-uh-filter\n\nArticle text:\nGitHub - amirzak/claude-code-voice-uh-filter: Claude Code mod that strips spoken filler words (uh, um, mm) from voice-dictated prompts · GitHub\nSkip to content\nNavigation Menu\nSign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI\nGitHub Copilot app Direct agents from issue to merge\nMCP Registry Integrate external tools\nDEVELOPER WORKFLOWS Actions Automate any workflow\nCodespaces Instant dev environments\nCode Review Manage code changes\nCode Quality Enforce quality at merge\nAPPLICATION SECURITY GitHub Adva…"
+    },
+    {
+      "rank": 10,
+      "hn_id": 50140560,
+      "title": "Show HN: Independent LLM benchmark index tracking 22 frontier models",
+      "title_ja": "Show HN: Independent LLM benchmark index tracking 22 frontier models",
+      "hn_url": "https://news.ycombinator.com/item?id=50140560",
+      "source_url": "https://vibecoderjournal.com/rankings/",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-10-18T12:36:53Z",
+      "summary_ja": "Title: Show HN: Independent LLM benchmark index tracking 22 frontier models\nArticle title: AI Models\nDescription: Live 2026 AI coding model leaderboard. Compare models on SWE-bench Verified, GPQA Diamond, and HLE scores weighted by cost and throughput.\n\nArticle text:\nAI Models\nSkip to Content\nNews\nSubscribe\nHome\n/\nRankings \u0026 Benchmarks\nLIVE TELEMETRY • FRONTIER LLM BENCHMARKS\nAI Coding Benchmarks \u0026 Rankings Leaderboard\nEmpirical evaluations measuring coding proficiency, reasoning benchmarks (GPQA, SWE-bench Verified, HLE), and real-time value-for-money ($/point) metrics.\nArtificial Analysis Intelligence Index • Higher is better\nGPT-6 Astra (max) Benchmarks, Price \u0026 Specs (Oct 2026): 55 (OpenAI)\n55\nO\nGPT-6 Astra (m..\nClaude Fable 5.1 (max with fallback): 53 (Anthropic)\n53\nA\nClaude Fable 5..\nClaude Opus 5 (max) Benchmarks, Price \u0026 Specs (Oct 2026): 53 (Anthropic)\n53\nA\nClaude Opus 5 ..\nMuse…"
     }
   ]
 }

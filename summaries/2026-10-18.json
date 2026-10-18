@@ -1,9 +1,23 @@
 {
   "date": "2026-10-18",
-  "generated_at": "2026-10-18T03:20:12Z",
+  "generated_at": "2026-10-18T08:37:01Z",
   "articles": [
     {
       "rank": 1,
+      "hn_id": 50138889,
+      "title": "Florida woman uses Claude as her diary. The diary tipped off the FBI",
+      "title_ja": "Florida woman uses Claude as her diary. The diary tipped off the FBI",
+      "hn_url": "https://news.ycombinator.com/item?id=50138889",
+      "source_url": "https://maccus.fr/en/claude-diary-police-arrest/",
+      "image_url": "https://maccus.fr/wp-content/uploads/2026/10/featured-claude-diary-en.jpg",
+      "score": 3,
+      "final_score": 5,
+      "comments": 0,
+      "posted_at": "2026-10-18T07:49:23Z",
+      "summary_ja": "Title: Florida woman uses Claude as her diary. The diary tipped off the FBI\nArticle title: Florida woman uses Claude as her diary. The diary tipped off the FBI. - MACCUS\nDescription: Two messages typed into Claude led to a Florida woman's arrest. Here is who can read your AI chats and when AI companies alert the police.\n\nArticle text:\nFlorida woman uses Claude as her diary. The diary tipped off the FBI. - MACCUS\nSkip to content\nEnglish Français\nMenu\nMenu\nServices\nService Overview\nEVE: Externalised Virtual Employee\nFlorida woman uses Claude as her diary. The diary tipped off the FBI.\nTwo messages typed into Claude led to a Florida woman's arrest. Here is who can read your AI chats and when AI companies alert the police.\nA 30-year-old woman from Bonita Springs, Florida, was arrested at home on September 30, 2026, after two messages she allegedly typed into Claude, Anthropic’s AI assistant,…"
+    },
+    {
+      "rank": 2,
       "hn_id": 50137325,
       "title": "Best Free GPU Cloud Options for AI Startups and Researchers",
       "title_ja": "Best Free GPU Cloud Options for AI Startups and Researchers",
@@ -17,7 +31,7 @@
       "summary_ja": "Title: Best Free GPU Cloud Options for AI Startups and Researchers\nArticle title: Best Free GPU Cloud Options for AI Startups in 2026 Guide\nDescription: Compare the best free GPU cloud options for AI startups, researchers, and developers. Explore notebooks, inference APIs, credits, and grants. Learn more.\n\nArticle text:\nBest Free GPU Cloud Options for AI Startups in 2026 Guide 推論\nログイン 営業にお問い合わせ More Blog Posts X Discord LinkedIn YouTube 製品\n送信することにより、お客様が提供された情報（個人情報を含む場合があります）を当社が収集および使用することについてご理解いただいたものとみなされます。"
     },
     {
-      "rank": 2,
+      "rank": 3,
       "hn_id": 50137246,
       "title": "OpenAI Saudi national bugging case shows threat to U.S. leadership in AI",
       "title_ja": "OpenAI Saudi national bugging case shows threat to U.S. leadership in AI",
@@ -29,6 +43,20 @@
       "comments": 0,
       "posted_at": "2026-10-18T02:20:40Z",
       "summary_ja": "Title: OpenAI Saudi national bugging case shows threat to U.S. leadership in AI\nArticle title: OpenAI bugging case shows threat U.S. AI leadership: Clayton\nDescription: AI \"amplifies\" existing cybersecurity risks toward U.S. digital infrastructure, Clayton said on \"Squawk Box.\"\n\nArticle text:\nOpenAI bugging case shows threat U.S. AI leadership: Clayton Skip Navigation Markets Pre-Markets\nSIGN IN Create free account Markets Business Investing Tech Politics \u0026 Policy Video Watchlist Investing Club PRO Livestream Menu\nOpenAI Saudi national bugging case shows threat to U.S. leadership in AI: DNI Clayton\nU.S. companies and the Trump administration both \"need to be wary\" of AI-related foreign espionage attempts, Director of National Intelligence Jay Clayton told CNBC.\nClayton was asked how concerned Americans should be in light of the recently revealed case charging Saudi national Abdulrahman A…"
+    },
+    {
+      "rank": 4,
+      "hn_id": 50138839,
+      "title": "Show HN: Connecting Captions Local Private AI Interpreter",
+      "title_ja": "Show HN: Connecting Captions Local Private AI Interpreter",
+      "hn_url": "https://news.ycombinator.com/item?id=50138839",
+      "source_url": "https://local-host.ai/connectingCaptions/",
+      "image_url": "https://local-host.ai/images/fluidsubtitles.jpg",
+      "score": 1,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-10-18T07:41:31Z",
+      "summary_ja": "Title: Show HN: Connecting Captions Local Private AI Interpreter\nArticle title: Connecting Captions · local-host.ai\nDescription: On-device live captions on a Mac. Speech and translation stay on the machine. For presentations, bilingual rooms, and any conversation that needs a translation.\nHN text: Hi HN, I built Connecting Captions, a live captioning and translation overlay for macOS that runs entirely on-device. Nothing goes over the network: no API calls, no audio leaving your machine, and it keeps working offline. I wanted live translation I could use in meetings and conversations without worrying about connectivity, latency spikes, or sending sensitive audio to a third party. The technically interesting part is a low-latency, self-correcting pipeline for speech-to-text and translation. It has two modes: Sentence mode: buffers until a sentence boundary, then translates with full conte…"
     }
   ]
 }

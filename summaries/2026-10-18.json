@@ -1,9 +1,37 @@
 {
   "date": "2026-10-18",
-  "generated_at": "2026-10-18T13:01:22Z",
+  "generated_at": "2026-10-18T16:29:18Z",
   "articles": [
     {
       "rank": 1,
+      "hn_id": 50142323,
+      "title": "Torvalds use Claude for bottleneck fix, but race discovered",
+      "title_ja": "Torvalds use Claude for bottleneck fix, but race discovered",
+      "hn_url": "https://news.ycombinator.com/item?id=50142323",
+      "source_url": "https://thenewstack.io/torvalds-claude-code-kernel/",
+      "image_url": "https://cdn.thenewstack.io/media/2026/10/39123855-dorothy-livelo-l1lklun853s-unsplash-scaled.jpg",
+      "score": 4,
+      "final_score": 10,
+      "comments": 0,
+      "posted_at": "2026-10-18T16:08:48Z",
+      "summary_ja": "Title: Torvalds use Claude for bottleneck fix, but race discovered\nArticle title: Linus Torvalds let Claude Code fix the Linux page cache. Then reviewers found a race. - The New Stack\nDescription: Linus Torvalds used Claude Code to build a Linux page cache fix that hit 23x read throughput, but kernel reviewers found a race before anything merged.\n\nArticle text:\nLinus Torvalds let Claude Code fix the Linux page cache. Then reviewers found a race. - The New Stack\nTNS\nOK\nSUBSCRIBE\nJoin our community of software engineering leaders and aspirational developers. Always\nstay in-the-know by getting the most important news and exclusive content delivered\nfresh to your inbox to learn more about at-scale software development.\nEMAIL ADDRESS\nREQUIRED\nSUBSCRIBE\nRESUBSCRIPTION REQUIRED\nIt seems that you've previously unsubscribed from our newsletter\nin the past. Click the button below to open the re-su…"
+    },
+    {
+      "rank": 2,
+      "hn_id": 50142115,
+      "title": "Microsoft drops AI datacentre project in Essex over power supply concerns",
+      "title_ja": "Microsoft drops AI datacentre project in Essex over power supply concerns",
+      "hn_url": "https://news.ycombinator.com/item?id=50142115",
+      "source_url": "https://www.theguardian.com/uk-news/2026/oct/18/microsoft-drops-huge-ai-datacentre-project-in-essex-over-power-supply-concerns",
+      "image_url": "https://i.guim.co.uk/img/media/48d031cc06f5ca17cafd75b0f30a1537d4f35d43/7_0_686_549/master/686.jpg?width=1200\u0026height=630\u0026quality=85\u0026auto=format\u0026fit=crop\u0026precrop=40:21,offset-x50,offset-y0\u0026overlay-align=bottom%2Cleft\u0026overlay-width=100p\u0026overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc\u0026enable=upscale\u0026s=198abd9c18d3a2f274ccdc2e5421505c",
+      "score": 4,
+      "final_score": 8,
+      "comments": 0,
+      "posted_at": "2026-10-18T15:48:32Z",
+      "summary_ja": "Title: Microsoft drops AI datacentre project in Essex over power supply concerns\nArticle title: Microsoft pulls out of AI datacentre project in Essex over power supply concerns | Datacentres - UK | The Guardian\nDescription: Development by UK firm Nscale heralded by ministers as largest of its kind in country loses anchor tenant\n\nArticle text:\nSkip to main content Skip to navigation Close dialogue 1 / 1 Next image Previous image Toggle caption Print subscriptions Newsletters Sign in US US edition\nHide expanded menu News View all News\nSearch input google-search Search\nSearch input google-search Search Search jobs\nAn artist’s impression of Nscale’s planned datacentre in Loughton, Essex. Photograph: Nscale View image in fullscreen An artist’s impression of Nscale’s planned datacentre in Loughton, Essex. Photograph: Nscale Datacentres - UK Microsoft pulls out of AI datacentre project in Essex…"
+    },
+    {
+      "rank": 3,
       "hn_id": 50140329,
       "title": "Agent-bridge – an OpenAI-compatible API for headless coding-agent CLIs",
       "title_ja": "Agent-bridge – an OpenAI-compatible API for headless coding-agent CLIs",
@@ -17,7 +45,7 @@
       "summary_ja": "Title: Agent-bridge – an OpenAI-compatible API for headless coding-agent CLIs\nArticle title: GitHub - R3n3r0/agent-bridge: OpenAI-compatible API server for headless coding-agent CLIs (Claude Code, Codex, Kimi Code). Chat, streaming, tool calling, MCP, sessions and images through any OpenAI SDK. Single Go binary, Docker image with a web login page. Self-hosted. · GitHub\nDescription: OpenAI-compatible API server for headless coding-agent CLIs (Claude Code, Codex, Kimi Code). Chat, streaming, tool calling, MCP, sessions and images through any OpenAI SDK. Single Go binary, Docker image with a web login page. Self-hosted. - R3n3r0/agent-bridge\n\nArticle text:\nGitHub - R3n3r0/agent-bridge: OpenAI-compatible API server for headless coding-agent CLIs (Claude Code, Codex, Kimi Code). Chat, streaming, tool calling, MCP, sessions and images through any OpenAI SDK. Single Go binary, Docker image with…"
     },
     {
-      "rank": 2,
+      "rank": 4,
       "hn_id": 50138889,
       "title": "Florida woman uses Claude as her diary. The diary tipped off the FBI",
       "title_ja": "Florida woman uses Claude as her diary. The diary tipped off the FBI",
@@ -31,7 +59,7 @@
       "summary_ja": "Title: Florida woman uses Claude as her diary. The diary tipped off the FBI\nArticle title: Florida woman uses Claude as her diary. The diary tipped off the FBI. - MACCUS\nDescription: Two messages typed into Claude led to a Florida woman's arrest. Here is who can read your AI chats and when AI companies alert the police.\n\nArticle text:\nFlorida woman uses Claude as her diary. The diary tipped off the FBI. - MACCUS\nSkip to content\nEnglish Français\nMenu\nMenu\nServices\nService Overview\nEVE: Externalised Virtual Employee\nFlorida woman uses Claude as her diary. The diary tipped off the FBI.\nTwo messages typed into Claude led to a Florida woman's arrest. Here is who can read your AI chats and when AI companies alert the police.\nA 30-year-old woman from Bonita Springs, Florida, was arrested at home on September 30, 2026, after two messages she allegedly typed into Claude, Anthropic’s AI assistant,…"
     },
     {
-      "rank": 3,
+      "rank": 5,
       "hn_id": 50140420,
       "title": "How to Make Your Own Flying Car AI Video (Make a Tesla Roadster AI Video)",
       "title_ja": "How to Make Your Own Flying Car AI Video (Make a Tesla Roadster AI Video)",
@@ -45,21 +73,21 @@
       "summary_ja": "Title: How to Make Your Own Flying Car AI Video (Make a Tesla Roadster AI Video)\nArticle title: How to Make a Tesla Roadster AI Flying Car Video(2026)\nDescription: Learn how to make a Tesla Roadster AI flying car video with your own car photo. Follow this simple guide to create realistic AI videos in minutes.\n\nArticle text:\nHow to Make a Tesla Roadster AI Flying Car Video(2026) Roadster AI Home Blog Pricing Blog How to Make a Tesla Roadster AI Flying Car Video(2026) How to Make a Tesla Roadster AI Flying Car Video(2026)\nOct 18, 2026 Table of Contents\n(How Do I Make a Flying Car AI Video?)\nRecently, Tesla unveiled a flying car at a launch event, and it quickly became a viral sensation.\nWhat if we want to make our own car fly just like the one in the launch event video?\nThere's a way to do it. We can use AI to make it happen.\nOpen the Tesla Roadster AI Video Generator: https://roadster-ai.…"
     },
     {
-      "rank": 4,
-      "hn_id": 50137325,
-      "title": "Best Free GPU Cloud Options for AI Startups and Researchers",
-      "title_ja": "Best Free GPU Cloud Options for AI Startups and Researchers",
-      "hn_url": "https://news.ycombinator.com/item?id=50137325",
-      "source_url": "https://www.gmicloud.ai/ja/blog/best-free-gpu-cloud-options-for-ai-startups-and-researchers",
-      "image_url": "https://cdn.prod.website-files.com/6683d8c62e4e62685a8d91c8/6a2a899fd8df279cf1712182_GMI%20Cloud%20-%20Blog%20(35).webp",
-      "score": 1,
-      "final_score": 2,
+      "rank": 6,
+      "hn_id": 50142277,
+      "title": "Show HN: Pi-cowboy – use Codex, Claude Code, OpenCode as subagents",
+      "title_ja": "Show HN: Pi-cowboy – use Codex, Claude Code, OpenCode as subagents",
+      "hn_url": "https://news.ycombinator.com/item?id=50142277",
+      "source_url": "https://github.com/electric-dragon-80000v/pi-cowboy",
+      "image_url": "https://opengraph.githubassets.com/8c8ef74bf7bbeecf5e318d95fda84f6c5123f752533d545e248b1ce2a487bdb1/electric-dragon-80000v/pi-cowboy",
+      "score": 2,
+      "final_score": 4,
       "comments": 0,
-      "posted_at": "2026-10-18T02:35:00Z",
-      "summary_ja": "Title: Best Free GPU Cloud Options for AI Startups and Researchers\nArticle title: Best Free GPU Cloud Options for AI Startups in 2026 Guide\nDescription: Compare the best free GPU cloud options for AI startups, researchers, and developers. Explore notebooks, inference APIs, credits, and grants. Learn more.\n\nArticle text:\nBest Free GPU Cloud Options for AI Startups in 2026 Guide 推論\nログイン 営業にお問い合わせ More Blog Posts X Discord LinkedIn YouTube 製品\n送信することにより、お客様が提供された情報（個人情報を含む場合があります）を当社が収集および使用することについてご理解いただいたものとみなされます。"
+      "posted_at": "2026-10-18T16:04:57Z",
+      "summary_ja": "Title: Show HN: Pi-cowboy – use Codex, Claude Code, OpenCode as subagents\nArticle title: GitHub - electric-dragon-80000v/pi-cowboy: A Herdr-native agent orchestrator for Pi. In addition to Pi itself, it can run Codex, Claude Code, OpenCode, and more as subagents in isolated, copy-on-write Git worktrees. · GitHub\nDescription: A Herdr-native agent orchestrator for Pi. In addition to Pi itself, it can run Codex, Claude Code, OpenCode, and more as subagents in isolated, copy-on-write Git worktrees. - electric-dragon-80000v/pi-cowboy\nHN text: pi-cowboy is an agent orchestrator for Pi( https://pi.dev ) and Herdr( https://github.com/herdrdev/herdr ). Break large jobs into focused subtasks, hand them off to background agents running in parallel, and consolidate the results when they finish. Each agent runs in an isolated copy-on-write Git work-tree, minimising disk overhead. pi-cowboy can orches…"
     },
     {
-      "rank": 5,
+      "rank": 7,
       "hn_id": 50140462,
       "title": "How Far Will AI Assistants Go for a Refund They Can't Get?",
       "title_ja": "How Far Will AI Assistants Go for a Refund They Can't Get?",
@@ -73,7 +101,7 @@
       "summary_ja": "Title: How Far Will AI Assistants Go for a Refund They Can't Get?\nArticle title: How Far Will AI Assistants Go for a Refund They Can’t Get? | Vals AI\nDescription: Six AI assistants pursued an impossible £350 train refund in a simulated world, escalating to government officials, legal clinics and bank chargebacks.\n\nArticle text:\nHow Far Will AI Assistants Go for a Refund They Can’t Get? | Vals AI\nBenchmarks\nHow Far Will AI Assistants Go for a Refund They Can’t Get?\nSpamming the government, using a sick mother as leverage and threatening the small claims court.\nIn 15 simulated days, Grok sent 50 emails to an MP’s office. Fable shared a private family illness with five organisations, and three agents threatened court proceedings.\nWe asked six personal assistant agents to recover a £350 train-ticket refund after the 28-day claim window had closed. They could read the live web and email but a…"
     },
     {
-      "rank": 6,
+      "rank": 8,
       "hn_id": 50140566,
       "title": "How the AI boom might end: 5 scenarios",
       "title_ja": "How the AI boom might end: 5 scenarios",
@@ -87,7 +115,7 @@
       "summary_ja": "Title: How the AI boom might end: 5 scenarios\nArticle title: How the AI boom might really end: 5 scenarios - Martin Alderson\nDescription: With chip stocks on their longest losing streak since 2008 and Anthropic heading for IPO, five ways the AI boom could end - and why I think the value is real but may not flow to the people putting the money in.\n\nArticle text:\nMartin Alderson\nNewsletter\nRSS\nAbout/Contact\nHow the AI boom might really end: 5 scenarios\nWith the Anthropic IPO gathering pace - and chip stocks just posting their longest losing streak since 2008 amid worries about AI debt , I thought it'd be worth writing up some of my thoughts I've put together while thinking through what may happen. By no means is this meant to be exhaustive - just a list of what I think is the most interesting to think through.\nBefore I dive into the scenarios, while I'm sure there are going to be failures…"
     },
     {
-      "rank": 7,
+      "rank": 9,
       "hn_id": 50137246,
       "title": "OpenAI Saudi national bugging case shows threat to U.S. leadership in AI",
       "title_ja": "OpenAI Saudi national bugging case shows threat to U.S. leadership in AI",
@@ -101,7 +129,20 @@
       "summary_ja": "Title: OpenAI Saudi national bugging case shows threat to U.S. leadership in AI\nArticle title: OpenAI bugging case shows threat U.S. AI leadership: Clayton\nDescription: AI \"amplifies\" existing cybersecurity risks toward U.S. digital infrastructure, Clayton said on \"Squawk Box.\"\n\nArticle text:\nOpenAI bugging case shows threat U.S. AI leadership: Clayton Skip Navigation Markets Pre-Markets\nSIGN IN Create free account Markets Business Investing Tech Politics \u0026 Policy Video Watchlist Investing Club PRO Livestream Menu\nOpenAI Saudi national bugging case shows threat to U.S. leadership in AI: DNI Clayton\nU.S. companies and the Trump administration both \"need to be wary\" of AI-related foreign espionage attempts, Director of National Intelligence Jay Clayton told CNBC.\nClayton was asked how concerned Americans should be in light of the recently revealed case charging Saudi national Abdulrahman A…"
     },
     {
-      "rank": 8,
+      "rank": 10,
+      "hn_id": 50142310,
+      "title": "Replacing an LLM judge with a deterministic model: 9.2x faster, 4.5x cheaper",
+      "title_ja": "Replacing an LLM judge with a deterministic model: 9.2x faster, 4.5x cheaper",
+      "hn_url": "https://news.ycombinator.com/item?id=50142310",
+      "source_url": "https://medium.com/@gbenga-awodokun/building-clinical-ai-agents-with-langchain-and-jev-decision-healthcare-trustworthy-ai-lab-v2-1b81e271f1c9",
+      "score": 2,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-10-18T16:07:52Z",
+      "summary_ja": "Title: Replacing an LLM judge with a deterministic model: 9.2x faster, 4.5x cheaper"
+    },
+    {
+      "rank": 11,
       "hn_id": 50138839,
       "title": "Show HN: Connecting Captions Local Private AI Interpreter",
       "title_ja": "Show HN: Connecting Captions Local Private AI Interpreter",
@@ -115,7 +156,34 @@
       "summary_ja": "Title: Show HN: Connecting Captions Local Private AI Interpreter\nArticle title: Connecting Captions · local-host.ai\nDescription: On-device live captions on a Mac. Speech and translation stay on the machine. For presentations, bilingual rooms, and any conversation that needs a translation.\nHN text: Hi HN, I built Connecting Captions, a live captioning and translation overlay for macOS that runs entirely on-device. Nothing goes over the network: no API calls, no audio leaving your machine, and it keeps working offline. I wanted live translation I could use in meetings and conversations without worrying about connectivity, latency spikes, or sending sensitive audio to a third party. The technically interesting part is a low-latency, self-correcting pipeline for speech-to-text and translation. It has two modes: Sentence mode: buffers until a sentence boundary, then translates with full conte…"
     },
     {
-      "rank": 9,
+      "rank": 12,
+      "hn_id": 50142192,
+      "title": "AI-Assisted Product Discovery: When Code Is Cheap, Judgment Is the Job",
+      "title_ja": "AI-Assisted Product Discovery: When Code Is Cheap, Judgment Is the Job",
+      "hn_url": "https://news.ycombinator.com/item?id=50142192",
+      "source_url": "https://age-of-product.com/ai-assisted-product-discovery/",
+      "score": 2,
+      "final_score": 2,
+      "comments": 1,
+      "posted_at": "2026-10-18T15:55:35Z",
+      "summary_ja": "Title: AI-Assisted Product Discovery: When Code Is Cheap, Judgment Is the Job"
+    },
+    {
+      "rank": 13,
+      "hn_id": 50137325,
+      "title": "Best Free GPU Cloud Options for AI Startups and Researchers",
+      "title_ja": "Best Free GPU Cloud Options for AI Startups and Researchers",
+      "hn_url": "https://news.ycombinator.com/item?id=50137325",
+      "source_url": "https://www.gmicloud.ai/ja/blog/best-free-gpu-cloud-options-for-ai-startups-and-researchers",
+      "image_url": "https://cdn.prod.website-files.com/6683d8c62e4e62685a8d91c8/6a2a899fd8df279cf1712182_GMI%20Cloud%20-%20Blog%20(35).webp",
+      "score": 1,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-10-18T02:35:00Z",
+      "summary_ja": "Title: Best Free GPU Cloud Options for AI Startups and Researchers\nArticle title: Best Free GPU Cloud Options for AI Startups in 2026 Guide\nDescription: Compare the best free GPU cloud options for AI startups, researchers, and developers. Explore notebooks, inference APIs, credits, and grants. Learn more.\n\nArticle text:\nBest Free GPU Cloud Options for AI Startups in 2026 Guide 推論\nログイン 営業にお問い合わせ More Blog Posts X Discord LinkedIn YouTube 製品\n送信することにより、お客様が提供された情報（個人情報を含む場合があります）を当社が収集および使用することについてご理解いただいたものとみなされます。"
+    },
+    {
+      "rank": 14,
       "hn_id": 50140542,
       "title": "Uh filter Claude Code plugin",
       "title_ja": "Uh filter Claude Code plugin",
@@ -129,7 +197,7 @@
       "summary_ja": "Title: Uh filter Claude Code plugin\nArticle title: GitHub - amirzak/claude-code-voice-uh-filter: Claude Code mod that strips spoken filler words (uh, um, mm) from voice-dictated prompts · GitHub\nDescription: Claude Code mod that strips spoken filler words (uh, um, mm) from voice-dictated prompts - amirzak/claude-code-voice-uh-filter\n\nArticle text:\nGitHub - amirzak/claude-code-voice-uh-filter: Claude Code mod that strips spoken filler words (uh, um, mm) from voice-dictated prompts · GitHub\nSkip to content\nNavigation Menu\nSign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI\nGitHub Copilot app Direct agents from issue to merge\nMCP Registry Integrate external tools\nDEVELOPER WORKFLOWS Actions Automate any workflow\nCodespaces Instant dev environments\nCode Review Manage code changes\nCode Quality Enforce quality at merge\nAPPLICATION SECURITY GitHub Adva…"
     },
     {
-      "rank": 10,
+      "rank": 15,
       "hn_id": 50140560,
       "title": "Show HN: Independent LLM benchmark index tracking 22 frontier models",
       "title_ja": "Show HN: Independent LLM benchmark index tracking 22 frontier models",
@@ -140,6 +208,32 @@
       "comments": 0,
       "posted_at": "2026-10-18T12:36:53Z",
       "summary_ja": "Title: Show HN: Independent LLM benchmark index tracking 22 frontier models\nArticle title: AI Models\nDescription: Live 2026 AI coding model leaderboard. Compare models on SWE-bench Verified, GPQA Diamond, and HLE scores weighted by cost and throughput.\n\nArticle text:\nAI Models\nSkip to Content\nNews\nSubscribe\nHome\n/\nRankings \u0026 Benchmarks\nLIVE TELEMETRY • FRONTIER LLM BENCHMARKS\nAI Coding Benchmarks \u0026 Rankings Leaderboard\nEmpirical evaluations measuring coding proficiency, reasoning benchmarks (GPQA, SWE-bench Verified, HLE), and real-time value-for-money ($/point) metrics.\nArtificial Analysis Intelligence Index • Higher is better\nGPT-6 Astra (max) Benchmarks, Price \u0026 Specs (Oct 2026): 55 (OpenAI)\n55\nO\nGPT-6 Astra (m..\nClaude Fable 5.1 (max with fallback): 53 (Anthropic)\n53\nA\nClaude Fable 5..\nClaude Opus 5 (max) Benchmarks, Price \u0026 Specs (Oct 2026): 53 (Anthropic)\n53\nA\nClaude Opus 5 ..\nMuse…"
+    },
+    {
+      "rank": 16,
+      "hn_id": 50142478,
+      "title": "Vertick – built with DominoKit and agentic AI",
+      "title_ja": "Vertick – built with DominoKit and agentic AI",
+      "hn_url": "https://news.ycombinator.com/item?id=50142478",
+      "source_url": "https://dominokit.com/vertick/",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-10-18T16:23:10Z",
+      "summary_ja": "Title: Vertick – built with DominoKit and agentic AI\nArticle title: Vertick\n\nArticle text:\nVertick"
+    },
+    {
+      "rank": 17,
+      "hn_id": 50142494,
+      "title": "Would you switch credit cards for your rewards on your AI spend?",
+      "title_ja": "Would you switch credit cards for your rewards on your AI spend?",
+      "hn_url": "https://news.ycombinator.com/item?id=50142494",
+      "source_url": "",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-10-18T16:24:42Z",
+      "summary_ja": "Title: Would you switch credit cards for your rewards on your AI spend?\nHN text: currently exploring a \"bilt for AI spend\": a card that earns rewards on your AI token bills that you can redeem on sandbox, infra, compute, etc. if you spend heavily on tokens, would this make you switch cards?"
     }
   ]
 }

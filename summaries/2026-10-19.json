@@ -1,6 +1,6 @@
 {
   "date": "2026-10-19",
-  "generated_at": "2026-10-19T00:52:35Z",
+  "generated_at": "2026-10-19T05:48:05Z",
   "articles": [
     {
       "rank": 1,
@@ -17,6 +17,33 @@
     },
     {
       "rank": 2,
+      "hn_id": 50148574,
+      "title": "Air: A Python web framework designed for AI to write",
+      "title_ja": "Air: A Python web framework designed for AI to write",
+      "hn_url": "https://news.ycombinator.com/item?id=50148574",
+      "source_url": "https://airwebframework.org/",
+      "image_url": "https://airwebframework.org/static/og-image.png",
+      "score": 1,
+      "final_score": 2,
+      "comments": 1,
+      "posted_at": "2026-10-19T05:05:22Z",
+      "summary_ja": "Title: Air: A Python web framework designed for AI to write\nArticle title: Air: The AI-First Python Web Framework\nDescription: Air is a Python web framework designed for AI to write. HTML as Python, HTMX built-in, one file to production.\n\nArticle text:\nGet Started\nStar on GitHub\nJoin Discord\nAI-First · Human-Writable · Python\nThe first web framework designed for AI to write.\nEvery framework claims AI compatibility. Air was architected for it. Semantic, minimalist, readable enough to write by hand.\nYou prompt your AI: \"Build me a web app with a contact form.\"\nIt generates React. Now you're reviewing webpack configs, npm dependencies, hydration logic, state management. For a contact form.\nAir is different. One file in, one file out. The AI generates less, you review less, and it runs in minutes.\nOur engineering decisions center around making AI generate better code.\nEvery function has clea…"
+    },
+    {
+      "rank": 3,
+      "hn_id": 50148666,
+      "title": "I made a combined snake-tron game using free AI",
+      "title_ja": "I made a combined snake-tron game using free AI",
+      "hn_url": "https://news.ycombinator.com/item?id=50148666",
+      "source_url": "https://steeltoe777.github.io/snakegame/",
+      "score": 2,
+      "final_score": 2,
+      "comments": 1,
+      "posted_at": "2026-10-19T05:21:48Z",
+      "summary_ja": "Title: I made a combined snake-tron game using free AI\nArticle title: Snake, Tron, Pac-Man Hybrid\n\nArticle text:\nSnake, Tron, Pac-Man Hybrid\nSnake, Tron, Pac-Man Hybrid\nScore: 0\nLevel: 1\nPassword: LOADING\nGame Over!\nScore: 0\nPress OK to restart"
+    },
+    {
+      "rank": 4,
       "hn_id": 50147061,
       "title": "Reliable web access for AI agents and automation workflows",
       "title_ja": "Reliable web access for AI agents and automation workflows",
@@ -30,7 +57,7 @@
       "summary_ja": "Title: Reliable web access for AI agents and automation workflows\nArticle title: Nina Technologies | Web access for AI agents\nDescription: Nina Technologies designs, builds, and maintains reliable web access for AI agents, with custom Chromium engineering and production operations.\n\nArticle text:\nNina Technologies\nBrowser infrastructure Custom Chromium Engineering\nStart a project ↗\nGive your AI agents a web they can use.\nWe design, build, and maintain web access for AI agents. Your agents can get through bot checks, CAPTCHAs, and complex sign-ins, then finish the tasks your product depends on.\nCustom Chromium engineering, real-device testing, and production operations, built around your targets and workflows.\nPrefer email? [email protected]\nBuilt for the systems that stop agents.\nWe engineer against the checks used on difficult production websites. Open a name to see the kind of work inv…"
     },
     {
-      "rank": 3,
+      "rank": 5,
       "hn_id": 50147051,
       "title": "Don't filter your email based on AI detection",
       "title_ja": "Don't filter your email based on AI detection",
@@ -44,7 +71,7 @@
       "summary_ja": "Title: Don't filter your email based on AI detection\nArticle title: Don’t filter your email based on AI detection\nDescription: Pangram’s Gmail integration invites you to treat AI-assisted writing as spam\n\nArticle text:\nDon’t filter your email based on AI detection\nKeyvan’s blog\nSubscribe Sign in Don’t filter your email based on AI detection\nPangram’s Gmail integration invites you to treat AI-assisted writing as spam\nShare In August I wrote about why I think AI detectors in general are a bad idea : a positive detection tells you almost nothing about the human effort that went into the work being flagged. And yet, I wrote, AI detectors are being used “almost like spam filters”.\nWell, less than a month after that post, Pangram, one of the leading AI detectors, released a Gmail integration. Let’s put aside, for now, the privacy implications of sending all your incoming email to a third-party…"
     },
     {
-      "rank": 4,
+      "rank": 6,
       "hn_id": 50146910,
       "title": "Show HN: A free MCP server for facts LLMs get wrong (time zones, holidays, FX)",
       "title_ja": "Show HN: A free MCP server for facts LLMs get wrong (time zones, holidays, FX)",

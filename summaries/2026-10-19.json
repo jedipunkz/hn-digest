@@ -1,9 +1,23 @@
 {
   "date": "2026-10-19",
-  "generated_at": "2026-10-19T05:48:05Z",
+  "generated_at": "2026-10-19T12:20:16Z",
   "articles": [
     {
       "rank": 1,
+      "hn_id": 50151080,
+      "title": "AI firm Anthropic to commit 5% of shares to fund for 'public good'",
+      "title_ja": "AI firm Anthropic to commit 5% of shares to fund for 'public good'",
+      "hn_url": "https://news.ycombinator.com/item?id=50151080",
+      "source_url": "https://www.theguardian.com/technology/2026/oct/19/ai-firm-anthropic-to-commit-shares-to-fund-for-public-good",
+      "image_url": "https://i.guim.co.uk/img/media/2790d74966de266025ee31e1975f1f2ce9024d36/387_0_2915_2333/master/2915.jpg?width=1200\u0026height=630\u0026quality=85\u0026auto=format\u0026fit=crop\u0026precrop=40:21,offset-x50,offset-y0\u0026overlay-align=bottom%2Cleft\u0026overlay-width=100p\u0026overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc\u0026enable=upscale\u0026s=48e0c0b3f31f3e732735bceacf9a8133",
+      "score": 5,
+      "final_score": 6,
+      "comments": 2,
+      "posted_at": "2026-10-19T11:31:19Z",
+      "summary_ja": "Title: AI firm Anthropic to commit 5% of shares to fund for 'public good'\nArticle title: AI firm Anthropic to commit 5% of shares to fund for ‘public good’ | Anthropic | The Guardian\nDescription: The $48bn giveaway comes amid concerns about the tech and preparations for a stock market listing\n\nArticle text:\nSkip to main content Skip to navigation Close dialogue 1 / 2 Next image Previous image Toggle caption Print subscriptions Newsletters Sign in US US edition\nHide expanded menu News View all News\nSearch input google-search Search\nSearch input google-search Search Search jobs\nAnthropic was valued at $965bn in May when it raised $65bn in a funding round. Photograph: Dado Ruvić/Reuters View image in fullscreen Anthropic was valued at $965bn in May when it raised $65bn in a funding round. Photograph: Dado Ruvić/Reuters Anthropic AI firm Anthropic to commit 5% of shares to fund for ‘public g…"
+    },
+    {
+      "rank": 2,
       "hn_id": 50146876,
       "title": "The AI industry's gigantic debts are making investors nervous",
       "title_ja": "The AI industry's gigantic debts are making investors nervous",
@@ -16,21 +30,88 @@
       "summary_ja": "Title: The AI industry's gigantic debts are making investors nervous"
     },
     {
-      "rank": 2,
-      "hn_id": 50148574,
-      "title": "Air: A Python web framework designed for AI to write",
-      "title_ja": "Air: A Python web framework designed for AI to write",
-      "hn_url": "https://news.ycombinator.com/item?id=50148574",
-      "source_url": "https://airwebframework.org/",
-      "image_url": "https://airwebframework.org/static/og-image.png",
-      "score": 1,
-      "final_score": 2,
-      "comments": 1,
-      "posted_at": "2026-10-19T05:05:22Z",
-      "summary_ja": "Title: Air: A Python web framework designed for AI to write\nArticle title: Air: The AI-First Python Web Framework\nDescription: Air is a Python web framework designed for AI to write. HTML as Python, HTMX built-in, one file to production.\n\nArticle text:\nGet Started\nStar on GitHub\nJoin Discord\nAI-First · Human-Writable · Python\nThe first web framework designed for AI to write.\nEvery framework claims AI compatibility. Air was architected for it. Semantic, minimalist, readable enough to write by hand.\nYou prompt your AI: \"Build me a web app with a contact form.\"\nIt generates React. Now you're reviewing webpack configs, npm dependencies, hydration logic, state management. For a contact form.\nAir is different. One file in, one file out. The AI generates less, you review less, and it runs in minutes.\nOur engineering decisions center around making AI generate better code.\nEvery function has clea…"
+      "rank": 3,
+      "hn_id": 50151262,
+      "title": "Did Karl Marx Predict Artificial Intelligence 170 Years Ago?",
+      "title_ja": "Did Karl Marx Predict Artificial Intelligence 170 Years Ago?",
+      "hn_url": "https://news.ycombinator.com/item?id=50151262",
+      "source_url": "https://medium.com/@MichaelMcBride/did-karl-marx-predict-artificial-intelligence-170-years-ago-4fd7c23505ef",
+      "score": 4,
+      "final_score": 5,
+      "comments": 0,
+      "posted_at": "2026-10-19T11:53:56Z",
+      "summary_ja": "Title: Did Karl Marx Predict Artificial Intelligence 170 Years Ago?"
     },
     {
-      "rank": 3,
+      "rank": 4,
+      "hn_id": 50151207,
+      "title": "AI native Requirements, design and simulations",
+      "title_ja": "AI native Requirements, design and simulations",
+      "hn_url": "https://news.ycombinator.com/item?id=50151207",
+      "source_url": "https://www.meltred.com/",
+      "image_url": "https://www.meltred.com/assets/og.jpg",
+      "score": 2,
+      "final_score": 4,
+      "comments": 0,
+      "posted_at": "2026-10-19T11:45:59Z",
+      "summary_ja": "Title: AI native Requirements, design and simulations\nArticle title: Meltred: AI native computational engineering models\nDescription: AI native computational engineering models. Write the requirements; get the design and its structural, thermal and CFD simulations.\n\nArticle text:\nMeltred\nPlatform Design space Simulation Documentation Outputs\nOpen Meltred\nAI native Requirements, design and simulation.\nWrite what the part must do. Meltred builds the computational model, designs the part and simulates it.\nFrom requirements to a verified design.\nComputational engineering models turn requirements into geometry, then test it in simulation.\nOne model. The whole design space.\nChange a requirement. The model regenerates the geometry, sizes it and checks every limit.\nMultiphysics verification on every build.\nSupports, loads and mesh come from the model. No manual setup.\nVerified against analytical…"
+    },
+    {
+      "rank": 5,
+      "hn_id": 50151294,
+      "title": "Introducing The Anthropic Cyber Mission",
+      "title_ja": "Introducing The Anthropic Cyber Mission",
+      "hn_url": "https://news.ycombinator.com/item?id=50151294",
+      "source_url": "https://www.anthropic.com/news/anthropic-cyber-mission",
+      "image_url": "https://www-cdn.anthropic.com/images/4zrzovbb/website/d2af4f6715cbe9766a47430a24420cfca0a2c588-1200x630.jpg",
+      "score": 2,
+      "final_score": 4,
+      "comments": 0,
+      "posted_at": "2026-10-19T11:57:20Z",
+      "summary_ja": "Title: Introducing The Anthropic Cyber Mission\nArticle title: Introducing the Anthropic Cyber Mission \\ Anthropic\nDescription: Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.\n\nArticle text:\nIntroducing the Anthropic Cyber Mission \\ Anthropic Skip to main content Skip to footer Research\nAnnouncements Introducing the Anthropic Cyber Mission\nToday we’re launching the Anthropic Cyber Mission, a long-term commitment to securing the systems everyone depends on. The Cyber Mission is a new effort to support defenders with tools, research, and resources to secure their software and systems. We’re starting with two areas:\nCritical infrastructure: Starting with securing the operational technology behind power grids, water systems, and transportation networks, and protecting government systems. Today, we’re introducing the Cri…"
+    },
+    {
+      "rank": 6,
+      "hn_id": 50151390,
+      "title": "Harness Engineering 101: The LLM is the brain, the harness is the body",
+      "title_ja": "Harness Engineering 101: The LLM is the brain, the harness is the body",
+      "hn_url": "https://news.ycombinator.com/item?id=50151390",
+      "source_url": "https://github.com/IsuruMaduranga/harness-engineering-101",
+      "image_url": "https://opengraph.githubassets.com/0e4bd36c2232d995526dfe575042e5ed2c518ff4278a342418626de86101a6fe/IsuruMaduranga/harness-engineering-101",
+      "score": 2,
+      "final_score": 4,
+      "comments": 0,
+      "posted_at": "2026-10-19T12:07:41Z",
+      "summary_ja": "Title: Harness Engineering 101: The LLM is the brain, the harness is the body\nArticle title: GitHub - IsuruMaduranga/harness-engineering-101: Harness Engineering 101 — building AI agents from first principles. The LLM is the brain; the harness is the body. · GitHub\nDescription: Harness Engineering 101 — building AI agents from first principles. The LLM is the brain; the harness is the body. - IsuruMaduranga/harness-engineering-101\n\nArticle text:\nGitHub - IsuruMaduranga/harness-engineering-101: Harness Engineering 101 — building AI agents from first principles. The LLM is the brain; the harness is the body. · GitHub\nSkip to content\nNavigation Menu\nSign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI\nGitHub Copilot app Direct agents from issue to merge\nMCP Registry Integrate external tools\nDEVELOPER WORKFLOWS Actions Automate any workflow\nCodespace…"
+    },
+    {
+      "rank": 7,
+      "hn_id": 50151036,
+      "title": "Ask HN: How to deal with shipping AI-written code you don't understand?",
+      "title_ja": "Ask HN: How to deal with shipping AI-written code you don't understand?",
+      "hn_url": "https://news.ycombinator.com/item?id=50151036",
+      "source_url": "",
+      "score": 3,
+      "final_score": 3,
+      "comments": 9,
+      "posted_at": "2026-10-19T11:24:34Z",
+      "summary_ja": "Title: Ask HN: How to deal with shipping AI-written code you don't understand?\nHN text: I saw this LinkedIn post from a Meta engineer and it resonated with me: https://www.linkedin.com/posts/ali-hamie_im-an-engineer-at-meta-and-i-never-felt-share-7517317918666211328-7C8N \u003e I'm an engineer at Meta and I never felt this uncomfortable doing my job. I'm writing code these days and it all feels like a black box. This new standard of shipping with AI is moving so fast that if we're going to spend our time checking each line of code, it's going to take forever. That means you can end up with systems you've built where you don't truly understand how all the code works. You understand the high level, but not every detail. And maybe this is becoming the new standard. It goes against every instinct of being a software engineer. I'm used to understanding what I'm building. Now I'm trying to figure o…"
+    },
+    {
+      "rank": 8,
+      "hn_id": 50151084,
+      "title": "It Turns Out the Only Thing People Like Less Than AI Is Paying for Adobe",
+      "title_ja": "It Turns Out the Only Thing People Like Less Than AI Is Paying for Adobe",
+      "hn_url": "https://news.ycombinator.com/item?id=50151084",
+      "source_url": "https://www.inc.com/jason-aten/it-turns-out-the-only-thing-people-like-less-than-ai-is-paying-for-adobe-creative-cloud/91418566",
+      "score": 3,
+      "final_score": 3,
+      "comments": 0,
+      "posted_at": "2026-10-19T11:31:58Z",
+      "summary_ja": "Title: It Turns Out the Only Thing People Like Less Than AI Is Paying for Adobe"
+    },
+    {
+      "rank": 9,
       "hn_id": 50148666,
       "title": "I made a combined snake-tron game using free AI",
       "title_ja": "I made a combined snake-tron game using free AI",
@@ -43,7 +124,21 @@
       "summary_ja": "Title: I made a combined snake-tron game using free AI\nArticle title: Snake, Tron, Pac-Man Hybrid\n\nArticle text:\nSnake, Tron, Pac-Man Hybrid\nSnake, Tron, Pac-Man Hybrid\nScore: 0\nLevel: 1\nPassword: LOADING\nGame Over!\nScore: 0\nPress OK to restart"
     },
     {
-      "rank": 4,
+      "rank": 10,
+      "hn_id": 50151038,
+      "title": "Britain should reject the lure of cheap – and scary – Chinese AI",
+      "title_ja": "Britain should reject the lure of cheap – and scary – Chinese AI",
+      "hn_url": "https://news.ycombinator.com/item?id=50151038",
+      "source_url": "https://www.theguardian.com/business/2026/oct/17/why-britain-should-reject-the-lure-of-cheap-and-scary-chinese-ai",
+      "image_url": "https://i.guim.co.uk/img/media/ed76515ea4f9df6a0b170674679392f87ba2c9ea/531_0_4025_3221/master/4025.jpg?width=1200\u0026height=630\u0026quality=85\u0026auto=format\u0026fit=crop\u0026precrop=40:21,offset-x50,offset-y0\u0026overlay-align=bottom%2Cleft\u0026overlay-width=100p\u0026overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n\u0026enable=upscale\u0026s=bea7034fe848cc65a8e4000cb82b0850",
+      "score": 2,
+      "final_score": 2,
+      "comments": 1,
+      "posted_at": "2026-10-19T11:25:18Z",
+      "summary_ja": "Title: Britain should reject the lure of cheap – and scary – Chinese AI\nArticle title: Why Britain should reject the lure of cheap – and scary – Chinese AI | Phillip Inman | The Guardian\nDescription: In the west the technology comes with at least some effort to provide security and a benign intent – not so from China\n\nArticle text:\nSkip to main content Skip to navigation Close dialogue 1 / 1 Next image Previous image Toggle caption Print subscriptions Newsletters Sign in US US edition\nHide expanded menu News View all News\nSearch input google-search Search\nSearch input google-search Search Search jobs\nDiversity \u0026 equality in business\nModels such as DeepSeek allow users to take the core software and use it without paying an expensive ongoing licence. Photograph: GK Images/Alamy View image in fullscreen Models such as DeepSeek allow users to take the core software and use it without paying…"
+    },
+    {
+      "rank": 11,
       "hn_id": 50147061,
       "title": "Reliable web access for AI agents and automation workflows",
       "title_ja": "Reliable web access for AI agents and automation workflows",
@@ -57,7 +152,34 @@
       "summary_ja": "Title: Reliable web access for AI agents and automation workflows\nArticle title: Nina Technologies | Web access for AI agents\nDescription: Nina Technologies designs, builds, and maintains reliable web access for AI agents, with custom Chromium engineering and production operations.\n\nArticle text:\nNina Technologies\nBrowser infrastructure Custom Chromium Engineering\nStart a project ↗\nGive your AI agents a web they can use.\nWe design, build, and maintain web access for AI agents. Your agents can get through bot checks, CAPTCHAs, and complex sign-ins, then finish the tasks your product depends on.\nCustom Chromium engineering, real-device testing, and production operations, built around your targets and workflows.\nPrefer email? [email protected]\nBuilt for the systems that stop agents.\nWe engineer against the checks used on difficult production websites. Open a name to see the kind of work inv…"
     },
     {
-      "rank": 5,
+      "rank": 12,
+      "hn_id": 50148574,
+      "title": "Air: A Python web framework designed for AI to write",
+      "title_ja": "Air: A Python web framework designed for AI to write",
+      "hn_url": "https://news.ycombinator.com/item?id=50148574",
+      "source_url": "https://airwebframework.org/",
+      "image_url": "https://airwebframework.org/static/og-image.png",
+      "score": 1,
+      "final_score": 2,
+      "comments": 1,
+      "posted_at": "2026-10-19T05:05:22Z",
+      "summary_ja": "Title: Air: A Python web framework designed for AI to write\nArticle title: Air: The AI-First Python Web Framework\nDescription: Air is a Python web framework designed for AI to write. HTML as Python, HTMX built-in, one file to production.\n\nArticle text:\nGet Started\nStar on GitHub\nJoin Discord\nAI-First · Human-Writable · Python\nThe first web framework designed for AI to write.\nEvery framework claims AI compatibility. Air was architected for it. Semantic, minimalist, readable enough to write by hand.\nYou prompt your AI: \"Build me a web app with a contact form.\"\nIt generates React. Now you're reviewing webpack configs, npm dependencies, hydration logic, state management. For a contact form.\nAir is different. One file in, one file out. The AI generates less, you review less, and it runs in minutes.\nOur engineering decisions center around making AI generate better code.\nEvery function has clea…"
+    },
+    {
+      "rank": 13,
+      "hn_id": 50151376,
+      "title": "What to Know About the Obscure Trust Looming over Anthropic's IPO",
+      "title_ja": "What to Know About the Obscure Trust Looming over Anthropic's IPO",
+      "hn_url": "https://news.ycombinator.com/item?id=50151376",
+      "source_url": "https://www.wsj.com/tech/ai/anthropic-ipo-private-trust-188f41f7",
+      "score": 2,
+      "final_score": 2,
+      "comments": 2,
+      "posted_at": "2026-10-19T12:06:03Z",
+      "summary_ja": "Title: What to Know About the Obscure Trust Looming over Anthropic's IPO"
+    },
+    {
+      "rank": 14,
       "hn_id": 50147051,
       "title": "Don't filter your email based on AI detection",
       "title_ja": "Don't filter your email based on AI detection",
@@ -71,7 +193,7 @@
       "summary_ja": "Title: Don't filter your email based on AI detection\nArticle title: Don’t filter your email based on AI detection\nDescription: Pangram’s Gmail integration invites you to treat AI-assisted writing as spam\n\nArticle text:\nDon’t filter your email based on AI detection\nKeyvan’s blog\nSubscribe Sign in Don’t filter your email based on AI detection\nPangram’s Gmail integration invites you to treat AI-assisted writing as spam\nShare In August I wrote about why I think AI detectors in general are a bad idea : a positive detection tells you almost nothing about the human effort that went into the work being flagged. And yet, I wrote, AI detectors are being used “almost like spam filters”.\nWell, less than a month after that post, Pangram, one of the leading AI detectors, released a Gmail integration. Let’s put aside, for now, the privacy implications of sending all your incoming email to a third-party…"
     },
     {
-      "rank": 6,
+      "rank": 15,
       "hn_id": 50146910,
       "title": "Show HN: A free MCP server for facts LLMs get wrong (time zones, holidays, FX)",
       "title_ja": "Show HN: A free MCP server for facts LLMs get wrong (time zones, holidays, FX)",
@@ -83,6 +205,20 @@
       "comments": 0,
       "posted_at": "2026-10-19T00:20:09Z",
       "summary_ja": "Title: Show HN: A free MCP server for facts LLMs get wrong (time zones, holidays, FX)\nArticle title: MCP Servers for AI Agents: Claude, ChatGPT and Cursor | APIStack\nDescription: Give your AI agent reliable tools through Model Context Protocol servers: date math, validation, finance calculators, DNS lookups and more.\n\nArticle text:\nMCP Servers for AI Agents: Claude, ChatGPT and Cursor | APIStack APIStack Open main menu Try Free Tools MCP Playground Pricing Docs MCP Servers\nGive AI agents like Claude, ChatGPT and Cursor exact, deterministic tools through the Model Context Protocol\nNo sign-up needed · 50 free calls a day\nFacts and checks for your agent\n16 focused tools for questions agents should not answer from memory: the current time, holidays and working days, exchange rates, VAT and IBAN checks, company lookups, link safety, sanctions screening and more. Add the URL and it works right…"
+    },
+    {
+      "rank": 16,
+      "hn_id": 50151466,
+      "title": "Show HN: Marcus – catches the fake source links AI search engines invent",
+      "title_ja": "Show HN: Marcus – catches the fake source links AI search engines invent",
+      "hn_url": "https://news.ycombinator.com/item?id=50151466",
+      "source_url": "https://marcus-ai.dev/on-the-record/",
+      "image_url": "https://marcus-ai.dev/on-the-record/seven-to-zero.png",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-10-19T12:15:26Z",
+      "summary_ja": "Title: Show HN: Marcus – catches the fake source links AI search engines invent\nArticle title: The Receipts\nDescription: A preregistered replication of Columbia\n\nArticle text:\nON THE RECORD\nPut it on the record →\nStar\nOn the Record File № 737 · Oct 2026\nA Marcus field report\nThe AI handed you a source. We clicked it.\nMarcus is open-source software that makes AI agents prove their work before anyone has to trust it. This file is what happened when we pointed it at one hard, measurable problem: whether AI search engines cite real sources.\nBy Lawrence Gray, PhD, Gray Labs, who built Marcus. The dataset, the grader, and every audit record shown here are public, so you do not have to take my word for any of it.\nWe gave four AI search engines a sentence from each of 200 real news articles and\nasked the same question every time: which article is this from? That produced 800 citations:\nheadline,…"
     }
   ]
 }

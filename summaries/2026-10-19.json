@@ -1,6 +1,6 @@
 {
   "date": "2026-10-19",
-  "generated_at": "2026-10-19T12:20:16Z",
+  "generated_at": "2026-10-19T19:04:52Z",
   "articles": [
     {
       "rank": 1,
@@ -18,19 +18,6 @@
     },
     {
       "rank": 2,
-      "hn_id": 50146876,
-      "title": "The AI industry's gigantic debts are making investors nervous",
-      "title_ja": "The AI industry's gigantic debts are making investors nervous",
-      "hn_url": "https://news.ycombinator.com/item?id=50146876",
-      "source_url": "https://www.economist.com/business/2026/10/18/the-ai-industrys-gigantic-debts-are-making-investors-nervous",
-      "score": 4,
-      "final_score": 5,
-      "comments": 1,
-      "posted_at": "2026-10-19T00:15:54Z",
-      "summary_ja": "Title: The AI industry's gigantic debts are making investors nervous"
-    },
-    {
-      "rank": 3,
       "hn_id": 50151262,
       "title": "Did Karl Marx Predict Artificial Intelligence 170 Years Ago?",
       "title_ja": "Did Karl Marx Predict Artificial Intelligence 170 Years Ago?",
@@ -43,21 +30,20 @@
       "summary_ja": "Title: Did Karl Marx Predict Artificial Intelligence 170 Years Ago?"
     },
     {
-      "rank": 4,
-      "hn_id": 50151207,
-      "title": "AI native Requirements, design and simulations",
-      "title_ja": "AI native Requirements, design and simulations",
-      "hn_url": "https://news.ycombinator.com/item?id=50151207",
-      "source_url": "https://www.meltred.com/",
-      "image_url": "https://www.meltred.com/assets/og.jpg",
-      "score": 2,
-      "final_score": 4,
-      "comments": 0,
-      "posted_at": "2026-10-19T11:45:59Z",
-      "summary_ja": "Title: AI native Requirements, design and simulations\nArticle title: Meltred: AI native computational engineering models\nDescription: AI native computational engineering models. Write the requirements; get the design and its structural, thermal and CFD simulations.\n\nArticle text:\nMeltred\nPlatform Design space Simulation Documentation Outputs\nOpen Meltred\nAI native Requirements, design and simulation.\nWrite what the part must do. Meltred builds the computational model, designs the part and simulates it.\nFrom requirements to a verified design.\nComputational engineering models turn requirements into geometry, then test it in simulation.\nOne model. The whole design space.\nChange a requirement. The model regenerates the geometry, sizes it and checks every limit.\nMultiphysics verification on every build.\nSupports, loads and mesh come from the model. No manual setup.\nVerified against analytical…"
+      "rank": 3,
+      "hn_id": 50146876,
+      "title": "The AI industry's gigantic debts are making investors nervous",
+      "title_ja": "The AI industry's gigantic debts are making investors nervous",
+      "hn_url": "https://news.ycombinator.com/item?id=50146876",
+      "source_url": "https://www.economist.com/business/2026/10/18/the-ai-industrys-gigantic-debts-are-making-investors-nervous",
+      "score": 4,
+      "final_score": 5,
+      "comments": 1,
+      "posted_at": "2026-10-19T00:15:54Z",
+      "summary_ja": "Title: The AI industry's gigantic debts are making investors nervous"
     },
     {
-      "rank": 5,
+      "rank": 4,
       "hn_id": 50151294,
       "title": "Introducing The Anthropic Cyber Mission",
       "title_ja": "Introducing The Anthropic Cyber Mission",
@@ -71,7 +57,7 @@
       "summary_ja": "Title: Introducing The Anthropic Cyber Mission\nArticle title: Introducing the Anthropic Cyber Mission \\ Anthropic\nDescription: Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.\n\nArticle text:\nIntroducing the Anthropic Cyber Mission \\ Anthropic Skip to main content Skip to footer Research\nAnnouncements Introducing the Anthropic Cyber Mission\nToday we’re launching the Anthropic Cyber Mission, a long-term commitment to securing the systems everyone depends on. The Cyber Mission is a new effort to support defenders with tools, research, and resources to secure their software and systems. We’re starting with two areas:\nCritical infrastructure: Starting with securing the operational technology behind power grids, water systems, and transportation networks, and protecting government systems. Today, we’re introducing the Cri…"
     },
     {
-      "rank": 6,
+      "rank": 5,
       "hn_id": 50151390,
       "title": "Harness Engineering 101: The LLM is the brain, the harness is the body",
       "title_ja": "Harness Engineering 101: The LLM is the brain, the harness is the body",
@@ -85,7 +71,35 @@
       "summary_ja": "Title: Harness Engineering 101: The LLM is the brain, the harness is the body\nArticle title: GitHub - IsuruMaduranga/harness-engineering-101: Harness Engineering 101 — building AI agents from first principles. The LLM is the brain; the harness is the body. · GitHub\nDescription: Harness Engineering 101 — building AI agents from first principles. The LLM is the brain; the harness is the body. - IsuruMaduranga/harness-engineering-101\n\nArticle text:\nGitHub - IsuruMaduranga/harness-engineering-101: Harness Engineering 101 — building AI agents from first principles. The LLM is the brain; the harness is the body. · GitHub\nSkip to content\nNavigation Menu\nSign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI\nGitHub Copilot app Direct agents from issue to merge\nMCP Registry Integrate external tools\nDEVELOPER WORKFLOWS Actions Automate any workflow\nCodespace…"
     },
     {
+      "rank": 6,
+      "hn_id": 50151207,
+      "title": "AI native Requirements, design and simulations",
+      "title_ja": "AI native Requirements, design and simulations",
+      "hn_url": "https://news.ycombinator.com/item?id=50151207",
+      "source_url": "https://www.meltred.com/",
+      "image_url": "https://www.meltred.com/assets/og.jpg",
+      "score": 2,
+      "final_score": 4,
+      "comments": 0,
+      "posted_at": "2026-10-19T11:45:59Z",
+      "summary_ja": "Title: AI native Requirements, design and simulations\nArticle title: Meltred: AI native computational engineering models\nDescription: AI native computational engineering models. Write the requirements; get the design and its structural, thermal and CFD simulations.\n\nArticle text:\nMeltred\nPlatform Design space Simulation Documentation Outputs\nOpen Meltred\nAI native Requirements, design and simulation.\nWrite what the part must do. Meltred builds the computational model, designs the part and simulates it.\nFrom requirements to a verified design.\nComputational engineering models turn requirements into geometry, then test it in simulation.\nOne model. The whole design space.\nChange a requirement. The model regenerates the geometry, sizes it and checks every limit.\nMultiphysics verification on every build.\nSupports, loads and mesh come from the model. No manual setup.\nVerified against analytical…"
+    },
+    {
       "rank": 7,
+      "hn_id": 50156383,
+      "title": "Disney found a way to buy Character.AI without buying its lawsuits",
+      "title_ja": "Disney found a way to buy Character.AI without buying its lawsuits",
+      "hn_url": "https://news.ycombinator.com/item?id=50156383",
+      "source_url": "https://www.wired.com/story/disney-asked-characterai-to-go-bankrupt-for-a-get-out-of-lawsuits-card/",
+      "image_url": "https://media.wired.com/photos/6acfe36ba2733753393886b8/191:100/w_1280,c_limit/Disney-Asked-Character.AI-to-Go-Bankrupt-Business-1530260396.jpg",
+      "score": 2,
+      "final_score": 4,
+      "comments": 0,
+      "posted_at": "2026-10-19T18:54:20Z",
+      "summary_ja": "Title: Disney found a way to buy Character.AI without buying its lawsuits\nArticle title: Disney Asked Character.AI to Go Bankrupt for a Get-Out-of-Lawsuits Card | WIRED\nDescription: The entertainment giant hopes to get trust and safety tech, among other IP, from a startup whose chatbots dozens of states allege encouraged minors to self-harm and kill their parents.\n\nArticle text:\nSkip to main content THE WIRED APP IS HERE DOWNLOAD NOW » Menu WIRED SECURITY POLITICS THE BIG STORY BUSINESS SCIENCE CULTURE REVIEWS Menu WIRED Account Account Newsletters Security Politics The Big Story Business Science Culture Reviews Chevron More Expand The Big Interview Magazine Events WIRED Insider WIRED Consulting Newsletters Podcasts Video Livestreams WIRED Store Search Search Maddy Varner Business Oct 19, 2026 5:00 AM Disney Asked Character.AI to Go Bankrupt for a Get-Out-of-Lawsuits Card\nPhotograph: Gil…"
+    },
+    {
+      "rank": 8,
       "hn_id": 50151036,
       "title": "Ask HN: How to deal with shipping AI-written code you don't understand?",
       "title_ja": "Ask HN: How to deal with shipping AI-written code you don't understand?",
@@ -98,7 +112,7 @@
       "summary_ja": "Title: Ask HN: How to deal with shipping AI-written code you don't understand?\nHN text: I saw this LinkedIn post from a Meta engineer and it resonated with me: https://www.linkedin.com/posts/ali-hamie_im-an-engineer-at-meta-and-i-never-felt-share-7517317918666211328-7C8N \u003e I'm an engineer at Meta and I never felt this uncomfortable doing my job. I'm writing code these days and it all feels like a black box. This new standard of shipping with AI is moving so fast that if we're going to spend our time checking each line of code, it's going to take forever. That means you can end up with systems you've built where you don't truly understand how all the code works. You understand the high level, but not every detail. And maybe this is becoming the new standard. It goes against every instinct of being a software engineer. I'm used to understanding what I'm building. Now I'm trying to figure o…"
     },
     {
-      "rank": 8,
+      "rank": 9,
       "hn_id": 50151084,
       "title": "It Turns Out the Only Thing People Like Less Than AI Is Paying for Adobe",
       "title_ja": "It Turns Out the Only Thing People Like Less Than AI Is Paying for Adobe",
@@ -109,19 +123,6 @@
       "comments": 0,
       "posted_at": "2026-10-19T11:31:58Z",
       "summary_ja": "Title: It Turns Out the Only Thing People Like Less Than AI Is Paying for Adobe"
-    },
-    {
-      "rank": 9,
-      "hn_id": 50148666,
-      "title": "I made a combined snake-tron game using free AI",
-      "title_ja": "I made a combined snake-tron game using free AI",
-      "hn_url": "https://news.ycombinator.com/item?id=50148666",
-      "source_url": "https://steeltoe777.github.io/snakegame/",
-      "score": 2,
-      "final_score": 2,
-      "comments": 1,
-      "posted_at": "2026-10-19T05:21:48Z",
-      "summary_ja": "Title: I made a combined snake-tron game using free AI\nArticle title: Snake, Tron, Pac-Man Hybrid\n\nArticle text:\nSnake, Tron, Pac-Man Hybrid\nSnake, Tron, Pac-Man Hybrid\nScore: 0\nLevel: 1\nPassword: LOADING\nGame Over!\nScore: 0\nPress OK to restart"
     },
     {
       "rank": 10,
@@ -139,17 +140,17 @@
     },
     {
       "rank": 11,
-      "hn_id": 50147061,
-      "title": "Reliable web access for AI agents and automation workflows",
-      "title_ja": "Reliable web access for AI agents and automation workflows",
-      "hn_url": "https://news.ycombinator.com/item?id=50147061",
-      "source_url": "https://ninatechllc.com/",
-      "image_url": "https://ninatechllc.com/assets/nina-social.png",
+      "hn_id": 50156263,
+      "title": "Show HN: Krites, Claude Code Plugin that forces your tests to run",
+      "title_ja": "Show HN: Krites, Claude Code Plugin that forces your tests to run",
+      "hn_url": "https://news.ycombinator.com/item?id=50156263",
+      "source_url": "https://github.com/krites-dev/krites",
+      "image_url": "https://opengraph.githubassets.com/103c121c83b6bf2711d4037141963ce1e39164d99e858f2acc5c8357187aa6a8/krites-dev/krites",
       "score": 1,
       "final_score": 2,
-      "comments": 1,
-      "posted_at": "2026-10-19T00:46:38Z",
-      "summary_ja": "Title: Reliable web access for AI agents and automation workflows\nArticle title: Nina Technologies | Web access for AI agents\nDescription: Nina Technologies designs, builds, and maintains reliable web access for AI agents, with custom Chromium engineering and production operations.\n\nArticle text:\nNina Technologies\nBrowser infrastructure Custom Chromium Engineering\nStart a project ↗\nGive your AI agents a web they can use.\nWe design, build, and maintain web access for AI agents. Your agents can get through bot checks, CAPTCHAs, and complex sign-ins, then finish the tasks your product depends on.\nCustom Chromium engineering, real-device testing, and production operations, built around your targets and workflows.\nPrefer email? [email protected]\nBuilt for the systems that stop agents.\nWe engineer against the checks used on difficult production websites. Open a name to see the kind of work inv…"
+      "comments": 0,
+      "posted_at": "2026-10-19T18:45:47Z",
+      "summary_ja": "Title: Show HN: Krites, Claude Code Plugin that forces your tests to run\nArticle title: GitHub - krites-dev/krites: Verification plugin for Claude Code: protected tests, a stop gate that runs your checks, signed receipts. Requires Node 20 or later. · GitHub\nDescription: Verification plugin for Claude Code: protected tests, a stop gate that runs your checks, signed receipts. Requires Node 20 or later. - krites-dev/krites\nHN text: Hi my name is Quinn, and I have been testing and using LLMs for various coding projects for about a year now. And at this point I run all my agents overnight or for even days at a time. And I’ve sunk countless hours and tokens into coming back to a job that's half done with issues and bugs. That's why I built Krites. It blocks the edit tools on the paths you name, runs your tests when your agent tries to stop and blocks the stop until they pass (up to 3 tries by…"
     },
     {
       "rank": 12,
@@ -167,6 +168,20 @@
     },
     {
       "rank": 13,
+      "hn_id": 50147061,
+      "title": "Reliable web access for AI agents and automation workflows",
+      "title_ja": "Reliable web access for AI agents and automation workflows",
+      "hn_url": "https://news.ycombinator.com/item?id=50147061",
+      "source_url": "https://ninatechllc.com/",
+      "image_url": "https://ninatechllc.com/assets/nina-social.png",
+      "score": 1,
+      "final_score": 2,
+      "comments": 1,
+      "posted_at": "2026-10-19T00:46:38Z",
+      "summary_ja": "Title: Reliable web access for AI agents and automation workflows\nArticle title: Nina Technologies | Web access for AI agents\nDescription: Nina Technologies designs, builds, and maintains reliable web access for AI agents, with custom Chromium engineering and production operations.\n\nArticle text:\nNina Technologies\nBrowser infrastructure Custom Chromium Engineering\nStart a project ↗\nGive your AI agents a web they can use.\nWe design, build, and maintain web access for AI agents. Your agents can get through bot checks, CAPTCHAs, and complex sign-ins, then finish the tasks your product depends on.\nCustom Chromium engineering, real-device testing, and production operations, built around your targets and workflows.\nPrefer email? [email protected]\nBuilt for the systems that stop agents.\nWe engineer against the checks used on difficult production websites. Open a name to see the kind of work inv…"
+    },
+    {
+      "rank": 14,
       "hn_id": 50151376,
       "title": "What to Know About the Obscure Trust Looming over Anthropic's IPO",
       "title_ja": "What to Know About the Obscure Trust Looming over Anthropic's IPO",
@@ -179,7 +194,33 @@
       "summary_ja": "Title: What to Know About the Obscure Trust Looming over Anthropic's IPO"
     },
     {
-      "rank": 14,
+      "rank": 15,
+      "hn_id": 50148666,
+      "title": "I made a combined snake-tron game using free AI",
+      "title_ja": "I made a combined snake-tron game using free AI",
+      "hn_url": "https://news.ycombinator.com/item?id=50148666",
+      "source_url": "https://steeltoe777.github.io/snakegame/",
+      "score": 2,
+      "final_score": 2,
+      "comments": 1,
+      "posted_at": "2026-10-19T05:21:48Z",
+      "summary_ja": "Title: I made a combined snake-tron game using free AI\nArticle title: Snake, Tron, Pac-Man Hybrid\n\nArticle text:\nSnake, Tron, Pac-Man Hybrid\nSnake, Tron, Pac-Man Hybrid\nScore: 0\nLevel: 1\nPassword: LOADING\nGame Over!\nScore: 0\nPress OK to restart"
+    },
+    {
+      "rank": 16,
+      "hn_id": 50156164,
+      "title": "AI Hallucination Google Trends",
+      "title_ja": "AI Hallucination Google Trends",
+      "hn_url": "https://news.ycombinator.com/item?id=50156164",
+      "source_url": "https://trends.google.com/explore",
+      "score": 2,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-10-19T18:39:21Z",
+      "summary_ja": "Title: AI Hallucination Google Trends\nArticle title: Explore - Google Trends\nDescription: Explore what the world is searching for on Google Trends\n\nArticle text:\nExplore - Google Trends Trends Trends Home Home Explore Explore Trending now Trending now maps Sign in Trends Trends home Home"
+    },
+    {
+      "rank": 17,
       "hn_id": 50147051,
       "title": "Don't filter your email based on AI detection",
       "title_ja": "Don't filter your email based on AI detection",
@@ -193,7 +234,48 @@
       "summary_ja": "Title: Don't filter your email based on AI detection\nArticle title: Don’t filter your email based on AI detection\nDescription: Pangram’s Gmail integration invites you to treat AI-assisted writing as spam\n\nArticle text:\nDon’t filter your email based on AI detection\nKeyvan’s blog\nSubscribe Sign in Don’t filter your email based on AI detection\nPangram’s Gmail integration invites you to treat AI-assisted writing as spam\nShare In August I wrote about why I think AI detectors in general are a bad idea : a positive detection tells you almost nothing about the human effort that went into the work being flagged. And yet, I wrote, AI detectors are being used “almost like spam filters”.\nWell, less than a month after that post, Pangram, one of the leading AI detectors, released a Gmail integration. Let’s put aside, for now, the privacy implications of sending all your incoming email to a third-party…"
     },
     {
-      "rank": 15,
+      "rank": 18,
+      "hn_id": 50156116,
+      "title": "Lobster moderator's updates to site guidelines and AI/LLM tags",
+      "title_ja": "Lobster moderator's updates to site guidelines and AI/LLM tags",
+      "hn_url": "https://news.ycombinator.com/item?id=50156116",
+      "source_url": "https://lobste.rs/s/h0eate/updates_site_guidelines_ai_llm_tags",
+      "image_url": "https://lobste.rs/touch-icon-144.png",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-10-19T18:34:37Z",
+      "summary_ja": "Title: Lobster moderator's updates to site guidelines and AI/LLM tags\nArticle title: Updates to site guidelines and AI/LLM tags | Lobsters\nDescription: 229 comments\n\nArticle text:\nUpdates to site guidelines and AI/LLM tags | Lobsters\nLobsters\n281\nUpdates to site guidelines and AI/LLM tags\n☶\nannounce\nI've been having to perform an increasing number of moderation actions surrounding the vibecoding tag and AI/LLM related content. I started reading Lobsters because it had the most interesting viewpoints related to computing. During that time, I've found that this community is at it's best when it's trying to, in good faith, help others grow. In lieu of a larger and more rambling discussion on this point, we would like to try two changes encourage that behavior again and re-focus topicality around ensuring that content submitted to the site should, at a minimum, be respectful of a reader's ti…"
+    },
+    {
+      "rank": 19,
+      "hn_id": 50155970,
+      "title": "Men, Shaping the Future of AI, Doesn't Mean They Know What They're Talking About",
+      "title_ja": "Men, Shaping the Future of AI, Doesn't Mean They Know What They're Talking About",
+      "hn_url": "https://news.ycombinator.com/item?id=50155970",
+      "source_url": "https://gizmodo.com/men-are-shaping-the-future-of-ai-that-doesnt-mean-they-know-what-theyre-talking-about-2000825911",
+      "score": 1,
+      "final_score": 1,
+      "comments": 1,
+      "posted_at": "2026-10-19T18:23:17Z",
+      "summary_ja": "Title: Men, Shaping the Future of AI, Doesn't Mean They Know What They're Talking About"
+    },
+    {
+      "rank": 20,
+      "hn_id": 50156361,
+      "title": "AI Came for Math. Now It's Chasing the Rest of Science",
+      "title_ja": "AI Came for Math. Now It's Chasing the Rest of Science",
+      "hn_url": "https://news.ycombinator.com/item?id=50156361",
+      "source_url": "https://www.wired.com/story/ai-is-coming-for-science-next-watch-out/",
+      "image_url": "https://media.wired.com/photos/6ace87bed95d506835d511b4/191:100/w_1280,c_limit/AI-Lab-AI-Coming-for-Other-Areas-of-Science-Businesspsd.jpg",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-10-19T18:53:18Z",
+      "summary_ja": "Title: AI Came for Math. Now It's Chasing the Rest of Science\nArticle title: AI Came for Math. Now It’s Chasing the Rest of Science | WIRED\nDescription: AI may soon be the default way to solve theoretical problems in economics, high-energy physics, and other fields, MIT researchers tell WIRED.\n\nArticle text:\nSkip to main content THE WIRED APP IS HERE DOWNLOAD NOW » Menu WIRED SECURITY POLITICS THE BIG STORY BUSINESS SCIENCE CULTURE REVIEWS Menu WIRED Account Account Newsletters Security Politics The Big Story Business Science Culture Reviews Chevron More Expand The Big Interview Magazine Events WIRED Insider WIRED Consulting Newsletters Podcasts Video Livestreams WIRED Store Search Search Will Knight Business Oct 14, 2026 2:15 PM AI Came for Math. Now It’s Chasing the Rest of Science\nPhoto-Illustration: WIRED Staff; Getty Images Comment Loader Save Story Save this story Comment Loader Sa…"
+    },
+    {
+      "rank": 21,
       "hn_id": 50146910,
       "title": "Show HN: A free MCP server for facts LLMs get wrong (time zones, holidays, FX)",
       "title_ja": "Show HN: A free MCP server for facts LLMs get wrong (time zones, holidays, FX)",
@@ -207,7 +289,21 @@
       "summary_ja": "Title: Show HN: A free MCP server for facts LLMs get wrong (time zones, holidays, FX)\nArticle title: MCP Servers for AI Agents: Claude, ChatGPT and Cursor | APIStack\nDescription: Give your AI agent reliable tools through Model Context Protocol servers: date math, validation, finance calculators, DNS lookups and more.\n\nArticle text:\nMCP Servers for AI Agents: Claude, ChatGPT and Cursor | APIStack APIStack Open main menu Try Free Tools MCP Playground Pricing Docs MCP Servers\nGive AI agents like Claude, ChatGPT and Cursor exact, deterministic tools through the Model Context Protocol\nNo sign-up needed · 50 free calls a day\nFacts and checks for your agent\n16 focused tools for questions agents should not answer from memory: the current time, holidays and working days, exchange rates, VAT and IBAN checks, company lookups, link safety, sanctions screening and more. Add the URL and it works right…"
     },
     {
-      "rank": 16,
+      "rank": 22,
+      "hn_id": 50155954,
+      "title": "Compare AI models to see which censors what.",
+      "title_ja": "Compare AI models to see which censors what.",
+      "hn_url": "https://news.ycombinator.com/item?id=50155954",
+      "source_url": "https://fromhebrew.com/",
+      "image_url": "https://fromhebrew.com/static/og.jpg?v=fad36745fc",
+      "score": 1,
+      "final_score": 1,
+      "comments": 1,
+      "posted_at": "2026-10-19T18:22:17Z",
+      "summary_ja": "Title: Compare AI models to see which censors what.\nArticle title: fromHebrew — catching AI censorship in translation\nDescription: Translate Hebrew, or any language, with open-weight models side by side, and see which ones bend what a text says: the Talmud, China and more.\n\nArticle text:\nY Hacker News Welcome! If fromHebrew is worth it, ▲ upvote it on HN ×\nNew: Meta’s Llama 4 Scout , tested beside the others : in the Talmud’s Gittin 57a it made Jesus “Rabbi Joshua”, and into Chinese it dropped the Uyghur camps . See the examples → ×\nfrom Hebrew Catching AI censorship in translation Suggest a feature Uncensored API Share Models About\nWhy this exists\nAI models are censoring information by distorting translations of key text (such as Bible scripture passages).\nA model can be built to soften, refuse or bend some topics on purpose, so every model here is tested for it, in the open, and any tr…"
+    },
+    {
+      "rank": 23,
       "hn_id": 50151466,
       "title": "Show HN: Marcus – catches the fake source links AI search engines invent",
       "title_ja": "Show HN: Marcus – catches the fake source links AI search engines invent",
@@ -219,6 +315,47 @@
       "comments": 0,
       "posted_at": "2026-10-19T12:15:26Z",
       "summary_ja": "Title: Show HN: Marcus – catches the fake source links AI search engines invent\nArticle title: The Receipts\nDescription: A preregistered replication of Columbia\n\nArticle text:\nON THE RECORD\nPut it on the record →\nStar\nOn the Record File № 737 · Oct 2026\nA Marcus field report\nThe AI handed you a source. We clicked it.\nMarcus is open-source software that makes AI agents prove their work before anyone has to trust it. This file is what happened when we pointed it at one hard, measurable problem: whether AI search engines cite real sources.\nBy Lawrence Gray, PhD, Gray Labs, who built Marcus. The dataset, the grader, and every audit record shown here are public, so you do not have to take my word for any of it.\nWe gave four AI search engines a sentence from each of 200 real news articles and\nasked the same question every time: which article is this from? That produced 800 citations:\nheadline,…"
+    },
+    {
+      "rank": 24,
+      "hn_id": 50156467,
+      "title": "As the coding boom fades, CS grads focus on AI skills in choppy job market",
+      "title_ja": "As the coding boom fades, CS grads focus on AI skills in choppy job market",
+      "hn_url": "https://news.ycombinator.com/item?id=50156467",
+      "source_url": "https://apnews.com/article/ai-computer-science-jobs-college-degree-99416cc8981d701e3674cf3dfa501491",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-10-19T18:59:42Z",
+      "summary_ja": "Title: As the coding boom fades, CS grads focus on AI skills in choppy job market"
+    },
+    {
+      "rank": 25,
+      "hn_id": 50156229,
+      "title": "\"We were looking at it wrong\": The explosive claim that's upended the AI world",
+      "title_ja": "\"We were looking at it wrong\": The explosive claim that's upended the AI world",
+      "hn_url": "https://news.ycombinator.com/item?id=50156229",
+      "source_url": "https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world/",
+      "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/10/261016_LLMsNotcomplicated_V2.jpg?resize=1200,600",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-10-19T18:43:48Z",
+      "summary_ja": "Title: \"We were looking at it wrong\": The explosive claim that's upended the AI world\nArticle title: “We were looking at it wrong”: The explosive claim that’s upended the AI world | MIT Technology Review\nDescription: An exclusive interview with Nick Cammarata, whose 26,000-word viral blog post has AI safety folks celebrating.\n\nArticle text:\nSkip to Content Menu MIT Technology Review MIT Technology Review The Big Story\nMenu MIT Technology Review MIT Technology Review The Big Story\n“We were looking at it wrong”: The explosive claim that’s upended the AI world\nAn exclusive interview with Nick Cammarata, the researcher whose 26,000-word viral blog post has AI safety folks celebrating.\nWill Douglas Heaven archive page\n“I think I have good news about the nature of neural networks.” With those simple words of optimism, Nick Cammarata, a researcher at the AI startup Goodfire, kicked off a 26,000…"
+    },
+    {
+      "rank": 26,
+      "hn_id": 50156310,
+      "title": "AI is ushering in an age of personal media",
+      "title_ja": "AI is ushering in an age of personal media",
+      "hn_url": "https://news.ycombinator.com/item?id=50156310",
+      "source_url": "https://www.understandingai.org/p/ai-is-ushering-in-an-age-personal",
+      "image_url": "https://substackcdn.com/image/fetch/$s_!OsVN!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1e6966c0-bded-43b9-bee3-f9d2d079e771_2048x1365.jpeg",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-10-19T18:49:21Z",
+      "summary_ja": "Title: AI is ushering in an age of personal media\nDescription: It may be AI slop, but it's my AI slop.\n\nArticle text:\nAI is ushering in an age of personal media\nUnderstanding AI\nSubscribe Sign in AI is ushering in an age of personal media\nIt may be AI slop, but it's my AI slop.\nBenj Edwards Oct 19, 2026 80 8 7 Share My mother broke her hip in late 2022, and it triggered a long process of moving out of a house she’d owned since 1987. During the final stretch of cleaning out the place in late 2024, I found myself passing time by composing nonsense songs in my head. “Nasty rotten rusty moldy trash,” I sang to myself repeatedly as I hauled bag after bag of moldy garden supplies out of her dank basement.\nI’ve recorded music for both personal fun and public release for decades — first using a 16-track digital recorder two decades ago , and using Logic Pro more recently. So I often keep audio n…"
     }
   ]
 }

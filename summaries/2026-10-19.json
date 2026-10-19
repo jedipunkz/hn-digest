@@ -1,0 +1,61 @@
+{
+  "date": "2026-10-19",
+  "generated_at": "2026-10-19T00:52:35Z",
+  "articles": [
+    {
+      "rank": 1,
+      "hn_id": 50146876,
+      "title": "The AI industry's gigantic debts are making investors nervous",
+      "title_ja": "The AI industry's gigantic debts are making investors nervous",
+      "hn_url": "https://news.ycombinator.com/item?id=50146876",
+      "source_url": "https://www.economist.com/business/2026/10/18/the-ai-industrys-gigantic-debts-are-making-investors-nervous",
+      "score": 4,
+      "final_score": 5,
+      "comments": 1,
+      "posted_at": "2026-10-19T00:15:54Z",
+      "summary_ja": "Title: The AI industry's gigantic debts are making investors nervous"
+    },
+    {
+      "rank": 2,
+      "hn_id": 50147061,
+      "title": "Reliable web access for AI agents and automation workflows",
+      "title_ja": "Reliable web access for AI agents and automation workflows",
+      "hn_url": "https://news.ycombinator.com/item?id=50147061",
+      "source_url": "https://ninatechllc.com/",
+      "image_url": "https://ninatechllc.com/assets/nina-social.png",
+      "score": 1,
+      "final_score": 2,
+      "comments": 1,
+      "posted_at": "2026-10-19T00:46:38Z",
+      "summary_ja": "Title: Reliable web access for AI agents and automation workflows\nArticle title: Nina Technologies | Web access for AI agents\nDescription: Nina Technologies designs, builds, and maintains reliable web access for AI agents, with custom Chromium engineering and production operations.\n\nArticle text:\nNina Technologies\nBrowser infrastructure Custom Chromium Engineering\nStart a project ↗\nGive your AI agents a web they can use.\nWe design, build, and maintain web access for AI agents. Your agents can get through bot checks, CAPTCHAs, and complex sign-ins, then finish the tasks your product depends on.\nCustom Chromium engineering, real-device testing, and production operations, built around your targets and workflows.\nPrefer email? [email protected]\nBuilt for the systems that stop agents.\nWe engineer against the checks used on difficult production websites. Open a name to see the kind of work inv…"
+    },
+    {
+      "rank": 3,
+      "hn_id": 50147051,
+      "title": "Don't filter your email based on AI detection",
+      "title_ja": "Don't filter your email based on AI detection",
+      "hn_url": "https://news.ycombinator.com/item?id=50147051",
+      "source_url": "https://blog.keyvan.net/p/dont-filter-your-email-based-on-ai",
+      "image_url": "https://substackcdn.com/image/fetch/$s_!lTie!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F03cd6c38-9c4f-4838-85b9-8bb23d20cef5_1672x941.jpeg",
+      "score": 1,
+      "final_score": 1,
+      "comments": 1,
+      "posted_at": "2026-10-19T00:45:13Z",
+      "summary_ja": "Title: Don't filter your email based on AI detection\nArticle title: Don’t filter your email based on AI detection\nDescription: Pangram’s Gmail integration invites you to treat AI-assisted writing as spam\n\nArticle text:\nDon’t filter your email based on AI detection\nKeyvan’s blog\nSubscribe Sign in Don’t filter your email based on AI detection\nPangram’s Gmail integration invites you to treat AI-assisted writing as spam\nShare In August I wrote about why I think AI detectors in general are a bad idea : a positive detection tells you almost nothing about the human effort that went into the work being flagged. And yet, I wrote, AI detectors are being used “almost like spam filters”.\nWell, less than a month after that post, Pangram, one of the leading AI detectors, released a Gmail integration. Let’s put aside, for now, the privacy implications of sending all your incoming email to a third-party…"
+    },
+    {
+      "rank": 4,
+      "hn_id": 50146910,
+      "title": "Show HN: A free MCP server for facts LLMs get wrong (time zones, holidays, FX)",
+      "title_ja": "Show HN: A free MCP server for facts LLMs get wrong (time zones, holidays, FX)",
+      "hn_url": "https://news.ycombinator.com/item?id=50146910",
+      "source_url": "https://apistack.online/mcp",
+      "image_url": "https://apistack.online/opengraph-image?69d2e154748b32ac",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-10-19T00:20:09Z",
+      "summary_ja": "Title: Show HN: A free MCP server for facts LLMs get wrong (time zones, holidays, FX)\nArticle title: MCP Servers for AI Agents: Claude, ChatGPT and Cursor | APIStack\nDescription: Give your AI agent reliable tools through Model Context Protocol servers: date math, validation, finance calculators, DNS lookups and more.\n\nArticle text:\nMCP Servers for AI Agents: Claude, ChatGPT and Cursor | APIStack APIStack Open main menu Try Free Tools MCP Playground Pricing Docs MCP Servers\nGive AI agents like Claude, ChatGPT and Cursor exact, deterministic tools through the Model Context Protocol\nNo sign-up needed · 50 free calls a day\nFacts and checks for your agent\n16 focused tools for questions agents should not answer from memory: the current time, holidays and working days, exchange rates, VAT and IBAN checks, company lookups, link safety, sanctions screening and more. Add the URL and it works right…"
+    }
+  ]
+}

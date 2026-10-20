@@ -1,0 +1,75 @@
+{
+  "date": "2026-10-20",
+  "generated_at": "2026-10-20T03:42:29Z",
+  "articles": [
+    {
+      "rank": 1,
+      "hn_id": 50160774,
+      "title": "Show HN: Yana – A local-first, human-governed AI runtime and IDE in Rust",
+      "title_ja": "Show HN: Yana – A local-first, human-governed AI runtime and IDE in Rust",
+      "hn_url": "https://news.ycombinator.com/item?id=50160774",
+      "source_url": "https://github.com/yanacuti1121/yana-ai",
+      "image_url": "https://opengraph.githubassets.com/4d3930ab43b9352b5600dadb0b9a1744822e621c407109f0584c2c2a474b0589/yanacuti1121/Yana-AI",
+      "score": 3,
+      "final_score": 6,
+      "comments": 0,
+      "posted_at": "2026-10-20T02:48:40Z",
+      "summary_ja": "Title: Show HN: Yana – A local-first, human-governed AI runtime and IDE in Rust\nArticle title: GitHub - yanacuti1121/Yana-AI: Yana AI 🐰 One runtime. Any AI. Human-governed. A local-first, cross-platform system for running, connecting, orchestrating, and governing AI — with deterministic control over what it can access, change, and execute. Your AI can act. But who decides how far it can go? ·\n[truncated]\nDescription: Yana AI 🐰 One runtime. Any AI. Human-governed. A local-first, cross-platform system for running, connecting, orchestrating, and governing AI — with deterministic control over what it can access, change, and execute. Your AI can act. But who decides how far it can go? - yanacuti1121/Yana-AI\n\nArticle text:\nGitHub - yanacuti1121/Yana-AI: Yana AI 🐰 One runtime. Any AI. Human-governed. A local-first, cross-platform system for running, connecting, orchestrating, and governing AI —…"
+    },
+    {
+      "rank": 2,
+      "hn_id": 50160772,
+      "title": "Anthropic calls human attention the bottleneck in the botsitting world to come",
+      "title_ja": "Anthropic calls human attention the bottleneck in the botsitting world to come",
+      "hn_url": "https://news.ycombinator.com/item?id=50160772",
+      "source_url": "https://fortune.com/2026/10/19/work-botsitting-meetings-army-of-claudes-anthropic/",
+      "image_url": "https://fortune.com/img-assets/wp-content/uploads/2026/10/GettyImages-2280291188-1-e1792432476733.jpg?resize=1200,600",
+      "score": 2,
+      "final_score": 3,
+      "comments": 1,
+      "posted_at": "2026-10-20T02:48:35Z",
+      "summary_ja": "Title: Anthropic calls human attention the bottleneck in the botsitting world to come\nArticle title: Anthropic offers a glimpse of an AI-first workplace where humans hold back an ‘army of Claudes’ | Fortune\nDescription: Eighty percent of Claude session delays result from agents waiting on human input, and the median Anthropic employee spends 20% more time in meetings than a year ago.\n\nArticle text:\nAnthropic offers a glimpse of an AI-first workplace where humans hold back an ‘army of Claudes’ | Fortune Search Subscribe Home\n‘An army of Claudes, with every one asking for my attention’: Anthropic calls human attention the bottleneck in the botsitting world to come\nBy Marco Quiroz-Gutierrez Marco Quiroz-Gutierrez Reporter Down Arrow Button Icon October 19, 2026, 2:10 PM ET Dario Amodei, cofounder and CEO of Anthropic Jason Henry—Bloomberg/Getty Images Google source logo Add Fortune on Googl…"
+    },
+    {
+      "rank": 3,
+      "hn_id": 50160813,
+      "title": "Show HN: AppMaker – Build business apps with AI, visual editing and code",
+      "title_ja": "Show HN: AppMaker – Build business apps with AI, visual editing and code",
+      "hn_url": "https://news.ycombinator.com/item?id=50160813",
+      "source_url": "https://appmaker.io/",
+      "image_url": "https://appmaker.io/assets/img/og-image.png",
+      "score": 1,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-10-20T02:55:31Z",
+      "summary_ja": "Title: Show HN: AppMaker – Build business apps with AI, visual editing and code\nArticle title: AppMaker — Business apps, built differently\nDescription: AppMaker is an AI-first builder for business applications. Describe the app you need, let AI build it on a ready-made platform, refine it in conversation or in the editor, and export it. Public beta, free to start.\nHN text: Hi HN, I've been working on AppMaker, a tool for building with AI business apps like CRMs, dashboards, and internal tools. It is NOT a low-code. https://appmaker.io Apps come with a database, authentication, and backend logic, and can be exported as standalone Node.js applications. It's still in beta, and I'd love to hear your feedback.\n\nArticle text:\nSkip to content\nPublic beta\nAppMaker is for evaluation and development, not production use.\nRead the terms\nAppMaker\nBeta\nHow it works\nBusiness apps,\nbuilt differently.\nDe…"
+    },
+    {
+      "rank": 4,
+      "hn_id": 50160830,
+      "title": "Show HN: Search for AI-agents and usefulness score",
+      "title_ja": "Show HN: Search for AI-agents and usefulness score",
+      "hn_url": "https://news.ycombinator.com/item?id=50160830",
+      "source_url": "https://xtract-production-2efc.up.railway.app/",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-10-20T02:57:52Z",
+      "summary_ja": "Title: Show HN: Search for AI-agents and usefulness score\nArticle title: Xtract search API\nHN text: We presented this project at innovationintelligencehackathon.com and today we are putting a url out for you to test and give us feedback. after talking to teams building agents that research companies to create outreach, we found few things that are very important to them. one of them is recency. When we prompted agents with outdated alert about companies, 4 out of 7 times, they came up with outdated insights, even when they had recent news in context. A bigger model didnt fix it. So we built search for ai-agents with usefulness score on top. So, when you search each page comes with score+price. this solve 3 problems; 1. token, SOTA agents read all pages to make sense of the useful ones 2. cost, when agents pay for pages they read, its is cost-effective to read only useful ones 3. quality,…"
+    },
+    {
+      "rank": 5,
+      "hn_id": 50160927,
+      "title": "Textideo Director – an AI video creation tool for scenes, shots",
+      "title_ja": "Textideo Director – an AI video creation tool for scenes, shots",
+      "hn_url": "https://news.ycombinator.com/item?id=50160927",
+      "source_url": "https://textideo.com/director",
+      "image_url": "https://s.bixstore.top/files/website/0/0/2026/07/27/b7c878c28a3c48cdae51aa665cd000b3.webp",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-10-20T03:13:03Z",
+      "summary_ja": "Title: Textideo Director – an AI video creation tool for scenes, shots\nArticle title: Textideo Director — Direct AI Videos Scene by Scene\nDescription: Textideo Director is an AI video director for scene-by-scene storytelling: build chapters, generate shots, voiceover and music, compare takes, export the film.\n\nArticle text:\nTextideo Director — Direct AI Videos Scene by Scene Textideo .com Pricing UP TO 67% Sign In Home\nRedeem Code Pricing View Plans UP TO 67% OFF AI VIDEO DIRECTOR Textideo Director Direct Every Scene, Shot by Shot\nTextideo Director keeps your chapters, shots, takes, audio and subtitles in one project, so a story can be rebuilt, re-cut and finished without losing earlier work.\nNo editing experience needed · Free credits to start\nNew Project Start from a blank timeline and direct your first scene My Projects Pick up where you left off My Textideo Director Projects\nTextideo…"
+    }
+  ]
+}

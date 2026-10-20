@@ -1,9 +1,22 @@
 {
   "date": "2026-10-20",
-  "generated_at": "2026-10-20T03:42:29Z",
+  "generated_at": "2026-10-20T09:12:57Z",
   "articles": [
     {
       "rank": 1,
+      "hn_id": 50163128,
+      "title": "Google Cloud Disruptions / Outage in parts of Europe",
+      "title_ja": "Google Cloud Disruptions / Outage in parts of Europe",
+      "hn_url": "https://news.ycombinator.com/item?id=50163128",
+      "source_url": "https://status.cloud.google.com/",
+      "score": 4,
+      "final_score": 10,
+      "comments": 0,
+      "posted_at": "2026-10-20T08:50:14Z",
+      "summary_ja": "Title: Google Cloud Disruptions / Outage in parts of Europe\nArticle title: Google Cloud Service Health\n\nArticle text:\nOpens in a new tab Service Health\nFor incidents related to Google Security Products, visit https://status.cloud.google.com/security . For incidents related to Looker (original), visit https://status.cloud.google.com/looker .\nSee incidents that impact your workloads and resources\nLast updated time: 20 Oct 2026, 02:11 PDT\nBigQuery Data Transfer Service\nView incident history Products and locations\nOverview Americas (regions) Europe (regions) Asia Pacific (regions) Middle East (regions) Africa (regions) Multi-regions\nApigee BigQuery Data Transfer Service Cloud Data Fusion Cloud Filestore Cloud Firestore Cloud Memorystore Cloud Run Cloud Spanner Datastream Google App Engine Google BigQuery Google Cloud Bigtable Google Cloud Dataflow Google Cloud Dataproc Google Cloud NetApp Vo…"
+    },
+    {
+      "rank": 2,
       "hn_id": 50160774,
       "title": "Show HN: Yana – A local-first, human-governed AI runtime and IDE in Rust",
       "title_ja": "Show HN: Yana – A local-first, human-governed AI runtime and IDE in Rust",
@@ -17,7 +30,34 @@
       "summary_ja": "Title: Show HN: Yana – A local-first, human-governed AI runtime and IDE in Rust\nArticle title: GitHub - yanacuti1121/Yana-AI: Yana AI 🐰 One runtime. Any AI. Human-governed. A local-first, cross-platform system for running, connecting, orchestrating, and governing AI — with deterministic control over what it can access, change, and execute. Your AI can act. But who decides how far it can go? ·\n[truncated]\nDescription: Yana AI 🐰 One runtime. Any AI. Human-governed. A local-first, cross-platform system for running, connecting, orchestrating, and governing AI — with deterministic control over what it can access, change, and execute. Your AI can act. But who decides how far it can go? - yanacuti1121/Yana-AI\n\nArticle text:\nGitHub - yanacuti1121/Yana-AI: Yana AI 🐰 One runtime. Any AI. Human-governed. A local-first, cross-platform system for running, connecting, orchestrating, and governing AI —…"
     },
     {
-      "rank": 2,
+      "rank": 3,
+      "hn_id": 50163258,
+      "title": "Show HN: I built an AI tool that turns two photos into a dance video",
+      "title_ja": "Show HN: I built an AI tool that turns two photos into a dance video",
+      "hn_url": "https://news.ycombinator.com/item?id=50163258",
+      "source_url": "https://a2oliteai.com/",
+      "image_url": "https://a2oliteai.com/imgs/generated/a2o-lite-ai-og.png",
+      "score": 2,
+      "final_score": 4,
+      "comments": 0,
+      "posted_at": "2026-10-20T09:06:42Z",
+      "summary_ja": "Title: Show HN: I built an AI tool that turns two photos into a dance video\nArticle title: A2O LITE AI Dance Video Generator: Make a NEON Dance Video\nDescription: Upload two photos, keep the fixed NEON duo template, and generate an A2O LITE NEON-style dance video in minutes. Use only photos you have permission to use.\n\nArticle text:\nA2O LITE AI Dance Video Generator: Make a NEON Dance Video A2O LITE AI How it works Pricing My Creations More Tools HOT Upgrade -50% Switch language A2O LITE AI Upgrade -50% A2O LITE AI Dance Video Generator: Turn Two Photos Into a NEON Dance\nTwo photos in. A NEON-style dance duo out. No editing skills, no timeline,\nno choreography to learn.\nPhoto 1 (foreground role) Required · maps to the front dancer with white sunglasses in the opening shot Photo 2 (rear role)\nPhoto 2 (rear role) Required · maps to the dancer standing behind at the start 480p 4s · 480p ~21…"
+    },
+    {
+      "rank": 4,
+      "hn_id": 50163131,
+      "title": "Get More Out of Claude by Hitting the Cache",
+      "title_ja": "Get More Out of Claude by Hitting the Cache",
+      "hn_url": "https://news.ycombinator.com/item?id=50163131",
+      "source_url": "https://www.dgrcode.com/blog/claude-cache",
+      "score": 3,
+      "final_score": 3,
+      "comments": 0,
+      "posted_at": "2026-10-20T08:50:32Z",
+      "summary_ja": "Title: Get More Out of Claude by Hitting the Cache\nArticle title: dgrcode blog - Get More Out of Claude by Hitting the Cache\nDescription: Learn how Claude's prompt cache works and how to keep your token usage under control.\n\nArticle text:\ndgrcode blog - Get More Out of Claude by Hitting the Cache dgr code Projects Blog Get More Out of Claude by Hitting the Cache\nLearn how Claude's prompt cache works and how to keep your token usage under control.\nYou might have noticed that a small prompt sometimes burns a surprising amount of Claude usage. If you sent that prompt to a session that had been idle for a while, there's a good chance you missed the cache. With Opus 5.5, a cache miss can cost up to 40x more than a cache hit. Let's go over what happens and how to avoid it.\nSimply put, the cache is temporary storage for the results of your previous prompts . It's a bit more complex than that, b…"
+    },
+    {
+      "rank": 5,
       "hn_id": 50160772,
       "title": "Anthropic calls human attention the bottleneck in the botsitting world to come",
       "title_ja": "Anthropic calls human attention the bottleneck in the botsitting world to come",
@@ -31,7 +71,35 @@
       "summary_ja": "Title: Anthropic calls human attention the bottleneck in the botsitting world to come\nArticle title: Anthropic offers a glimpse of an AI-first workplace where humans hold back an ‘army of Claudes’ | Fortune\nDescription: Eighty percent of Claude session delays result from agents waiting on human input, and the median Anthropic employee spends 20% more time in meetings than a year ago.\n\nArticle text:\nAnthropic offers a glimpse of an AI-first workplace where humans hold back an ‘army of Claudes’ | Fortune Search Subscribe Home\n‘An army of Claudes, with every one asking for my attention’: Anthropic calls human attention the bottleneck in the botsitting world to come\nBy Marco Quiroz-Gutierrez Marco Quiroz-Gutierrez Reporter Down Arrow Button Icon October 19, 2026, 2:10 PM ET Dario Amodei, cofounder and CEO of Anthropic Jason Henry—Bloomberg/Getty Images Google source logo Add Fortune on Googl…"
     },
     {
-      "rank": 3,
+      "rank": 6,
+      "hn_id": 50162920,
+      "title": "Running Apertus: A Swiss-Made Multimodal LLM",
+      "title_ja": "Running Apertus: A Swiss-Made Multimodal LLM",
+      "hn_url": "https://news.ycombinator.com/item?id=50162920",
+      "source_url": "https://blog.x504.dev/p/running-apertus-a-swiss-made-multimodal",
+      "image_url": "https://substackcdn.com/image/fetch/$s_!CaJH!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F799812ad-01ab-40a6-bc5d-f2c2db95f7fa_950x520.png",
+      "score": 1,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-10-20T08:24:52Z",
+      "summary_ja": "Title: Running Apertus: A Swiss-Made Multimodal LLM\nArticle title: Running Apertus: A Swiss-Made Multimodal LLM - by x504\nDescription: In this post, I’ll show you how easy it is to run APERTUS on your own server using the vLLM framework.\n\nArticle text:\nRunning Apertus: A Swiss-Made Multimodal LLM - by x504\nDeep Life Learning\nSubscribe Sign in Running Apertus: A Swiss-Made Multimodal LLM\nIn this post, I’ll show you how easy it is to run APERTUS on your own server using the vLLM framework.\nx504 Oct 20, 2026 Share Nowadays in enterprise software engineering there are two primary models of using LLMs and provision them to a fleet of users:\nCommercial Public APIs: Using closed-source models, such as Claude Opus , either directly through vendors like Anthropic or via cloud providers offering managed access to these models, such as Amazon Bedrock and Microsoft Azure AI Foundry.\nOne of the downs…"
+    },
+    {
+      "rank": 7,
+      "hn_id": 50163035,
+      "title": "Show HN: AIExportHub – bulk export AI chats to Notion, Markdown, and PDF",
+      "title_ja": "Show HN: AIExportHub – bulk export AI chats to Notion, Markdown, and PDF",
+      "hn_url": "https://news.ycombinator.com/item?id=50163035",
+      "source_url": "https://chatgpt2notion.com/products/aiexporthub-hero/",
+      "image_url": "https://img.chatgpt2notion.com/products/aiexporthub-hero/2026-09-30/aiexporthub-producthunt-banner-2026-09-30.png",
+      "score": 1,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-10-20T08:39:04Z",
+      "summary_ja": "Title: Show HN: AIExportHub – bulk export AI chats to Notion, Markdown, and PDF\nArticle title: AIExportHub\nDescription: Bulk export ChatGPT, Claude, Gemini, Genspark, Grok, and Perplexity conversations to Notion, Markdown, Obsidian, or PDF. Choose individual chats or supported histories and collections, keeping available images, files, citations, and code together.\n\nArticle text:\nAI Exporter Hub All Products Export Hubs ChatGPT Export Hub Perplexity Export Hub Gemini Export Hub Claude Export Hub Grok Export Hub Midjourney Export Hub Resources Pricing Account Docs Blog English 中文 日本語 All Products Export Hubs\nBulk export ChatGPT, Claude, Gemini, Genspark, Grok, and Perplexity conversations to Notion, Markdown, Obsidian, or PDF. Choose individual chats or supported histories and collections, keeping available images, files, citations, and code together.\nAdd to Chrome - Free Docs Pricing One…"
+    },
+    {
+      "rank": 8,
       "hn_id": 50160813,
       "title": "Show HN: AppMaker – Build business apps with AI, visual editing and code",
       "title_ja": "Show HN: AppMaker – Build business apps with AI, visual editing and code",
@@ -45,7 +113,35 @@
       "summary_ja": "Title: Show HN: AppMaker – Build business apps with AI, visual editing and code\nArticle title: AppMaker — Business apps, built differently\nDescription: AppMaker is an AI-first builder for business applications. Describe the app you need, let AI build it on a ready-made platform, refine it in conversation or in the editor, and export it. Public beta, free to start.\nHN text: Hi HN, I've been working on AppMaker, a tool for building with AI business apps like CRMs, dashboards, and internal tools. It is NOT a low-code. https://appmaker.io Apps come with a database, authentication, and backend logic, and can be exported as standalone Node.js applications. It's still in beta, and I'd love to hear your feedback.\n\nArticle text:\nSkip to content\nPublic beta\nAppMaker is for evaluation and development, not production use.\nRead the terms\nAppMaker\nBeta\nHow it works\nBusiness apps,\nbuilt differently.\nDe…"
     },
     {
-      "rank": 4,
+      "rank": 9,
+      "hn_id": 50162912,
+      "title": "The chase is becoming an AI feature. In Portugal, nobody asks yet",
+      "title_ja": "The chase is becoming an AI feature. In Portugal, nobody asks yet",
+      "hn_url": "https://news.ycombinator.com/item?id=50162912",
+      "source_url": "https://gil-neto.com/blog/the-chase-is-becoming-an-ai-feature/",
+      "image_url": "https://gil-neto.com/og-image.png",
+      "score": 2,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-10-20T08:24:35Z",
+      "summary_ja": "Title: The chase is becoming an AI feature. In Portugal, nobody asks yet\nArticle title: The chase is becoming an AI feature. In Portugal, nobody asks yet — Gil Neto\nDescription: Xero and Pennylane are automating the most hated monthly job in a small practice: asking clients for missing documents. Portuguese software receives documents but never asks for them, and the useful version of the ask starts at the bank line.\n\nArticle text:\nThe chase is becoming an AI feature. In Portugal, nobody asks yet — Gil Neto\n← All writing accounting ai-agents portugal reconciliation The chase is becoming an AI feature. In Portugal, nobody asks yet\nIn a small accounting practice there’s a monthly job nobody likes. Before the books can close, someone has to chase clients for what’s missing: the invoice behind a payment, the receipt for a card charge, the bank statement that never got sent. I’ve been on the…"
+    },
+    {
+      "rank": 10,
+      "hn_id": 50163270,
+      "title": "How Much of a Harness Does a Strong Agent Need for Autonomous ML Engineering?",
+      "title_ja": "How Much of a Harness Does a Strong Agent Need for Autonomous ML Engineering?",
+      "hn_url": "https://news.ycombinator.com/item?id=50163270",
+      "source_url": "https://arxiv.org/abs/2609.40303",
+      "image_url": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-10-20T09:08:09Z",
+      "summary_ja": "Title: How Much of a Harness Does a Strong Agent Need for Autonomous ML Engineering?\nArticle title: [2609.40303] How Much of a Harness Does a Strong Agent Need for Autonomous ML Engineering?\nDescription: Abstract page for arXiv paper 2609.40303: How Much of a Harness Does a Strong Agent Need for Autonomous ML Engineering?\n\nArticle text:\nSkip to main content\nSearch\nSubmit\nDonate\nLog in\nSearch arXiv\nPress Enter to search · Advanced search\n--\u003e\nComputer Science \u003e Artificial Intelligence\n[Submitted on 30 Sep 2026]\nTitle: How Much of a Harness Does a Strong Agent Need for Autonomous ML Engineering?\nAbstract: Recent autonomous machine learning engineering (MLE) agents have made significant progress on public leaderboards. Often motivated by progress stagnation over long-horizon cycles and limited Large Language Model (LLM) primitives, modern MLE agents are deployed on top of increasingly elabor…"
+    },
+    {
+      "rank": 11,
       "hn_id": 50160830,
       "title": "Show HN: Search for AI-agents and usefulness score",
       "title_ja": "Show HN: Search for AI-agents and usefulness score",
@@ -58,7 +154,7 @@
       "summary_ja": "Title: Show HN: Search for AI-agents and usefulness score\nArticle title: Xtract search API\nHN text: We presented this project at innovationintelligencehackathon.com and today we are putting a url out for you to test and give us feedback. after talking to teams building agents that research companies to create outreach, we found few things that are very important to them. one of them is recency. When we prompted agents with outdated alert about companies, 4 out of 7 times, they came up with outdated insights, even when they had recent news in context. A bigger model didnt fix it. So we built search for ai-agents with usefulness score on top. So, when you search each page comes with score+price. this solve 3 problems; 1. token, SOTA agents read all pages to make sense of the useful ones 2. cost, when agents pay for pages they read, its is cost-effective to read only useful ones 3. quality,…"
     },
     {
-      "rank": 5,
+      "rank": 12,
       "hn_id": 50160927,
       "title": "Textideo Director – an AI video creation tool for scenes, shots",
       "title_ja": "Textideo Director – an AI video creation tool for scenes, shots",
@@ -70,6 +166,19 @@
       "comments": 0,
       "posted_at": "2026-10-20T03:13:03Z",
       "summary_ja": "Title: Textideo Director – an AI video creation tool for scenes, shots\nArticle title: Textideo Director — Direct AI Videos Scene by Scene\nDescription: Textideo Director is an AI video director for scene-by-scene storytelling: build chapters, generate shots, voiceover and music, compare takes, export the film.\n\nArticle text:\nTextideo Director — Direct AI Videos Scene by Scene Textideo .com Pricing UP TO 67% Sign In Home\nRedeem Code Pricing View Plans UP TO 67% OFF AI VIDEO DIRECTOR Textideo Director Direct Every Scene, Shot by Shot\nTextideo Director keeps your chapters, shots, takes, audio and subtitles in one project, so a story can be rebuilt, re-cut and finished without losing earlier work.\nNo editing experience needed · Free credits to start\nNew Project Start from a blank timeline and direct your first scene My Projects Pick up where you left off My Textideo Director Projects\nTextideo…"
+    },
+    {
+      "rank": 13,
+      "hn_id": 50163287,
+      "title": "Show HN: Sandkiln – Fast Firecracker MicroVM sandboxes for AI-generated code",
+      "title_ja": "Show HN: Sandkiln – Fast Firecracker MicroVM sandboxes for AI-generated code",
+      "hn_url": "https://news.ycombinator.com/item?id=50163287",
+      "source_url": "https://sandkiln.vercel.app/",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-10-20T09:09:46Z",
+      "summary_ja": "Title: Show HN: Sandkiln – Fast Firecracker MicroVM sandboxes for AI-generated code\nArticle title: sandkiln\nDescription: A compute primitive for safely running untrusted or AI-generated code — hardware-isolated Firecracker microVMs, real benchmarks, SDKs for JS/TS, Python, and a CLI.\n\nArticle text:\n\"\u003e sandkiln . Architecture Performance Roadmap Changelog Docs Architecture Performance Roadmap Changelog Docs Run untrusted code on hardware you control .\nEvery execution gets its own Firecracker microVM. Its own kernel, its own filesystem, its own network. Not a container with extra steps.\nA Rust VMM, a static guest agent on vsock, an HTTP daemon driving both. Self-hosted, MIT licensed, benchmarked in the open.\n[ 0.000000] Linux version 5.10.223 (gcc 11.4.0) #1 SMP [ 0.000000] Command line: console=ttyS0 reboot=k panic=1 [ 0.000000] Hypervisor detected: KVM [ 0.005803] Booting paravirtualized…"
     }
   ]
 }

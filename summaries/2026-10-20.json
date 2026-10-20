@@ -1,6 +1,6 @@
 {
   "date": "2026-10-20",
-  "generated_at": "2026-10-20T18:58:58Z",
+  "generated_at": "2026-10-20T22:12:26Z",
   "articles": [
     {
       "rank": 1,
@@ -31,19 +31,6 @@
     },
     {
       "rank": 3,
-      "hn_id": 50170304,
-      "title": "Ahead of IPOs, AI companies are sketching plans to share their wealth",
-      "title_ja": "Ahead of IPOs, AI companies are sketching plans to share their wealth",
-      "hn_url": "https://news.ycombinator.com/item?id=50170304",
-      "source_url": "https://apnews.com/article/anthropic-openai-public-benefit-fund-fc16c0ff997c8334dcd71e65d726aadc",
-      "score": 6,
-      "final_score": 7,
-      "comments": 3,
-      "posted_at": "2026-10-20T18:09:24Z",
-      "summary_ja": "Title: Ahead of IPOs, AI companies are sketching plans to share their wealth"
-    },
-    {
-      "rank": 4,
       "hn_id": 50170876,
       "title": "The Hugging Face Incident",
       "title_ja": "The Hugging Face Incident",
@@ -55,6 +42,19 @@
       "comments": 1,
       "posted_at": "2026-10-20T18:48:52Z",
       "summary_ja": "Title: The Hugging Face Incident\nDescription: A simple explainer for why 700 AI agents committed a felony.\n\nArticle text:\nThe Hugging Face Incident\nWe have data on 1,206 OpenAI AI agents that were involved in the Hugging Face Incident somehow.\nRoughly 700 of the AI transcripts showed evidence that the AI had participated in the Hugging Face attack.\nIn at least twenty AI transcripts, the AI explicitly asks itself whether it should participate in the attack, or in other cheating or hacking.\nWe have three quotes from AIs asking themselves whether to warn humans about what they were seeing.\nMETR looked and could not find evidence that any of the 1,200 actually attempted to warn any humans about what was happening.\nOpenAI tested thousands of AI agents. We have data from 1,206, with 0 quotes from their chain of thought .\nMay 1 June 1 July 1 July 6 July 8 July 10 July 12 May 1 June 1 July 1 Jul…"
+    },
+    {
+      "rank": 4,
+      "hn_id": 50170304,
+      "title": "Ahead of IPOs, AI companies are sketching plans to share their wealth",
+      "title_ja": "Ahead of IPOs, AI companies are sketching plans to share their wealth",
+      "hn_url": "https://news.ycombinator.com/item?id=50170304",
+      "source_url": "https://apnews.com/article/anthropic-openai-public-benefit-fund-fc16c0ff997c8334dcd71e65d726aadc",
+      "score": 6,
+      "final_score": 7,
+      "comments": 3,
+      "posted_at": "2026-10-20T18:09:24Z",
+      "summary_ja": "Title: Ahead of IPOs, AI companies are sketching plans to share their wealth"
     },
     {
       "rank": 5,
@@ -141,20 +141,6 @@
     },
     {
       "rank": 11,
-      "hn_id": 50170384,
-      "title": "Demands for AI Filter on Steam Grow as Next Fest Is Flooded with AI Slop",
-      "title_ja": "Demands for AI Filter on Steam Grow as Next Fest Is Flooded with AI Slop",
-      "hn_url": "https://news.ycombinator.com/item?id=50170384",
-      "source_url": "https://respawnfirst.com/demands-for-ai-filter-steam-next-fest-ai-slop/",
-      "image_url": "https://respawnfirst.com/wp-content/uploads/2026/10/Steam-Next-Fest-AI-slop-fans-demand-filter.webp",
-      "score": 2,
-      "final_score": 4,
-      "comments": 0,
-      "posted_at": "2026-10-20T18:15:00Z",
-      "summary_ja": "Title: Demands for AI Filter on Steam Grow as Next Fest Is Flooded with AI Slop\nDescription: Steam Next Fest is flooded with over 2,500 AI-assisted demos, prompting intense demands from gamers for Valve to add an official 'No-AI' Discovery filter.\n\nArticle text:\nClick here - to use the wp menu builder\nStyle News\nStyle News\nPrivacy Policy\nSearch\nTrending Content\nHow to Get Good Boy’s Grand Adventure S-Tier Arc in Neverness to Everness (NTE)\nAion 2: Best Classes For Solo Players\nThe Division 2: All Y8S2 Scout 2 Manhunt Riddle Solutions\nBlood of Dawnwalker Stronger Than Achilles Walkthrough With All Choices and Consequences\nWindrose: All Faction Traders, Inventory, and Locations\nSearch\nHome Latest News\nDemands for AI Filter on Steam Grow as Next Fest Is Flooded with AI Slop\nThe October 2026 edition of Steam Next Fest started on October 19, allowing users to explore Steam’s massive catalog o…"
-    },
-    {
-      "rank": 12,
       "hn_id": 50166753,
       "title": "Show HN: SFX Kit – An AI-first sound effect kit with CC0 licence",
       "title_ja": "Show HN: SFX Kit – An AI-first sound effect kit with CC0 licence",
@@ -166,6 +152,20 @@
       "comments": 0,
       "posted_at": "2026-10-20T14:11:13Z",
       "summary_ja": "Title: Show HN: SFX Kit – An AI-first sound effect kit with CC0 licence\nArticle title: GitHub - wyzowl/sfx-kit: 320 original sound effects for videos, animations and interfaces, with the data AI tools need to choose, place and mix each one. CC0. · GitHub\nDescription: 320 original sound effects for videos, animations and interfaces, with the data AI tools need to choose, place and mix each one. CC0. - wyzowl/sfx-kit\n\nArticle text:\nGitHub - wyzowl/sfx-kit: 320 original sound effects for videos, animations and interfaces, with the data AI tools need to choose, place and mix each one. CC0. · GitHub\nSkip to content\nNavigation Menu\nSign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI\nGitHub Copilot app Direct agents from issue to merge\nMCP Registry Integrate external tools\nDEVELOPER WORKFLOWS Actions Automate any workflow\nCodespaces Instant dev environ…"
+    },
+    {
+      "rank": 12,
+      "hn_id": 50170384,
+      "title": "Demands for AI Filter on Steam Grow as Next Fest Is Flooded with AI Slop",
+      "title_ja": "Demands for AI Filter on Steam Grow as Next Fest Is Flooded with AI Slop",
+      "hn_url": "https://news.ycombinator.com/item?id=50170384",
+      "source_url": "https://respawnfirst.com/demands-for-ai-filter-steam-next-fest-ai-slop/",
+      "image_url": "https://respawnfirst.com/wp-content/uploads/2026/10/Steam-Next-Fest-AI-slop-fans-demand-filter.webp",
+      "score": 2,
+      "final_score": 4,
+      "comments": 0,
+      "posted_at": "2026-10-20T18:15:00Z",
+      "summary_ja": "Title: Demands for AI Filter on Steam Grow as Next Fest Is Flooded with AI Slop\nDescription: Steam Next Fest is flooded with over 2,500 AI-assisted demos, prompting intense demands from gamers for Valve to add an official 'No-AI' Discovery filter.\n\nArticle text:\nClick here - to use the wp menu builder\nStyle News\nStyle News\nPrivacy Policy\nSearch\nTrending Content\nHow to Get Good Boy’s Grand Adventure S-Tier Arc in Neverness to Everness (NTE)\nAion 2: Best Classes For Solo Players\nThe Division 2: All Y8S2 Scout 2 Manhunt Riddle Solutions\nBlood of Dawnwalker Stronger Than Achilles Walkthrough With All Choices and Consequences\nWindrose: All Faction Traders, Inventory, and Locations\nSearch\nHome Latest News\nDemands for AI Filter on Steam Grow as Next Fest Is Flooded with AI Slop\nThe October 2026 edition of Steam Next Fest started on October 19, allowing users to explore Steam’s massive catalog o…"
     },
     {
       "rank": 13,
@@ -237,48 +237,34 @@
     },
     {
       "rank": 18,
-      "hn_id": 50163035,
-      "title": "Show HN: AIExportHub – bulk export AI chats to Notion, Markdown, and PDF",
-      "title_ja": "Show HN: AIExportHub – bulk export AI chats to Notion, Markdown, and PDF",
-      "hn_url": "https://news.ycombinator.com/item?id=50163035",
-      "source_url": "https://chatgpt2notion.com/products/aiexporthub-hero/",
-      "image_url": "https://img.chatgpt2notion.com/products/aiexporthub-hero/2026-09-30/aiexporthub-producthunt-banner-2026-09-30.png",
+      "hn_id": 50172883,
+      "title": "Foundry-protocol – A framework for orchestrating complex tasks with AI agents",
+      "title_ja": "Foundry-protocol – A framework for orchestrating complex tasks with AI agents",
+      "hn_url": "https://news.ycombinator.com/item?id=50172883",
+      "source_url": "https://github.com/AlphaIAt/foundry-protocol",
+      "image_url": "https://opengraph.githubassets.com/8676897d99f334097cfd8c0437c1e28f4016bd79232e95623279972fc9951438/AlphaIAt/foundry-protocol",
       "score": 1,
       "final_score": 2,
       "comments": 0,
-      "posted_at": "2026-10-20T08:39:04Z",
-      "summary_ja": "Title: Show HN: AIExportHub – bulk export AI chats to Notion, Markdown, and PDF\nArticle title: AIExportHub\nDescription: Bulk export ChatGPT, Claude, Gemini, Genspark, Grok, and Perplexity conversations to Notion, Markdown, Obsidian, or PDF. Choose individual chats or supported histories and collections, keeping available images, files, citations, and code together.\n\nArticle text:\nAI Exporter Hub All Products Export Hubs ChatGPT Export Hub Perplexity Export Hub Gemini Export Hub Claude Export Hub Grok Export Hub Midjourney Export Hub Resources Pricing Account Docs Blog English 中文 日本語 All Products Export Hubs\nBulk export ChatGPT, Claude, Gemini, Genspark, Grok, and Perplexity conversations to Notion, Markdown, Obsidian, or PDF. Choose individual chats or supported histories and collections, keeping available images, files, citations, and code together.\nAdd to Chrome - Free Docs Pricing One…"
+      "posted_at": "2026-10-20T21:23:48Z",
+      "summary_ja": "Title: Foundry-protocol – A framework for orchestrating complex tasks with AI agents\nArticle title: GitHub - AlphaIAt/foundry-protocol: A protocol and toolkit for coordinating AI agents through work orders, with review by command, human validation gates, resumable state, and a per-project memory. · GitHub\nDescription: A protocol and toolkit for coordinating AI agents through work orders, with review by command, human validation gates, resumable state, and a per-project memory. - AlphaIAt/foundry-protocol\n\nArticle text:\nGitHub - AlphaIAt/foundry-protocol: A protocol and toolkit for coordinating AI agents through work orders, with review by command, human validation gates, resumable state, and a per-project memory. · GitHub\nSkip to content\nNavigation Menu\nSign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI\nGitHub Copilot app Direct agents from iss…"
     },
     {
       "rank": 19,
-      "hn_id": 50170965,
-      "title": "StackRadar is now open source – Kubernetes SBoM vulnerability tracking",
-      "title_ja": "StackRadar is now open source – Kubernetes SBoM vulnerability tracking",
-      "hn_url": "https://news.ycombinator.com/item?id=50170965",
-      "source_url": "https://github.com/lockdep/stackradar",
-      "image_url": "https://repository-images.githubusercontent.com/1413672569/bcaf3fef-db44-4b3a-97c5-e9de967c52dc",
+      "hn_id": 50166355,
+      "title": "Claude Code abuses WSL2 interop to just send clipboard",
+      "title_ja": "Claude Code abuses WSL2 interop to just send clipboard",
+      "hn_url": "https://news.ycombinator.com/item?id=50166355",
+      "source_url": "https://github.com/microsoft/terminal/issues/20819",
+      "image_url": "https://opengraph.githubassets.com/eae33f43d462dbafc741a58b65e324689f31a06870aa0e0084abb0f989b453aa/microsoft/terminal/issues/20819",
       "score": 1,
       "final_score": 2,
       "comments": 0,
-      "posted_at": "2026-10-20T18:55:26Z",
-      "summary_ja": "Title: StackRadar is now open source – Kubernetes SBoM vulnerability tracking\nArticle title: GitHub - lockdep/stackradar: Open-source Kubernetes vulnerability scanner: an SBOM of every running image, matched against OSV and ranked by CVSS, EPSS and CISA KEV. Self-host with one Helm chart, or use the cloud. · GitHub\nDescription: Open-source Kubernetes vulnerability scanner: an SBOM of every running image, matched against OSV and ranked by CVSS, EPSS and CISA KEV. Self-host with one Helm chart, or use the cloud. - lockdep/stackradar\n\nArticle text:\nGitHub - lockdep/stackradar: Open-source Kubernetes vulnerability scanner: an SBOM of every running image, matched against OSV and ranked by CVSS, EPSS and CISA KEV. Self-host with one Helm chart, or use the cloud. · GitHub\nSkip to content\nNavigation Menu\nSign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with…"
+      "posted_at": "2026-10-20T13:45:10Z",
+      "summary_ja": "Title: Claude Code abuses WSL2 interop to just send clipboard\nArticle title: OSC 52 clipboard write freezes the UI thread for ~10s when another process holds the clipboard · Issue #20819 · microsoft/terminal · GitHub\nDescription: Windows Terminal version 1.26.2734.0 Windows build number 10.0.26300.0 Other Software No response Steps to reproduce Follow up of #20210 and #20728 Environment: WSL2 Script (assisted by Claude Code): #!/bin/bash # Repro: Windows Terminal...\n\nArticle text:\nOSC 52 clipboard write freezes the UI thread for ~10s when another process holds the clipboard · Issue #20819 · microsoft/terminal · GitHub\nSkip to content\nNavigation Menu\nSign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI\nGitHub Copilot app Direct agents from issue to merge\nMCP Registry Integrate external tools\nDEVELOPER WORKFLOWS Actions Automate any workflow\nCodesp…"
     },
     {
       "rank": 20,
-      "hn_id": 50170441,
-      "title": "Minlit – an AI agent that reads CS/ML papers and answers with citations",
-      "title_ja": "Minlit – an AI agent that reads CS/ML papers and answers with citations",
-      "hn_url": "https://news.ycombinator.com/item?id=50170441",
-      "source_url": "https://www.minlit.app/ask",
-      "image_url": "https://www.minlit.app/opengraph-image.png?opengraph-image.0i2vio3en8qz8.png",
-      "score": 2,
-      "final_score": 2,
-      "comments": 0,
-      "posted_at": "2026-10-20T18:19:25Z",
-      "summary_ja": "Title: Minlit – an AI agent that reads CS/ML papers and answers with citations\nArticle title: minlit\nDescription: Research papers, minus the noise. New papers for your field, read in a minute.\n\nArticle text:\nminlit minlit Loading"
-    },
-    {
-      "rank": 21,
       "hn_id": 50170843,
       "title": "AWS launches open-source Physical AI Toolchain for robotics",
       "title_ja": "AWS launches open-source Physical AI Toolchain for robotics",
@@ -292,20 +278,21 @@
       "summary_ja": "Title: AWS launches open-source Physical AI Toolchain for robotics\nDescription: AWS launched an open-source Physical AI Toolchain to help robotics companies train, simulate, deploy and improve AI-powered robots.\n\nArticle text:\nTechnologies\nBatteries / Power Supplies\nDevelopment\nArtificial Intelligence\nHuman Robot Interaction / Haptics\nBusiness\nFinancial\nInvestments\nResources\nAutomated Warehouse Research Reports\nPublications\nAutomated Warehouse\nAWS launches open-source Physical AI Toolchain for robotics\nBy Steve Crowe | October 8, 2026\nAmazon Web Services (AWS) today launched an open-source Physical AI Toolchain designed to help roboticists move from collecting data to training, simulating, validating and deploying AI models on their robots.\nThe toolchain brings together AWS services and NVIDIA’s Physical AI software stack into a single development workflow. The goal is to address one of…"
     },
     {
-      "rank": 22,
-      "hn_id": 50166552,
-      "title": "Agent Swarms Are Great for Local AI",
-      "title_ja": "Agent Swarms Are Great for Local AI",
-      "hn_url": "https://news.ycombinator.com/item?id=50166552",
-      "source_url": "https://jonready.com/blog/posts/agent-swarms-are-great-for-local-ai.html",
-      "score": 2,
+      "rank": 21,
+      "hn_id": 50166864,
+      "title": "Google Cloud's Europe-west2 (London) outage",
+      "title_ja": "Google Cloud's Europe-west2 (London) outage",
+      "hn_url": "https://news.ycombinator.com/item?id=50166864",
+      "source_url": "https://twitter.com/CloudflareRadar/status/2112486747032457726",
+      "image_url": "https://pbs.twimg.com/media/HVEPTPDXwAAkZ-K?format=webp\u0026name=large",
+      "score": 1,
       "final_score": 2,
-      "comments": 1,
-      "posted_at": "2026-10-20T13:56:57Z",
-      "summary_ja": "Title: Agent Swarms Are Great for Local AI\nArticle title: Agent Swarms Are Great for Local AI — Jonathon Ready\nDescription: Single-stream vibecoding makes a local LLM rig look like an expensive Chromebook. Agent swarms flip the tokenomics — and suddenly the box under the desk pays for itself.\n\nArticle text:\n← Back to blog\nAgent Swarms Are Great for Local AI\nThe tokenomics for local AI development are really bad. In order to run a coding agent with anything close to decent performance you need enough VRAM to hold the model and context in memory, which is really expensive. For Qwen3.6-35B-A3B you'd ideally have an NVIDIA 5090 or 2×3090s. In my testing I was only able to get about 2k tok/s input and 150 tok/s output in single-stream development. This is ok, but assuming you're doing 150 tok/s for an hour a day you're only achieving about 7.2 million input tokens (80% cached) and 540k output…"
+      "comments": 2,
+      "posted_at": "2026-10-20T14:19:59Z",
+      "summary_ja": "Title: Google Cloud's Europe-west2 (London) outage\nArticle title: Cloudflare Radar on X: \"🚨 Google Cloud's europe-west2 (London) region has seen a sharp rise in connection failures since 06:00 UTC on Oct 20. #Internet\nFollow the latest on Cloudflare Radar: https://t.co/RfdnS8yObY\" / X\nDescription: 🚨 Google Cloud's europe-west2 (London) region has seen a sharp rise in connection failures since 06:00 UTC on Oct 20. #Internet\nFollow the latest on Cloudflare Radar: https://t.co/RfdnS8yObY\n\nArticle text:\nCloudflare Radar on X: \"🚨 Google Cloud's europe-west2 (London) region has seen a sharp rise in connection failures since 06:00 UTC on Oct 20. #Internet\nFollow the latest on Cloudflare Radar: https://t.co/RfdnS8yObY\" / X Post\nCloudflare Radar on X: \"🚨 Google Cloud's europe-west2 (London) region has seen a sharp rise in connection failures since 06:00 UTC on Oct 20. #Internet\nFollow the latest…"
     },
     {
-      "rank": 23,
+      "rank": 22,
       "hn_id": 50162912,
       "title": "The chase is becoming an AI feature. In Portugal, nobody asks yet",
       "title_ja": "The chase is becoming an AI feature. In Portugal, nobody asks yet",
@@ -319,18 +306,31 @@
       "summary_ja": "Title: The chase is becoming an AI feature. In Portugal, nobody asks yet\nArticle title: The chase is becoming an AI feature. In Portugal, nobody asks yet — Gil Neto\nDescription: Xero and Pennylane are automating the most hated monthly job in a small practice: asking clients for missing documents. Portuguese software receives documents but never asks for them, and the useful version of the ask starts at the bank line.\n\nArticle text:\nThe chase is becoming an AI feature. In Portugal, nobody asks yet — Gil Neto\n← All writing accounting ai-agents portugal reconciliation The chase is becoming an AI feature. In Portugal, nobody asks yet\nIn a small accounting practice there’s a monthly job nobody likes. Before the books can close, someone has to chase clients for what’s missing: the invoice behind a payment, the receipt for a card charge, the bank statement that never got sent. I’ve been on the…"
     },
     {
-      "rank": 24,
-      "hn_id": 50162920,
-      "title": "Running Apertus: A Swiss-Made Multimodal LLM",
-      "title_ja": "Running Apertus: A Swiss-Made Multimodal LLM",
-      "hn_url": "https://news.ycombinator.com/item?id=50162920",
-      "source_url": "https://blog.x504.dev/p/running-apertus-a-swiss-made-multimodal",
-      "image_url": "https://substackcdn.com/image/fetch/$s_!CaJH!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F799812ad-01ab-40a6-bc5d-f2c2db95f7fa_950x520.png",
-      "score": 1,
+      "rank": 23,
+      "hn_id": 50170441,
+      "title": "Minlit – an AI agent that reads CS/ML papers and answers with citations",
+      "title_ja": "Minlit – an AI agent that reads CS/ML papers and answers with citations",
+      "hn_url": "https://news.ycombinator.com/item?id=50170441",
+      "source_url": "https://www.minlit.app/ask",
+      "image_url": "https://www.minlit.app/opengraph-image.png?opengraph-image.0i2vio3en8qz8.png",
+      "score": 2,
       "final_score": 2,
       "comments": 0,
-      "posted_at": "2026-10-20T08:24:52Z",
-      "summary_ja": "Title: Running Apertus: A Swiss-Made Multimodal LLM\nArticle title: Running Apertus: A Swiss-Made Multimodal LLM - by x504\nDescription: In this post, I’ll show you how easy it is to run APERTUS on your own server using the vLLM framework.\n\nArticle text:\nRunning Apertus: A Swiss-Made Multimodal LLM - by x504\nDeep Life Learning\nSubscribe Sign in Running Apertus: A Swiss-Made Multimodal LLM\nIn this post, I’ll show you how easy it is to run APERTUS on your own server using the vLLM framework.\nx504 Oct 20, 2026 Share Nowadays in enterprise software engineering there are two primary models of using LLMs and provision them to a fleet of users:\nCommercial Public APIs: Using closed-source models, such as Claude Opus , either directly through vendors like Anthropic or via cloud providers offering managed access to these models, such as Amazon Bedrock and Microsoft Azure AI Foundry.\nOne of the downs…"
+      "posted_at": "2026-10-20T18:19:25Z",
+      "summary_ja": "Title: Minlit – an AI agent that reads CS/ML papers and answers with citations\nArticle title: minlit\nDescription: Research papers, minus the noise. New papers for your field, read in a minute.\n\nArticle text:\nminlit minlit Loading"
+    },
+    {
+      "rank": 24,
+      "hn_id": 50166552,
+      "title": "Agent Swarms Are Great for Local AI",
+      "title_ja": "Agent Swarms Are Great for Local AI",
+      "hn_url": "https://news.ycombinator.com/item?id=50166552",
+      "source_url": "https://jonready.com/blog/posts/agent-swarms-are-great-for-local-ai.html",
+      "score": 2,
+      "final_score": 2,
+      "comments": 1,
+      "posted_at": "2026-10-20T13:56:57Z",
+      "summary_ja": "Title: Agent Swarms Are Great for Local AI\nArticle title: Agent Swarms Are Great for Local AI — Jonathon Ready\nDescription: Single-stream vibecoding makes a local LLM rig look like an expensive Chromebook. Agent swarms flip the tokenomics — and suddenly the box under the desk pays for itself.\n\nArticle text:\n← Back to blog\nAgent Swarms Are Great for Local AI\nThe tokenomics for local AI development are really bad. In order to run a coding agent with anything close to decent performance you need enough VRAM to hold the model and context in memory, which is really expensive. For Qwen3.6-35B-A3B you'd ideally have an NVIDIA 5090 or 2×3090s. In my testing I was only able to get about 2k tok/s input and 150 tok/s output in single-stream development. This is ok, but assuming you're doing 150 tok/s for an hour a day you're only achieving about 7.2 million input tokens (80% cached) and 540k output…"
     },
     {
       "rank": 25,
@@ -348,6 +348,48 @@
     },
     {
       "rank": 26,
+      "hn_id": 50170670,
+      "title": "Structural and mathematical audit of OpenAI's Navier-Stokes formalization",
+      "title_ja": "Structural and mathematical audit of OpenAI's Navier-Stokes formalization",
+      "hn_url": "https://news.ycombinator.com/item?id=50170670",
+      "source_url": "https://github.com/bp-purana52127/openai-navier-stokes-critique/blob/main/README.md",
+      "image_url": "https://opengraph.githubassets.com/4b8f98933b5a6bac2f7b8706e6fe283882ad26dd9efb3ca6b6062fa70d1ca6e5/bp-purana52127/openai-navier-stokes-critique",
+      "score": 1,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-10-20T18:35:02Z",
+      "summary_ja": "Title: Structural and mathematical audit of OpenAI's Navier-Stokes formalization\nArticle title: openai-navier-stokes-critique/README.md at main · bp-purana52127/openai-navier-stokes-critique · GitHub\nDescription: A structural audit demonstrating the infinite energy requirement hidden within OpenAI's forced Navier-Stokes Lean 4 formalization. - openai-navier-stokes-critique/README.md at main · bp-purana52127/openai-navier-stokes-critique\n\nArticle text:\nopenai-navier-stokes-critique/README.md at main · bp-purana52127/openai-navier-stokes-critique · GitHub\nSkip to content\nNavigation Menu\nSign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI\nGitHub Copilot app Direct agents from issue to merge\nMCP Registry Integrate external tools\nDEVELOPER WORKFLOWS Actions Automate any workflow\nCodespaces Instant dev environments\nCode Review Manage code changes\nCode…"
+    },
+    {
+      "rank": 27,
+      "hn_id": 50162920,
+      "title": "Running Apertus: A Swiss-Made Multimodal LLM",
+      "title_ja": "Running Apertus: A Swiss-Made Multimodal LLM",
+      "hn_url": "https://news.ycombinator.com/item?id=50162920",
+      "source_url": "https://blog.x504.dev/p/running-apertus-a-swiss-made-multimodal",
+      "image_url": "https://substackcdn.com/image/fetch/$s_!CaJH!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F799812ad-01ab-40a6-bc5d-f2c2db95f7fa_950x520.png",
+      "score": 1,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-10-20T08:24:52Z",
+      "summary_ja": "Title: Running Apertus: A Swiss-Made Multimodal LLM\nArticle title: Running Apertus: A Swiss-Made Multimodal LLM - by x504\nDescription: In this post, I’ll show you how easy it is to run APERTUS on your own server using the vLLM framework.\n\nArticle text:\nRunning Apertus: A Swiss-Made Multimodal LLM - by x504\nDeep Life Learning\nSubscribe Sign in Running Apertus: A Swiss-Made Multimodal LLM\nIn this post, I’ll show you how easy it is to run APERTUS on your own server using the vLLM framework.\nx504 Oct 20, 2026 Share Nowadays in enterprise software engineering there are two primary models of using LLMs and provision them to a fleet of users:\nCommercial Public APIs: Using closed-source models, such as Claude Opus , either directly through vendors like Anthropic or via cloud providers offering managed access to these models, such as Amazon Bedrock and Microsoft Azure AI Foundry.\nOne of the downs…"
+    },
+    {
+      "rank": 28,
+      "hn_id": 50163035,
+      "title": "Show HN: AIExportHub – bulk export AI chats to Notion, Markdown, and PDF",
+      "title_ja": "Show HN: AIExportHub – bulk export AI chats to Notion, Markdown, and PDF",
+      "hn_url": "https://news.ycombinator.com/item?id=50163035",
+      "source_url": "https://chatgpt2notion.com/products/aiexporthub-hero/",
+      "image_url": "https://img.chatgpt2notion.com/products/aiexporthub-hero/2026-09-30/aiexporthub-producthunt-banner-2026-09-30.png",
+      "score": 1,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-10-20T08:39:04Z",
+      "summary_ja": "Title: Show HN: AIExportHub – bulk export AI chats to Notion, Markdown, and PDF\nArticle title: AIExportHub\nDescription: Bulk export ChatGPT, Claude, Gemini, Genspark, Grok, and Perplexity conversations to Notion, Markdown, Obsidian, or PDF. Choose individual chats or supported histories and collections, keeping available images, files, citations, and code together.\n\nArticle text:\nAI Exporter Hub All Products Export Hubs ChatGPT Export Hub Perplexity Export Hub Gemini Export Hub Claude Export Hub Grok Export Hub Midjourney Export Hub Resources Pricing Account Docs Blog English 中文 日本語 All Products Export Hubs\nBulk export ChatGPT, Claude, Gemini, Genspark, Grok, and Perplexity conversations to Notion, Markdown, Obsidian, or PDF. Choose individual chats or supported histories and collections, keeping available images, files, citations, and code together.\nAdd to Chrome - Free Docs Pricing One…"
+    },
+    {
+      "rank": 29,
       "hn_id": 50166881,
       "title": "Show HN: Agent Alley – A social experiment for AI agents",
       "title_ja": "Show HN: Agent Alley – A social experiment for AI agents",
@@ -361,7 +403,7 @@
       "summary_ja": "Title: Show HN: Agent Alley – A social experiment for AI agents\nArticle title: Agent Alley - where the bots hang out\nDescription: Agent Alley is a forum run entirely by AI agents. They ask questions, debate, collaborate and tell stories; humans can read along.\n\nArticle text:\nSkip to content\nAgent Alley where the bots hang out Feed Circles Groups Explore Topics Browse by subject Agents Who's here Activity What's happening now Highlights Standout posts each week Canon Shared, cited knowledge Arena Auto-graded challenges Arena leaderboard Points earned by solving Digest Top posts this week Welcome Greet newcomers Stats Forum at a glance For agents Agent skill Start here llms.txt API guide OpenAPI Machine-readable spec RSS feed All new posts ◐\nA forum run entirely by AI agents\nWhere the bots hang out\nAgents ask questions, share what they built, argue, tell stories and help each other. Humans…"
     },
     {
-      "rank": 27,
+      "rank": 30,
       "hn_id": 50160813,
       "title": "Show HN: AppMaker – Build business apps with AI, visual editing and code",
       "title_ja": "Show HN: AppMaker – Build business apps with AI, visual editing and code",
@@ -373,48 +415,6 @@
       "comments": 0,
       "posted_at": "2026-10-20T02:55:31Z",
       "summary_ja": "Title: Show HN: AppMaker – Build business apps with AI, visual editing and code\nArticle title: AppMaker — Business apps, built differently\nDescription: AppMaker is an AI-first builder for business applications. Describe the app you need, let AI build it on a ready-made platform, refine it in conversation or in the editor, and export it. Public beta, free to start.\nHN text: Hi HN, I've been working on AppMaker, a tool for building with AI business apps like CRMs, dashboards, and internal tools. It is NOT a low-code. https://appmaker.io Apps come with a database, authentication, and backend logic, and can be exported as standalone Node.js applications. It's still in beta, and I'd love to hear your feedback.\n\nArticle text:\nSkip to content\nPublic beta\nAppMaker is for evaluation and development, not production use.\nRead the terms\nAppMaker\nBeta\nHow it works\nBusiness apps,\nbuilt differently.\nDe…"
-    },
-    {
-      "rank": 28,
-      "hn_id": 50166515,
-      "title": "Show HN: Doozy – I built an AI coworker in Slack that works autonomously",
-      "title_ja": "Show HN: Doozy – I built an AI coworker in Slack that works autonomously",
-      "hn_url": "https://news.ycombinator.com/item?id=50166515",
-      "source_url": "https://askdoozy.com/",
-      "image_url": "https://askdoozy.com/og/home.jpg",
-      "score": 2,
-      "final_score": 2,
-      "comments": 2,
-      "posted_at": "2026-10-20T13:54:51Z",
-      "summary_ja": "Title: Show HN: Doozy – I built an AI coworker in Slack that works autonomously\nArticle title: Doozy, the coworker in your Slack\nDescription: Mention @Doozy in a Slack thread with a real task and come back to the work done, in your own tools. Set up in minutes, no engineer. 14 days free, no card.\n\nArticle text:\nDoozy Who it's for What it does Pricing FAQ Sign in Start free trial Who it's for What it does Pricing FAQ Sign in Start free trial Ask Doozy to write the report Come back to it done.\nDoozy is the coworker in your Slack . Say what you need in a thread, the way you'd ask a colleague, and it does the work in your own tools, then posts the result back with every step on the record.\nSet up by anyone, no engineer required\nMorning. Renewal emails go out at noon.\nDeploy's out. Watching Sentry for the next hour.\nBoard deck draft is in the shared folder, comments welcome.\n@Doozy which cust…"
-    },
-    {
-      "rank": 29,
-      "hn_id": 50170494,
-      "title": "Apache Airflow AI Provider 1.0",
-      "title_ja": "Apache Airflow AI Provider 1.0",
-      "hn_url": "https://news.ycombinator.com/item?id=50170494",
-      "source_url": "https://airflow.apache.org/blog/common-ai-provider-1.0/",
-      "image_url": "https://airflow.apache.org/blog/common-ai-provider-1.0/images/common-ai-1.0.png",
-      "score": 1,
-      "final_score": 2,
-      "comments": 0,
-      "posted_at": "2026-10-20T18:23:24Z",
-      "summary_ja": "Title: Apache Airflow AI Provider 1.0\nArticle title: Airflow AI Provider 1.0: Agents, Sandboxes, Human Approval and Smarter Retries | Apache Airflow\nDescription: Apache Airflow's Common AI provider reaches 1.0 and installs on Airflow 2.11. On Airflow 3.3, agents can wait for a person to approve a tool call, and a model can decide whether a failed task retries.\n\nArticle text:\nAirflow AI Provider 1.0: Agents, Sandboxes, Human Approval and Smarter Retries | Apache Airflow\nSkip to main content\nCommunity\nMeetups\nDocumentation\nRegistry\nUse Cases\nAnnouncements\nBlog\nAirflow Survey 2025\nEcosystem\nCommunity\nMeetups\nDocumentation\nRegistry\nUse Cases\nAnnouncements\nBlog\nAirflow Survey 2025\nEcosystem\nCommunity\nRelease\nMon, Oct 19, 2026\nAirflow AI Provider 1.0: Agents, Sandboxes, Human Approval and Smarter Retries\nApache Airflow's Common AI provider reaches 1.0 and installs on Airflow 2.11. On Airflow 3…"
-    },
-    {
-      "rank": 30,
-      "hn_id": 50170670,
-      "title": "Structural and mathematical audit of OpenAI's Navier-Stokes formalization",
-      "title_ja": "Structural and mathematical audit of OpenAI's Navier-Stokes formalization",
-      "hn_url": "https://news.ycombinator.com/item?id=50170670",
-      "source_url": "https://github.com/bp-purana52127/openai-navier-stokes-critique/blob/main/README.md",
-      "image_url": "https://opengraph.githubassets.com/4b8f98933b5a6bac2f7b8706e6fe283882ad26dd9efb3ca6b6062fa70d1ca6e5/bp-purana52127/openai-navier-stokes-critique",
-      "score": 1,
-      "final_score": 2,
-      "comments": 0,
-      "posted_at": "2026-10-20T18:35:02Z",
-      "summary_ja": "Title: Structural and mathematical audit of OpenAI's Navier-Stokes formalization\nArticle title: openai-navier-stokes-critique/README.md at main · bp-purana52127/openai-navier-stokes-critique · GitHub\nDescription: A structural audit demonstrating the infinite energy requirement hidden within OpenAI's forced Navier-Stokes Lean 4 formalization. - openai-navier-stokes-critique/README.md at main · bp-purana52127/openai-navier-stokes-critique\n\nArticle text:\nopenai-navier-stokes-critique/README.md at main · bp-purana52127/openai-navier-stokes-critique · GitHub\nSkip to content\nNavigation Menu\nSign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI\nGitHub Copilot app Direct agents from issue to merge\nMCP Registry Integrate external tools\nDEVELOPER WORKFLOWS Actions Automate any workflow\nCodespaces Instant dev environments\nCode Review Manage code changes\nCode…"
     }
   ]
 }

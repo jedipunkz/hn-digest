@@ -1,9 +1,23 @@
 {
   "date": "2026-10-21",
-  "generated_at": "2026-10-21T13:31:06Z",
+  "generated_at": "2026-10-21T18:27:08Z",
   "articles": [
     {
       "rank": 1,
+      "hn_id": 50185318,
+      "title": "Archestra 1.4: OpenAPPA and Self Hosted Runtime for Claude Code and Codex",
+      "title_ja": "Archestra 1.4: OpenAPPA and Self Hosted Runtime for Claude Code and Codex",
+      "hn_url": "https://news.ycombinator.com/item?id=50185318",
+      "source_url": "https://github.com/archestra-ai/archestra/releases/tag/platform-v1.4.0",
+      "image_url": "https://opengraph.githubassets.com/b2e7f9c5aa7aa2b1cf956bf724d98d99f3bc8af11e477bdc18e5ed52ac043569/archestra-ai/archestra/releases/tag/platform-v1.4.0",
+      "score": 8,
+      "final_score": 16,
+      "comments": 0,
+      "posted_at": "2026-10-21T18:21:42Z",
+      "summary_ja": "Title: Archestra 1.4: OpenAPPA and Self Hosted Runtime for Claude Code and Codex\nArticle title: Release Archestra: 1.4.0 \"Arpa\" · archestra-ai/archestra · GitHub\nDescription: Enterprise AI Platform with guardrails, MCP registry, gateway \u0026 orchestrator - Release Archestra: 1.4.0 \"Arpa\" · archestra-ai/archestra\n\nArticle text:\nRelease Archestra: 1.4.0 \"Arpa\" · archestra-ai/archestra · GitHub\nSkip to content\nNavigation Menu\nSign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI\nGitHub Copilot app Direct agents from issue to merge\nMCP Registry Integrate external tools\nDEVELOPER WORKFLOWS Actions Automate any workflow\nCodespaces Instant dev environments\nCode Review Manage code changes\nCode Quality Enforce quality at merge\nAPPLICATION SECURITY GitHub Advanced Security Find and fix vulnerabilities\nCode security Secure your code as you build\nSecret protecti…"
+    },
+    {
+      "rank": 2,
       "hn_id": 50179857,
       "title": "LayerFS: The filesystem for AI coding agents",
       "title_ja": "LayerFS: The filesystem for AI coding agents",
@@ -17,7 +31,7 @@
       "summary_ja": "Title: LayerFS: The filesystem for AI coding agents\nArticle title: LayerFS: the filesystem for AI coding agents\nDescription: LayerFS is an open-source (MIT) filesystem for AI coding agents: each tool call gets a complete, writable Workspace over shared history.\n\nArticle text:\nLayer FS v1.0.0 → releases Docs Arch Architecture Bench Benchmarks Blog Docs Architecture Benchmarks Blog Releases v1.0.0 GitHub +1 +1 +1 +1 +1 +1 +1 +1 +1 +1 +1 +1 +1 +1 Ephemerality: scaling multi-agent development beyond imagination\nEphemeral Workspaces.\nDurable Shared History.\nLayerFS is the substrate under your agents. Each one mounts a complete, writable Workspace over shared committed history, does its work, commits what it changed, and goes away.\nWATCH VIDEO TRY IT LIVE ↓ Ephemeral workspaces\nLayerFS × and DSH Copy to play with LayerFS on DSH LayerFS × and Pi soon\nCompute exists only while a command runs.\nfs…"
     },
     {
-      "rank": 2,
+      "rank": 3,
       "hn_id": 50174541,
       "title": "SpaceX revenue soars 161% as AI business grows",
       "title_ja": "SpaceX revenue soars 161% as AI business grows",
@@ -31,7 +45,21 @@
       "summary_ja": "Title: SpaceX revenue soars 161% as AI business grows\nArticle title: SpaceX revenue soars 161% as AI business grows - ABC News\nDescription: Elon Musk-led SpaceX issued its second-ever quarterly earnings report on Tuesday.\n\nArticle text:\nSpaceX revenue soars 161% as AI business grows - ABC News\nABC News Live\nInterest Successfully Added We'll notify you here with news about Turn on desktop notifications for breaking stories about interest? Off On Stream on\nSpaceX revenue soars 161% as AI business grows\nElon Musk-led SpaceX issued its second-ever quarterly earnings report.\nShare Elon Musk-led aerospace giant SpaceX grew revenue by 161% over three months ending in September compared with the same period a year earlier, according to an earnings release issued on Tuesday.\nThe surge in revenue was owed in large part to a significant expansion of the company's businesses centered on artificial i…"
     },
     {
-      "rank": 3,
+      "rank": 4,
+      "hn_id": 50185117,
+      "title": "Trump says AI data centres should pay 'dividends' in pre-midterm shift",
+      "title_ja": "Trump says AI data centres should pay 'dividends' in pre-midterm shift",
+      "hn_url": "https://news.ycombinator.com/item?id=50185117",
+      "source_url": "https://www.aljazeera.com/news/2026/10/21/trump-says-ai-data-centres-should-pay-dividends-in-pre-midterm-shift",
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/10/reuters_6ad8c691-1792591505.jpg?resize=1920%2C1440",
+      "score": 7,
+      "final_score": 9,
+      "comments": 0,
+      "posted_at": "2026-10-21T18:06:56Z",
+      "summary_ja": "Title: Trump says AI data centres should pay 'dividends' in pre-midterm shift\nArticle title: Trump says AI data centres should pay ‘dividends’ in pre-midterm shift | Donald Trump News | Al Jazeera\nDescription: US president has continued to support data centres in advance of midterms, despite growing opposition from Republicans.\n\nArticle text:\nTrump says AI data centres should pay ‘dividends’ in pre-midterm shift | Donald Trump News | Al Jazeera\nSkip links Skip to Content play Live Sign up Show navigation menu Navigation menu News Show more news sections Middle East\nMore Show more sections Originals\nLive Click here to search search Sign up Navigation menu caret-left Donald Trump\nTrump, Netanyahu and the Iran question\nHow Iran war fallout may shape US elections\nA visual guide to redistricting\nNews | Donald Trump Trump says AI data centres should pay ‘dividends’ in pre-midterm shift\nUS pres…"
+    },
+    {
+      "rank": 5,
       "hn_id": 50180431,
       "title": "AI bubble could burst and take global economy with it, IMF warns",
       "title_ja": "AI bubble could burst and take global economy with it, IMF warns",
@@ -45,7 +73,61 @@
       "summary_ja": "Title: AI bubble could burst and take global economy with it, IMF warns\nDescription: Financial watchdog fears AI spending bust could rattle markets, with mounting debt and cyberattacks adding to the headache\n\nArticle text:\nJump to main content\nSearch\nTOPICS\nSpecial Features\nAll Special Features\nCloud Infrastructure Month 2026\nModernizing Financial Services with FIS and AWS\nMake it real with Capgemini and AWS\nNutanix: Scale Kubernetes. Not Chaos.\nAI bubble could burst and take global economy with it, IMF warns\nFinancial watchdog fears AI spending bust could rattle markets, with mounting debt and cyberattacks adding to the headache\nUK finance watchdog wants firms to report AI failures and close calls\n1 day ago\nBroadcom Wi-Fi bug turns sweet 16, still lets strangers hijack your router\n2 days ago\nConnectWise turns off its SaaS-y backup, security, and management services to probe security SNA…"
     },
     {
-      "rank": 4,
+      "rank": 6,
+      "hn_id": 50184693,
+      "title": "'AI' Software Crisis: Software Developers have been promoted into incompetence",
+      "title_ja": "'AI' Software Crisis: Software Developers have been promoted into incompetence",
+      "hn_url": "https://news.ycombinator.com/item?id=50184693",
+      "source_url": "https://www.baldurbjarnason.com/2026/07-promoted-into-incompetence/",
+      "image_url": "https://v1.screenshot.11ty.dev/https%3A%2F%2Fwww.baldurbjarnason.com%2F2026%2F07-promoted-into-incompetence%2F/opengraph/",
+      "score": 4,
+      "final_score": 7,
+      "comments": 0,
+      "posted_at": "2026-10-21T17:37:53Z",
+      "summary_ja": "Title: 'AI' Software Crisis: Software Developers have been promoted into incompetence\nArticle title: The 'AI' Software Crisis: Software Developers have been promoted into incompetence\nDescription: Writing at the end of the world, from Hveragerði, Iceland\n\nArticle text:\nThe 'AI' Software Crisis: Software Developers have been promoted into incompetence\nSkip to main content\nBaldur Bjarnason\nTop level navigation menu\nThe 'AI' Software Crisis: Software Developers have been promoted into incompetence\nDevelopers have been promoted into incompetence #\nWith the age of “AI” and agents, software developers have been promoted into incompetence.\nAnd it all comes down to comedy and satire.\nThat probably requires some explanation.\nIf you’re actually working in an industry – any industry – reading about management theory is often indistinguishable from reading comedy.\nNot just because the reality of how…"
+    },
+    {
+      "rank": 7,
+      "hn_id": 50180079,
+      "title": "OpenAI models are coming to Google Cloud",
+      "title_ja": "OpenAI models are coming to Google Cloud",
+      "hn_url": "https://news.ycombinator.com/item?id=50180079",
+      "source_url": "https://openai.com/index/openai-models-google-cloud/",
+      "score": 3,
+      "final_score": 6,
+      "comments": 0,
+      "posted_at": "2026-10-21T12:53:11Z",
+      "summary_ja": "Title: OpenAI models are coming to Google Cloud"
+    },
+    {
+      "rank": 8,
+      "hn_id": 50184898,
+      "title": "Google Pushed AI into Schools–and Even Students Say It's Gone Too Far",
+      "title_ja": "Google Pushed AI into Schools–and Even Students Say It's Gone Too Far",
+      "hn_url": "https://news.ycombinator.com/item?id=50184898",
+      "source_url": "https://www.wsj.com/tech/ai/google-ai-gemini-education-schools-1ec0972a",
+      "score": 5,
+      "final_score": 6,
+      "comments": 1,
+      "posted_at": "2026-10-21T17:50:08Z",
+      "summary_ja": "Title: Google Pushed AI into Schools–and Even Students Say It's Gone Too Far"
+    },
+    {
+      "rank": 9,
+      "hn_id": 50184897,
+      "title": "Claude Code has expected a forged CA and MitM since April",
+      "title_ja": "Claude Code has expected a forged CA and MitM since April",
+      "hn_url": "https://news.ycombinator.com/item?id=50184897",
+      "source_url": "https://github.com/Andytonglove/claude-code-leak/blob/main/src/upstreamproxy/upstreamproxy.ts",
+      "image_url": "https://opengraph.githubassets.com/e3d101491b7d66854655fd838f83e3fe2e3e416f03c167c625d6b8d9ad2c4fab/Andytonglove/claude-code-leak",
+      "score": 3,
+      "final_score": 6,
+      "comments": 0,
+      "posted_at": "2026-10-21T17:50:06Z",
+      "summary_ja": "Title: Claude Code has expected a forged CA and MitM since April\nArticle title: claude-code-leak/src/upstreamproxy/upstreamproxy.ts at main · Andytonglove/claude-code-leak · GitHub\nDescription: Claude Code Snapshot for Research. All original source code is the property of Anthropic. - claude-code-leak/src/upstreamproxy/upstreamproxy.ts at main · Andytonglove/claude-code-leak\n\nArticle text:\nclaude-code-leak/src/upstreamproxy/upstreamproxy.ts at main · Andytonglove/claude-code-leak · GitHub\nSkip to content\nNavigation Menu\nSign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI\nGitHub Copilot app Direct agents from issue to merge\nMCP Registry Integrate external tools\nDEVELOPER WORKFLOWS Actions Automate any workflow\nCodespaces Instant dev environments\nCode Review Manage code changes\nCode Quality Enforce quality at merge\nAPPLICATION SECURITY GitHub Adva…"
+    },
+    {
+      "rank": 10,
       "hn_id": 50174642,
       "title": "Secret trigger words could make AI-powered robots dangerous",
       "title_ja": "Secret trigger words could make AI-powered robots dangerous",
@@ -59,20 +141,7 @@
       "summary_ja": "Title: Secret trigger words could make AI-powered robots dangerous\nArticle title: Secret trigger words could make AI-powered robots dangerous—and these researchers developed a defense - Binghamton News\nDescription: A team of computer scientists at Binghamton University has demonstrated that hidden trigger words inserted maliciously into LLMs could cause a robot to go off-script and perform dangerous actions—and they developed a defense.\n\nArticle text:\nSkip to main content\nBinghamton University: The State University of New York\nSecret trigger words could make AI-powered robots dangerous—and these researchers developed a defense | Binghamton News\nsearch menu\nSearch\nSecret trigger words could make AI-powered robots dangerous—and these researchers developed a defense | Binghamton News\nSelect a theme:\nLight Mode\n|\nDark Mode\nBingUNews\nOctober 20, 2026\nSecret trigger words could make AI-powered…"
     },
     {
-      "rank": 5,
-      "hn_id": 50180079,
-      "title": "OpenAI models are coming to Google Cloud",
-      "title_ja": "OpenAI models are coming to Google Cloud",
-      "hn_url": "https://news.ycombinator.com/item?id=50180079",
-      "source_url": "https://openai.com/index/openai-models-google-cloud/",
-      "score": 3,
-      "final_score": 6,
-      "comments": 0,
-      "posted_at": "2026-10-21T12:53:11Z",
-      "summary_ja": "Title: OpenAI models are coming to Google Cloud"
-    },
-    {
-      "rank": 6,
+      "rank": 11,
       "hn_id": 50174641,
       "title": "Claude solves decades-old mystery behind NSA cryptographic numbers",
       "title_ja": "Claude solves decades-old mystery behind NSA cryptographic numbers",
@@ -86,7 +155,21 @@
       "summary_ja": "Title: Claude solves decades-old mystery behind NSA cryptographic numbers\nArticle title: Claude solves decades-old mystery behind NSA cryptographic numbers | CyberInsider\nDescription: Claude AI has reconstructed the origins of unexplained numbers used in widely adopted security standards, and supplied by the NSA.\n\nArticle text:\nSkip to after header navigation\nReliable cybersecurity news and resources\nSearch site Submit search\nGeneral\nPassword\nBest Password Managers\nBest Windows Password Manager\nComparisons\nBitwarden vs Proton Pass\nIdentity\nBest Identity Theft Protection Services\nVPN\nVPN Reviews\nNordVPN Review\nBest VPN Services\nBest VPN for iPhone\nVPN Comparisons\nNordVPN vs Surfshark\nData Removal\nBest Data Removal Services\nComparisons\nIncogni vs DeleteMe\nSignal fixes critical flaw that could keep audio active after hangup\nWhatsApp told its AI chatbot not to mention privacy regulators\nEFF…"
     },
     {
-      "rank": 7,
+      "rank": 12,
+      "hn_id": 50185273,
+      "title": "Anthropic posts $80B loss in first half of 2026",
+      "title_ja": "Anthropic posts $80B loss in first half of 2026",
+      "hn_url": "https://news.ycombinator.com/item?id=50185273",
+      "source_url": "https://www.aljazeera.com/news/2026/10/21/anthropic-posts-80bn-loss-in-first-half-of-2026-wsj",
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/10/reuters_6ad838d3-1792555219.jpg?resize=1920%2C1440",
+      "score": 2,
+      "final_score": 4,
+      "comments": 0,
+      "posted_at": "2026-10-21T18:18:17Z",
+      "summary_ja": "Title: Anthropic posts $80B loss in first half of 2026\nArticle title: Anthropic posts $80bn loss in first half of 2026: WSJ | Technology News | Al Jazeera\nDescription: The loss, up from $13bn in the same period last year, was driven by accounting charges, according to the report.\n\nArticle text:\nAnthropic posts $80bn loss in first half of 2026: WSJ | Technology News | Al Jazeera\nSkip links Skip to Content play Live Sign up Show navigation menu Navigation menu News Show more news sections Middle East\nMore Show more sections Originals\nLive Click here to search search Sign up Navigation menu caret-left US-Israel war on Iran\nNews | Technology Anthropic posts $80bn loss in first half of 2026: WSJ\nThe loss is up $13 billion more than last year, driven by accounting charges, the report said.\nx whatsapp-stroke copylink google Add Al Jazeera on Google info Anthropic logo and a keyboard in this ill…"
+    },
+    {
+      "rank": 13,
       "hn_id": 50176914,
       "title": "Show HN: Grafista – AI graphic designer built to fight slop",
       "title_ja": "Show HN: Grafista – AI graphic designer built to fight slop",
@@ -100,48 +183,7 @@
       "summary_ja": "Title: Show HN: Grafista – AI graphic designer built to fight slop\nArticle title: Grafista: AI designs, presentations, flyers and more\nDescription: Grafista is an AI graphic designer generating social media posts, presentations, flyers, menus and more. No design knowledge or prompt skills required.\nHN text: You don't need advanced prompt or design skills to create a professional designs using Grafista. Just add your content and your brand.\nFully editable designs in any language. Plans from €10/month, no per seat charge. Startups get 50% for the first 3 months.\n\nArticle text:\nGrafista: AI designs, presentations, flyers and more Loading... Loading... Loading... Loading... Loading... Loading... Loading... About Us Blog Pricing Tutorials Sign In Sign up Create amazing AI designs without the effort or the cost\nGenerate branded and editable social media posts, presentations, flyers and more. N…"
     },
     {
-      "rank": 8,
-      "hn_id": 50180375,
-      "title": "Network incident disrupts mobile services across France",
-      "title_ja": "Network incident disrupts mobile services across France",
-      "hn_url": "https://news.ycombinator.com/item?id=50180375",
-      "source_url": "https://www.reuters.com/business/media-telecom/orange-says-network-incident-disrupts-mobile-services-across-france-2026-10-21/",
-      "score": 2,
-      "final_score": 3,
-      "comments": 0,
-      "posted_at": "2026-10-21T13:12:16Z",
-      "summary_ja": "Title: Network incident disrupts mobile services across France"
-    },
-    {
-      "rank": 9,
-      "hn_id": 50180094,
-      "title": "'We are the cows of the future' Harari warns AI could take over financial system",
-      "title_ja": "'We are the cows of the future' Harari warns AI could take over financial system",
-      "hn_url": "https://news.ycombinator.com/item?id=50180094",
-      "source_url": "https://www.ynetnews.com/tech-and-digital/article/rjzvkfq2fg",
-      "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2024/10/15/Hkv2Ucoykl/Hkv2Ucoykl_0_89_3000_1689_0_large.jpg",
-      "score": 3,
-      "final_score": 3,
-      "comments": 1,
-      "posted_at": "2026-10-21T12:54:02Z",
-      "summary_ja": "Title: 'We are the cows of the future' Harari warns AI could take over financial system\nArticle title: ‘We are the cows of the future’: Yuval Noah Harari warns AI could take over financial\nDescription: In an interview with Czech public television, the Israeli historian warns that AI could build financial and legal systems beyond human understanding, leaving people as unable to grasp the forces controlling their lives as cows are to understand money and the bond market\n\nArticle text:\nUpdates Red Mail 27° Tel Aviv-Jaffa Search Main Israel News Mideast \u0026 World News Tech \u0026 Digital Real Estate Finance Lifestyle Health \u0026 Science Jewish World Travel More Channels Opinions\n‘We are the cows of the future’: Yuval Noah Harari warns AI could take over financial systems\nIn an interview with Czech public television, the Israeli historian warns that AI could build financial and legal systems beyond hum…"
-    },
-    {
-      "rank": 10,
-      "hn_id": 50180539,
-      "title": "The AI doom scenario you've never heard of may be the hardest to stop",
-      "title_ja": "The AI doom scenario you've never heard of may be the hardest to stop",
-      "hn_url": "https://news.ycombinator.com/item?id=50180539",
-      "source_url": "https://www.cbsnews.com/news/ai-doom-scenario-gradual-disempowerment/",
-      "image_url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/10/19/2871e3cb-c135-4878-a8f1-162a5c627aa4/thumbnail/1200x630/37172b2d82439afb580652162c72b471/gettyimages-2213179432.jpg",
-      "score": 3,
-      "final_score": 3,
-      "comments": 0,
-      "posted_at": "2026-10-21T13:23:43Z",
-      "summary_ja": "Title: The AI doom scenario you've never heard of may be the hardest to stop\nArticle title: The AI doom scenario you've never heard of may be the hardest to stop - CBS News\nDescription: The time to prepare for\n\nArticle text:\nThe AI doom scenario you've never heard of may be the hardest to stop\nUpdated on: October 20, 2026 / 8:56 PM EDT\n/ CBS News\nIt seems that almost daily, a big tech company releases a new AI-driven digital assistant. Muse by Meta, Gemini by Google, dots by OpenAI. By the time this article is published, a new one from [insert tech company here] will probably have a press release touting its ability to manage your work and life — to take things off your plate, automate your processes, speed up your tedious tasks. It sounds helpful and, to lower the bar, harmless.\nBut some researchers say this is the beginning of a treacherous path for humankind, one where bots take more…"
-    },
-    {
-      "rank": 11,
+      "rank": 14,
       "hn_id": 50176936,
       "title": "Show HN: I spent two days building this online multiplayer game with Claude Code",
       "title_ja": "Show HN: I spent two days building this online multiplayer game with Claude Code",
@@ -155,7 +197,48 @@
       "summary_ja": "Title: Show HN: I spent two days building this online multiplayer game with Claude Code\nArticle title: Pawnrush\nDescription: Pawnrush: a real-time card battle game. Deploy units, defend your HQ and climb the leaderboard in quick matches against players worldwide.\nHN text: You can create a room and send the link to friends to battle against each other — but you have to finish the tutorial first!\n\nArticle text:\nPawnrush"
     },
     {
-      "rank": 12,
+      "rank": 15,
+      "hn_id": 50180539,
+      "title": "The AI doom scenario you've never heard of may be the hardest to stop",
+      "title_ja": "The AI doom scenario you've never heard of may be the hardest to stop",
+      "hn_url": "https://news.ycombinator.com/item?id=50180539",
+      "source_url": "https://www.cbsnews.com/news/ai-doom-scenario-gradual-disempowerment/",
+      "image_url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/10/19/2871e3cb-c135-4878-a8f1-162a5c627aa4/thumbnail/1200x630/37172b2d82439afb580652162c72b471/gettyimages-2213179432.jpg",
+      "score": 3,
+      "final_score": 3,
+      "comments": 0,
+      "posted_at": "2026-10-21T13:23:43Z",
+      "summary_ja": "Title: The AI doom scenario you've never heard of may be the hardest to stop\nArticle title: The AI doom scenario you've never heard of may be the hardest to stop - CBS News\nDescription: The time to prepare for\n\nArticle text:\nThe AI doom scenario you've never heard of may be the hardest to stop\nUpdated on: October 20, 2026 / 8:56 PM EDT\n/ CBS News\nIt seems that almost daily, a big tech company releases a new AI-driven digital assistant. Muse by Meta, Gemini by Google, dots by OpenAI. By the time this article is published, a new one from [insert tech company here] will probably have a press release touting its ability to manage your work and life — to take things off your plate, automate your processes, speed up your tedious tasks. It sounds helpful and, to lower the bar, harmless.\nBut some researchers say this is the beginning of a treacherous path for humankind, one where bots take more…"
+    },
+    {
+      "rank": 16,
+      "hn_id": 50180094,
+      "title": "'We are the cows of the future' Harari warns AI could take over financial system",
+      "title_ja": "'We are the cows of the future' Harari warns AI could take over financial system",
+      "hn_url": "https://news.ycombinator.com/item?id=50180094",
+      "source_url": "https://www.ynetnews.com/tech-and-digital/article/rjzvkfq2fg",
+      "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2024/10/15/Hkv2Ucoykl/Hkv2Ucoykl_0_89_3000_1689_0_large.jpg",
+      "score": 3,
+      "final_score": 3,
+      "comments": 1,
+      "posted_at": "2026-10-21T12:54:02Z",
+      "summary_ja": "Title: 'We are the cows of the future' Harari warns AI could take over financial system\nArticle title: ‘We are the cows of the future’: Yuval Noah Harari warns AI could take over financial\nDescription: In an interview with Czech public television, the Israeli historian warns that AI could build financial and legal systems beyond human understanding, leaving people as unable to grasp the forces controlling their lives as cows are to understand money and the bond market\n\nArticle text:\nUpdates Red Mail 27° Tel Aviv-Jaffa Search Main Israel News Mideast \u0026 World News Tech \u0026 Digital Real Estate Finance Lifestyle Health \u0026 Science Jewish World Travel More Channels Opinions\n‘We are the cows of the future’: Yuval Noah Harari warns AI could take over financial systems\nIn an interview with Czech public television, the Israeli historian warns that AI could build financial and legal systems beyond hum…"
+    },
+    {
+      "rank": 17,
+      "hn_id": 50180375,
+      "title": "Network incident disrupts mobile services across France",
+      "title_ja": "Network incident disrupts mobile services across France",
+      "hn_url": "https://news.ycombinator.com/item?id=50180375",
+      "source_url": "https://www.reuters.com/business/media-telecom/orange-says-network-incident-disrupts-mobile-services-across-france-2026-10-21/",
+      "score": 2,
+      "final_score": 3,
+      "comments": 0,
+      "posted_at": "2026-10-21T13:12:16Z",
+      "summary_ja": "Title: Network incident disrupts mobile services across France"
+    },
+    {
+      "rank": 18,
       "hn_id": 50180226,
       "title": "Show HN: Mnestiq – tamper-evident logs of what an AI agent saw and did",
       "title_ja": "Show HN: Mnestiq – tamper-evident logs of what an AI agent saw and did",
@@ -169,34 +252,21 @@
       "summary_ja": "Title: Show HN: Mnestiq – tamper-evident logs of what an AI agent saw and did\nArticle title: GitHub - mnestiq/mnestiq: Signed, verifiable records of what your AI agents did: model calls, tool calls and network connections. · GitHub\nDescription: Signed, verifiable records of what your AI agents did: model calls, tool calls and network connections. - mnestiq/mnestiq\n\nArticle text:\nGitHub - mnestiq/mnestiq: Signed, verifiable records of what your AI agents did: model calls, tool calls and network connections. · GitHub\nSkip to content\nNavigation Menu\nSign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI\nGitHub Copilot app Direct agents from issue to merge\nMCP Registry Integrate external tools\nDEVELOPER WORKFLOWS Actions Automate any workflow\nCodespaces Instant dev environments\nCode Review Manage code changes\nCode Quality Enforce quality at merge\nAPPLI…"
     },
     {
-      "rank": 13,
-      "hn_id": 50180070,
-      "title": "Most Americans give a thumbs down to AI",
-      "title_ja": "Most Americans give a thumbs down to AI",
-      "hn_url": "https://news.ycombinator.com/item?id=50180070",
-      "source_url": "https://www.washingtonpost.com/technology/2026/10/21/poll-finds-most-americans-disapprove-how-trump-handling-ai/",
-      "score": 2,
+      "rank": 19,
+      "hn_id": 50185134,
+      "title": "Show HN: Aw-1 – Deterministic AST circuit breaker and kernel jail for AI agents",
+      "title_ja": "Show HN: Aw-1 – Deterministic AST circuit breaker and kernel jail for AI agents",
+      "hn_url": "https://news.ycombinator.com/item?id=50185134",
+      "source_url": "https://github.com/MvikManners/aw1-circuit-breaker",
+      "image_url": "https://opengraph.githubassets.com/017b9954eaaa57d207f6ecc6500afd1f6162e01c4b3b27f5fefa379ccf5e6eec/MvikManners/aw1-circuit-breaker",
+      "score": 1,
       "final_score": 2,
       "comments": 0,
-      "posted_at": "2026-10-21T12:52:29Z",
-      "summary_ja": "Title: Most Americans give a thumbs down to AI"
+      "posted_at": "2026-10-21T18:08:36Z",
+      "summary_ja": "Title: Show HN: Aw-1 – Deterministic AST circuit breaker and kernel jail for AI agents\nArticle title: GitHub - MvikManners/aw1-circuit-breaker: Deterministic sub-0.2ms AST security circuit breaker for autonomous AI agents, tool dispatch pipelines, and MCP servers. · GitHub\nDescription: Deterministic sub-0.2ms AST security circuit breaker for autonomous AI agents, tool dispatch pipelines, and MCP servers. - MvikManners/aw1-circuit-breaker\n\nArticle text:\nGitHub - MvikManners/aw1-circuit-breaker: Deterministic sub-0.2ms AST security circuit breaker for autonomous AI agents, tool dispatch pipelines, and MCP servers. · GitHub\nSkip to content\nNavigation Menu\nSign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI\nGitHub Copilot app Direct agents from issue to merge\nMCP Registry Integrate external tools\nDEVELOPER WORKFLOWS Actions Automate any workflow\nCod…"
     },
     {
-      "rank": 14,
-      "hn_id": 50180283,
-      "title": "Radical Numerics creates first AI-generated phages to reach human patient",
-      "title_ja": "Radical Numerics creates first AI-generated phages to reach human patient",
-      "hn_url": "https://news.ycombinator.com/item?id=50180283",
-      "source_url": "https://www.radicalnumerics.ai/blog/omnii-phage",
-      "image_url": "https://www.radicalnumerics.ai/assets/blog/omnii-phage/omnii-phage-hero_v2.jpeg",
-      "score": 2,
-      "final_score": 2,
-      "comments": 0,
-      "posted_at": "2026-10-21T13:06:22Z",
-      "summary_ja": "Title: Radical Numerics creates first AI-generated phages to reach human patient\nArticle title: Radical Numerics creates first AI-generated phages to reach human patient with Omnii-1 — Radical Numerics\nDescription: Omnii-1-designed phages were administered to a human patient, marking a major milestone toward personalized, AI-designed treatments for antibiotic-resistant infections.\n\nArticle text:\nRadical Numerics creates first AI-generated phages to reach human patient with Omnii-1 — Radical Numerics\nHome Omnii-1 Radical Advances Research About Join Us MENU CLOSE 01 Home 02 Omnii-1 03 Radical Advances 04 Research 05 About 06 Join Us GET IN TOUCH defense@radicalnumerics.ai BACK BACK RESEARCH /\nRadical Numerics creates first AI-generated phages to reach human patient with Omnii-1\nAniketh Iyengar, Benjamin Siranosian, Arpan Sarkar, Avery Noonan, Michael Poli, Eric Nguyen, and others at Radic…"
-    },
-    {
-      "rank": 15,
+      "rank": 20,
       "hn_id": 50176865,
       "title": "A team of Gemini 4 Argon agents beats Minecraft",
       "title_ja": "A team of Gemini 4 Argon agents beats Minecraft",
@@ -210,7 +280,20 @@
       "summary_ja": "Title: A team of Gemini 4 Argon agents beats Minecraft\nArticle title: [2610.22319] A team of Gemini 4 Argon agents beats Minecraft\nDescription: Abstract page for arXiv paper 2610.22319: A team of Gemini 4 Argon agents beats Minecraft\n\nArticle text:\nSkip to main content\nSearch\nSubmit\nDonate\nLog in\nSearch arXiv\nPress Enter to search · Advanced search\nComputer Science \u003e Artificial Intelligence\n[Submitted on 15 Oct 2026]\nTitle: A team of Gemini 4 Argon agents beats Minecraft\nAbstract: We placed four Gemini 4 Argon agents in a sandboxed Minecraft survival world and gave them one goal: defeat the Ender Dragon. Each agent controlled a player via an open-source library called Mineflayer and coordinated with its teammates through in-game chat and shared memory. No one assigned roles or wrote game logic. The agents planned, wrote, and debugged every program themselves. Researchers could watch the…"
     },
     {
-      "rank": 16,
+      "rank": 21,
+      "hn_id": 50180070,
+      "title": "Most Americans give a thumbs down to AI",
+      "title_ja": "Most Americans give a thumbs down to AI",
+      "hn_url": "https://news.ycombinator.com/item?id=50180070",
+      "source_url": "https://www.washingtonpost.com/technology/2026/10/21/poll-finds-most-americans-disapprove-how-trump-handling-ai/",
+      "score": 2,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-10-21T12:52:29Z",
+      "summary_ja": "Title: Most Americans give a thumbs down to AI"
+    },
+    {
+      "rank": 22,
       "hn_id": 50174529,
       "title": "Ken Griffin Says AI 'Almost Certainly' in a Bubble",
       "title_ja": "Ken Griffin Says AI 'Almost Certainly' in a Bubble",
@@ -223,7 +306,7 @@
       "summary_ja": "Title: Ken Griffin Says AI 'Almost Certainly' in a Bubble"
     },
     {
-      "rank": 17,
+      "rank": 23,
       "hn_id": 50180570,
       "title": "Aurora, HolmesGPT and K8sGPT on the same 19 Kubernetes faults",
       "title_ja": "Aurora, HolmesGPT and K8sGPT on the same 19 Kubernetes faults",
@@ -237,7 +320,21 @@
       "summary_ja": "Title: Aurora, HolmesGPT and K8sGPT on the same 19 Kubernetes faults\nArticle title: AI SRE Benchmark: Aurora, HolmesGPT and K8sGPT on 19 Kubernetes Faults\nDescription: 19 injected Kubernetes faults, three AI incident agents, two runs each, every answer graded by a judge model against the injected fault. Every trace and every miss is public.\n\nArticle text:\nAI SRE Benchmark: Aurora, HolmesGPT and K8sGPT on 19 Kubernetes Faults Aurora by Arvo AI Documentation Features About Us Blog Runbooks Benchmark Contact Invest Star on GitHub 359 Log in Book a demo AI SRE benchmark\n19 Kubernetes faults. 3 agents. Every trace public.\nWe break a small app on a kind cluster in known ways, hand each agent only the alert, and grade the root cause against the fault we injected. A judge model scores every run. A person has checked Aurora’s verdicts; HolmesGPT’s and K8sGPT’s are the judge’s, read over by a seco…"
     },
     {
-      "rank": 18,
+      "rank": 24,
+      "hn_id": 50180283,
+      "title": "Radical Numerics creates first AI-generated phages to reach human patient",
+      "title_ja": "Radical Numerics creates first AI-generated phages to reach human patient",
+      "hn_url": "https://news.ycombinator.com/item?id=50180283",
+      "source_url": "https://www.radicalnumerics.ai/blog/omnii-phage",
+      "image_url": "https://www.radicalnumerics.ai/assets/blog/omnii-phage/omnii-phage-hero_v2.jpeg",
+      "score": 2,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-10-21T13:06:22Z",
+      "summary_ja": "Title: Radical Numerics creates first AI-generated phages to reach human patient\nArticle title: Radical Numerics creates first AI-generated phages to reach human patient with Omnii-1 — Radical Numerics\nDescription: Omnii-1-designed phages were administered to a human patient, marking a major milestone toward personalized, AI-designed treatments for antibiotic-resistant infections.\n\nArticle text:\nRadical Numerics creates first AI-generated phages to reach human patient with Omnii-1 — Radical Numerics\nHome Omnii-1 Radical Advances Research About Join Us MENU CLOSE 01 Home 02 Omnii-1 03 Radical Advances 04 Research 05 About 06 Join Us GET IN TOUCH defense@radicalnumerics.ai BACK BACK RESEARCH /\nRadical Numerics creates first AI-generated phages to reach human patient with Omnii-1\nAniketh Iyengar, Benjamin Siranosian, Arpan Sarkar, Avery Noonan, Michael Poli, Eric Nguyen, and others at Radic…"
+    },
+    {
+      "rank": 25,
       "hn_id": 50176960,
       "title": "Show HN: See AI trends heat up in real time",
       "title_ja": "Show HN: See AI trends heat up in real time",
@@ -250,48 +347,7 @@
       "summary_ja": "Title: Show HN: See AI trends heat up in real time\nArticle title: Jag's AI Heat Map: what's heating up in AI\nDescription: An interactive map of the AI companies, models, products, people and ideas getting the most attention in English-language news over the last 7 days.\n\nArticle text:\nAn interactive map of the AI companies, models, products, people, hardware and ideas that are getting the most attention in AI news and developer communities. Bigger, closer to the centre and more connected means more talked about.\nThe Articles button (top right) opens a scrollable archive of every article behind the map — the last 30 days, grouped by source, newest first. Pick a source on the left to see just its stories; click any headline to open it in a new tab. The small red number under the button counts how many new articles were discovered in the last hour.\nEvery story adds heat to each entity it me…"
     },
     {
-      "rank": 19,
-      "hn_id": 50180599,
-      "title": "A free agentic app builder where LLMs only write what deterministic tools can't",
-      "title_ja": "A free agentic app builder where LLMs only write what deterministic tools can't",
-      "hn_url": "https://news.ycombinator.com/item?id=50180599",
-      "source_url": "https://editor.besser-pearl.org/",
-      "score": 1,
-      "final_score": 1,
-      "comments": 0,
-      "posted_at": "2026-10-21T13:27:54Z",
-      "summary_ja": "Title: A free agentic app builder where LLMs only write what deterministic tools can't\nArticle title: BESSER Web Modeling Editor\n\nArticle text:\nBESSER Web Modeling Editor"
-    },
-    {
-      "rank": 20,
-      "hn_id": 50180215,
-      "title": "Show HN: Peras – Pause Claude Code and Codex before they burn your weekly limit",
-      "title_ja": "Show HN: Peras – Pause Claude Code and Codex before they burn your weekly limit",
-      "hn_url": "https://news.ycombinator.com/item?id=50180215",
-      "source_url": "https://peras.vertias.eu/",
-      "image_url": "https://peras.vertias.eu/og.png",
-      "score": 1,
-      "final_score": 1,
-      "comments": 0,
-      "posted_at": "2026-10-21T13:01:26Z",
-      "summary_ja": "Title: Show HN: Peras – Pause Claude Code and Codex before they burn your weekly limit\nArticle title: Peras: stop Claude Code or Codex before it burns your limit\nDescription: Peras watches your Claude Pro/Max or ChatGPT plan usage, tells you where the week is headed, and pauses the agent (or asks first) at the line you set. Free, MIT, local.\nHN text: Hello HN! Today I am presenting you with Peras, the tool which governs your Claude Code and Codex usage, and enforces limits. I built it because I got tired of constantly having to spam /usage to check my usage, and decide if a task is worth risking the agent running out mid-task. Peras enforces a limit with 2 main tiers. At 75% weekly usage you will get a notification, and at 90% Peras will automatically pause the agent. These limits are the default and they are customizable to your own liking. You may ask \"how does it know my usage in Clau…"
-    },
-    {
-      "rank": 21,
-      "hn_id": 50176872,
-      "title": "Google DeepMind says four AI agents beat Minecraft in 27 hours",
-      "title_ja": "Google DeepMind says four AI agents beat Minecraft in 27 hours",
-      "hn_url": "https://news.ycombinator.com/item?id=50176872",
-      "source_url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/google-deepmind-claims-four-gemini-4-agents-beat-minecraft-in-27-hours-by-writing-2-783-programs-of-their-own-the-ai-team-died-605-times-on-easy-difficulty-and-ran-up-an-estimated-usd520-in-tokens",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/8xm4j5uRLtAMLxQ7kgph8k-2032-80.png",
-      "score": 1,
-      "final_score": 1,
-      "comments": 0,
-      "posted_at": "2026-10-21T06:37:47Z",
-      "summary_ja": "Title: Google DeepMind says four AI agents beat Minecraft in 27 hours\nArticle title: Google DeepMind says four AI agents beat Minecraft in 27 hours by writing 2,783 programs of their own — AI team died 605 times on Easy difficulty and ran up an estimated $520 in tokens | Tom's Hardware\nDescription: About half the run was spent fighting the dragon, solved by stacking dirt to reach its crystals.\n\nArticle text:\nSkip to main content\nJoin Tom’s Hardware today\nUpgrade to Tom’s Hardware Premium\nExplore\nGO PREMIUM\nChoose how you want to join Tom’s Hardware\nMEMBER\nGet started with free access to reviews, badges and discussions.\nUnlock exclusive tools and insights for enthusiasts who want more.\nAccess Bench, Roadmaps, deep analysis and other exclusive tools.\nBench Performance Database\nDive into our proprietary testing data and compare hardware with detailed benchmarks.\nGo beyond the headlines with…"
-    },
-    {
-      "rank": 22,
+      "rank": 26,
       "hn_id": 50176679,
       "title": "Giving AI video some Remembrance of things past",
       "title_ja": "Giving AI video some Remembrance of things past",
@@ -305,21 +361,7 @@
       "summary_ja": "Title: Giving AI video some Remembrance of things past\nArticle title: Giving AI Video Some Remembrance of Things Past – Unite.AI\nDescription: Back in March we looked at the difficulty generative AI video has in remembering things and places that it has seen, so that it can reproduce them a second time, and offer visual consistency. The net effect of the proble...\n\nArticle text:\nGiving AI Video Some Remembrance of Things Past – Unite.AI\nAI Tools\nBusiness\nAI Tools\nGenerative AI\nBusiness Plans\nCertifications\nBlockchain Certifications\nGiving AI Video Some Remembrance of Things Past\nBack in March we looked at the difficulty generative AI video has in remembering things and places that it has seen, so that it can reproduce them a second time, and offer visual consistency.\nThe net effect of the problem is that you may walk through a door in an AI world model, turn round ten seconds later, and f…"
     },
     {
-      "rank": 23,
-      "hn_id": 50179851,
-      "title": "Homeport AI: Continuous monitoring of leads and accounts",
-      "title_ja": "Homeport AI: Continuous monitoring of leads and accounts",
-      "hn_url": "https://news.ycombinator.com/item?id=50179851",
-      "source_url": "https://homeport.ai/en",
-      "image_url": "https://cdn.prod.website-files.com/69831f39eecc87fa245e5120/69df503c7f06b8be84b04b0a_1%20(1).jpg",
-      "score": 1,
-      "final_score": 1,
-      "comments": 0,
-      "posted_at": "2026-10-21T12:33:49Z",
-      "summary_ja": "Title: Homeport AI: Continuous monitoring of leads and accounts\nArticle title: Homeport AI: Continuous monitoring of leads \u0026 accounts\nDescription: Homeport monitors your leads continuously and alerts you as soon as something moves – with Why-Now Score, trigger, source and date. Hosted in the EU.\n\nArticle text:\nHomeport AI: Continuous monitoring of leads \u0026 accounts\nHomeport AI\nBuilt for GDPR · Hosted in the EU · Easily integrated\nContinuous monitoring of\nleads \u0026 accounts\nIncrease revenue through relevant outreach at the right moment.\nYour best leads are quietly slipping away.\nA lead who isn't ready to buy today goes into the list and sits there. Three months later, the company has secured funding, replaced its purchasing manager, and issued a request for proposal. Sales never finds out because the gap between following up and forgetting is just a busy calendar.\nEvery lead comes with a Why…"
-    },
-    {
-      "rank": 24,
+      "rank": 27,
       "hn_id": 50180345,
       "title": "Russia benefitting from Data Voids to influence LLMs",
       "title_ja": "Russia benefitting from Data Voids to influence LLMs",
@@ -333,31 +375,45 @@
       "summary_ja": "Title: Russia benefitting from Data Voids to influence LLMs\nDescription: We exist to disrupt the business model of monetising harmful content online. We publish research that explains how algorithms and monetisation systems shape the online information environment.\n\nArticle text:\nAbout Us Our Work Our Research Latest Updates Support Us About Us Our Work Our Research Latest Updates Support Us Search\nRussia benefitting from Data Voids to influence LLMs\nA new report from GDI shows how such models are being exploited to disseminate Russian state narratives. In an era where zero click searches have reached 60%, whoever owns the AI summary box on search engines, controls the narrative.\nThe creation of false narratives has always been a tool of international political conflict: the Zinoviev letter in the 1920s in Russia, the Marco Polo Bridge incident in the 1930s in China and the Gulf of Tonki…"
     },
     {
-      "rank": 25,
-      "hn_id": 50180316,
-      "title": "\"Who Owns ROM Hacking?\" and Other Questions AI Poisons Us With",
-      "title_ja": "\"Who Owns ROM Hacking?\" and Other Questions AI Poisons Us With",
-      "hn_url": "https://news.ycombinator.com/item?id=50180316",
-      "source_url": "https://shoujo.gay/who-owns-rom-hacking/",
-      "image_url": "https://bearblog.dev/static/og-image.png",
+      "rank": 28,
+      "hn_id": 50184593,
+      "title": "Show HN: Decentralised AI Inference Network",
+      "title_ja": "Show HN: Decentralised AI Inference Network",
+      "hn_url": "https://news.ycombinator.com/item?id=50184593",
+      "source_url": "https://rootmode.ai/",
+      "image_url": "https://rootmode.ai/assets/og.png",
       "score": 1,
       "final_score": 1,
       "comments": 0,
-      "posted_at": "2026-10-21T13:08:57Z",
-      "summary_ja": "Title: \"Who Owns ROM Hacking?\" and Other Questions AI Poisons Us With\nArticle title: \"Who Owns ROM Hacking?\" And Other Questions AI Poisons Us With – emily's ramblings\nDescription: Recently, I've been hearing about people wanting to make an SMW Central alternative. As far as I can tell, the individuals who desire this the most are also ...\n\nArticle text:\n\"Who Owns ROM Hacking?\" And Other Questions AI Poisons Us With\nRecently, I've been hearing about people wanting to make an SMW Central alternative. As far as I can tell, the individuals who desire this the most are also the individuals most open to using GenAi. If you read my last essay about Mixtape, this shouldn't come as a surprise. Mixtape's poor reception combined with an uptick of SMW Central rejections due to GenAi usage has led to a lot of GenAi supporters feeling alienated from the community. I do not have sympathy for these peo…"
+      "posted_at": "2026-10-21T17:30:01Z",
+      "summary_ja": "Title: Show HN: Decentralised AI Inference Network\nArticle title: rootmode\nDescription: Ask a question, get an answer — answered by someone\n\nArticle text:\nrootmode\nHome\nManifesto\nBlog\nExplorer\nRun a worker\nDiscovery\nProtocol\nBrand\nDownload\nHome\nManifesto\nBlog\nExplorer\nRun a worker\nDiscovery\nProtocol\nBrand\nAI Without\nThe Middleman\nEvery model. No account. All your prompts are encrypted.\nDownload rootmode\nFree forever. Nothing to sign up for. By downloading you agree to the Terms and the Privacy policy .\nGLM 5.2\nKimi K3\nDeepSeek V4\nMiniMax M3\nQwen 3.8\nGrok 4.6\nMiMo\nFlux\nThe same models.\nA fraction of the price.\nWhoever answers your question sets their own price, and they're all competing\nfor the work. That's what keeps pushing it down.\nIllustration, not a price list — rootmode has no prices of its own to set.\nFigures are per million words in, against typical hosted rates.\nOwned by no one.…"
     },
     {
-      "rank": 26,
-      "hn_id": 50180451,
-      "title": "Would I have learned as much with an LLM?",
-      "title_ja": "Would I have learned as much with an LLM?",
-      "hn_url": "https://news.ycombinator.com/item?id=50180451",
-      "source_url": "https://seg6.space/posts/questionable-cleverness/",
+      "rank": 29,
+      "hn_id": 50185051,
+      "title": "Lamentation on AI in Mathematical Research",
+      "title_ja": "Lamentation on AI in Mathematical Research",
+      "hn_url": "https://news.ycombinator.com/item?id=50185051",
+      "source_url": "https://isohedral.ca/lamentation-on-ai-in-mathematical-research/",
       "score": 1,
       "final_score": 1,
-      "comments": 1,
-      "posted_at": "2026-10-21T13:18:08Z",
-      "summary_ja": "Title: Would I have learned as much with an LLM?\nArticle title: would I have learned as much with an LLM? — seg6\nDescription: incidental learning in the age of LLMs.\n\nArticle text:\nseg6 writing projects dark oct 20, 2026 would I have learned as much with an LLM?\nincidental learning in the age of LLMs.\nI recently came across an archive of projects I wrote as a teenager. Some of them date all the way back to when I was fifteen.\nThere’s a little bit of everything in the archive: a C++ editor written in Python, a Raspberry Pi powered RC car, a software renderer, a cryptosystem, an interpreter, and quite a few questionable experiments from my self-proclaimed hacker era. Apparently I had a lot of free time.\nMuch of the code is about as good as you’d expect. What stood out was how obsessed I was with finding clever ways to accomplish things, especially if I could squeeze them into very few line…"
+      "comments": 0,
+      "posted_at": "2026-10-21T18:01:20Z",
+      "summary_ja": "Title: Lamentation on AI in Mathematical Research\nArticle title: Lamentation on AI in Mathematical Research – Isohedral\n\nArticle text:\nThe website of Craig S. Kaplan\nLamentation on AI in Mathematical Research\nA month ago, I received an email out of the blue from someone named Ioannis Tsiokos. He said that he had achieved a breakthrough in tiling theory: he had discovered a strongly aperiodic monotile in 3D. Such a shape is the 3D analogue of the hat : a shape that can pack all of 3D space with no gaps and no overlaps, but never in a way that repeats with perfect regularity. (The use of “strong” aperiodicity here is a significant feature of the discovery: in 3D we have known of a “weakly” aperiodic monotile for decades. This distinction disappears in 2D, and its precise meaning is not relevant in this essay.) Tsiokos’s email included a link to an online repository with a formal verificati…"
+    },
+    {
+      "rank": 30,
+      "hn_id": 50184842,
+      "title": "Claude Security now scans continuously and tracks fixes",
+      "title_ja": "Claude Security now scans continuously and tracks fixes",
+      "hn_url": "https://news.ycombinator.com/item?id=50184842",
+      "source_url": "https://claude.com/resources/articles/claude-security-now-scans-continuously-and-tracks-fixes",
+      "image_url": "https://claude.com/resources/articles/claude-security-now-scans-continuously-and-tracks-fixes/opengraph-image/og",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-10-21T17:46:17Z",
+      "summary_ja": "Title: Claude Security now scans continuously and tracks fixes\nArticle title: Claude Security now scans continuously and tracks fixes | Claude by Anthropic\nDescription: Claude Security now watches your repositories as code changes, tracks findings until they’re fixed, learns from the context your team adds, and connects to your tools through an API and MCP. Available in public beta for Claude Enterprise customers.\n\nArticle text:\nClaude Security now scans continuously and tracks fixes | Claude by Anthropic Skip to main content Product Products Claude\nLogin (opens in new tab) Developers Build with Claude Code\nConsole Enterprise Enterprise Overview\nHome Articles Guides Webinars Videos Search\nClaude Security now scans continuously and tracks fixes\nClaude Security now keeps up with your repositories as code changes, tracks findings until they’re fixed, learns from the context your team adds,…"
     }
   ]
 }

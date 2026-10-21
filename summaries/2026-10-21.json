@@ -1,0 +1,61 @@
+{
+  "date": "2026-10-21",
+  "generated_at": "2026-10-21T01:20:48Z",
+  "articles": [
+    {
+      "rank": 1,
+      "hn_id": 50174541,
+      "title": "SpaceX revenue soars 161% as AI business grows",
+      "title_ja": "SpaceX revenue soars 161% as AI business grows",
+      "hn_url": "https://news.ycombinator.com/item?id=50174541",
+      "source_url": "https://abcnews.com/Business/spacex-revenue-soars-161-ai-business-grows/story?id=137408509",
+      "image_url": "https://i.abcnewsfe.com/a/ef18058d-5373-43e4-9275-02d917ff3c92/spacex-gty-jef-261020_1792509002319_hpMain_16x9.jpg?w=1600",
+      "score": 6,
+      "final_score": 12,
+      "comments": 0,
+      "posted_at": "2026-10-21T00:25:45Z",
+      "summary_ja": "Title: SpaceX revenue soars 161% as AI business grows\nArticle title: SpaceX revenue soars 161% as AI business grows - ABC News\nDescription: Elon Musk-led SpaceX issued its second-ever quarterly earnings report on Tuesday.\n\nArticle text:\nSpaceX revenue soars 161% as AI business grows - ABC News\nABC News Live\nInterest Successfully Added We'll notify you here with news about Turn on desktop notifications for breaking stories about interest? Off On Stream on\nSpaceX revenue soars 161% as AI business grows\nElon Musk-led SpaceX issued its second-ever quarterly earnings report.\nShare Elon Musk-led aerospace giant SpaceX grew revenue by 161% over three months ending in September compared with the same period a year earlier, according to an earnings release issued on Tuesday.\nThe surge in revenue was owed in large part to a significant expansion of the company's businesses centered on artificial i…"
+    },
+    {
+      "rank": 2,
+      "hn_id": 50174642,
+      "title": "Secret trigger words could make AI-powered robots dangerous",
+      "title_ja": "Secret trigger words could make AI-powered robots dangerous",
+      "hn_url": "https://news.ycombinator.com/item?id=50174642",
+      "source_url": "https://www.binghamton.edu/news/story/6544/secret-trigger-words-could-make-ai-powered-robots-dangerous-and-these-researchers-developed-a-defense",
+      "image_url": "https://www.binghamton.edu/news/images/uploads/features/_normal/20260921_robotics06_jwc_1.jpg",
+      "score": 5,
+      "final_score": 6,
+      "comments": 0,
+      "posted_at": "2026-10-21T00:40:56Z",
+      "summary_ja": "Title: Secret trigger words could make AI-powered robots dangerous\nArticle title: Secret trigger words could make AI-powered robots dangerous—and these researchers developed a defense - Binghamton News\nDescription: A team of computer scientists at Binghamton University has demonstrated that hidden trigger words inserted maliciously into LLMs could cause a robot to go off-script and perform dangerous actions—and they developed a defense.\n\nArticle text:\nSkip to main content\nBinghamton University: The State University of New York\nSecret trigger words could make AI-powered robots dangerous—and these researchers developed a defense | Binghamton News\nsearch menu\nSearch\nSecret trigger words could make AI-powered robots dangerous—and these researchers developed a defense | Binghamton News\nSelect a theme:\nLight Mode\n|\nDark Mode\nBingUNews\nOctober 20, 2026\nSecret trigger words could make AI-powered…"
+    },
+    {
+      "rank": 3,
+      "hn_id": 50174641,
+      "title": "Claude solves decades-old mystery behind NSA cryptographic numbers",
+      "title_ja": "Claude solves decades-old mystery behind NSA cryptographic numbers",
+      "hn_url": "https://news.ycombinator.com/item?id=50174641",
+      "source_url": "https://cyberinsider.com/claude-solves-decades-old-mystery-behind-nsa-cryptographic-numbers/",
+      "image_url": "https://cyberinsider.com/wp-content/uploads/2026/10/Claude-solves-decades-old-mystery-behind-NSA-cryptographic-numbers.jpeg",
+      "score": 4,
+      "final_score": 5,
+      "comments": 1,
+      "posted_at": "2026-10-21T00:40:48Z",
+      "summary_ja": "Title: Claude solves decades-old mystery behind NSA cryptographic numbers\nArticle title: Claude solves decades-old mystery behind NSA cryptographic numbers | CyberInsider\nDescription: Claude AI has reconstructed the origins of unexplained numbers used in widely adopted security standards, and supplied by the NSA.\n\nArticle text:\nSkip to after header navigation\nReliable cybersecurity news and resources\nSearch site Submit search\nGeneral\nPassword\nBest Password Managers\nBest Windows Password Manager\nComparisons\nBitwarden vs Proton Pass\nIdentity\nBest Identity Theft Protection Services\nVPN\nVPN Reviews\nNordVPN Review\nBest VPN Services\nBest VPN for iPhone\nVPN Comparisons\nNordVPN vs Surfshark\nData Removal\nBest Data Removal Services\nComparisons\nIncogni vs DeleteMe\nSignal fixes critical flaw that could keep audio active after hangup\nWhatsApp told its AI chatbot not to mention privacy regulators\nEFF…"
+    },
+    {
+      "rank": 4,
+      "hn_id": 50174529,
+      "title": "Ken Griffin Says AI 'Almost Certainly' in a Bubble",
+      "title_ja": "Ken Griffin Says AI 'Almost Certainly' in a Bubble",
+      "hn_url": "https://news.ycombinator.com/item?id=50174529",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-10-20/ken-griffin-says-ai-almost-certainly-in-a-bubble-right-now",
+      "score": 2,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-10-21T00:24:20Z",
+      "summary_ja": "Title: Ken Griffin Says AI 'Almost Certainly' in a Bubble"
+    }
+  ]
+}

@@ -23,6 +23,21 @@ tags:
 image: this body line must not be touched
 `
 
+const mdWithImage = `---
+source: "https://example.com/a"
+hn_url: "https://news.ycombinator.com/item?id=1"
+title: "A story"
+article_title: "A story - Example"
+image: "https://cdn.example.com/a.png"
+hn_id: 1
+score: 5
+tags:
+  - hacker-news
+---
+
+# A story
+`
+
 func TestWithImage(t *testing.T) {
 	// Inserted after article_title, keeping the crawler's field order, and the
 	// body line that also starts with "image:" is left alone.
@@ -84,5 +99,38 @@ func TestLeadSummary(t *testing.T) {
 	got := leadSummary("あいうえおかきくけこ", 5)
 	if got != "あいうえお…" {
 		t.Fatalf("leadSummary(no boundary) = %q", got)
+	}
+}
+
+func TestWithSummary(t *testing.T) {
+	// Inserted after image when present, and the value is Go-quoted so a
+	// multi-sentence summary stays on one front matter line.
+	got, ok := withSummary(mdWithImage, "一文目。\n二文目。")
+	if !ok {
+		t.Fatal("withSummary() reported no front matter")
+	}
+	if !strings.Contains(got, "image: \"https://cdn.example.com/a.png\"\nsummary_ja: \"一文目。\\n二文目。\"\n") {
+		t.Fatalf("summary not inserted after image:\n%s", got)
+	}
+
+	// Re-running replaces the key rather than adding a second one.
+	again, _ := withSummary(got, "差し替え。")
+	if strings.Count(again, "summary_ja:") != 1 {
+		t.Fatalf("duplicate summary_ja key:\n%s", again)
+	}
+	if !strings.Contains(again, "summary_ja: \"差し替え。\"") {
+		t.Fatalf("summary not replaced:\n%s", again)
+	}
+
+	// Falls back to article_title when the file predates the image key.
+	noImage, _ := withSummary(mdWithoutImage, "要約。")
+	if !strings.Contains(noImage, "article_title: \"A story - Example\"\nsummary_ja: \"要約。\"\n") {
+		t.Fatalf("summary not inserted after article_title:\n%s", noImage)
+	}
+}
+
+func TestWithFrontMatterKeyRejectsNonFrontMatter(t *testing.T) {
+	if _, ok := withSummary("# no front matter\n", "x"); ok {
+		t.Fatal("withSummary() accepted a file without front matter")
 	}
 }

@@ -1,9 +1,37 @@
 {
   "date": "2026-10-23",
-  "generated_at": "2026-10-23T01:16:28Z",
+  "generated_at": "2026-10-23T07:03:50Z",
   "articles": [
     {
       "rank": 1,
+      "hn_id": 50205229,
+      "title": "The same AI request emits 8.5 times more CO2 in Texas than in Sweden",
+      "title_ja": "The same AI request emits 8.5 times more CO2 in Texas than in Sweden",
+      "hn_url": "https://news.ycombinator.com/item?id=50205229",
+      "source_url": "https://berget.ai/en/blog/per-request-co2-press-release",
+      "image_url": "https://berget.ai/api/og?title=New+open-source+method+shows+the+same+AI+request+emits+8.5+times+more+CO%E2%82%82+in+Texas+than+in+Sweden\u0026image=https%3A%2F%2Fberget.ai%2Fimages%2Fblog%2Fper-request-co2-press-release%2Fcover.png",
+      "score": 4,
+      "final_score": 8,
+      "comments": 1,
+      "posted_at": "2026-10-23T06:41:11Z",
+      "summary_ja": "Title: The same AI request emits 8.5 times more CO2 in Texas than in Sweden\nArticle title: New open-source method shows the same AI request emits 8.5 times more CO₂ in Texas than in Sweden - Berget AI\nDescription: Swedish AI provider Berget AI releases an open-source method for calculating the carbon emissions of every individual AI request, developed with researchers from SEI, WattTime and Klimatkollen — and customers can now follow their emissions per request in the console.\n\nArticle text:\nNew open-source method shows the same AI request emits 8.5 times more CO₂ in Texas than in Sweden - Berget AI\nInference\nLog in Get started Get started All posts Oct 21, 2026 New open-source method shows the same AI request emits 8.5 times more CO₂ in Texas than in Sweden\nPrint / Save as PDF All posts On this page About the method\nAbout SEI, WattTime and Klimatkollen\nEstimates based on the average emi…"
+    },
+    {
+      "rank": 2,
+      "hn_id": 50205001,
+      "title": "How to turn consumer hardware into AI infra",
+      "title_ja": "How to turn consumer hardware into AI infra",
+      "hn_url": "https://news.ycombinator.com/item?id=50205001",
+      "source_url": "https://neurogrid.cc/en",
+      "image_url": "https://neurogrid.cc/_next/static/immutable/media/neurogrid.1u4xndkygjv1u.png",
+      "score": 3,
+      "final_score": 6,
+      "comments": 0,
+      "posted_at": "2026-10-23T06:04:30Z",
+      "summary_ja": "Title: How to turn consumer hardware into AI infra\nArticle title: Neurogrid Community Cloud — The Inference Marketplace Built by the People, for the People\nDescription: Run language models on underutilized GPUs from people around the world. Affordable, accessible inference powered by community-owned hardware.\n\nArticle text:\nNeurogrid Community Cloud — The Inference Marketplace Built by the People, for the People 🎉 Early suppliers: host a GPU now and get an extra $5 USD on every payout for your first 3 months. Become a host → Neurogrid Platform Use Cases Earnings NeuroChat New nrgrd-tui Manifest Join Open Console Neurogrid Community Cloud The Inference Marketplace Built by the People, for the People.\nRun language models on underutilized GPUs from people around the world. Affordable, accessible inference powered by community-owned hardware.\nSign up with Google or GitHub in seconds.\nNeurogr…"
+    },
+    {
+      "rank": 3,
       "hn_id": 50203240,
       "title": "Canva's first in-house AI image model plans designs before generating them",
       "title_ja": "Canva's first in-house AI image model plans designs before generating them",
@@ -17,7 +45,20 @@
       "summary_ja": "Title: Canva's first in-house AI image model plans designs before generating them\nArticle title: Canva’s first AI image model plans designs before generating them | The Verge\nDescription: Canva is launching its first in-house AI image generation model. The model, called Canva Craft, can generate images at up to 2K resolution and in over 30 aspect ratios.\n\nArticle text:\nCanva’s first AI image model plans designs before generating them | The Verge Skip to main content The homepage The Verge The Verge logo. The Verge The Verge logo. Tech\nNotifications Notifications Hamburger Navigation Button Navigation Drawer The Verge The Verge logo. Login / Sign Up\nSearch Light System Dark Tech Expand Amazon\nReviews Expand Smart Home Reviews\nVerge Shopping Expand Buying Guides\nTransportation Expand Electric Cars\nCanva’s first AI image model plans designs before generating them Notifications Notifications…"
     },
     {
-      "rank": 2,
+      "rank": 4,
+      "hn_id": 50205304,
+      "title": "10x Engineer (AI Psychosis)",
+      "title_ja": "10x Engineer (AI Psychosis)",
+      "hn_url": "https://news.ycombinator.com/item?id=50205304",
+      "source_url": "https://www.youtube.com/watch?v=WV6A1Zf3F2Q",
+      "score": 2,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-10-23T06:52:27Z",
+      "summary_ja": "Title: 10x Engineer (AI Psychosis)\nArticle title: - YouTube\nDescription: Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.\n\nArticle text:\n- YouTube About Press Copyright Contact us Creators Advertise Developers Terms Privacy Policy \u0026 Safety How YouTube works Test new features NFL Sunday Ticket © 2026 Google LLC"
+    },
+    {
+      "rank": 5,
       "hn_id": 50203268,
       "title": "1Password launches a way for AI to log in for you without seeing your password",
       "title_ja": "1Password launches a way for AI to log in for you without seeing your password",
@@ -31,7 +72,7 @@
       "summary_ja": "Title: 1Password launches a way for AI to log in for you without seeing your password\nArticle title: 1Password launches a way for AI agents to log in on your behalf without seeing your password | TechCrunch\nDescription: The new feature allows agents to log into a customer's personal accounts while still protecting the private credentials that secure those accounts.\n\nArticle text:\n–:–:–:–\nBuy One Founder Summit Ticket, Get a Second for Free. Register now.\nDisrupt doors open Oct. 13. Get your pass and bring someone with you at 50% off. REGISTER NOW.\nTechCrunch Desktop Logo\nTechCrunch Mobile Logo\nLatest\n1Password launches a way for AI agents to log in on your behalf without seeing your password\nConcerns have swirled over the access that consumers are increasingly entrusting to AI agents. Now, security services are trying to catch up.\nPassword manager 1Password on Thursday launched a new too…"
     },
     {
-      "rank": 3,
+      "rank": 6,
       "hn_id": 50202933,
       "title": "What FDE Means at OpenAI",
       "title_ja": "What FDE Means at OpenAI",

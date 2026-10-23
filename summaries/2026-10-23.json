@@ -1,0 +1,47 @@
+{
+  "date": "2026-10-23",
+  "generated_at": "2026-10-23T01:16:28Z",
+  "articles": [
+    {
+      "rank": 1,
+      "hn_id": 50203240,
+      "title": "Canva's first in-house AI image model plans designs before generating them",
+      "title_ja": "Canva's first in-house AI image model plans designs before generating them",
+      "hn_url": "https://news.ycombinator.com/item?id=50203240",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/04-CRAFT-COLLAGE.png?quality=90\u0026strip=all\u0026crop=0%2C3.4613147178592%2C100%2C93.077370564282\u0026w=1200",
+      "score": 2,
+      "final_score": 4,
+      "comments": 0,
+      "posted_at": "2026-10-23T01:04:26Z",
+      "summary_ja": "Title: Canva's first in-house AI image model plans designs before generating them\nArticle title: Canva’s first AI image model plans designs before generating them | The Verge\nDescription: Canva is launching its first in-house AI image generation model. The model, called Canva Craft, can generate images at up to 2K resolution and in over 30 aspect ratios.\n\nArticle text:\nCanva’s first AI image model plans designs before generating them | The Verge Skip to main content The homepage The Verge The Verge logo. The Verge The Verge logo. Tech\nNotifications Notifications Hamburger Navigation Button Navigation Drawer The Verge The Verge logo. Login / Sign Up\nSearch Light System Dark Tech Expand Amazon\nReviews Expand Smart Home Reviews\nVerge Shopping Expand Buying Guides\nTransportation Expand Electric Cars\nCanva’s first AI image model plans designs before generating them Notifications Notifications…"
+    },
+    {
+      "rank": 2,
+      "hn_id": 50203268,
+      "title": "1Password launches a way for AI to log in for you without seeing your password",
+      "title_ja": "1Password launches a way for AI to log in for you without seeing your password",
+      "hn_url": "https://news.ycombinator.com/item?id=50203268",
+      "source_url": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/AI-agents.jpg?resize=1200,675",
+      "score": 1,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-10-23T01:08:49Z",
+      "summary_ja": "Title: 1Password launches a way for AI to log in for you without seeing your password\nArticle title: 1Password launches a way for AI agents to log in on your behalf without seeing your password | TechCrunch\nDescription: The new feature allows agents to log into a customer's personal accounts while still protecting the private credentials that secure those accounts.\n\nArticle text:\n–:–:–:–\nBuy One Founder Summit Ticket, Get a Second for Free. Register now.\nDisrupt doors open Oct. 13. Get your pass and bring someone with you at 50% off. REGISTER NOW.\nTechCrunch Desktop Logo\nTechCrunch Mobile Logo\nLatest\n1Password launches a way for AI agents to log in on your behalf without seeing your password\nConcerns have swirled over the access that consumers are increasingly entrusting to AI agents. Now, security services are trying to catch up.\nPassword manager 1Password on Thursday launched a new too…"
+    },
+    {
+      "rank": 3,
+      "hn_id": 50202933,
+      "title": "What FDE Means at OpenAI",
+      "title_ja": "What FDE Means at OpenAI",
+      "hn_url": "https://news.ycombinator.com/item?id=50202933",
+      "source_url": "https://openai.com/index/forward-deployed-engineering-means/",
+      "score": 1,
+      "final_score": 1,
+      "comments": 1,
+      "posted_at": "2026-10-23T00:19:00Z",
+      "summary_ja": "Title: What FDE Means at OpenAI"
+    }
+  ]
+}

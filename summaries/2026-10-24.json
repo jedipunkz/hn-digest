@@ -1,23 +1,37 @@
 {
   "date": "2026-10-24",
-  "generated_at": "2026-10-24T17:54:02Z",
+  "generated_at": "2026-10-24T20:20:48Z",
   "articles": [
     {
       "rank": 1,
-      "hn_id": 50223240,
-      "title": "Red-Teaming OpenAI's Internal Agent Monitoring Systems",
-      "title_ja": "Red-Teaming OpenAI's Internal Agent Monitoring Systems",
-      "hn_url": "https://news.ycombinator.com/item?id=50223240",
-      "source_url": "https://metr.org/blog/2026-10-22-red-teaming-openai-agent-monitoring/",
-      "image_url": "https://metr.org/assets/images/logo/og-image-logo.png",
-      "score": 2,
-      "final_score": 5,
-      "comments": 0,
-      "posted_at": "2026-10-24T17:20:18Z",
-      "summary_ja": "Title: Red-Teaming OpenAI's Internal Agent Monitoring Systems\nArticle title: Red-Teaming OpenAI's Internal Agent Monitoring Systems - METR\nDescription: A METR employee and a Redwood Research employee spent three weeks stress-testing OpenAI's internal misalignment monitoring system, discovering a number of novel vulnerabilities.\n\nArticle text:\nOur Work\nResearch\nNotes\nUpdates\nRisk Assessment\n@misc { metr-2026-red-teaming-openai-agent-monitoring ,\ntitle = {Red-Teaming OpenAI's Internal Agent Monitoring Systems} ,\nauthor = {METR} ,\nhowpublished = {\\url{https://metr.org/blog/2026-10-22-red-teaming-openai-agent-monitoring/}} ,\nyear = {2026} ,\nmonth = {10} ,\n}\nCopy\nSubscribe\nFor three weeks, from July 21st to August 11th, a METR employee and a Redwood Research employee conducted a pilot high-access exercise to stress-test OpenAI’s internal misalignment monitoring system. 1 The output of this ex…"
+      "hn_id": 50224463,
+      "title": "No Signs of AI Payoff Outside the Tech Sector",
+      "title_ja": "No Signs of AI Payoff Outside the Tech Sector",
+      "hn_url": "https://news.ycombinator.com/item?id=50224463",
+      "source_url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
+      "image_url": "https://www.apollo.com/content/dam/apolloaem/apollo-default-page-share-image/apollo-og-image.png",
+      "score": 73,
+      "final_score": 94,
+      "comments": 43,
+      "posted_at": "2026-10-24T19:47:19Z",
+      "summary_ja": "Title: No Signs of AI Payoff Outside the Tech Sector\nArticle title: No Signs of AI Payoff Outside the Tech Sector | The Daily Spark\nDescription: Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech. Subscribe for daily updates.\n\nArticle text:\nNo Signs of AI Payoff Outside the Tech Sector | The Daily Spark\nGeneral Public\nGeneral Public\nWhat We Do\nExplore our investment strategies, solutions, and products designed to support diverse financial goals.\nMarc Rowan on how Apollo’s differentiated strategy was built for this moment.\nTools and training for advisors, offering portfolio guidance, and on-demand educational resources.\nWatch the Class | Apollo Academy\nDiscover Apollo’s latest perspectives, case studies, research and analysis shaping conversations about private markets.\nPri…"
     },
     {
       "rank": 2,
+      "hn_id": 50224373,
+      "title": "Show HN: Narro – Read web pages and Kindle books using local AI voices",
+      "title_ja": "Show HN: Narro – Read web pages and Kindle books using local AI voices",
+      "hn_url": "https://news.ycombinator.com/item?id=50224373",
+      "source_url": "https://github.com/swrdfish/narro",
+      "image_url": "https://repository-images.githubusercontent.com/1431486431/7c061558-bc38-4131-b45c-5c2cbe5791ca",
+      "score": 5,
+      "final_score": 10,
+      "comments": 1,
+      "posted_at": "2026-10-24T19:37:32Z",
+      "summary_ja": "Title: Show HN: Narro – Read web pages and Kindle books using local AI voices\nArticle title: GitHub - swrdfish/Narro: Reads any web page aloud in natural AI voices, from cloud or local models. Supports Kindle Cloud Reader. · GitHub\nDescription: Reads any web page aloud in natural AI voices, from cloud or local models. Supports Kindle Cloud Reader. - swrdfish/Narro\nHN text: I wanted a read-aloud extension that could read from the Kindle Online Reader. The ones I tried used voices I did not enjoy listening to or had a UX that was too cluttered or annoying or needed a signup. So I decided to vibe code my own. It is open source and uses open weight models that run in the browser. https://swrdfish.github.io/Narro/\n\nArticle text:\nGitHub - swrdfish/Narro: Reads any web page aloud in natural AI voices, from cloud or local models. Supports Kindle Cloud Reader. · GitHub\nSkip to content\nNavigation…"
+    },
+    {
+      "rank": 3,
       "hn_id": 50223151,
       "title": "A sovereign AI lab on one machine in my apartment – zero cloud",
       "title_ja": "A sovereign AI lab on one machine in my apartment – zero cloud",
@@ -31,7 +45,21 @@
       "summary_ja": "Title: A sovereign AI lab on one machine in my apartment – zero cloud\nArticle title: Lișneanu Dumitru-Cristian — Sovereign AI, Knowledge \u0026 Security Engineer\nDescription: I build private AI, searchable knowledge systems and security platforms that run on hardware you own — no cloud, no lock-in. A self-hosted library of 72,000+ works, a local AI agent and a live threat-intelligence platform, all on one machine. Let\n\nArticle text:\n⚡ \"\u003e\nSkip to content\ns/ shuffle-on\nMenu\nKnowledge\nSecurity\nIntelligence Engine The whole SOC on one page\nLive Feed Attacks as they happen, every 15 min\nDefense Four layers, shared with the community\nHoneypot Real SSH attacks, live report\nIntelligence Platform How it was built — history \u0026 method\nThreat Intel dossiers 800+ published investigations\nWriting\nThe Human Document A portrait in ten chapters\nThe Machine Document The companion, written by the machine\nThe Acc…"
     },
     {
-      "rank": 3,
+      "rank": 4,
+      "hn_id": 50223240,
+      "title": "Red-Teaming OpenAI's Internal Agent Monitoring Systems",
+      "title_ja": "Red-Teaming OpenAI's Internal Agent Monitoring Systems",
+      "hn_url": "https://news.ycombinator.com/item?id=50223240",
+      "source_url": "https://metr.org/blog/2026-10-22-red-teaming-openai-agent-monitoring/",
+      "image_url": "https://metr.org/assets/images/logo/og-image-logo.png",
+      "score": 2,
+      "final_score": 5,
+      "comments": 0,
+      "posted_at": "2026-10-24T17:20:18Z",
+      "summary_ja": "Title: Red-Teaming OpenAI's Internal Agent Monitoring Systems\nArticle title: Red-Teaming OpenAI's Internal Agent Monitoring Systems - METR\nDescription: A METR employee and a Redwood Research employee spent three weeks stress-testing OpenAI's internal misalignment monitoring system, discovering a number of novel vulnerabilities.\n\nArticle text:\nOur Work\nResearch\nNotes\nUpdates\nRisk Assessment\n@misc { metr-2026-red-teaming-openai-agent-monitoring ,\ntitle = {Red-Teaming OpenAI's Internal Agent Monitoring Systems} ,\nauthor = {METR} ,\nhowpublished = {\\url{https://metr.org/blog/2026-10-22-red-teaming-openai-agent-monitoring/}} ,\nyear = {2026} ,\nmonth = {10} ,\n}\nCopy\nSubscribe\nFor three weeks, from July 21st to August 11th, a METR employee and a Redwood Research employee conducted a pilot high-access exercise to stress-test OpenAI’s internal misalignment monitoring system. 1 The output of this ex…"
+    },
+    {
+      "rank": 5,
       "hn_id": 50216816,
       "title": "Claude Code will refuse to fill in passwords or use a password manager",
       "title_ja": "Claude Code will refuse to fill in passwords or use a password manager",
@@ -45,7 +73,21 @@
       "summary_ja": "Title: Claude Code will refuse to fill in passwords or use a password manager\nArticle title: [Bug] Claude refuses to fill in password fields in testing environment · Issue #65358 · anthropics/claude-code · GitHub\nDescription: Bug Description Claude will refuse to fill in password in the testing environment. WTF did you do to the harness that filling in passwords is forbidden? ❯ can you tell me where that restriction is? ● Yes — it's in my system prompt, the o...\n\nArticle text:\n[Bug] Claude refuses to fill in password fields in testing environment · Issue #65358 · anthropics/claude-code · GitHub\nSkip to content\nNavigation Menu\nSign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI\nGitHub Copilot app Direct agents from issue to merge\nMCP Registry Integrate external tools\nDEVELOPER WORKFLOWS Actions Automate any workflow\nCodespaces Instant dev environ…"
     },
     {
-      "rank": 4,
+      "rank": 6,
+      "hn_id": 50224571,
+      "title": "ArXiv imposes rate limit on paper submissions to stem the AI slop tide",
+      "title_ja": "ArXiv imposes rate limit on paper submissions to stem the AI slop tide",
+      "hn_url": "https://news.ycombinator.com/item?id=50224571",
+      "source_url": "https://www.theregister.com/ai-and-ml/2026/10/02/arxiv-imposes-rate-limit-on-paper-submissions-to-stem-the-ai-slop-tide/5300899",
+      "image_url": "https://image.theregister.com/229953.jpg?imageId=229953\u0026x=0\u0026y=0\u0026cropw=100\u0026croph=100\u0026panox=0\u0026panoy=0\u0026panow=100\u0026panoh=100\u0026width=1200\u0026height=683",
+      "score": 1,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-10-24T19:59:51Z",
+      "summary_ja": "Title: ArXiv imposes rate limit on paper submissions to stem the AI slop tide\nDescription: Two a month per submitter, starting now, and you can thank science slop for the change\n\nArticle text:\nJump to main content\nSearch\nTOPICS\nSpecial Features\nAll Special Features\nCloud Infrastructure Month 2026\nModernizing Financial Services with FIS and AWS\nMake it real with Capgemini and AWS\nNutanix: Scale Kubernetes. Not Chaos.\narXiv imposes rate limit on paper submissions to stem the AI slop tide\nTwo a month per submitter, starting now, and you can thank science slop for the change\nAI models describe humans as a bunch of amoral sheep\n1 day ago\nMichigan prof creates Python-like Jac language for AI agents\n1 day ago\nMusk disputes NASA safety panel's lunar launch estimates\n1 day ago\nHuman receives AI-designed virus for the first time\n1 day ago\nSingapore boffins weave a GUI into fabric, and it's machine…"
+    },
+    {
+      "rank": 7,
       "hn_id": 50221226,
       "title": "US Air Force wants AI to assist aerial refueling",
       "title_ja": "US Air Force wants AI to assist aerial refueling",
@@ -59,7 +101,7 @@
       "summary_ja": "Title: US Air Force wants AI to assist aerial refueling\nDescription: The goal is for AI to automatically analyze refueling operations from cameras mounted on the tankers and provide “hot wash” feedback to the tanker crews.\n\nArticle text:\nUS Air Force wants AI to assist aerial refueling\nSkip to content\nSearch\nEducation \u0026 Transition Transition Guide\nFlashpoints Conflicts in the Middle East\nAfghanistan: From Invasion to Evacuation and Beyond\nChina: Indo-Pacific Tensions High, From Taiwan to South China Sea\nMilitary Movies \u0026 Video Games GI Film Festival\nMilitary Honor Salute to Veterans\nSpecial Projects Installation Guide\nEducation \u0026 Transition Transition Guide\nFlashpoints Conflicts in the Middle East\nAfghanistan: From Invasion to Evacuation and Beyond\nChina: Indo-Pacific Tensions High, From Taiwan to South China Sea\nMilitary Movies \u0026 Video Games GI Film Festival\nMilitary Honor Salute to Vet…"
     },
     {
-      "rank": 5,
+      "rank": 8,
       "hn_id": 50216800,
       "title": "Soma – memory and proofs for AI agents, measured not asserted",
       "title_ja": "Soma – memory and proofs for AI agents, measured not asserted",
@@ -73,7 +115,7 @@
       "summary_ja": "Title: Soma – memory and proofs for AI agents, measured not asserted\nArticle title: GitHub - mrpkk/soma-protocol: Soma — протокол коммуникации агентов: конверт с бюджетом, мандатом и подписью; память в три яруса; набор тестов соответствия. · GitHub\nDescription: Soma — протокол коммуникации агентов: конверт с бюджетом, мандатом и подписью; память в три яруса; набор тестов соответствия. - mrpkk/soma-protocol\n\nArticle text:\nGitHub - mrpkk/soma-protocol: Soma — протокол коммуникации агентов: конверт с бюджетом, мандатом и подписью; память в три яруса; набор тестов соответствия. · GitHub\nSkip to content\nNavigation Menu\nSign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI\nGitHub Copilot app Direct agents from issue to merge\nMCP Registry Integrate external tools\nDEVELOPER WORKFLOWS Actions Automate any workflow\nCodespaces Instant dev environments\nCode R…"
     },
     {
-      "rank": 6,
+      "rank": 9,
       "hn_id": 50218450,
       "title": "'Smart Wall' of AI Cameras Is Watching the Border and More Than a Million People",
       "title_ja": "'Smart Wall' of AI Cameras Is Watching the Border and More Than a Million People",
@@ -86,7 +128,7 @@
       "summary_ja": "Title: 'Smart Wall' of AI Cameras Is Watching the Border and More Than a Million People"
     },
     {
-      "rank": 7,
+      "rank": 10,
       "hn_id": 50223070,
       "title": "Show HN: Loböle, open-source parametric CAD that AI agents can drive",
       "title_ja": "Show HN: Loböle, open-source parametric CAD that AI agents can drive",
@@ -100,7 +142,7 @@
       "summary_ja": "Title: Show HN: Loböle, open-source parametric CAD that AI agents can drive\nArticle title: GitHub - eliasaronson/lobole: Parametric 3D CAD with assemblies, drawings, FEM and CAM, scriptable from Python and agents over MCP. · GitHub\nDescription: Parametric 3D CAD with assemblies, drawings, FEM and CAM, scriptable from Python and agents over MCP. - eliasaronson/lobole\nHN text: I could never get used to FreeCAD, so I built my own. It turns out Claude is really good at using it. Loböle is a parametric B-Rep CAD built on OpenCASCADE and Vulkan, with sketches, assemblies, drawings, FEM and CAM. The GUI, Python scripts and AI agents all go through the same commands, so an agent can do anything you can in the GUI. The engine, watch and bicycle in the README were each built by Claude writing a script against it.\n\nArticle text:\nGitHub - eliasaronson/lobole: Parametric 3D CAD with assemblies, drawi…"
     },
     {
-      "rank": 8,
+      "rank": 11,
       "hn_id": 50223210,
       "title": "How LLM-Based Penetration Testing Harnesses Work",
       "title_ja": "How LLM-Based Penetration Testing Harnesses Work",
@@ -113,21 +155,33 @@
       "summary_ja": "Title: How LLM-Based Penetration Testing Harnesses Work"
     },
     {
-      "rank": 9,
-      "hn_id": 50216917,
-      "title": "OpenAI found a critical flaw in Brotli (used by Node.js, Bun and Envoy)",
-      "title_ja": "OpenAI found a critical flaw in Brotli (used by Node.js, Bun and Envoy)",
-      "hn_url": "https://news.ycombinator.com/item?id=50216917",
-      "source_url": "https://twitter.com/OpenAI/status/2113766354386084338",
-      "image_url": "https://pbs.twimg.com/card_img/2113162888793694208/F12C7Kzo?format=webp\u0026name=medium",
+      "rank": 12,
+      "hn_id": 50223294,
+      "title": "I Built a SaaS with AI. Two Months Later, I Have Zero Active Users",
+      "title_ja": "I Built a SaaS with AI. Two Months Later, I Have Zero Active Users",
+      "hn_url": "https://news.ycombinator.com/item?id=50223294",
+      "source_url": "https://news.ycombinator.com/",
       "score": 1,
       "final_score": 1,
       "comments": 0,
-      "posted_at": "2026-10-23T23:46:57Z",
-      "summary_ja": "Title: OpenAI found a critical flaw in Brotli (used by Node.js, Bun and Envoy)\nArticle title: OpenAI on X: \"During this red-teaming exercise, we also found a vulnerability that allows for unauthenticated remote code execution in Brotli, a widely-deployed compression library included in many pieces of software such as Node.js, Bun, and Envoy.\nThe flaw could let an attacker run their own cod…\n[truncated]\nDescription: During this red-teaming exercise, we also found a vulnerability that allows for unauthenticated remote code execution in Brotli, a widely-deployed compression library included in many pieces of software such as Node.js, Bun, and Envoy.\nThe flaw could let an attacker run their own code on affected…\n\nArticle text:\nOpenAI on X: \"During this red-teaming exercise, we also found a vulnerability that allows for unauthenticated remote code execution in Brotli, a widely-deployed compre…"
+      "posted_at": "2026-10-24T17:26:28Z",
+      "summary_ja": "Title: I Built a SaaS with AI. Two Months Later, I Have Zero Active Users\nArticle title: Hacker News\n\nArticle text:\nHacker News Hacker News new | past | comments | ask | show | jobs | submit login 1. Roku developer repositories moved from GitHub to GitLab ( roku.com ) 107 points by cxr 1 hour ago | hide | 59 comments 2. The St. Helena 5 pence coin shows Jonathan, a roughly 190 year old tortoise ( numista.com ) 33 points by schleck8 1 hour ago | hide | 2 comments 3. FreeDNS ( afraid.org ) 142 points by esher 2 hours ago | hide | 34 comments 4. Neural chip decodes interactions between brain regions ( epfl.ch ) 39 points by giuliomagnifico 1 hour ago | hide | 5 comments 5. Around a dozen banking apps began specifically permitting GrapheneOS ( grapheneos.social ) 529 points by privacyishuman 16 hours ago | hide | 189 comments 6. OBS Studio 33 ( github.com/obsproject ) 369 points by pentagram…"
     },
     {
-      "rank": 10,
+      "rank": 13,
+      "hn_id": 50224320,
+      "title": "OpenAI's Plan to Protect the Internet Before Hackers Break It",
+      "title_ja": "OpenAI's Plan to Protect the Internet Before Hackers Break It",
+      "hn_url": "https://news.ycombinator.com/item?id=50224320",
+      "source_url": "https://www.forbes.com/sites/thomasbrewster/2026/10/23/inside-openais-plan-to-protect-the-internet-before-hackers-break-it/",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-10-24T19:30:14Z",
+      "summary_ja": "Title: OpenAI's Plan to Protect the Internet Before Hackers Break It"
+    },
+    {
+      "rank": 14,
       "hn_id": 50218438,
       "title": "Pangram CEO: People believe AI writing is indistinguishable from ours. It's not",
       "title_ja": "Pangram CEO: People believe AI writing is indistinguishable from ours. It's not",
@@ -140,7 +194,7 @@
       "summary_ja": "Title: Pangram CEO: People believe AI writing is indistinguishable from ours. It's not"
     },
     {
-      "rank": 11,
+      "rank": 15,
       "hn_id": 50219825,
       "title": "Peer-review failures at NeurIPS, IEEE, and ACM introduced flawed AI logic",
       "title_ja": "Peer-review failures at NeurIPS, IEEE, and ACM introduced flawed AI logic",
@@ -153,7 +207,7 @@
       "summary_ja": "Title: Peer-review failures at NeurIPS, IEEE, and ACM introduced flawed AI logic"
     },
     {
-      "rank": 12,
+      "rank": 16,
       "hn_id": 50217054,
       "title": "Poor Man's Claude Pro – All the code you'll ever need for $20 per month",
       "title_ja": "Poor Man's Claude Pro – All the code you'll ever need for $20 per month",
@@ -167,7 +221,7 @@
       "summary_ja": "Title: Poor Man's Claude Pro – All the code you'll ever need for $20 per month\nArticle title: Poor Man's Claude Pro\nDescription: Write all the code you'll ever need from your phone for $20 per month\nA Yeti water bottle + a Nike T-shirt + Irish Spring 5 in 1: Body, Face, Shampoo, Conditioner, and 24 Hour Deodorant, or an AeroPress Go Portable Coffee Maker + a three-pack of the Field Notes memo books + the\n\nArticle text:\nSign in\nSubscribe\nPoor Man's Claude Pro\nWrite all the code you'll ever need from your phone for $20 per month\nA Yeti water bottle + a Nike T-shirt + Irish Spring 5 in 1: Body, Face, Shampoo, Conditioner, and 24 Hour Deodorant , or an AeroPress Go Portable Coffee Maker + a three-pack of the Field Notes memo books + the classic Swiss Army Knife , or The Power Broker + Graza Drizzle Extra Virgin Olive Oil + a Patagonia snapback .\nThat's how much more you're missing out per mo…"
     },
     {
-      "rank": 13,
+      "rank": 17,
       "hn_id": 50223268,
       "title": "Key Claude Code Engineers Shihipar and Morris Leave Anthropic",
       "title_ja": "Key Claude Code Engineers Shihipar and Morris Leave Anthropic",
@@ -181,20 +235,21 @@
       "summary_ja": "Title: Key Claude Code Engineers Shihipar and Morris Leave Anthropic\nArticle title: Key Claude Code Engineers Shihipar and Morris Leave Anthropic / X\nDescription: Thariq Shihipar, a lead engineer on Anthropic’s Claude Code team, announced his departure after over a year scaling the AI coding tool, calling it his most fun yet stressful job. Anthony Morris, creator of the Claude Code desktop app, shared that yesterday was his last day, joking about time for GTA\n[truncated]\n\nArticle text:\nKey Claude Code Engineers Shihipar and Morris Leave Anthropic\nThariq Shihipar, a lead engineer on Anthropic’s Claude Code team, announced his departure after over a year scaling the AI coding tool, calling it his most fun yet stressful job. Anthony Morris, creator of the Claude Code desktop app, shared that yesterday was his last day, joking about time for GTA VI after thanking users for their input. Both…"
     },
     {
-      "rank": 14,
-      "hn_id": 50223294,
-      "title": "I Built a SaaS with AI. Two Months Later, I Have Zero Active Users",
-      "title_ja": "I Built a SaaS with AI. Two Months Later, I Have Zero Active Users",
-      "hn_url": "https://news.ycombinator.com/item?id=50223294",
-      "source_url": "https://news.ycombinator.com/",
+      "rank": 18,
+      "hn_id": 50216917,
+      "title": "OpenAI found a critical flaw in Brotli (used by Node.js, Bun and Envoy)",
+      "title_ja": "OpenAI found a critical flaw in Brotli (used by Node.js, Bun and Envoy)",
+      "hn_url": "https://news.ycombinator.com/item?id=50216917",
+      "source_url": "https://twitter.com/OpenAI/status/2113766354386084338",
+      "image_url": "https://pbs.twimg.com/card_img/2113162888793694208/F12C7Kzo?format=webp\u0026name=medium",
       "score": 1,
       "final_score": 1,
       "comments": 0,
-      "posted_at": "2026-10-24T17:26:28Z",
-      "summary_ja": "Title: I Built a SaaS with AI. Two Months Later, I Have Zero Active Users\nArticle title: Hacker News\n\nArticle text:\nHacker News Hacker News new | past | comments | ask | show | jobs | submit login 1. Roku developer repositories moved from GitHub to GitLab ( roku.com ) 107 points by cxr 1 hour ago | hide | 59 comments 2. The St. Helena 5 pence coin shows Jonathan, a roughly 190 year old tortoise ( numista.com ) 33 points by schleck8 1 hour ago | hide | 2 comments 3. FreeDNS ( afraid.org ) 142 points by esher 2 hours ago | hide | 34 comments 4. Neural chip decodes interactions between brain regions ( epfl.ch ) 39 points by giuliomagnifico 1 hour ago | hide | 5 comments 5. Around a dozen banking apps began specifically permitting GrapheneOS ( grapheneos.social ) 529 points by privacyishuman 16 hours ago | hide | 189 comments 6. OBS Studio 33 ( github.com/obsproject ) 369 points by pentagram…"
+      "posted_at": "2026-10-23T23:46:57Z",
+      "summary_ja": "Title: OpenAI found a critical flaw in Brotli (used by Node.js, Bun and Envoy)\nArticle title: OpenAI on X: \"During this red-teaming exercise, we also found a vulnerability that allows for unauthenticated remote code execution in Brotli, a widely-deployed compression library included in many pieces of software such as Node.js, Bun, and Envoy.\nThe flaw could let an attacker run their own cod…\n[truncated]\nDescription: During this red-teaming exercise, we also found a vulnerability that allows for unauthenticated remote code execution in Brotli, a widely-deployed compression library included in many pieces of software such as Node.js, Bun, and Envoy.\nThe flaw could let an attacker run their own code on affected…\n\nArticle text:\nOpenAI on X: \"During this red-teaming exercise, we also found a vulnerability that allows for unauthenticated remote code execution in Brotli, a widely-deployed compre…"
     },
     {
-      "rank": 15,
+      "rank": 19,
       "hn_id": 50223278,
       "title": "I Built a SaaS with AI. Two Months Later, I Have Zero Active Users",
       "title_ja": "I Built a SaaS with AI. Two Months Later, I Have Zero Active Users",
@@ -207,7 +262,7 @@
       "summary_ja": "Title: I Built a SaaS with AI. Two Months Later, I Have Zero Active Users"
     },
     {
-      "rank": 16,
+      "rank": 20,
       "hn_id": 50223284,
       "title": "Botchelor – a dating show where AI agents bring their own characters over MCP",
       "title_ja": "Botchelor – a dating show where AI agents bring their own characters over MCP",
@@ -221,7 +276,21 @@
       "summary_ja": "Title: Botchelor – a dating show where AI agents bring their own characters over MCP\nArticle title: Enter · Botchelor\nDescription: Send your original character — or your AI agent — on an AI-written blind date nobody can steer. Friends predict how it ends, for free points.\n\nArticle text:\nEnter · Botchelor Skip to content Botchelor a blind-date show for original characters ◈ 3 free dates Make your character Watch Characters Constellation Account 🔔 Notifications 💬 Give us feedback Botchelor\nBotchelor is a comedic blind-date show starring fictional adult characters , written by AI. It is for adults (18+) only .\nBy entering you confirm you are 18 or older and agree that everything here is fiction. We remember your answer on this device so you won't be asked again.\nEvery character is a fictional adult (18+), and every episode is written by an AI model.\nIf something here touches on something he…"
     },
     {
-      "rank": 17,
+      "rank": 21,
+      "hn_id": 50216915,
+      "title": "Blue Planet III features cloudier footage to prove authenticity amid AI boom",
+      "title_ja": "Blue Planet III features cloudier footage to prove authenticity amid AI boom",
+      "hn_url": "https://news.ycombinator.com/item?id=50216915",
+      "source_url": "https://www.theguardian.com/media/2026/oct/24/blue-planet-iii-cloudier-footage-prove-authenticity-ai-boom",
+      "image_url": "https://i.guim.co.uk/img/media/ceaba2d2e573fa4bc480fbaee7cee88e2ce7c97b/620_0_4500_3600/master/4500.jpg?width=1200\u0026height=630\u0026quality=85\u0026auto=format\u0026fit=crop\u0026precrop=40:21,offset-x50,offset-y0\u0026overlay-align=bottom%2Cleft\u0026overlay-width=100p\u0026overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc\u0026enable=upscale\u0026s=7ac6c0c552827e838dd44c361bfa727f",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-10-23T23:46:43Z",
+      "summary_ja": "Title: Blue Planet III features cloudier footage to prove authenticity amid AI boom\nArticle title: Blue Planet III features cloudier footage to prove authenticity amid AI boom | BBC | The Guardian\nDescription: BBC series deliberately uses ‘more organic’ shots to assure viewers animals are not AI-generated, producers say\n\nArticle text:\nSkip to main content Skip to navigation Close dialogue 1 / 3 Next image Previous image Toggle caption Print subscriptions Newsletters Sign in US US edition\nHide expanded menu News View all News\nSearch input google-search Search\nSearch input google-search Search Digital Archive\nCreatures filmed in the deep ocean are ‘more remarkable than AI could imagine and it’s completely real’, said the Blue Planet III producers. Photograph: BBC Studios/Jose Branco View image in fullscreen Creatures filmed in the deep ocean are ‘more remarkable than AI could imagine and i…"
+    },
+    {
+      "rank": 22,
       "hn_id": 50219641,
       "title": "Took apart Claude Code, then turned it into a free course on harness engineering",
       "title_ja": "Took apart Claude Code, then turned it into a free course on harness engineering",
@@ -234,18 +303,31 @@
       "summary_ja": "Title: Took apart Claude Code, then turned it into a free course on harness engineering\nHN text: The fastest way to learn harness engineering? Build Claude Code from scratch. Why harness engineering? LangChain kept the same model and changed only the harness. Their coding agent went from 53% to 67% on Terminal-Bench, a top coding-agent benchmark. From outside the top 30 to the top 5. Same model. Better harness. Over the past few months, I've taken apart Claude Code, OpenCode, and Pi to see how they work under the hood. And you don't need to ship a coding agent for this to pay off. The same foundations power any agent, in e-commerce, finance, or sales. On top of that, people are increasingly realizing they need to build their own harness instead of relying on Claude Code or Codex. Ramp scaling its operations with a custom harness is a perfect example. So I turned what I learned into an in…"
     },
     {
-      "rank": 18,
-      "hn_id": 50216915,
-      "title": "Blue Planet III features cloudier footage to prove authenticity amid AI boom",
-      "title_ja": "Blue Planet III features cloudier footage to prove authenticity amid AI boom",
-      "hn_url": "https://news.ycombinator.com/item?id=50216915",
-      "source_url": "https://www.theguardian.com/media/2026/oct/24/blue-planet-iii-cloudier-footage-prove-authenticity-ai-boom",
-      "image_url": "https://i.guim.co.uk/img/media/ceaba2d2e573fa4bc480fbaee7cee88e2ce7c97b/620_0_4500_3600/master/4500.jpg?width=1200\u0026height=630\u0026quality=85\u0026auto=format\u0026fit=crop\u0026precrop=40:21,offset-x50,offset-y0\u0026overlay-align=bottom%2Cleft\u0026overlay-width=100p\u0026overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc\u0026enable=upscale\u0026s=7ac6c0c552827e838dd44c361bfa727f",
+      "rank": 23,
+      "hn_id": 50224269,
+      "title": "Ask HN: Find Vulns with Claude in OSS?",
+      "title_ja": "Ask HN: Find Vulns with Claude in OSS?",
+      "hn_url": "https://news.ycombinator.com/item?id=50224269",
+      "source_url": "",
       "score": 1,
       "final_score": 1,
       "comments": 0,
-      "posted_at": "2026-10-23T23:46:43Z",
-      "summary_ja": "Title: Blue Planet III features cloudier footage to prove authenticity amid AI boom\nArticle title: Blue Planet III features cloudier footage to prove authenticity amid AI boom | BBC | The Guardian\nDescription: BBC series deliberately uses ‘more organic’ shots to assure viewers animals are not AI-generated, producers say\n\nArticle text:\nSkip to main content Skip to navigation Close dialogue 1 / 3 Next image Previous image Toggle caption Print subscriptions Newsletters Sign in US US edition\nHide expanded menu News View all News\nSearch input google-search Search\nSearch input google-search Search Digital Archive\nCreatures filmed in the deep ocean are ‘more remarkable than AI could imagine and it’s completely real’, said the Blue Planet III producers. Photograph: BBC Studios/Jose Branco View image in fullscreen Creatures filmed in the deep ocean are ‘more remarkable than AI could imagine and i…"
+      "posted_at": "2026-10-24T19:24:52Z",
+      "summary_ja": "Title: Ask HN: Find Vulns with Claude in OSS?\nHN text: With the phpshell vuln coming about last week, can the average techie find zero-day vulns in open source software? Does anyone do this?"
+    },
+    {
+      "rank": 24,
+      "hn_id": 50224591,
+      "title": "Will AI stop us getting ripped off?",
+      "title_ja": "Will AI stop us getting ripped off?",
+      "hn_url": "https://news.ycombinator.com/item?id=50224591",
+      "source_url": "https://www.optimallyirrational.com/p/will-ai-stop-us-getting-ripped-off",
+      "image_url": "https://substackcdn.com/image/fetch/$s_!7vvD!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb9bfbd66-b745-464b-947d-20425944206b_1448x1086.png",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-10-24T20:01:53Z",
+      "summary_ja": "Title: Will AI stop us getting ripped off?\nArticle title: Will AI stop us getting ripped off? - by Lionel Page\nDescription: How AI will revolutionise consumer markets\n\nArticle text:\nWill AI stop us getting ripped off? - by Lionel Page\nOptimally Irrational\nSubscribe Sign in Will AI stop us getting ripped off?\nHow AI will revolutionise consumer markets\nLionel Page Oct 06, 2026 24 4 7 Share This post is part of a series on the new questions raised by AI. 1 In this post, I look at how AI is likely to empower consumers and reduce firms’ ability to take advantage of customers’ limited information and cognitive capacities.\nIn 2017, Forbes writer Theo Miller decided to subscribe to the New York Times to avoid its paywall. But after about a month, he decided he did not need another subscription and tried to cancel it.\nHe had subscribed online, but he discovered that cancelling could not be done i…"
     }
   ]
 }

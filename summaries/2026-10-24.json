@@ -1,6 +1,6 @@
 {
   "date": "2026-10-24",
-  "generated_at": "2026-10-24T05:26:59Z",
+  "generated_at": "2026-10-24T10:24:38Z",
   "articles": [
     {
       "rank": 1,
@@ -86,6 +86,19 @@
     },
     {
       "rank": 7,
+      "hn_id": 50219825,
+      "title": "Peer-review failures at NeurIPS, IEEE, and ACM introduced flawed AI logic",
+      "title_ja": "Peer-review failures at NeurIPS, IEEE, and ACM introduced flawed AI logic",
+      "hn_url": "https://news.ycombinator.com/item?id=50219825",
+      "source_url": "https://pansophics.substack.com/p/how-some-peer-reviewed-journals-contaminated",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-10-24T10:19:29Z",
+      "summary_ja": "Title: Peer-review failures at NeurIPS, IEEE, and ACM introduced flawed AI logic"
+    },
+    {
+      "rank": 8,
       "hn_id": 50217054,
       "title": "Poor Man's Claude Pro – All the code you'll ever need for $20 per month",
       "title_ja": "Poor Man's Claude Pro – All the code you'll ever need for $20 per month",
@@ -97,6 +110,19 @@
       "comments": 0,
       "posted_at": "2026-10-24T00:09:30Z",
       "summary_ja": "Title: Poor Man's Claude Pro – All the code you'll ever need for $20 per month\nArticle title: Poor Man's Claude Pro\nDescription: Write all the code you'll ever need from your phone for $20 per month\nA Yeti water bottle + a Nike T-shirt + Irish Spring 5 in 1: Body, Face, Shampoo, Conditioner, and 24 Hour Deodorant, or an AeroPress Go Portable Coffee Maker + a three-pack of the Field Notes memo books + the\n\nArticle text:\nSign in\nSubscribe\nPoor Man's Claude Pro\nWrite all the code you'll ever need from your phone for $20 per month\nA Yeti water bottle + a Nike T-shirt + Irish Spring 5 in 1: Body, Face, Shampoo, Conditioner, and 24 Hour Deodorant , or an AeroPress Go Portable Coffee Maker + a three-pack of the Field Notes memo books + the classic Swiss Army Knife , or The Power Broker + Graza Drizzle Extra Virgin Olive Oil + a Patagonia snapback .\nThat's how much more you're missing out per mo…"
+    },
+    {
+      "rank": 9,
+      "hn_id": 50219641,
+      "title": "Took apart Claude Code, then turned it into a free course on harness engineering",
+      "title_ja": "Took apart Claude Code, then turned it into a free course on harness engineering",
+      "hn_url": "https://news.ycombinator.com/item?id=50219641",
+      "source_url": "",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-10-24T09:48:38Z",
+      "summary_ja": "Title: Took apart Claude Code, then turned it into a free course on harness engineering\nHN text: The fastest way to learn harness engineering? Build Claude Code from scratch. Why harness engineering? LangChain kept the same model and changed only the harness. Their coding agent went from 53% to 67% on Terminal-Bench, a top coding-agent benchmark. From outside the top 30 to the top 5. Same model. Better harness. Over the past few months, I've taken apart Claude Code, OpenCode, and Pi to see how they work under the hood. And you don't need to ship a coding agent for this to pay off. The same foundations power any agent, in e-commerce, finance, or sales. On top of that, people are increasingly realizing they need to build their own harness instead of relying on Claude Code or Codex. Ramp scaling its operations with a custom harness is a perfect example. So I turned what I learned into an in…"
     }
   ]
 }

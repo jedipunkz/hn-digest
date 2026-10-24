@@ -1,6 +1,6 @@
 {
   "date": "2026-10-24",
-  "generated_at": "2026-10-24T00:19:21Z",
+  "generated_at": "2026-10-24T05:26:59Z",
   "articles": [
     {
       "rank": 1,
@@ -18,6 +18,19 @@
     },
     {
       "rank": 2,
+      "hn_id": 50218450,
+      "title": "'Smart Wall' of AI Cameras Is Watching the Border and More Than a Million People",
+      "title_ja": "'Smart Wall' of AI Cameras Is Watching the Border and More Than a Million People",
+      "hn_url": "https://news.ycombinator.com/item?id=50218450",
+      "source_url": "https://www.nytimes.com/interactive/2026/10/22/us/politics/ai-surveillance-cameras-border-mexico.html",
+      "score": 2,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-10-24T04:55:56Z",
+      "summary_ja": "Title: 'Smart Wall' of AI Cameras Is Watching the Border and More Than a Million People"
+    },
+    {
+      "rank": 3,
       "hn_id": 50216800,
       "title": "Soma – memory and proofs for AI agents, measured not asserted",
       "title_ja": "Soma – memory and proofs for AI agents, measured not asserted",
@@ -31,7 +44,7 @@
       "summary_ja": "Title: Soma – memory and proofs for AI agents, measured not asserted\nArticle title: GitHub - mrpkk/soma-protocol: Soma — протокол коммуникации агентов: конверт с бюджетом, мандатом и подписью; память в три яруса; набор тестов соответствия. · GitHub\nDescription: Soma — протокол коммуникации агентов: конверт с бюджетом, мандатом и подписью; память в три яруса; набор тестов соответствия. - mrpkk/soma-protocol\n\nArticle text:\nGitHub - mrpkk/soma-protocol: Soma — протокол коммуникации агентов: конверт с бюджетом, мандатом и подписью; память в три яруса; набор тестов соответствия. · GitHub\nSkip to content\nNavigation Menu\nSign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI\nGitHub Copilot app Direct agents from issue to merge\nMCP Registry Integrate external tools\nDEVELOPER WORKFLOWS Actions Automate any workflow\nCodespaces Instant dev environments\nCode R…"
     },
     {
-      "rank": 3,
+      "rank": 4,
       "hn_id": 50216915,
       "title": "Blue Planet III features cloudier footage to prove authenticity amid AI boom",
       "title_ja": "Blue Planet III features cloudier footage to prove authenticity amid AI boom",
@@ -45,7 +58,7 @@
       "summary_ja": "Title: Blue Planet III features cloudier footage to prove authenticity amid AI boom\nArticle title: Blue Planet III features cloudier footage to prove authenticity amid AI boom | BBC | The Guardian\nDescription: BBC series deliberately uses ‘more organic’ shots to assure viewers animals are not AI-generated, producers say\n\nArticle text:\nSkip to main content Skip to navigation Close dialogue 1 / 3 Next image Previous image Toggle caption Print subscriptions Newsletters Sign in US US edition\nHide expanded menu News View all News\nSearch input google-search Search\nSearch input google-search Search Digital Archive\nCreatures filmed in the deep ocean are ‘more remarkable than AI could imagine and it’s completely real’, said the Blue Planet III producers. Photograph: BBC Studios/Jose Branco View image in fullscreen Creatures filmed in the deep ocean are ‘more remarkable than AI could imagine and i…"
     },
     {
-      "rank": 4,
+      "rank": 5,
       "hn_id": 50216917,
       "title": "OpenAI found a critical flaw in Brotli (used by Node.js, Bun and Envoy)",
       "title_ja": "OpenAI found a critical flaw in Brotli (used by Node.js, Bun and Envoy)",
@@ -59,7 +72,20 @@
       "summary_ja": "Title: OpenAI found a critical flaw in Brotli (used by Node.js, Bun and Envoy)\nArticle title: OpenAI on X: \"During this red-teaming exercise, we also found a vulnerability that allows for unauthenticated remote code execution in Brotli, a widely-deployed compression library included in many pieces of software such as Node.js, Bun, and Envoy.\nThe flaw could let an attacker run their own cod…\n[truncated]\nDescription: During this red-teaming exercise, we also found a vulnerability that allows for unauthenticated remote code execution in Brotli, a widely-deployed compression library included in many pieces of software such as Node.js, Bun, and Envoy.\nThe flaw could let an attacker run their own code on affected…\n\nArticle text:\nOpenAI on X: \"During this red-teaming exercise, we also found a vulnerability that allows for unauthenticated remote code execution in Brotli, a widely-deployed compre…"
     },
     {
-      "rank": 5,
+      "rank": 6,
+      "hn_id": 50218438,
+      "title": "Pangram CEO: People believe AI writing is indistinguishable from ours. It's not",
+      "title_ja": "Pangram CEO: People believe AI writing is indistinguishable from ours. It's not",
+      "hn_url": "https://news.ycombinator.com/item?id=50218438",
+      "source_url": "https://bigthink.com/science-tech/trust-issues/",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-10-24T04:52:28Z",
+      "summary_ja": "Title: Pangram CEO: People believe AI writing is indistinguishable from ours. It's not"
+    },
+    {
+      "rank": 7,
       "hn_id": 50217054,
       "title": "Poor Man's Claude Pro – All the code you'll ever need for $20 per month",
       "title_ja": "Poor Man's Claude Pro – All the code you'll ever need for $20 per month",

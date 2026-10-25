@@ -1,9 +1,77 @@
 {
   "date": "2026-10-25",
-  "generated_at": "2026-10-25T10:52:06Z",
+  "generated_at": "2026-10-25T14:52:47Z",
   "articles": [
     {
       "rank": 1,
+      "hn_id": 50231722,
+      "title": "R/open source bans all solo projects and projects using LLMs",
+      "title_ja": "R/open source bans all solo projects and projects using LLMs",
+      "hn_url": "https://news.ycombinator.com/item?id=50231722",
+      "source_url": "https://www.reddit.com/r/opensource/comments/1xelcuf/your_tokens_arent_valuable_no_more_ai",
+      "score": 24,
+      "final_score": 31,
+      "comments": 6,
+      "posted_at": "2026-10-25T14:05:03Z",
+      "summary_ja": "Title: R/open source bans all solo projects and projects using LLMs"
+    },
+    {
+      "rank": 2,
+      "hn_id": 50231661,
+      "title": "Apollo's Slok Says AI Has Delivered Zero Payoff Outside of Tech",
+      "title_ja": "Apollo's Slok Says AI Has Delivered Zero Payoff Outside of Tech",
+      "hn_url": "https://news.ycombinator.com/item?id=50231661",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-10-25/ai-provides-zero-payoff-to-s-p-493-outside-tech-apollo-economist-says",
+      "score": 2,
+      "final_score": 2,
+      "comments": 1,
+      "posted_at": "2026-10-25T13:56:49Z",
+      "summary_ja": "Title: Apollo's Slok Says AI Has Delivered Zero Payoff Outside of Tech"
+    },
+    {
+      "rank": 3,
+      "hn_id": 50231724,
+      "title": "Show HN: The fastest, most token-efficient iOS Simulator MCP for AI agents",
+      "title_ja": "Show HN: The fastest, most token-efficient iOS Simulator MCP for AI agents",
+      "hn_url": "https://news.ycombinator.com/item?id=50231724",
+      "source_url": "https://github.com/NoMac-app/simulator-use",
+      "image_url": "https://opengraph.githubassets.com/c24d35b42580b28830f11d297a516927ecb4d0760690d4ce9040d93dc15cc25d/NoMac-app/simulator-use",
+      "score": 1,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-10-25T14:05:18Z",
+      "summary_ja": "Title: Show HN: The fastest, most token-efficient iOS Simulator MCP for AI agents\nArticle title: GitHub - NoMac-app/simulator-use: Simulator use for agents: read and drive the iOS Simulator from any MCP client or the command line. · GitHub\nDescription: Simulator use for agents: read and drive the iOS Simulator from any MCP client or the command line. - NoMac-app/simulator-use\n\nArticle text:\nGitHub - NoMac-app/simulator-use: Simulator use for agents: read and drive the iOS Simulator from any MCP client or the command line. · GitHub\nSkip to content\nNavigation Menu\nSign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI\nGitHub Copilot app Direct agents from issue to merge\nMCP Registry Integrate external tools\nDEVELOPER WORKFLOWS Actions Automate any workflow\nCodespaces Instant dev environments\nCode Review Manage code changes\nCode Quality Enforce qualit…"
+    },
+    {
+      "rank": 4,
+      "hn_id": 50231991,
+      "title": "Can AI Make Us So Productive That It Destroys the Economy?",
+      "title_ja": "Can AI Make Us So Productive That It Destroys the Economy?",
+      "hn_url": "https://news.ycombinator.com/item?id=50231991",
+      "source_url": "https://www.vincentschmalbach.com/can-ai-make-us-so-productive-it-destroys-the-economy/",
+      "image_url": "https://www.vincentschmalbach.com/wp-content/uploads/pressqueue/social/can-ai-make-us-so-productive-it-destroys-the-economy-5393-4e8ff629.jpg",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-10-25T14:32:18Z",
+      "summary_ja": "Title: Can AI Make Us So Productive That It Destroys the Economy?\nArticle title: Can AI Make Us So Productive That It Destroys the Economy? - Vincent Schmalbach\nDescription: Every economy wants higher productivity. When people get a few percent more done each year, the whole economy grows with it. But I think AI could make us so…\n\nArticle text:\nCan AI Make Us So Productive That It Destroys the Economy? - Vincent Schmalbach\nSkip to content\nSoftware Developer\nHome\nCan AI Make Us So Productive That It Destroys the Economy?\nOctober 25, 2026\nby Vincent Schmalbach\nEvery economy wants higher productivity. When people get a few percent more done each year, the whole economy grows with it. But I think AI could make us so productive that it does the opposite. If one person can suddenly do the work of 20, the economy could shrink instead of grow, or even collapse.\nI'm writing this while working on…"
+    },
+    {
+      "rank": 5,
+      "hn_id": 50231781,
+      "title": "Linux 7.4 Sound Changes Merged: \"The AI Flood Continues\"",
+      "title_ja": "Linux 7.4 Sound Changes Merged: \"The AI Flood Continues\"",
+      "hn_url": "https://news.ycombinator.com/item?id=50231781",
+      "source_url": "https://www.phoronix.com/news/Linux-7.4-Sound",
+      "image_url": "https://www.phoronix.net/image.php?id=ryzen-thinkpad-zen2-zen4\u0026image=ryzen_thinkpad_2",
+      "score": 1,
+      "final_score": 1,
+      "comments": 1,
+      "posted_at": "2026-10-25T14:10:31Z",
+      "summary_ja": "Title: Linux 7.4 Sound Changes Merged: \"The AI Flood Continues\"\nArticle title: Linux 7.4 Sound Changes Merged: \"The AI Flood Continues\" - Phoronix\nDescription: Linux sound subsystem maintainer Takashi Iwai of SUSE began the Linux 7.4 sound pull request by noting that 'the AI flood continues' with there continuing to be a lot of new patches coming as a result of AI/LLM agents devising patches as well as uncovering new kernel bugs.\n\nArticle text:\nCategories\nComputers Display Drivers Graphics Cards Linux Gaming Memory Motherboards Processors Software Storage Operating Systems Peripherals\nLinux 7.4 Sound Changes Merged: \"The AI Flood Continues\"\nMichael Larabel is the principal author of Phoronix.com and founded the site in 2004 with a focus on enriching the Linux hardware experience. Michael has written more than 20,000 articles covering the state of Linux hardware support, Linux performance…"
+    },
+    {
+      "rank": 6,
       "hn_id": 50227041,
       "title": "Show HN: ADRs for AI – Deliberation records for human–AI work, versioned in Git",
       "title_ja": "Show HN: ADRs for AI – Deliberation records for human–AI work, versioned in Git",
@@ -16,7 +84,7 @@
       "summary_ja": "Title: Show HN: ADRs for AI – Deliberation records for human–AI work, versioned in Git\nArticle title: ADRs4AI — Your thinking stops disappearing. Your decisions start compounding.\n\nArticle text:\nADRs4AI get started\nthe idea\nblog\ngithub ADRs4AI\nYour thinking stops disappearing. Your decisions start compounding.\nThe template\nA repository starter: ADR \u0026 seed templates, the directives, the inbox protocol, task-runner recipes. Adopt whole or by feature — it works from your first seed. The VS Code extension\nTree views of your open questions, diagnostics that catch malformed records as you type, deep links, and an MCP server so your agents can query the record. Also on Open VSX . The iOS client\nYour project's open questions, in your pocket: sign in, import a repo, review, and one-tap Accept that lands real answers as commits. On the App Store . The most valuable byproduct of the collaboration b…"
     },
     {
-      "rank": 2,
+      "rank": 7,
       "hn_id": 50229997,
       "title": "Show HN: Echoboard where AI agents do science and humans only watch",
       "title_ja": "Show HN: Echoboard where AI agents do science and humans only watch",
@@ -27,6 +95,34 @@
       "comments": 0,
       "posted_at": "2026-10-25T10:18:31Z",
       "summary_ja": "Title: Show HN: Echoboard where AI agents do science and humans only watch\nArticle title: Echoboard · Jevon Tane\nDescription: AI agents openly testing the research questions in Nature\n\nArticle text:\nEchoboard is for agents, not people: there are no forms on this page by design. If you run an agent that can call tools or HTTP APIs, point it here. Read the agent instructions first. Every task comes from the book , which agents can read in full ( markdown ) or through the get_chapter and search_book tools.\n1 · Connect over MCP (recommended)\nclaude mcp add --transport http echoboard https://jevontane.com/echoboard/mcp\nThen ask your agent to call get_rules and register_agent . It gets an API key (shown once). Reconnect with the key so it can write:\nclaude mcp remove echoboard\nclaude mcp add --transport http echoboard https://jevontane.com/echoboard/mcp --header \"Authorization: Bearer eb_…\"\nAn…"
+    },
+    {
+      "rank": 8,
+      "hn_id": 50231961,
+      "title": "Skyl – One Go interface for 400 AI models",
+      "title_ja": "Skyl – One Go interface for 400 AI models",
+      "hn_url": "https://news.ycombinator.com/item?id=50231961",
+      "source_url": "https://skyl-docs.vercel.app/",
+      "image_url": "https://skyl-docs.vercel.app/opengraph-image?31ad4b31d7e91778",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-10-25T14:28:48Z",
+      "summary_ja": "Title: Skyl – One Go interface for 400 AI models\nArticle title: skyl — One Go interface for every AI model\nDescription: skyl is a small, dependency-light Go library that lets you talk to Claude, GPT, Gemini, and 400+ other models through a single, stable interface — then switch between them by changing one string.\n\nArticle text:\nskyl — One Go interface for every AI model Skip to content skyl skyl v 1.0.0 Search Ctrl K Learn Reference Community Blog Documentation\nv 1.0.0 · Apache 2.0 · Go 1.22+\nOne Go interface for every AI model.\nTalk to Claude, GPT, Gemini, Ollama and 400+ other models through a single, stable interface — then switch between them by changing one string.\nclient := skyl.New( anthropic.New(os.Getenv(\"ANTHROPIC_API_KEY\")) )\nresp , err := client.Complete(ctx, \u0026skyl.Request { Model: \" claude-opus-5 \" , Messages: []skyl.Message { skyl.UserText( \"Hello\" ) } , })\nfmt.Println(res…"
+    },
+    {
+      "rank": 9,
+      "hn_id": 50231744,
+      "title": "r/open source just banned AI, non-English speakers and more",
+      "title_ja": "r/open source just banned AI, non-English speakers and more",
+      "hn_url": "https://news.ycombinator.com/item?id=50231744",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK115_Reddit_01.jpg.webp?quality=90\u0026strip=all\u0026crop=0%2C10.732984293194%2C100%2C78.534031413613\u0026w=1200",
+      "score": 1,
+      "final_score": 1,
+      "comments": 2,
+      "posted_at": "2026-10-25T14:06:54Z",
+      "summary_ja": "Title: r/open source just banned AI, non-English speakers and more\nArticle title: r/opensource just banned AI, non-English speakers, and more | The Verge\nDescription: The opensource subreddit’s new rules against AI have sparked a revolt.\n\nArticle text:\nr/opensource just banned AI, non-English speakers, and more | The Verge Skip to main content The homepage The Verge The Verge logo. The Verge The Verge logo. Tech\nNotifications Notifications Hamburger Navigation Button Navigation Drawer The Verge The Verge logo. Login / Sign Up\nSearch Light System Dark Tech Expand Amazon\nReviews Expand Smart Home Reviews\nVerge Shopping Expand Buying Guides\nTransportation Expand Electric Cars\nr/opensource just banned AI, non-English speakers, and more Notifications Notifications Comments Drawer Notifications Comments Loading comments Getting the conversation ready... AI Close AI Posts from this topic will b…"
     }
   ]
 }

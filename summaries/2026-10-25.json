@@ -1,0 +1,19 @@
+{
+  "date": "2026-10-25",
+  "generated_at": "2026-10-25T00:54:02Z",
+  "articles": [
+    {
+      "rank": 1,
+      "hn_id": 50227041,
+      "title": "Show HN: ADRs for AI – Deliberation records for human–AI work, versioned in Git",
+      "title_ja": "Show HN: ADRs for AI – Deliberation records for human–AI work, versioned in Git",
+      "hn_url": "https://news.ycombinator.com/item?id=50227041",
+      "source_url": "https://adrs.systems",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-10-25T00:43:47Z",
+      "summary_ja": "Title: Show HN: ADRs for AI – Deliberation records for human–AI work, versioned in Git\nArticle title: ADRs4AI — Your thinking stops disappearing. Your decisions start compounding.\n\nArticle text:\nADRs4AI get started\nthe idea\nblog\ngithub ADRs4AI\nYour thinking stops disappearing. Your decisions start compounding.\nThe template\nA repository starter: ADR \u0026 seed templates, the directives, the inbox protocol, task-runner recipes. Adopt whole or by feature — it works from your first seed. The VS Code extension\nTree views of your open questions, diagnostics that catch malformed records as you type, deep links, and an MCP server so your agents can query the record. Also on Open VSX . The iOS client\nYour project's open questions, in your pocket: sign in, import a repo, review, and one-tap Accept that lands real answers as commits. On the App Store . The most valuable byproduct of the collaboration b…"
+    }
+  ]
+}

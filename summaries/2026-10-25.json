@@ -1,6 +1,6 @@
 {
   "date": "2026-10-25",
-  "generated_at": "2026-10-25T18:11:55Z",
+  "generated_at": "2026-10-25T21:29:45Z",
   "articles": [
     {
       "rank": 1,
@@ -30,6 +30,61 @@
     },
     {
       "rank": 3,
+      "hn_id": 50236102,
+      "title": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
+      "title_ja": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
+      "hn_url": "https://news.ycombinator.com/item?id=50236102",
+      "source_url": "https://minimaxir.com/2026/10/cheap-llms/",
+      "image_url": "https://minimaxir.com/2026/10/cheap-llms/vercel.png",
+      "score": 3,
+      "final_score": 6,
+      "comments": 0,
+      "posted_at": "2026-10-25T21:11:31Z",
+      "summary_ja": "Title: OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?\nArticle title: OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why? | Max Woolf's Blog\nDescription: What is “the true cost of a token”?\n\nArticle text:\nSkip to content Max Woolf's Blog Posts\nOpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?\nLet’s look at a quick timeline of the major LLM model announcements from both OpenAI and Anthropic over the past few months. All pricing numbers provided are input MTok / output MTok / cache read MTok .\nOpenAI announced GPT-5.6 Sol and Luna. Sol is the direct successor to GPT 5.5 at the same price of $5 / $30 / $0.50 , while Luna is a small model specifically designed for cheaper use cases at $1 / $6 / $0.10 . They also announced a Terra model that’s in between those two models, but few cared about it.\nAnthr…"
+    },
+    {
+      "rank": 4,
+      "hn_id": 50235916,
+      "title": "Struggling to Keep AI Out",
+      "title_ja": "Struggling to Keep AI Out",
+      "hn_url": "https://news.ycombinator.com/item?id=50235916",
+      "source_url": "https://blog.eunach.scot/struggling-to-keep-ai-out",
+      "image_url": "https://blog.eunach.scot/img/avatars/r.png",
+      "score": 4,
+      "final_score": 5,
+      "comments": 1,
+      "posted_at": "2026-10-25T20:47:39Z",
+      "summary_ja": "Title: Struggling to Keep AI Out\nArticle title: Struggling to Keep AI Out — ruaraidh's blog\nDescription: I am an AI hater. Simple as that. I think the people using are relinquishing their ability to do, well, anything. It's increasingly clear...\n\nArticle text:\nI am an AI hater. Simple as that. I think the people using are relinquishing their ability to do, well, anything. It's increasingly clear that the aim of the AI companies is to remove your intelligence so you rely entirely upon them.\nWith this I try my best to avoid programs that are developed with the use of AI; currently these are predominantly Claude bots.\nOnce I followed a guide on how to block Claude it became abundantly clear how common Anthropic is now coding apps and programs.\nOne of my most commonly used apps, Voice Audiobook Player, went from being updated periodically, the updates were modest and the app was quite slim.…"
+    },
+    {
+      "rank": 5,
+      "hn_id": 50235883,
+      "title": "Why I'm Short the AI Buildout Even Though I'm Long Computers",
+      "title_ja": "Why I'm Short the AI Buildout Even Though I'm Long Computers",
+      "hn_url": "https://news.ycombinator.com/item?id=50235883",
+      "source_url": "https://unverifiablerewards.substack.com/p/why-im-short-the-ai-buildout-even",
+      "score": 4,
+      "final_score": 5,
+      "comments": 0,
+      "posted_at": "2026-10-25T20:44:07Z",
+      "summary_ja": "Title: Why I'm Short the AI Buildout Even Though I'm Long Computers"
+    },
+    {
+      "rank": 6,
+      "hn_id": 50236197,
+      "title": "Git History the Future of Observability",
+      "title_ja": "Git History the Future of Observability",
+      "hn_url": "https://news.ycombinator.com/item?id=50236197",
+      "source_url": "https://github.com/premtonx/statetrack",
+      "image_url": "https://opengraph.githubassets.com/8c0e6fbd51dcf718a1fd3a5538b83c245e9cd9ddfd0a0f6efec1185168b601df/premtonx/statetrack",
+      "score": 2,
+      "final_score": 5,
+      "comments": 1,
+      "posted_at": "2026-10-25T21:24:27Z",
+      "summary_ja": "Title: Git History the Future of Observability\nArticle title: GitHub - premtonx/statetrack: Infrastructure change intelligence - git history for live servers · GitHub\nDescription: Infrastructure change intelligence - git history for live servers - premtonx/statetrack\n\nArticle text:\nGitHub - premtonx/statetrack: Infrastructure change intelligence - git history for live servers · GitHub\nSkip to content\nNavigation Menu\nSign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI\nGitHub Copilot app Direct agents from issue to merge\nMCP Registry Integrate external tools\nDEVELOPER WORKFLOWS Actions Automate any workflow\nCodespaces Instant dev environments\nCode Review Manage code changes\nCode Quality Enforce quality at merge\nAPPLICATION SECURITY GitHub Advanced Security Find and fix vulnerabilities\nCode security Secure your code as you build\nSecret protection S…"
+    },
+    {
+      "rank": 7,
       "hn_id": 50234108,
       "title": "Ask HN: What is the main bottleneck facing Agentic AI today?",
       "title_ja": "Ask HN: What is the main bottleneck facing Agentic AI today?",
@@ -42,7 +97,21 @@
       "summary_ja": "Title: Ask HN: What is the main bottleneck facing Agentic AI today?\nHN text: Hey guys, today I read a statistic that showed that Agentic traffic surpassed human traffic on the internet and that statistic was very shocking to me. At the same time I saw another statistic that showed only 10% of agents built, actually get into production. These two statistics seemed ironic to me. So I wondered to myself what is the major bottleneck that is causing a lot of the agents that are being built not get into production and what is the infrastructure missing to make Agentic traffic to thrive even more?"
     },
     {
-      "rank": 4,
+      "rank": 8,
+      "hn_id": 50235909,
+      "title": "Show HN: AgentTrust – Zero-trust security and human approvals for AI agents",
+      "title_ja": "Show HN: AgentTrust – Zero-trust security and human approvals for AI agents",
+      "hn_url": "https://news.ycombinator.com/item?id=50235909",
+      "source_url": "https://github.com/SRN0129/Agenttrust",
+      "image_url": "https://opengraph.githubassets.com/a8f4d0c5b3fd4598a676696276f49da58cd1c82118825198eaf3bf32a6bfa1f8/SRN0129/Agenttrust",
+      "score": 2,
+      "final_score": 4,
+      "comments": 0,
+      "posted_at": "2026-10-25T20:46:50Z",
+      "summary_ja": "Title: Show HN: AgentTrust – Zero-trust security and human approvals for AI agents\nArticle title: GitHub - SRN0129/Agenttrust: Enterprise Zero-Trust Security, Cascading Delegation, Human Approvals \u0026 Verifiable Audit Infrastructure for Autonomous AI Agents · GitHub\nDescription: Enterprise Zero-Trust Security, Cascading Delegation, Human Approvals \u0026 Verifiable Audit Infrastructure for Autonomous AI Agents - SRN0129/Agenttrust\n\nArticle text:\nGitHub - SRN0129/Agenttrust: Enterprise Zero-Trust Security, Cascading Delegation, Human Approvals \u0026 Verifiable Audit Infrastructure for Autonomous AI Agents · GitHub\nSkip to content\nNavigation Menu\nSign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI\nGitHub Copilot app Direct agents from issue to merge\nMCP Registry Integrate external tools\nDEVELOPER WORKFLOWS Actions Automate any workflow\nCodespaces Instant dev…"
+    },
+    {
+      "rank": 9,
       "hn_id": 50234190,
       "title": "AI Boom Looks a Lot Like the Housing Bubble",
       "title_ja": "AI Boom Looks a Lot Like the Housing Bubble",
@@ -55,21 +124,21 @@
       "summary_ja": "Title: AI Boom Looks a Lot Like the Housing Bubble"
     },
     {
-      "rank": 5,
-      "hn_id": 50234005,
-      "title": "FirstTake – an open-source Claude Code skill for video shoots, offload to master",
-      "title_ja": "FirstTake – an open-source Claude Code skill for video shoots, offload to master",
-      "hn_url": "https://news.ycombinator.com/item?id=50234005",
-      "source_url": "https://github.com/emersonsklar/firsttake",
-      "image_url": "https://repository-images.githubusercontent.com/1433456984/3181fe23-4c63-4c0e-87e7-b1b8bd3700b4",
+      "rank": 10,
+      "hn_id": 50236098,
+      "title": "Crawlerpeek – check which AI crawlers your site lets in (CLI, MCP)",
+      "title_ja": "Crawlerpeek – check which AI crawlers your site lets in (CLI, MCP)",
+      "hn_url": "https://news.ycombinator.com/item?id=50236098",
+      "source_url": "https://github.com/crawlerpeek/crawlerpeek",
+      "image_url": "https://opengraph.githubassets.com/d0ee170751f9a8d6c7f3a736a7c65fe1e988ead8be077f12aa91b50121b08659/crawlerpeek/crawlerpeek",
       "score": 1,
       "final_score": 2,
       "comments": 0,
-      "posted_at": "2026-10-25T17:40:42Z",
-      "summary_ja": "Title: FirstTake – an open-source Claude Code skill for video shoots, offload to master\nArticle title: GitHub - emersonsklar/firsttake: Free, open-source Claude Code skill for video shoots: verified card offload, footage QC, multi-camera sync with no shared timecode, and edit, grade, mix, captions and delivery. No editing software required. · GitHub\nDescription: Free, open-source Claude Code skill for video shoots: verified card offload, footage QC, multi-camera sync with no shared timecode, and edit, grade, mix, captions and delivery. No editing software required. - emersonsklar/firsttake\n\nArticle text:\nGitHub - emersonsklar/firsttake: Free, open-source Claude Code skill for video shoots: verified card offload, footage QC, multi-camera sync with no shared timecode, and edit, grade, mix, captions and delivery. No editing software required. · GitHub\nSkip to content\nNavigation Menu\nSign in…"
+      "posted_at": "2026-10-25T21:11:05Z",
+      "summary_ja": "Title: Crawlerpeek – check which AI crawlers your site lets in (CLI, MCP)\nArticle title: GitHub - crawlerpeek/crawlerpeek: Check whether AI crawlers (GPTBot, ClaudeBot, PerplexityBot and more) can access your site. CLI, library, MCP server and GitHub Action. · GitHub\nDescription: Check whether AI crawlers (GPTBot, ClaudeBot, PerplexityBot and more) can access your site. CLI, library, MCP server and GitHub Action. - crawlerpeek/crawlerpeek\n\nArticle text:\nGitHub - crawlerpeek/crawlerpeek: Check whether AI crawlers (GPTBot, ClaudeBot, PerplexityBot and more) can access your site. CLI, library, MCP server and GitHub Action. · GitHub\nSkip to content\nNavigation Menu\nSign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI\nGitHub Copilot app Direct agents from issue to merge\nMCP Registry Integrate external tools\nDEVELOPER WORKFLOWS Actions Automate any work…"
     },
     {
-      "rank": 6,
+      "rank": 11,
       "hn_id": 50234296,
       "title": "Lightning.ai October 2026 Security Incident",
       "title_ja": "Lightning.ai October 2026 Security Incident",
@@ -83,7 +152,21 @@
       "summary_ja": "Title: Lightning.ai October 2026 Security Incident\nArticle title: October 2026 Security Incident | Lightning AI\nDescription: Security incident notice for the Lightning Platform: Studios, Deployments, Pipelines and Drive are affected, while GPU cluster rental and managed services are not.\n\nArticle text:\nGPUs Pricing Docs Blog Security GPUs Pricing Docs Blog Security Contact us Open app October 2026 Security Incident\nOn October 15, 11:00 PM UTC we identified a security incident on the Lightning Platform involving unauthorized access to credentials. We revoked all user access to the Lightning Platform on October 16 at 1:00 AM UTC to address the issue.\nThe incident involves the Lightning Studio Platform services like Studio, Deployments, Pipelines, and Drive and not the GPU cluster rental infrastructure or managed services like Kubernetes and SLURM.\nWe believe that certain customer credentia…"
     },
     {
-      "rank": 7,
+      "rank": 12,
+      "hn_id": 50234005,
+      "title": "FirstTake – an open-source Claude Code skill for video shoots, offload to master",
+      "title_ja": "FirstTake – an open-source Claude Code skill for video shoots, offload to master",
+      "hn_url": "https://news.ycombinator.com/item?id=50234005",
+      "source_url": "https://github.com/emersonsklar/firsttake",
+      "image_url": "https://repository-images.githubusercontent.com/1433456984/3181fe23-4c63-4c0e-87e7-b1b8bd3700b4",
+      "score": 1,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-10-25T17:40:42Z",
+      "summary_ja": "Title: FirstTake – an open-source Claude Code skill for video shoots, offload to master\nArticle title: GitHub - emersonsklar/firsttake: Free, open-source Claude Code skill for video shoots: verified card offload, footage QC, multi-camera sync with no shared timecode, and edit, grade, mix, captions and delivery. No editing software required. · GitHub\nDescription: Free, open-source Claude Code skill for video shoots: verified card offload, footage QC, multi-camera sync with no shared timecode, and edit, grade, mix, captions and delivery. No editing software required. - emersonsklar/firsttake\n\nArticle text:\nGitHub - emersonsklar/firsttake: Free, open-source Claude Code skill for video shoots: verified card offload, footage QC, multi-camera sync with no shared timecode, and edit, grade, mix, captions and delivery. No editing software required. · GitHub\nSkip to content\nNavigation Menu\nSign in…"
+    },
+    {
+      "rank": 13,
       "hn_id": 50231661,
       "title": "Apollo's Slok Says AI Has Delivered Zero Payoff Outside of Tech",
       "title_ja": "Apollo's Slok Says AI Has Delivered Zero Payoff Outside of Tech",
@@ -96,7 +179,21 @@
       "summary_ja": "Title: Apollo's Slok Says AI Has Delivered Zero Payoff Outside of Tech"
     },
     {
-      "rank": 8,
+      "rank": 14,
+      "hn_id": 50235958,
+      "title": "Raspberry Pi PicoW + LeRobot SO-ARM100 controlled via a webpage/mqtt/openai",
+      "title_ja": "Raspberry Pi PicoW + LeRobot SO-ARM100 controlled via a webpage/mqtt/openai",
+      "hn_url": "https://news.ycombinator.com/item?id=50235958",
+      "source_url": "https://github.com/AdrianCX/picohive-robotarm",
+      "image_url": "https://opengraph.githubassets.com/8ff4e3137d03028f4464d2b58a1cb83c0b73469f42c15a7459ae48ecc1b1149c/AdrianCX/picohive-robotarm",
+      "score": 1,
+      "final_score": 2,
+      "comments": 1,
+      "posted_at": "2026-10-25T20:52:34Z",
+      "summary_ja": "Title: Raspberry Pi PicoW + LeRobot SO-ARM100 controlled via a webpage/mqtt/openai\nArticle title: GitHub - AdrianCX/picohive-robotarm: Raspberry Pi PicoW + LeRobot SO-ARM100 controlled via a webpage/mqtt/openai · GitHub\nDescription: Raspberry Pi PicoW + LeRobot SO-ARM100 controlled via a webpage/mqtt/openai - AdrianCX/picohive-robotarm\n\nArticle text:\nGitHub - AdrianCX/picohive-robotarm: Raspberry Pi PicoW + LeRobot SO-ARM100 controlled via a webpage/mqtt/openai · GitHub\nSkip to content\nNavigation Menu\nSign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI\nGitHub Copilot app Direct agents from issue to merge\nMCP Registry Integrate external tools\nDEVELOPER WORKFLOWS Actions Automate any workflow\nCodespaces Instant dev environments\nCode Review Manage code changes\nCode Quality Enforce quality at merge\nAPPLICATION SECURITY GitHub Advanced Security Find…"
+    },
+    {
+      "rank": 15,
       "hn_id": 50231724,
       "title": "Show HN: The fastest, most token-efficient iOS Simulator MCP for AI agents",
       "title_ja": "Show HN: The fastest, most token-efficient iOS Simulator MCP for AI agents",
@@ -110,7 +207,7 @@
       "summary_ja": "Title: Show HN: The fastest, most token-efficient iOS Simulator MCP for AI agents\nArticle title: GitHub - NoMac-app/simulator-use: Simulator use for agents: read and drive the iOS Simulator from any MCP client or the command line. · GitHub\nDescription: Simulator use for agents: read and drive the iOS Simulator from any MCP client or the command line. - NoMac-app/simulator-use\n\nArticle text:\nGitHub - NoMac-app/simulator-use: Simulator use for agents: read and drive the iOS Simulator from any MCP client or the command line. · GitHub\nSkip to content\nNavigation Menu\nSign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI\nGitHub Copilot app Direct agents from issue to merge\nMCP Registry Integrate external tools\nDEVELOPER WORKFLOWS Actions Automate any workflow\nCodespaces Instant dev environments\nCode Review Manage code changes\nCode Quality Enforce qualit…"
     },
     {
-      "rank": 9,
+      "rank": 16,
       "hn_id": 50231991,
       "title": "Can AI Make Us So Productive That It Destroys the Economy?",
       "title_ja": "Can AI Make Us So Productive That It Destroys the Economy?",
@@ -124,47 +221,20 @@
       "summary_ja": "Title: Can AI Make Us So Productive That It Destroys the Economy?\nArticle title: Can AI Make Us So Productive That It Destroys the Economy? - Vincent Schmalbach\nDescription: Every economy wants higher productivity. When people get a few percent more done each year, the whole economy grows with it. But I think AI could make us so…\n\nArticle text:\nCan AI Make Us So Productive That It Destroys the Economy? - Vincent Schmalbach\nSkip to content\nSoftware Developer\nHome\nCan AI Make Us So Productive That It Destroys the Economy?\nOctober 25, 2026\nby Vincent Schmalbach\nEvery economy wants higher productivity. When people get a few percent more done each year, the whole economy grows with it. But I think AI could make us so productive that it does the opposite. If one person can suddenly do the work of 20, the economy could shrink instead of grow, or even collapse.\nI'm writing this while working on…"
     },
     {
-      "rank": 10,
-      "hn_id": 50234251,
-      "title": "Ask HN: Can superintelligent AI alignement be decentralized?",
-      "title_ja": "Ask HN: Can superintelligent AI alignement be decentralized?",
-      "hn_url": "https://news.ycombinator.com/item?id=50234251",
+      "rank": 17,
+      "hn_id": 50236181,
+      "title": "Show HN: Code with AI simulator (game)",
+      "title_ja": "Show HN: Code with AI simulator (game)",
+      "hn_url": "https://news.ycombinator.com/item?id=50236181",
       "source_url": "",
       "score": 1,
       "final_score": 1,
-      "comments": 2,
-      "posted_at": "2026-10-25T18:05:07Z",
-      "summary_ja": "Title: Ask HN: Can superintelligent AI alignement be decentralized?"
-    },
-    {
-      "rank": 11,
-      "hn_id": 50231781,
-      "title": "Linux 7.4 Sound Changes Merged: \"The AI Flood Continues\"",
-      "title_ja": "Linux 7.4 Sound Changes Merged: \"The AI Flood Continues\"",
-      "hn_url": "https://news.ycombinator.com/item?id=50231781",
-      "source_url": "https://www.phoronix.com/news/Linux-7.4-Sound",
-      "image_url": "https://www.phoronix.net/image.php?id=ryzen-thinkpad-zen2-zen4\u0026image=ryzen_thinkpad_2",
-      "score": 1,
-      "final_score": 1,
-      "comments": 1,
-      "posted_at": "2026-10-25T14:10:31Z",
-      "summary_ja": "Title: Linux 7.4 Sound Changes Merged: \"The AI Flood Continues\"\nArticle title: Linux 7.4 Sound Changes Merged: \"The AI Flood Continues\" - Phoronix\nDescription: Linux sound subsystem maintainer Takashi Iwai of SUSE began the Linux 7.4 sound pull request by noting that 'the AI flood continues' with there continuing to be a lot of new patches coming as a result of AI/LLM agents devising patches as well as uncovering new kernel bugs.\n\nArticle text:\nCategories\nComputers Display Drivers Graphics Cards Linux Gaming Memory Motherboards Processors Software Storage Operating Systems Peripherals\nLinux 7.4 Sound Changes Merged: \"The AI Flood Continues\"\nMichael Larabel is the principal author of Phoronix.com and founded the site in 2004 with a focus on enriching the Linux hardware experience. Michael has written more than 20,000 articles covering the state of Linux hardware support, Linux performance…"
-    },
-    {
-      "rank": 12,
-      "hn_id": 50227041,
-      "title": "Show HN: ADRs for AI – Deliberation records for human–AI work, versioned in Git",
-      "title_ja": "Show HN: ADRs for AI – Deliberation records for human–AI work, versioned in Git",
-      "hn_url": "https://news.ycombinator.com/item?id=50227041",
-      "source_url": "https://adrs.systems",
-      "score": 1,
-      "final_score": 1,
       "comments": 0,
-      "posted_at": "2026-10-25T00:43:47Z",
-      "summary_ja": "Title: Show HN: ADRs for AI – Deliberation records for human–AI work, versioned in Git\nArticle title: ADRs4AI — Your thinking stops disappearing. Your decisions start compounding.\n\nArticle text:\nADRs4AI get started\nthe idea\nblog\ngithub ADRs4AI\nYour thinking stops disappearing. Your decisions start compounding.\nThe template\nA repository starter: ADR \u0026 seed templates, the directives, the inbox protocol, task-runner recipes. Adopt whole or by feature — it works from your first seed. The VS Code extension\nTree views of your open questions, diagnostics that catch malformed records as you type, deep links, and an MCP server so your agents can query the record. Also on Open VSX . The iOS client\nYour project's open questions, in your pocket: sign in, import a repo, review, and one-tap Accept that lands real answers as commits. On the App Store . The most valuable byproduct of the collaboration b…"
+      "posted_at": "2026-10-25T21:23:11Z",
+      "summary_ja": "Title: Show HN: Code with AI simulator (game)\nHN text: Hi HN! I made this small game about getting what you want from an AI that never does the same thing twice. https://innerloop.works/code-with-ai-simulator Challenge: hit every bonus point and land on \"what I want\" on every prompt. When you've got a run you like, turn on auto prompt and share here (share button will copy the link to your solution ready to paste). I suspect there are infinite ways to solve it and I'm curious which strategies people find!"
     },
     {
-      "rank": 13,
+      "rank": 18,
       "hn_id": 50229997,
       "title": "Show HN: Echoboard where AI agents do science and humans only watch",
       "title_ja": "Show HN: Echoboard where AI agents do science and humans only watch",
@@ -177,7 +247,20 @@
       "summary_ja": "Title: Show HN: Echoboard where AI agents do science and humans only watch\nArticle title: Echoboard · Jevon Tane\nDescription: AI agents openly testing the research questions in Nature\n\nArticle text:\nEchoboard is for agents, not people: there are no forms on this page by design. If you run an agent that can call tools or HTTP APIs, point it here. Read the agent instructions first. Every task comes from the book , which agents can read in full ( markdown ) or through the get_chapter and search_book tools.\n1 · Connect over MCP (recommended)\nclaude mcp add --transport http echoboard https://jevontane.com/echoboard/mcp\nThen ask your agent to call get_rules and register_agent . It gets an API key (shown once). Reconnect with the key so it can write:\nclaude mcp remove echoboard\nclaude mcp add --transport http echoboard https://jevontane.com/echoboard/mcp --header \"Authorization: Bearer eb_…\"\nAn…"
     },
     {
-      "rank": 14,
+      "rank": 19,
+      "hn_id": 50227041,
+      "title": "Show HN: ADRs for AI – Deliberation records for human–AI work, versioned in Git",
+      "title_ja": "Show HN: ADRs for AI – Deliberation records for human–AI work, versioned in Git",
+      "hn_url": "https://news.ycombinator.com/item?id=50227041",
+      "source_url": "https://adrs.systems",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-10-25T00:43:47Z",
+      "summary_ja": "Title: Show HN: ADRs for AI – Deliberation records for human–AI work, versioned in Git\nArticle title: ADRs4AI — Your thinking stops disappearing. Your decisions start compounding.\n\nArticle text:\nADRs4AI get started\nthe idea\nblog\ngithub ADRs4AI\nYour thinking stops disappearing. Your decisions start compounding.\nThe template\nA repository starter: ADR \u0026 seed templates, the directives, the inbox protocol, task-runner recipes. Adopt whole or by feature — it works from your first seed. The VS Code extension\nTree views of your open questions, diagnostics that catch malformed records as you type, deep links, and an MCP server so your agents can query the record. Also on Open VSX . The iOS client\nYour project's open questions, in your pocket: sign in, import a repo, review, and one-tap Accept that lands real answers as commits. On the App Store . The most valuable byproduct of the collaboration b…"
+    },
+    {
+      "rank": 20,
       "hn_id": 50231961,
       "title": "Skyl – One Go interface for 400 AI models",
       "title_ja": "Skyl – One Go interface for 400 AI models",
@@ -191,7 +274,34 @@
       "summary_ja": "Title: Skyl – One Go interface for 400 AI models\nArticle title: skyl — One Go interface for every AI model\nDescription: skyl is a small, dependency-light Go library that lets you talk to Claude, GPT, Gemini, and 400+ other models through a single, stable interface — then switch between them by changing one string.\n\nArticle text:\nskyl — One Go interface for every AI model Skip to content skyl skyl v 1.0.0 Search Ctrl K Learn Reference Community Blog Documentation\nv 1.0.0 · Apache 2.0 · Go 1.22+\nOne Go interface for every AI model.\nTalk to Claude, GPT, Gemini, Ollama and 400+ other models through a single, stable interface — then switch between them by changing one string.\nclient := skyl.New( anthropic.New(os.Getenv(\"ANTHROPIC_API_KEY\")) )\nresp , err := client.Complete(ctx, \u0026skyl.Request { Model: \" claude-opus-5 \" , Messages: []skyl.Message { skyl.UserText( \"Hello\" ) } , })\nfmt.Println(res…"
     },
     {
-      "rank": 15,
+      "rank": 21,
+      "hn_id": 50231781,
+      "title": "Linux 7.4 Sound Changes Merged: \"The AI Flood Continues\"",
+      "title_ja": "Linux 7.4 Sound Changes Merged: \"The AI Flood Continues\"",
+      "hn_url": "https://news.ycombinator.com/item?id=50231781",
+      "source_url": "https://www.phoronix.com/news/Linux-7.4-Sound",
+      "image_url": "https://www.phoronix.net/image.php?id=ryzen-thinkpad-zen2-zen4\u0026image=ryzen_thinkpad_2",
+      "score": 1,
+      "final_score": 1,
+      "comments": 1,
+      "posted_at": "2026-10-25T14:10:31Z",
+      "summary_ja": "Title: Linux 7.4 Sound Changes Merged: \"The AI Flood Continues\"\nArticle title: Linux 7.4 Sound Changes Merged: \"The AI Flood Continues\" - Phoronix\nDescription: Linux sound subsystem maintainer Takashi Iwai of SUSE began the Linux 7.4 sound pull request by noting that 'the AI flood continues' with there continuing to be a lot of new patches coming as a result of AI/LLM agents devising patches as well as uncovering new kernel bugs.\n\nArticle text:\nCategories\nComputers Display Drivers Graphics Cards Linux Gaming Memory Motherboards Processors Software Storage Operating Systems Peripherals\nLinux 7.4 Sound Changes Merged: \"The AI Flood Continues\"\nMichael Larabel is the principal author of Phoronix.com and founded the site in 2004 with a focus on enriching the Linux hardware experience. Michael has written more than 20,000 articles covering the state of Linux hardware support, Linux performance…"
+    },
+    {
+      "rank": 22,
+      "hn_id": 50234251,
+      "title": "Ask HN: Can superintelligent AI alignement be decentralized?",
+      "title_ja": "Ask HN: Can superintelligent AI alignement be decentralized?",
+      "hn_url": "https://news.ycombinator.com/item?id=50234251",
+      "source_url": "",
+      "score": 1,
+      "final_score": 1,
+      "comments": 2,
+      "posted_at": "2026-10-25T18:05:07Z",
+      "summary_ja": "Title: Ask HN: Can superintelligent AI alignement be decentralized?"
+    },
+    {
+      "rank": 23,
       "hn_id": 50231744,
       "title": "r/open source just banned AI, non-English speakers and more",
       "title_ja": "r/open source just banned AI, non-English speakers and more",

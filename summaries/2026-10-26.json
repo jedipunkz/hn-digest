@@ -1,0 +1,47 @@
+{
+  "date": "2026-10-26",
+  "generated_at": "2026-10-26T03:31:58Z",
+  "articles": [
+    {
+      "rank": 1,
+      "hn_id": 50238605,
+      "title": "What managing emergencies at Burning Man teaches me about incident management",
+      "title_ja": "What managing emergencies at Burning Man teaches me about incident management",
+      "hn_url": "https://news.ycombinator.com/item?id=50238605",
+      "source_url": "https://greatcircle.com/blog/2026/09/29/burning-man-incident-management/",
+      "image_url": "https://greatcircle.com/wp-content/uploads/2026/09/brent_wearemirrors_brc2015_og_1448x758.jpg",
+      "score": 3,
+      "final_score": 7,
+      "comments": 0,
+      "posted_at": "2026-10-26T03:10:09Z",
+      "summary_ja": "Title: What managing emergencies at Burning Man teaches me about incident management\nArticle title: What managing emergencies at Burning Man teaches me about incident management in tech | Brent Chapman\nDescription: Every summer, I spend two weeks helping run emergency dispatch at Burning Man. Many of the practices the public safety world takes for granted adapt readily to software incident response, but they're often unfamiliar to engineering teams.\n\nArticle text:\nWhat managing emergencies at Burning Man teaches me about incident management in tech | Brent Chapman\nBrent Chapman\nEngineering Better Incident Management\nWhat managing emergencies at Burning Man teaches me about incident management in tech\nby Brent Chapman | Sep 29, 2026 | Uncategorized | 0 comments\nEvery summer, I load up my RV and head out to a dry lakebed in the Nevada desert, but it’s not exactly for a vacation. For two we…"
+    },
+    {
+      "rank": 2,
+      "hn_id": 50238561,
+      "title": "Anthropic sued for allegedly using 274 Elvis Presley songs to train AI models",
+      "title_ja": "Anthropic sued for allegedly using 274 Elvis Presley songs to train AI models",
+      "hn_url": "https://news.ycombinator.com/item?id=50238561",
+      "source_url": "https://www.theguardian.com/us-news/2026/oct/25/elvis-presley-anthropic-lawsuit-ai-models-music",
+      "image_url": "https://i.guim.co.uk/img/media/84aa6ec87e3e6db19123ab53bff1786594581607/0_358_2832_2265/master/2832.jpg?width=1200\u0026height=630\u0026quality=85\u0026auto=format\u0026fit=crop\u0026precrop=40:21,offset-x50,offset-y0\u0026overlay-align=bottom%2Cleft\u0026overlay-width=100p\u0026overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc\u0026enable=upscale\u0026s=6dfe5655c7f3a98878ac8e59f06e6b34",
+      "score": 3,
+      "final_score": 6,
+      "comments": 1,
+      "posted_at": "2026-10-26T03:04:17Z",
+      "summary_ja": "Title: Anthropic sued for allegedly using 274 Elvis Presley songs to train AI models\nArticle title: Anthropic sued for allegedly using 274 Elvis Presley songs to train AI models | US news | The Guardian\nDescription: Authentic Brands Group says AI company infringed on rights of songs by the King such as Can’t Help Falling in Love\n\nArticle text:\nSkip to main content Skip to navigation Close dialogue 1 / 1 Next image Previous image Toggle caption Print subscriptions Newsletters Sign in US US edition\nHide expanded menu News View all News\nSearch input google-search Search\nSearch input google-search Search Digital Archive\n‘The defendant … has built its entire business model based on copyright infringement at a scale never seen before,’ the lawsuit says. Photograph: Universal Pictures. All Rights Reserved./PA View image in fullscreen ‘The defendant … has built its entire business model based on…"
+    },
+    {
+      "rank": 3,
+      "hn_id": 50238496,
+      "title": "Ask HN: Does your company require human review of AI-generated code?",
+      "title_ja": "Ask HN: Does your company require human review of AI-generated code?",
+      "hn_url": "https://news.ycombinator.com/item?id=50238496",
+      "source_url": "",
+      "score": 1,
+      "final_score": 1,
+      "comments": 1,
+      "posted_at": "2026-10-26T02:50:27Z",
+      "summary_ja": "Title: Ask HN: Does your company require human review of AI-generated code?\nHN text: Mid-size SaaS ~2k employees. We still require human review of every PR. I imagine 99% of the industry is still doing the same but was curious if there has been a meaningful shift in this balance in recent weeks/months."
+    }
+  ]
+}

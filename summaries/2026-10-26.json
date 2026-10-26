@@ -1,6 +1,6 @@
 {
   "date": "2026-10-26",
-  "generated_at": "2026-10-26T03:31:58Z",
+  "generated_at": "2026-10-26T09:48:35Z",
   "articles": [
     {
       "rank": 1,
@@ -32,6 +32,61 @@
     },
     {
       "rank": 3,
+      "hn_id": 50241078,
+      "title": "Show HN: Load-lock, a machine-wide semaphore for parallel AI coding agents",
+      "title_ja": "Show HN: Load-lock, a machine-wide semaphore for parallel AI coding agents",
+      "hn_url": "https://news.ycombinator.com/item?id=50241078",
+      "source_url": "https://github.com/aron98/load-lock",
+      "image_url": "https://repository-images.githubusercontent.com/1420503912/e1a54ec2-2ae7-4a45-95eb-412ce5b16848",
+      "score": 1,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-10-26T09:08:22Z",
+      "summary_ja": "Title: Show HN: Load-lock, a machine-wide semaphore for parallel AI coding agents\nArticle title: GitHub - aron98/load-lock: Machine-wide counting semaphore coordinating heavy work across parallel coding agents (OpenCode, Codex CLI, Claude Code, ...) · GitHub\nDescription: Machine-wide counting semaphore coordinating heavy work across parallel coding agents (OpenCode, Codex CLI, Claude Code, ...) - aron98/load-lock\n\nArticle text:\nGitHub - aron98/load-lock: Machine-wide counting semaphore coordinating heavy work across parallel coding agents (OpenCode, Codex CLI, Claude Code, ...) · GitHub\nSkip to content\nNavigation Menu\nSign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI\nGitHub Copilot app Direct agents from issue to merge\nMCP Registry Integrate external tools\nDEVELOPER WORKFLOWS Actions Automate any workflow\nCodespaces Instant dev environments\nCo…"
+    },
+    {
+      "rank": 4,
+      "hn_id": 50241016,
+      "title": "What happens to old AI GPUs?",
+      "title_ja": "What happens to old AI GPUs?",
+      "hn_url": "https://news.ycombinator.com/item?id=50241016",
+      "source_url": "https://rcrtech.com/semiconductor-news/what-happens-to-old-ai-gpus/",
+      "image_url": "https://rcrtech.com/wp-content/uploads/2026/02/ai-gpu.jpg",
+      "score": 1,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-10-26T09:00:58Z",
+      "summary_ja": "Title: What happens to old AI GPUs?\nDescription: A secondary market for the AI GPU is emerging, offering budget-conscious buyers high ROI on older Nvidia chips for inference and fine-tuning tasks.\n\nArticle text:\nWhat happens to old AI GPUs?\nNewsletters\nCreated by RCR Wireless News. Telecom Industry editorial excellence since 1982\nBuying up old GPUs for AI might be the way to go for some smaller AI outfits\nThe economics of secondary markets\nAlternative adoption scenarios\nBuying up old GPUs for AI might be the way to go for some smaller AI outfits\nEvery time Nvidia drops a new flagship accelerator, the entire AI processing landscape reshapes practically overnight. Hyperscalers scramble for allocation and last generation’s hardware gets treated like it’s ancient history. But what doesn’t get anywhere near as much attention is the outgoing generation of accelerators — which obviously don’t v…"
+    },
+    {
+      "rank": 5,
+      "hn_id": 50241207,
+      "title": "A Brave New World (Of AI)",
+      "title_ja": "A Brave New World (Of AI)",
+      "hn_url": "https://news.ycombinator.com/item?id=50241207",
+      "source_url": "https://shahruk.com/blog/2026-10-22-brave-new-world/",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-10-26T09:25:47Z",
+      "summary_ja": "Title: A Brave New World (Of AI)"
+    },
+    {
+      "rank": 6,
+      "hn_id": 50241243,
+      "title": "Aivs – The AI Video Studio",
+      "title_ja": "Aivs – The AI Video Studio",
+      "hn_url": "https://news.ycombinator.com/item?id=50241243",
+      "source_url": "https://yapern.com/blog/aivs-the-ai-video-studio/",
+      "image_url": "https://yapern.com/images/blog/aivs-the-ai-video-studio/directed-shot-frame.webp",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-10-26T09:32:12Z",
+      "summary_ja": "Title: Aivs – The AI Video Studio\nArticle title: aivs - the ai video studio · Yapern\nDescription: AIVS turns a cast screenplay into Codex-directed shots, renders them locally with LTX-2.5, and experiments with fixed voices and reusable character references.\n\nArticle text:\naivs - the ai video studio · Yapern\nSkip to content\nyapern .\nSearch Yapern\nCreate\nCreate message\nCreate sub-yap\nThis site\nCreate message\nCreate sub-yap\nthis site\nNotifications\nLogin\nyapern .\nCreate a message\nB\nI\nS\nx 2\nH\n“”\n\u003c/\u003e\n•••\nReplace image\nRemove image\nOctober 25, 2026 · Updated October 26, 2026 · Andrew Arrow\nSue and Joe are stranded beside a station wagon on a desert road. Joe has looked under the hood. “Good news. It’s definitely the car.” Sue has a postcard from her dad and a questionable promise that the ocean is somewhere nearby. It’s a tiny scene, five lines of dialogue, but it already creates a useful probl…"
+    },
+    {
+      "rank": 7,
       "hn_id": 50238496,
       "title": "Ask HN: Does your company require human review of AI-generated code?",
       "title_ja": "Ask HN: Does your company require human review of AI-generated code?",
@@ -42,6 +97,59 @@
       "comments": 1,
       "posted_at": "2026-10-26T02:50:27Z",
       "summary_ja": "Title: Ask HN: Does your company require human review of AI-generated code?\nHN text: Mid-size SaaS ~2k employees. We still require human review of every PR. I imagine 99% of the industry is still doing the same but was curious if there has been a meaningful shift in this balance in recent weeks/months."
+    },
+    {
+      "rank": 8,
+      "hn_id": 50241138,
+      "title": "Owners of Elvis Presley's Music Sue Anthropic for Copyright Infringement",
+      "title_ja": "Owners of Elvis Presley's Music Sue Anthropic for Copyright Infringement",
+      "hn_url": "https://news.ycombinator.com/item?id=50241138",
+      "source_url": "https://www.nytimes.com/2026/10/25/arts/music/anthropic-lawsuit-elvis-presley-songs.html",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-10-26T09:16:39Z",
+      "summary_ja": "Title: Owners of Elvis Presley's Music Sue Anthropic for Copyright Infringement"
+    },
+    {
+      "rank": 9,
+      "hn_id": 50241123,
+      "title": "SpaceX closed $40B in GPU debt, debt markets shut off credit for AI datacenters",
+      "title_ja": "SpaceX closed $40B in GPU debt, debt markets shut off credit for AI datacenters",
+      "hn_url": "https://news.ycombinator.com/item?id=50241123",
+      "source_url": "https://www.techmeme.com/261025/p11#a261025p11",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-10-26T09:14:42Z",
+      "summary_ja": "Title: SpaceX closed $40B in GPU debt, debt markets shut off credit for AI datacenters"
+    },
+    {
+      "rank": 10,
+      "hn_id": 50241143,
+      "title": "Two AI Chipmakers Make Up 34% of America's Earnings Boom",
+      "title_ja": "Two AI Chipmakers Make Up 34% of America's Earnings Boom",
+      "hn_url": "https://news.ycombinator.com/item?id=50241143",
+      "source_url": "https://www.wsj.com/finance/stocks/the-earnings-boom-is-heavily-reliant-on-just-a-handful-of-stocks-21decb53",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-10-26T09:17:05Z",
+      "summary_ja": "Title: Two AI Chipmakers Make Up 34% of America's Earnings Boom"
+    },
+    {
+      "rank": 11,
+      "hn_id": 50241294,
+      "title": "Who Is AI Native Foundation (AINF)?",
+      "title_ja": "Who Is AI Native Foundation (AINF)?",
+      "hn_url": "https://news.ycombinator.com/item?id=50241294",
+      "source_url": "https://ainativefoundation.org/who-we-are/",
+      "image_url": "https://ainativefoundation.org/wp-content/uploads/2025/03/1-1-scaled.jpg",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-10-26T09:39:19Z",
+      "summary_ja": "Title: Who Is AI Native Foundation (AINF)?\nArticle title: Who we are - AI Native Foundation\nDescription: Learn what AI Native means and how AI Native Foundation drives the convergence of technology to help organizations become AI native.\n\nArticle text:\nWho we are - AI Native Foundation\nHome\nCase Study\nEnterprise References\nAI serves as the central technology catalyst, driving the convergence of various technological advances and nurturing massive new opportunities in the global market.\nA company becomes AI native when AI gets permanently baked into the business’s DNA.\nWho is AI Native Foundation (AINF)?\nEstablished in 2024, our foundation is dedicated to the integration of diverse domains through the collective expertise of thought leaders in different industries. At AINF, we unite the world’s foremost experts, organizations, end users, vendors, and researchers to drive the evolution of…"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "date": "2026-10-27",
-  "generated_at": "2026-10-27T19:52:07Z",
+  "generated_at": "2026-10-27T23:33:42Z",
   "articles": [
     {
       "rank": 1,
@@ -72,6 +72,20 @@
     },
     {
       "rank": 6,
+      "hn_id": 50267038,
+      "title": "OpenCode-Muse: Use Meta AI's Muse Code Subscription in OpenCode",
+      "title_ja": "OpenCode-Muse: Use Meta AI's Muse Code Subscription in OpenCode",
+      "hn_url": "https://news.ycombinator.com/item?id=50267038",
+      "source_url": "https://github.com/pgquiles/opencode-muse",
+      "image_url": "https://opengraph.githubassets.com/0f6d160caf73c29ee78bf43d6abf4b3c25fabfc6bf9acc26910db5d16d0f38ed/pgquiles/opencode-muse",
+      "score": 2,
+      "final_score": 4,
+      "comments": 0,
+      "posted_at": "2026-10-27T22:56:05Z",
+      "summary_ja": "Title: OpenCode-Muse: Use Meta AI's Muse Code Subscription in OpenCode\nArticle title: GitHub - pgquiles/opencode-muse: Muse Code subscription provider plugin for OpenCode · GitHub\nDescription: Muse Code subscription provider plugin for OpenCode - pgquiles/opencode-muse\n\nArticle text:\nGitHub - pgquiles/opencode-muse: Muse Code subscription provider plugin for OpenCode · GitHub\nSkip to content\nNavigation Menu\nSign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI\nGitHub Copilot app Direct agents from issue to merge\nMCP Registry Integrate external tools\nDEVELOPER WORKFLOWS Actions Automate any workflow\nCodespaces Instant dev environments\nCode Review Manage code changes\nCode Quality Enforce quality at merge\nAPPLICATION SECURITY GitHub Advanced Security Find and fix vulnerabilities\nCode security Secure your code as you build\nSecret protection Stop leaks…"
+    },
+    {
+      "rank": 7,
       "hn_id": 50264005,
       "title": "Giotto Sovereign European AI Models",
       "title_ja": "Giotto Sovereign European AI Models",
@@ -85,34 +99,7 @@
       "summary_ja": "Title: Giotto Sovereign European AI Models\nArticle title: Giotto - The Smartest Sovereign AI\nDescription: Intelligence You Control. Hosted in Europe.\n\nArticle text:\nGiotto - The Smartest Sovereign AI Offering Careers API About Contact Sales Use Giotto Download App Offering Careers API About Sign In Contact Sales The Smartest Sovereign AI\nIntelligence You Control . Hosted in Europe\nPress Enter to submit. Press Shift and Enter for a new line.\nPartnering with leading organisations around the world\nAI access shouldn’t require giving up control of your data. Giotto is efficient by design and sovereign by nature. Deployed on European cloud or your own private infrastructure.\nSwipe or scroll right to see all three benefits.\nRegain and keep control of your data: decide where it stays and how it’s handled.\nRun on European cloud or deploy it locally on your own compatible infrastructure.\nSmart and…"
     },
     {
-      "rank": 7,
-      "hn_id": 50258855,
-      "title": "AI Talent War Has Quant Firms Racing to Fund PhDs, Build Labs",
-      "title_ja": "AI Talent War Has Quant Firms Racing to Fund PhDs, Build Labs",
-      "hn_url": "https://news.ycombinator.com/item?id=50258855",
-      "source_url": "https://www.bloomberg.com/news/articles/2026-10-27/ai-talent-war-has-quant-firms-racing-to-fund-phds-build-labs",
-      "score": 3,
-      "final_score": 3,
-      "comments": 0,
-      "posted_at": "2026-10-27T13:22:44Z",
-      "summary_ja": "Title: AI Talent War Has Quant Firms Racing to Fund PhDs, Build Labs"
-    },
-    {
       "rank": 8,
-      "hn_id": 50264510,
-      "title": "AI refutes 30-year-old mathematical assumption in computer science",
-      "title_ja": "AI refutes 30-year-old mathematical assumption in computer science",
-      "hn_url": "https://news.ycombinator.com/item?id=50264510",
-      "source_url": "https://www.newscientist.com/article/2596045-ai-refutes-30-year-old-mathematical-assumption-in-computer-science/",
-      "image_url": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_318369568.jpg",
-      "score": 3,
-      "final_score": 3,
-      "comments": 0,
-      "posted_at": "2026-10-27T19:31:16Z",
-      "summary_ja": "Title: AI refutes 30-year-old mathematical assumption in computer science\nArticle title: AI refutes 30-year-old mathematical assumption in computer science | New Scientist\nDescription: A central tenet in computer science has apparently been disproven by OpenAI, a result that will force textbooks to be rewritten if it is confirmed\n\nArticle text:\nAI refutes 30-year-old mathematical assumption in computer science | New Scientist\nAdvertisement\nSign In\nSign In\nCuriosity Engine\nExplore our products and services\nCheck your subscription status, update your details and more.\nCheck your subscription status, update your details and more.\nAI refutes 30-year-old mathematical assumption in computer science\nOpenAI, the maker of ChatGPT, claims its AI models have disproven the exponential time hypothesis – a fundamental assumption that underpins computer science.\n“This came as a complete surprise, a sho…"
-    },
-    {
-      "rank": 9,
       "hn_id": 50264157,
       "title": "How to match sizes and colors across stores so AI agents can buy the right one",
       "title_ja": "How to match sizes and colors across stores so AI agents can buy the right one",
@@ -126,34 +113,76 @@
       "summary_ja": "Title: How to match sizes and colors across stores so AI agents can buy the right one\nArticle title: Before an AI agent can buy the right size - Channel3 Blog\nDescription: Every store writes sizes and colors its own way. Here is how Channel3 matches them into one product, so an agent that asks for a brown men's 10 gets every listing that sells exactly that.\n\nArticle text:\nBefore an AI agent can buy the right size - Channel3 Blog Developers\nBack to Blog Developers Before an AI agent can buy the right size\nSay you want a pair of men's adidas Gazelle Indoor, in brown, in a size 10.\nAs people, we can pick from a multitude of retailers and stores, or buy online, and have the product in our hands in a day.\nIf you're an AI agent, it isn't as easy. The agent has to work out which stores sell the men's Gazelle Indoor, which of them carry the brown color, which have a size 10 in stock, and which i…"
     },
     {
-      "rank": 10,
-      "hn_id": 50253325,
-      "title": "Meaning After an AI Eucatastrophe",
-      "title_ja": "Meaning After an AI Eucatastrophe",
-      "hn_url": "https://news.ycombinator.com/item?id=50253325",
-      "source_url": "https://meaningness.substack.com/p/meaning-after-an-ai-eucatastrophe",
-      "score": 2,
-      "final_score": 2,
+      "rank": 9,
+      "hn_id": 50258855,
+      "title": "AI Talent War Has Quant Firms Racing to Fund PhDs, Build Labs",
+      "title_ja": "AI Talent War Has Quant Firms Racing to Fund PhDs, Build Labs",
+      "hn_url": "https://news.ycombinator.com/item?id=50258855",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-10-27/ai-talent-war-has-quant-firms-racing-to-fund-phds-build-labs",
+      "score": 3,
+      "final_score": 3,
       "comments": 0,
-      "posted_at": "2026-10-27T00:45:16Z",
-      "summary_ja": "Title: Meaning After an AI Eucatastrophe"
+      "posted_at": "2026-10-27T13:22:44Z",
+      "summary_ja": "Title: AI Talent War Has Quant Firms Racing to Fund PhDs, Build Labs"
+    },
+    {
+      "rank": 10,
+      "hn_id": 50264510,
+      "title": "AI refutes 30-year-old mathematical assumption in computer science",
+      "title_ja": "AI refutes 30-year-old mathematical assumption in computer science",
+      "hn_url": "https://news.ycombinator.com/item?id=50264510",
+      "source_url": "https://www.newscientist.com/article/2596045-ai-refutes-30-year-old-mathematical-assumption-in-computer-science/",
+      "image_url": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_318369568.jpg",
+      "score": 3,
+      "final_score": 3,
+      "comments": 0,
+      "posted_at": "2026-10-27T19:31:16Z",
+      "summary_ja": "Title: AI refutes 30-year-old mathematical assumption in computer science\nArticle title: AI refutes 30-year-old mathematical assumption in computer science | New Scientist\nDescription: A central tenet in computer science has apparently been disproven by OpenAI, a result that will force textbooks to be rewritten if it is confirmed\n\nArticle text:\nAI refutes 30-year-old mathematical assumption in computer science | New Scientist\nAdvertisement\nSign In\nSign In\nCuriosity Engine\nExplore our products and services\nCheck your subscription status, update your details and more.\nCheck your subscription status, update your details and more.\nAI refutes 30-year-old mathematical assumption in computer science\nOpenAI, the maker of ChatGPT, claims its AI models have disproven the exponential time hypothesis – a fundamental assumption that underpins computer science.\n“This came as a complete surprise, a sho…"
     },
     {
       "rank": 11,
-      "hn_id": 50259287,
-      "title": "Show HN: Monita – Site reliability for every project your team ships",
-      "title_ja": "Show HN: Monita – Site reliability for every project your team ships",
-      "hn_url": "https://news.ycombinator.com/item?id=50259287",
-      "source_url": "https://github.com/PT-Perkasa-Pilar-Utama/monita",
-      "image_url": "https://opengraph.githubassets.com/e3b5ac631f0721c0c5ee8e96d9fd031c74226fdf952289b9c2603173f6dcd5e0/PT-Perkasa-Pilar-Utama/monita",
+      "hn_id": 50259180,
+      "title": "Show HN: Model Salt, fixing the pelican problem in LLMs by adding entropy",
+      "title_ja": "Show HN: Model Salt, fixing the pelican problem in LLMs by adding entropy",
+      "hn_url": "https://news.ycombinator.com/item?id=50259180",
+      "source_url": "https://modelsalt.com/",
+      "image_url": "https://modelsalt.com/og.png",
       "score": 1,
       "final_score": 2,
       "comments": 0,
-      "posted_at": "2026-10-27T13:48:55Z",
-      "summary_ja": "Title: Show HN: Monita – Site reliability for every project your team ships\nArticle title: GitHub - PT-Perkasa-Pilar-Utama/monita: Site reliability for every project your team ships. Self-hosted uptime checks, cron heartbeats, incidents with email and webhook alerts, public status pages, bug tickets and changelogs, in one Rust binary and one SQLite file. · GitHub\nDescription: Site reliability for every project your team ships. Self-hosted uptime checks, cron heartbeats, incidents with email and webhook alerts, public status pages, bug tickets and changelogs, in one Rust binary and one SQLite file. - PT-Perkasa-Pilar-Utama/monita\n\nArticle text:\nGitHub - PT-Perkasa-Pilar-Utama/monita: Site reliability for every project your team ships. Self-hosted uptime checks, cron heartbeats, incidents with email and webhook alerts, public status pages, bug tickets and changelogs, in one Rust binary and…"
+      "posted_at": "2026-10-27T13:42:03Z",
+      "summary_ja": "Title: Show HN: Model Salt, fixing the pelican problem in LLMs by adding entropy\nArticle title: Model Salt: one prompt, ten different answers\nDescription: Ask a model the same thing ten times and you get one answer. Model Salt adds outside randomness, so each run gives a different answer that fits the brief.\nHN text: I have been frustrated with how repetitive the output of LLMs is. Even at maximum temperature, asking the same prompt ten times gives functionally the same result each time, as discussed here: https://news.ycombinator.com/item?id=50090443 That’s not surprising considering how LLMs work, but the thread above got me wondering if you could push models away from their usual generation patterns by injecting entropy from an external source. After a lot of tweaking and experimenting, I turned the idea into an MCP server. It's optimized to add just enough entropy that creative outpu…"
     },
     {
       "rank": 12,
+      "hn_id": 50264176,
+      "title": "Fuzzers vs. AI: Comparing Fuzzilli and BigSleep on JavaScript Engines",
+      "title_ja": "Fuzzers vs. AI: Comparing Fuzzilli and BigSleep on JavaScript Engines",
+      "hn_url": "https://news.ycombinator.com/item?id=50264176",
+      "source_url": "https://projectzero.google/2026/10/fuzzing-v-AI.html",
+      "image_url": "https://projectzero.google/images/preview_image.png",
+      "score": 2,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-10-27T19:07:19Z",
+      "summary_ja": "Title: Fuzzers vs. AI: Comparing Fuzzilli and BigSleep on JavaScript Engines\nArticle title: Fuzzers vs. AI: Comparing Fuzzilli and BigSleep on JavaScript Engines - Project Zero\nDescription: SummaryProject Zero compared two automated tools used by Google to find vulnerabilities in Chrome’s JavaScript engine, V8, on a regular basis. Fuzzilli is a ...\n\nArticle text:\nFuzzers vs. AI: Comparing Fuzzilli and BigSleep on JavaScript Engines - Project Zero\nProject Zero\nblog archive\nvulnerability disclosure policy\nFuzzers vs. AI: Comparing Fuzzilli and BigSleep on JavaScript Engines\nProject Zero compared two automated tools used by Google to find vulnerabilities in Chrome’s JavaScript engine, V8, on a regular basis. Fuzzilli is a generative JavaScript engine fuzzer and BigSleep is an LLM-based bug finding system. In the past six months, BigSleep found more vulnerabilities than Fuzzilli (45 versus 3…"
+    },
+    {
+      "rank": 13,
+      "hn_id": 50258569,
+      "title": "Apple Creator Studio adds powerful new AI features and more creative tools",
+      "title_ja": "Apple Creator Studio adds powerful new AI features and more creative tools",
+      "hn_url": "https://news.ycombinator.com/item?id=50258569",
+      "source_url": "https://www.apple.com/newsroom/2026/10/apple-creator-studio-adds-powerful-new-ai-features-and-even-more-creative-tools/",
+      "image_url": "https://www.apple.com/newsroom/images/2026/10/apple-creator-studio-adds-powerful-new-ai-features-and-even-more-creative-tools/tile/Apple-Creator-Studio-hero-261027-lp.jpg.og.jpg?202610271300",
+      "score": 2,
+      "final_score": 2,
+      "comments": 1,
+      "posted_at": "2026-10-27T13:03:55Z",
+      "summary_ja": "Title: Apple Creator Studio adds powerful new AI features and more creative tools\nArticle title: Apple Creator Studio adds powerful new AI features and even more creative tools - Apple\nDescription: Apple introduces updates to Apple Creator Studio, the collection of creative apps designed to put studio-grade tools into the hands of creators.\n\nArticle text:\nApple Creator Studio adds powerful new AI features and even more creative tools - Apple\nApple\nNewsroom\nOpen Newsroom navigation\nClose Newsroom navigation\nApple Services\nApple Creator Studio adds powerful new AI features and even more creative tools\nApple Creator Studio gets transformative updates, including built-in MotionVFX content for Final Cut Pro, video assets in the Content Hub, expanded music creation tools in Logic Pro, and new intelligence features in Logic Pro, Keynote, Pages, and Numbers.\nCUPERTINO, CALIFORNIA Apple today int…"
+    },
+    {
+      "rank": 14,
       "hn_id": 50253316,
       "title": "Aroha – signed, shrinking permissions for AI agents, checked offline",
       "title_ja": "Aroha – signed, shrinking permissions for AI agents, checked offline",
@@ -165,32 +194,6 @@
       "comments": 0,
       "posted_at": "2026-10-27T00:43:16Z",
       "summary_ja": "Title: Aroha – signed, shrinking permissions for AI agents, checked offline\nArticle title: GitHub - ArohaLabs/aroha-protocol: Aroha: verifiable identity and spending limits for AI agents · GitHub\nDescription: Aroha: verifiable identity and spending limits for AI agents - ArohaLabs/aroha-protocol\n\nArticle text:\nGitHub - ArohaLabs/aroha-protocol: Aroha: verifiable identity and spending limits for AI agents · GitHub\nSkip to content\nNavigation Menu\nSign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI\nGitHub Copilot app Direct agents from issue to merge\nMCP Registry Integrate external tools\nDEVELOPER WORKFLOWS Actions Automate any workflow\nCodespaces Instant dev environments\nCode Review Manage code changes\nCode Quality Enforce quality at merge\nAPPLICATION SECURITY GitHub Advanced Security Find and fix vulnerabilities\nCode security Secure your code as…"
-    },
-    {
-      "rank": 13,
-      "hn_id": 50259425,
-      "title": "Anthropic Are the Good Guys",
-      "title_ja": "Anthropic Are the Good Guys",
-      "hn_url": "https://news.ycombinator.com/item?id=50259425",
-      "source_url": "https://nothinghuman.substack.com/p/anthropic-are-the-good-guys",
-      "score": 2,
-      "final_score": 2,
-      "comments": 0,
-      "posted_at": "2026-10-27T13:57:15Z",
-      "summary_ja": "Title: Anthropic Are the Good Guys"
-    },
-    {
-      "rank": 14,
-      "hn_id": 50253346,
-      "title": "AI Crisis in Math: Navier-Stokes, Riemann Hypothesis and Complexity Theory [video]",
-      "title_ja": "AI Crisis in Math: Navier-Stokes, Riemann Hypothesis and Complexity Theory [video]",
-      "hn_url": "https://news.ycombinator.com/item?id=50253346",
-      "source_url": "https://www.youtube.com/watch?v=ZAzWPE9CItg",
-      "score": 2,
-      "final_score": 2,
-      "comments": 1,
-      "posted_at": "2026-10-27T00:47:20Z",
-      "summary_ja": "Title: AI Crisis in Math: Navier-Stokes, Riemann Hypothesis and Complexity Theory [video]\nArticle title: - YouTube\nDescription: Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.\n\nArticle text:\n- YouTube About Press Copyright Contact us Creators Advertise Developers Terms Privacy Policy \u0026 Safety How YouTube works Test new features NFL Sunday Ticket © 2026 Google LLC"
     },
     {
       "rank": 15,
@@ -208,6 +211,48 @@
     },
     {
       "rank": 16,
+      "hn_id": 50259287,
+      "title": "Show HN: Monita – Site reliability for every project your team ships",
+      "title_ja": "Show HN: Monita – Site reliability for every project your team ships",
+      "hn_url": "https://news.ycombinator.com/item?id=50259287",
+      "source_url": "https://github.com/PT-Perkasa-Pilar-Utama/monita",
+      "image_url": "https://opengraph.githubassets.com/e3b5ac631f0721c0c5ee8e96d9fd031c74226fdf952289b9c2603173f6dcd5e0/PT-Perkasa-Pilar-Utama/monita",
+      "score": 1,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-10-27T13:48:55Z",
+      "summary_ja": "Title: Show HN: Monita – Site reliability for every project your team ships\nArticle title: GitHub - PT-Perkasa-Pilar-Utama/monita: Site reliability for every project your team ships. Self-hosted uptime checks, cron heartbeats, incidents with email and webhook alerts, public status pages, bug tickets and changelogs, in one Rust binary and one SQLite file. · GitHub\nDescription: Site reliability for every project your team ships. Self-hosted uptime checks, cron heartbeats, incidents with email and webhook alerts, public status pages, bug tickets and changelogs, in one Rust binary and one SQLite file. - PT-Perkasa-Pilar-Utama/monita\n\nArticle text:\nGitHub - PT-Perkasa-Pilar-Utama/monita: Site reliability for every project your team ships. Self-hosted uptime checks, cron heartbeats, incidents with email and webhook alerts, public status pages, bug tickets and changelogs, in one Rust binary and…"
+    },
+    {
+      "rank": 17,
+      "hn_id": 50259155,
+      "title": "PoseForge – Local-first AI studio for images and video (Codex, ComfyUI)",
+      "title_ja": "PoseForge – Local-first AI studio for images and video (Codex, ComfyUI)",
+      "hn_url": "https://news.ycombinator.com/item?id=50259155",
+      "source_url": "https://github.com/vishwakulkarni/PoseForge",
+      "image_url": "https://opengraph.githubassets.com/6c509f51422ce4a3142133d65ef08d83eb27146639aac6db98b45299821a28ec/vishwakulkarni/PoseForge",
+      "score": 1,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-10-27T13:40:28Z",
+      "summary_ja": "Title: PoseForge – Local-first AI studio for images and video (Codex, ComfyUI)\nArticle title: GitHub - vishwakulkarni/PoseForge: Local-first AI pose transformation studio. Transform identity photos using Codex CLI, Google Antigravity, or ComfyUI. · GitHub\nDescription: Local-first AI pose transformation studio. Transform identity photos using Codex CLI, Google Antigravity, or ComfyUI. - vishwakulkarni/PoseForge\n\nArticle text:\nGitHub - vishwakulkarni/PoseForge: Local-first AI pose transformation studio. Transform identity photos using Codex CLI, Google Antigravity, or ComfyUI. · GitHub\nSkip to content\nNavigation Menu\nSign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI\nGitHub Copilot app Direct agents from issue to merge\nMCP Registry Integrate external tools\nDEVELOPER WORKFLOWS Actions Automate any workflow\nCodespaces Instant dev environments\nCode…"
+    },
+    {
+      "rank": 18,
+      "hn_id": 50266977,
+      "title": "Delaware plan would let AI agents run businesses",
+      "title_ja": "Delaware plan would let AI agents run businesses",
+      "hn_url": "https://news.ycombinator.com/item?id=50266977",
+      "source_url": "https://arstechnica.com/tech-policy/2026/10/no-human-at-the-helm-delaware-plan-would-let-ai-agents-run-entire-businesses/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/robot-phone-headset-1152x648.jpg",
+      "score": 1,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-10-27T22:49:27Z",
+      "summary_ja": "Title: Delaware plan would let AI agents run businesses\nArticle title: \"No human at the helm\": Delaware plan would let AI agents run entire businesses - Ars Technica\nDescription: Owners of AI-run firms would evade liability for \"reckless\" AI, US Rep. Comer says.\n\nArticle text:\nSkip to content\nArs Technica home\nSections\nForum\nSubscribe\nSearch\nAI\nStory text\nSize\nSmall\nStandard\nLarge\nWidth\n*\nStandard\nWide\nLinks\nStandard\nOrange\n* Subscribers only\nLearn more\nPin to story\nTheme\nHyperLight\nSearch\nSign In\nSign in dialog...\nSign in\nMeet the new boss\n“No human at the helm”: Delaware plan would let AI agents run entire businesses\nOwners of AI-run firms would evade liability for “reckless” AI, US Rep. Comer says.\n34\nCredit:\nGetty Images | Thamrongpat Theerathammakorn\nCredit:\nGetty Images | Thamrongpat Theerathammakorn\nText\nsettings\nStory text\nSize\nSmall\nStandard\nLarge\nWidth\n*\nStandard\nWide\nLinks\nSta…"
+    },
+    {
+      "rank": 19,
       "hn_id": 50255332,
       "title": "Documentation quality is your AI quality now",
       "title_ja": "Documentation quality is your AI quality now",
@@ -221,7 +266,7 @@
       "summary_ja": "Title: Documentation quality is your AI quality now\nArticle title: Your documentation quality is your AI quality now | Ben Balter\nDescription: AI tools are only as good as the docs you feed them. Bold text isn\n\nArticle text:\nYour documentation quality is your AI quality now | Ben Balter Skip to main content Ben Balter Posts\nDeveloper platforms and showing your work\nDeveloper platforms and showing your work Skip to table of contents Home\nYour documentation quality is your AI quality now\nYour documentation quality is your AI quality now\n9 min read TL;DR: Summary: AI tools need to know what your content is, not what it looks like. Use real headings and lists, keep one living copy, convert legacy Word files in with word2md.com, and export to Word only at the end with md2word.app.\nStructure is what the model sees\nWord files are tiny jails for content\nTwelve years ago, I built a little Heroku…"
     },
     {
-      "rank": 17,
+      "rank": 20,
       "hn_id": 50253271,
       "title": "Don't expect supersize profits from Anthropic any time soon",
       "title_ja": "Don't expect supersize profits from Anthropic any time soon",
@@ -234,7 +279,7 @@
       "summary_ja": "Title: Don't expect supersize profits from Anthropic any time soon"
     },
     {
-      "rank": 18,
+      "rank": 21,
       "hn_id": 50258702,
       "title": "Friendly UI and server and agent for local LLMs",
       "title_ja": "Friendly UI and server and agent for local LLMs",
@@ -248,35 +293,33 @@
       "summary_ja": "Title: Friendly UI and server and agent for local LLMs\nArticle title: GitHub - yudhanjaya/Zest: A friendly console for local AI: chat, agent, models, GPU selection and backends · GitHub\nDescription: A friendly console for local AI: chat, agent, models, GPU selection and backends - yudhanjaya/Zest\n\nArticle text:\nGitHub - yudhanjaya/Zest: A friendly console for local AI: chat, agent, models, GPU selection and backends · GitHub\nSkip to content\nNavigation Menu\nSign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI\nGitHub Copilot app Direct agents from issue to merge\nMCP Registry Integrate external tools\nDEVELOPER WORKFLOWS Actions Automate any workflow\nCodespaces Instant dev environments\nCode Review Manage code changes\nCode Quality Enforce quality at merge\nAPPLICATION SECURITY GitHub Advanced Security Find and fix vulnerabilities\nCode security Secure y…"
     },
     {
-      "rank": 19,
-      "hn_id": 50264176,
-      "title": "Fuzzers vs. AI: Comparing Fuzzilli and BigSleep on JavaScript Engines",
-      "title_ja": "Fuzzers vs. AI: Comparing Fuzzilli and BigSleep on JavaScript Engines",
-      "hn_url": "https://news.ycombinator.com/item?id=50264176",
-      "source_url": "https://projectzero.google/2026/10/fuzzing-v-AI.html",
-      "image_url": "https://projectzero.google/images/preview_image.png",
+      "rank": 22,
+      "hn_id": 50259425,
+      "title": "Anthropic Are the Good Guys",
+      "title_ja": "Anthropic Are the Good Guys",
+      "hn_url": "https://news.ycombinator.com/item?id=50259425",
+      "source_url": "https://nothinghuman.substack.com/p/anthropic-are-the-good-guys",
       "score": 2,
       "final_score": 2,
       "comments": 0,
-      "posted_at": "2026-10-27T19:07:19Z",
-      "summary_ja": "Title: Fuzzers vs. AI: Comparing Fuzzilli and BigSleep on JavaScript Engines\nArticle title: Fuzzers vs. AI: Comparing Fuzzilli and BigSleep on JavaScript Engines - Project Zero\nDescription: SummaryProject Zero compared two automated tools used by Google to find vulnerabilities in Chrome’s JavaScript engine, V8, on a regular basis. Fuzzilli is a ...\n\nArticle text:\nFuzzers vs. AI: Comparing Fuzzilli and BigSleep on JavaScript Engines - Project Zero\nProject Zero\nblog archive\nvulnerability disclosure policy\nFuzzers vs. AI: Comparing Fuzzilli and BigSleep on JavaScript Engines\nProject Zero compared two automated tools used by Google to find vulnerabilities in Chrome’s JavaScript engine, V8, on a regular basis. Fuzzilli is a generative JavaScript engine fuzzer and BigSleep is an LLM-based bug finding system. In the past six months, BigSleep found more vulnerabilities than Fuzzilli (45 versus 3…"
+      "posted_at": "2026-10-27T13:57:15Z",
+      "summary_ja": "Title: Anthropic Are the Good Guys"
     },
     {
-      "rank": 20,
-      "hn_id": 50258569,
-      "title": "Apple Creator Studio adds powerful new AI features and more creative tools",
-      "title_ja": "Apple Creator Studio adds powerful new AI features and more creative tools",
-      "hn_url": "https://news.ycombinator.com/item?id=50258569",
-      "source_url": "https://www.apple.com/newsroom/2026/10/apple-creator-studio-adds-powerful-new-ai-features-and-even-more-creative-tools/",
-      "image_url": "https://www.apple.com/newsroom/images/2026/10/apple-creator-studio-adds-powerful-new-ai-features-and-even-more-creative-tools/tile/Apple-Creator-Studio-hero-261027-lp.jpg.og.jpg?202610271300",
+      "rank": 23,
+      "hn_id": 50253346,
+      "title": "AI Crisis in Math: Navier-Stokes, Riemann Hypothesis and Complexity Theory [video]",
+      "title_ja": "AI Crisis in Math: Navier-Stokes, Riemann Hypothesis and Complexity Theory [video]",
+      "hn_url": "https://news.ycombinator.com/item?id=50253346",
+      "source_url": "https://www.youtube.com/watch?v=ZAzWPE9CItg",
       "score": 2,
       "final_score": 2,
       "comments": 1,
-      "posted_at": "2026-10-27T13:03:55Z",
-      "summary_ja": "Title: Apple Creator Studio adds powerful new AI features and more creative tools\nArticle title: Apple Creator Studio adds powerful new AI features and even more creative tools - Apple\nDescription: Apple introduces updates to Apple Creator Studio, the collection of creative apps designed to put studio-grade tools into the hands of creators.\n\nArticle text:\nApple Creator Studio adds powerful new AI features and even more creative tools - Apple\nApple\nNewsroom\nOpen Newsroom navigation\nClose Newsroom navigation\nApple Services\nApple Creator Studio adds powerful new AI features and even more creative tools\nApple Creator Studio gets transformative updates, including built-in MotionVFX content for Final Cut Pro, video assets in the Content Hub, expanded music creation tools in Logic Pro, and new intelligence features in Logic Pro, Keynote, Pages, and Numbers.\nCUPERTINO, CALIFORNIA Apple today int…"
+      "posted_at": "2026-10-27T00:47:20Z",
+      "summary_ja": "Title: AI Crisis in Math: Navier-Stokes, Riemann Hypothesis and Complexity Theory [video]\nArticle title: - YouTube\nDescription: Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.\n\nArticle text:\n- YouTube About Press Copyright Contact us Creators Advertise Developers Terms Privacy Policy \u0026 Safety How YouTube works Test new features NFL Sunday Ticket © 2026 Google LLC"
     },
     {
-      "rank": 21,
+      "rank": 24,
       "hn_id": 50259406,
       "title": "Giving chat feedback gives Anthropic your data",
       "title_ja": "Giving chat feedback gives Anthropic your data",
@@ -290,7 +333,7 @@
       "summary_ja": "Title: Giving chat feedback gives Anthropic your data\nArticle title: Is my data used for model training? | Anthropic Privacy Center\n\nArticle text:\nIs my data used for model training? | Anthropic Privacy Center Skip to main content API Docs Release Notes Contact Support English Français Deutsch Bahasa Indonesia Italiano 日本語 한국어 Português Pусский 简体中文 Español 繁體中文 English API Docs Release Notes Contact Support English Français Deutsch Bahasa Indonesia Italiano 日本語 한국어 Português Pусский 简体中文 Español 繁體中文 English Search for articles... All Collections\nIs my data used for model training?\nIs my data used for model training?\nThis article is about our commercial products such as Claude for Work and the Anthropic API. For our consumer products such as Claude Free, Pro, Max and when accounts from those plans use Claude Code, see here .\nBy default, we will not use your inputs or outputs from our co…"
     },
     {
-      "rank": 22,
+      "rank": 25,
       "hn_id": 50253319,
       "title": "Goldman Sachs puts $500M into small-business AI with four AI labs",
       "title_ja": "Goldman Sachs puts $500M into small-business AI with four AI labs",
@@ -304,7 +347,7 @@
       "summary_ja": "Title: Goldman Sachs puts $500M into small-business AI with four AI labs\nDescription: Goldman Sachs is spending $500M on small-business AI with Anthropic, Google, Meta and OpenAI. Its CEO says few need frontier models.\n\nArticle text:\nGoldman Sachs puts $500M into small-business AI with four AI labs\nSkip to content\nToggle Navigation\nNews\nGoldman Sachs puts $500M into small-business AI with four AI labs\nGoldman Sachs chief executive David Solomon said there is very little that needs frontier models. Most AI-using owners in Goldman’s survey spend under $100 a month on it.\nThe Goldman Sachs Tower in Jersey City, New Jersey, in 2006\nGoldman Sachs is putting $500M into the next phase of its 10,000 Small Businesses programme, including a new AI institute built with Anthropic, Google, Meta and OpenAI. At the launch, its chief executive said there is very little that needs the frontier models tho…"
     },
     {
-      "rank": 23,
+      "rank": 26,
       "hn_id": 50258737,
       "title": "Hi Accords – an open draft of AI principles that anyone can vote on",
       "title_ja": "Hi Accords – an open draft of AI principles that anyone can vote on",
@@ -318,21 +361,20 @@
       "summary_ja": "Title: Hi Accords – an open draft of AI principles that anyone can vote on\nArticle title: GitHub - hiaccords/hi-accords: The HI Accords: Humans and AI, Together. An open, collaborative draft of shared principles for AI, written by people, for people. · GitHub\nDescription: The HI Accords: Humans and AI, Together. An open, collaborative draft of shared principles for AI, written by people, for people. - hiaccords/hi-accords\n\nArticle text:\nGitHub - hiaccords/hi-accords: The HI Accords: Humans and AI, Together. An open, collaborative draft of shared principles for AI, written by people, for people. · GitHub\nSkip to content\nNavigation Menu\nSign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI\nGitHub Copilot app Direct agents from issue to merge\nMCP Registry Integrate external tools\nDEVELOPER WORKFLOWS Actions Automate any workflow\nCodespaces Instant de…"
     },
     {
-      "rank": 24,
-      "hn_id": 50259180,
-      "title": "Show HN: Model Salt, fixing the pelican problem in LLMs by adding entropy",
-      "title_ja": "Show HN: Model Salt, fixing the pelican problem in LLMs by adding entropy",
-      "hn_url": "https://news.ycombinator.com/item?id=50259180",
-      "source_url": "https://modelsalt.com/",
-      "image_url": "https://modelsalt.com/og.png",
-      "score": 1,
+      "rank": 27,
+      "hn_id": 50266858,
+      "title": "Why Programming Is Especially Exposed to AI Automation",
+      "title_ja": "Why Programming Is Especially Exposed to AI Automation",
+      "hn_url": "https://news.ycombinator.com/item?id=50266858",
+      "source_url": "https://asawicki.info/news_1805_6_reasons_why_programming_is_especially_exposed_to_ai_automation",
+      "score": 2,
       "final_score": 2,
       "comments": 0,
-      "posted_at": "2026-10-27T13:42:03Z",
-      "summary_ja": "Title: Show HN: Model Salt, fixing the pelican problem in LLMs by adding entropy\nArticle title: Model Salt: one prompt, ten different answers\nDescription: Ask a model the same thing ten times and you get one answer. Model Salt adds outside randomness, so each run gives a different answer that fits the brief.\nHN text: I have been frustrated with how repetitive the output of LLMs is. Even at maximum temperature, asking the same prompt ten times gives functionally the same result each time, as discussed here: https://news.ycombinator.com/item?id=50090443 That’s not surprising considering how LLMs work, but the thread above got me wondering if you could push models away from their usual generation patterns by injecting entropy from an external source. After a lot of tweaking and experimenting, I turned the idea into an MCP server. It's optimized to add just enough entropy that creative outpu…"
+      "posted_at": "2026-10-27T22:38:06Z",
+      "summary_ja": "Title: Why Programming Is Especially Exposed to AI Automation\nArticle title: Verification · asawicki.info\n\nArticle text:\nClick below to continue. Verification will only take a moment.\nasawicki.info is protected against automated traffic and abuse. This one-time check confirms you are a real visitor — nothing to install.\nAfter verification you will be taken to asawicki.info automatically."
     },
     {
-      "rank": 25,
+      "rank": 28,
       "hn_id": 50253426,
       "title": "Show HN: Marlow – Build full-stack apps with AI and own your code",
       "title_ja": "Show HN: Marlow – Build full-stack apps with AI and own your code",
@@ -346,21 +388,20 @@
       "summary_ja": "Title: Show HN: Marlow – Build full-stack apps with AI and own your code\nArticle title: Marlow | Build software you actually own\nDescription: Marlow turns your ideas into real applications with AI, and you keep the code, the infrastructure, and the freedom to deploy anywhere.\n\nArticle text:\nMarlow | Build software you actually own"
     },
     {
-      "rank": 26,
-      "hn_id": 50258904,
-      "title": "A code inspection of 'serious' LLM-generated code",
-      "title_ja": "A code inspection of 'serious' LLM-generated code",
-      "hn_url": "https://news.ycombinator.com/item?id=50258904",
-      "source_url": "https://ea.rna.nl/2026/10/27/serious-coding-with-llms-lab-notes-2026-10-27-a-code-audit-of-llm-generated-code-improving-from-sludge-to-vakwerk/",
-      "image_url": "https://i0.wp.com/ea.rna.nl/wp-content/uploads/2026/10/labnotes-5-20261027.jpeg?fit=1200%2C760\u0026ssl=1",
+      "rank": 29,
+      "hn_id": 50253325,
+      "title": "Meaning After an AI Eucatastrophe",
+      "title_ja": "Meaning After an AI Eucatastrophe",
+      "hn_url": "https://news.ycombinator.com/item?id=50253325",
+      "source_url": "https://meaningness.substack.com/p/meaning-after-an-ai-eucatastrophe",
       "score": 2,
       "final_score": 2,
-      "comments": 1,
-      "posted_at": "2026-10-27T13:25:41Z",
-      "summary_ja": "Title: A code inspection of 'serious' LLM-generated code\nArticle title: Serious coding with LLMs. Lab notes 2026-10-27\nDescription: The results of a quality audit on the LLM-generated code. With scripts that help find issues in C-like code, and an example from my 'context harness'.\n\nArticle text:\nSkip to content\nR\u0026A IT Strategy \u0026 Architecture\nInsights on all things 'digital', both technical and non-technical\nBooks and Collections\n“ChatGPT and Friends” Collection\n“On the Information Revolution” Collection\nMastering ArchiMate – Edition 3.2\nFree ArchiMate 3.2 Overview PDFs in multiple languages\nEA Chess — The Book\nChess and the Art of EA — The Summary\nAll Articles\nThe “ChatGPT and Friends” Collection\nMenu\nOpen a search box\nClose a search box\nSearch for:\nSearch\nSerious coding with LLMs. Lab notes 2026-10-27: A code audit of LLM-generated code: improving from ‘sludge’ to ‘vakwerk’\nSpecial not…"
+      "comments": 0,
+      "posted_at": "2026-10-27T00:45:16Z",
+      "summary_ja": "Title: Meaning After an AI Eucatastrophe"
     },
     {
-      "rank": 27,
+      "rank": 30,
       "hn_id": 50258864,
       "title": "Same price, different reason: Probing AI pricing agents for collusion",
       "title_ja": "Same price, different reason: Probing AI pricing agents for collusion",
@@ -372,48 +413,6 @@
       "comments": 1,
       "posted_at": "2026-10-27T13:23:18Z",
       "summary_ja": "Title: Same price, different reason: Probing AI pricing agents for collusion\nArticle title: Same price, different reason. Probing AI pricing agents for collusion | Max Taylor\nDescription: Can a linear probe tell a colluding AI seller from an innocent one when both charge the same price? 99% on unseen cue wordings where word matching is a coin flip. But it misses collusion nobody spelled out.\n\nArticle text:\nSame price, different reason. Probing AI pricing agents for collusion | Max Taylor max @ web :~/posts/same-price-different-reason-probing-ai-pricing-agents-for-collusion search ⌘K ┤ contents ├\n01 Why watching actions isn't enough\n03 Finding 1: the price hides it, the activations don't\n04 Finding 2: it might be reading grammar\n05 Finding 3: it doesn't catch collusion nobody asked for\nSame price, different reason. Probing AI pricing agents for collusion\nCan a linear probe tell a colludin…"
-    },
-    {
-      "rank": 28,
-      "hn_id": 50253334,
-      "title": "Mistrial – Re run your LLM judge and see how often it flips",
-      "title_ja": "Mistrial – Re run your LLM judge and see how often it flips",
-      "hn_url": "https://news.ycombinator.com/item?id=50253334",
-      "source_url": "https://github.com/hemanth1999k/mistrial",
-      "image_url": "https://repository-images.githubusercontent.com/1433955083/d40771bc-3826-4933-85e1-6ca470e783f3",
-      "score": 1,
-      "final_score": 2,
-      "comments": 0,
-      "posted_at": "2026-10-27T00:46:14Z",
-      "summary_ja": "Title: Mistrial – Re run your LLM judge and see how often it flips\nArticle title: GitHub - hemanth1999k/mistrial: Is your LLM judge flaky? Re-run any evaluator across runs, judge models and rubric wordings, and get a reliability card. · GitHub\nDescription: Is your LLM judge flaky? Re-run any evaluator across runs, judge models and rubric wordings, and get a reliability card. - hemanth1999k/mistrial\n\nArticle text:\nGitHub - hemanth1999k/mistrial: Is your LLM judge flaky? Re-run any evaluator across runs, judge models and rubric wordings, and get a reliability card. · GitHub\nSkip to content\nNavigation Menu\nSign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI\nGitHub Copilot app Direct agents from issue to merge\nMCP Registry Integrate external tools\nDEVELOPER WORKFLOWS Actions Automate any workflow\nCodespaces Instant dev environments\nCode Review Manag…"
-    },
-    {
-      "rank": 29,
-      "hn_id": 50259357,
-      "title": "OpenHeronBrowser: A web browser with its own engine in Rust, built with Claude",
-      "title_ja": "OpenHeronBrowser: A web browser with its own engine in Rust, built with Claude",
-      "hn_url": "https://news.ycombinator.com/item?id=50259357",
-      "source_url": "https://github.com/Heronetic/OpenHeronBrowser",
-      "image_url": "https://opengraph.githubassets.com/8ad1ab701cd536d4b55c02545b858c3cb14bad8a0466aaeafca23362055b1ce5/heronetic/OpenHeronBrowser",
-      "score": 1,
-      "final_score": 2,
-      "comments": 0,
-      "posted_at": "2026-10-27T13:53:26Z",
-      "summary_ja": "Title: OpenHeronBrowser: A web browser with its own engine in Rust, built with Claude\nArticle title: GitHub - heronetic/OpenHeronBrowser: An attempt at an open, independent web browser, with its own engine written from scratch in Rust. · GitHub\nDescription: An attempt at an open, independent web browser, with its own engine written from scratch in Rust. - heronetic/OpenHeronBrowser\n\nArticle text:\nGitHub - heronetic/OpenHeronBrowser: An attempt at an open, independent web browser, with its own engine written from scratch in Rust. · GitHub\nSkip to content\nNavigation Menu\nSign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI\nGitHub Copilot app Direct agents from issue to merge\nMCP Registry Integrate external tools\nDEVELOPER WORKFLOWS Actions Automate any workflow\nCodespaces Instant dev environments\nCode Review Manage code changes\nCode Quality Enforce…"
-    },
-    {
-      "rank": 30,
-      "hn_id": 50259155,
-      "title": "PoseForge – Local-first AI studio for images and video (Codex, ComfyUI)",
-      "title_ja": "PoseForge – Local-first AI studio for images and video (Codex, ComfyUI)",
-      "hn_url": "https://news.ycombinator.com/item?id=50259155",
-      "source_url": "https://github.com/vishwakulkarni/PoseForge",
-      "image_url": "https://opengraph.githubassets.com/6c509f51422ce4a3142133d65ef08d83eb27146639aac6db98b45299821a28ec/vishwakulkarni/PoseForge",
-      "score": 1,
-      "final_score": 2,
-      "comments": 0,
-      "posted_at": "2026-10-27T13:40:28Z",
-      "summary_ja": "Title: PoseForge – Local-first AI studio for images and video (Codex, ComfyUI)\nArticle title: GitHub - vishwakulkarni/PoseForge: Local-first AI pose transformation studio. Transform identity photos using Codex CLI, Google Antigravity, or ComfyUI. · GitHub\nDescription: Local-first AI pose transformation studio. Transform identity photos using Codex CLI, Google Antigravity, or ComfyUI. - vishwakulkarni/PoseForge\n\nArticle text:\nGitHub - vishwakulkarni/PoseForge: Local-first AI pose transformation studio. Transform identity photos using Codex CLI, Google Antigravity, or ComfyUI. · GitHub\nSkip to content\nNavigation Menu\nSign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI\nGitHub Copilot app Direct agents from issue to merge\nMCP Registry Integrate external tools\nDEVELOPER WORKFLOWS Actions Automate any workflow\nCodespaces Instant dev environments\nCode…"
     }
   ]
 }

@@ -1,9 +1,50 @@
 {
   "date": "2026-10-28",
-  "generated_at": "2026-10-28T04:20:45Z",
+  "generated_at": "2026-10-28T11:01:34Z",
   "articles": [
     {
       "rank": 1,
+      "hn_id": 50271271,
+      "title": "Microsoft and Epic Games Suddenly Agree That AI Is Theft",
+      "title_ja": "Microsoft and Epic Games Suddenly Agree That AI Is Theft",
+      "hn_url": "https://news.ycombinator.com/item?id=50271271",
+      "source_url": "https://kotaku.com/now-that-the-shoe-is-on-the-other-foot-microsoft-and-epic-games-suddenly-agree-that-ai-is-theft-2000749316",
+      "image_url": "https://kotaku.com/app/uploads/2026/10/Master-Chief-Fortnite-trailer-Epic-Games-Xbox-1200x675.jpg",
+      "score": 5,
+      "final_score": 6,
+      "comments": 0,
+      "posted_at": "2026-10-28T10:10:58Z",
+      "summary_ja": "Title: Microsoft and Epic Games Suddenly Agree That AI Is Theft\nArticle title: Microsoft And Epic Games Suddenly Agree That AI Is Theft\nDescription: Rules for thee, but not for me\n\nArticle text:\nMicrosoft And Epic Games Suddenly Agree That AI Is Theft\nSkip to content\nKotaku\nLatest\nNow That The Shoe Is On The Other Foot, Microsoft And Epic Games Suddenly Agree That AI Is Theft [Update: Tim Sweeney Responds]\nAI Epic Games Microsoft Recomp Slay the Spire 2 Xbox\nThe past four weeks have been something of a wake-up call for the video game industry. You’ve read the headlines, so you know the deal by now: AI advancements spearheaded by Claude Opus 5.5 have turned the world of coding on its axis . Decompilations that used to take months, or even years, are now being pumped out on a daily basis, and publishers can’t keep up with the deluge of vibe-coded browser ports and “native” PC recompilation…"
+    },
+    {
+      "rank": 2,
+      "hn_id": 50271303,
+      "title": "AI finds 4 bugs in popular industrial control software in under 4 hrs",
+      "title_ja": "AI finds 4 bugs in popular industrial control software in under 4 hrs",
+      "hn_url": "https://news.ycombinator.com/item?id=50271303",
+      "source_url": "https://www.theregister.com/security/2026/10/27/ai-hacker-finds-4-severe-bugs-in-popular-industrial-control-software-in-under-4-hours/5305811",
+      "image_url": "https://image.theregister.com/5305858.jpg?imageId=5305858\u0026x=0\u0026y=0\u0026cropw=100\u0026croph=100\u0026panox=0\u0026panoy=0\u0026panow=100\u0026panoh=100\u0026width=1200\u0026height=683",
+      "score": 2,
+      "final_score": 4,
+      "comments": 0,
+      "posted_at": "2026-10-28T10:17:34Z",
+      "summary_ja": "Title: AI finds 4 bugs in popular industrial control software in under 4 hrs\nArticle title: AI 'hacker' finds 4 severe bugs in popular industrial control software in under 4 hours\nDescription: One critical, three high-severity EPICS bugs could disrupt research experiments\n\nArticle text:\nJump to main content\nSearch\nTOPICS\nSpecial Features\nAll Special Features\nCloud Infrastructure Month 2026\nModernizing Financial Services with FIS and AWS\nMake it real with Capgemini and AWS\nNutanix: Scale Kubernetes. Not Chaos.\nAI 'hacker' finds 4 severe bugs in popular industrial control software in under 4 hours\nOne critical, three high-severity EPICS bugs could disrupt research experiments\nNeocloud thinks AI agents - not meatbags - will be its main customers\n1 hour ago\nSK Hynix says memory shortages to persist until 2030\n6 hours ago\nAI slows growth for Infosys and keeps it afloat at the same time\n8 hour…"
+    },
+    {
+      "rank": 3,
+      "hn_id": 50271555,
+      "title": "I let Claude run my social media accounts – where it won and where it failed",
+      "title_ja": "I let Claude run my social media accounts – where it won and where it failed",
+      "hn_url": "https://news.ycombinator.com/item?id=50271555",
+      "source_url": "https://aioperatorwithsimon.com/i-let-claude-run-my-social-media-accounts/",
+      "score": 2,
+      "final_score": 4,
+      "comments": 0,
+      "posted_at": "2026-10-28T10:52:50Z",
+      "summary_ja": "Title: I let Claude run my social media accounts – where it won and where it failed\nArticle title: I let Claude run my social media accounts – where it won and where it failed – AI Operator\n\nArticle text:\nAI Operator WITH SIMON\nLog\nWatch\nGitHub\n✍ Written by Simon, a human I let Claude run my social media accounts – where it won and where it failed\nI had a faceless account on the 4 major platforms – Instagram / FB / YouTube / TikTok that I was running manually, and it was performing poorly, which had led to me giving up on it. It was on pause for months. Then one day, I had the idea to restart it, but this time – Claude runs all of it – fully autonomously!\nSo I created a setup for him, a nicely structured folder of markdown files that I created by talking to Claude about my idea. It guides Claude what’s allowed and what’s not allowed, and what’s the main goal – reaching 10k followers accr…"
+    },
+    {
+      "rank": 4,
       "hn_id": 50269082,
       "title": "I ran each AI coding-agent sandbox's own tests against the others",
       "title_ja": "I ran each AI coding-agent sandbox's own tests against the others",
@@ -17,7 +58,7 @@
       "summary_ja": "Title: I ran each AI coding-agent sandbox's own tests against the others\nArticle title: GitHub - carlostapiacl/sandbox-conformance: An open lab for measuring sandboxes for AI coding agents: runnable contracts, per-sandbox results, side-by-side comparison. · GitHub\nDescription: An open lab for measuring sandboxes for AI coding agents: runnable contracts, per-sandbox results, side-by-side comparison. - carlostapiacl/sandbox-conformance\n\nArticle text:\nGitHub - carlostapiacl/sandbox-conformance: An open lab for measuring sandboxes for AI coding agents: runnable contracts, per-sandbox results, side-by-side comparison. · GitHub\nSkip to content\nNavigation Menu\nSign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI\nGitHub Copilot app Direct agents from issue to merge\nMCP Registry Integrate external tools\nDEVELOPER WORKFLOWS Actions Automate any workflow\nCo…"
     },
     {
-      "rank": 2,
+      "rank": 5,
       "hn_id": 50269283,
       "title": "Show HN: OpenMontage Drama Studio – self-hosted AI studio for short dramas",
       "title_ja": "Show HN: OpenMontage Drama Studio – self-hosted AI studio for short dramas",
@@ -31,7 +72,7 @@
       "summary_ja": "Title: Show HN: OpenMontage Drama Studio – self-hosted AI studio for short dramas\nArticle title: GitHub - charliewwdev/OpenMontage: Open-source AI studio for short dramas, short videos and product ads: one-line idea → script, cast, storyboard, video, voice, edit. Self-hosted. | AI 短剧/短视频工坊 · GitHub\nDescription: Open-source AI studio for short dramas, short videos and product ads: one-line idea → script, cast, storyboard, video, voice, edit. Self-hosted. | AI 短剧/短视频工坊 - charliewwdev/OpenMontage\n\nArticle text:\nGitHub - charliewwdev/OpenMontage: Open-source AI studio for short dramas, short videos and product ads: one-line idea → script, cast, storyboard, video, voice, edit. Self-hosted. | AI 短剧/短视频工坊 · GitHub\nSkip to content\nNavigation Menu\nSign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI\nGitHub Copilot app Direct agents from issue to merge\nMCP…"
     },
     {
-      "rank": 3,
+      "rank": 6,
       "hn_id": 50269013,
       "title": "Tiny Desk AI – Turn yourself and friends into an \"Outstanding\" meme video",
       "title_ja": "Tiny Desk AI – Turn yourself and friends into an \"Outstanding\" meme video",
@@ -45,7 +86,7 @@
       "summary_ja": "Title: Tiny Desk AI – Turn yourself and friends into an \"Outstanding\" meme video\nArticle title: Tiny Desk AI: Star in the “Outstanding” Meme with Friends\nDescription: Upload 1 to 3 photos and become the lead singer, sax player or keyboardist in the viral “Outstanding” desk concert. About 15 s, 720p, song included. No login.\n\nArticle text:\nTiny Desk AI: Star in the “Outstanding” Meme with Friends Skip to content Tiny Desk AI How it works The video Solo, Duo, Trio Pricing Guides Make my video ☰ How it works The video Solo, Duo, Trio Pricing Guides 1–3 photos · Song included · No login\nTiny Desk AI Put yourself and your friends in the “Outstanding” desk concert\nUpload one photo to sing lead, add a second for the sax solo and a third for the keyboard. We make an about 15-second video of you at the tiny desk, turning to the camera, waving and bursting out laughing, in your own clothes, with t…"
     },
     {
-      "rank": 4,
+      "rank": 7,
       "hn_id": 50269149,
       "title": "DeltaDB now has a Claude Code plugin",
       "title_ja": "DeltaDB now has a Claude Code plugin",
@@ -57,6 +98,19 @@
       "comments": 0,
       "posted_at": "2026-10-28T03:47:11Z",
       "summary_ja": "Title: DeltaDB now has a Claude Code plugin\nArticle title: Claude Code is now multiplayer — Delta Blog\nDescription: Share your Claude Code conversation and unfinished code changes with teammates.\n\nArticle text:\nClaude Code is now multiplayer — Delta Blog Skip to content Now in Beta Home Download CLI DeltaDB Docs Roadmap Pricing Blog Blog Claude Code is now multiplayer\nYou can now share your Claude Code work with a teammate and have them join from their own Claude Code session. The conversation and unfinished code changes are shared, so they can see what you’ve tried, ask questions, and contribute without waiting for a commit or working from a pasted summary.\nThis is available in beta through the Delta CLI and our Claude Code plugin .\nShare the work, keep using Claude Code\nRun /delta share to get a link, then send it to a teammate. They run /delta join \u003clink\u003e in Claude Code to join the sh…"
+    },
+    {
+      "rank": 8,
+      "hn_id": 50271265,
+      "title": "SiFive positions RISC-V as the control layer for AI accelerators",
+      "title_ja": "SiFive positions RISC-V as the control layer for AI accelerators",
+      "hn_url": "https://news.ycombinator.com/item?id=50271265",
+      "source_url": "https://www.jonpeddie.com/news/sifive-makes-the-case-for-risc-v-as-the-control-layer-for-custom-ai-accelerators/",
+      "score": 1,
+      "final_score": 1,
+      "comments": 1,
+      "posted_at": "2026-10-28T10:09:47Z",
+      "summary_ja": "Title: SiFive positions RISC-V as the control layer for AI accelerators"
     }
   ]
 }

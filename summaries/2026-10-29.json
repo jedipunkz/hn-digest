@@ -1,6 +1,6 @@
 {
   "date": "2026-10-29",
-  "generated_at": "2026-10-29T02:09:56Z",
+  "generated_at": "2026-10-29T09:28:29Z",
   "articles": [
     {
       "rank": 1,
@@ -17,6 +17,33 @@
     },
     {
       "rank": 2,
+      "hn_id": 50286161,
+      "title": "I Created an MMO (AI Slop?)",
+      "title_ja": "I Created an MMO (AI Slop?)",
+      "hn_url": "https://news.ycombinator.com/item?id=50286161",
+      "source_url": "https://aetheriammorpg.online/",
+      "image_url": "https://aetheriammorpg.online/assets/landing/hero-lumengate.webp",
+      "score": 3,
+      "final_score": 3,
+      "comments": 1,
+      "posted_at": "2026-10-29T08:49:39Z",
+      "summary_ja": "Title: I Created an MMO (AI Slop?)\nArticle title: Aetheria | MMORPG 2D online gratis nel browser\nDescription: Gioca ad Aetheria, MMORPG 2D online gratis in pixel art. Esplora isole e dungeon, affronta boss e unisciti ai clan su PC e mobile. Nessun download.\n\nArticle text:\n, but under `vite dev` it does\nnot exist yet at first paint and the browser would show the raw, unstyled markup for a\nbeat. This veil is the only styling present at that point: it covers the page until the\nreal stylesheet reports in (via --aetheria-css), so nothing unstyled is ever visible. --\u003e\nAetheria | MMORPG 2D online gratis nel browser\nAETHERIA OPENING THE REALM\nAETHERIA BETA SHARDS OF THE VOID\nVIAGGIO ATTRAVERSO L’AETHER\nRISVEGLIO DEL REGNO\nLe porte di Lumengate stanno per aprirsi.\nUN MONDO SOSPESO. UNA STORIA ANCORA DA SCRIVERE.\nIl prossimo nome nelle leggende potrebbe essere il tuo.\nScegli il tuo eroe. Raduna la…"
+    },
+    {
+      "rank": 3,
+      "hn_id": 50286068,
+      "title": "How teachers are remaking classrooms for the AI age",
+      "title_ja": "How teachers are remaking classrooms for the AI age",
+      "hn_url": "https://news.ycombinator.com/item?id=50286068",
+      "source_url": "https://www.reuters.com/world/how-teachers-are-remaking-classrooms-ai-age-2026-10-28/",
+      "score": 2,
+      "final_score": 2,
+      "comments": 1,
+      "posted_at": "2026-10-29T08:36:54Z",
+      "summary_ja": "Title: How teachers are remaking classrooms for the AI age"
+    },
+    {
+      "rank": 4,
       "hn_id": 50283391,
       "title": "Opera adds local AI to its browsers",
       "title_ja": "Opera adds local AI to its browsers",
@@ -28,6 +55,85 @@
       "comments": 1,
       "posted_at": "2026-10-29T01:30:06Z",
       "summary_ja": "Title: Opera adds local AI to its browsers\nArticle title: Opera adds local AI to its browsers - Opera Newsroom\nDescription: Opera is adding local AI models in its browsers, putting user in control as a central part of the next generation of AI in browsers.\n\nArticle text:\nOpera adds local AI to its browsers - Opera Newsroom\npress\nSearch for:\nOpera doubles down on local AI, shipping models directly in its browsers\nNow rolling out in early preview, WebAI marks the start of a bigger push into local AI. Also launching: HTML-in-Canvas, which puts live web pages inside 3D worlds.\nOSLO, Norway – October 27, 2026 – Opera (NASDAQ: OPRA), a leading global browser and AI agent company, today began shipping local AI models in its browsers, making AI that runs on the user’s own computer a central part of the next generation of Opera browsers. The first capabilities are available today as an early prev…"
+    },
+    {
+      "rank": 5,
+      "hn_id": 50286307,
+      "title": "Out of My Other Mind – What are the defining characteristics of a conscious AI?",
+      "title_ja": "Out of My Other Mind – What are the defining characteristics of a conscious AI?",
+      "hn_url": "https://news.ycombinator.com/item?id=50286307",
+      "source_url": "https://theofficialacm.substack.com/p/what-would-it-take-to-convince-us",
+      "score": 2,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-10-29T09:06:14Z",
+      "summary_ja": "Title: Out of My Other Mind – What are the defining characteristics of a conscious AI?"
+    },
+    {
+      "rank": 6,
+      "hn_id": 50286387,
+      "title": "Robotics AI Suite",
+      "title_ja": "Robotics AI Suite",
+      "hn_url": "https://news.ycombinator.com/item?id=50286387",
+      "source_url": "https://developer.robotics.intel.com/",
+      "score": 1,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-10-29T09:18:13Z",
+      "summary_ja": "Title: Robotics AI Suite\nArticle title: Home | Robotics AI Suite\nDescription: Robotics AI Suite — Physical AI optimized for Intel hardware.\n\nArticle text:\nSkip to main content Robotics Dev Resources Robotics AI Suite AI Models Blueprints GitHub Build Intelligent\nBuild intelligent robots faster with Robotics AI Suite. Pre-validated components, specialized reference applications, and hardware-aware optimizations help you integrate AI perception with deterministic control, optimize workloads across Intel CPUs, GPUs, and NPUs, and scale from prototype to production.\nAccelerate development for all kinds of robotics\nInnovate and scale fast with an open ecosystem\nReduce Complexity, Improve TCO\nExplore the Intel Robotics Ecosystem\nSee how Intel enables intelligent robotics solutions\nDiscover the modular AI software stack behind the Robotics AI Suite\nExplore validated edge AI systems to scale rob…"
+    },
+    {
+      "rank": 7,
+      "hn_id": 50286306,
+      "title": "Tell HN: Claude Code adds your email to the prompt, the LLM sends it to websites",
+      "title_ja": "Tell HN: Claude Code adds your email to the prompt, the LLM sends it to websites",
+      "hn_url": "https://news.ycombinator.com/item?id=50286306",
+      "source_url": "",
+      "score": 2,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-10-29T09:06:12Z",
+      "summary_ja": "Title: Tell HN: Claude Code adds your email to the prompt, the LLM sends it to websites\nHN text: The prompt issue: https://github.com/anthropics/claude-code/issues/81138 The LLM sends it to websites: https://www.reddit.com/r/ClaudeCode/comments/1xhqvzn/opus_55_just_shared_my_email_address/"
+    },
+    {
+      "rank": 8,
+      "hn_id": 50286401,
+      "title": "AI Did Not Break Education, It Revealed the Bug",
+      "title_ja": "AI Did Not Break Education, It Revealed the Bug",
+      "hn_url": "https://news.ycombinator.com/item?id=50286401",
+      "source_url": "https://georgiker.com/blog/ai-did-not-break-education/",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-10-29T09:20:57Z",
+      "summary_ja": "Title: AI Did Not Break Education, It Revealed the Bug\nArticle title: AI Did Not Break Education. It Revealed the Bug.\nDescription: Georgi’s Official Website\n\nArticle text:\nAI Did Not Break Education. It Revealed the Bug.\nWhen Gi from Python Singapore invited me to speak at PyCon Singapore , I decided it was time to explain why I had left.\nThe talk was called So Kiasu, Still Kena Replaced by AI . It is a very Singaporean title. You need at least a little local context to fully appreciate kiasu and kena .\nNot many people in the Python community knew that I was born in Singapore. Fewer knew the circumstances in which I had left. Even fewer knew that I had once trained to become a teacher there, or why I walked away after one year.\nI did not leave because I disliked teaching. I loved working with children and helping them understand something that had previously felt impossible.\nI left beca…"
+    },
+    {
+      "rank": 9,
+      "hn_id": 50286286,
+      "title": "An AI agent performed brain surgery on a mouse",
+      "title_ja": "An AI agent performed brain surgery on a mouse",
+      "hn_url": "https://news.ycombinator.com/item?id=50286286",
+      "source_url": "https://twitter.com/OcanaSantero/status/2115442964574908902",
+      "image_url": "https://pbs.twimg.com/media/HVtOKh7aIAAFGeA?format=webp\u0026name=large",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-10-29T09:03:59Z",
+      "summary_ja": "Title: An AI agent performed brain surgery on a mouse\nArticle title: Gabriel Ocana-Santero on X: \"Last night an AI agent performed brain surgery on a mouse.\nWe gave it 19 gene therapy vectors in a spreadsheet, a mouse model of epilepsy, access to a motorize surgery rig with cameras and one goal: reduce seizures.\nIt picked the drug. It picked the brain region. It d… /\n[truncated]\nDescription: Last night an AI agent performed brain surgery on a mouse.\nWe gave it 19 gene therapy vectors in a spreadsheet, a mouse model of epilepsy, access to a motorize surgery rig with cameras and one goal: reduce seizures.\nIt picked the drug. It picked the brain region. It derived the coordinates from t…\n\nArticle text:\nGabriel Ocana-Santero on X: \"Last night an AI agent performed brain surgery on a mouse.\nWe gave it 19 gene therapy vectors in a spreadsheet, a mouse model of epilepsy, access to a motorize su…"
+    },
+    {
+      "rank": 10,
+      "hn_id": 50286332,
+      "title": "First EU AI Act harmonised standard",
+      "title_ja": "First EU AI Act harmonised standard",
+      "hn_url": "https://news.ycombinator.com/item?id=50286332",
+      "source_url": "https://digital-strategy.ec.europa.eu/en/library/first-harmonised-standard-supporting-ai-act-published-official-journal",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-10-29T09:10:40Z",
+      "summary_ja": "Title: First EU AI Act harmonised standard"
     }
   ]
 }

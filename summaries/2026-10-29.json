@@ -1,0 +1,33 @@
+{
+  "date": "2026-10-29",
+  "generated_at": "2026-10-29T02:09:56Z",
+  "articles": [
+    {
+      "rank": 1,
+      "hn_id": 50283625,
+      "title": "A zero-dependency auditor for AI agent exposure (secrets, SSH, configs)",
+      "title_ja": "A zero-dependency auditor for AI agent exposure (secrets, SSH, configs)",
+      "hn_url": "https://news.ycombinator.com/item?id=50283625",
+      "source_url": "https://ai-agent-antivirus.space/",
+      "score": 4,
+      "final_score": 5,
+      "comments": 1,
+      "posted_at": "2026-10-29T01:56:16Z",
+      "summary_ja": "Title: A zero-dependency auditor for AI agent exposure (secrets, SSH, configs)\nArticle title: AI Agent Antivirus: Protect Your Machine From AI Agents | Dante\nDescription: A classic antivirus looks for malware. An AI agent needs none: it uses your own permissions. Dante checks the places agents and thieves reach for - keys, SSH, MCP configs, servers - and shows the proof line for every verdict.\n\nArticle text:\nNEWS Dante is a free watchman for your own machines. See what is new in the library. Library →\nDante Home Agent risks Leaked keys Server check Bait files Install \u0026 commands Install \u0026 packs Hugging Face\nAntivirus for AI agents: what actually protects your machine\nAn AI coding agent runs with your rights. It can read your .env , your SSH keys and your shell history, and run commands. Nothing \"malicious\" has to be installed for that to go wrong. This page explains why signature antiviru…"
+    },
+    {
+      "rank": 2,
+      "hn_id": 50283391,
+      "title": "Opera adds local AI to its browsers",
+      "title_ja": "Opera adds local AI to its browsers",
+      "hn_url": "https://news.ycombinator.com/item?id=50283391",
+      "source_url": "https://press.opera.com/2026/10/27/opera-doubles-down-on-local-ai-shipping-models-directly-in-its-browsers/",
+      "image_url": "https://www-static-sites.operacdn.com/wp-content/uploads/sites/5/2026/10/Opera-WebAI-Press-01.png",
+      "score": 1,
+      "final_score": 2,
+      "comments": 1,
+      "posted_at": "2026-10-29T01:30:06Z",
+      "summary_ja": "Title: Opera adds local AI to its browsers\nArticle title: Opera adds local AI to its browsers - Opera Newsroom\nDescription: Opera is adding local AI models in its browsers, putting user in control as a central part of the next generation of AI in browsers.\n\nArticle text:\nOpera adds local AI to its browsers - Opera Newsroom\npress\nSearch for:\nOpera doubles down on local AI, shipping models directly in its browsers\nNow rolling out in early preview, WebAI marks the start of a bigger push into local AI. Also launching: HTML-in-Canvas, which puts live web pages inside 3D worlds.\nOSLO, Norway – October 27, 2026 – Opera (NASDAQ: OPRA), a leading global browser and AI agent company, today began shipping local AI models in its browsers, making AI that runs on the user’s own computer a central part of the next generation of Opera browsers. The first capabilities are available today as an early prev…"
+    }
+  ]
+}

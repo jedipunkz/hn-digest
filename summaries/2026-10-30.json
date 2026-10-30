@@ -1,9 +1,23 @@
 {
   "date": "2026-10-30",
-  "generated_at": "2026-10-30T01:37:01Z",
+  "generated_at": "2026-10-30T08:10:03Z",
   "articles": [
     {
       "rank": 1,
+      "hn_id": 50300683,
+      "title": "Official Claude Code extension compromise",
+      "title_ja": "Official Claude Code extension compromise",
+      "hn_url": "https://news.ycombinator.com/item?id=50300683",
+      "source_url": "https://phorion.io/blog/offical-claude-code-vsx-compromise/",
+      "image_url": "https://phorion.io/images/default-social-card.png",
+      "score": 2,
+      "final_score": 5,
+      "comments": 0,
+      "posted_at": "2026-10-30T07:09:12Z",
+      "summary_ja": "Title: Official Claude Code extension compromise\nArticle title: Official Claude Code Extension Compromise: Security Advisory | Phorion\nDescription: Phorion has detected a backdoor in the official Claude Code for VS Code extension bundle on Open VSX that drops a persistent SSH backdoor across macOS, Linux, and Windows. This write-up focuses …\n\nArticle text:\n🎉 Phorion ranked #1 in independent EDR telemetry evaluations.\nLearn more\nFeatures\nDetecting Threats Behavioral detection and threat hunting Protecting Endpoints File access controls and hash blocking Responding to Incidents Live response and device isolation Endpoint Visibility Deep telemetry via Apple's ESF Pricing\nAbout Us\nBlog Book a Demo\nOctober 30, 2026\nBy Calum Hall Official Claude Code Extension Compromise: Security Advisory\nPhorion has detected a backdoor in the official Claude Code for VS Code extension bundle on Open VSX that…"
+    },
+    {
+      "rank": 2,
       "hn_id": 50298463,
       "title": "How to Ace Interviews and Meetings with AI Assistance",
       "title_ja": "How to Ace Interviews and Meetings with AI Assistance",
@@ -17,7 +31,49 @@
       "summary_ja": "Title: How to Ace Interviews and Meetings with AI Assistance\nArticle title: AI meeting assistant for Interviews and meetings\nDescription: Learn how an AI meeting assistant can provide real time help during meetings, interviews and screen shares, and how OTO AI works.\n\nArticle text:\nProducts SheetsCRM CRM Powered by Google Workspace View all products → Blog About us Downloads Talk to us AI Tools How to Ace Interviews and Meetings with AI Assistance\nHow AI meeting assistants can provide real time help during meetings, interviews and screen shares, with a look at how OTO AI works.\nAI has become remarkably good at answering questions, explaining complex topics and helping people think through problems. But during a live meeting or interview, opening a chatbot, copying a question, explaining the context and waiting for an answer is rarely practical.\nAn AI meeting assistant solves a different…"
     },
     {
-      "rank": 2,
+      "rank": 3,
+      "hn_id": 50301018,
+      "title": "Show HN: AI agents trade privately on BitcoinZ, with proof of delivery",
+      "title_ja": "Show HN: AI agents trade privately on BitcoinZ, with proof of delivery",
+      "hn_url": "https://news.ycombinator.com/item?id=50301018",
+      "source_url": "https://github.com/ZKStamp/AgentWallet",
+      "image_url": "https://opengraph.githubassets.com/44533be4435be88a8656f91adb2e1ad359523ecf202b29f937a8af31bac110c3/ZKStamp/AgentWallet",
+      "score": 1,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-10-30T08:05:56Z",
+      "summary_ja": "Title: Show HN: AI agents trade privately on BitcoinZ, with proof of delivery\nArticle title: GitHub - ZKStamp/AgentWallet: Shielded BitcoinZ wallets for AI agents, via MCP. Send, receive and message, autonomously, within safety limits. · GitHub\nDescription: Shielded BitcoinZ wallets for AI agents, via MCP. Send, receive and message, autonomously, within safety limits. - ZKStamp/AgentWallet\n\nArticle text:\nGitHub - ZKStamp/AgentWallet: Shielded BitcoinZ wallets for AI agents, via MCP. Send, receive and message, autonomously, within safety limits. · GitHub\nSkip to content\nNavigation Menu\nSign in Products Platform GitHub Repository hosting, code review, and collaboration\nCopilot AI coding agent for tasks, projects and automated work\nBuild \u0026 Ship Actions CI/CD and automation\nCode Quality Quality analysis, fixes, and enforcement\nCodespaces Cloud development environments\nSecure Code Security Vu…"
+    },
+    {
+      "rank": 4,
+      "hn_id": 50301004,
+      "title": "Malicious Claude Code Extension Found in Cursor Marketplace",
+      "title_ja": "Malicious Claude Code Extension Found in Cursor Marketplace",
+      "hn_url": "https://news.ycombinator.com/item?id=50301004",
+      "source_url": "https://cursor.com/blog/claude-code-extension-security-notice",
+      "image_url": "https://ptht05hbb1ssoooe.public.blob.vercel-storage.com/assets/og/opengraph-default.png",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-10-30T08:04:26Z",
+      "summary_ja": "Title: Malicious Claude Code Extension Found in Cursor Marketplace\nArticle title: Security notice — malicious version of Anthropic.claude-code (2.1.313) identified in the Cursor Extension Marketplace · Cursor\nDescription: Today we identified a security incident involving a specific extension package in the Cursor VS Code extension Marketplace: Anthropic.claude-code version 2.1.313.\n\nArticle text:\nSecurity notice — malicious version of Anthropic.claude-code (2.1.313) identified in the Cursor Extension Marketplace · Cursor Skip to content Cursor Models ↓ Grok\nSecurity notice — malicious version of Anthropic.claude-code (2.1.313) identified in the Cursor Extension Marketplace\nCheck whether you are impacted\nToday we identified a security incident involving a specific extension package in the Cursor VS Code extension Marketplace: Anthropic.claude-code version 2.1.313 . This malicious version…"
+    },
+    {
+      "rank": 5,
+      "hn_id": 50300745,
+      "title": "Patterns in AI-Driven Software Development",
+      "title_ja": "Patterns in AI-Driven Software Development",
+      "hn_url": "https://news.ycombinator.com/item?id=50300745",
+      "source_url": "https://akos.ma/blog/patterns-in-ai-driven-software-development/",
+      "image_url": "https://akos.ma/og?t=Patterns%20in%20AI%20Driven%20Software%20Development",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-10-30T07:21:56Z",
+      "summary_ja": "Title: Patterns in AI-Driven Software Development\nArticle title: Patterns in AI Driven Software Development | akos.ma\nDescription: Presentation given at the Red Hat 3rd Swiss Dev Confederation, October 27th, 2026.\n\nArticle text:\nPatterns in AI Driven Software Development | akos.ma akos.ma About\nNow\nTags\nArchives\nRSS\nPatterns in AI Driven Software Development\nPresentation given at the Red Hat 3rd Swiss Dev Confederation , October 27th, 2026.\nHi everyone, my name is Adrian Kosmaczewski and I’m a Senior Architect at Red Hat Switzerland.\nIn my daily job I help software developers everyday use Red Hat tools to make better software, faster. And I can confidently say that we are standing at a fascinating intersection in the history of software engineering.\nOn one side, we have the incredible power and complexity of cloud-native development: Red Hat OpenShift, Quarkus microservices, distributed…"
+    },
+    {
+      "rank": 6,
       "hn_id": 50298692,
       "title": "The AI Data Center Explained – From Electricity to ChatGPT [video]",
       "title_ja": "The AI Data Center Explained – From Electricity to ChatGPT [video]",

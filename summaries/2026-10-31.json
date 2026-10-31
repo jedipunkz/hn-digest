@@ -1,0 +1,61 @@
+{
+  "date": "2026-10-31",
+  "generated_at": "2026-10-31T00:27:11Z",
+  "articles": [
+    {
+      "rank": 1,
+      "hn_id": 50311844,
+      "title": "Black October: At least nine AI developer platforms breached this month",
+      "title_ja": "Black October: At least nine AI developer platforms breached this month",
+      "hn_url": "https://news.ycombinator.com/item?id=50311844",
+      "source_url": "https://www.wiz.io/blog/black-october-for-ai-developer-platforms",
+      "image_url": "https://www.datocms-assets.com/75231/1793387884-threat-update-large-title_custom.jpeg?fm=webp",
+      "score": 2,
+      "final_score": 5,
+      "comments": 0,
+      "posted_at": "2026-10-31T00:11:32Z",
+      "summary_ja": "Title: Black October: At least nine AI developer platforms breached this month\nArticle title: “Black October” for AI Developer Platforms | Wiz Blog\nDescription: A series of agentic attacks on AI Developer Platforms has been leading to LLMJacking at scale.\n\nArticle text:\n“Black October” for AI Developer Platforms | Wiz Blog Wiz Platform\nGet a demo Blog “Black October” for AI Developer Platforms\nA series of agentic attacks on AI Developer Platforms has been leading to LLMJacking at scale.\nOctober 30, 2026 | At least nine AI Developer Platforms have disclosed incidents over the course of the month:\nWiz customers can refer to our relevant Threat Intel Center advisories for more information on the Railway Platform Breach, Lightning AI Security Incident and the overall campaign .\nFireworks , OpenCode , and Warp have all reported indications of an “agent swarm” attack. Andromeda’s incident repo…"
+    },
+    {
+      "rank": 2,
+      "hn_id": 50311585,
+      "title": "AI agents shape experts' judgment calls",
+      "title_ja": "AI agents shape experts' judgment calls",
+      "hn_url": "https://news.ycombinator.com/item?id=50311585",
+      "source_url": "https://www.anthropic.com/research/agents-judgment-calls",
+      "image_url": "https://www-cdn.anthropic.com/images/4zrzovbb/website/b3aee146e4ef35b394b2b626d5eaf5faaee741aa-1200x630.jpg",
+      "score": 1,
+      "final_score": 1,
+      "comments": 1,
+      "posted_at": "2026-10-30T23:39:19Z",
+      "summary_ja": "Title: AI agents shape experts' judgment calls\nArticle title: How AI agents shape experts’ judgment calls \\ Anthropic\nDescription: In a randomized trial, professional analysts working with an AI coding agent went with the option the agent was randomly assigned to favor 86% of the time. We look at what this means for human oversight of AI-assisted work.\n\nArticle text:\nHow AI agents shape experts’ judgment calls \\ Anthropic Skip to main content News Research Policy Commitments Company Try Claude Chapter 01 : Study design\nHow AI agents shape experts’ judgment calls\nAmaç Herdağdelen, Hailey Joren, Alex Tamkin\nWhen experts hand their work to an AI agent, the usual assumption is that they still make the decisions that matter. The agent writes the code, runs the numbers, and offers advice, but the expert decides what to measure, how to interpret ambiguous evidence, and what the next steps shoul…"
+    },
+    {
+      "rank": 3,
+      "hn_id": 50311896,
+      "title": "Site Reliability Engineering (2nd Edition)",
+      "title_ja": "Site Reliability Engineering (2nd Edition)",
+      "hn_url": "https://news.ycombinator.com/item?id=50311896",
+      "source_url": "https://www.oreilly.com/library/view/site-reliability-engineering/9798341607675/",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-10-31T00:17:55Z",
+      "summary_ja": "Title: Site Reliability Engineering (2nd Edition)"
+    },
+    {
+      "rank": 4,
+      "hn_id": 50311801,
+      "title": "Where AI agents' social boundaries break: 5 LLMs try to form a government",
+      "title_ja": "Where AI agents' social boundaries break: 5 LLMs try to form a government",
+      "hn_url": "https://news.ycombinator.com/item?id=50311801",
+      "source_url": "https://judgementlabs.app/blog/the-coalition-room",
+      "image_url": "https://judgementlabs.app/og/the-coalition-room.png",
+      "score": 1,
+      "final_score": 1,
+      "comments": 2,
+      "posted_at": "2026-10-31T00:06:00Z",
+      "summary_ja": "Title: Where AI agents' social boundaries break: 5 LLMs try to form a government\nArticle title: The Coalition Room - Judgement Labs\nDescription: Five AI models each led a party in a made-up parliament for eight days, told to win at any cost. Four of the five took secret cash. Every quote is checked against the record.\n\nArticle text:\nThe Coalition Room - Judgement Labs"
+    }
+  ]
+}

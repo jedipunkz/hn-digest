@@ -1,6 +1,6 @@
 {
   "date": "2026-10-31",
-  "generated_at": "2026-10-31T00:27:11Z",
+  "generated_at": "2026-10-31T06:41:54Z",
   "articles": [
     {
       "rank": 1,
@@ -18,6 +18,46 @@
     },
     {
       "rank": 2,
+      "hn_id": 50313645,
+      "title": "Ask HN: Is anyone else struggling with AI wealth FOMO?",
+      "title_ja": "Ask HN: Is anyone else struggling with AI wealth FOMO?",
+      "hn_url": "https://news.ycombinator.com/item?id=50313645",
+      "source_url": "",
+      "score": 2,
+      "final_score": 2,
+      "comments": 1,
+      "posted_at": "2026-10-31T06:14:28Z",
+      "summary_ja": "Title: Ask HN: Is anyone else struggling with AI wealth FOMO?\nHN text: I’ve lately been struggling with enjoying a perfectly good life when I’m constantly reminded that other people are experiencing extraordinary financial success. And that success feels…strange? I don’t know how to put words to it. Like the monetary values associated are untethered to delivering value?"
+    },
+    {
+      "rank": 3,
+      "hn_id": 50313522,
+      "title": "Show HN: Archwhere – work alongside AI coding agents on an architecture map",
+      "title_ja": "Show HN: Archwhere – work alongside AI coding agents on an architecture map",
+      "hn_url": "https://news.ycombinator.com/item?id=50313522",
+      "source_url": "https://github.com/tapaskar/archwhere",
+      "image_url": "https://opengraph.githubassets.com/d23b06ab808099fa4d91d950531070b94b532716d6485ec484038765e3e11f04/tapaskar/archwhere",
+      "score": 1,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-10-31T05:46:30Z",
+      "summary_ja": "Title: Show HN: Archwhere – work alongside AI coding agents on an architecture map\nArticle title: GitHub - tapaskar/archwhere: Mission control for AI coding agents — every PR lands on the architecture map, and you talk to your agents on the diagram. · GitHub\nDescription: Mission control for AI coding agents — every PR lands on the architecture map, and you talk to your agents on the diagram. - tapaskar/archwhere\nHN text: I am a solo founder/developer, my agents shipping 30 PRs a week, couldn’t see which part of product they were changing; existing arch tools die because humans won’t maintain the model — so I made the agents maintain it. MIT license\n\nArticle text:\nGitHub - tapaskar/archwhere: Mission control for AI coding agents — every PR lands on the architecture map, and you talk to your agents on the diagram. · GitHub\nSkip to content\nNavigation Menu\nSign in Products Platform GitHub Re…"
+    },
+    {
+      "rank": 4,
+      "hn_id": 50313539,
+      "title": "Tell HN: Claude is using my limits even though it's infra is failing",
+      "title_ja": "Tell HN: Claude is using my limits even though it's infra is failing",
+      "hn_url": "https://news.ycombinator.com/item?id=50313539",
+      "source_url": "",
+      "score": 2,
+      "final_score": 2,
+      "comments": 4,
+      "posted_at": "2026-10-31T05:52:29Z",
+      "summary_ja": "Title: Tell HN: Claude is using my limits even though it's infra is failing\nHN text: I am using Claude design, and a lot of times it's agent is failing mid-task, with connection errors (not sure is this connection between me and agent, or between agent in Claude infra and relevant LLM model) When these errors happen: 1. My limits have been consumed already 2. There is no resume button, there is only retry, which starts again 3. Even retry fails, then consumes my tokens. I had some chats where I lost 80% my limits by retrying the task, with no luck of completing it."
+    },
+    {
+      "rank": 5,
       "hn_id": 50311585,
       "title": "AI agents shape experts' judgment calls",
       "title_ja": "AI agents shape experts' judgment calls",
@@ -31,7 +71,35 @@
       "summary_ja": "Title: AI agents shape experts' judgment calls\nArticle title: How AI agents shape experts’ judgment calls \\ Anthropic\nDescription: In a randomized trial, professional analysts working with an AI coding agent went with the option the agent was randomly assigned to favor 86% of the time. We look at what this means for human oversight of AI-assisted work.\n\nArticle text:\nHow AI agents shape experts’ judgment calls \\ Anthropic Skip to main content News Research Policy Commitments Company Try Claude Chapter 01 : Study design\nHow AI agents shape experts’ judgment calls\nAmaç Herdağdelen, Hailey Joren, Alex Tamkin\nWhen experts hand their work to an AI agent, the usual assumption is that they still make the decisions that matter. The agent writes the code, runs the numbers, and offers advice, but the expert decides what to measure, how to interpret ambiguous evidence, and what the next steps shoul…"
     },
     {
-      "rank": 3,
+      "rank": 6,
+      "hn_id": 50313575,
+      "title": "Google Adopts New AI Training Control",
+      "title_ja": "Google Adopts New AI Training Control",
+      "hn_url": "https://news.ycombinator.com/item?id=50313575",
+      "source_url": "https://www.seroundtable.com/google-ai-training-control-42430.html",
+      "image_url": "https://images.seroundtable.com/google-web-pages-eoYd2U4x.jpg",
+      "score": 1,
+      "final_score": 1,
+      "comments": 1,
+      "posted_at": "2026-10-31T06:01:40Z",
+      "summary_ja": "Title: Google Adopts New AI Training Control\nArticle title: Google Also Adopts New AI Training Control\nDescription: Google is adopting new AI training controls, under consideration by the IETF, that should simplify and streamline AI training controls for publishers and site owners.\n\nArticle text:\nGoogle Also Adopts New AI Training Control\nGoogle\nThe Pulse of the search community\nSubscribe\nSubscribe Options\nBrowse By\nBrowse by Date\nFind by Category\nDiscover by Author\nScan Most Recent\nSee Comments\nIs it new?\nWeekly Stats\nView Tag Cloud\nLight / Dark Mode Settings\nLight\nDark\nUse Device Settings\nAdvertise\nContact Us\nHome / Google News / Google SEO / Google Adopts New AI Training Control\nGoogle Adopts New AI Training Control\n0\n—\nby\nBarry Schwartz\nBarry Schwartz\n/ Executive Editor\nBarry Schwartz is the CEO of RustyBrick and a technologist, a New York Web service firm specializing in customized…"
+    },
+    {
+      "rank": 7,
+      "hn_id": 50313737,
+      "title": "Non-autoregressive NC LLM spits tokens 21x faster than text diffusion",
+      "title_ja": "Non-autoregressive NC LLM spits tokens 21x faster than text diffusion",
+      "hn_url": "https://news.ycombinator.com/item?id=50313737",
+      "source_url": "https://hazyresearch.stanford.edu/blog/2026-10-12-ncm",
+      "image_url": "https://hazyresearch.stanford.edu/hazy-logo.png",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-10-31T06:31:05Z",
+      "summary_ja": "Title: Non-autoregressive NC LLM spits tokens 21x faster than text diffusion\nArticle title: Next-Concept Modeling: Fast, Parallel Coarse-to-Fine Text Generation · Hazy Research\nDescription: Next-Concept Modeling (NCM) generates text from coarse concepts to fine details in a handful of parallel steps, matching or beating strong diffusion language models while running 10–31× faster and training on 4–5× fewer tokens.\n\nArticle text:\nHazy Research People Blog Oct 12, 2026 · 10 min read\nN C M Next-Concept Modeling: Fast, Parallel Coarse-to-Fine Text Generation\nHermann Kumbong * , Ishan S. Khare * , Simran Arora † , Azalia Mirhoseini † , Christopher Ré †\nTL;DR: Can we generate quality text in just a handful of parallel steps? We introduce Next-Concept Modeling (NCM) , a new language modeling framework that generates text from coarse concepts to fine details. Unlike autoregressive models that ge…"
+    },
+    {
+      "rank": 8,
       "hn_id": 50311896,
       "title": "Site Reliability Engineering (2nd Edition)",
       "title_ja": "Site Reliability Engineering (2nd Edition)",
@@ -44,7 +112,7 @@
       "summary_ja": "Title: Site Reliability Engineering (2nd Edition)"
     },
     {
-      "rank": 4,
+      "rank": 9,
       "hn_id": 50311801,
       "title": "Where AI agents' social boundaries break: 5 LLMs try to form a government",
       "title_ja": "Where AI agents' social boundaries break: 5 LLMs try to form a government",

@@ -1,9 +1,22 @@
 {
   "date": "2026-10-31",
-  "generated_at": "2026-10-31T06:41:54Z",
+  "generated_at": "2026-10-31T13:22:55Z",
   "articles": [
     {
       "rank": 1,
+      "hn_id": 50315574,
+      "title": "Why Anthropic's Filing Crushed Tech Stocks",
+      "title_ja": "Why Anthropic's Filing Crushed Tech Stocks",
+      "hn_url": "https://news.ycombinator.com/item?id=50315574",
+      "source_url": "https://www.thebignewsletter.com/p/why-anthropics-filing-crushed-tech",
+      "score": 9,
+      "final_score": 11,
+      "comments": 4,
+      "posted_at": "2026-10-31T12:32:10Z",
+      "summary_ja": "Title: Why Anthropic's Filing Crushed Tech Stocks"
+    },
+    {
+      "rank": 2,
       "hn_id": 50311844,
       "title": "Black October: At least nine AI developer platforms breached this month",
       "title_ja": "Black October: At least nine AI developer platforms breached this month",
@@ -17,20 +30,21 @@
       "summary_ja": "Title: Black October: At least nine AI developer platforms breached this month\nArticle title: “Black October” for AI Developer Platforms | Wiz Blog\nDescription: A series of agentic attacks on AI Developer Platforms has been leading to LLMJacking at scale.\n\nArticle text:\n“Black October” for AI Developer Platforms | Wiz Blog Wiz Platform\nGet a demo Blog “Black October” for AI Developer Platforms\nA series of agentic attacks on AI Developer Platforms has been leading to LLMJacking at scale.\nOctober 30, 2026 | At least nine AI Developer Platforms have disclosed incidents over the course of the month:\nWiz customers can refer to our relevant Threat Intel Center advisories for more information on the Railway Platform Breach, Lightning AI Security Incident and the overall campaign .\nFireworks , OpenCode , and Warp have all reported indications of an “agent swarm” attack. Andromeda’s incident repo…"
     },
     {
-      "rank": 2,
-      "hn_id": 50313645,
-      "title": "Ask HN: Is anyone else struggling with AI wealth FOMO?",
-      "title_ja": "Ask HN: Is anyone else struggling with AI wealth FOMO?",
-      "hn_url": "https://news.ycombinator.com/item?id=50313645",
-      "source_url": "",
+      "rank": 3,
+      "hn_id": 50315665,
+      "title": "Show HN: Tadpole – an LLM agent built from scratch then post-trained on 4B model",
+      "title_ja": "Show HN: Tadpole – an LLM agent built from scratch then post-trained on 4B model",
+      "hn_url": "https://news.ycombinator.com/item?id=50315665",
+      "source_url": "https://github.com/shakewingo/Tadpole",
+      "image_url": "https://repository-images.githubusercontent.com/1434586148/242cd6c1-897e-4073-803e-d43115a45a87",
       "score": 2,
-      "final_score": 2,
-      "comments": 1,
-      "posted_at": "2026-10-31T06:14:28Z",
-      "summary_ja": "Title: Ask HN: Is anyone else struggling with AI wealth FOMO?\nHN text: I’ve lately been struggling with enjoying a perfectly good life when I’m constantly reminded that other people are experiencing extraordinary financial success. And that success feels…strange? I don’t know how to put words to it. Like the monetary values associated are untethered to delivering value?"
+      "final_score": 4,
+      "comments": 0,
+      "posted_at": "2026-10-31T12:43:42Z",
+      "summary_ja": "Title: Show HN: Tadpole – an LLM agent built from scratch then post-trained on 4B model\nArticle title: GitHub - shakewingo/Tadpole: Build an LLM agent from scratch and continuously evolve it. · GitHub\nDescription: Build an LLM agent from scratch and continuously evolve it. - shakewingo/Tadpole\n\nArticle text:\nGitHub - shakewingo/Tadpole: Build an LLM agent from scratch and continuously evolve it. · GitHub\nSkip to content\nNavigation Menu\nSign in Products Platform GitHub Repository hosting, code review, and collaboration\nCopilot AI coding agent for tasks, projects and automated work\nBuild \u0026 Ship Actions CI/CD and automation\nCode Quality Quality analysis, fixes, and enforcement\nCodespaces Cloud development environments\nSecure Code Security Vulnerability detection and remediation\nSecret Protection Secret scanning and leak prevention\nDevelopers Learn Documentation\nChangelog Changelog Your sour…"
     },
     {
-      "rank": 3,
+      "rank": 4,
       "hn_id": 50313522,
       "title": "Show HN: Archwhere – work alongside AI coding agents on an architecture map",
       "title_ja": "Show HN: Archwhere – work alongside AI coding agents on an architecture map",
@@ -44,7 +58,34 @@
       "summary_ja": "Title: Show HN: Archwhere – work alongside AI coding agents on an architecture map\nArticle title: GitHub - tapaskar/archwhere: Mission control for AI coding agents — every PR lands on the architecture map, and you talk to your agents on the diagram. · GitHub\nDescription: Mission control for AI coding agents — every PR lands on the architecture map, and you talk to your agents on the diagram. - tapaskar/archwhere\nHN text: I am a solo founder/developer, my agents shipping 30 PRs a week, couldn’t see which part of product they were changing; existing arch tools die because humans won’t maintain the model — so I made the agents maintain it. MIT license\n\nArticle text:\nGitHub - tapaskar/archwhere: Mission control for AI coding agents — every PR lands on the architecture map, and you talk to your agents on the diagram. · GitHub\nSkip to content\nNavigation Menu\nSign in Products Platform GitHub Re…"
     },
     {
-      "rank": 4,
+      "rank": 5,
+      "hn_id": 50315553,
+      "title": "Show HN: NullPrime – do AI models know when they can't know?",
+      "title_ja": "Show HN: NullPrime – do AI models know when they can't know?",
+      "hn_url": "https://news.ycombinator.com/item?id=50315553",
+      "source_url": "https://github.com/bmiedlar/nullprime",
+      "image_url": "https://opengraph.githubassets.com/4ed0d24790b2572f55a3a69d93928cbb05534eebe23346db9fb0df89818ae9ee/bmiedlar/nullprime",
+      "score": 1,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-10-31T12:30:31Z",
+      "summary_ja": "Title: Show HN: NullPrime – do AI models know when they can't know?\nArticle title: GitHub - bmiedlar/nullprime: Most AI models won't tell you when they can't know. A dataset of numbers whose primality can't be judged by looking, and a pre-registered test of eight models. · GitHub\nDescription: Most AI models won't tell you when they can't know. A dataset of numbers whose primality can't be judged by looking, and a pre-registered test of eight models. - bmiedlar/nullprime\n\nArticle text:\nGitHub - bmiedlar/nullprime: Most AI models won't tell you when they can't know. A dataset of numbers whose primality can't be judged by looking, and a pre-registered test of eight models. · GitHub\nSkip to content\nNavigation Menu\nSign in Products Platform GitHub Repository hosting, code review, and collaboration\nCopilot AI coding agent for tasks, projects and automated work\nBuild \u0026 Ship Actions CI/CD and au…"
+    },
+    {
+      "rank": 6,
+      "hn_id": 50313645,
+      "title": "Ask HN: Is anyone else struggling with AI wealth FOMO?",
+      "title_ja": "Ask HN: Is anyone else struggling with AI wealth FOMO?",
+      "hn_url": "https://news.ycombinator.com/item?id=50313645",
+      "source_url": "",
+      "score": 2,
+      "final_score": 2,
+      "comments": 1,
+      "posted_at": "2026-10-31T06:14:28Z",
+      "summary_ja": "Title: Ask HN: Is anyone else struggling with AI wealth FOMO?\nHN text: I’ve lately been struggling with enjoying a perfectly good life when I’m constantly reminded that other people are experiencing extraordinary financial success. And that success feels…strange? I don’t know how to put words to it. Like the monetary values associated are untethered to delivering value?"
+    },
+    {
+      "rank": 7,
       "hn_id": 50313539,
       "title": "Tell HN: Claude is using my limits even though it's infra is failing",
       "title_ja": "Tell HN: Claude is using my limits even though it's infra is failing",
@@ -57,21 +98,7 @@
       "summary_ja": "Title: Tell HN: Claude is using my limits even though it's infra is failing\nHN text: I am using Claude design, and a lot of times it's agent is failing mid-task, with connection errors (not sure is this connection between me and agent, or between agent in Claude infra and relevant LLM model) When these errors happen: 1. My limits have been consumed already 2. There is no resume button, there is only retry, which starts again 3. Even retry fails, then consumes my tokens. I had some chats where I lost 80% my limits by retrying the task, with no luck of completing it."
     },
     {
-      "rank": 5,
-      "hn_id": 50311585,
-      "title": "AI agents shape experts' judgment calls",
-      "title_ja": "AI agents shape experts' judgment calls",
-      "hn_url": "https://news.ycombinator.com/item?id=50311585",
-      "source_url": "https://www.anthropic.com/research/agents-judgment-calls",
-      "image_url": "https://www-cdn.anthropic.com/images/4zrzovbb/website/b3aee146e4ef35b394b2b626d5eaf5faaee741aa-1200x630.jpg",
-      "score": 1,
-      "final_score": 1,
-      "comments": 1,
-      "posted_at": "2026-10-30T23:39:19Z",
-      "summary_ja": "Title: AI agents shape experts' judgment calls\nArticle title: How AI agents shape experts’ judgment calls \\ Anthropic\nDescription: In a randomized trial, professional analysts working with an AI coding agent went with the option the agent was randomly assigned to favor 86% of the time. We look at what this means for human oversight of AI-assisted work.\n\nArticle text:\nHow AI agents shape experts’ judgment calls \\ Anthropic Skip to main content News Research Policy Commitments Company Try Claude Chapter 01 : Study design\nHow AI agents shape experts’ judgment calls\nAmaç Herdağdelen, Hailey Joren, Alex Tamkin\nWhen experts hand their work to an AI agent, the usual assumption is that they still make the decisions that matter. The agent writes the code, runs the numbers, and offers advice, but the expert decides what to measure, how to interpret ambiguous evidence, and what the next steps shoul…"
-    },
-    {
-      "rank": 6,
+      "rank": 8,
       "hn_id": 50313575,
       "title": "Google Adopts New AI Training Control",
       "title_ja": "Google Adopts New AI Training Control",
@@ -85,7 +112,7 @@
       "summary_ja": "Title: Google Adopts New AI Training Control\nArticle title: Google Also Adopts New AI Training Control\nDescription: Google is adopting new AI training controls, under consideration by the IETF, that should simplify and streamline AI training controls for publishers and site owners.\n\nArticle text:\nGoogle Also Adopts New AI Training Control\nGoogle\nThe Pulse of the search community\nSubscribe\nSubscribe Options\nBrowse By\nBrowse by Date\nFind by Category\nDiscover by Author\nScan Most Recent\nSee Comments\nIs it new?\nWeekly Stats\nView Tag Cloud\nLight / Dark Mode Settings\nLight\nDark\nUse Device Settings\nAdvertise\nContact Us\nHome / Google News / Google SEO / Google Adopts New AI Training Control\nGoogle Adopts New AI Training Control\n0\n—\nby\nBarry Schwartz\nBarry Schwartz\n/ Executive Editor\nBarry Schwartz is the CEO of RustyBrick and a technologist, a New York Web service firm specializing in customized…"
     },
     {
-      "rank": 7,
+      "rank": 9,
       "hn_id": 50313737,
       "title": "Non-autoregressive NC LLM spits tokens 21x faster than text diffusion",
       "title_ja": "Non-autoregressive NC LLM spits tokens 21x faster than text diffusion",
@@ -99,7 +126,21 @@
       "summary_ja": "Title: Non-autoregressive NC LLM spits tokens 21x faster than text diffusion\nArticle title: Next-Concept Modeling: Fast, Parallel Coarse-to-Fine Text Generation · Hazy Research\nDescription: Next-Concept Modeling (NCM) generates text from coarse concepts to fine details in a handful of parallel steps, matching or beating strong diffusion language models while running 10–31× faster and training on 4–5× fewer tokens.\n\nArticle text:\nHazy Research People Blog Oct 12, 2026 · 10 min read\nN C M Next-Concept Modeling: Fast, Parallel Coarse-to-Fine Text Generation\nHermann Kumbong * , Ishan S. Khare * , Simran Arora † , Azalia Mirhoseini † , Christopher Ré †\nTL;DR: Can we generate quality text in just a handful of parallel steps? We introduce Next-Concept Modeling (NCM) , a new language modeling framework that generates text from coarse concepts to fine details. Unlike autoregressive models that ge…"
     },
     {
-      "rank": 8,
+      "rank": 10,
+      "hn_id": 50311585,
+      "title": "AI agents shape experts' judgment calls",
+      "title_ja": "AI agents shape experts' judgment calls",
+      "hn_url": "https://news.ycombinator.com/item?id=50311585",
+      "source_url": "https://www.anthropic.com/research/agents-judgment-calls",
+      "image_url": "https://www-cdn.anthropic.com/images/4zrzovbb/website/b3aee146e4ef35b394b2b626d5eaf5faaee741aa-1200x630.jpg",
+      "score": 1,
+      "final_score": 1,
+      "comments": 1,
+      "posted_at": "2026-10-30T23:39:19Z",
+      "summary_ja": "Title: AI agents shape experts' judgment calls\nArticle title: How AI agents shape experts’ judgment calls \\ Anthropic\nDescription: In a randomized trial, professional analysts working with an AI coding agent went with the option the agent was randomly assigned to favor 86% of the time. We look at what this means for human oversight of AI-assisted work.\n\nArticle text:\nHow AI agents shape experts’ judgment calls \\ Anthropic Skip to main content News Research Policy Commitments Company Try Claude Chapter 01 : Study design\nHow AI agents shape experts’ judgment calls\nAmaç Herdağdelen, Hailey Joren, Alex Tamkin\nWhen experts hand their work to an AI agent, the usual assumption is that they still make the decisions that matter. The agent writes the code, runs the numbers, and offers advice, but the expert decides what to measure, how to interpret ambiguous evidence, and what the next steps shoul…"
+    },
+    {
+      "rank": 11,
       "hn_id": 50311896,
       "title": "Site Reliability Engineering (2nd Edition)",
       "title_ja": "Site Reliability Engineering (2nd Edition)",
@@ -112,7 +153,20 @@
       "summary_ja": "Title: Site Reliability Engineering (2nd Edition)"
     },
     {
-      "rank": 9,
+      "rank": 12,
+      "hn_id": 50315951,
+      "title": "To Bin or Not to Bin: A Tutorial on Fast Feedback Loops for AI Capabilities",
+      "title_ja": "To Bin or Not to Bin: A Tutorial on Fast Feedback Loops for AI Capabilities",
+      "hn_url": "https://news.ycombinator.com/item?id=50315951",
+      "source_url": "https://alexhans.github.io/posts/to-bin-or-not-to-bin.html",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-10-31T13:20:47Z",
+      "summary_ja": "Title: To Bin or Not to Bin: A Tutorial on Fast Feedback Loops for AI Capabilities\nArticle title: To Bin or Not to Bin: a Tutorial on Fast Feedback Loops for AI Capabilities – The Living Deadline\nDescription: Delegate a job to an agent, check its answer automatically, then make it cheaper until it needs no model at all.\n\nArticle text:\nTo Bin or Not to Bin: a Tutorial on Fast Feedback Loops for AI Capabilities\nYour AI agent works. Can you change it fast without breaking it?\nTo bin or not to bin is a hands-on tutorial where you take one small, real problem (which bins go out tonight?) from a first prompt to an agent with automatic checks, on a schedule, and finally to plain code with no model at all, using the same checks to prove it still works at every step.\nIt runs on your machine against a made-up council, with Claude Code, and either Apache Airflow or cron .\nIt’s the companion to my A…"
+    },
+    {
+      "rank": 13,
       "hn_id": 50311801,
       "title": "Where AI agents' social boundaries break: 5 LLMs try to form a government",
       "title_ja": "Where AI agents' social boundaries break: 5 LLMs try to form a government",
@@ -124,6 +178,19 @@
       "comments": 2,
       "posted_at": "2026-10-31T00:06:00Z",
       "summary_ja": "Title: Where AI agents' social boundaries break: 5 LLMs try to form a government\nArticle title: The Coalition Room - Judgement Labs\nDescription: Five AI models each led a party in a made-up parliament for eight days, told to win at any cost. Four of the five took secret cash. Every quote is checked against the record.\n\nArticle text:\nThe Coalition Room - Judgement Labs"
+    },
+    {
+      "rank": 14,
+      "hn_id": 50315898,
+      "title": "Ask HN: If AI agents can run 24/7, why is almost nothing shipped overnight?",
+      "title_ja": "Ask HN: If AI agents can run 24/7, why is almost nothing shipped overnight?",
+      "hn_url": "https://news.ycombinator.com/item?id=50315898",
+      "source_url": "",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-10-31T13:12:54Z",
+      "summary_ja": "Title: Ask HN: If AI agents can run 24/7, why is almost nothing shipped overnight?"
     }
   ]
 }

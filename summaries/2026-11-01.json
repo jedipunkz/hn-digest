@@ -1,9 +1,23 @@
 {
   "date": "2026-11-01",
-  "generated_at": "2026-11-01T01:54:47Z",
+  "generated_at": "2026-11-01T08:49:13Z",
   "articles": [
     {
       "rank": 1,
+      "hn_id": 50323728,
+      "title": "Early Career Researcher Responses to AI in Math",
+      "title_ja": "Early Career Researcher Responses to AI in Math",
+      "hn_url": "https://news.ycombinator.com/item?id=50323728",
+      "source_url": "https://arxiv.org/abs/2610.40584",
+      "image_url": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+      "score": 1,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-11-01T08:47:22Z",
+      "summary_ja": "Title: Early Career Researcher Responses to AI in Math\nArticle title: [2610.40584] Early career researcher responses to AI in math\nDescription: Abstract page for arXiv paper 2610.40584: Early career researcher responses to AI in math\n\nArticle text:\nSkip to main content\nSearch\nSubmit\nDonate\nLog in\nSearch arXiv\nPress Enter to search · Advanced search\nMathematics \u003e History and Overview\n[Submitted on 29 Oct 2026]\nTitle: Early career researcher responses to AI in math\nAbstract: We've heard a lot about AI in math from Fields medalists, AI labs, and established professors. However, the personal stakes are highest for early career researchers. Hoping to provide a platform for graduate students and postdocs to voice their opinions, concerns, and experiences, we wrote and distributed a survey on AI in math.\nIn this article, we share the responses to our survey. All responses are anonymous, and res…"
+    },
+    {
+      "rank": 2,
       "hn_id": 50322021,
       "title": "Show HN: LinkedIn-ops – Zero-dependency CDP automation built for AI agents",
       "title_ja": "Show HN: LinkedIn-ops – Zero-dependency CDP automation built for AI agents",
@@ -15,6 +29,20 @@
       "comments": 0,
       "posted_at": "2026-11-01T01:46:21Z",
       "summary_ja": "Title: Show HN: LinkedIn-ops – Zero-dependency CDP automation built for AI agents\nArticle title: GitHub - shashtag-ventures/linkedin-ops · GitHub\nDescription: Contribute to shashtag-ventures/linkedin-ops development by creating an account on GitHub.\n\nArticle text:\nGitHub - shashtag-ventures/linkedin-ops · GitHub\nSkip to content\nNavigation Menu\nSign in Products Platform GitHub Repository hosting, code review, and collaboration\nCopilot AI coding agent for tasks, projects and automated work\nBuild \u0026 Ship Actions CI/CD and automation\nCode Quality Quality analysis, fixes, and enforcement\nCodespaces Cloud development environments\nSecure Code Security Vulnerability detection and remediation\nSecret Protection Secret scanning and leak prevention\nDevelopers Learn Documentation\nChangelog Changelog Your source for the latest features, improvements, and fixes across GitHub products, all in one place.…"
+    },
+    {
+      "rank": 3,
+      "hn_id": 50323552,
+      "title": "Is AI Cheap Enough to Replace Developers?",
+      "title_ja": "Is AI Cheap Enough to Replace Developers?",
+      "hn_url": "https://news.ycombinator.com/item?id=50323552",
+      "source_url": "https://zyvop.com/is-ai-actually-cheap-enough-to-replace-developers-8i74u",
+      "image_url": "https://pub-03c883138afa4f88bc40a259a9109c50.r2.dev/posts/covers/1781860432295-l4zz5yhgmd.webp",
+      "score": 1,
+      "final_score": 1,
+      "comments": 1,
+      "posted_at": "2026-11-01T08:04:48Z",
+      "summary_ja": "Title: Is AI Cheap Enough to Replace Developers?\nArticle title: Is AI Actually Cheap Enough to Replace Developers?\nDescription: What a 35-point benchmark cliff, a slowdown study nobody wanted to publish, and real 2026 payroll data say about replacing engineers with agents\n\nArticle text:\nIs AI Actually Cheap Enough to Replace Developers? ZYVOP Developer Publishing Product Migrate Explore Resources Pricing Search posts, series, authors... Ctrl K Login Get Started Home Is AI Actually Cheap Enough to Replace Developers? Is AI Actually Cheap Enough to Replace Developers?\nWhat a 35-point benchmark cliff, a slowdown study nobody wanted to publish, and real 2026 payroll data say about replacing engineers with agents\nJune 19, 2026 Updated on August 27, 2026 · 8 min read # AI vs Developers # AI coding tools # developer-productivity # Claude Code # Software Engineering # GitHub Copilot Markdown Rep…"
     }
   ]
 }

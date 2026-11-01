@@ -1,0 +1,20 @@
+{
+  "date": "2026-11-01",
+  "generated_at": "2026-11-01T01:54:47Z",
+  "articles": [
+    {
+      "rank": 1,
+      "hn_id": 50322021,
+      "title": "Show HN: LinkedIn-ops – Zero-dependency CDP automation built for AI agents",
+      "title_ja": "Show HN: LinkedIn-ops – Zero-dependency CDP automation built for AI agents",
+      "hn_url": "https://news.ycombinator.com/item?id=50322021",
+      "source_url": "https://github.com/shashtag-ventures/linkedin-ops",
+      "image_url": "https://opengraph.githubassets.com/e3dee70c792f3edb6d6763c2315dff2909d14413f6f460531cdb2791d8526d3a/shashtag-ventures/linkedin-ops",
+      "score": 1,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-11-01T01:46:21Z",
+      "summary_ja": "Title: Show HN: LinkedIn-ops – Zero-dependency CDP automation built for AI agents\nArticle title: GitHub - shashtag-ventures/linkedin-ops · GitHub\nDescription: Contribute to shashtag-ventures/linkedin-ops development by creating an account on GitHub.\n\nArticle text:\nGitHub - shashtag-ventures/linkedin-ops · GitHub\nSkip to content\nNavigation Menu\nSign in Products Platform GitHub Repository hosting, code review, and collaboration\nCopilot AI coding agent for tasks, projects and automated work\nBuild \u0026 Ship Actions CI/CD and automation\nCode Quality Quality analysis, fixes, and enforcement\nCodespaces Cloud development environments\nSecure Code Security Vulnerability detection and remediation\nSecret Protection Secret scanning and leak prevention\nDevelopers Learn Documentation\nChangelog Changelog Your source for the latest features, improvements, and fixes across GitHub products, all in one place.…"
+    }
+  ]
+}

@@ -1,9 +1,36 @@
 {
   "date": "2026-11-02",
-  "generated_at": "2026-11-02T00:20:04Z",
+  "generated_at": "2026-11-02T07:19:50Z",
   "articles": [
     {
       "rank": 1,
+      "hn_id": 50333727,
+      "title": "Rocky Linux Creator Built a New 'Not Linux' Kernel in 11 Days Using AI",
+      "title_ja": "Rocky Linux Creator Built a New 'Not Linux' Kernel in 11 Days Using AI",
+      "hn_url": "https://news.ycombinator.com/item?id=50333727",
+      "source_url": "https://github.com/gmkurtzer/ginux",
+      "image_url": "https://opengraph.githubassets.com/858d43611bd23ee52aa9b49ada06892f4d8e5ab9c3676c597c4d44aa361c7651/gmkurtzer/ginux",
+      "score": 3,
+      "final_score": 6,
+      "comments": 0,
+      "posted_at": "2026-11-02T06:28:56Z",
+      "summary_ja": "Title: Rocky Linux Creator Built a New 'Not Linux' Kernel in 11 Days Using AI\nArticle title: GitHub - gmkurtzer/ginux · GitHub\nDescription: Contribute to gmkurtzer/ginux development by creating an account on GitHub.\n\nArticle text:\nGitHub - gmkurtzer/ginux · GitHub\nSkip to content\nNavigation Menu\nSign in Products Platform GitHub Repository hosting, code review, and collaboration\nCopilot AI coding agent for tasks, projects and automated work\nBuild \u0026 Ship Actions CI/CD and automation\nCode Quality Quality analysis, fixes, and enforcement\nCodespaces Cloud development environments\nSecure Code Security Vulnerability detection and remediation\nSecret Protection Secret scanning and leak prevention\nDevelopers Learn Documentation\nChangelog Changelog Your source for the latest features, improvements, and fixes across GitHub products, all in one place.\nBusinesses By Stage Enterprises\nAdd-ons GitHub Ad…"
+    },
+    {
+      "rank": 2,
+      "hn_id": 50333699,
+      "title": "The Smartest People in AI Believe This Is the Most Important Chart",
+      "title_ja": "The Smartest People in AI Believe This Is the Most Important Chart",
+      "hn_url": "https://news.ycombinator.com/item?id=50333699",
+      "source_url": "https://www.wsj.com/tech/ai/ai-anthropic-rsi-recursive-self-improvement-bff4e815",
+      "score": 4,
+      "final_score": 5,
+      "comments": 1,
+      "posted_at": "2026-11-02T06:22:22Z",
+      "summary_ja": "Title: The Smartest People in AI Believe This Is the Most Important Chart"
+    },
+    {
+      "rank": 3,
       "hn_id": 50331001,
       "title": "In LLM era, can software startup survive?",
       "title_ja": "In LLM era, can software startup survive?",
@@ -16,7 +43,34 @@
       "summary_ja": "Title: In LLM era, can software startup survive?\nHN text: Nowadays, vibe coding is everywhere. Turning an idea into software is just matter of tokens. I was joking the other day. Creating a tax return softwar is much faster than purchasing Turbotax at Costco. Large companies still have compute resources and customer bases. For startup, users are expecting open source and free software. Posts of subscription or one-time purchase software on Reddit will get tons of downvotes instantly."
     },
     {
-      "rank": 2,
+      "rank": 4,
+      "hn_id": 50333724,
+      "title": "Reliably aligning LLMs is impossible in principle",
+      "title_ja": "Reliably aligning LLMs is impossible in principle",
+      "hn_url": "https://news.ycombinator.com/item?id=50333724",
+      "source_url": "https://www.seangoedecke.com/alignment-is-impossible/",
+      "score": 3,
+      "final_score": 3,
+      "comments": 0,
+      "posted_at": "2026-11-02T06:27:39Z",
+      "summary_ja": "Title: Reliably aligning LLMs is impossible in principle\nDescription: Powerful AI is unpredictable. Your robotic butler may suddenly decide to kill you for no comprehensible reason, in the same way that Bing’s helpful chat AI…\n\nArticle text:\nReliably aligning LLMs is impossible in principle sean goedecke\nReliably aligning LLMs is impossible in principle\nPowerful AI is unpredictable. Your robotic butler may suddenly decide to kill you 1 for no comprehensible reason, in the same way that Bing’s helpful chat AI would sometimes try to blackmail or seduce its users. “Solving alignment” means understanding even superintelligent AI minds well enough to be confident they’ll never do that. As I see it, solving alignment for LLMs isn’t just impossible, it’s incoherent: we can’t even articulate what it would look like to succeed.\nPrior to LLMs, AI safety researchers thought AI would be a “blind opt…"
+    },
+    {
+      "rank": 5,
+      "hn_id": 50333783,
+      "title": "Diffreview – code review for local Claude diffs",
+      "title_ja": "Diffreview – code review for local Claude diffs",
+      "hn_url": "https://news.ycombinator.com/item?id=50333783",
+      "source_url": "https://github.com/chalmagean/diffreview",
+      "image_url": "https://opengraph.githubassets.com/f17cd0cbabb63e1da1173409f32c5717d0596f3bd77bace8c7210fc420acf9fb/chalmagean/diffreview",
+      "score": 1,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-11-02T06:41:40Z",
+      "summary_ja": "Title: Diffreview – code review for local Claude diffs\nArticle title: GitHub - chalmagean/diffreview · GitHub\nDescription: Contribute to chalmagean/diffreview development by creating an account on GitHub.\n\nArticle text:\nGitHub - chalmagean/diffreview · GitHub\nSkip to content\nNavigation Menu\nSign in Products Platform GitHub Repository hosting, code review, and collaboration\nCopilot AI coding agent for tasks, projects and automated work\nBuild \u0026 Ship Actions CI/CD and automation\nCode Quality Quality analysis, fixes, and enforcement\nCodespaces Cloud development environments\nSecure Code Security Vulnerability detection and remediation\nSecret Protection Secret scanning and leak prevention\nDevelopers Learn Documentation\nChangelog Changelog Your source for the latest features, improvements, and fixes across GitHub products, all in one place.\nBusinesses By Stage Enterprises\nAdd-ons GitHub Advance…"
+    },
+    {
+      "rank": 6,
       "hn_id": 50331090,
       "title": "Google joins OpenAI and Anthropic in promising new scraping controls",
       "title_ja": "Google joins OpenAI and Anthropic in promising new scraping controls",
@@ -30,7 +84,34 @@
       "summary_ja": "Title: Google joins OpenAI and Anthropic in promising new scraping controls\nArticle title: Google Joins OpenAI And Anthropic In Promising New Scraping Controls\nDescription: Google, OpenAI, Anthropic and Microsoft pledge to support a new common signal for robots.txt that blocks scraping for AI training.\n\nArticle text:\nGoogle Joins OpenAI And Anthropic In Promising New Scraping Controls\nLatest\nGoogle joins OpenAI and Anthropic in promising new scraping controls\nThe new robots.txt directive will prevent the companies from scraping content for generative AI training.\ntadamichi/Shutterstock\nAdd Engadget on Google:\nPreferred Source\nGoogle Discover\nGoogle , Anthropic, OpenAI and Microsoft have committed to honoring a new robots.txt directive, which will allow publishers to specify their preferences when it comes to the scraping of their content for generative AI training. The companies have dec…"
     },
     {
-      "rank": 3,
+      "rank": 7,
+      "hn_id": 50333957,
+      "title": "Show HN: Shipvo – open-source RN OTA updates and an AI-drivable simulator",
+      "title_ja": "Show HN: Shipvo – open-source RN OTA updates and an AI-drivable simulator",
+      "hn_url": "https://news.ycombinator.com/item?id=50333957",
+      "source_url": "https://github.com/shipvo/shipvo",
+      "image_url": "https://repository-images.githubusercontent.com/1438951977/e93161df-c008-490f-9a7d-3bac9a298355",
+      "score": 1,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-11-02T07:13:44Z",
+      "summary_ja": "Title: Show HN: Shipvo – open-source RN OTA updates and an AI-drivable simulator\nArticle title: GitHub - shipvo/shipvo: Shipvo: build once, publish for people and AI agents. Open-source React Native framework with signed OTA updates, a built-in admin, an agent-usable simulator over MCP, and measured simulator-vs-device parity. · GitHub\nDescription: Shipvo: build once, publish for people and AI agents. Open-source React Native framework with signed OTA updates, a built-in admin, an agent-usable simulator over MCP, and measured simulator-vs-device parity. - shipvo/shipvo\n\nArticle text:\nGitHub - shipvo/shipvo: Shipvo: build once, publish for people and AI agents. Open-source React Native framework with signed OTA updates, a built-in admin, an agent-usable simulator over MCP, and measured simulator-vs-device parity. · GitHub\nSkip to content\nNavigation Menu\nSign in Products Platform GitHub Re…"
+    },
+    {
+      "rank": 8,
+      "hn_id": 50333885,
+      "title": "Blaize GSP [Graph Streaming Processor] Streams AI Graphs at the Edge",
+      "title_ja": "Blaize GSP [Graph Streaming Processor] Streams AI Graphs at the Edge",
+      "hn_url": "https://news.ycombinator.com/item?id=50333885",
+      "source_url": "https://www.jonpeddie.com/news/blaize-gsp-streams-ai-graphs-at-the-edge/",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-11-02T07:01:25Z",
+      "summary_ja": "Title: Blaize GSP [Graph Streaming Processor] Streams AI Graphs at the Edge"
+    },
+    {
+      "rank": 9,
       "hn_id": 50331384,
       "title": "How Small Can We Slice an AI Model?",
       "title_ja": "How Small Can We Slice an AI Model?",

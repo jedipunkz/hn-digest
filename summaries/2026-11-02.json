@@ -1,0 +1,46 @@
+{
+  "date": "2026-11-02",
+  "generated_at": "2026-11-02T00:20:04Z",
+  "articles": [
+    {
+      "rank": 1,
+      "hn_id": 50331001,
+      "title": "In LLM era, can software startup survive?",
+      "title_ja": "In LLM era, can software startup survive?",
+      "hn_url": "https://news.ycombinator.com/item?id=50331001",
+      "source_url": "",
+      "score": 3,
+      "final_score": 3,
+      "comments": 5,
+      "posted_at": "2026-11-01T23:28:46Z",
+      "summary_ja": "Title: In LLM era, can software startup survive?\nHN text: Nowadays, vibe coding is everywhere. Turning an idea into software is just matter of tokens. I was joking the other day. Creating a tax return softwar is much faster than purchasing Turbotax at Costco. Large companies still have compute resources and customer bases. For startup, users are expecting open source and free software. Posts of subscription or one-time purchase software on Reddit will get tons of downvotes instantly."
+    },
+    {
+      "rank": 2,
+      "hn_id": 50331090,
+      "title": "Google joins OpenAI and Anthropic in promising new scraping controls",
+      "title_ja": "Google joins OpenAI and Anthropic in promising new scraping controls",
+      "hn_url": "https://news.ycombinator.com/item?id=50331090",
+      "source_url": "https://www.engadget.com/2303225/google-openai-anthropic-ai-crawling-controls/",
+      "image_url": "https://www.engadget.com/img/gallery/google-joins-openai-and-anthropic-in-promising-new-scraping-controls/l-intro-1793442580.jpg",
+      "score": 2,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-11-01T23:39:35Z",
+      "summary_ja": "Title: Google joins OpenAI and Anthropic in promising new scraping controls\nArticle title: Google Joins OpenAI And Anthropic In Promising New Scraping Controls\nDescription: Google, OpenAI, Anthropic and Microsoft pledge to support a new common signal for robots.txt that blocks scraping for AI training.\n\nArticle text:\nGoogle Joins OpenAI And Anthropic In Promising New Scraping Controls\nLatest\nGoogle joins OpenAI and Anthropic in promising new scraping controls\nThe new robots.txt directive will prevent the companies from scraping content for generative AI training.\ntadamichi/Shutterstock\nAdd Engadget on Google:\nPreferred Source\nGoogle Discover\nGoogle , Anthropic, OpenAI and Microsoft have committed to honoring a new robots.txt directive, which will allow publishers to specify their preferences when it comes to the scraping of their content for generative AI training. The companies have dec…"
+    },
+    {
+      "rank": 3,
+      "hn_id": 50331384,
+      "title": "How Small Can We Slice an AI Model?",
+      "title_ja": "How Small Can We Slice an AI Model?",
+      "hn_url": "https://news.ycombinator.com/item?id=50331384",
+      "source_url": "https://operator0x.com/field-notes/weights-still-need-a-home/",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-11-02T00:15:04Z",
+      "summary_ja": "Title: How Small Can We Slice an AI Model?\nArticle title: How Small Can We Slice an AI Model? | Operator_0x\nDescription: A case for slicing AI models within their layers: granular experts, compact attention, and a proposed swarm of everyday devices.\n\nArticle text:\nSkip to article\n◪ OPERATOR _0x Writing About Work with me ↗\n↳ AI Beyond the Data Center\nHow Small Can We Slice an AI Model?\nThe question that could change who gets to run one.\nEvery few months, someone points out that the world is drowning in idle compute. Your laptop idles at an office desk. Your phone spends most of its battery waiting in your pocket. Meanwhile, tech monopolies pour hundreds of billions of dollars into sprawling, water-guzzling data centers packed with high-end clusters to train and run modern language models.\nThe intuitive alternative is obvious: split the model up and run it across everyone’s devices.\nYet w…"
+    }
+  ]
+}

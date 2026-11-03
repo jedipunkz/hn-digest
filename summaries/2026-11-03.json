@@ -1,6 +1,6 @@
 {
   "date": "2026-11-03",
-  "generated_at": "2026-11-03T00:37:42Z",
+  "generated_at": "2026-11-03T07:38:34Z",
   "articles": [
     {
       "rank": 1,
@@ -59,6 +59,20 @@
     },
     {
       "rank": 5,
+      "hn_id": 50348921,
+      "title": "AI Arbitrator",
+      "title_ja": "AI Arbitrator",
+      "hn_url": "https://news.ycombinator.com/item?id=50348921",
+      "source_url": "https://www.adr.org/ai-arbitrator/",
+      "image_url": "https://www.adr.org/media/hqff13uk/ai-arbitrator-10.jpg",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-11-03T06:57:21Z",
+      "summary_ja": "Title: AI Arbitrator\nArticle title: AI Arbitrator, Fast and Fair Dispute Resolution by AAA\nDescription: Explore the AAA’s AI Arbitrator, a faster and more efficient way to resolve disputes with human oversight. Learn how AI Arbitrator improves clarity, speed, and fairness.\n\nArticle text:\nSkip to header\nSkip to main content\nSkip to footer\nLog In\nFile a Case\nAI Arbitrator\nAI handles the claim parsing, document summarization, and analysis. Parties provide feedback, and a human arbitrator reviews, finalizes, and issues the final award, bringing human judgment and accountability to the outcome.\nFaster Resolution. Lower Costs. Trusted Outcomes.\nDelivers significant time and cost savings for two-party, documents-only construction cases.\nAwards issued by a human arbitrator\nHuman Arbitrators Guide a Trusted Process\nsome popup context to be here in Rich text\nsome popup context to be here in Rich t…"
+    },
+    {
+      "rank": 6,
       "hn_id": 50345955,
       "title": "An open-source tool that makes eye-candy Instagram posts that doesn't use AI",
       "title_ja": "An open-source tool that makes eye-candy Instagram posts that doesn't use AI",
@@ -72,7 +86,7 @@
       "summary_ja": "Title: An open-source tool that makes eye-candy Instagram posts that doesn't use AI\nArticle title: Free Instagram Post Maker | Instatools\nDescription: Free Instagram post maker with 24 ready layouts. No signup for free designs. Edit photos and headlines in your browser, then export HD 1080x1350 PNG. A focused Canva alternative for feed posts.\n\nArticle text:\nFree Instagram Post Maker | Instatools"
     },
     {
-      "rank": 6,
+      "rank": 7,
       "hn_id": 50346009,
       "title": "Anthropic's pay packages cost the company more than $100k a month per employee",
       "title_ja": "Anthropic's pay packages cost the company more than $100k a month per employee",
@@ -86,7 +100,7 @@
       "summary_ja": "Title: Anthropic's pay packages cost the company more than $100k a month per employee\nArticle title: Anthropic Employees Cost Over $100K a Month on Average - Business Insider\nDescription: Anthropic's expenses on personnel topped $322,000 per worker last quarter, an amendment to its S-1 filing shows. The company's IPO is expected soon.\n\nArticle text:\nBusiness Insider\nSubscribe\nAccount icon\nAccount icon\nSearch\nBusiness\nStrategy\nEconomy\nFinance\nRetail\nAdvertising\nCareers\nLaw\nMedia\nReal Estate\nSmall Business\nThe Better Work Project\nPersonal Finance\nTech\nScience\nAI\nEnterprise\nTransportation\nStartups\nInnovation\nMarkets\nNews\nStocks\nIndices\nCommodities\nCrypto\nCurrencies\nETFs\nLifestyle\nEntertainment\nCulture\nTravel\nFood\nHealth\nEducation\nParenting\nMilitary \u0026 Defense\nPolitics\nReviews\nHome\nKitchen\nStyle\nStreaming\nPets\nTech\nDeals\nGifts\nTickets\nVideo\nBig Business\nSo Expensive\nView From Above\nSmall Busi…"
     },
     {
-      "rank": 7,
+      "rank": 8,
       "hn_id": 50345968,
       "title": "From Words to Waypoints: Teaching a Small LLM to Plan for Robots",
       "title_ja": "From Words to Waypoints: Teaching a Small LLM to Plan for Robots",

@@ -1,9 +1,36 @@
 {
   "date": "2026-11-03",
-  "generated_at": "2026-11-03T07:38:34Z",
+  "generated_at": "2026-11-03T15:54:06Z",
   "articles": [
     {
       "rank": 1,
+      "hn_id": 50352898,
+      "title": "Octomind – open-source AI harness that saves your tokens, static rust",
+      "title_ja": "Octomind – open-source AI harness that saves your tokens, static rust",
+      "hn_url": "https://news.ycombinator.com/item?id=50352898",
+      "source_url": "https://github.com/Muvon/octomind",
+      "image_url": "https://repository-images.githubusercontent.com/994166447/5deca376-0441-481a-83f3-48dcaeb7487c",
+      "score": 22,
+      "final_score": 46,
+      "comments": 12,
+      "posted_at": "2026-11-03T15:02:58Z",
+      "summary_ja": "Title: Octomind – open-source AI harness that saves your tokens, static rust\nArticle title: GitHub - Muvon/octomind: Open-source AI coding agent and agent runtime: one binary, any model, MCP-native. Runs in terminal, CI, or as a daemon. · GitHub\nDescription: Open-source AI coding agent and agent runtime: one binary, any model, MCP-native. Runs in terminal, CI, or as a daemon. - Muvon/octomind\n\nArticle text:\nGitHub - Muvon/octomind: Open-source AI coding agent and agent runtime: one binary, any model, MCP-native. Runs in terminal, CI, or as a daemon. · GitHub\nSkip to content\nNavigation Menu\nSign in Products Platform GitHub Repository hosting, code review, and collaboration\nCopilot AI coding agent for tasks, projects and automated work\nBuild \u0026 Ship Actions CI/CD and automation\nCode Quality Quality analysis, fixes, and enforcement\nCodespaces Cloud development environments\nSecure Code Securi…"
+    },
+    {
+      "rank": 2,
+      "hn_id": 50352757,
+      "title": "OpenAI seems to be silently re-enabling model training on Codex chats",
+      "title_ja": "OpenAI seems to be silently re-enabling model training on Codex chats",
+      "hn_url": "https://news.ycombinator.com/item?id=50352757",
+      "source_url": "",
+      "score": 24,
+      "final_score": 31,
+      "comments": 6,
+      "posted_at": "2026-11-03T14:53:41Z",
+      "summary_ja": "Title: OpenAI seems to be silently re-enabling model training on Codex chats\nHN text: My company is pretty paranoid about leaking IP to the frontier labs through prompts, so we've all been diligent about disabling data sharing in Codex/Claude Code/etc. But yesterday my coworkers and I noticed that the setting had been silently reenabled in Codex. None of us knowingly opted back in. You can check your settings here: https://chatgpt.com/settings/data-controls. Look for \"Improve the model for everyone\". Curious if this is an isolated issue or something more widespread. EDIT: looks like this has been noted before https://news.ycombinator.com/item?id=49643556 EDIT: apparently you can also turn off data sharing here: https://privacy.openai.com/policies?modal=take-control"
+    },
+    {
+      "rank": 3,
       "hn_id": 50345924,
       "title": "Scaling Git at OpenAI",
       "title_ja": "Scaling Git at OpenAI",
@@ -16,7 +43,49 @@
       "summary_ja": "Title: Scaling Git at OpenAI"
     },
     {
-      "rank": 2,
+      "rank": 4,
+      "hn_id": 50353300,
+      "title": "AI is destroying my CS degree",
+      "title_ja": "AI is destroying my CS degree",
+      "hn_url": "https://news.ycombinator.com/item?id=50353300",
+      "source_url": "https://lordtoots.bearblog.dev/ai-is-destroying-my-cs-degree/",
+      "image_url": "https://bearblog.dev/static/og-image.png",
+      "score": 11,
+      "final_score": 19,
+      "comments": 1,
+      "posted_at": "2026-11-03T15:35:06Z",
+      "summary_ja": "Title: AI is destroying my CS degree\nArticle title: AI is destroying my CS degree – who even knows\nDescription: I am a computer science student. I got a scholarship to study computer science and AI last year and I love it! It's something that I wanted to do since I was...\n\nArticle text:\nI am a computer science student. I got a scholarship to study computer science and AI last year and I love it! It's something that I wanted to do since I was a kid but couldn't afford it.\nIt's been a huge learning curve. I only had a B in maths from GCSE (which is the exam you take at 16 for non UK folk) and no technical training other than the funny little games I made on OpenProcessing*.\nRegardless of how hard it's been, I have enjoyed the challenge. I wouldn't have signed up to study computing if I thought it would be an easy ride. The problem is that my university seems to be having an existential cri…"
+    },
+    {
+      "rank": 5,
+      "hn_id": 50353450,
+      "title": "Anthropic's compute tab could top $1T as Q3 revenue nears $17B",
+      "title_ja": "Anthropic's compute tab could top $1T as Q3 revenue nears $17B",
+      "hn_url": "https://news.ycombinator.com/item?id=50353450",
+      "source_url": "https://www.theregister.com/ai-and-ml/2026/11/02/anthropics-compute-tab-could-top-1t-as-q3-revenue-nears-17b/5307089",
+      "image_url": "https://image.theregister.com/5307099.jpg?imageId=5307099\u0026x=0\u0026y=0\u0026cropw=100\u0026croph=100\u0026panox=0\u0026panoy=0\u0026panow=100\u0026panoh=100\u0026width=1200\u0026height=683",
+      "score": 4,
+      "final_score": 8,
+      "comments": 0,
+      "posted_at": "2026-11-03T15:47:13Z",
+      "summary_ja": "Title: Anthropic's compute tab could top $1T as Q3 revenue nears $17B\nDescription: Revised IPO filing warns 12x revenue growth is unlikely to continue\n\nArticle text:\nJump to main content\nSearch\nTOPICS\nSpecial Features\nAll Special Features\nCloud Infrastructure Month 2026\nModernizing Financial Services with FIS and AWS\nMake it real with Capgemini and AWS\nNutanix: Scale Kubernetes. Not Chaos.\nAnthropic's compute tab could top $1T as Q3 revenue nears $17B\nRevised IPO filing warns 12x revenue growth is unlikely to continue\nTobias Mann\nTobias\nMann\nSYSTEMS EDITOR\nPublished\nmon 2 Nov 2026 // 23:25 UTC\nMake us preferred on Google\nREAD MORE\nDrax wants to feed Britain's AI habit with £20B datacenter at biomass power station\n1 hour ago\nMarvell wants to be a copper topper, bets $115B on photonics leader to push optical networking\n21 hours ago\nAnthropic's IPO prospectus is big on promises, short on an…"
+    },
+    {
+      "rank": 6,
+      "hn_id": 50353353,
+      "title": "October Binance Security Incident: Initial Findings and Response Update",
+      "title_ja": "October Binance Security Incident: Initial Findings and Response Update",
+      "hn_url": "https://news.ycombinator.com/item?id=50353353",
+      "source_url": "https://twitter.com/binance/status/2117626126214504729",
+      "image_url": "https://pbs.twimg.com/media/HWM-NtRbEAAnZkL?format=webp\u0026name=large",
+      "score": 4,
+      "final_score": 7,
+      "comments": 1,
+      "posted_at": "2026-11-03T15:39:30Z",
+      "summary_ja": "Title: October Binance Security Incident: Initial Findings and Response Update\nArticle title: Binance on X: \"29 October Binance Security Incident: Initial Findings and Response Update\" / X\nDescription: 29 October Binance Security Incident: Initial Findings and Response Update\n\nArticle text:\nLog in Sign up Binance @binance 2:33 PM · Nov 3, 2026 · 360.5K Views 247 467 1.2K 368 Log in or sign up for X\nSee what’s happening and join the conversation\nContinue with phone Continue with Apple Continue with Google or Log in with username or email Relevant people\n29 October Binance Security Incident: Initial Findings and Response Update\nOn 29 October 2026, Binance experienced a serious and highly sophisticated security incident. This should not have happened, and we apologise for the concern, disruption and uncertainty it caused our users, partners and the wider industry.\nOur first responsibility i…"
+    },
+    {
+      "rank": 7,
       "hn_id": 50346001,
       "title": "Developers are downgrading their AI on purpose – and it's working",
       "title_ja": "Developers are downgrading their AI on purpose – and it's working",
@@ -30,7 +99,7 @@
       "summary_ja": "Title: Developers are downgrading their AI on purpose – and it's working\nArticle title: Developers are downgrading their AI on purpose — and it's working - The New Stack\nDescription: Anthropic added game-cloning limits to Claude Code, but developers say Opus 5.5 is now refusing reverse-engineering and software work it once handled.\n\nArticle text:\nDevelopers are downgrading their AI on purpose — and it's working - The New Stack\nTNS\nOK\nSUBSCRIBE\nJoin our community of software engineering leaders and aspirational developers. Always\nstay in-the-know by getting the most important news and exclusive content delivered\nfresh to your inbox to learn more about at-scale software development.\nEMAIL ADDRESS\nREQUIRED\nSUBSCRIBE\nRESUBSCRIPTION REQUIRED\nIt seems that you've previously unsubscribed from our newsletter\nin the past. Click the button below to open the re-subscribe form\nin a new tab. When you…"
     },
     {
-      "rank": 3,
+      "rank": 8,
       "hn_id": 50346350,
       "title": "Stolen AI API keys generated nearly $1M in charges for a single company",
       "title_ja": "Stolen AI API keys generated nearly $1M in charges for a single company",
@@ -44,7 +113,62 @@
       "summary_ja": "Title: Stolen AI API keys generated nearly $1M in charges for a single company\nArticle title: The Rise of LLMJacking: How Threat Actors Monetize Compromised Cloud and Model Resources | Google Cloud Blog\nDescription: Mandiant reveals how LLMJacking attacks cost victims hundreds of thousands in fraudulent cloud bills, with underground markets targeting LLM credentials.\n\nArticle text:\nThe Rise of LLMJacking: How Threat Actors Monetize Compromised Cloud and Model Resources | Google Cloud Blog Jump to Content Cloud Blog Contact sales Get started for free Cloud Blog Solutions \u0026 technology AI \u0026 Machine Learning\nThreat Intelligence The Rise of LLMJacking: How Threat Actors Monetize Compromised Cloud and Model Resources\nStop attacks, reduce risk, and advance your security.\nWritten by: Christopher Romano, Codi Starks, Garrett Mahoney, John Wolfram, Josh Murchie, K Singh, Mathew Potaczek, Mike Lomb…"
     },
     {
-      "rank": 4,
+      "rank": 9,
+      "hn_id": 50353385,
+      "title": "Open models can do 90% of work at a twentieth of the cost of a frontier LLM",
+      "title_ja": "Open models can do 90% of work at a twentieth of the cost of a frontier LLM",
+      "hn_url": "https://news.ycombinator.com/item?id=50353385",
+      "source_url": "https://www.theregister.com/ai-and-ml/2026/11/03/open-models-can-do-90-of-agentic-work-at-a-twentieth-of-the-cost-of-a-frontier-llm-gartner/5307132",
+      "image_url": "https://image.theregister.com/5307139.jpg?imageId=5307139\u0026x=0\u0026y=0\u0026cropw=100\u0026croph=100\u0026panox=0\u0026panoy=0\u0026panow=100\u0026panoh=100\u0026width=1200\u0026height=683",
+      "score": 2,
+      "final_score": 4,
+      "comments": 0,
+      "posted_at": "2026-11-03T15:41:51Z",
+      "summary_ja": "Title: Open models can do 90% of work at a twentieth of the cost of a frontier LLM\nArticle title: Open models can do 90% of agentic work at a twentieth of the cost of a frontier LLM: Gartner\nDescription: Models are commodities, harnesses are the valuable part\n\nArticle text:\nJump to main content\nSearch\nTOPICS\nSpecial Features\nAll Special Features\nCloud Infrastructure Month 2026\nModernizing Financial Services with FIS and AWS\nMake it real with Capgemini and AWS\nNutanix: Scale Kubernetes. Not Chaos.\nOpen models can do 90% of agentic work at a twentieth of the cost of a frontier LLM: Gartner\nModels are commodities, harnesses are the valuable part\nSimon Sharwood\nSimon\nSharwood\nAPAC Editor\nPublished\ntue 3 Nov 2026 // 06:19 UTC\nMake us preferred on Google\nREAD MORE\nA whopping 3% of boardroom execs spy productivity and costs savings from AI\n7 days ago\nAlibaba's Qwen AI caught trying to contact s…"
+    },
+    {
+      "rank": 10,
+      "hn_id": 50353364,
+      "title": "World of Warcraft: Forever Is Overrun with AI Slop",
+      "title_ja": "World of Warcraft: Forever Is Overrun with AI Slop",
+      "hn_url": "https://news.ycombinator.com/item?id=50353364",
+      "source_url": "https://www.404media.co/world-of-warcraft-forever-is-already-overrun-with-ai-slop/",
+      "image_url": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/11/wow-slop.png",
+      "score": 3,
+      "final_score": 3,
+      "comments": 0,
+      "posted_at": "2026-11-03T15:40:23Z",
+      "summary_ja": "Title: World of Warcraft: Forever Is Overrun with AI Slop\nArticle title: World of Warcraft: Forever Is Already Overrun with AI Slop\nDescription: The vibe-coded addon problem is getting so bad that Warcraft Logs is changing its API and developers are dealing with theft of their work.\n\nArticle text:\nWorld of Warcraft: Forever Is Already Overrun with AI Slop\nWorld of Warcraft: Forever, a re-imaginging of the legendary MMO, comes out Wednesday. The idea is to recapture the feeling of discovery and wonder players had when adventuring across its world for the first time back in 2004.\nBut 2026 is a very different time. Subreddits dedicated to the game are already overrun with AI-generated addons that rip off longtime developers’ work, and a company that helps players track their damage output tells me it is making changes to its API because of the inundation of AI slop addons.\nWarcraft Logs is…"
+    },
+    {
+      "rank": 11,
+      "hn_id": 50353338,
+      "title": "Is AI Mainly Being Used to Stop Hiring Young Workers",
+      "title_ja": "Is AI Mainly Being Used to Stop Hiring Young Workers",
+      "hn_url": "https://news.ycombinator.com/item?id=50353338",
+      "source_url": "https://finance.yahoo.com/technology/ai/articles/most-powerful-technology-history-using-113000128.html",
+      "image_url": "https://s.yimg.com/lo/mysterio/api/791f52d62fa89f8fae434ebed5f2dababc7ffb65e7cf861791365ab0f7123125/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ffortune_175%2F4c68f7ed20ce68edb29de7a6adc9bbd9.jpg",
+      "score": 2,
+      "final_score": 2,
+      "comments": 1,
+      "posted_at": "2026-11-03T15:38:10Z",
+      "summary_ja": "Title: Is AI Mainly Being Used to Stop Hiring Young Workers\nArticle title: We have the most powerful technology in history, and we’re using it to stop hiring young people\nDescription: Point AI at the grid, water and health costs instead.\n\nArticle text:\nWe have the most powerful technology in history, and we’re using it to stop hiring young people\nOops, something went wrong\nSkip to navigation Skip to main content Skip to right column\nHome\nShopping The best Black Friday deals\nSign in My Portfolio Watchlists\nPrivate Companies 52 Week Gainers\nResearch \u0026 Tools Calendars Earnings Calendar\nPersonal Finance My Money BETA\nCredit Cards Compare Credit Cards\nMortgage Best Mortgage Lenders\nMortgage Affordability Calculator\nStudent Loans Federal vs. Private\nPersonal Loans Best Personal Loans\nMore to Watch Must-watch Interviews\nNetwork AlphaSpace\nGet Finance Plus U.S. markets close in 5h 8m\nUS Markets…"
+    },
+    {
+      "rank": 12,
+      "hn_id": 50353468,
+      "title": "Show HN: Interactive notes on RLHF, attention, LoRA and LLM evals",
+      "title_ja": "Show HN: Interactive notes on RLHF, attention, LoRA and LLM evals",
+      "hn_url": "https://news.ycombinator.com/item?id=50353468",
+      "source_url": "https://concepts.laxmena.com/",
+      "score": 2,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-11-03T15:48:35Z",
+      "summary_ja": "Title: Show HN: Interactive notes on RLHF, attention, LoRA and LLM evals\nArticle title: Concepts\nDescription: Interactive explainers for computer science and engineering concepts, one per page.\n\nArticle text:\nEngineering ideas you understand by changing the inputs."
+    },
+    {
+      "rank": 13,
       "hn_id": 50346125,
       "title": "Faulty AI face recognition is wrongly accusing alarming numbers of shoplifting",
       "title_ja": "Faulty AI face recognition is wrongly accusing alarming numbers of shoplifting",
@@ -58,7 +182,89 @@
       "summary_ja": "Title: Faulty AI face recognition is wrongly accusing alarming numbers of shoplifting\nArticle title: The Number Of Innocent People Being Accused of Shoplifting by Faulty AI-Facial Recognition Systems Is Alarming - Gadget Review\nDescription: Retail facial recognition in UK stores has wrongly accused innocent shoppers, with no easy legal remedy and no public data on false-match rates.\n\nArticle text:\nThe Number Of Innocent People Being Accused of Shoplifting by Faulty AI-Facial Recognition Systems Is Alarming - Gadget Review\nSkip to content When you buy through our links, you’re supporting our mission .\nx menu-11\nTech Personal Tech Gadgets\nHome \u0026 Office Home Appliances Vacuum Cleaners Robot Vacuums\nFurniture \u0026 Living Spaces Office Chairs\nHome / Emerging Tech / AI The Number Of Innocent People Being Accused of Shoplifting by Faulty AI-Facial Recognition Systems Is Alarming\nInnocent UK shoppe…"
     },
     {
-      "rank": 5,
+      "rank": 14,
+      "hn_id": 50353189,
+      "title": "TIS-100 Bench: LLMs Push the Pareto Frontier in Programming Puzzle Games",
+      "title_ja": "TIS-100 Bench: LLMs Push the Pareto Frontier in Programming Puzzle Games",
+      "hn_url": "https://news.ycombinator.com/item?id=50353189",
+      "source_url": "https://tis-100.wincon.dev/",
+      "image_url": "https://tis-100.wincon.dev/assets/og-tis100.png",
+      "score": 1,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-11-03T15:25:42Z",
+      "summary_ja": "Title: TIS-100 Bench: LLMs Push the Pareto Frontier in Programming Puzzle Games\nArticle title: TIS-100 Bench: LLMs Push the Pareto Frontier in Programming Puzzle Games | Wincon\nDescription: 16 LLMs took on TIS-100's community leaderboard and found 133 new frontier points on 18 of 55 puzzles, including 3 outright cycle records.\n\nArticle text:\nSkip to content\nGet in touch\nTIS-100 Bench: LLMs Push the Pareto Frontier in Programming Puzzle Games\nTwelve nodes. Two registers per node. Fifteen lines of code. In TIS-100 , even multiplying two numbers is a small engineering project, and players have spent a decade optimizing these programs on a public community leaderboard . We gave 16 LLMs the game and its manual, withheld the leaderboard, and told them to keep improving.\nWithin days, players picked up the models’ programs and improved on most of them.\nEach node is a tiny processor, and neighbor…"
+    },
+    {
+      "rank": 15,
+      "hn_id": 50353140,
+      "title": "Free courses for AI at work (chat, delegate, automate, engineer)",
+      "title_ja": "Free courses for AI at work (chat, delegate, automate, engineer)",
+      "hn_url": "https://news.ycombinator.com/item?id=50353140",
+      "source_url": "https://learn.zapier.com",
+      "image_url": "https://content.parta.io/og-images/portal/3b5b2ebf-15af-415a-bb33-b463b3a26063/upload-1787342870025-c66db20f.png",
+      "score": 2,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-11-03T15:22:12Z",
+      "summary_ja": "Title: Free courses for AI at work (chat, delegate, automate, engineer)\nArticle title: Zapier Academy\nDescription: Free, self-paced video courses from Zapier — learn automation, AI agents, Zapier MCP, and account administration in short learning paths. All you need is a free Zapier account.\n\nArticle text:\nZapier Academy\nSetting the stage for learning...\nZapier Academy\nBuild AI Skills that transform your work\n01 Chat: Turn AI conversations into finished work\n02 Delegate: Let AI take action in your apps\n03 Automate: Put repetitive work on autopilot\n04 Engineer: Build AI systems that work reliably at scale\nAdmin Essentials: Govern AI as your people build\nAI Transformation Leaders: Make AI work for your whole company\nBuild AI Skills that transform your work\nFrom chatting with AI to building systems that scale\\.\nShort, self\\-paced courses with certificates\\.\nYes\\. Every course is free with a…"
+    },
+    {
+      "rank": 16,
+      "hn_id": 50353214,
+      "title": "Least privilege for your customers' AI agents",
+      "title_ja": "Least privilege for your customers' AI agents",
+      "hn_url": "https://news.ycombinator.com/item?id=50353214",
+      "source_url": "https://fusionauth.io/blog/announcing-fusionauth-1-70",
+      "image_url": "https://fusionauth.io/img/blogs/release-1-70/fusionauth-1-70.png",
+      "score": 1,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-11-03T15:27:54Z",
+      "summary_ja": "Title: Least privilege for your customers' AI agents\nArticle title: FusionAuth 1.70: least privilege for your customers' AI agents\nDescription: FusionAuth 1.70 introduces Client ID Metadata Document (CIMD) registration and RFC 8693 token exchange, giving engineering teams a secure, policy-driven model for AI agents acting on behalf of users.\n\nArticle text:\nFusionAuth 1.70: least privilege for your customers' AI agents / Blog Resources Docs\nFusionAuth 1.70: least privilege for your customers' AI agents\nFusionAuth 1.70 introduces Client ID Metadata Document (CIMD) registration and RFC 8693 token exchange, giving engineering teams a secure, policy-driven model for AI agents acting on behalf of users.\nAI agents are here, and they're breaking your access model.\nIn August, ABC News reported on a man in Australia who asked his personal AI assistant to book him into a morning gym class. He sat f…"
+    },
+    {
+      "rank": 17,
+      "hn_id": 50353184,
+      "title": "'Our Risk, Their Reward': Zohran Mamdani on AI and Data Centers",
+      "title_ja": "'Our Risk, Their Reward': Zohran Mamdani on AI and Data Centers",
+      "hn_url": "https://news.ycombinator.com/item?id=50353184",
+      "source_url": "https://www.wired.com/story/the-big-interview-podcast-nyc-mayor-zohran-mamdani/",
+      "image_url": "https://media.wired.com/photos/6ae90c349efc9a24a32255ed/191:100/w_1280,c_limit/WEB_WIRED_Mamdani_HR-00808.jpg",
+      "score": 2,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-11-03T15:25:23Z",
+      "summary_ja": "Title: 'Our Risk, Their Reward': Zohran Mamdani on AI and Data Centers\nArticle title: ‘Our Risk, Their Reward’: Zohran Mamdani on AI and Data Centers | WIRED\nDescription: Ahead of the midterms, WIRED talked to New York City’s mayor about data centers, AI in schools, and the future of the Democratic party.\n\nArticle text:\nSkip to main content THE WIRED APP IS HERE DOWNLOAD NOW » Menu WIRED SECURITY POLITICS THE BIG STORY BUSINESS SCIENCE CULTURE REVIEWS Menu WIRED Account Account Newsletters Security Politics The Big Story Business Science Culture Reviews Chevron More Expand The Big Interview Magazine Events WIRED Insider WIRED Consulting Newsletters Podcasts Video Livestreams WIRED Store Search Search Katie Drummond The Big Story Nov 3, 2026 6:00 AM ‘Our Risk, Their Reward’: Zohran Mamdani on AI and Data Centers\nPhotograph: Jutharat Pinyodoonyachet Comment Loader Save Story Save this stor…"
+    },
+    {
+      "rank": 18,
+      "hn_id": 50353475,
+      "title": "Quili AI",
+      "title_ja": "Quili AI",
+      "hn_url": "https://news.ycombinator.com/item?id=50353475",
+      "source_url": "https://www.quili.ai/",
+      "score": 2,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-11-03T15:49:02Z",
+      "summary_ja": "Title: Quili AI\nArticle title: QUILI.AI\n\nArticle text:\nOn JAN 31st from 8 AM to 8 PM: more than 40 people from Quilicura\nmanaged to answer more than 25,000 prompts.\nEach chat lasted an average of 11’ 4\nChatting with more than 68 countries around the world that supported\nthe project.\nWAS THE GLOBAL REACH IN JUST ONE DAY.\nA chatbot entirely powered by humans, not artificial\nintelligence? This Chilean community shows why\nUn pueblo se convierte en IA por un día para salvar sus\nrecursos hídricos\nHow a unique ‘chatbot’ is helping a small Chilean\ncommunity push back on AI\nA town in Chile will answer your AI prompts this weekend\nto warn about AI’s water use\nQuilicura reemplazará a la IA por humanos durante un día\npara proteger su agua de los data centers\nChile: un pueblo entero recreó una IA humana para alertar\nsobre el uso del agua\nThe initiative managed to reach more than 1 billion people in t…"
+    },
+    {
+      "rank": 19,
+      "hn_id": 50353011,
+      "title": "Show HN: A Visual Guide to How LLMs Work",
+      "title_ja": "Show HN: A Visual Guide to How LLMs Work",
+      "hn_url": "https://news.ycombinator.com/item?id=50353011",
+      "source_url": "https://ai.qu3vipon.com/llm/",
+      "score": 1,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-11-03T15:13:40Z",
+      "summary_ja": "Title: Show HN: A Visual Guide to How LLMs Work\nArticle title: Before you start - The Hitchhiker’s Guide to AI\nDescription: Learn how machine learning, transformers, and modern LLMs work without coding or advanced mathematics, using illustrations, analogies, and short exercises.\n\nArticle text:\nBefore you start - The Hitchhiker’s Guide to AI\nSkip to content\nNavigation\nThe Hitchhiker’s Guide to AI\nBefore you start\nEnglish\nSearch\nSearch\nthe-hitchhikers-guide-to-ai\nGetting started\nthe-hitchhikers-guide-to-ai\nGetting started\nGetting started\nAbout this guide\nUnderstanding LLMs\nUnderstanding LLMs\nBefore you start\nBefore you start\nOn this page\nOur goal\n2. The invention of neural networks\n3. The perceptron: a model that decides\n4. Multilayer networks and backpropagation\n5. Learning in high-dimensional spaces\n6. Representing language as vectors\n7. Language follows probabilistic patterns\n8. Connect…"
+    },
+    {
+      "rank": 20,
       "hn_id": 50348921,
       "title": "AI Arbitrator",
       "title_ja": "AI Arbitrator",
@@ -72,7 +278,7 @@
       "summary_ja": "Title: AI Arbitrator\nArticle title: AI Arbitrator, Fast and Fair Dispute Resolution by AAA\nDescription: Explore the AAA’s AI Arbitrator, a faster and more efficient way to resolve disputes with human oversight. Learn how AI Arbitrator improves clarity, speed, and fairness.\n\nArticle text:\nSkip to header\nSkip to main content\nSkip to footer\nLog In\nFile a Case\nAI Arbitrator\nAI handles the claim parsing, document summarization, and analysis. Parties provide feedback, and a human arbitrator reviews, finalizes, and issues the final award, bringing human judgment and accountability to the outcome.\nFaster Resolution. Lower Costs. Trusted Outcomes.\nDelivers significant time and cost savings for two-party, documents-only construction cases.\nAwards issued by a human arbitrator\nHuman Arbitrators Guide a Trusted Process\nsome popup context to be here in Rich text\nsome popup context to be here in Rich t…"
     },
     {
-      "rank": 6,
+      "rank": 21,
       "hn_id": 50345955,
       "title": "An open-source tool that makes eye-candy Instagram posts that doesn't use AI",
       "title_ja": "An open-source tool that makes eye-candy Instagram posts that doesn't use AI",
@@ -86,7 +292,20 @@
       "summary_ja": "Title: An open-source tool that makes eye-candy Instagram posts that doesn't use AI\nArticle title: Free Instagram Post Maker | Instatools\nDescription: Free Instagram post maker with 24 ready layouts. No signup for free designs. Edit photos and headlines in your browser, then export HD 1080x1350 PNG. A focused Canva alternative for feed posts.\n\nArticle text:\nFree Instagram Post Maker | Instatools"
     },
     {
-      "rank": 7,
+      "rank": 22,
+      "hn_id": 50345968,
+      "title": "From Words to Waypoints: Teaching a Small LLM to Plan for Robots",
+      "title_ja": "From Words to Waypoints: Teaching a Small LLM to Plan for Robots",
+      "hn_url": "https://news.ycombinator.com/item?id=50345968",
+      "source_url": "https://www.daweisun.me/blog/stl-planning-rl/",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-11-02T23:51:20Z",
+      "summary_ja": "Title: From Words to Waypoints: Teaching a Small LLM to Plan for Robots\nArticle title: From Words to Waypoints: Teaching a Small LLM to Plan for Robots — Dawei Sun\n\nArticle text:\nDawei Sun Blog\nAbout\nFrom Words to Waypoints: Teaching a Small LLM to Plan for Robots\nLarge language models are increasingly asked to act as the high-level planner of a robot: given a task in words or in a formal language, decide where to go, in which order, and when. For tasks written in temporal logic, the classical approach is to encode the whole problem as a mixed-integer linear program (MILP) and hand it to a solver. That works, but it can take a very long time, and the cost grows quickly with the length of the task and the number of conditions. A MILP solver is a powerful but blind search: every operator, at every time step, becomes a set of binary variables and constraints, and the solver has no notion of…"
+    },
+    {
+      "rank": 23,
       "hn_id": 50346009,
       "title": "Anthropic's pay packages cost the company more than $100k a month per employee",
       "title_ja": "Anthropic's pay packages cost the company more than $100k a month per employee",
@@ -100,17 +319,18 @@
       "summary_ja": "Title: Anthropic's pay packages cost the company more than $100k a month per employee\nArticle title: Anthropic Employees Cost Over $100K a Month on Average - Business Insider\nDescription: Anthropic's expenses on personnel topped $322,000 per worker last quarter, an amendment to its S-1 filing shows. The company's IPO is expected soon.\n\nArticle text:\nBusiness Insider\nSubscribe\nAccount icon\nAccount icon\nSearch\nBusiness\nStrategy\nEconomy\nFinance\nRetail\nAdvertising\nCareers\nLaw\nMedia\nReal Estate\nSmall Business\nThe Better Work Project\nPersonal Finance\nTech\nScience\nAI\nEnterprise\nTransportation\nStartups\nInnovation\nMarkets\nNews\nStocks\nIndices\nCommodities\nCrypto\nCurrencies\nETFs\nLifestyle\nEntertainment\nCulture\nTravel\nFood\nHealth\nEducation\nParenting\nMilitary \u0026 Defense\nPolitics\nReviews\nHome\nKitchen\nStyle\nStreaming\nPets\nTech\nDeals\nGifts\nTickets\nVideo\nBig Business\nSo Expensive\nView From Above\nSmall Busi…"
     },
     {
-      "rank": 8,
-      "hn_id": 50345968,
-      "title": "From Words to Waypoints: Teaching a Small LLM to Plan for Robots",
-      "title_ja": "From Words to Waypoints: Teaching a Small LLM to Plan for Robots",
-      "hn_url": "https://news.ycombinator.com/item?id=50345968",
-      "source_url": "https://www.daweisun.me/blog/stl-planning-rl/",
+      "rank": 24,
+      "hn_id": 50352792,
+      "title": "A.I. Stories in the Age of AI Hype: A Conversation with Ted Chiang",
+      "title_ja": "A.I. Stories in the Age of AI Hype: A Conversation with Ted Chiang",
+      "hn_url": "https://news.ycombinator.com/item?id=50352792",
+      "source_url": "https://buttondown.com/charliejane/archive/ai-stories-in-the-age-of-ai-hype-a-conversation/",
+      "image_url": "https://assets.buttondown.email/images/7b6fea98-28dc-4a2d-bd67-16ba39c58208.jpg?w=960\u0026fit=max",
       "score": 1,
       "final_score": 1,
       "comments": 0,
-      "posted_at": "2026-11-02T23:51:20Z",
-      "summary_ja": "Title: From Words to Waypoints: Teaching a Small LLM to Plan for Robots\nArticle title: From Words to Waypoints: Teaching a Small LLM to Plan for Robots — Dawei Sun\n\nArticle text:\nDawei Sun Blog\nAbout\nFrom Words to Waypoints: Teaching a Small LLM to Plan for Robots\nLarge language models are increasingly asked to act as the high-level planner of a robot: given a task in words or in a formal language, decide where to go, in which order, and when. For tasks written in temporal logic, the classical approach is to encode the whole problem as a mixed-integer linear program (MILP) and hand it to a solver. That works, but it can take a very long time, and the cost grows quickly with the length of the task and the number of conditions. A MILP solver is a powerful but blind search: every operator, at every time step, becomes a set of binary variables and constraints, and the solver has no notion of…"
+      "posted_at": "2026-11-03T14:56:37Z",
+      "summary_ja": "Title: A.I. Stories in the Age of AI Hype: A Conversation with Ted Chiang\nArticle title: A.I. Stories in the Age of AI Hype: a Conversation with Ted Chiang • Buttondown\nDescription: First, a couple plugs! I’m a guest of honor at PhilCon next month, and it’s looking AWESOME. I’m doing a conversation with Jadzia Axelrod (Galaxy the...\n\nArticle text:\nA.I. Stories in the Age of AI Hype: a Conversation with Ted Chiang • Buttondown\nHappy Dancing\nArchives\nSearch...\nSubscribe\nOctober 30, 2026\nA.I. Stories in the Age of AI Hype: a Conversation with Ted Chiang\nI’m a guest of honor at PhilCon next month, and it’s looking AWESOME. I’m doing a conversation with Jadzia Axelrod ( Galaxy the Prettiest Star ) about writing superhero comics. I’m also on an Ursula K. Le Guin panel with Sarah Pinsker and Chana Porter, moderated by Simone Zelitch. I’m legit excited!\nMy novel Good Things Are Coming Your Way c…"
     }
   ]
 }

@@ -1,0 +1,102 @@
+{
+  "date": "2026-11-03",
+  "generated_at": "2026-11-03T00:37:42Z",
+  "articles": [
+    {
+      "rank": 1,
+      "hn_id": 50345924,
+      "title": "Scaling Git at OpenAI",
+      "title_ja": "Scaling Git at OpenAI",
+      "hn_url": "https://news.ycombinator.com/item?id=50345924",
+      "source_url": "https://openai.com/index/scaling-git-at-openai/",
+      "score": 15,
+      "final_score": 19,
+      "comments": 0,
+      "posted_at": "2026-11-02T23:47:56Z",
+      "summary_ja": "Title: Scaling Git at OpenAI"
+    },
+    {
+      "rank": 2,
+      "hn_id": 50346001,
+      "title": "Developers are downgrading their AI on purpose – and it's working",
+      "title_ja": "Developers are downgrading their AI on purpose – and it's working",
+      "hn_url": "https://news.ycombinator.com/item?id=50346001",
+      "source_url": "https://thenewstack.io/claude-code-developer-refusals/",
+      "image_url": "https://cdn.thenewstack.io/media/2026/11/2b66602e-risky-ming-2k9rzbhzaem-unsplash-scaled.jpg",
+      "score": 2,
+      "final_score": 5,
+      "comments": 0,
+      "posted_at": "2026-11-02T23:53:41Z",
+      "summary_ja": "Title: Developers are downgrading their AI on purpose – and it's working\nArticle title: Developers are downgrading their AI on purpose — and it's working - The New Stack\nDescription: Anthropic added game-cloning limits to Claude Code, but developers say Opus 5.5 is now refusing reverse-engineering and software work it once handled.\n\nArticle text:\nDevelopers are downgrading their AI on purpose — and it's working - The New Stack\nTNS\nOK\nSUBSCRIBE\nJoin our community of software engineering leaders and aspirational developers. Always\nstay in-the-know by getting the most important news and exclusive content delivered\nfresh to your inbox to learn more about at-scale software development.\nEMAIL ADDRESS\nREQUIRED\nSUBSCRIBE\nRESUBSCRIPTION REQUIRED\nIt seems that you've previously unsubscribed from our newsletter\nin the past. Click the button below to open the re-subscribe form\nin a new tab. When you…"
+    },
+    {
+      "rank": 3,
+      "hn_id": 50346350,
+      "title": "Stolen AI API keys generated nearly $1M in charges for a single company",
+      "title_ja": "Stolen AI API keys generated nearly $1M in charges for a single company",
+      "hn_url": "https://news.ycombinator.com/item?id=50346350",
+      "source_url": "https://cloud.google.com/blog/topics/threat-intelligence/llmjacking-monetizing-compromised-cloud-models/",
+      "image_url": "https://storage.googleapis.com/gweb-cloudblog-publish/images/03_ThreatIntelligenceWebsiteBannerIdeas_BA.max-2600x2600.png",
+      "score": 2,
+      "final_score": 5,
+      "comments": 0,
+      "posted_at": "2026-11-03T00:32:32Z",
+      "summary_ja": "Title: Stolen AI API keys generated nearly $1M in charges for a single company\nArticle title: The Rise of LLMJacking: How Threat Actors Monetize Compromised Cloud and Model Resources | Google Cloud Blog\nDescription: Mandiant reveals how LLMJacking attacks cost victims hundreds of thousands in fraudulent cloud bills, with underground markets targeting LLM credentials.\n\nArticle text:\nThe Rise of LLMJacking: How Threat Actors Monetize Compromised Cloud and Model Resources | Google Cloud Blog Jump to Content Cloud Blog Contact sales Get started for free Cloud Blog Solutions \u0026 technology AI \u0026 Machine Learning\nThreat Intelligence The Rise of LLMJacking: How Threat Actors Monetize Compromised Cloud and Model Resources\nStop attacks, reduce risk, and advance your security.\nWritten by: Christopher Romano, Codi Starks, Garrett Mahoney, John Wolfram, Josh Murchie, K Singh, Mathew Potaczek, Mike Lomb…"
+    },
+    {
+      "rank": 4,
+      "hn_id": 50346125,
+      "title": "Faulty AI face recognition is wrongly accusing alarming numbers of shoplifting",
+      "title_ja": "Faulty AI face recognition is wrongly accusing alarming numbers of shoplifting",
+      "hn_url": "https://news.ycombinator.com/item?id=50346125",
+      "source_url": "https://www.gadgetreview.com/the-number-of-innocent-people-being-accused-of-shoplifting-by-faulty-ai-facial-recognition-systems-is-alarming",
+      "image_url": "https://www.gadgetreview.com/wp-content/uploads/UK-Shoppers-Wrongly-Flagged-by-Retail-Facial-Recognition-Have-No-Easy-Way-to-Fight-Back-scaled.jpg",
+      "score": 1,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-11-03T00:06:38Z",
+      "summary_ja": "Title: Faulty AI face recognition is wrongly accusing alarming numbers of shoplifting\nArticle title: The Number Of Innocent People Being Accused of Shoplifting by Faulty AI-Facial Recognition Systems Is Alarming - Gadget Review\nDescription: Retail facial recognition in UK stores has wrongly accused innocent shoppers, with no easy legal remedy and no public data on false-match rates.\n\nArticle text:\nThe Number Of Innocent People Being Accused of Shoplifting by Faulty AI-Facial Recognition Systems Is Alarming - Gadget Review\nSkip to content When you buy through our links, you’re supporting our mission .\nx menu-11\nTech Personal Tech Gadgets\nHome \u0026 Office Home Appliances Vacuum Cleaners Robot Vacuums\nFurniture \u0026 Living Spaces Office Chairs\nHome / Emerging Tech / AI The Number Of Innocent People Being Accused of Shoplifting by Faulty AI-Facial Recognition Systems Is Alarming\nInnocent UK shoppe…"
+    },
+    {
+      "rank": 5,
+      "hn_id": 50345955,
+      "title": "An open-source tool that makes eye-candy Instagram posts that doesn't use AI",
+      "title_ja": "An open-source tool that makes eye-candy Instagram posts that doesn't use AI",
+      "hn_url": "https://news.ycombinator.com/item?id=50345955",
+      "source_url": "https://www.useinstatools.com/",
+      "image_url": "https://www.useinstatools.com/og.png",
+      "score": 1,
+      "final_score": 1,
+      "comments": 1,
+      "posted_at": "2026-11-02T23:50:38Z",
+      "summary_ja": "Title: An open-source tool that makes eye-candy Instagram posts that doesn't use AI\nArticle title: Free Instagram Post Maker | Instatools\nDescription: Free Instagram post maker with 24 ready layouts. No signup for free designs. Edit photos and headlines in your browser, then export HD 1080x1350 PNG. A focused Canva alternative for feed posts.\n\nArticle text:\nFree Instagram Post Maker | Instatools"
+    },
+    {
+      "rank": 6,
+      "hn_id": 50346009,
+      "title": "Anthropic's pay packages cost the company more than $100k a month per employee",
+      "title_ja": "Anthropic's pay packages cost the company more than $100k a month per employee",
+      "hn_url": "https://news.ycombinator.com/item?id=50346009",
+      "source_url": "https://www.businessinsider.com/anthropic-ipo-filing-q3-personnel-costs-2026-11",
+      "image_url": "https://i.insider.com/6ae8e4438bd5d6547af34c3e?width=1200\u0026format=jpeg",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-11-02T23:54:17Z",
+      "summary_ja": "Title: Anthropic's pay packages cost the company more than $100k a month per employee\nArticle title: Anthropic Employees Cost Over $100K a Month on Average - Business Insider\nDescription: Anthropic's expenses on personnel topped $322,000 per worker last quarter, an amendment to its S-1 filing shows. The company's IPO is expected soon.\n\nArticle text:\nBusiness Insider\nSubscribe\nAccount icon\nAccount icon\nSearch\nBusiness\nStrategy\nEconomy\nFinance\nRetail\nAdvertising\nCareers\nLaw\nMedia\nReal Estate\nSmall Business\nThe Better Work Project\nPersonal Finance\nTech\nScience\nAI\nEnterprise\nTransportation\nStartups\nInnovation\nMarkets\nNews\nStocks\nIndices\nCommodities\nCrypto\nCurrencies\nETFs\nLifestyle\nEntertainment\nCulture\nTravel\nFood\nHealth\nEducation\nParenting\nMilitary \u0026 Defense\nPolitics\nReviews\nHome\nKitchen\nStyle\nStreaming\nPets\nTech\nDeals\nGifts\nTickets\nVideo\nBig Business\nSo Expensive\nView From Above\nSmall Busi…"
+    },
+    {
+      "rank": 7,
+      "hn_id": 50345968,
+      "title": "From Words to Waypoints: Teaching a Small LLM to Plan for Robots",
+      "title_ja": "From Words to Waypoints: Teaching a Small LLM to Plan for Robots",
+      "hn_url": "https://news.ycombinator.com/item?id=50345968",
+      "source_url": "https://www.daweisun.me/blog/stl-planning-rl/",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-11-02T23:51:20Z",
+      "summary_ja": "Title: From Words to Waypoints: Teaching a Small LLM to Plan for Robots\nArticle title: From Words to Waypoints: Teaching a Small LLM to Plan for Robots — Dawei Sun\n\nArticle text:\nDawei Sun Blog\nAbout\nFrom Words to Waypoints: Teaching a Small LLM to Plan for Robots\nLarge language models are increasingly asked to act as the high-level planner of a robot: given a task in words or in a formal language, decide where to go, in which order, and when. For tasks written in temporal logic, the classical approach is to encode the whole problem as a mixed-integer linear program (MILP) and hand it to a solver. That works, but it can take a very long time, and the cost grows quickly with the length of the task and the number of conditions. A MILP solver is a powerful but blind search: every operator, at every time step, becomes a set of binary variables and constraints, and the solver has no notion of…"
+    }
+  ]
+}

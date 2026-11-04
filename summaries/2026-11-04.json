@@ -1,9 +1,37 @@
 {
   "date": "2026-11-04",
-  "generated_at": "2026-11-04T01:56:49Z",
+  "generated_at": "2026-11-04T08:44:24Z",
   "articles": [
     {
       "rank": 1,
+      "hn_id": 50362588,
+      "title": "You'll need nerves of steel to work with AI agents",
+      "title_ja": "You'll need nerves of steel to work with AI agents",
+      "hn_url": "https://news.ycombinator.com/item?id=50362588",
+      "source_url": "https://orchidfiles.com/youll-need-nerves-of-steel-to-work-with-ai-agents/",
+      "image_url": "https://orchidfiles.com/content/images/2026/03/avatar-1.png",
+      "score": 5,
+      "final_score": 6,
+      "comments": 0,
+      "posted_at": "2026-11-04T07:58:08Z",
+      "summary_ja": "Title: You'll need nerves of steel to work with AI agents\nArticle title: You’ll need nerves of steel to work with AI agents\nDescription: This post will focus mainly on Composer 2.5 in Cursor. These problems may not be present in opus-5.5 or gpt-6.1-sol-pro-max-ultra-thinking-fast. But gpt-6.1-luna, for example, has all the problems listed here. I’ve also encountered many of these problems before in gpt-5.5 and opus-4.6. I\n\nArticle text:\nOrchid Files\nMain\nPopular\nArchive\nAbout\nSubscribe\nSent to . Click the link in the email to confirm.\nYou’ll need nerves of steel to work with AI agents\nThis post will focus mainly on Composer 2.5 in Cursor. These problems may not be present in opus-5.5 or gpt-6.1-sol-pro-max-ultra-thinking-fast. But gpt-6.1-luna, for example, has all the problems listed here. I’ve also encountered many of these problems before in gpt-5.5 and opus-4.6. I don’t know whether…"
+    },
+    {
+      "rank": 2,
+      "hn_id": 50362860,
+      "title": "Did Claude Help an Amateur Astronomer Discover a New Planet?",
+      "title_ja": "Did Claude Help an Amateur Astronomer Discover a New Planet?",
+      "hn_url": "https://news.ycombinator.com/item?id=50362860",
+      "source_url": "https://gizmodo.com/did-claude-help-an-amateur-astronomer-discover-a-new-planet-2000824393",
+      "image_url": "https://gizmodo.com/app/uploads/2026/10/claude-new-planet-1200x675.jpg",
+      "score": 4,
+      "final_score": 5,
+      "comments": 1,
+      "posted_at": "2026-11-04T08:37:59Z",
+      "summary_ja": "Title: Did Claude Help an Amateur Astronomer Discover a New Planet?\nDescription: Billions of exoplanets are believed to be out there awaiting discovery. AI—with its ability to sift through mountains of data—could speed that process along.\n\nArticle text:\nDid Claude Help an Amateur Astronomer Discover a New Planet?\nSkip to content\nGizmodo\nLatest\nDid Claude Help an Amateur Astronomer Discover a New Planet?\nLast month, Pavel Rabtsevich—a 28-year-old product manager living in Spain—was hunting for planets. He didn’t have any formal training in astronomy or even a telescope. What he did have was an internet connection and subscriptions to multiple AI tools.\nHe’d been combing through public astronomical data captured by the Transiting Exoplanet Survey Satellite (TESS), a space telescope operated by MIT astronomers and launched by NASA in 2018. As its name suggests, TESS’ main purpose is to help…"
+    },
+    {
+      "rank": 3,
       "hn_id": 50360592,
       "title": "Graduates are managing AI – but are they learning much else?",
       "title_ja": "Graduates are managing AI – but are they learning much else?",
@@ -17,7 +45,48 @@
       "summary_ja": "Title: Graduates are managing AI – but are they learning much else?\nArticle title: Graduates jobs: More work with AI but what else?\nDescription: Graduates are spending more time managing AI, but are they missing out on other work experience?\n\nArticle text:\nSkip to content Watch Live British Broadcasting Corporation Home\nHome News Sport Business Technology Health Culture Arts Travel Earth Audio Video Live Documentaries Weather Newsletters Watch Live Graduates are managing AI - but are they learning much else?\nShare Save Add as preferred on Google MaryLou Costa Technology reporter Lotte Underwood Managing AI agents is a big part of Lotte Underwood's job Recent university graduate Lotte Underwood is a public relations executive with a twist - she spends more time using AI than actually doing PR.\nUnderwood, 25, joined London-based PR agency Fight or Flight in November last year, in the new r…"
     },
     {
-      "rank": 2,
+      "rank": 4,
+      "hn_id": 50362700,
+      "title": "Ask HN: Impact of US Elections on AI?",
+      "title_ja": "Ask HN: Impact of US Elections on AI?",
+      "hn_url": "https://news.ycombinator.com/item?id=50362700",
+      "source_url": "",
+      "score": 3,
+      "final_score": 3,
+      "comments": 1,
+      "posted_at": "2026-11-04T08:16:44Z",
+      "summary_ja": "Title: Ask HN: Impact of US Elections on AI?\nHN text: First off, apologies for brining up politics. Unfortunately, it is relevant to the conversation. The US midterm elections just concluded, and with the “blue tsunami” I would like to know opinions of people in AI. What will the impact be? I’m not politically active, so I’m curious to know what folks think the future looks like. Open source? Data centers? Space based compute?"
+    },
+    {
+      "rank": 5,
+      "hn_id": 50362579,
+      "title": "Anthropic: Progress on provable inference for large language models",
+      "title_ja": "Anthropic: Progress on provable inference for large language models",
+      "hn_url": "https://news.ycombinator.com/item?id=50362579",
+      "source_url": "https://www.anthropic.com/research/provable-inference",
+      "image_url": "https://www-cdn.anthropic.com/images/4zrzovbb/website/2eba335a28661a8253187053fa36add230af728b-2000x1125.jpg",
+      "score": 3,
+      "final_score": 3,
+      "comments": 1,
+      "posted_at": "2026-11-04T07:57:06Z",
+      "summary_ja": "Title: Anthropic: Progress on provable inference for large language models\nArticle title: Progress on provable inference for large language models \\ Anthropic\nDescription: Sharing progress on a powerful type of cryptographic proof known as a zkSNARK, which is uniquely fit for provable inference.\n\nArticle text:\nProgress on provable inference for large language models \\ Anthropic Skip to main content News Research Policy Commitments Company Try Claude Chapter 01 : Executive summary\nProgress on provable inference for large language models\n03 Trust challenges in AI proliferation\n05 Trustworthiness from formal verification\nRoy Rinberg (Anthropic), Alex Allain (Anthropic); Alessandro Chiesa (EPFL, StarkWare), Miranda Christ (MIT, RESI), Rahul Dalal (Anthropic STEM Fellows Program, Succinct), Giacomo Fenzi (EPFL), Ben Mayer (Anthropic Fellows Program, MIT), Guy Weissenberg (EPFL)\nWhen you talk…"
+    },
+    {
+      "rank": 6,
+      "hn_id": 50362615,
+      "title": "Show HN: Meteosource MCP server, weather data for AI assistants",
+      "title_ja": "Show HN: Meteosource MCP server, weather data for AI assistants",
+      "hn_url": "https://news.ycombinator.com/item?id=50362615",
+      "source_url": "https://mcp.meteosource.com/",
+      "image_url": "https://www.meteosource.com/static/img/mcp-og.png",
+      "score": 2,
+      "final_score": 2,
+      "comments": 1,
+      "posted_at": "2026-11-04T08:02:25Z",
+      "summary_ja": "Title: Show HN: Meteosource MCP server, weather data for AI assistants\nArticle title: Weather MCP Server by Meteosource: weather for AI agents\nDescription: Hosted MCP server for AI agents: weather forecasts, severe-weather alerts, air quality, 20 years of history and solar and wind production from Meteosource.\n\nArticle text:\n--\u003e\nGet a free API key\nMeteosource\nConnecting\nTools\nDocumentation\nWeather data for AI agents, ready to connect\nForecasts, alerts, air quality, 20 years of history and renewable production over the Model Context Protocol\nA hosted MCP server by Meteosource. Point Claude, Codex, Antigravity or any other MCP client at\none address, add your API key, and the agent answers weather questions with real data.\nhttps://mcp.meteosource.com/mcp\nAuthorization: Bearer YOUR_METEOSOURCE_API_KEY\nClaude, Codex, Antigravity and any other MCP client\nTwo values, and the agent is online\nThe…"
+    },
+    {
+      "rank": 7,
       "hn_id": 50360659,
       "title": "OpenAI is quietly renaming data centers 'compute campuses'",
       "title_ja": "OpenAI is quietly renaming data centers 'compute campuses'",
@@ -31,7 +100,7 @@
       "summary_ja": "Title: OpenAI is quietly renaming data centers 'compute campuses'\nArticle title: OpenAI is quietly renaming data centers ‘compute campuses’ | The Verge\nDescription: Critics say OpenAI should tackle people’s concerns about data centers, not rebrand them.\n\nArticle text:\nOpenAI is quietly renaming data centers ‘compute campuses’ | The Verge Skip to main content The homepage The Verge The Verge logo. The Verge The Verge logo. Tech\nNotifications Notifications Hamburger Navigation Button Navigation Drawer The Verge The Verge logo. Login / Sign Up\nSearch Light System Dark Tech Expand Amazon\nReviews Expand Smart Home Reviews\nVerge Shopping Expand Buying Guides\nTransportation Expand Electric Cars\nOpenAI is quietly renaming data centers ‘compute campuses’ Notifications Notifications Comments Drawer Notifications Comments Loading comments Getting the conversation ready... AI Close AI Posts from thi…"
     },
     {
-      "rank": 3,
+      "rank": 8,
       "hn_id": 50360345,
       "title": "SpaceX Will Be the Biggest AI Cloud",
       "title_ja": "SpaceX Will Be the Biggest AI Cloud",
@@ -45,21 +114,34 @@
       "summary_ja": "Title: SpaceX Will Be the Biggest AI Cloud\nArticle title: Elon Is Doing It Again: SpaceX Will Be The World’s Biggest AI Cloud\nDescription: Making 13GW in 1.5 Years A Reality, Repurposing Rocket Ship Campuses, A Datacenter at TeraFab?\n\nArticle text:\nElon Is Doing It Again: SpaceX Will Be The World’s Biggest AI Cloud\nSubscribe Sign in Elon Is Doing It Again: SpaceX Will Be The World’s Biggest AI Cloud\nMaking 13GW in 1.5 Years A Reality, Repurposing Rocket Ship Campuses, A Datacenter at TeraFab?\n67 9 Share We wrote at length about how SpaceX’s plans for 10GW in 2027 was feasible , paving the way for 300b+ ARR. We received a lot of pushback from folks calling it impossible. Now, just two months later, we’re already seeing 3.6GW under construction across multiple sites, both existing and new . SpaceX has even revised its estimate up to ~13GW in 2027. This would be the largest amount of datace…"
     },
     {
-      "rank": 4,
-      "hn_id": 50360366,
-      "title": "Cat Wu, product lead for Claude Code, has left Anthropic",
-      "title_ja": "Cat Wu, product lead for Claude Code, has left Anthropic",
-      "hn_url": "https://news.ycombinator.com/item?id=50360366",
-      "source_url": "https://www.businessinsider.com/claude-code-leader-cat-wu-exits-anthropic-before-big-ipo-2026-11",
-      "image_url": "https://i.insider.com/6aea5c61cd2cd3a46a0f0872?width=1200\u0026format=jpeg",
+      "rank": 9,
+      "hn_id": 50360513,
+      "title": "Local AI app that runs an 80B model on an 8GB Mac",
+      "title_ja": "Local AI app that runs an 80B model on an 8GB Mac",
+      "hn_url": "https://news.ycombinator.com/item?id=50360513",
+      "source_url": "https://yanahchat.com",
       "score": 1,
       "final_score": 1,
-      "comments": 3,
-      "posted_at": "2026-11-04T01:07:22Z",
-      "summary_ja": "Title: Cat Wu, product lead for Claude Code, has left Anthropic\nArticle title: Claude Code Leader Cat Wu Exits Anthropic Before Big IPO - Business Insider\nDescription: Cat Wu exits Anthropic before its IPO. She helped boost Claude Code's success with Boris Cherny, making the AI startup a key player.\n\nArticle text:\nBusiness Insider\nSubscribe\nAccount icon\nAccount icon\nSearch\nBusiness\nStrategy\nEconomy\nFinance\nRetail\nAdvertising\nCareers\nLaw\nMedia\nReal Estate\nSmall Business\nThe Better Work Project\nPersonal Finance\nTech\nScience\nAI\nEnterprise\nTransportation\nStartups\nInnovation\nMarkets\nNews\nStocks\nIndices\nCommodities\nCrypto\nCurrencies\nETFs\nLifestyle\nEntertainment\nCulture\nTravel\nFood\nHealth\nEducation\nParenting\nMilitary \u0026 Defense\nPolitics\nReviews\nHome\nKitchen\nStyle\nStreaming\nPets\nTech\nDeals\nGifts\nTickets\nVideo\nBig Business\nSo Expensive\nView From Above\nSmall Business\nAuthorized Account\nRisky Busine…"
+      "comments": 1,
+      "posted_at": "2026-11-04T01:30:30Z",
+      "summary_ja": "Title: Local AI app that runs an 80B model on an 8GB Mac\nArticle title: Yanah.ai — Free Private AI On Your MacBook\n\nArticle text:\nYANAH.ai\nDownload Yanah Chat and you'll have a private, working chatbot, even when the internet is off.\nNeeds an M1 Mac or newer (late 2020 onward)\nFile size ~40GB standard install (up to ~150GB with upcoming 177B)\nDonate\nContact\nArchitecture\nPerformance\nFAQ (Everyone)\nFAQ (Devs)\nThinking Forward\nPrivate Local AI\nAI companies having\nall your private chats?\nYa nah.\nPrivate: your data and your AI stay on your Mac, under your control. No cloud, no subscriptions, no one harvesting your conversations. Huge AI models that shouldn't fit on a laptop, running at chat speed. Private, no-fuss installation. No internet needed to chat. Environmentally sound AI, democratized for the masses.\nHD Space needed is ~40GB standard install (up to 150GB with upcoming 177B).\nDonate\nY…"
     },
     {
-      "rank": 5,
+      "rank": 10,
+      "hn_id": 50362779,
+      "title": "Put a heart next to a coding problem, and Claude and GPT write recursive code",
+      "title_ja": "Put a heart next to a coding problem, and Claude and GPT write recursive code",
+      "hn_url": "https://news.ycombinator.com/item?id=50362779",
+      "source_url": "https://twitter.com/ARTartaglini/status/2117659914873213007",
+      "image_url": "https://pbs.twimg.com/amplify_video_thumb/2117659062120894464/img/3jDLUq1FE-Fc5FIg?format=webp\u0026name=large",
+      "score": 1,
+      "final_score": 1,
+      "comments": 1,
+      "posted_at": "2026-11-04T08:26:45Z",
+      "summary_ja": "Title: Put a heart next to a coding problem, and Claude and GPT write recursive code\nArticle title: Alexa R. Tartaglini on X: \"Put a heart ❤️ next to a coding problem, and Claude \u0026 GPT write recursive code 100% of the time (0% baseline). They also can't tell you why!\nExcited to share “A Heart Means Recursion” from my summer at @GoogleDeepMind, on how VLMs read \u0026 communicate with visual symbols.… /\n[truncated]\nDescription: Put a heart ❤️ next to a coding problem, and Claude \u0026 GPT write recursive code 100% of the time (0% baseline). They also can't tell you why!\nExcited to share “A Heart Means Recursion” from my summer at @GoogleDeepMind, on how VLMs read \u0026 communicate with visual symbols. 🧵\n\nArticle text:\nAlexa R. Tartaglini on X: \"Put a heart ❤️ next to a coding problem, and Claude \u0026 GPT write recursive code 100% of the time (0% baseline). They also can't tell you why!\nExcited to share “…"
+    },
+    {
+      "rank": 11,
       "hn_id": 50360411,
       "title": "Gemini Notebook API",
       "title_ja": "Gemini Notebook API",
@@ -73,20 +155,7 @@
       "summary_ja": "Title: Gemini Notebook API\nArticle title: Gemini Notebook API | Google for Developers\nDescription: Programmatically create and manage notebooks and sources with the Gemini Notebook API.\n\nArticle text:\nGemini Notebook API | Google for Developers\nSkip to main content\nGemini Notebook API\nGemini Notebook API\nStay organized with collections\nSave and categorize content based on your preferences.\nThe Gemini Notebook API is a REST interface for programmatically creating and\nmanaging notebooks and sources in Gemini Notebook. Ingest web pages, YouTube\nvideos, plain text, and Markdown into persistent notebooks.\nEarly Access Public Preview: The Gemini Notebook API and\nMCP server are in an early access Public\nPreview, and we're actively working on our\nroadmap . We'd love to hear what you want\nthe API and MCP server to do. Please\nfile\nfeature requests in our Issue Tracker . We're excited to build this…"
     },
     {
-      "rank": 6,
-      "hn_id": 50360513,
-      "title": "Local AI app that runs an 80B model on an 8GB Mac",
-      "title_ja": "Local AI app that runs an 80B model on an 8GB Mac",
-      "hn_url": "https://news.ycombinator.com/item?id=50360513",
-      "source_url": "https://yanahchat.com",
-      "score": 1,
-      "final_score": 1,
-      "comments": 1,
-      "posted_at": "2026-11-04T01:30:30Z",
-      "summary_ja": "Title: Local AI app that runs an 80B model on an 8GB Mac\nArticle title: Yanah.ai — Free Private AI On Your MacBook\n\nArticle text:\nYANAH.ai\nDownload Yanah Chat and you'll have a private, working chatbot, even when the internet is off.\nNeeds an M1 Mac or newer (late 2020 onward)\nFile size ~40GB standard install (up to ~150GB with upcoming 177B)\nDonate\nContact\nArchitecture\nPerformance\nFAQ (Everyone)\nFAQ (Devs)\nThinking Forward\nPrivate Local AI\nAI companies having\nall your private chats?\nYa nah.\nPrivate: your data and your AI stay on your Mac, under your control. No cloud, no subscriptions, no one harvesting your conversations. Huge AI models that shouldn't fit on a laptop, running at chat speed. Private, no-fuss installation. No internet needed to chat. Environmentally sound AI, democratized for the masses.\nHD Space needed is ~40GB standard install (up to 150GB with upcoming 177B).\nDonate\nY…"
-    },
-    {
-      "rank": 7,
+      "rank": 12,
       "hn_id": 50360457,
       "title": "Writing as an act of rebellion (Despite the AI psychosis)",
       "title_ja": "Writing as an act of rebellion (Despite the AI psychosis)",
@@ -97,6 +166,20 @@
       "comments": 1,
       "posted_at": "2026-11-04T01:21:28Z",
       "summary_ja": "Title: Writing as an act of rebellion (Despite the AI psychosis)"
+    },
+    {
+      "rank": 13,
+      "hn_id": 50360366,
+      "title": "Cat Wu, product lead for Claude Code, has left Anthropic",
+      "title_ja": "Cat Wu, product lead for Claude Code, has left Anthropic",
+      "hn_url": "https://news.ycombinator.com/item?id=50360366",
+      "source_url": "https://www.businessinsider.com/claude-code-leader-cat-wu-exits-anthropic-before-big-ipo-2026-11",
+      "image_url": "https://i.insider.com/6aea5c61cd2cd3a46a0f0872?width=1200\u0026format=jpeg",
+      "score": 1,
+      "final_score": 1,
+      "comments": 3,
+      "posted_at": "2026-11-04T01:07:22Z",
+      "summary_ja": "Title: Cat Wu, product lead for Claude Code, has left Anthropic\nArticle title: Claude Code Leader Cat Wu Exits Anthropic Before Big IPO - Business Insider\nDescription: Cat Wu exits Anthropic before its IPO. She helped boost Claude Code's success with Boris Cherny, making the AI startup a key player.\n\nArticle text:\nBusiness Insider\nSubscribe\nAccount icon\nAccount icon\nSearch\nBusiness\nStrategy\nEconomy\nFinance\nRetail\nAdvertising\nCareers\nLaw\nMedia\nReal Estate\nSmall Business\nThe Better Work Project\nPersonal Finance\nTech\nScience\nAI\nEnterprise\nTransportation\nStartups\nInnovation\nMarkets\nNews\nStocks\nIndices\nCommodities\nCrypto\nCurrencies\nETFs\nLifestyle\nEntertainment\nCulture\nTravel\nFood\nHealth\nEducation\nParenting\nMilitary \u0026 Defense\nPolitics\nReviews\nHome\nKitchen\nStyle\nStreaming\nPets\nTech\nDeals\nGifts\nTickets\nVideo\nBig Business\nSo Expensive\nView From Above\nSmall Business\nAuthorized Account\nRisky Busine…"
     }
   ]
 }

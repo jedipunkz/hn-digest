@@ -1,0 +1,47 @@
+{
+  "date": "2026-11-05",
+  "generated_at": "2026-11-05T03:15:06Z",
+  "articles": [
+    {
+      "rank": 1,
+      "hn_id": 50374332,
+      "title": "Kimi K3.1 Pro writes fake OpenAI ciphertext",
+      "title_ja": "Kimi K3.1 Pro writes fake OpenAI ciphertext",
+      "hn_url": "https://news.ycombinator.com/item?id=50374332",
+      "source_url": "https://www.peterstran.com/projects/kimi-fernet/",
+      "image_url": "https://www.peterstran.com/projects/kimi-fernet/thumbnail.png",
+      "score": 2,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-11-05T02:26:13Z",
+      "summary_ja": "Title: Kimi K3.1 Pro writes fake OpenAI ciphertext\nArticle title: Kimi K3.1 Pro writes fake OpenAI ciphertext – Peter Nutter\nDescription: Kimi K3.1 Pro sometimes sends fake OpenAI Fernet tokens instead of its report, dated late July 2026. Data, methods and caveats.\n\nArticle text:\nKimi K3.1 Pro writes fake OpenAI ciphertext\nGive Kimi K3.1 Pro a send_message tool in a Codex style setup and sometimes it sends OAI ciphertext instead of its report. Or at least something that looks exactly like it\nThe header is right and the body is noise. And the timestamp inside lands in late July 2026. Right when OAI says the distillation campaign it ties to Moonshot was running\nFound this by accident running multi agent evals w Kimi. The harness gives the model Codex’s system prompt and tools. A worker agent solves a task and reports to another agent ( /agent_a ) w send_message\nIn the first run Kimi sent a…"
+    },
+    {
+      "rank": 2,
+      "hn_id": 50374297,
+      "title": "Ask HN: AI Coding Preference",
+      "title_ja": "Ask HN: AI Coding Preference",
+      "hn_url": "https://news.ycombinator.com/item?id=50374297",
+      "source_url": "",
+      "score": 1,
+      "final_score": 1,
+      "comments": 1,
+      "posted_at": "2026-11-05T02:20:41Z",
+      "summary_ja": "Title: Ask HN: AI Coding Preference\nHN text: Do you prefer tabs or spaces with code generated from your AI models?"
+    },
+    {
+      "rank": 3,
+      "hn_id": 50374405,
+      "title": "The New York Times sues Brave web browser for AI scraping and bypassing paywalls",
+      "title_ja": "The New York Times sues Brave web browser for AI scraping and bypassing paywalls",
+      "hn_url": "https://news.ycombinator.com/item?id=50374405",
+      "source_url": "https://www.theverge.com/tech/1024588/brave-lawsuit-ai-scraping-new-york-times",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2289911637.jpg?quality=90\u0026strip=all\u0026crop=0%2C10.232235952618%2C100%2C79.535528094764\u0026w=1200",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-11-05T02:34:42Z",
+      "summary_ja": "Title: The New York Times sues Brave web browser for AI scraping and bypassing paywalls\nArticle title: The New York Times sues Brave web browser for AI scraping and bypassing paywalls | The Verge\nDescription: The New York Times and a group of other publications have filed lawsuits against Brave ​Software over alleged unlawful scraping to train AI and also letting users bypass their paywalls.\n\nArticle text:\nThe New York Times sues Brave web browser for AI scraping and bypassing paywalls | The Verge Skip to main content The homepage The Verge The Verge logo. The Verge The Verge logo. Tech\nNotifications Notifications Hamburger Navigation Button Navigation Drawer The Verge The Verge logo. Login / Sign Up\nSearch Light System Dark Tech Expand Amazon\nReviews Expand Smart Home Reviews\nVerge Shopping Expand Buying Guides\nTransportation Expand Electric Cars\nThe New York Times sues Brave web browse…"
+    }
+  ]
+}

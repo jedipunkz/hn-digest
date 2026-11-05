@@ -1,0 +1,263 @@
+---
+source: "https://github.com/Bosacks/magneta-risk-x402"
+hn_url: "https://news.ycombinator.com/item?id=50377877"
+title: "Smart-contract risk reports that AI agents buy per call over x402"
+article_title: "GitHub - Bosacks/magneta-risk-x402: x402-paid smart-contract risk reports for AI agents (HTTP + MCP), 20 EVM chains, USDC on Base · GitHub"
+image: "https://opengraph.githubassets.com/be733533515301ed23b86a0f272936fced50a9a8c6739e09c0da47968b0baff5/Bosacks/magneta-risk-x402"
+author: "Sentinelleai"
+captured_at: "2026-11-05T11:55:05Z"
+capture_tool: "hn-digest"
+hn_id: 50377877
+score: 1
+comments: 0
+posted_at: "2026-11-05T11:25:43Z"
+tags:
+  - hacker-news
+---
+
+# Smart-contract risk reports that AI agents buy per call over x402
+
+- HN: [50377877](https://news.ycombinator.com/item?id=50377877)
+- Source: [github.com](https://github.com/Bosacks/magneta-risk-x402)
+- Score: 1
+- Comments: 0
+- Posted: 2026-11-05T11:25:43Z
+
+## Translation
+
+Title: Smart-contract risk reports that AI agents buy per call over x402
+Article title: GitHub - Bosacks/magneta-risk-x402: x402-paid smart-contract risk reports for AI agents (HTTP + MCP), 20 EVM chains, USDC on Base · GitHub
+Description: x402-paid smart-contract risk reports for AI agents (HTTP + MCP), 20 EVM chains, USDC on Base - Bosacks/magneta-risk-x402
+
+Article text:
+GitHub - Bosacks/magneta-risk-x402: x402-paid smart-contract risk reports for AI agents (HTTP + MCP), 20 EVM chains, USDC on Base · GitHub
+Skip to content
+Navigation Menu
+Sign in Products Platform GitHub Repository hosting, code review, and collaboration
+Copilot AI coding agent for tasks, projects and automated work
+Build & Ship Actions CI/CD and automation
+Code Quality Quality analysis, fixes, and enforcement
+Codespaces Cloud development environments
+Secure Code Security Vulnerability detection and remediation
+Secret Protection Secret scanning and leak prevention
+Developers Learn Documentation
+Changelog Changelog Your source for the latest features, improvements, and fixes across GitHub products, all in one place.
+Businesses By Stage Enterprises
+Add-ons GitHub Advanced Security Enterprise-grade code security
+Copilot for business Enterprise-grade AI features
+Premium Support Enterprise-grade 24/7 support
+Resources Learn & Connect Documentation
+GitHub Universe GitHub Universe The event for developers, by developers — talks, workshops, and what’s next for GitHub.
+Search / Sign in Sign up Appearance settings
+You signed in with another tab or window. Reload to refresh your session.
+You signed out in another tab or window. Reload to refresh your session.
+You switched accounts on another tab or window. Reload to refresh your session.
+Dismiss alert
+{{ message }}
+Bosacks
+magneta-risk-x402 Public Notifications You must be signed in to change notification settings
+Star 0 ( 0 ) You must be signed in to star a repository
+x402-paid smart-contract risk reports for AI agents (HTTP + MCP), 20 EVM chains, USDC on Base
+Readme MIT license Activity Stars
+0 forks Report repository main Branches Tags Go to file Code Open more actions menu Latest commit
+30 Commits 30 Commits Folders and files
+deploy deploy docs/ launch docs/ launch erc8004 erc8004 packages packages public public scripts scripts skills skills src src test test .env.example .env.example .gitignore .gitignore JOURNAL.md JOURNAL.md LICENSE LICENSE README.md README.md package.json package.json pnpm-lock.yaml pnpm-lock.yaml server.json server.json tsconfig.build.json tsconfig.build.json tsconfig.json tsconfig.json View all files Repository files navigation
+A small production-oriented service that sells an on-chain smart-contract risk report to AI agents, paid per call with
+x402 micropayments (USDC, EIP-3009 exact scheme). One express process, two paid surfaces:
+Both paid surfaces call the same analyzeContract(chainId, address) in src/risk/analyze.ts . The analysis is deterministic and
+uses public data only (RPC, Blockscout, Sourcify, a local aderyn binary). No LLM, no API key for analysis.
+Unknown chain or malformed address returns 400 before any payment is requested. If the analysis itself fails (not a contract,
+upstream error, timeout) the response is an error status and the buyer is not charged (x402 only settles successful responses).
+Supported chains (v1, src/chains.ts ): Base 8453, Base Sepolia 84532, Ethereum 1, Arbitrum One 42161. Override RPCs with RPC_URL_<chainId> .
+{ chainId, address, analyzedAt, isContract, bytecodeSize, proxy, erc20, opcodes, selectors: { found },
+blockscout, sourcify?, aderyn, score, level, flags, notes }
+proxy : { type, implementation, admin? } from EIP-1967 (implementation/admin/beacon), legacy zeppelinos slot, EIP-1822, EIP-1167 clones, or Blockscout's detection. The implementation bytecode is analysed too.
+erc20 : name, symbol, decimals, totalSupply, owner() (and whether it is the zero address), paused() . Each probe is individually try/catch.
+opcodes : SELFDESTRUCT / DELEGATECALL presence from a real opcode walk that skips PUSH data (no substring matching).
+selectors.found : risky signatures (mint, pause, blacklist, fee/tax setters, upgrade, ownership...) whose 4-byte selector appears as a PUSH4 in the bytecode. Heuristic : presence is not proof of reachability (also stated in notes ).
+blockscout / sourcify : verification status, compiler, contract name, creator and creation tx. Blockscout has a 5 s timeout; on failure blockscout: { available: false } . Sourcify is only queried as a fallback when Blockscout is unreachable or reports "unverified". For proxies, the implementation's verification is what counts.
+aderyn : when verified Solidity source is available, sources are written to a temp dir (sanitised paths) and aderyn runs with a 15 s timeout: { ran, counts: { high, low }, top: [{ title, severity, instances }] } , else { ran: false, reason } . It never fails the request.
+Total budget: hard deadline 24 s per analysis. Results are cached in memory for 10 minutes per chainId+address (the payment still happens on every call).
+Score rubric ( src/risk/score.ts )
+Score 0..100, higher = riskier, additive, capped at 100.
+Level: 0-24 low , 25-49 medium , 50-74 high , 75-100 critical . A non-contract address is an error, not a score. The score is a triage signal, not an audit.
+Mainnets: Ethereum (1), OP Mainnet (10), BNB Smart Chain (56), Gnosis (100), Unichain (130), Polygon (137), Sonic (146),
+World Chain (480), Mantle (5000), Base (8453), Arbitrum One (42161), Celo (42220), Avalanche C-Chain (43114), Linea (59144),
+Blast (81457), Scroll (534352). Testnets: Base Sepolia (84532), Sepolia (11155111), OP Sepolia (11155420), Arbitrum Sepolia (421614).
+Chains without a Blockscout instance (BNB, Sonic, Mantle, Avalanche) rely on Sourcify for verified sources. zkSync Era is
+excluded on purpose: EraVM bytecode defeats the opcode and selector heuristics. Compiler remappings from Blockscout or
+Sourcify are written to remappings.txt so aderyn can resolve @openzeppelin/... -style imports.
+Machine-readable description: GET /openapi.json (OpenAPI 3.1, free). Error bodies are JSON with an error code.
+Only a 200 response is settled. Over MCP, the same failures return an isError result with an error message and are not charged.
+Buyers pay in USDC on Base ( eip155:8453 ). When SOLANA_PAY_TO is set, the same routes and tools also accept USDC on
+Solana mainnet ( solana:5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp ), settled by the same Coinbase CDP facilitator, which
+pays the Solana fees. The Solana receiving address must already own a USDC token account (the SDK does not create it).
+pnpm buy-once-svm pays one call from a Solana keypair ( SVM_PRIVATE_KEY , base58 64-byte secret key).
+Free tier, agent skill and client package
+Free preview : GET /v1/flags/:chainId/:address and the MCP tool contract_quick_flags return the bytecode-only part of
+the report (proxy, owner/pause state, risky selectors, opcodes, partial score) with no payment. Rate-limited to 30
+requests per minute per IP. Source verification and aderyn findings are only in the paid report.
+Agent skill : npx skills add Bosacks/magneta-risk-x402 --skill magneta-contract-risk installs
+skills/magneta-contract-risk/SKILL.md , which teaches an agent when and how to
+buy a report over HTTP, MCP or a Coinbase Agentic Wallet.
+Client package : @magnetafinance/contract-risk
+( npm i @magnetafinance/contract-risk @x402/core@2.28.0 @x402/evm@2.28.0 @x402/fetch@2.28.0 viem@2.57.7 , source in
+packages/contract-risk-client ) wraps the x402 payment flow in a typed client and ships tool adapters for LangChain.js, the Vercel AI SDK and
+OpenAI/Anthropic function calling.
+ElizaOS plugin : packages/plugin-elizaos ( @magnetafinance/plugin-contract-risk ) adds the
+actions CONTRACT_QUICK_FLAGS (free) and CONTRACT_RISK_REPORT (paid, capped per payment) to an Eliza agent.
+ERC-8004 identity : the registration file erc8004/agent-registration.json is served at
+/.well-known/agent-registration.json ; scripts/erc8004-register.ts prints the register(string) call for the Base
+IdentityRegistry 0x8004A169FB4a3325136EB29fA0ceB6D2e539a432 .
+pnpm install --ignore-scripts
+cp .env.example .env.local # fill PAY_TO, X402_NETWORK, FACILITATOR_URL (+ CDP keys if cdp)
+pnpm dev # tsx, or: pnpm build && pnpm start
+pnpm type-check && pnpm test # unit tests, no network
+pnpm analyze 84532 0x036CbD53842c5426634e7929541eC2318f3dCF7e # free local run, prints the report
+Buying (needs a funded buyer key, spend cap $0.01 = the price; never put this key on the server):
+BUYER_PRIVATE_KEY=0x... pnpm buy-once # HTTP; prints the report and the PAYMENT-RESPONSE tx hash
+BUYER_PRIVATE_KEY=0x... pnpm buy-once-mcp # same through the MCP tool
+Environment
+PUBLIC_URL (https, no trailing slash): advertised as the MCP resource URL for Bazaar discovery. Behind a reverse proxy the
+server trusts the loopback proxy ( trust proxy = loopback ) so HTTP resource URLs are advertised as https:// ; without
+that, the facilitator rejects discovery with "resource must start with https://".
+pnpm install --ignore-scripts && pnpm build
+rsync -a --exclude node_modules --exclude .env.local --exclude ' scripts/logs ' ./ server:/srv/magneta/risk-x402/ # never overwrite the server's .env.local; then pnpm install --prod --ignore-scripts there
+sudo cp deploy/magneta-risk-x402.service /etc/systemd/system/ && sudo systemctl enable --now magneta-risk-x402
+# add deploy/Caddyfile.snippet to the Caddyfile (vhost x402.magneta.finance -> 127.0.0.1:3011), reload Caddy
+The unit reads /srv/magneta/risk-x402/.env.local . For mainnet set X402_NETWORK=eip155:8453 and FACILITATOR_URL=cdp .
+Aderyn needs its solc download/cache available to the service user (HOME writable).
+Both paid surfaces declare x402 Bazaar discovery metadata with declareDiscoveryExtension from @x402/extensions/bazaar
+(HTTP route with path-parameter schema and output example; MCP tool with input schema), and the bazaarResourceServerExtension
+is registered on the resource server. The metadata appears in the PAYMENT-REQUIRED header ( extensions.bazaar ). Actual
+cataloguing depends on the facilitator: it indexes resources when it settles a payment, so the listing appears only after the
+first real paid call through a Bazaar-enabled facilitator (CDP). The public x402.org testnet facilitator is not expected to list it.
+Production status (2026-10-16)
+Live at https://x402.magneta.finance on Base mainnet ( eip155:8453 ), Coinbase CDP facilitator, $0.01 per call, listed in the
+x402 Bazaar (route /v1/risk/:chainId/:address ). Buyers need USDC on Base and no ETH. The facilitator rejects payments where
+the payer equals payTo ( self_send_not_allowed ).
+MIT, Copyright (c) 2026 Magneta Finance. See LICENSE .
+x402-paid smart-contract risk reports for AI agents (HTTP + MCP), 20 EVM chains, USDC on Base
+Readme MIT license Activity Stars
+0 forks Report repository Releases
+© 2026 GitHub, Inc.
+Footer navigation
+Do not share my personal information
+
+## Original Extract
+
+x402-paid smart-contract risk reports for AI agents (HTTP + MCP), 20 EVM chains, USDC on Base - Bosacks/magneta-risk-x402
+
+GitHub - Bosacks/magneta-risk-x402: x402-paid smart-contract risk reports for AI agents (HTTP + MCP), 20 EVM chains, USDC on Base · GitHub
+Skip to content
+Navigation Menu
+Sign in Products Platform GitHub Repository hosting, code review, and collaboration
+Copilot AI coding agent for tasks, projects and automated work
+Build & Ship Actions CI/CD and automation
+Code Quality Quality analysis, fixes, and enforcement
+Codespaces Cloud development environments
+Secure Code Security Vulnerability detection and remediation
+Secret Protection Secret scanning and leak prevention
+Developers Learn Documentation
+Changelog Changelog Your source for the latest features, improvements, and fixes across GitHub products, all in one place.
+Businesses By Stage Enterprises
+Add-ons GitHub Advanced Security Enterprise-grade code security
+Copilot for business Enterprise-grade AI features
+Premium Support Enterprise-grade 24/7 support
+Resources Learn & Connect Documentation
+GitHub Universe GitHub Universe The event for developers, by developers — talks, workshops, and what’s next for GitHub.
+Search / Sign in Sign up Appearance settings
+You signed in with another tab or window. Reload to refresh your session.
+You signed out in another tab or window. Reload to refresh your session.
+You switched accounts on another tab or window. Reload to refresh your session.
+Dismiss alert
+{{ message }}
+Bosacks
+magneta-risk-x402 Public Notifications You must be signed in to change notification settings
+Star 0 ( 0 ) You must be signed in to star a repository
+x402-paid smart-contract risk reports for AI agents (HTTP + MCP), 20 EVM chains, USDC on Base
+Readme MIT license Activity Stars
+0 forks Report repository main Branches Tags Go to file Code Open more actions menu Latest commit
+30 Commits 30 Commits Folders and files
+deploy deploy docs/ launch docs/ launch erc8004 erc8004 packages packages public public scripts scripts skills skills src src test test .env.example .env.example .gitignore .gitignore JOURNAL.md JOURNAL.md LICENSE LICENSE README.md README.md package.json package.json pnpm-lock.yaml pnpm-lock.yaml server.json server.json tsconfig.build.json tsconfig.build.json tsconfig.json tsconfig.json View all files Repository files navigation
+A small production-oriented service that sells an on-chain smart-contract risk report to AI agents, paid per call with
+x402 micropayments (USDC, EIP-3009 exact scheme). One express process, two paid surfaces:
+Both paid surfaces call the same analyzeContract(chainId, address) in src/risk/analyze.ts . The analysis is deterministic and
+uses public data only (RPC, Blockscout, Sourcify, a local aderyn binary). No LLM, no API key for analysis.
+Unknown chain or malformed address returns 400 before any payment is requested. If the analysis itself fails (not a contract,
+upstream error, timeout) the response is an error status and the buyer is not charged (x402 only settles successful responses).
+Supported chains (v1, src/chains.ts ): Base 8453, Base Sepolia 84532, Ethereum 1, Arbitrum One 42161. Override RPCs with RPC_URL_<chainId> .
+{ chainId, address, analyzedAt, isContract, bytecodeSize, proxy, erc20, opcodes, selectors: { found },
+blockscout, sourcify?, aderyn, score, level, flags, notes }
+proxy : { type, implementation, admin? } from EIP-1967 (implementation/admin/beacon), legacy zeppelinos slot, EIP-1822, EIP-1167 clones, or Blockscout's detection. The implementation bytecode is analysed too.
+erc20 : name, symbol, decimals, totalSupply, owner() (and whether it is the zero address), paused() . Each probe is individually try/catch.
+opcodes : SELFDESTRUCT / DELEGATECALL presence from a real opcode walk that skips PUSH data (no substring matching).
+selectors.found : risky signatures (mint, pause, blacklist, fee/tax setters, upgrade, ownership...) whose 4-byte selector appears as a PUSH4 in the bytecode. Heuristic : presence is not proof of reachability (also stated in notes ).
+blockscout / sourcify : verification status, compiler, contract name, creator and creation tx. Blockscout has a 5 s timeout; on failure blockscout: { available: false } . Sourcify is only queried as a fallback when Blockscout is unreachable or reports "unverified". For proxies, the implementation's verification is what counts.
+aderyn : when verified Solidity source is available, sources are written to a temp dir (sanitised paths) and aderyn runs with a 15 s timeout: { ran, counts: { high, low }, top: [{ title, severity, instances }] } , else { ran: false, reason } . It never fails the request.
+Total budget: hard deadline 24 s per analysis. Results are cached in memory for 10 minutes per chainId+address (the payment still happens on every call).
+Score rubric ( src/risk/score.ts )
+Score 0..100, higher = riskier, additive, capped at 100.
+Level: 0-24 low , 25-49 medium , 50-74 high , 75-100 critical . A non-contract address is an error, not a score. The score is a triage signal, not an audit.
+Mainnets: Ethereum (1), OP Mainnet (10), BNB Smart Chain (56), Gnosis (100), Unichain (130), Polygon (137), Sonic (146),
+World Chain (480), Mantle (5000), Base (8453), Arbitrum One (42161), Celo (42220), Avalanche C-Chain (43114), Linea (59144),
+Blast (81457), Scroll (534352). Testnets: Base Sepolia (84532), Sepolia (11155111), OP Sepolia (11155420), Arbitrum Sepolia (421614).
+Chains without a Blockscout instance (BNB, Sonic, Mantle, Avalanche) rely on Sourcify for verified sources. zkSync Era is
+excluded on purpose: EraVM bytecode defeats the opcode and selector heuristics. Compiler remappings from Blockscout or
+Sourcify are written to remappings.txt so aderyn can resolve @openzeppelin/... -style imports.
+Machine-readable description: GET /openapi.json (OpenAPI 3.1, free). Error bodies are JSON with an error code.
+Only a 200 response is settled. Over MCP, the same failures return an isError result with an error message and are not charged.
+Buyers pay in USDC on Base ( eip155:8453 ). When SOLANA_PAY_TO is set, the same routes and tools also accept USDC on
+Solana mainnet ( solana:5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp ), settled by the same Coinbase CDP facilitator, which
+pays the Solana fees. The Solana receiving address must already own a USDC token account (the SDK does not create it).
+pnpm buy-once-svm pays one call from a Solana keypair ( SVM_PRIVATE_KEY , base58 64-byte secret key).
+Free tier, agent skill and client package
+Free preview : GET /v1/flags/:chainId/:address and the MCP tool contract_quick_flags return the bytecode-only part of
+the report (proxy, owner/pause state, risky selectors, opcodes, partial score) with no payment. Rate-limited to 30
+requests per minute per IP. Source verification and aderyn findings are only in the paid report.
+Agent skill : npx skills add Bosacks/magneta-risk-x402 --skill magneta-contract-risk installs
+skills/magneta-contract-risk/SKILL.md , which teaches an agent when and how to
+buy a report over HTTP, MCP or a Coinbase Agentic Wallet.
+Client package : @magnetafinance/contract-risk
+( npm i @magnetafinance/contract-risk @x402/core@2.28.0 @x402/evm@2.28.0 @x402/fetch@2.28.0 viem@2.57.7 , source in
+packages/contract-risk-client ) wraps the x402 payment flow in a typed client and ships tool adapters for LangChain.js, the Vercel AI SDK and
+OpenAI/Anthropic function calling.
+ElizaOS plugin : packages/plugin-elizaos ( @magnetafinance/plugin-contract-risk ) adds the
+actions CONTRACT_QUICK_FLAGS (free) and CONTRACT_RISK_REPORT (paid, capped per payment) to an Eliza agent.
+ERC-8004 identity : the registration file erc8004/agent-registration.json is served at
+/.well-known/agent-registration.json ; scripts/erc8004-register.ts prints the register(string) call for the Base
+IdentityRegistry 0x8004A169FB4a3325136EB29fA0ceB6D2e539a432 .
+pnpm install --ignore-scripts
+cp .env.example .env.local # fill PAY_TO, X402_NETWORK, FACILITATOR_URL (+ CDP keys if cdp)
+pnpm dev # tsx, or: pnpm build && pnpm start
+pnpm type-check && pnpm test # unit tests, no network
+pnpm analyze 84532 0x036CbD53842c5426634e7929541eC2318f3dCF7e # free local run, prints the report
+Buying (needs a funded buyer key, spend cap $0.01 = the price; never put this key on the server):
+BUYER_PRIVATE_KEY=0x... pnpm buy-once # HTTP; prints the report and the PAYMENT-RESPONSE tx hash
+BUYER_PRIVATE_KEY=0x... pnpm buy-once-mcp # same through the MCP tool
+Environment
+PUBLIC_URL (https, no trailing slash): advertised as the MCP resource URL for Bazaar discovery. Behind a reverse proxy the
+server trusts the loopback proxy ( trust proxy = loopback ) so HTTP resource URLs are advertised as https:// ; without
+that, the facilitator rejects discovery with "resource must start with https://".
+pnpm install --ignore-scripts && pnpm build
+rsync -a --exclude node_modules --exclude .env.local --exclude ' scripts/logs ' ./ server:/srv/magneta/risk-x402/ # never overwrite the server's .env.local; then pnpm install --prod --ignore-scripts there
+sudo cp deploy/magneta-risk-x402.service /etc/systemd/system/ && sudo systemctl enable --now magneta-risk-x402
+# add deploy/Caddyfile.snippet to the Caddyfile (vhost x402.magneta.finance -> 127.0.0.1:3011), reload Caddy
+The unit reads /srv/magneta/risk-x402/.env.local . For mainnet set X402_NETWORK=eip155:8453 and FACILITATOR_URL=cdp .
+Aderyn needs its solc download/cache available to the service user (HOME writable).
+Both paid surfaces declare x402 Bazaar discovery metadata with declareDiscoveryExtension from @x402/extensions/bazaar
+(HTTP route with path-parameter schema and output example; MCP tool with input schema), and the bazaarResourceServerExtension
+is registered on the resource server. The metadata appears in the PAYMENT-REQUIRED header ( extensions.bazaar ). Actual
+cataloguing depends on the facilitator: it indexes resources when it settles a payment, so the listing appears only after the
+first real paid call through a Bazaar-enabled facilitator (CDP). The public x402.org testnet facilitator is not expected to list it.
+Production status (2026-10-16)
+Live at https://x402.magneta.finance on Base mainnet ( eip155:8453 ), Coinbase CDP facilitator, $0.01 per call, listed in the
+x402 Bazaar (route /v1/risk/:chainId/:address ). Buyers need USDC on Base and no ETH. The facilitator rejects payments where
+the payer equals payTo ( self_send_not_allowed ).
+MIT, Copyright (c) 2026 Magneta Finance. See LICENSE .
+x402-paid smart-contract risk reports for AI agents (HTTP + MCP), 20 EVM chains, USDC on Base
+Readme MIT license Activity Stars
+0 forks Report repository Releases
+© 2026 GitHub, Inc.
+Footer navigation
+Do not share my personal information

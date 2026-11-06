@@ -1,6 +1,6 @@
 {
   "date": "2026-11-06",
-  "generated_at": "2026-11-06T00:49:10Z",
+  "generated_at": "2026-11-06T07:43:00Z",
   "articles": [
     {
       "rank": 1,
@@ -30,6 +30,32 @@
     },
     {
       "rank": 3,
+      "hn_id": 50389000,
+      "title": "OpenAI Just Found Nearly 1k Ways to Gain Root Access in Linux",
+      "title_ja": "OpenAI Just Found Nearly 1k Ways to Gain Root Access in Linux",
+      "hn_url": "https://news.ycombinator.com/item?id=50389000",
+      "source_url": "https://hothardware.com/news/openai-just-found-nearly-1000-ways-to-gain-root-access-in-linux",
+      "score": 3,
+      "final_score": 3,
+      "comments": 0,
+      "posted_at": "2026-11-06T06:44:41Z",
+      "summary_ja": "Title: OpenAI Just Found Nearly 1k Ways to Gain Root Access in Linux"
+    },
+    {
+      "rank": 4,
+      "hn_id": 50389097,
+      "title": "I use AI to draft software docs",
+      "title_ja": "I use AI to draft software docs",
+      "hn_url": "https://news.ycombinator.com/item?id=50389097",
+      "source_url": "https://ai-techwriter.com/best-practices/use-ai-to-draft-sw-docs/",
+      "score": 2,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-11-06T07:04:04Z",
+      "summary_ja": "Title: I use AI to draft software docs\nArticle title: How I use AI to draft software docs – | Mike Jang |\nDescription: How I manage AI as if it were an intern\n\nArticle text:\nHow I use AI to draft software docs – | Mike Jang |\nTux\nOverview\nQualifications\nMike's portfolio\nBooks\nRHCSA RHEL 9 (8th Edition)\nBlog posts\nFantasy football 2026\nDisorganized docs: the solution\nMike has unique skills for a Tech Writer\nLinus speaks to PLUG, April 4, 2024\nAI and getting to that first draft, a comedy\nReflections on developer portals\nDeveloper portals and authentication\nConferences\nOpen Source Summit Denver\nConference Talks\nAI the Docs\nJerry and RAG\nIf you thought ChatGPT could explain AI\nJerry explains RAG technically\nHallucinations and Mansplaining\nFix the draft – and the instructions\nHow I use AI to draft software docs\nI’ve been using AI to draft software docs. I treat it much like an intern: I give…"
+    },
+    {
+      "rank": 5,
       "hn_id": 50386516,
       "title": "University libraries are being swarmed by AI bots, putting public access at risk",
       "title_ja": "University libraries are being swarmed by AI bots, putting public access at risk",
@@ -43,7 +69,34 @@
       "summary_ja": "Title: University libraries are being swarmed by AI bots, putting public access at risk\nArticle title: University libraries are being swarmed by AI bots, putting public access at risk | CBC News\nDescription: Academic libraries are fighting off swarms of data-scraping bots — that are slowing or crashing sites meant for students, researchers and the public — as AI companies continue hunting for content to feed their large language models.\n\nArticle text:\nSkip to Main Content Accessibility Help Vote Closes Soon! Choose Canada's Artist for the Eurovision Song Contest 2027 Vote Now Menu Menu Television CBC Gem headphone CBC Listen Search Search Sign In Quick Links News\nUniversity libraries are being swarmed by AI bots, putting public access at risk\nOne school says it was overwhelmed by more than 11,000 searches on Finnish music in just one day\nListen to this article Estimated 6 minutes The aud…"
     },
     {
-      "rank": 4,
+      "rank": 6,
+      "hn_id": 50389124,
+      "title": "AI Bicep Heart",
+      "title_ja": "AI Bicep Heart",
+      "hn_url": "https://news.ycombinator.com/item?id=50389124",
+      "source_url": "https://www.aibicepheart.com",
+      "image_url": "https://www.aibicepheart.com/samples/bicep-heart-og.jpg",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-11-06T07:07:41Z",
+      "summary_ja": "Title: AI Bicep Heart\nArticle title: Bicep Heart AI – Bicep Heart Trend Video From 1 Photo\nDescription: Turn one photo into the viral bicep heart trend video with AI, solo or with the one you love. 7s vertical clip, no watermark, from $4.99.\n\nArticle text:\nBicep Heart AI – Bicep Heart Trend Video From 1 Photo AI Bicep Heart Examples Pricing FAQ Make my video ♥ The viral TikTok bicep heart trend\nBicep Heart AI Video Generator\nUse Bicep Heart AI to turn one photo into the bicep heart trend: a shy smile, one arm in a flex, and your other hand curled against the bicep into a heart. Solo or with the one you love.\nAdd photo Upload one photo Choose photo One adult facing the camera, waist-up, with both arms visible.\nReady in 2–5 minutes · No watermark · Photos auto-deleted after 7 days · 7s 9:16, silent\nHow to use the bicep heart video generator\nChoose a clear, waist-up photo of yourself or ano…"
+    },
+    {
+      "rank": 7,
+      "hn_id": 50389207,
+      "title": "Ask HN: If you had unlimited Claude credits, what would you build and why?",
+      "title_ja": "Ask HN: If you had unlimited Claude credits, what would you build and why?",
+      "hn_url": "https://news.ycombinator.com/item?id=50389207",
+      "source_url": "",
+      "score": 1,
+      "final_score": 1,
+      "comments": 3,
+      "posted_at": "2026-11-06T07:19:59Z",
+      "summary_ja": "Title: Ask HN: If you had unlimited Claude credits, what would you build and why?"
+    },
+    {
+      "rank": 8,
       "hn_id": 50386702,
       "title": "Paper: Nubank cuts AI agent update cycles from 3 weeks to under 5 days",
       "title_ja": "Paper: Nubank cuts AI agent update cycles from 3 weeks to under 5 days",

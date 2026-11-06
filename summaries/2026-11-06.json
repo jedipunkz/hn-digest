@@ -1,0 +1,60 @@
+{
+  "date": "2026-11-06",
+  "generated_at": "2026-11-06T00:49:10Z",
+  "articles": [
+    {
+      "rank": 1,
+      "hn_id": 50386483,
+      "title": "Major Investors Are Skeptical Anthropic IPO Can Achieve $1.5T Valuation",
+      "title_ja": "Major Investors Are Skeptical Anthropic IPO Can Achieve $1.5T Valuation",
+      "hn_url": "https://news.ycombinator.com/item?id=50386483",
+      "source_url": "https://www.wsj.com/finance/major-investors-are-skeptical-anthropic-ipo-can-achieve-1-5-trillion-valuation-ca965d8b",
+      "score": 5,
+      "final_score": 6,
+      "comments": 2,
+      "posted_at": "2026-11-06T00:17:47Z",
+      "summary_ja": "Title: Major Investors Are Skeptical Anthropic IPO Can Achieve $1.5T Valuation"
+    },
+    {
+      "rank": 2,
+      "hn_id": 50386597,
+      "title": "Major Investors Are Skeptical Anthropic IPO Can Achieve $1.5T Valuation",
+      "title_ja": "Major Investors Are Skeptical Anthropic IPO Can Achieve $1.5T Valuation",
+      "hn_url": "https://news.ycombinator.com/item?id=50386597",
+      "source_url": "https://www.wsj.com/finance/major-investors-are-skeptical-anthropic-ipo-can-achieve-1-5-trillion-valuation-ca965d8b’",
+      "score": 4,
+      "final_score": 5,
+      "comments": 0,
+      "posted_at": "2026-11-06T00:31:11Z",
+      "summary_ja": "Title: Major Investors Are Skeptical Anthropic IPO Can Achieve $1.5T Valuation"
+    },
+    {
+      "rank": 3,
+      "hn_id": 50386516,
+      "title": "University libraries are being swarmed by AI bots, putting public access at risk",
+      "title_ja": "University libraries are being swarmed by AI bots, putting public access at risk",
+      "hn_url": "https://news.ycombinator.com/item?id=50386516",
+      "source_url": "https://www.cbc.ca/news/world/university-libraries-ai-data-scraping-bots-9.7408287",
+      "image_url": "https://i.cbc.ca/ais/47809d1c-efd6-4753-9529-d57b9893d8fb,1793831483888/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C64%2C3000%2C1687%29%3BResize%3D620",
+      "score": 1,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-11-06T00:21:25Z",
+      "summary_ja": "Title: University libraries are being swarmed by AI bots, putting public access at risk\nArticle title: University libraries are being swarmed by AI bots, putting public access at risk | CBC News\nDescription: Academic libraries are fighting off swarms of data-scraping bots — that are slowing or crashing sites meant for students, researchers and the public — as AI companies continue hunting for content to feed their large language models.\n\nArticle text:\nSkip to Main Content Accessibility Help Vote Closes Soon! Choose Canada's Artist for the Eurovision Song Contest 2027 Vote Now Menu Menu Television CBC Gem headphone CBC Listen Search Search Sign In Quick Links News\nUniversity libraries are being swarmed by AI bots, putting public access at risk\nOne school says it was overwhelmed by more than 11,000 searches on Finnish music in just one day\nListen to this article Estimated 6 minutes The aud…"
+    },
+    {
+      "rank": 4,
+      "hn_id": 50386702,
+      "title": "Paper: Nubank cuts AI agent update cycles from 3 weeks to under 5 days",
+      "title_ja": "Paper: Nubank cuts AI agent update cycles from 3 weeks to under 5 days",
+      "hn_url": "https://news.ycombinator.com/item?id=50386702",
+      "source_url": "https://arxiv.org/abs/2609.30137",
+      "image_url": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-11-06T00:43:27Z",
+      "summary_ja": "Title: Paper: Nubank cuts AI agent update cycles from 3 weeks to under 5 days\nArticle title: [2609.30137] Screen Before You Serve: Simulation for Production Customer Experience AI Agents at 140M Scale\nDescription: Abstract page for arXiv paper 2609.30137: Screen Before You Serve: Simulation for Production Customer Experience AI Agents at 140M Scale\n\nArticle text:\nSkip to main content\nSearch\nSubmit\nDonate\nLog in\nSearch arXiv\nPress Enter to search · Advanced search\n--\u003e\nComputer Science \u003e Artificial Intelligence\n[Submitted on 24 Sep 2026]\nTitle: Screen Before You Serve: Simulation for Production Customer Experience AI Agents at 140M Scale\nAbstract: Customer experience (CX) agents use tools and large language models to address customer requests and guide conversational interactions with an organization's products. Improving these agents, especially in regulated industries, is difficult: they…"
+    }
+  ]
+}

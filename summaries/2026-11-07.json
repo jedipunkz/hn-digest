@@ -1,0 +1,61 @@
+{
+  "date": "2026-11-07",
+  "generated_at": "2026-11-07T01:40:30Z",
+  "articles": [
+    {
+      "rank": 1,
+      "hn_id": 50400738,
+      "title": "When Alexa can't answer, Claude takes over",
+      "title_ja": "When Alexa can't answer, Claude takes over",
+      "hn_url": "https://news.ycombinator.com/item?id=50400738",
+      "source_url": "https://github.com/rg321/hey-claude",
+      "image_url": "https://opengraph.githubassets.com/6cccc4bd17e75d75d0ae26c8671da59b8fe83b82667617c05367125c06b36f03/rg321/hey-claude",
+      "score": 2,
+      "final_score": 4,
+      "comments": 0,
+      "posted_at": "2026-11-07T01:29:23Z",
+      "summary_ja": "Title: When Alexa can't answer, Claude takes over\nArticle title: GitHub - rg321/hey-claude: When Alexa can't answer, Claude takes over. AI home assistant powered by Claude. · GitHub\nDescription: When Alexa can't answer, Claude takes over. AI home assistant powered by Claude. - rg321/hey-claude\n\nArticle text:\nGitHub - rg321/hey-claude: When Alexa can't answer, Claude takes over. AI home assistant powered by Claude. · GitHub\nSkip to content\nNavigation Menu\nSign in Products Platform GitHub Repository hosting, code review, and collaboration\nCopilot AI coding agent for tasks, projects, and automated work\nBuild \u0026 Ship Actions CI/CD and automation\nCode Quality Quality analysis, fixes, and enforcement\nCodespaces Cloud development environments\nSecure Code Security Vulnerability detection and remediation\nSecret Protection Secret scanning and leak prevention\nDevelopers Learn Documentation\nChangelog…"
+    },
+    {
+      "rank": 2,
+      "hn_id": 50400552,
+      "title": "A woman possibly using AI to help murder her husband – a play",
+      "title_ja": "A woman possibly using AI to help murder her husband – a play",
+      "hn_url": "https://news.ycombinator.com/item?id=50400552",
+      "source_url": "http://awbvious.com/LittleRose.html",
+      "score": 3,
+      "final_score": 3,
+      "comments": 1,
+      "posted_at": "2026-11-07T00:56:12Z",
+      "summary_ja": "Title: A woman possibly using AI to help murder her husband – a play\nArticle title: Little Rose\n\nArticle text:\nRoisin, 40-plus woman, walks around a body lying on the ground, covered in a shroud. She lifts it, looks, puts it down. Starts walking again. Stops, as if something occurred to her, goes back, lifts, and looks again.\nKate, also a 40-plus woman, walks onto the stage holding a manilla folder.\nKate: Sorry? Are those my only options?\nRoisin: You can be neither. Both would probably be too much work.\nRoisin: Roisin. Means “little rose.” I assume that “little” is supposed to be cute. But it makes me think of those cheap spray roses that fill out bouquets. If you give someone a dozen of those, they won’t think cute, they'll just think you're cheap.\nKate: Right. Are you a mom or a whore?\nRoisin: What a weird thing to ask someone you just met. Especially your superior. No. But it's also n…"
+    },
+    {
+      "rank": 3,
+      "hn_id": 50400753,
+      "title": "Reverse Engineering with AI: Your Decompiler Can Lie to You",
+      "title_ja": "Reverse Engineering with AI: Your Decompiler Can Lie to You",
+      "hn_url": "https://news.ycombinator.com/item?id=50400753",
+      "source_url": "https://prod.codes/blog/reverse-engineering-with-ai-your-decompiler-can-lie-to-you/",
+      "image_url": "https://prod.codes/img/xref/card-xref-engineering-experience.jpg",
+      "score": 2,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-11-07T01:31:19Z",
+      "summary_ja": "Title: Reverse Engineering with AI: Your Decompiler Can Lie to You\nDescription: A field name, 2,000 look-alike functions and a wrong pseudo-C branch: an XRef walkthrough in which every conclusion is checked against machine instructions.\n\nArticle text:\nSkip to content everything before it matters Projects Blog About RSS On this page What the public example actually is\nA key string is a starting point, not a field\nA field’s address and the value stored there are different things\nAn access range is not a struct declaration\nTwo thousand functions that look like the answer\nWhat ranking gives you, and what it doesn’t\nAsk where the base pointer came from\nOne function, different call sites, different questions\nLook at the candidate from another angle\nAn empty answer should explain itself\nFast repeats: what can be cached and what can’t\nA workflow you can hand to an agent\nReverse Engineering with…"
+    },
+    {
+      "rank": 4,
+      "hn_id": 50400511,
+      "title": "Show HN: SlopSlot – a slot machine inside Claude Code",
+      "title_ja": "Show HN: SlopSlot – a slot machine inside Claude Code",
+      "hn_url": "https://news.ycombinator.com/item?id=50400511",
+      "source_url": "https://github.com/gajus/slopslot",
+      "image_url": "https://opengraph.githubassets.com/293eab3cb2f9df3101496c5417cdc3035d95e1cb9719da35dfdf409c9ef3e905/gajus/slopslot",
+      "score": 1,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-11-07T00:48:29Z",
+      "summary_ja": "Title: Show HN: SlopSlot – a slot machine inside Claude Code\nArticle title: GitHub - gajus/slopslot: A slot machine inside Claude Code · GitHub\nDescription: A slot machine inside Claude Code. Contribute to gajus/slopslot development by creating an account on GitHub.\nHN text: Because that's how it feels like. claude plugin install slopslot --marketplace gajus/slopslot\n\nArticle text:\nGitHub - gajus/slopslot: A slot machine inside Claude Code · GitHub\nSkip to content\nNavigation Menu\nSign in Products Platform GitHub Repository hosting, code review, and collaboration\nCopilot AI coding agent for tasks, projects, and automated work\nBuild \u0026 Ship Actions CI/CD and automation\nCode Quality Quality analysis, fixes, and enforcement\nCodespaces Cloud development environments\nSecure Code Security Vulnerability detection and remediation\nSecret Protection Secret scanning and leak prevention\nDevelopers Lea…"
+    }
+  ]
+}

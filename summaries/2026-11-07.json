@@ -1,6 +1,6 @@
 {
   "date": "2026-11-07",
-  "generated_at": "2026-11-07T08:26:09Z",
+  "generated_at": "2026-11-07T15:29:03Z",
   "articles": [
     {
       "rank": 1,
@@ -44,6 +44,20 @@
     },
     {
       "rank": 4,
+      "hn_id": 50405124,
+      "title": "Honeycomb Team Agents: AI SRE Done Right",
+      "title_ja": "Honeycomb Team Agents: AI SRE Done Right",
+      "hn_url": "https://news.ycombinator.com/item?id=50405124",
+      "source_url": "https://www.honeycomb.io/blog/honeycomb-team-agents-ai-sre-done-right",
+      "image_url": "https://cdn.sanity.io/images/927dxq0h/production/143ed4c976a8e648aa2ff34592bdbf54d7a00800-5760x3240.png?rect=0,115,5760,3010\u0026w=1200\u0026h=627\u0026fit=crop",
+      "score": 1,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-11-07T14:59:40Z",
+      "summary_ja": "Title: Honeycomb Team Agents: AI SRE Done Right\nDescription: Introducing Honeycomb Team Agents: AI SRE coworkers that proactively check releases, instrumentation, cost, and agent quality, not just respond to alerts.\n\nArticle text:\nHoneycomb Team Agents: AI SRE Done Right Going to AWS re:Invent 2026? Join us at booth 1871 for demos, giveaways, and more. Going to AWS re:Invent 2026? Join us at booth 1871 for demos, giveaways, and more. Meet with us Platform Understand Your Systems Investigate with Agents Observe AI Systems Manage Telemetry Operate at Scale Platform Overview Understand and debug complex software and AI systems with full production context. Explore See how your apps, services and experiences connect.\nDistributed Tracing Follow requests across services and AI workflows.\nLog Analytics Explore structured logs to find issues faster.\nTime Series Metrics Track trends and investiga…"
+    },
+    {
+      "rank": 5,
       "hn_id": 50400753,
       "title": "Reverse Engineering with AI: Your Decompiler Can Lie to You",
       "title_ja": "Reverse Engineering with AI: Your Decompiler Can Lie to You",
@@ -57,7 +71,7 @@
       "summary_ja": "Title: Reverse Engineering with AI: Your Decompiler Can Lie to You\nDescription: A field name, 2,000 look-alike functions and a wrong pseudo-C branch: an XRef walkthrough in which every conclusion is checked against machine instructions.\n\nArticle text:\nSkip to content everything before it matters Projects Blog About RSS On this page What the public example actually is\nA key string is a starting point, not a field\nA field’s address and the value stored there are different things\nAn access range is not a struct declaration\nTwo thousand functions that look like the answer\nWhat ranking gives you, and what it doesn’t\nAsk where the base pointer came from\nOne function, different call sites, different questions\nLook at the candidate from another angle\nAn empty answer should explain itself\nFast repeats: what can be cached and what can’t\nA workflow you can hand to an agent\nReverse Engineering with…"
     },
     {
-      "rank": 5,
+      "rank": 6,
       "hn_id": 50400511,
       "title": "Show HN: SlopSlot – a slot machine inside Claude Code",
       "title_ja": "Show HN: SlopSlot – a slot machine inside Claude Code",
@@ -69,6 +83,60 @@
       "comments": 0,
       "posted_at": "2026-11-07T00:48:29Z",
       "summary_ja": "Title: Show HN: SlopSlot – a slot machine inside Claude Code\nArticle title: GitHub - gajus/slopslot: A slot machine inside Claude Code · GitHub\nDescription: A slot machine inside Claude Code. Contribute to gajus/slopslot development by creating an account on GitHub.\nHN text: Because that's how it feels like. claude plugin install slopslot --marketplace gajus/slopslot\n\nArticle text:\nGitHub - gajus/slopslot: A slot machine inside Claude Code · GitHub\nSkip to content\nNavigation Menu\nSign in Products Platform GitHub Repository hosting, code review, and collaboration\nCopilot AI coding agent for tasks, projects, and automated work\nBuild \u0026 Ship Actions CI/CD and automation\nCode Quality Quality analysis, fixes, and enforcement\nCodespaces Cloud development environments\nSecure Code Security Vulnerability detection and remediation\nSecret Protection Secret scanning and leak prevention\nDevelopers Lea…"
+    },
+    {
+      "rank": 7,
+      "hn_id": 50404938,
+      "title": "AI agents are getting more complex. Developers shouldn't have to babysit them",
+      "title_ja": "AI agents are getting more complex. Developers shouldn't have to babysit them",
+      "hn_url": "https://news.ycombinator.com/item?id=50404938",
+      "source_url": "https://thenewstack.io/harness-engineering-coding-agents/",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-11-07T14:39:40Z",
+      "summary_ja": "Title: AI agents are getting more complex. Developers shouldn't have to babysit them"
+    },
+    {
+      "rank": 8,
+      "hn_id": 50405050,
+      "title": "Google AI's Opinions on How Ansible Has Changed",
+      "title_ja": "Google AI's Opinions on How Ansible Has Changed",
+      "hn_url": "https://news.ycombinator.com/item?id=50405050",
+      "source_url": "https://laserllama.substack.com/p/google-ais-opinions-on-how-ansible",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-11-07T14:52:24Z",
+      "summary_ja": "Title: Google AI's Opinions on How Ansible Has Changed"
+    },
+    {
+      "rank": 9,
+      "hn_id": 50405330,
+      "title": "Securing AI Agents [at Uber]: Lessons from Real-World Deployment",
+      "title_ja": "Securing AI Agents [at Uber]: Lessons from Real-World Deployment",
+      "hn_url": "https://news.ycombinator.com/item?id=50405330",
+      "source_url": "https://www.uber.com/us/en/blog/securing-ai-agents/",
+      "image_url": "https://tb-static.uber.com/prod/udam-assets/78f00b91-097e-4094-961c-04e03225132c.png",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-11-07T15:23:58Z",
+      "summary_ja": "Title: Securing AI Agents [at Uber]: Lessons from Real-World Deployment\nArticle title: Securing AI Agents: Lessons From Real-World Deployment\nDescription: Uber\n\nArticle text:\nSkip to main content\n×\nBrowser not supported\nThis probably isn't the experience you were expecting. Internet Explorer isn't supported on Uber.com. Try switching to a different browser to view our site.\nExplore Products Advertising Learn more about advertising on Uber. Reach consumers as they go anywhere and get anything.\nResources for driving and delivering with Uber\nExperiences and information for people on the move\nOrdering meals for delivery is just the beginning with Uber Eats\nPutting stores within reach of a world of customers\nTransforming the way companies move and feed their people\nMoving care forward together with medical providers\nEnhancing campus transportation\nExpanding the reach of public transportation…"
+    },
+    {
+      "rank": 10,
+      "hn_id": 50405170,
+      "title": "Show HN: Vondet – A planning board Claude keeps, so you don't have to",
+      "title_ja": "Show HN: Vondet – A planning board Claude keeps, so you don't have to",
+      "hn_url": "https://news.ycombinator.com/item?id=50405170",
+      "source_url": "https://vondet.com/en?ref=hn",
+      "image_url": "https://vondet.com/og/vondet-en-20261107-1200x630.png",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-11-07T15:06:46Z",
+      "summary_ja": "Title: Show HN: Vondet – A planning board Claude keeps, so you don't have to\nArticle title: Vondet — Claude keeps your plan on a board, so you don't have to.\nDescription: A board your AI writes to. Instead of a fresh summary every conversation, it stacks into one plan.\nHN text: Hi HN, Vondet is a planning board, but you don't write on it.\nClaude writes to Vondet via an MCP connection. As I worked on my product with Claude, my Markdown files gradually piled up. There were files like “beta plan”, “v1 plan”, and “development plan v0.5.”\nI asked Claude to tidy them up. It created a new file “next-milestone plan v0.1” Haha. I spent too much time trying to remember what I planned. So I built a tool to keep plans and decisions in one place. It's ready for Claude to refer to in future sessions. Claude can use the board to:\n- Read: Tasks, decision logs, topics\n- Plan: Capture, update, and order t…"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "date": "2026-11-07",
-  "generated_at": "2026-11-07T01:40:30Z",
+  "generated_at": "2026-11-07T08:26:09Z",
   "articles": [
     {
       "rank": 1,
@@ -31,6 +31,19 @@
     },
     {
       "rank": 3,
+      "hn_id": 50402602,
+      "title": "Inter-AI Morality: How AI Systems Treat One Another [pdf]",
+      "title_ja": "Inter-AI Morality: How AI Systems Treat One Another [pdf]",
+      "hn_url": "https://news.ycombinator.com/item?id=50402602",
+      "source_url": "https://digitalminds.cam/inter-ai-morality.pdf",
+      "score": 3,
+      "final_score": 3,
+      "comments": 0,
+      "posted_at": "2026-11-07T08:02:02Z",
+      "summary_ja": "Title: Inter-AI Morality: How AI Systems Treat One Another [pdf]"
+    },
+    {
+      "rank": 4,
       "hn_id": 50400753,
       "title": "Reverse Engineering with AI: Your Decompiler Can Lie to You",
       "title_ja": "Reverse Engineering with AI: Your Decompiler Can Lie to You",
@@ -44,7 +57,7 @@
       "summary_ja": "Title: Reverse Engineering with AI: Your Decompiler Can Lie to You\nDescription: A field name, 2,000 look-alike functions and a wrong pseudo-C branch: an XRef walkthrough in which every conclusion is checked against machine instructions.\n\nArticle text:\nSkip to content everything before it matters Projects Blog About RSS On this page What the public example actually is\nA key string is a starting point, not a field\nA field’s address and the value stored there are different things\nAn access range is not a struct declaration\nTwo thousand functions that look like the answer\nWhat ranking gives you, and what it doesn’t\nAsk where the base pointer came from\nOne function, different call sites, different questions\nLook at the candidate from another angle\nAn empty answer should explain itself\nFast repeats: what can be cached and what can’t\nA workflow you can hand to an agent\nReverse Engineering with…"
     },
     {
-      "rank": 4,
+      "rank": 5,
       "hn_id": 50400511,
       "title": "Show HN: SlopSlot – a slot machine inside Claude Code",
       "title_ja": "Show HN: SlopSlot – a slot machine inside Claude Code",

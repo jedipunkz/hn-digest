@@ -1,6 +1,6 @@
 {
   "date": "2026-11-07",
-  "generated_at": "2026-11-07T19:56:22Z",
+  "generated_at": "2026-11-07T23:28:58Z",
   "articles": [
     {
       "rank": 1,
@@ -44,20 +44,6 @@
     },
     {
       "rank": 4,
-      "hn_id": 50407370,
-      "title": "RigHaven – Self-hosted execution harness for AI agents",
-      "title_ja": "RigHaven – Self-hosted execution harness for AI agents",
-      "hn_url": "https://news.ycombinator.com/item?id=50407370",
-      "source_url": "https://github.com/ggmm82/righaven",
-      "image_url": "https://opengraph.githubassets.com/926aa00dc9fadaff50f89cdaca4bc72ec0b691cce24559ffb248da9b7f98f5eb/ggmm82/righaven",
-      "score": 1,
-      "final_score": 2,
-      "comments": 0,
-      "posted_at": "2026-11-07T19:40:06Z",
-      "summary_ja": "Title: RigHaven – Self-hosted execution harness for AI agents\nArticle title: GitHub - ggmm82/righaven · GitHub\nDescription: Contribute to ggmm82/righaven development by creating an account on GitHub.\n\nArticle text:\nGitHub - ggmm82/righaven · GitHub\nSkip to content\nNavigation Menu\nSign in Products Platform GitHub Repository hosting, code review, and collaboration\nCopilot AI coding agent for tasks, projects, and automated work\nBuild \u0026 Ship Actions CI/CD and automation\nCode Quality Quality analysis, fixes, and enforcement\nCodespaces Cloud development environments\nSecure Code Security Vulnerability detection and remediation\nSecret Protection Secret scanning and leak prevention\nDevelopers Learn Documentation\nChangelog Changelog Your source for the latest features, improvements, and fixes across GitHub products, all in one place.\nBusinesses By Stage Enterprises\nAdd-ons GitHub Advanced Security…"
-    },
-    {
-      "rank": 5,
       "hn_id": 50407455,
       "title": "Why the Best AI Clouds Don't Run on Flash Alone",
       "title_ja": "Why the Best AI Clouds Don't Run on Flash Alone",
@@ -71,7 +57,7 @@
       "summary_ja": "Title: Why the Best AI Clouds Don't Run on Flash Alone\nArticle title: Why AI Clouds Need a Tiered Storage Architecture\nDescription: Learn how tiered AI storage helps neoclouds control costs, avoid hyperscaler lock-in, and retain data across the entire AI lifecycle.\n\nArticle text:\nCloud Storage Tips, stories, insights, investigations, and how-tos about cloud storage.\nBacking Up Topics related to backing up data, including backup strategies and techniques, and technical details and insights about backup.\nBusiness Lab Bootstrapping, start-up tales and challenges, marketing mayhem, and more.\nBackblaze Bits Topics related to Backblaze products and releases, as well as Backblaze new hires, job postings, things around the office, irreverent humor, and more.\nTech Lab Articles that explore our technical content more deeply, and are often geared towards our developer audience.\nPartner News Your sp…"
     },
     {
-      "rank": 6,
+      "rank": 5,
       "hn_id": 50407043,
       "title": "Some thoughts on AI, scientific papers, and peer review",
       "title_ja": "Some thoughts on AI, scientific papers, and peer review",
@@ -84,7 +70,7 @@
       "summary_ja": "Title: Some thoughts on AI, scientific papers, and peer review\nArticle title: Some thoughts on AI, scientific papers, and peer review | Alek Petty\n\nArticle text:\nSome thoughts on AI, scientific papers, and peer review\nSome thoughts on AI, scientific papers, and peer review\nSome thoughts on AI, scientific papers, and peer review\nI posted on LinkedIn the other day a light rant about AI in science, and especially within my field of climate science. In this post I want to flesh out some more thoughts related to scientific papers and peer review, I'll cover some of the other topics in future posts.\nI think it's important to start by stressing that even before the recent AI explosion, peer review and the publication process has not exactly been thriving. Recent papers I've been involved with are, on average, crawling through the peer review system. Editors I know have all emphasized that findi…"
     },
     {
-      "rank": 7,
+      "rank": 6,
       "hn_id": 50400511,
       "title": "Show HN: SlopSlot – a slot machine inside Claude Code",
       "title_ja": "Show HN: SlopSlot – a slot machine inside Claude Code",
@@ -98,7 +84,35 @@
       "summary_ja": "Title: Show HN: SlopSlot – a slot machine inside Claude Code\nArticle title: GitHub - gajus/slopslot: A slot machine inside Claude Code · GitHub\nDescription: A slot machine inside Claude Code. Contribute to gajus/slopslot development by creating an account on GitHub.\nHN text: Because that's how it feels like. claude plugin install slopslot --marketplace gajus/slopslot\n\nArticle text:\nGitHub - gajus/slopslot: A slot machine inside Claude Code · GitHub\nSkip to content\nNavigation Menu\nSign in Products Platform GitHub Repository hosting, code review, and collaboration\nCopilot AI coding agent for tasks, projects, and automated work\nBuild \u0026 Ship Actions CI/CD and automation\nCode Quality Quality analysis, fixes, and enforcement\nCodespaces Cloud development environments\nSecure Code Security Vulnerability detection and remediation\nSecret Protection Secret scanning and leak prevention\nDevelopers Lea…"
     },
     {
+      "rank": 7,
+      "hn_id": 50408688,
+      "title": "Dragon Ball AI",
+      "title_ja": "Dragon Ball AI",
+      "hn_url": "https://news.ycombinator.com/item?id=50408688",
+      "source_url": "https://www.jaymehoffman.com/writing/dragon-ball-ai/",
+      "image_url": "https://jaymehoffman.com/og/writing-dragon-ball-ai.png",
+      "score": 2,
+      "final_score": 2,
+      "comments": 1,
+      "posted_at": "2026-11-07T22:35:18Z",
+      "summary_ja": "Title: Dragon Ball AI\nArticle title: Dragon Ball AI · Jayme Hoffman\nDescription: With AI, it already feels like we’ve summoned the Eternal Dragon, capable of granting almost any wish. Except that we don’t have to stop at one.\n\nArticle text:\nDragon Ball AI · Jayme Hoffman Jayme Hoffman / Writing 𝕏 Dragon Ball AI\nThis week, I started watching Dragon Ball , the 1986 anime, with my two children.\nGoku, a little boy with superhuman strength who was raised in the wilderness by his grandpa, teams up with Bulma, a teenage girl from the city, to find all seven Dragon Balls and summon Shenron, a wish-granting dragon.\nGoku joins for the adventure. Bulma wants to wish for a boyfriend, and Emperor Pilaf, the villain, wants to use his wish to rule the world.\nSeeing what each character wanted to wish for and how the dragon could make it happen reminded me of AI.\nWith AI, it already feels like we’ve summ…"
+    },
+    {
       "rank": 8,
+      "hn_id": 50407370,
+      "title": "RigHaven – Self-hosted execution harness for AI agents",
+      "title_ja": "RigHaven – Self-hosted execution harness for AI agents",
+      "hn_url": "https://news.ycombinator.com/item?id=50407370",
+      "source_url": "https://github.com/ggmm82/righaven",
+      "image_url": "https://opengraph.githubassets.com/926aa00dc9fadaff50f89cdaca4bc72ec0b691cce24559ffb248da9b7f98f5eb/ggmm82/righaven",
+      "score": 1,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-11-07T19:40:06Z",
+      "summary_ja": "Title: RigHaven – Self-hosted execution harness for AI agents\nArticle title: GitHub - ggmm82/righaven · GitHub\nDescription: Contribute to ggmm82/righaven development by creating an account on GitHub.\n\nArticle text:\nGitHub - ggmm82/righaven · GitHub\nSkip to content\nNavigation Menu\nSign in Products Platform GitHub Repository hosting, code review, and collaboration\nCopilot AI coding agent for tasks, projects, and automated work\nBuild \u0026 Ship Actions CI/CD and automation\nCode Quality Quality analysis, fixes, and enforcement\nCodespaces Cloud development environments\nSecure Code Security Vulnerability detection and remediation\nSecret Protection Secret scanning and leak prevention\nDevelopers Learn Documentation\nChangelog Changelog Your source for the latest features, improvements, and fixes across GitHub products, all in one place.\nBusinesses By Stage Enterprises\nAdd-ons GitHub Advanced Security…"
+    },
+    {
+      "rank": 9,
       "hn_id": 50405124,
       "title": "Honeycomb Team Agents: AI SRE Done Right",
       "title_ja": "Honeycomb Team Agents: AI SRE Done Right",
@@ -112,7 +126,7 @@
       "summary_ja": "Title: Honeycomb Team Agents: AI SRE Done Right\nDescription: Introducing Honeycomb Team Agents: AI SRE coworkers that proactively check releases, instrumentation, cost, and agent quality, not just respond to alerts.\n\nArticle text:\nHoneycomb Team Agents: AI SRE Done Right Going to AWS re:Invent 2026? Join us at booth 1871 for demos, giveaways, and more. Going to AWS re:Invent 2026? Join us at booth 1871 for demos, giveaways, and more. Meet with us Platform Understand Your Systems Investigate with Agents Observe AI Systems Manage Telemetry Operate at Scale Platform Overview Understand and debug complex software and AI systems with full production context. Explore See how your apps, services and experiences connect.\nDistributed Tracing Follow requests across services and AI workflows.\nLog Analytics Explore structured logs to find issues faster.\nTime Series Metrics Track trends and investiga…"
     },
     {
-      "rank": 9,
+      "rank": 10,
       "hn_id": 50400753,
       "title": "Reverse Engineering with AI: Your Decompiler Can Lie to You",
       "title_ja": "Reverse Engineering with AI: Your Decompiler Can Lie to You",
@@ -126,21 +140,46 @@
       "summary_ja": "Title: Reverse Engineering with AI: Your Decompiler Can Lie to You\nDescription: A field name, 2,000 look-alike functions and a wrong pseudo-C branch: an XRef walkthrough in which every conclusion is checked against machine instructions.\n\nArticle text:\nSkip to content everything before it matters Projects Blog About RSS On this page What the public example actually is\nA key string is a starting point, not a field\nA field’s address and the value stored there are different things\nAn access range is not a struct declaration\nTwo thousand functions that look like the answer\nWhat ranking gives you, and what it doesn’t\nAsk where the base pointer came from\nOne function, different call sites, different questions\nLook at the candidate from another angle\nAn empty answer should explain itself\nFast repeats: what can be cached and what can’t\nA workflow you can hand to an agent\nReverse Engineering with…"
     },
     {
-      "rank": 10,
-      "hn_id": 50407219,
-      "title": "Day AI: Context Graph and Agent Control Plane for GTM",
-      "title_ja": "Day AI: Context Graph and Agent Control Plane for GTM",
-      "hn_url": "https://news.ycombinator.com/item?id=50407219",
-      "source_url": "https://day.ai/",
-      "image_url": "https://day.ai/og-image.png",
+      "rank": 11,
+      "hn_id": 50408887,
+      "title": "Responsible Use of Artificial Intelligence",
+      "title_ja": "Responsible Use of Artificial Intelligence",
+      "hn_url": "https://news.ycombinator.com/item?id=50408887",
+      "source_url": "https://www.nature.com/articles/s41561-026-02149-0",
       "score": 1,
       "final_score": 1,
       "comments": 0,
-      "posted_at": "2026-11-07T19:24:33Z",
-      "summary_ja": "Title: Day AI: Context Graph and Agent Control Plane for GTM\nArticle title: Day AI | Context Graph and Agent Control Plane for GTM\nDescription: Day AI provides the context graph and agent control plane to quickly and securely upgrade your company brain.\n\nArticle text:\nDay AI | Context Graph and Agent Control Plane for GTM\niframe on purpose: without JavaScript none of the\nopt-out checks (GPC, manual opt-out, EU/UK/CH region) can run, so\nloading GTM there would bypass every one of them. --\u003e\nNEW Life After CRM read the manifesto -\u003e Day AI Use Cases Life After CRM Partner Pricing About Log In Get Started eval build deploy secure accelerate scale your company brain\nDay AI provides the context graph and agent control plane to quickly and securely upgrade your go-to-market harness.\nCopy onboarding prompt Copied Copied Couldn’t copy Couldn’t copy\n╔═══════════╗ ╔══════════════════╗\n║ Slack ║ ░░ ─…"
+      "posted_at": "2026-11-07T23:02:46Z",
+      "summary_ja": "Title: Responsible Use of Artificial Intelligence\nArticle title: Client Challenge\n\nArticle text:\nClient Challenge\nA required part of this site couldn’t load. This may be due to a browser\nextension, network issues, or browser settings. Please check your\nconnection, disable any ad blockers, or try using a different browser."
     },
     {
-      "rank": 11,
+      "rank": 12,
+      "hn_id": 50408834,
+      "title": "Initial submission of Mellonbot – an AI agent for Linux server diagnostics",
+      "title_ja": "Initial submission of Mellonbot – an AI agent for Linux server diagnostics",
+      "hn_url": "https://news.ycombinator.com/item?id=50408834",
+      "source_url": "https://www.mellonbot.app",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-11-07T22:57:12Z",
+      "summary_ja": "Title: Initial submission of Mellonbot – an AI agent for Linux server diagnostics\nArticle title: Mellonbot — AI agent that fixes website problems: downtime, hacks, slow pages\nDescription: Website down, slow, hacked or “Not secure”? Mellonbot’s AI investigates your site and the server behind it, explains the real cause in plain words and fixes it with your OK. Free plan.\n\nArticle text:\nMellonbot — AI agent that fixes website problems: downtime, hacks, slow pages mellonbot How it works What it fixes Security Pricing Sign in Get started AI website agent · free plan\nWebsite down, slow or hacked? Mellonbot finds out why and fixes it.\nDatabase errors, expired certificates, failing backups, attacks, slow pages. Mellonbot’s AI digs through your site and the server it runs on, tells you the real cause in plain words and fixes it once you say OK.\n1 of 6 : Your site says “Error establishing a datab…"
+    },
+    {
+      "rank": 13,
+      "hn_id": 50405050,
+      "title": "Google AI's Opinions on How Ansible Has Changed",
+      "title_ja": "Google AI's Opinions on How Ansible Has Changed",
+      "hn_url": "https://news.ycombinator.com/item?id=50405050",
+      "source_url": "https://laserllama.substack.com/p/google-ais-opinions-on-how-ansible",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-11-07T14:52:24Z",
+      "summary_ja": "Title: Google AI's Opinions on How Ansible Has Changed"
+    },
+    {
+      "rank": 14,
       "hn_id": 50405330,
       "title": "Securing AI Agents [at Uber]: Lessons from Real-World Deployment",
       "title_ja": "Securing AI Agents [at Uber]: Lessons from Real-World Deployment",
@@ -154,20 +193,21 @@
       "summary_ja": "Title: Securing AI Agents [at Uber]: Lessons from Real-World Deployment\nArticle title: Securing AI Agents: Lessons From Real-World Deployment\nDescription: Uber\n\nArticle text:\nSkip to main content\n×\nBrowser not supported\nThis probably isn't the experience you were expecting. Internet Explorer isn't supported on Uber.com. Try switching to a different browser to view our site.\nExplore Products Advertising Learn more about advertising on Uber. Reach consumers as they go anywhere and get anything.\nResources for driving and delivering with Uber\nExperiences and information for people on the move\nOrdering meals for delivery is just the beginning with Uber Eats\nPutting stores within reach of a world of customers\nTransforming the way companies move and feed their people\nMoving care forward together with medical providers\nEnhancing campus transportation\nExpanding the reach of public transportation…"
     },
     {
-      "rank": 12,
-      "hn_id": 50405050,
-      "title": "Google AI's Opinions on How Ansible Has Changed",
-      "title_ja": "Google AI's Opinions on How Ansible Has Changed",
-      "hn_url": "https://news.ycombinator.com/item?id=50405050",
-      "source_url": "https://laserllama.substack.com/p/google-ais-opinions-on-how-ansible",
+      "rank": 15,
+      "hn_id": 50407219,
+      "title": "Day AI: Context Graph and Agent Control Plane for GTM",
+      "title_ja": "Day AI: Context Graph and Agent Control Plane for GTM",
+      "hn_url": "https://news.ycombinator.com/item?id=50407219",
+      "source_url": "https://day.ai/",
+      "image_url": "https://day.ai/og-image.png",
       "score": 1,
       "final_score": 1,
       "comments": 0,
-      "posted_at": "2026-11-07T14:52:24Z",
-      "summary_ja": "Title: Google AI's Opinions on How Ansible Has Changed"
+      "posted_at": "2026-11-07T19:24:33Z",
+      "summary_ja": "Title: Day AI: Context Graph and Agent Control Plane for GTM\nArticle title: Day AI | Context Graph and Agent Control Plane for GTM\nDescription: Day AI provides the context graph and agent control plane to quickly and securely upgrade your company brain.\n\nArticle text:\nDay AI | Context Graph and Agent Control Plane for GTM\niframe on purpose: without JavaScript none of the\nopt-out checks (GPC, manual opt-out, EU/UK/CH region) can run, so\nloading GTM there would bypass every one of them. --\u003e\nNEW Life After CRM read the manifesto -\u003e Day AI Use Cases Life After CRM Partner Pricing About Log In Get Started eval build deploy secure accelerate scale your company brain\nDay AI provides the context graph and agent control plane to quickly and securely upgrade your go-to-market harness.\nCopy onboarding prompt Copied Copied Couldn’t copy Couldn’t copy\n╔═══════════╗ ╔══════════════════╗\n║ Slack ║ ░░ ─…"
     },
     {
-      "rank": 13,
+      "rank": 16,
       "hn_id": 50405170,
       "title": "Show HN: Vondet – A planning board Claude keeps, so you don't have to",
       "title_ja": "Show HN: Vondet – A planning board Claude keeps, so you don't have to",
@@ -181,7 +221,7 @@
       "summary_ja": "Title: Show HN: Vondet – A planning board Claude keeps, so you don't have to\nArticle title: Vondet — Claude keeps your plan on a board, so you don't have to.\nDescription: A board your AI writes to. Instead of a fresh summary every conversation, it stacks into one plan.\nHN text: Hi HN, Vondet is a planning board, but you don't write on it.\nClaude writes to Vondet via an MCP connection. As I worked on my product with Claude, my Markdown files gradually piled up. There were files like “beta plan”, “v1 plan”, and “development plan v0.5.”\nI asked Claude to tidy them up. It created a new file “next-milestone plan v0.1” Haha. I spent too much time trying to remember what I planned. So I built a tool to keep plans and decisions in one place. It's ready for Claude to refer to in future sessions. Claude can use the board to:\n- Read: Tasks, decision logs, topics\n- Plan: Capture, update, and order t…"
     },
     {
-      "rank": 14,
+      "rank": 17,
       "hn_id": 50407338,
       "title": "Context compaction recovery for AI coding agents: six checks, not a summary",
       "title_ja": "Context compaction recovery for AI coding agents: six checks, not a summary",
@@ -194,7 +234,7 @@
       "summary_ja": "Title: Context compaction recovery for AI coding agents: six checks, not a summary"
     },
     {
-      "rank": 15,
+      "rank": 18,
       "hn_id": 50407306,
       "title": "Artificial Epanorthosis: Why LLMs overuse a classical rhetorical figure",
       "title_ja": "Artificial Epanorthosis: Why LLMs overuse a classical rhetorical figure",
@@ -208,7 +248,7 @@
       "summary_ja": "Title: Artificial Epanorthosis: Why LLMs overuse a classical rhetorical figure\nArticle title: [2607.21498] Artificial Epanorthosis: Why large language models overuse a classical rhetorical figure, and how to mitigate it\nDescription: Abstract page for arXiv paper 2607.21498: Artificial Epanorthosis: Why large language models overuse a classical rhetorical figure, and how to mitigate it\n\nArticle text:\nSkip to main content\nSearch\nSubmit\nDonate\nLog in\nSearch arXiv\nPress Enter to search · Advanced search\nComputer Science \u003e Computation and Language\n[Submitted on 23 Jul 2026 ( v1 ), last revised 28 Jul 2026 (this version, v2)]\nTitle: Artificial Epanorthosis: Why large language models overuse a classical rhetorical figure, and how to mitigate it\nAbstract: A rhetorical figure that Cicero and Quintilian catalogued two thousand years ago reappears, systematically, in the text of large language mode…"
     },
     {
-      "rank": 16,
+      "rank": 19,
       "hn_id": 50407257,
       "title": "Why AI Will Not End Scholarly Publishing (and the Publish-or-Perish Institution)",
       "title_ja": "Why AI Will Not End Scholarly Publishing (and the Publish-or-Perish Institution)",
@@ -221,7 +261,7 @@
       "summary_ja": "Title: Why AI Will Not End Scholarly Publishing (and the Publish-or-Perish Institution)"
     },
     {
-      "rank": 17,
+      "rank": 20,
       "hn_id": 50404938,
       "title": "AI agents are getting more complex. Developers shouldn't have to babysit them",
       "title_ja": "AI agents are getting more complex. Developers shouldn't have to babysit them",

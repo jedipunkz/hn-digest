@@ -1,6 +1,6 @@
 {
   "date": "2026-11-08",
-  "generated_at": "2026-11-08T17:41:49Z",
+  "generated_at": "2026-11-08T21:45:26Z",
   "articles": [
     {
       "rank": 1,
@@ -17,6 +17,19 @@
     },
     {
       "rank": 2,
+      "hn_id": 50417165,
+      "title": "What Anthropic's IPO Filing Says About the Future of A.I",
+      "title_ja": "What Anthropic's IPO Filing Says About the Future of A.I",
+      "hn_url": "https://news.ycombinator.com/item?id=50417165",
+      "source_url": "https://www.nytimes.com/2026/10/30/opinion/anthropic-ipo-ai.html",
+      "score": 3,
+      "final_score": 3,
+      "comments": 0,
+      "posted_at": "2026-11-08T20:57:14Z",
+      "summary_ja": "Title: What Anthropic's IPO Filing Says About the Future of A.I"
+    },
+    {
+      "rank": 3,
       "hn_id": 50410369,
       "title": "Is \"GPU-hour per user\" a sane way to price LLM inference?",
       "title_ja": "Is \"GPU-hour per user\" a sane way to price LLM inference?",
@@ -30,7 +43,35 @@
       "summary_ja": "Title: Is \"GPU-hour per user\" a sane way to price LLM inference?\nArticle title: MIRASTACK LABS | AI capacity, sold by time\nDescription: MIRASTACK LABS runs open models on its own GPUs and sells capacity by time, not by the token: for developers, teams, dedicated endpoints and AI factories.\n\nArticle text:\nSkip to content\nMIRASTACK LABS\nIndividuals\nAI capacity, sold by time. Not by the token.\nWe host and run open-weight models on our own GPUs, and sell that capacity the way broadband is sold: you pay for the window, never per unit. From one developer's day pass to a private AI factory in your data centre.\ninfinitetokens Model engineering and serving\nAI Factory Sovereign and regulated\nA flat time pass with unlimited tokens on open models, for developers and their coding agents. Self-serve, in minutes.\nOpen models for your whole workforce, billed per seat by time, never per token. For organi…"
     },
     {
-      "rank": 3,
+      "rank": 4,
+      "hn_id": 50417169,
+      "title": "Meta's Charm gadget carries CEO Zuckerberg's big AI ambitions",
+      "title_ja": "Meta's Charm gadget carries CEO Zuckerberg's big AI ambitions",
+      "hn_url": "https://news.ycombinator.com/item?id=50417169",
+      "source_url": "https://tech.yahoo.com/ai/meta-ai/articles/metas-charm-gadget-carries-ceo-043955979.html",
+      "image_url": "https://s.yimg.com/lo/mysterio/api/3b89f0d917fd67c4c077f7b20c357d68103d3a15a16aad3f3d29747dfdeb0116/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2Fb51d305d7d372bd86d9e26f7b1ae967d.jpg",
+      "score": 1,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-11-08T20:57:43Z",
+      "summary_ja": "Title: Meta's Charm gadget carries CEO Zuckerberg's big AI ambitions\nDescription: MENLO PARK, California, Sept 23 (Reuters) - Mark Zuckerberg took repeated digs at Apple during Meta's annual event on Wednesday, only to borrow a page from Steve Jobs' playbook for a surprise reveal: a pocket-watch-sized device that carries Meta's viral Muse AI ‌agent into the real world. The device\n[truncated]\n\nArticle text:\nMeta's Charm gadget carries CEO Zuckerberg's big AI ambitions Skip to main content Home\nNews Has submenu. Press right arrow to enter the submenu, up and down to navigate between items, left arrow or escape to close it. News\nFinance Has submenu. Press right arrow to enter the submenu, up and down to navigate between items, left arrow or escape to close it. Finance\nSports Has submenu. Press right arrow to enter the submenu, up and down to navigate between items, left arrow or escape to c…"
+    },
+    {
+      "rank": 5,
+      "hn_id": 50417052,
+      "title": "Offline context-aware dictation without screenshots, LLMs or fine-tuning",
+      "title_ja": "Offline context-aware dictation without screenshots, LLMs or fine-tuning",
+      "hn_url": "https://news.ycombinator.com/item?id=50417052",
+      "source_url": "https://morethanamachine.com/posts/handy-context/",
+      "image_url": "https://morethanamachine.com/_astro/handy-context-og.BUn5bGfs.png",
+      "score": 1,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-11-08T20:47:19Z",
+      "summary_ja": "Title: Offline context-aware dictation without screenshots, LLMs or fine-tuning\nArticle title: Handy Context: Offline Context-Aware Dictation Without Screenshots, LLMs or Fine-Tuning | More Than a Machine\nDescription: Wispr Flow reads names off your screen in its cloud. I forked Handy, an existing open-source dictation app, and taught it to do the same on my laptop. It got 35% fewer on-screen words wrong.\n\nArticle text:\nHandy Context: Offline Context-Aware Dictation Without Screenshots, LLMs or Fine-Tuning | More Than a Machine ~/ more-than-a-machine [home] [about] [posts] [contribute] [pitch] [rss] Handy Context: Offline Context-Aware Dictation Without Screenshots, LLMs or Fine-Tuning\nBy Nishaanth Reddy · November 8, 2026\nHandy Context: Offline Context-Aware Dictation Without Screenshots, LLMs or Fine-Tuning\nPlaying Contra with decision models\nTwine: Coding Agents That Challenge Each Ot…"
+    },
+    {
+      "rank": 6,
       "hn_id": 50414800,
       "title": "A guy running Claude KYC business to bypass anthropics restrictions",
       "title_ja": "A guy running Claude KYC business to bypass anthropics restrictions",
@@ -44,7 +85,7 @@
       "summary_ja": "Title: A guy running Claude KYC business to bypass anthropics restrictions\nArticle title: AB Kuai.Dong on X: \"这也太卷了。一位做 Claude KYC 生意的老哥，跑到印度尼西亚西部的村庄，线下找印尼大妈，面对面做身份验证，注册 Claude 账号，然后现金结算。\" / X\nDescription: 这也太卷了。一位做 Claude KYC 生意的老哥，跑到印度尼西亚西部的村庄，线下找印尼大妈，面对面做身份验证，注册 Claude 账号，然后现金结算。\n\nArticle text:\nAB Kuai.Dong on X: \"这也太卷了。一位做 Claude KYC 生意的老哥，跑到印度尼西亚西部的村庄，线下找印尼大妈，面对面做身份验证，注册 Claude 账号，然后现金结算。\" / X Post\nAB Kuai.Dong on X: \"这也太卷了。一位做 Claude KYC 生意的老哥，跑到印度尼西亚西部的村庄，线下找印尼大妈，面对面做身份验证，注册 Claude 账号，然后现金结算。\"\nShow translation 这也太卷了。一位做 Claude KYC 生意的老哥，跑到印度尼西亚西部的村庄，线下找印尼大妈，面对面做身份验证，注册 Claude 账号，然后现金结算。 8:07 AM · Nov 7, 2026 · 1M Views 483 574 4.8K 1.4K Log in or sign up for X\nSee what’s happening and join the conversation\nContinue with phone Continue with Apple Continue with Google or Log in with username or email Relevant people\nAB Kuai.Dong @_FORAB Show translation 这也太卷了。"
     },
     {
-      "rank": 4,
+      "rank": 7,
       "hn_id": 50412412,
       "title": "Bella Caledonia Statement on Artificial Intelligence",
       "title_ja": "Bella Caledonia Statement on Artificial Intelligence",
@@ -57,7 +98,7 @@
       "summary_ja": "Title: Bella Caledonia Statement on Artificial Intelligence"
     },
     {
-      "rank": 5,
+      "rank": 8,
       "hn_id": 50415265,
       "title": "Etsy Expands AI Training Rights over Content, Restricts 3rd Party Training",
       "title_ja": "Etsy Expands AI Training Rights over Content, Restricts 3rd Party Training",
@@ -71,7 +112,7 @@
       "summary_ja": "Title: Etsy Expands AI Training Rights over Content, Restricts 3rd Party Training\nArticle title: Etsy Expands AI Training Rights Over Seller Content, Tightens Rules For Third-Party AI Use\nDescription: Etsy's new terms expand AI training rights over seller content, restrict unauthorized AI use, and raise questions about seller opt-out rights.\n\nArticle text:\nEtsy Expands AI Training Rights Over Seller Content, Tightens Rules For Third-Party AI Use\nEtsy is updating its Terms of Use and Privacy Policy to explicitly allow the company and authorized third parties to use seller-uploaded content to train artificial intelligence models, while tightening restrictions on how outside companies can use marketplace data and deploy AI shopping agents.\nUnder the updated Terms of Use , published October 26 and effective December 16, 2026, sellers and other users continue to retain ownership of the conten…"
     },
     {
-      "rank": 6,
+      "rank": 9,
       "hn_id": 50410429,
       "title": "Show HN: Reges Code – a free AI code editor that runs on local models",
       "title_ja": "Show HN: Reges Code – a free AI code editor that runs on local models",

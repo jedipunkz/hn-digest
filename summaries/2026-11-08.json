@@ -1,6 +1,6 @@
 {
   "date": "2026-11-08",
-  "generated_at": "2026-11-08T11:44:47Z",
+  "generated_at": "2026-11-08T17:41:49Z",
   "articles": [
     {
       "rank": 1,
@@ -31,6 +31,20 @@
     },
     {
       "rank": 3,
+      "hn_id": 50414800,
+      "title": "A guy running Claude KYC business to bypass anthropics restrictions",
+      "title_ja": "A guy running Claude KYC business to bypass anthropics restrictions",
+      "hn_url": "https://news.ycombinator.com/item?id=50414800",
+      "source_url": "https://twitter.com/_FORAB/status/2118978587265290558",
+      "image_url": "https://pbs.twimg.com/media/HWge7LnbwAAlbMF?format=webp\u0026name=large",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-11-08T16:43:51Z",
+      "summary_ja": "Title: A guy running Claude KYC business to bypass anthropics restrictions\nArticle title: AB Kuai.Dong on X: \"这也太卷了。一位做 Claude KYC 生意的老哥，跑到印度尼西亚西部的村庄，线下找印尼大妈，面对面做身份验证，注册 Claude 账号，然后现金结算。\" / X\nDescription: 这也太卷了。一位做 Claude KYC 生意的老哥，跑到印度尼西亚西部的村庄，线下找印尼大妈，面对面做身份验证，注册 Claude 账号，然后现金结算。\n\nArticle text:\nAB Kuai.Dong on X: \"这也太卷了。一位做 Claude KYC 生意的老哥，跑到印度尼西亚西部的村庄，线下找印尼大妈，面对面做身份验证，注册 Claude 账号，然后现金结算。\" / X Post\nAB Kuai.Dong on X: \"这也太卷了。一位做 Claude KYC 生意的老哥，跑到印度尼西亚西部的村庄，线下找印尼大妈，面对面做身份验证，注册 Claude 账号，然后现金结算。\"\nShow translation 这也太卷了。一位做 Claude KYC 生意的老哥，跑到印度尼西亚西部的村庄，线下找印尼大妈，面对面做身份验证，注册 Claude 账号，然后现金结算。 8:07 AM · Nov 7, 2026 · 1M Views 483 574 4.8K 1.4K Log in or sign up for X\nSee what’s happening and join the conversation\nContinue with phone Continue with Apple Continue with Google or Log in with username or email Relevant people\nAB Kuai.Dong @_FORAB Show translation 这也太卷了。"
+    },
+    {
+      "rank": 4,
       "hn_id": 50412412,
       "title": "Bella Caledonia Statement on Artificial Intelligence",
       "title_ja": "Bella Caledonia Statement on Artificial Intelligence",
@@ -43,7 +57,21 @@
       "summary_ja": "Title: Bella Caledonia Statement on Artificial Intelligence"
     },
     {
-      "rank": 4,
+      "rank": 5,
+      "hn_id": 50415265,
+      "title": "Etsy Expands AI Training Rights over Content, Restricts 3rd Party Training",
+      "title_ja": "Etsy Expands AI Training Rights over Content, Restricts 3rd Party Training",
+      "hn_url": "https://news.ycombinator.com/item?id=50415265",
+      "source_url": "https://www.valueaddedresource.net/etsy-expands-ai-training-rights/",
+      "image_url": "https://storage.ghost.io/c/ed/30/ed30d72b-9e06-4849-b9ff-511f2907ce30/content/images/2026/10/etsyai102926.jpg",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-11-08T17:31:42Z",
+      "summary_ja": "Title: Etsy Expands AI Training Rights over Content, Restricts 3rd Party Training\nArticle title: Etsy Expands AI Training Rights Over Seller Content, Tightens Rules For Third-Party AI Use\nDescription: Etsy's new terms expand AI training rights over seller content, restrict unauthorized AI use, and raise questions about seller opt-out rights.\n\nArticle text:\nEtsy Expands AI Training Rights Over Seller Content, Tightens Rules For Third-Party AI Use\nEtsy is updating its Terms of Use and Privacy Policy to explicitly allow the company and authorized third parties to use seller-uploaded content to train artificial intelligence models, while tightening restrictions on how outside companies can use marketplace data and deploy AI shopping agents.\nUnder the updated Terms of Use , published October 26 and effective December 16, 2026, sellers and other users continue to retain ownership of the conten…"
+    },
+    {
+      "rank": 6,
       "hn_id": 50410429,
       "title": "Show HN: Reges Code – a free AI code editor that runs on local models",
       "title_ja": "Show HN: Reges Code – a free AI code editor that runs on local models",

@@ -1,9 +1,22 @@
 {
   "date": "2026-11-08",
-  "generated_at": "2026-11-08T04:46:46Z",
+  "generated_at": "2026-11-08T11:44:47Z",
   "articles": [
     {
       "rank": 1,
+      "hn_id": 50412294,
+      "title": "AI Alignment Considered Harmful",
+      "title_ja": "AI Alignment Considered Harmful",
+      "hn_url": "https://news.ycombinator.com/item?id=50412294",
+      "source_url": "http://togelius.blogspot.com/2026/11/ai-alignment-considered-harmful.html",
+      "score": 3,
+      "final_score": 3,
+      "comments": 0,
+      "posted_at": "2026-11-08T11:19:35Z",
+      "summary_ja": "Title: AI Alignment Considered Harmful\nArticle title: Togelius: AI Alignment Considered Harmful\nDescription: Many thoughtful persons who want AI to go well are preoccupied with AI alignment. This means making sure that the AI models and the systems...\n\nArticle text:\nTogelius: AI Alignment Considered Harmful\nskip to main |\nskip to sidebar\nTogelius\nBetter playing through algorithms\nAI Alignment Considered Harmful\nMany thoughtful persons who want AI to go well are preoccupied with AI alignment. This means making sure that the AI models and the systems that build on them will be aligned with humanity. Basically, that AI will be nice to us. People who think that AI systems will start self-improving and get better than us at everything tend to think that AI alignment is extra important. Super-intelligent AI could take over the world, the reasoning goes, so it’d better be morally good.\nHow do I…"
+    },
+    {
+      "rank": 2,
       "hn_id": 50410369,
       "title": "Is \"GPU-hour per user\" a sane way to price LLM inference?",
       "title_ja": "Is \"GPU-hour per user\" a sane way to price LLM inference?",
@@ -17,7 +30,20 @@
       "summary_ja": "Title: Is \"GPU-hour per user\" a sane way to price LLM inference?\nArticle title: MIRASTACK LABS | AI capacity, sold by time\nDescription: MIRASTACK LABS runs open models on its own GPUs and sells capacity by time, not by the token: for developers, teams, dedicated endpoints and AI factories.\n\nArticle text:\nSkip to content\nMIRASTACK LABS\nIndividuals\nAI capacity, sold by time. Not by the token.\nWe host and run open-weight models on our own GPUs, and sell that capacity the way broadband is sold: you pay for the window, never per unit. From one developer's day pass to a private AI factory in your data centre.\ninfinitetokens Model engineering and serving\nAI Factory Sovereign and regulated\nA flat time pass with unlimited tokens on open models, for developers and their coding agents. Self-serve, in minutes.\nOpen models for your whole workforce, billed per seat by time, never per token. For organi…"
     },
     {
-      "rank": 2,
+      "rank": 3,
+      "hn_id": 50412412,
+      "title": "Bella Caledonia Statement on Artificial Intelligence",
+      "title_ja": "Bella Caledonia Statement on Artificial Intelligence",
+      "hn_url": "https://news.ycombinator.com/item?id=50412412",
+      "source_url": "https://bellacaledonia.org.uk/2026/11/07/bella-caledonia-statement-on-artificial-intelligence/?replytocom=666966#respond",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-11-08T11:42:42Z",
+      "summary_ja": "Title: Bella Caledonia Statement on Artificial Intelligence"
+    },
+    {
+      "rank": 4,
       "hn_id": 50410429,
       "title": "Show HN: Reges Code – a free AI code editor that runs on local models",
       "title_ja": "Show HN: Reges Code – a free AI code editor that runs on local models",

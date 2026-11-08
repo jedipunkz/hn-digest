@@ -1,0 +1,34 @@
+{
+  "date": "2026-11-08",
+  "generated_at": "2026-11-08T04:46:46Z",
+  "articles": [
+    {
+      "rank": 1,
+      "hn_id": 50410369,
+      "title": "Is \"GPU-hour per user\" a sane way to price LLM inference?",
+      "title_ja": "Is \"GPU-hour per user\" a sane way to price LLM inference?",
+      "hn_url": "https://news.ycombinator.com/item?id=50410369",
+      "source_url": "https://www.mirastacklabs.ai/",
+      "image_url": "https://www.mirastacklabs.ai/assets/img/og-default.png",
+      "score": 1,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-11-08T04:15:58Z",
+      "summary_ja": "Title: Is \"GPU-hour per user\" a sane way to price LLM inference?\nArticle title: MIRASTACK LABS | AI capacity, sold by time\nDescription: MIRASTACK LABS runs open models on its own GPUs and sells capacity by time, not by the token: for developers, teams, dedicated endpoints and AI factories.\n\nArticle text:\nSkip to content\nMIRASTACK LABS\nIndividuals\nAI capacity, sold by time. Not by the token.\nWe host and run open-weight models on our own GPUs, and sell that capacity the way broadband is sold: you pay for the window, never per unit. From one developer's day pass to a private AI factory in your data centre.\ninfinitetokens Model engineering and serving\nAI Factory Sovereign and regulated\nA flat time pass with unlimited tokens on open models, for developers and their coding agents. Self-serve, in minutes.\nOpen models for your whole workforce, billed per seat by time, never per token. For organi…"
+    },
+    {
+      "rank": 2,
+      "hn_id": 50410429,
+      "title": "Show HN: Reges Code – a free AI code editor that runs on local models",
+      "title_ja": "Show HN: Reges Code – a free AI code editor that runs on local models",
+      "hn_url": "https://news.ycombinator.com/item?id=50410429",
+      "source_url": "https://regescode.com/",
+      "image_url": "https://regescode.com/og.jpg?v=3",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-11-08T04:32:44Z",
+      "summary_ja": "Title: Show HN: Reges Code – a free AI code editor that runs on local models\nArticle title: Reges Code — the free AI code editor that runs on your machine\nDescription: Reges Code is a free, local-first AI code editor. Local models first, automatic free-model fallback, Reges Swarm model teams and an agent that admits when it did nothing.\n\nArticle text:\nReges Code — the free AI code editor that runs on your machine\nSkip to content (REGES · CODE) Models\nFree AI code editor · v 1.0.21 Your editor. Now it thinks.\nReges Code is the AI code editor that runs on your machine. Local models first, free models when you want the cloud, and a team of models that checks its own work.\nSee it think Windows 10/11 · no account · updates itself\n01 Local-first Your code never leaves.\nReges Code finds LM Studio, Ollama, vLLM, llama.cpp, Jan and Lemonade on your machine by itself. Your GPU, your models, no acc…"
+    }
+  ]
+}

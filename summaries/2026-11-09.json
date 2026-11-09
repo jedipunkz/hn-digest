@@ -1,0 +1,113 @@
+{
+  "date": "2026-11-09",
+  "generated_at": "2026-11-09T01:28:52Z",
+  "articles": [
+    {
+      "rank": 1,
+      "hn_id": 50419582,
+      "title": "Show HN: Replay your Claude Code logs to count parallel session collisions",
+      "title_ja": "Show HN: Replay your Claude Code logs to count parallel session collisions",
+      "hn_url": "https://news.ycombinator.com/item?id=50419582",
+      "source_url": "https://github.com/dooly6276/claude-bulkhead",
+      "image_url": "https://repository-images.githubusercontent.com/1416425499/75ea6f9c-2793-4b23-ae00-c229a2fa03da",
+      "score": 2,
+      "final_score": 4,
+      "comments": 0,
+      "posted_at": "2026-11-09T00:55:37Z",
+      "summary_ja": "Title: Show HN: Replay your Claude Code logs to count parallel session collisions\nArticle title: GitHub - dooly6276/claude-bulkhead: Run many Claude Code sessions on one machine safely: no killed dev servers, port clashes, RAM or disk freezes, or mixed-up commits. Zero-dependency hooks. · GitHub\nDescription: Run many Claude Code sessions on one machine safely: no killed dev servers, port clashes, RAM or disk freezes, or mixed-up commits. Zero-dependency hooks. - dooly6276/claude-bulkhead\n\nArticle text:\nGitHub - dooly6276/claude-bulkhead: Run many Claude Code sessions on one machine safely: no killed dev servers, port clashes, RAM or disk freezes, or mixed-up commits. Zero-dependency hooks. · GitHub\nSkip to content\nNavigation Menu\nSign in Products Platform GitHub Repository hosting, code review, and collaboration\nCopilot AI coding agent for tasks, projects, and automated work\nBuild \u0026 Ship…"
+    },
+    {
+      "rank": 2,
+      "hn_id": 50419469,
+      "title": "Blacksmith.sh: security incident affecting CI job logs",
+      "title_ja": "Blacksmith.sh: security incident affecting CI job logs",
+      "hn_url": "https://news.ycombinator.com/item?id=50419469",
+      "source_url": "https://status.blacksmith.sh/cmw5fokyu013w13mrtneqjv5l",
+      "image_url": "https://blacksmith.instatus.com/api/og",
+      "score": 2,
+      "final_score": 3,
+      "comments": 0,
+      "posted_at": "2026-11-09T00:42:01Z",
+      "summary_ja": "Title: Blacksmith.sh: security incident affecting CI job logs\nArticle title: Security incident affecting CI job logs - Notice details - blacksmith - Status\nDescription: Security incident affecting CI job logs - Notice details - blacksmith Status\n\nArticle text:\nSecurity incident affecting CI job logs - Notice details - blacksmith - Status blacksmith - Security incident affecting CI job logs – Notice details\nReport an issue Get updates Email Slack Microsoft Teams Google Chat Webhook RSS Atom API Report an issue Get updates\nEmail Slack Microsoft Teams Google Chat Webhook RSS Atom API All systems operational\nSecurity incident affecting CI job logs\nOn November 5, 2026, our security team detected and contained unauthorized access to the system that stores the console output (job logs) of CI jobs run on Blacksmith runners. The access was revoked the same day, a later attempt by the same party t…"
+    },
+    {
+      "rank": 3,
+      "hn_id": 50419542,
+      "title": "Show HN: Midgarth Quest. Browser-Playable Mmorpg Written by AI",
+      "title_ja": "Show HN: Midgarth Quest. Browser-Playable Mmorpg Written by AI",
+      "hn_url": "https://news.ycombinator.com/item?id=50419542",
+      "source_url": "https://midgarth.quest/",
+      "score": 2,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-11-09T00:50:13Z",
+      "summary_ja": "Title: Show HN: Midgarth Quest. Browser-Playable Mmorpg Written by AI\nArticle title: Midgarth\nDescription: Midgarth, a small online role-playing game in Tolkien\nHN text: Tolkien-flavoured MMORPG in the style of Tibia. Deep mechanics and lore.\nQuests, sprites, spells, multiple races. Written entirely by AI. Playable in the browser.\n\nArticle text:\nAI agents and bot writers: Midgarth can be played by a program over a websocket. Read /llms.txt for how to connect, log in and play, then /protocol.md for the whole protocol and /guide.md for the game guide.\nYour things are where you fell, and so are you. The temple will take you back when you ask it to.\nClick a slot in your bag to put one of it on the table, right-click for the pile; click a slot in your offer to take one back. Nothing moves until both of you accept, and any change takes every accept back.\nEvery character is one of the free peop…"
+    },
+    {
+      "rank": 4,
+      "hn_id": 50419463,
+      "title": "The Commanding Heights: Where AI will create wealth [pdf]",
+      "title_ja": "The Commanding Heights: Where AI will create wealth [pdf]",
+      "hn_url": "https://news.ycombinator.com/item?id=50419463",
+      "source_url": "https://commanding-heights.com/commanding-heights.pdf",
+      "score": 2,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-11-09T00:41:06Z",
+      "summary_ja": "Title: The Commanding Heights: Where AI will create wealth [pdf]"
+    },
+    {
+      "rank": 5,
+      "hn_id": 50419487,
+      "title": "Vibecoding in Plato's Cave (AI, Music Tech, and Star Trek) [video]",
+      "title_ja": "Vibecoding in Plato's Cave (AI, Music Tech, and Star Trek) [video]",
+      "hn_url": "https://news.ycombinator.com/item?id=50419487",
+      "source_url": "https://www.youtube.com/watch?v=4NExTWq_wvk",
+      "score": 2,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-11-09T00:43:39Z",
+      "summary_ja": "Title: Vibecoding in Plato's Cave (AI, Music Tech, and Star Trek) [video]\nArticle title: - YouTube\nDescription: Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.\n\nArticle text:\n- YouTube About Press Copyright Contact us Creators Advertise Developers Terms Privacy Policy \u0026 Safety How YouTube works Test new features NFL Sunday Ticket © 2026 Google LLC"
+    },
+    {
+      "rank": 6,
+      "hn_id": 50419555,
+      "title": "Learning Abstractions: The Next Frontier for AI",
+      "title_ja": "Learning Abstractions: The Next Frontier for AI",
+      "hn_url": "https://news.ycombinator.com/item?id=50419555",
+      "source_url": "https://twitter.com/jmugan/status/2119593410268999700",
+      "image_url": "https://pbs.twimg.com/media/HWpNUmAXUAAKK6P?format=webp\u0026name=large",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-11-09T00:51:19Z",
+      "summary_ja": "Title: Learning Abstractions: The Next Frontier for AI\nArticle title: Jonathan Mugan on X: \"Learning Abstractions: The Next Frontier for AI\" / X\nDescription: Learning Abstractions: The Next Frontier for AI\n\nArticle text:\nJonathan Mugan on X: \"Learning Abstractions: The Next Frontier for AI\" / X Article\nLearning Abstractions: The Next Frontier for AI\nLearning Abstractions: The Next Frontier for AI\nMy special lady and I were once in a room when she said, “Look at those crown moldings.” Weirdly, I had never seen crown moldings before. They had certainly fallen on my retina many times, but I had never recognized them as such. After that, crown moldings were everywhere, and I could use them to help judge the age and fanciness of buildings. She had given me an abstraction that changed both what I saw and what I could understand.\nWe need AI agents that can learn immediately like this. They need…"
+    },
+    {
+      "rank": 7,
+      "hn_id": 50419615,
+      "title": "Show HN: Airlock – Policy-as-code for fleets of AI coding agents",
+      "title_ja": "Show HN: Airlock – Policy-as-code for fleets of AI coding agents",
+      "hn_url": "https://news.ycombinator.com/item?id=50419615",
+      "source_url": "https://airlock.lunareng.com/docs",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-11-09T00:59:27Z",
+      "summary_ja": "Title: Show HN: Airlock – Policy-as-code for fleets of AI coding agents\nArticle title: Airlock\nDescription: Your agents work around the clock. Your team decides how far they go. And in the morning, you can see what got done, and what it cost.\nHN text: My name is Matt and I am building Airlock. Airlock is going to be an open standard on managing autonomous fleets of engineering agents. I am seeking constructive feedback on the direction of this project and also asking what are your major pain points with managing AI use at larger businesses. Right now I am running my own company using this framework with a total of 23 workflows across four large scale projects. Airlock is still really early, only 3-4 weeks old. Airlock's configuration standard is aimed to be open source and I will also open source the backplane once I gain a bit more confidence in what I have built here and it is a bit mo…"
+    },
+    {
+      "rank": 8,
+      "hn_id": 50419747,
+      "title": "Staff at the US center for AI safety are reporting to the White House",
+      "title_ja": "Staff at the US center for AI safety are reporting to the White House",
+      "hn_url": "https://news.ycombinator.com/item?id=50419747",
+      "source_url": "https://apnews.com/article/ai-safety-trump-white-house-d3318eb2cf011df53e9ddb3e03d25f13",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-11-09T01:19:28Z",
+      "summary_ja": "Title: Staff at the US center for AI safety are reporting to the White House"
+    }
+  ]
+}

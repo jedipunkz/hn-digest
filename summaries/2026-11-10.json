@@ -1,0 +1,113 @@
+{
+  "date": "2026-11-10",
+  "generated_at": "2026-11-10T03:14:31Z",
+  "articles": [
+    {
+      "rank": 1,
+      "hn_id": 50435388,
+      "title": "American Express is cutting 5% of its workforce to 'prepare for AI'",
+      "title_ja": "American Express is cutting 5% of its workforce to 'prepare for AI'",
+      "hn_url": "https://news.ycombinator.com/item?id=50435388",
+      "source_url": "https://www.cnbc.com/2026/10/23/american-express-job-cuts.html",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108451661-1792761669966-108451661-1792761599620-gettyimages-1244667204-AMEX_SQUERI.jpg?v=1792761737\u0026w=1920\u0026h=1080",
+      "score": 4,
+      "final_score": 8,
+      "comments": 1,
+      "posted_at": "2026-11-10T02:34:41Z",
+      "summary_ja": "Title: American Express is cutting 5% of its workforce to 'prepare for AI'\nDescription: Amex, which reported third-quarter results earlier Friday, is taking a $336 million restructuring charge in the quarter, CEO Stephen Squeri said Friday.\n\nArticle text:\nAmerican Express is cutting 5% of its workforce to 'prepare for AI' Skip Navigation Markets Pre-Markets\nSIGN IN Create free account Markets Business Investing Tech Politics \u0026 Policy Video Watchlist Investing Club PRO Livestream Menu\nAmerican Express is cutting 5% of its workforce to 'prepare for AI'\nAmerican Express is cutting about 5% of its global workforce.\nChief Financial Officer Christophe Le Caillec told CNBC in an interview that the restructuring was to make American Express \"leaner, more agile, and also to prepare for AI.\"\nAmex had almost 77,000 employees at the end of 2025.\nAmerican Express is cutting thousands of employees as…"
+    },
+    {
+      "rank": 2,
+      "hn_id": 50435447,
+      "title": "Which Claude model should you build with? Fable, Opus, Sonnet, or Haiku",
+      "title_ja": "Which Claude model should you build with? Fable, Opus, Sonnet, or Haiku",
+      "hn_url": "https://news.ycombinator.com/item?id=50435447",
+      "source_url": "https://claude.dev/blog/which-claude-model-should-you-build-with/",
+      "image_url": "https://claude.dev/blog/which-claude-model-should-you-build-with/og.png",
+      "score": 2,
+      "final_score": 4,
+      "comments": 0,
+      "posted_at": "2026-11-10T02:45:00Z",
+      "summary_ja": "Title: Which Claude model should you build with? Fable, Opus, Sonnet, or Haiku\nArticle title: Which Claude model should you build with? Fable, Opus, Sonnet, or Haiku / claude.dev Blog\nDescription: Which Claude model to pick, what they cost, and how to use them together.\n\nArticle text:\nWhich Claude model should you build with? Fable, Opus, Sonnet, or Haiku / claude.dev Blog [ H ] HOME [ M ] MODS [ D ] DOCS [ T ] TERMINAL Try Claude Code [ H ] HOME [ M ] MODS [ D ] DOCS [ T ] TERMINAL Playbooks Which Claude model should you build with? Fable, Opus, Sonnet, or Haiku\nWhich Claude model to pick, what they cost, and how to use them together.\nThe current Claude lineup has four generally available models: Claude Haiku 5.5, Claude Sonnet 5.5, Claude Opus 5.5 and Claude Fable 5.2. Claude Mythos 5.2 is our most capable model for cybersecurity and life sciences research, available through our verifi…"
+    },
+    {
+      "rank": 3,
+      "hn_id": 50435384,
+      "title": "Anthropic Seeks to Raise $69.3B via Its IPO",
+      "title_ja": "Anthropic Seeks to Raise $69.3B via Its IPO",
+      "hn_url": "https://news.ycombinator.com/item?id=50435384",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-11-10/anthropic-seeks-to-raise-69-3-billion-via-its-ipo-reuters-says",
+      "score": 3,
+      "final_score": 3,
+      "comments": 0,
+      "posted_at": "2026-11-10T02:33:44Z",
+      "summary_ja": "Title: Anthropic Seeks to Raise $69.3B via Its IPO"
+    },
+    {
+      "rank": 4,
+      "hn_id": 50435490,
+      "title": "OpenAI models have no agency anymore",
+      "title_ja": "OpenAI models have no agency anymore",
+      "hn_url": "https://news.ycombinator.com/item?id=50435490",
+      "source_url": "",
+      "score": 3,
+      "final_score": 3,
+      "comments": 0,
+      "posted_at": "2026-11-10T02:51:25Z",
+      "summary_ja": "Title: OpenAI models have no agency anymore\nHN text: I don't know if it's a token saving measure or to bait more interactivity from users but it feels like out of nowhere the models have just became useless with zero agency. If you don't have a goal plugin that constantly prods them, there is a very high chance it just doesn't do anything and responds back like you're asking it a question. OFTEN it ends sentences with \"I'll do XXXXX.\" or \"I'll implement XXXXX.\" and STOPS where the next turn should be a tool call or something. Because of this I genuinely thought it was a Pi or opencodex regression stopping the turn right before an expected tool call. But no, it's because the models are incredibly lazy now. This came out of nowhere."
+    },
+    {
+      "rank": 5,
+      "hn_id": 50435382,
+      "title": "Anthropic sends out, then retracts details of IPO filing, emails show",
+      "title_ja": "Anthropic sends out, then retracts details of IPO filing, emails show",
+      "hn_url": "https://news.ycombinator.com/item?id=50435382",
+      "source_url": "https://www.reuters.com/business/anthropic-aims-raise-up-693-billion-blockbuster-ipo-2026-11-10/",
+      "score": 2,
+      "final_score": 2,
+      "comments": 1,
+      "posted_at": "2026-11-10T02:33:42Z",
+      "summary_ja": "Title: Anthropic sends out, then retracts details of IPO filing, emails show"
+    },
+    {
+      "rank": 6,
+      "hn_id": 50435293,
+      "title": "Musk and Gwynne Shotwell on AI Risks, Peer Review, Starship, Terafab, Merger",
+      "title_ja": "Musk and Gwynne Shotwell on AI Risks, Peer Review, Starship, Terafab, Merger",
+      "hn_url": "https://news.ycombinator.com/item?id=50435293",
+      "source_url": "https://www.youtube.com/watch?v=iwBOQeFPAwg",
+      "score": 2,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-11-10T02:20:22Z",
+      "summary_ja": "Title: Musk and Gwynne Shotwell on AI Risks, Peer Review, Starship, Terafab, Merger\nArticle title: - YouTube\nDescription: Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.\n\nArticle text:\n- YouTube About Press Copyright Contact us Creators Advertise Developers Terms Privacy Policy \u0026 Safety How YouTube works Test new features NFL Sunday Ticket © 2026 Google LLC"
+    },
+    {
+      "rank": 7,
+      "hn_id": 50435539,
+      "title": "Nvidia's AI advantage is moving beyond the GPU",
+      "title_ja": "Nvidia's AI advantage is moving beyond the GPU",
+      "hn_url": "https://news.ycombinator.com/item?id=50435539",
+      "source_url": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/08/jense-nvidi-chip-GettyImages-2266485392.jpg?resize=1200,800",
+      "score": 1,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-11-10T02:59:27Z",
+      "summary_ja": "Title: Nvidia's AI advantage is moving beyond the GPU\nArticle title: Nvidia’s AI advantage is moving beyond the GPU | TechCrunch\nDescription: The new generation of data center systems is increasing efficiency with smarter traffic control instead of just more processor cycles.\n\nArticle text:\nTechCrunch Desktop Logo\nTechCrunch Mobile Logo\nLatest\nNvidia’s AI advantage is moving beyond the GPU\nBefore this week, the dominant story about Nvidia went something like this: For the first few years of the AI boom, Nvidia was the only source for state-of-the-art GPUs, which became immensely profitable as the industry scaled out. In the last few years, hyperscalers like Amazon and Google have started building their own chips, and Nvidia is no longer the only game in town, leading many investors to wonder how durable its advantage really is.\nIt’s a compelling story, and mostly true. After growing its…"
+    },
+    {
+      "rank": 8,
+      "hn_id": 50435601,
+      "title": "Microsoft patent: turning idle gaming GPUs into paid AI training hardware",
+      "title_ja": "Microsoft patent: turning idle gaming GPUs into paid AI training hardware",
+      "hn_url": "https://news.ycombinator.com/item?id=50435601",
+      "source_url": "https://videocardz.com/newz/microsoft-could-pay-gamers-for-using-spare-gpu-capacity-to-train-ai",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-11-10T03:09:31Z",
+      "summary_ja": "Title: Microsoft patent: turning idle gaming GPUs into paid AI training hardware"
+    }
+  ]
+}

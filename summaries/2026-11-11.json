@@ -1,6 +1,6 @@
 {
   "date": "2026-11-11",
-  "generated_at": "2026-11-11T16:57:04Z",
+  "generated_at": "2026-11-11T23:21:49Z",
   "articles": [
     {
       "rank": 1,
@@ -18,20 +18,6 @@
     },
     {
       "rank": 2,
-      "hn_id": 50455209,
-      "title": "Openshorts: Open-source / self hosted AI clip generator (OpusClip alternative)",
-      "title_ja": "Openshorts: Open-source / self hosted AI clip generator (OpusClip alternative)",
-      "hn_url": "https://news.ycombinator.com/item?id=50455209",
-      "source_url": "https://github.com/mutonby/openshorts",
-      "image_url": "https://opengraph.githubassets.com/9c0625283f152c981d4d5119187bb6470171b703a503d0ea84ac15293ddc3596/mutonby/openshorts",
-      "score": 2,
-      "final_score": 5,
-      "comments": 0,
-      "posted_at": "2026-11-11T16:24:22Z",
-      "summary_ja": "Title: Openshorts: Open-source / self hosted AI clip generator (OpusClip alternative)\nArticle title: GitHub - mutonby/openshorts: Open source AI clip generator: turns long videos into viral 9:16 shorts with AI moment detection, face tracking, subtitles and dubbing. Self-host free with Docker (MIT), or use the cloud with GPU speed from $12/mo. MCP server and API for AI agents. · GitHub\nDescription: Open source AI clip generator: turns long videos into viral 9:16 shorts with AI moment detection, face tracking, subtitles and dubbing. Self-host free with Docker (MIT), or use the cloud with GPU speed from $12/mo. MCP server and API for AI agents. - mutonby/openshorts\n\nArticle text:\nGitHub - mutonby/openshorts: Open source AI clip generator: turns long videos into viral 9:16 shorts with AI moment detection, face tracking, subtitles and dubbing. Self-host free with Docker (MIT), or use the clou…"
-    },
-    {
-      "rank": 3,
       "hn_id": 50448271,
       "title": "Australia considers criminal charges for AI companies that fail to prevent harm",
       "title_ja": "Australia considers criminal charges for AI companies that fail to prevent harm",
@@ -45,21 +31,21 @@
       "summary_ja": "Title: Australia considers criminal charges for AI companies that fail to prevent harm\nArticle title: Australia considers world-first criminal charges for AI companies that fail to prevent harm - ABC News\nDescription: Australia could become the first country to prosecute AI companies for failing to take reasonable steps to prevent harmful conduct by their models.\n\nArticle text:\nAustralia considers world-first criminal charges for AI companies that fail to prevent harm - ABC News Skip to main content Skip to news navigation, settings and search Explore the ABC\nMore from ABC Close menu ABC ABC News\nAppearance (BETA) Follow system settings Select an option Always light\nABC News News Home Australia considers world-first criminal charges for AI companies that fail to prevent harm Share Share article Australia considers world-first criminal charges for AI companies that fail to prevent harm\nTh…"
     },
     {
-      "rank": 4,
-      "hn_id": 50450917,
-      "title": "Apple's Claris Testing 'Harbor' App for Local AI on Macs",
-      "title_ja": "Apple's Claris Testing 'Harbor' App for Local AI on Macs",
-      "hn_url": "https://news.ycombinator.com/item?id=50450917",
-      "source_url": "https://www.macrumors.com/2026/11/10/apple-claris-harbor-app/",
-      "image_url": "https://images.macrumors.com/t/9wUV-qYkqqosjBGhmAOYPyY-q5k=/1600x/article-new/2026/11/claris-harbor-2.jpg",
+      "rank": 3,
+      "hn_id": 50455209,
+      "title": "Openshorts: Open-source / self hosted AI clip generator (OpusClip alternative)",
+      "title_ja": "Openshorts: Open-source / self hosted AI clip generator (OpusClip alternative)",
+      "hn_url": "https://news.ycombinator.com/item?id=50455209",
+      "source_url": "https://github.com/mutonby/openshorts",
+      "image_url": "https://opengraph.githubassets.com/9c0625283f152c981d4d5119187bb6470171b703a503d0ea84ac15293ddc3596/mutonby/openshorts",
       "score": 2,
-      "final_score": 4,
+      "final_score": 5,
       "comments": 0,
-      "posted_at": "2026-11-11T08:19:20Z",
-      "summary_ja": "Title: Apple's Claris Testing 'Harbor' App for Local AI on Macs\nArticle title: Apple's Claris Testing 'Harbor' App for Local AI on Macs - MacRumors\nDescription: Apple's Claris subsidiary is testing an app called Harbor, which turns Apple silicon Macs into a private AI server.\n\nArticle text:\nApple's Claris Testing 'Harbor' App for Local AI on Macs - MacRumors\nSkip to Content Got a tip for us? Let us know\na. Send us an email\nForums Forums Show Forums menu Login\nApple's Claris Testing 'Harbor' App for Local AI on Macs\nApple's Claris subsidiary is testing an app called Harbor , which turns Apple silicon Macs into a private AI server.\nHarbor works with a single Apple silicon Mac, but it also supports connecting multiple Mac computers over Thunderbolt 5 to pool unified memory for larger models. Apple added RDMA over Thunderbolt 5 with macOS Tahoe 26.2, making clustering faster.\nHarbor detects…"
+      "posted_at": "2026-11-11T16:24:22Z",
+      "summary_ja": "Title: Openshorts: Open-source / self hosted AI clip generator (OpusClip alternative)\nArticle title: GitHub - mutonby/openshorts: Open source AI clip generator: turns long videos into viral 9:16 shorts with AI moment detection, face tracking, subtitles and dubbing. Self-host free with Docker (MIT), or use the cloud with GPU speed from $12/mo. MCP server and API for AI agents. · GitHub\nDescription: Open source AI clip generator: turns long videos into viral 9:16 shorts with AI moment detection, face tracking, subtitles and dubbing. Self-host free with Docker (MIT), or use the cloud with GPU speed from $12/mo. MCP server and API for AI agents. - mutonby/openshorts\n\nArticle text:\nGitHub - mutonby/openshorts: Open source AI clip generator: turns long videos into viral 9:16 shorts with AI moment detection, face tracking, subtitles and dubbing. Self-host free with Docker (MIT), or use the clou…"
     },
     {
-      "rank": 5,
+      "rank": 4,
       "hn_id": 50448283,
       "title": "Show HN: Mimzie, an agent-neutral alternative to the Claude Suite/Claude Cowork",
       "title_ja": "Show HN: Mimzie, an agent-neutral alternative to the Claude Suite/Claude Cowork",
@@ -71,6 +57,20 @@
       "comments": 0,
       "posted_at": "2026-11-11T00:29:45Z",
       "summary_ja": "Title: Show HN: Mimzie, an agent-neutral alternative to the Claude Suite/Claude Cowork\nArticle title: Mimzie: The AI workspace for agents like Claude, ChatGPT, Gemini, and Grok\nDescription: The AI workspace for agents. Orchestrate Claude, ChatGPT, Gemini, and Grok to edit your Word, Excel, and PowerPoint files, and approve every change.\nHN text: hi HN! I built Mimzie, an agent neutral AI workspace inspired by the Claude Suite (Docs, Sheets, Slides) and Cowork. It's a free desktop app that runs ChatGPT, Claude, Gemini, and Grok in their native CLI harnesses. Think T3 Code or Conductor but for knowledge work. It's basically a GUI for managing knowledge work agents in various form factors. One of those form factors is Bots, akin to Grok Bot or Dots. The original idea for mimzie was simple: I pay for Claude and ChatGPT, and a lot of my day-to-day work lives in .xlsx, .pptx and .docx files. M…"
+    },
+    {
+      "rank": 5,
+      "hn_id": 50450917,
+      "title": "Apple's Claris Testing 'Harbor' App for Local AI on Macs",
+      "title_ja": "Apple's Claris Testing 'Harbor' App for Local AI on Macs",
+      "hn_url": "https://news.ycombinator.com/item?id=50450917",
+      "source_url": "https://www.macrumors.com/2026/11/10/apple-claris-harbor-app/",
+      "image_url": "https://images.macrumors.com/t/9wUV-qYkqqosjBGhmAOYPyY-q5k=/1600x/article-new/2026/11/claris-harbor-2.jpg",
+      "score": 2,
+      "final_score": 4,
+      "comments": 0,
+      "posted_at": "2026-11-11T08:19:20Z",
+      "summary_ja": "Title: Apple's Claris Testing 'Harbor' App for Local AI on Macs\nArticle title: Apple's Claris Testing 'Harbor' App for Local AI on Macs - MacRumors\nDescription: Apple's Claris subsidiary is testing an app called Harbor, which turns Apple silicon Macs into a private AI server.\n\nArticle text:\nApple's Claris Testing 'Harbor' App for Local AI on Macs - MacRumors\nSkip to Content Got a tip for us? Let us know\na. Send us an email\nForums Forums Show Forums menu Login\nApple's Claris Testing 'Harbor' App for Local AI on Macs\nApple's Claris subsidiary is testing an app called Harbor , which turns Apple silicon Macs into a private AI server.\nHarbor works with a single Apple silicon Mac, but it also supports connecting multiple Mac computers over Thunderbolt 5 to pool unified memory for larger models. Apple added RDMA over Thunderbolt 5 with macOS Tahoe 26.2, making clustering faster.\nHarbor detects…"
     },
     {
       "rank": 6,
@@ -88,31 +88,30 @@
     },
     {
       "rank": 7,
-      "hn_id": 50455012,
-      "title": "Asynchronous, Long-Running AI Agents with Google ADK",
-      "title_ja": "Asynchronous, Long-Running AI Agents with Google ADK",
-      "hn_url": "https://news.ycombinator.com/item?id=50455012",
-      "source_url": "https://benjaminetienne.com/blog/async-ai-agents-in-google-adk-pause-resume-human-in-the-loop/",
-      "image_url": "https://benjaminetienne.com/images/og-base_hu_4f6aa3dac0d4170f.png",
+      "hn_id": 50460287,
+      "title": "Show HN: Agent skill and Claude/Codex plugins for Google Ads campaigns",
+      "title_ja": "Show HN: Agent skill and Claude/Codex plugins for Google Ads campaigns",
+      "hn_url": "https://news.ycombinator.com/item?id=50460287",
+      "source_url": "https://github.com/adeptads/agent-skills",
+      "image_url": "https://opengraph.githubassets.com/388cb416247b4ef08a71083b080afd0e5647a1abdb006bb6d63da62e9e2c336f/adeptads/agent-skills",
       "score": 1,
       "final_score": 2,
       "comments": 0,
-      "posted_at": "2026-11-11T16:06:28Z",
-      "summary_ja": "Title: Asynchronous, Long-Running AI Agents with Google ADK\nArticle title: Fire and Forget: Building Asynchronous, Long-Running AI Agents with Google ADK — Benjamin Etienne\nDescription: Learn how to build long-running, asynchronous AI agents in Google ADK using FastAPI webhooks, DatabaseSessionService, and Human-in-the-Loop (HITL) pause/resume.\n\nArticle text:\nBenjamin Etienne\nWriting\nAbout\nContact\nFire and Forget: Building Asynchronous, Long-Running AI Agents with Google ADK\nWhy we should stop chatting with agents\nWhy synchronous HTTP breaks for long-running AI agents\nWhy is this a problem ?\nThe Fire-and-Forget Pattern: HTTP 202 Accepted and Webhooks\nHuman-in-the-Loop (HITL) in Google ADK: Pausing and Resuming Workflows\nHuman validation and Long-running Operations\nWhy the loop can be plain Python\nDeep diving in what exactly happens behind the scenes\nPausing and resuming agents, human-in-…"
+      "posted_at": "2026-11-11T23:11:38Z",
+      "summary_ja": "Title: Show HN: Agent skill and Claude/Codex plugins for Google Ads campaigns\nArticle title: GitHub - adeptads/agent-skills: 🚀 Give your AI agent Google Ads superpowers. Skills and plugins to create and expand campaigns with AdeptAds multi-agent workflows. · GitHub\nDescription: 🚀 Give your AI agent Google Ads superpowers. Skills and plugins to create and expand campaigns with AdeptAds multi-agent workflows. - GitHub - adeptads/agent-skills: 🚀 Give your AI agent Google Ads superpowers. Skills and plugins to create and expand campaigns with AdeptAds multi-agent workflows.\n\nArticle text:\nGitHub - adeptads/agent-skills: 🚀 Give your AI agent Google Ads superpowers. Skills and plugins to create and expand campaigns with AdeptAds multi-agent workflows. · GitHub\nSkip to content\nNavigation Menu\nSign in Products Platform GitHub Repository hosting, code review, and collaboration\nCopilot AI coding a…"
     },
     {
       "rank": 8,
-      "hn_id": 50448161,
-      "title": "Show HN: PeepNote – Local desktop notes for saving and reusing LLM responses",
-      "title_ja": "Show HN: PeepNote – Local desktop notes for saving and reusing LLM responses",
-      "hn_url": "https://news.ycombinator.com/item?id=50448161",
-      "source_url": "https://github.com/OddlyGoods/peep-note",
-      "image_url": "https://opengraph.githubassets.com/e84eee1fc40cc2899b63acb9b443c9b6825c77ba684874768fd1c68df2065c91/OddlyGoods/peep-note",
-      "score": 1,
+      "hn_id": 50448174,
+      "title": "AI is an information gateway. Audiences still don't want it making their news",
+      "title_ja": "AI is an information gateway. Audiences still don't want it making their news",
+      "hn_url": "https://news.ycombinator.com/item?id=50448174",
+      "source_url": "https://www.niemanlab.org/2026/11/ai-is-becoming-an-information-gateway-audiences-still-dont-want-it-making-their-news/",
+      "score": 2,
       "final_score": 2,
       "comments": 0,
-      "posted_at": "2026-11-11T00:14:18Z",
-      "summary_ja": "Title: Show HN: PeepNote – Local desktop notes for saving and reusing LLM responses\nArticle title: GitHub - OddlyGoods/peep-note: Save and recall useful LLM responses, Markdown notes, and screenshots. · GitHub\nDescription: Save and recall useful LLM responses, Markdown notes, and screenshots. - GitHub - OddlyGoods/peep-note: Save and recall useful LLM responses, Markdown notes, and screenshots.\n\nArticle text:\nGitHub - OddlyGoods/peep-note: Save and recall useful LLM responses, Markdown notes, and screenshots. · GitHub\nSkip to content\nNavigation Menu\nSign in Products Platform GitHub Repository hosting, code review, and collaboration\nCopilot AI coding agent for tasks, projects, and automated work\nBuild \u0026 Ship Actions CI/CD and automation\nCode Quality Quality analysis, fixes, and enforcement\nCodespaces Cloud development environments\nSecure Code Security Vulnerability detection and remediati…"
+      "posted_at": "2026-11-11T00:15:33Z",
+      "summary_ja": "Title: AI is an information gateway. Audiences still don't want it making their news"
     },
     {
       "rank": 9,
@@ -129,19 +128,48 @@
     },
     {
       "rank": 10,
-      "hn_id": 50455472,
-      "title": "Anthropic IPO – Dario Amodei [video]",
-      "title_ja": "Anthropic IPO – Dario Amodei [video]",
-      "hn_url": "https://news.ycombinator.com/item?id=50455472",
-      "source_url": "https://www.youtube.com/watch?v=eynv5VR9qos",
-      "score": 2,
+      "hn_id": 50460269,
+      "title": "Claude usage in your menu bar",
+      "title_ja": "Claude usage in your menu bar",
+      "hn_url": "https://news.ycombinator.com/item?id=50460269",
+      "source_url": "https://github.com/trthomps/claude-usage-widget",
+      "image_url": "https://opengraph.githubassets.com/30e562b27ae92cfd0192fa36aa86a393f0094ac0a1b47788ba2c66933bdf0c5c/trthomps/claude-usage-widget",
+      "score": 1,
       "final_score": 2,
-      "comments": 0,
-      "posted_at": "2026-11-11T16:45:20Z",
-      "summary_ja": "Title: Anthropic IPO – Dario Amodei [video]\nArticle title: - YouTube\nDescription: Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.\n\nArticle text:\n- YouTube About Press Copyright Contact us Creators Advertise Developers Terms Privacy Policy \u0026 Safety How YouTube works Test new features NFL Sunday Ticket © 2026 Google LLC"
+      "comments": 1,
+      "posted_at": "2026-11-11T23:09:51Z",
+      "summary_ja": "Title: Claude usage in your menu bar\nArticle title: GitHub - trthomps/claude-usage-widget: macOS menu bar + desktop widget for Claude plan usage (5-hour session, weekly limits), like /usage in Claude Code · GitHub\nDescription: macOS menu bar + desktop widget for Claude plan usage (5-hour session, weekly limits), like /usage in Claude Code - trthomps/claude-usage-widget\n\nArticle text:\nGitHub - trthomps/claude-usage-widget: macOS menu bar + desktop widget for Claude plan usage (5-hour session, weekly limits), like /usage in Claude Code · GitHub\nSkip to content\nNavigation Menu\nSign in Products Platform GitHub Repository hosting, code review, and collaboration\nCopilot AI coding agent for tasks, projects, and automated work\nBuild \u0026 Ship Actions CI/CD and automation\nCode Quality Quality analysis, fixes, and enforcement\nCodespaces Cloud development environments\nSecure Code Security Vulnerabilit…"
     },
     {
       "rank": 11,
+      "hn_id": 50448161,
+      "title": "Show HN: PeepNote – Local desktop notes for saving and reusing LLM responses",
+      "title_ja": "Show HN: PeepNote – Local desktop notes for saving and reusing LLM responses",
+      "hn_url": "https://news.ycombinator.com/item?id=50448161",
+      "source_url": "https://github.com/OddlyGoods/peep-note",
+      "image_url": "https://opengraph.githubassets.com/e84eee1fc40cc2899b63acb9b443c9b6825c77ba684874768fd1c68df2065c91/OddlyGoods/peep-note",
+      "score": 1,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-11-11T00:14:18Z",
+      "summary_ja": "Title: Show HN: PeepNote – Local desktop notes for saving and reusing LLM responses\nArticle title: GitHub - OddlyGoods/peep-note: Save and recall useful LLM responses, Markdown notes, and screenshots. · GitHub\nDescription: Save and recall useful LLM responses, Markdown notes, and screenshots. - GitHub - OddlyGoods/peep-note: Save and recall useful LLM responses, Markdown notes, and screenshots.\n\nArticle text:\nGitHub - OddlyGoods/peep-note: Save and recall useful LLM responses, Markdown notes, and screenshots. · GitHub\nSkip to content\nNavigation Menu\nSign in Products Platform GitHub Repository hosting, code review, and collaboration\nCopilot AI coding agent for tasks, projects, and automated work\nBuild \u0026 Ship Actions CI/CD and automation\nCode Quality Quality analysis, fixes, and enforcement\nCodespaces Cloud development environments\nSecure Code Security Vulnerability detection and remediati…"
+    },
+    {
+      "rank": 12,
+      "hn_id": 50459640,
+      "title": "Debug a failed deploy with Claude: from red build to fixed release",
+      "title_ja": "Debug a failed deploy with Claude: from red build to fixed release",
+      "hn_url": "https://news.ycombinator.com/item?id=50459640",
+      "source_url": "https://railyard.run/blog/debug-failed-deploy-with-claude/",
+      "image_url": "https://railyard.run/covers/en/debug-failed-deploy-with-claude-5339d2656b.png",
+      "score": 1,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-11-11T22:26:51Z",
+      "summary_ja": "Title: Debug a failed deploy with Claude: from red build to fixed release\nArticle title: Debug a failed deploy with Claude: from red build to fixed release in one conversation · Railyard\nDescription: A practical workflow for diagnosing failed deploys with an AI agent over MCP: read the deploy error and build log, correlate runtime logs and traffic, fix…\n\nArticle text:\nSkip to content 🔥 Agencies \u0026 studios Run unlimited client servers for a flat $99/mo — zero per-seat or bandwidth tax. Railyard for agencies → Railyard Managed services Browse all services Hundreds of open-source apps, one click Self-hosted alternatives Replace Slack, Notion, Zapier… Deploy any Git repo or image GitHub, git push, CLI, Docker image All deploy guides Rails, Next.js, Django, Laravel, Phoenix, Go… Open source What we build in the open Features All features Deploys, databases, logs, metrics, backups How it works…"
+    },
+    {
+      "rank": 13,
       "hn_id": 50448276,
       "title": "Exploring AI Contextual Coherence Across 500K+ Words and 1,788 Messages",
       "title_ja": "Exploring AI Contextual Coherence Across 500K+ Words and 1,788 Messages",
@@ -154,7 +182,7 @@
       "summary_ja": "Title: Exploring AI Contextual Coherence Across 500K+ Words and 1,788 Messages\nArticle title: UKA-135: A Proposed Rooted-Tree Ontology of 135 Research Domains with Epistemic Constraint | Zenodo\nDescription: This deposit contains a pseudonymised export of a single, unplanned conversation between a user and DeepSeek's chat model, conducted over six days (19–25 October 2026). It began as a request to analyse a personal essay on forgiveness written about twenty years earlier and grew, without a prior plan,\n[truncated]\n\nArticle text:\nUKA-135: A Proposed Rooted-Tree Ontology of 135 Research Domains with Epistemic Constraint | Zenodo\nSkip to main\nYou are using an outdated browser. Please upgrade your browser to improve your experience.\nPlanned intervention : On Tuesday, November 17th between 08:00-08:15 (UTC), Zenodo will be unavailable for 10 minutes because of a scheduled upgrade of our serve…"
     },
     {
-      "rank": 12,
+      "rank": 14,
       "hn_id": 50450860,
       "title": "How to export Claude chat to word without losing formatting [video]",
       "title_ja": "How to export Claude chat to word without losing formatting [video]",
@@ -167,7 +195,7 @@
       "summary_ja": "Title: How to export Claude chat to word without losing formatting [video]\nArticle title: - YouTube\nDescription: Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.\n\nArticle text:\n- YouTube About Press Copyright Contact us Creators Advertise Developers Terms Privacy Policy \u0026 Safety How YouTube works Test new features NFL Sunday Ticket © 2026 Google LLC"
     },
     {
-      "rank": 13,
+      "rank": 15,
       "hn_id": 50455014,
       "title": "Howard Marks: A Layman Thinks About AI",
       "title_ja": "Howard Marks: A Layman Thinks About AI",
@@ -181,7 +209,7 @@
       "summary_ja": "Title: Howard Marks: A Layman Thinks About AI\nArticle title: A Layman Thinks About AI\nDescription: \u003cdiv\u003eIn his latest memo, Howard Marks revisits the topic of artificial intelligence, describing it as both deeply consequential and highly unpredictable. He addresses 11 questions that surround investing in AI, including who will profit and what it means for the credit markets. Howard points out tha\n[truncated]\n\nArticle text:\nA Layman Thinks About AI\nIn his latest memo, Howard Marks revisits the topic of artificial intelligence, describing it as both deeply consequential and highly unpredictable. He addresses 11 questions that surround investing in AI, including who will profit and what it means for the credit markets. Howard points out that while these questions can\u0026rsquo;t be answered definitively, the presence of uncertainty doesn\u0026rsquo;t mean investors can or should ignore AI: it\u0026rsquo;…"
     },
     {
-      "rank": 14,
+      "rank": 16,
       "hn_id": 50448477,
       "title": "The Four Tiers of AI Intelligence",
       "title_ja": "The Four Tiers of AI Intelligence",
@@ -195,7 +223,7 @@
       "summary_ja": "Title: The Four Tiers of AI Intelligence\nArticle title: The Four Tiers of AI Intelligence - Coship\n\nArticle text:\nThe Four Tiers of AI Intelligence\nThere are many ways to group AI or LLM intelligence.\nIn this one I weakly categorize them based on the difficulty of getting there, as influenced by their relative position to other LLMs.\nAlso note, due to the pace of AI development, a model is in a tier at the point of release (+/- a few days). You may fall behind after and most likely will.\nLab specific analysis are as of today, November 10th, 2026. If you’re coming here later they’re probably outdated.\nThe rule is: it is much easier to move within a tier than across them. Some of them are quite broad, so I’m not saying crossing the entirety one tier is harder than moving to the next tier, but rather moving up a few points on benchmarks when it crosses a tier is much harder than those same…"
     },
     {
-      "rank": 15,
+      "rank": 17,
       "hn_id": 50455580,
       "title": "Museums sector warned of 'acute threat' posed by AI scraping bots",
       "title_ja": "Museums sector warned of 'acute threat' posed by AI scraping bots",
@@ -209,47 +237,7 @@
       "summary_ja": "Title: Museums sector warned of 'acute threat' posed by AI scraping bots\nArticle title: Sector warned of ‘acute threat’ posed by AI scraping bots - Museums Association\nDescription: New white paper says industrial-scale bot activity is imposing substantial costs on cultural institutions\n\nArticle text:\nSector warned of ‘acute threat’ posed by AI scraping bots - Museums Association\nSkip to content\nAbout\nAdvocacy\nCampaigns\nCareers\nEvents\nFunding\nMuseums Journal\nSign In\nFree Entry\nJoin\nContact us\nWatch recordings from past conferences\nEsmée Fairbairn Communities and Collections Fund\nHealth and Wellbeing in Museums Fund\nWatch recordings from past conferences\nEsmée Fairbairn Communities and Collections Fund\nHealth and Wellbeing in Museums Fund\nSector warned of ‘acute threat’ posed by AI scraping bots\nNew white paper says industrial-scale bot activity is imposing substantial costs on cultural in…"
     },
     {
-      "rank": 16,
-      "hn_id": 50455166,
-      "title": "Show HN: Trace AI written code back to the agent and prompt",
-      "title_ja": "Show HN: Trace AI written code back to the agent and prompt",
-      "hn_url": "https://news.ycombinator.com/item?id=50455166",
-      "source_url": "https://github.com/vrannang1/sploom",
-      "image_url": "https://opengraph.githubassets.com/61dc2dfa2cc40863adbd6ea666ff5cd91713938d04bb6d5957be7c697f691d4c/vrannang1/sploom",
-      "score": 1,
-      "final_score": 2,
-      "comments": 0,
-      "posted_at": "2026-11-11T16:21:29Z",
-      "summary_ja": "Title: Show HN: Trace AI written code back to the agent and prompt\nArticle title: GitHub - vrannang1/sploom: Your codebase remembers why: which agent and model wrote each line, and the intent behind it. Lives beside git. · GitHub\nDescription: Your codebase remembers why: which agent and model wrote each line, and the intent behind it. Lives beside git. - vrannang1/sploom\n\nArticle text:\nGitHub - vrannang1/sploom: Your codebase remembers why: which agent and model wrote each line, and the intent behind it. Lives beside git. · GitHub\nSkip to content\nNavigation Menu\nSign in Products Platform GitHub Repository hosting, code review, and collaboration\nCopilot AI coding agent for tasks, projects, and automated work\nBuild \u0026 Ship Actions CI/CD and automation\nCode Quality Quality analysis, fixes, and enforcement\nCodespaces Cloud development environments\nSecure Code Security Vulnerability detection…"
-    },
-    {
-      "rank": 17,
-      "hn_id": 50451102,
-      "title": "OSS projects banning AI-generated contributions",
-      "title_ja": "OSS projects banning AI-generated contributions",
-      "hn_url": "https://news.ycombinator.com/item?id=50451102",
-      "source_url": "https://osssaysno.com",
-      "score": 1,
-      "final_score": 2,
-      "comments": 0,
-      "posted_at": "2026-11-11T08:51:45Z",
-      "summary_ja": "Title: OSS projects banning AI-generated contributions\nArticle title: Open Source Says No\nDescription: OSS projects banning AI-generated contributions, and a broader catalogue of AI contribution policies across the industry.\n\nArticle text:\nOSS projects banning AI-generated contributions, and a broader catalogue of AI contribution policies across the industry.\nPaste a GitHub repository link. It opens a prefilled issue, and an automated policy check runs on it. Format: https://github.com/owner/repo\nHigh performance self-hosted photo and video management solution.\nWe ask you not to open PRs generated with an LLM.\nStars\n118,789\nVerified\n2026-11-11 Policy\nA lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.\nWe will not consider any content generated by generative AI tooling (GitHub Copilot, ChatGPT, Claude Code, Cursor, etc.) in external contrib…"
-    },
-    {
       "rank": 18,
-      "hn_id": 50448174,
-      "title": "AI is an information gateway. Audiences still don't want it making their news",
-      "title_ja": "AI is an information gateway. Audiences still don't want it making their news",
-      "hn_url": "https://news.ycombinator.com/item?id=50448174",
-      "source_url": "https://www.niemanlab.org/2026/11/ai-is-becoming-an-information-gateway-audiences-still-dont-want-it-making-their-news/",
-      "score": 2,
-      "final_score": 2,
-      "comments": 0,
-      "posted_at": "2026-11-11T00:15:33Z",
-      "summary_ja": "Title: AI is an information gateway. Audiences still don't want it making their news"
-    },
-    {
-      "rank": 19,
       "hn_id": 50455181,
       "title": "Opportunities for Scientists and Engineers to Learn Programming Using AI Tools",
       "title_ja": "Opportunities for Scientists and Engineers to Learn Programming Using AI Tools",
@@ -263,7 +251,61 @@
       "summary_ja": "Title: Opportunities for Scientists and Engineers to Learn Programming Using AI Tools\nArticle title: Six Opportunities for Scientists and Engineers to Learn Programming Using AI Tools Such as ChatGPT | IEEE Journals \u0026 Magazine | IEEE Xplore\nDescription: This article demonstrates how scientists and engineers can use modern artificial intelligence (AI) tools such as ChatGPT and GitHub Copilot to learn computer pr\n\nArticle text:\nSix Opportunities for Scientists and Engineers to Learn Programming Using AI Tools Such as ChatGPT | IEEE Journals \u0026 Magazine | IEEE Xplore\n--\u003e\n--\u003e\nIEEE Account\nPrivacy \u0026 Opting Out of Cookies\nA not-for-profit organization, IEEE is the world's largest technical professional organization dedicated to advancing technology for the benefit of humanity.\n© Copyright 2026 IEEE - All rights reserved. Use of this web site signifies your agreement to the terms and conditions."
     },
     {
+      "rank": 19,
+      "hn_id": 50455012,
+      "title": "Asynchronous, Long-Running AI Agents with Google ADK",
+      "title_ja": "Asynchronous, Long-Running AI Agents with Google ADK",
+      "hn_url": "https://news.ycombinator.com/item?id=50455012",
+      "source_url": "https://benjaminetienne.com/blog/async-ai-agents-in-google-adk-pause-resume-human-in-the-loop/",
+      "image_url": "https://benjaminetienne.com/images/og-base_hu_4f6aa3dac0d4170f.png",
+      "score": 1,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-11-11T16:06:28Z",
+      "summary_ja": "Title: Asynchronous, Long-Running AI Agents with Google ADK\nArticle title: Fire and Forget: Building Asynchronous, Long-Running AI Agents with Google ADK — Benjamin Etienne\nDescription: Learn how to build long-running, asynchronous AI agents in Google ADK using FastAPI webhooks, DatabaseSessionService, and Human-in-the-Loop (HITL) pause/resume.\n\nArticle text:\nBenjamin Etienne\nWriting\nAbout\nContact\nFire and Forget: Building Asynchronous, Long-Running AI Agents with Google ADK\nWhy we should stop chatting with agents\nWhy synchronous HTTP breaks for long-running AI agents\nWhy is this a problem ?\nThe Fire-and-Forget Pattern: HTTP 202 Accepted and Webhooks\nHuman-in-the-Loop (HITL) in Google ADK: Pausing and Resuming Workflows\nHuman validation and Long-running Operations\nWhy the loop can be plain Python\nDeep diving in what exactly happens behind the scenes\nPausing and resuming agents, human-in-…"
+    },
+    {
       "rank": 20,
+      "hn_id": 50455166,
+      "title": "Show HN: Trace AI written code back to the agent and prompt",
+      "title_ja": "Show HN: Trace AI written code back to the agent and prompt",
+      "hn_url": "https://news.ycombinator.com/item?id=50455166",
+      "source_url": "https://github.com/vrannang1/sploom",
+      "image_url": "https://opengraph.githubassets.com/61dc2dfa2cc40863adbd6ea666ff5cd91713938d04bb6d5957be7c697f691d4c/vrannang1/sploom",
+      "score": 1,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-11-11T16:21:29Z",
+      "summary_ja": "Title: Show HN: Trace AI written code back to the agent and prompt\nArticle title: GitHub - vrannang1/sploom: Your codebase remembers why: which agent and model wrote each line, and the intent behind it. Lives beside git. · GitHub\nDescription: Your codebase remembers why: which agent and model wrote each line, and the intent behind it. Lives beside git. - vrannang1/sploom\n\nArticle text:\nGitHub - vrannang1/sploom: Your codebase remembers why: which agent and model wrote each line, and the intent behind it. Lives beside git. · GitHub\nSkip to content\nNavigation Menu\nSign in Products Platform GitHub Repository hosting, code review, and collaboration\nCopilot AI coding agent for tasks, projects, and automated work\nBuild \u0026 Ship Actions CI/CD and automation\nCode Quality Quality analysis, fixes, and enforcement\nCodespaces Cloud development environments\nSecure Code Security Vulnerability detection…"
+    },
+    {
+      "rank": 21,
+      "hn_id": 50455472,
+      "title": "Anthropic IPO – Dario Amodei [video]",
+      "title_ja": "Anthropic IPO – Dario Amodei [video]",
+      "hn_url": "https://news.ycombinator.com/item?id=50455472",
+      "source_url": "https://www.youtube.com/watch?v=eynv5VR9qos",
+      "score": 2,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-11-11T16:45:20Z",
+      "summary_ja": "Title: Anthropic IPO – Dario Amodei [video]\nArticle title: - YouTube\nDescription: Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.\n\nArticle text:\n- YouTube About Press Copyright Contact us Creators Advertise Developers Terms Privacy Policy \u0026 Safety How YouTube works Test new features NFL Sunday Ticket © 2026 Google LLC"
+    },
+    {
+      "rank": 22,
+      "hn_id": 50451102,
+      "title": "OSS projects banning AI-generated contributions",
+      "title_ja": "OSS projects banning AI-generated contributions",
+      "hn_url": "https://news.ycombinator.com/item?id=50451102",
+      "source_url": "https://osssaysno.com",
+      "score": 1,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-11-11T08:51:45Z",
+      "summary_ja": "Title: OSS projects banning AI-generated contributions\nArticle title: Open Source Says No\nDescription: OSS projects banning AI-generated contributions, and a broader catalogue of AI contribution policies across the industry.\n\nArticle text:\nOSS projects banning AI-generated contributions, and a broader catalogue of AI contribution policies across the industry.\nPaste a GitHub repository link. It opens a prefilled issue, and an automated policy check runs on it. Format: https://github.com/owner/repo\nHigh performance self-hosted photo and video management solution.\nWe ask you not to open PRs generated with an LLM.\nStars\n118,789\nVerified\n2026-11-11 Policy\nA lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.\nWe will not consider any content generated by generative AI tooling (GitHub Copilot, ChatGPT, Claude Code, Cursor, etc.) in external contrib…"
+    },
+    {
+      "rank": 23,
       "hn_id": 50455326,
       "title": "RefTrail – Zero-trust verification and clean-room specs for AI agents",
       "title_ja": "RefTrail – Zero-trust verification and clean-room specs for AI agents",
@@ -277,7 +319,7 @@
       "summary_ja": "Title: RefTrail – Zero-trust verification and clean-room specs for AI agents\nArticle title: GitHub - kidimusicofficial-prog/reftrail: Zero-trust verification \u0026 clean-room spec protocol for coding agents. · GitHub\nDescription: Zero-trust verification \u0026 clean-room spec protocol for coding agents. - kidimusicofficial-prog/reftrail\n\nArticle text:\nGitHub - kidimusicofficial-prog/reftrail: Zero-trust verification \u0026 clean-room spec protocol for coding agents. · GitHub\nSkip to content\nNavigation Menu\nSign in Products Platform GitHub Repository hosting, code review, and collaboration\nCopilot AI coding agent for tasks, projects, and automated work\nBuild \u0026 Ship Actions CI/CD and automation\nCode Quality Quality analysis, fixes, and enforcement\nCodespaces Cloud development environments\nSecure Code Security Vulnerability detection and remediation\nSecret Protection Secret scanning and leak prevention\nD…"
     },
     {
-      "rank": 21,
+      "rank": 24,
       "hn_id": 50451004,
       "title": "Proton keeps your data secure in the age of AI",
       "title_ja": "Proton keeps your data secure in the age of AI",
@@ -291,21 +333,7 @@
       "summary_ja": "Title: Proton keeps your data secure in the age of AI\nArticle title: How Proton keeps your data secure in the age of AI | Proton\nDescription: We have added powerful new AI review layers on top of existing human ones, and much of our security posture hasn\n\nArticle text:\nHow Proton keeps your data secure in the age of AI | Proton Products Products\nDiscover Proton Discover Proton\nProton VPN (new window) Cloud storage Proton Drive Password manager Proton Pass AI assistant Lumo AI Video conferencing Proton Meet Private scheduling Proton Calendar Collaborative documents Proton Docs Collaborative spreadsheets Proton Sheets Two-factor authenticator Proton Authenticator Bitcoin wallet Proton Wallet Encrypted notes Standard Notes (new window) Hide-my-email aliases SimpleLogin (new window) Discover Proton Personal plans Proton Choose an internet where your privacy comes first Create a free account…"
     },
     {
-      "rank": 22,
-      "hn_id": 50448519,
-      "title": "AI proved your code correct. What did it prove?",
-      "title_ja": "AI proved your code correct. What did it prove?",
-      "hn_url": "https://news.ycombinator.com/item?id=50448519",
-      "source_url": "https://kellerai.io/resources/ai-proved-your-code-correct",
-      "image_url": "https://kellerai.io/resources/covers/ai-proved-your-code-correct.png",
-      "score": 1,
-      "final_score": 1,
-      "comments": 0,
-      "posted_at": "2026-11-11T01:01:30Z",
-      "summary_ja": "Title: AI proved your code correct. What did it prove?\nArticle title: AI proved your code correct. What did it actually prove? — Keller AI\nDescription: An interactive introduction to formal verification: run a sorting function, construct a geometric proof, and assemble an argument about permissions.\n\nArticle text:\nAI proved your code correct. What did it actually prove? — Keller AI\nSkip to main content\nKeller AI Product\nEngineering notes · Formal verification\nAI proved your code correct. What did it actually prove?\nHow formal verification works, what it can establish about a program, and how its conclusions depend on the specification and assumptions.\nRecent work from Anthropic and GitHub has brought more attention to formal verification in AI-assisted programming. In these projects, an agent produces code or proofs that can be checked against a mathematical specification. What does that…"
-    },
-    {
-      "rank": 23,
+      "rank": 25,
       "hn_id": 50455136,
       "title": "A developmental psychologist audits his own research with AI",
       "title_ja": "A developmental psychologist audits his own research with AI",
@@ -318,7 +346,7 @@
       "summary_ja": "Title: A developmental psychologist audits his own research with AI\nArticle title: Babies Learning Language: An AI audit of my work's computational reproducibility\nDescription: Blog about fatherhood, langauge, developmental psychology, and cognitive science.\n\nArticle text:\nBabies Learning Language: An AI audit of my work's computational reproducibility\nBabies Learning Language\nThoughts on language learning, child development, and fatherhood; experimental methods, reproducibility, and open science; theoretical musings on cognitive science more broadly.\nAn AI audit of my work's computational reproducibility\n(This post follows my previous one about new AI policies for my lab .)\nI'm trying to come to terms with the challenges and opportunities of AI for science. Coding agents in particular offer the possibility of \"checking\" – reproducing and critiquing – scientific data analysis. This possi…"
     },
     {
-      "rank": 24,
+      "rank": 26,
       "hn_id": 50455357,
       "title": "Nvidia Kumo brings graph neural networks to Snowflake ML",
       "title_ja": "Nvidia Kumo brings graph neural networks to Snowflake ML",
@@ -331,48 +359,7 @@
       "summary_ja": "Title: Nvidia Kumo brings graph neural networks to Snowflake ML"
     },
     {
-      "rank": 25,
-      "hn_id": 50455220,
-      "title": "Show HN: Woolly, one local memory shared by all your AI tools",
-      "title_ja": "Show HN: Woolly, one local memory shared by all your AI tools",
-      "hn_url": "https://news.ycombinator.com/item?id=50455220",
-      "source_url": "https://usewoolly.com/",
-      "image_url": "https://usewoolly.com/og/docs/image.png",
-      "score": 1,
-      "final_score": 1,
-      "comments": 0,
-      "posted_at": "2026-11-11T16:25:04Z",
-      "summary_ja": "Title: Show HN: Woolly, one local memory shared by all your AI tools\nArticle title: Woolly | Local memory for your AI tools\nDescription: Woolly gives Claude, Cursor and your own tools one shared memory that lives in plain files on your laptop. Open source, private, and free.\n\nArticle text:\nWoolly GitHub Download Docs Memory for your AI, kept on your laptop.\nWoolly gives Claude, Cursor and your own tools one shared memory. It lives in plain files on your machine and never leaves your computer."
-    },
-    {
-      "rank": 26,
-      "hn_id": 50450996,
-      "title": "Sustainable AI: The Economics of Intelligence",
-      "title_ja": "Sustainable AI: The Economics of Intelligence",
-      "hn_url": "https://news.ycombinator.com/item?id=50450996",
-      "source_url": "https://muse.ai/s/sustainable-ai-the-economics-of-zxb68xexo9xsxrxuxb/ivDVErp6tuZh10FyjHbfrov4tcOPKcS3ilSk2uI2uIk",
-      "image_url": "https://muse.ai/s/sustainable-ai-the-economics-of-zxb68xexo9xsxrxuxb/preview-image?share_key=ivDVErp6tuZh10FyjHbfrov4tcOPKcS3ilSk2uI2uIk",
-      "score": 1,
-      "final_score": 1,
-      "comments": 0,
-      "posted_at": "2026-11-11T08:32:29Z",
-      "summary_ja": "Title: Sustainable AI: The Economics of Intelligence\nArticle title: Sustainable Ai The Economics Of\nDescription: View this shared creation on Muse\n\nArticle text:\nSustainable Ai The Economics Of Content is user generated and unverified. Log in Sign up Sustainable Ai The Economics Of"
-    },
-    {
       "rank": 27,
-      "hn_id": 50451010,
-      "title": "I'd rather use AI than Ansible",
-      "title_ja": "I'd rather use AI than Ansible",
-      "hn_url": "https://news.ycombinator.com/item?id=50451010",
-      "source_url": "",
-      "score": 1,
-      "final_score": 1,
-      "comments": 0,
-      "posted_at": "2026-11-11T08:34:36Z",
-      "summary_ja": "Title: I'd rather use AI than Ansible\nHN text: It makes me think, that for provisioning small amount of bare metal servers it would be simpler for me to use prompts and natural language than YAML. I need a reality check."
-    },
-    {
-      "rank": 28,
       "hn_id": 50450815,
       "title": "AI Nelo Image",
       "title_ja": "AI Nelo Image",
@@ -386,17 +373,45 @@
       "summary_ja": "Title: AI Nelo Image\nArticle title: AI Image \u0026 Photo Editor — Edit \u0026 Generate Photos Online\nDescription: Create images with a free AI image \u0026 photo editor online. Turn text into pictures, explore styles and edit your own photos. No visible watermark.\n\nArticle text:\nAI Image \u0026 Photo Editor — Edit \u0026 Generate Photos Online Nelo Image Home Image Text to Image Image to Image Tools Background Remover Guide Pricing … Log in Workspace YOUR AI IMAGE WORKSPACE\nAI Image \u0026 Photo Editor, Free Online\nCreate with free AI image tools — turn words into images, reimagine your photos, and explore new styles for every idea.\nUpload Image Drop or select a photo DESCRIBE YOUR IMAGE Remove background Remove watermark Upscale image Banana 2.1 Banana 2.1 4:5 · 1K 4:5 · 1K 1 image 1× Generate image 2 credits Free Banana 2.1 · 1K Original PNG No visible watermark\nText to image Four creative styles Six image ratios…"
     },
     {
-      "rank": 29,
-      "hn_id": 50455539,
-      "title": "Anthropic donates 3000 ultra licenses to CNCF maintainers",
-      "title_ja": "Anthropic donates 3000 ultra licenses to CNCF maintainers",
-      "hn_url": "https://news.ycombinator.com/item?id=50455539",
-      "source_url": "https://claude.ai/cncf",
+      "rank": 28,
+      "hn_id": 50455220,
+      "title": "Show HN: Woolly, one local memory shared by all your AI tools",
+      "title_ja": "Show HN: Woolly, one local memory shared by all your AI tools",
+      "hn_url": "https://news.ycombinator.com/item?id=50455220",
+      "source_url": "https://usewoolly.com/",
+      "image_url": "https://usewoolly.com/og/docs/image.png",
       "score": 1,
       "final_score": 1,
       "comments": 0,
-      "posted_at": "2026-11-11T16:50:53Z",
-      "summary_ja": "Title: Anthropic donates 3000 ultra licenses to CNCF maintainers"
+      "posted_at": "2026-11-11T16:25:04Z",
+      "summary_ja": "Title: Show HN: Woolly, one local memory shared by all your AI tools\nArticle title: Woolly | Local memory for your AI tools\nDescription: Woolly gives Claude, Cursor and your own tools one shared memory that lives in plain files on your laptop. Open source, private, and free.\n\nArticle text:\nWoolly GitHub Download Docs Memory for your AI, kept on your laptop.\nWoolly gives Claude, Cursor and your own tools one shared memory. It lives in plain files on your machine and never leaves your computer."
+    },
+    {
+      "rank": 29,
+      "hn_id": 50450996,
+      "title": "Sustainable AI: The Economics of Intelligence",
+      "title_ja": "Sustainable AI: The Economics of Intelligence",
+      "hn_url": "https://news.ycombinator.com/item?id=50450996",
+      "source_url": "https://muse.ai/s/sustainable-ai-the-economics-of-zxb68xexo9xsxrxuxb/ivDVErp6tuZh10FyjHbfrov4tcOPKcS3ilSk2uI2uIk",
+      "image_url": "https://muse.ai/s/sustainable-ai-the-economics-of-zxb68xexo9xsxrxuxb/preview-image?share_key=ivDVErp6tuZh10FyjHbfrov4tcOPKcS3ilSk2uI2uIk",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-11-11T08:32:29Z",
+      "summary_ja": "Title: Sustainable AI: The Economics of Intelligence\nArticle title: Sustainable Ai The Economics Of\nDescription: View this shared creation on Muse\n\nArticle text:\nSustainable Ai The Economics Of Content is user generated and unverified. Log in Sign up Sustainable Ai The Economics Of"
+    },
+    {
+      "rank": 30,
+      "hn_id": 50451010,
+      "title": "I'd rather use AI than Ansible",
+      "title_ja": "I'd rather use AI than Ansible",
+      "hn_url": "https://news.ycombinator.com/item?id=50451010",
+      "source_url": "",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-11-11T08:34:36Z",
+      "summary_ja": "Title: I'd rather use AI than Ansible\nHN text: It makes me think, that for provisioning small amount of bare metal servers it would be simpler for me to use prompts and natural language than YAML. I need a reality check."
     }
   ]
 }

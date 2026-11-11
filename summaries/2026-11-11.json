@@ -1,6 +1,6 @@
 {
   "date": "2026-11-11",
-  "generated_at": "2026-11-11T01:03:53Z",
+  "generated_at": "2026-11-11T08:56:07Z",
   "articles": [
     {
       "rank": 1,
@@ -32,29 +32,31 @@
     },
     {
       "rank": 3,
-      "hn_id": 50448174,
-      "title": "AI is an information gateway. Audiences still don't want it making their news",
-      "title_ja": "AI is an information gateway. Audiences still don't want it making their news",
-      "hn_url": "https://news.ycombinator.com/item?id=50448174",
-      "source_url": "https://www.niemanlab.org/2026/11/ai-is-becoming-an-information-gateway-audiences-still-dont-want-it-making-their-news/",
+      "hn_id": 50450911,
+      "title": "Cutting LLM Token Costs with Currents News API and TypeSafe Jev Pre-Filtering",
+      "title_ja": "Cutting LLM Token Costs with Currents News API and TypeSafe Jev Pre-Filtering",
+      "hn_url": "https://news.ycombinator.com/item?id=50450911",
+      "source_url": "https://currentsapi.services/en/blog/cut-llm-token-costs-typesafe-jev-prefiltering",
+      "image_url": "https://currentsapi.services/img/Cover-Image.jpg",
       "score": 2,
-      "final_score": 2,
+      "final_score": 4,
       "comments": 0,
-      "posted_at": "2026-11-11T00:15:33Z",
-      "summary_ja": "Title: AI is an information gateway. Audiences still don't want it making their news"
+      "posted_at": "2026-11-11T08:17:35Z",
+      "summary_ja": "Title: Cutting LLM Token Costs with Currents News API and TypeSafe Jev Pre-Filtering\nDescription: Screening news with TypeSafe Jev before LLM synthesis cut input tokens 16–18% at a 0.70 threshold; blind judges could not tell five of six cells from raw.\n\nArticle text:\nPlatform\nIntroduction\nStatistics --\u003e\nSources\nSolutions\nUse Cases\nCompare Alternatives\nPricing Comparison\nFeatures Comparison\nPricing\nDevelopers\nDocumentation\nFAQ\nBlog\n◐\nComfort off\nLog in\nStart free\n◐\nComfort off\nLog in\nStart free\n250 requests/day · no card\nBlog\nCutting LLM Token Costs with Currents News API and TypeSafe Jev Pre-Filtering\nScreening news with TypeSafe Jev before LLM synthesis cut input tokens 16–18% at a 0.70 threshold; blind judges could not tell five of six cells from raw.\nCurrents News API keyword search is built for recall. A query for a geopolitical development or a stock ticker returns every publication…"
     },
     {
       "rank": 4,
-      "hn_id": 50448276,
-      "title": "Exploring AI Contextual Coherence Across 500K+ Words and 1,788 Messages",
-      "title_ja": "Exploring AI Contextual Coherence Across 500K+ Words and 1,788 Messages",
-      "hn_url": "https://news.ycombinator.com/item?id=50448276",
-      "source_url": "https://zenodo.org/records/23686384",
-      "score": 1,
-      "final_score": 2,
+      "hn_id": 50450917,
+      "title": "Apple's Claris Testing 'Harbor' App for Local AI on Macs",
+      "title_ja": "Apple's Claris Testing 'Harbor' App for Local AI on Macs",
+      "hn_url": "https://news.ycombinator.com/item?id=50450917",
+      "source_url": "https://www.macrumors.com/2026/11/10/apple-claris-harbor-app/",
+      "image_url": "https://images.macrumors.com/t/9wUV-qYkqqosjBGhmAOYPyY-q5k=/1600x/article-new/2026/11/claris-harbor-2.jpg",
+      "score": 2,
+      "final_score": 4,
       "comments": 0,
-      "posted_at": "2026-11-11T00:28:37Z",
-      "summary_ja": "Title: Exploring AI Contextual Coherence Across 500K+ Words and 1,788 Messages\nArticle title: UKA-135: A Proposed Rooted-Tree Ontology of 135 Research Domains with Epistemic Constraint | Zenodo\nDescription: This deposit contains a pseudonymised export of a single, unplanned conversation between a user and DeepSeek's chat model, conducted over six days (19–25 October 2026). It began as a request to analyse a personal essay on forgiveness written about twenty years earlier and grew, without a prior plan,\n[truncated]\n\nArticle text:\nUKA-135: A Proposed Rooted-Tree Ontology of 135 Research Domains with Epistemic Constraint | Zenodo\nSkip to main\nYou are using an outdated browser. Please upgrade your browser to improve your experience.\nPlanned intervention : On Tuesday, November 17th between 08:00-08:15 (UTC), Zenodo will be unavailable for 10 minutes because of a scheduled upgrade of our serve…"
+      "posted_at": "2026-11-11T08:19:20Z",
+      "summary_ja": "Title: Apple's Claris Testing 'Harbor' App for Local AI on Macs\nArticle title: Apple's Claris Testing 'Harbor' App for Local AI on Macs - MacRumors\nDescription: Apple's Claris subsidiary is testing an app called Harbor, which turns Apple silicon Macs into a private AI server.\n\nArticle text:\nApple's Claris Testing 'Harbor' App for Local AI on Macs - MacRumors\nSkip to Content Got a tip for us? Let us know\na. Send us an email\nForums Forums Show Forums menu Login\nApple's Claris Testing 'Harbor' App for Local AI on Macs\nApple's Claris subsidiary is testing an app called Harbor , which turns Apple silicon Macs into a private AI server.\nHarbor works with a single Apple silicon Mac, but it also supports connecting multiple Mac computers over Thunderbolt 5 to pool unified memory for larger models. Apple added RDMA over Thunderbolt 5 with macOS Tahoe 26.2, making clustering faster.\nHarbor detects…"
     },
     {
       "rank": 5,
@@ -72,6 +74,58 @@
     },
     {
       "rank": 6,
+      "hn_id": 50448276,
+      "title": "Exploring AI Contextual Coherence Across 500K+ Words and 1,788 Messages",
+      "title_ja": "Exploring AI Contextual Coherence Across 500K+ Words and 1,788 Messages",
+      "hn_url": "https://news.ycombinator.com/item?id=50448276",
+      "source_url": "https://zenodo.org/records/23686384",
+      "score": 1,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-11-11T00:28:37Z",
+      "summary_ja": "Title: Exploring AI Contextual Coherence Across 500K+ Words and 1,788 Messages\nArticle title: UKA-135: A Proposed Rooted-Tree Ontology of 135 Research Domains with Epistemic Constraint | Zenodo\nDescription: This deposit contains a pseudonymised export of a single, unplanned conversation between a user and DeepSeek's chat model, conducted over six days (19–25 October 2026). It began as a request to analyse a personal essay on forgiveness written about twenty years earlier and grew, without a prior plan,\n[truncated]\n\nArticle text:\nUKA-135: A Proposed Rooted-Tree Ontology of 135 Research Domains with Epistemic Constraint | Zenodo\nSkip to main\nYou are using an outdated browser. Please upgrade your browser to improve your experience.\nPlanned intervention : On Tuesday, November 17th between 08:00-08:15 (UTC), Zenodo will be unavailable for 10 minutes because of a scheduled upgrade of our serve…"
+    },
+    {
+      "rank": 7,
+      "hn_id": 50450860,
+      "title": "How to export Claude chat to word without losing formatting [video]",
+      "title_ja": "How to export Claude chat to word without losing formatting [video]",
+      "hn_url": "https://news.ycombinator.com/item?id=50450860",
+      "source_url": "https://www.youtube.com/watch?v=C7NIpkOyc-4",
+      "score": 2,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-11-11T08:04:51Z",
+      "summary_ja": "Title: How to export Claude chat to word without losing formatting [video]\nArticle title: - YouTube\nDescription: Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.\n\nArticle text:\n- YouTube About Press Copyright Contact us Creators Advertise Developers Terms Privacy Policy \u0026 Safety How YouTube works Test new features NFL Sunday Ticket © 2026 Google LLC"
+    },
+    {
+      "rank": 8,
+      "hn_id": 50451102,
+      "title": "OSS projects banning AI-generated contributions",
+      "title_ja": "OSS projects banning AI-generated contributions",
+      "hn_url": "https://news.ycombinator.com/item?id=50451102",
+      "source_url": "https://osssaysno.com",
+      "score": 1,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-11-11T08:51:45Z",
+      "summary_ja": "Title: OSS projects banning AI-generated contributions\nArticle title: Open Source Says No\nDescription: OSS projects banning AI-generated contributions, and a broader catalogue of AI contribution policies across the industry.\n\nArticle text:\nOSS projects banning AI-generated contributions, and a broader catalogue of AI contribution policies across the industry.\nPaste a GitHub repository link. It opens a prefilled issue, and an automated policy check runs on it. Format: https://github.com/owner/repo\nHigh performance self-hosted photo and video management solution.\nWe ask you not to open PRs generated with an LLM.\nStars\n118,789\nVerified\n2026-11-11 Policy\nA lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.\nWe will not consider any content generated by generative AI tooling (GitHub Copilot, ChatGPT, Claude Code, Cursor, etc.) in external contrib…"
+    },
+    {
+      "rank": 9,
+      "hn_id": 50448174,
+      "title": "AI is an information gateway. Audiences still don't want it making their news",
+      "title_ja": "AI is an information gateway. Audiences still don't want it making their news",
+      "hn_url": "https://news.ycombinator.com/item?id=50448174",
+      "source_url": "https://www.niemanlab.org/2026/11/ai-is-becoming-an-information-gateway-audiences-still-dont-want-it-making-their-news/",
+      "score": 2,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-11-11T00:15:33Z",
+      "summary_ja": "Title: AI is an information gateway. Audiences still don't want it making their news"
+    },
+    {
+      "rank": 10,
       "hn_id": 50448477,
       "title": "The Four Tiers of AI Intelligence",
       "title_ja": "The Four Tiers of AI Intelligence",
@@ -85,7 +139,7 @@
       "summary_ja": "Title: The Four Tiers of AI Intelligence\nArticle title: The Four Tiers of AI Intelligence - Coship\n\nArticle text:\nThe Four Tiers of AI Intelligence\nThere are many ways to group AI or LLM intelligence.\nIn this one I weakly categorize them based on the difficulty of getting there, as influenced by their relative position to other LLMs.\nAlso note, due to the pace of AI development, a model is in a tier at the point of release (+/- a few days). You may fall behind after and most likely will.\nLab specific analysis are as of today, November 10th, 2026. If you’re coming here later they’re probably outdated.\nThe rule is: it is much easier to move within a tier than across them. Some of them are quite broad, so I’m not saying crossing the entirety one tier is harder than moving to the next tier, but rather moving up a few points on benchmarks when it crosses a tier is much harder than those same…"
     },
     {
-      "rank": 7,
+      "rank": 11,
       "hn_id": 50448213,
       "title": "US regulator postpones Wall Street push to trade AI computing futures",
       "title_ja": "US regulator postpones Wall Street push to trade AI computing futures",
@@ -98,7 +152,7 @@
       "summary_ja": "Title: US regulator postpones Wall Street push to trade AI computing futures"
     },
     {
-      "rank": 8,
+      "rank": 12,
       "hn_id": 50448519,
       "title": "AI proved your code correct. What did it prove?",
       "title_ja": "AI proved your code correct. What did it prove?",
@@ -110,6 +164,61 @@
       "comments": 0,
       "posted_at": "2026-11-11T01:01:30Z",
       "summary_ja": "Title: AI proved your code correct. What did it prove?\nArticle title: AI proved your code correct. What did it actually prove? — Keller AI\nDescription: An interactive introduction to formal verification: run a sorting function, construct a geometric proof, and assemble an argument about permissions.\n\nArticle text:\nAI proved your code correct. What did it actually prove? — Keller AI\nSkip to main content\nKeller AI Product\nEngineering notes · Formal verification\nAI proved your code correct. What did it actually prove?\nHow formal verification works, what it can establish about a program, and how its conclusions depend on the specification and assumptions.\nRecent work from Anthropic and GitHub has brought more attention to formal verification in AI-assisted programming. In these projects, an agent produces code or proofs that can be checked against a mathematical specification. What does that…"
+    },
+    {
+      "rank": 13,
+      "hn_id": 50451010,
+      "title": "I'd rather use AI than Ansible",
+      "title_ja": "I'd rather use AI than Ansible",
+      "hn_url": "https://news.ycombinator.com/item?id=50451010",
+      "source_url": "",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-11-11T08:34:36Z",
+      "summary_ja": "Title: I'd rather use AI than Ansible\nHN text: It makes me think, that for provisioning small amount of bare metal servers it would be simpler for me to use prompts and natural language than YAML. I need a reality check."
+    },
+    {
+      "rank": 14,
+      "hn_id": 50451004,
+      "title": "Proton keeps your data secure in the age of AI",
+      "title_ja": "Proton keeps your data secure in the age of AI",
+      "hn_url": "https://news.ycombinator.com/item?id=50451004",
+      "source_url": "https://proton.me/blog/how-proton-keeps-your-data-secure",
+      "image_url": "https://pmecdn.protonweb.com/image-transformation/?s=c\u0026image=images/w_1024,h_512,c_scale/f_auto,q_auto/v1794309174/wp-pme/image-5_313212519cc/image-5_313212519cc.png?_i=AA",
+      "score": 1,
+      "final_score": 1,
+      "comments": 1,
+      "posted_at": "2026-11-11T08:34:00Z",
+      "summary_ja": "Title: Proton keeps your data secure in the age of AI\nArticle title: How Proton keeps your data secure in the age of AI | Proton\nDescription: We have added powerful new AI review layers on top of existing human ones, and much of our security posture hasn\n\nArticle text:\nHow Proton keeps your data secure in the age of AI | Proton Products Products\nDiscover Proton Discover Proton\nProton VPN (new window) Cloud storage Proton Drive Password manager Proton Pass AI assistant Lumo AI Video conferencing Proton Meet Private scheduling Proton Calendar Collaborative documents Proton Docs Collaborative spreadsheets Proton Sheets Two-factor authenticator Proton Authenticator Bitcoin wallet Proton Wallet Encrypted notes Standard Notes (new window) Hide-my-email aliases SimpleLogin (new window) Discover Proton Personal plans Proton Choose an internet where your privacy comes first Create a free account…"
+    },
+    {
+      "rank": 15,
+      "hn_id": 50450815,
+      "title": "AI Nelo Image",
+      "title_ja": "AI Nelo Image",
+      "hn_url": "https://news.ycombinator.com/item?id=50450815",
+      "source_url": "https://neloimage.com",
+      "image_url": "https://neloimage.com/images/studio/citrus-campaign.webp",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-11-11T07:56:39Z",
+      "summary_ja": "Title: AI Nelo Image\nArticle title: AI Image \u0026 Photo Editor — Edit \u0026 Generate Photos Online\nDescription: Create images with a free AI image \u0026 photo editor online. Turn text into pictures, explore styles and edit your own photos. No visible watermark.\n\nArticle text:\nAI Image \u0026 Photo Editor — Edit \u0026 Generate Photos Online Nelo Image Home Image Text to Image Image to Image Tools Background Remover Guide Pricing … Log in Workspace YOUR AI IMAGE WORKSPACE\nAI Image \u0026 Photo Editor, Free Online\nCreate with free AI image tools — turn words into images, reimagine your photos, and explore new styles for every idea.\nUpload Image Drop or select a photo DESCRIBE YOUR IMAGE Remove background Remove watermark Upscale image Banana 2.1 Banana 2.1 4:5 · 1K 4:5 · 1K 1 image 1× Generate image 2 credits Free Banana 2.1 · 1K Original PNG No visible watermark\nText to image Four creative styles Six image ratios…"
+    },
+    {
+      "rank": 16,
+      "hn_id": 50450996,
+      "title": "Sustainable AI: The Economics of Intelligence",
+      "title_ja": "Sustainable AI: The Economics of Intelligence",
+      "hn_url": "https://news.ycombinator.com/item?id=50450996",
+      "source_url": "https://muse.ai/s/sustainable-ai-the-economics-of-zxb68xexo9xsxrxuxb/ivDVErp6tuZh10FyjHbfrov4tcOPKcS3ilSk2uI2uIk",
+      "image_url": "https://muse.ai/s/sustainable-ai-the-economics-of-zxb68xexo9xsxrxuxb/preview-image?share_key=ivDVErp6tuZh10FyjHbfrov4tcOPKcS3ilSk2uI2uIk",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-11-11T08:32:29Z",
+      "summary_ja": "Title: Sustainable AI: The Economics of Intelligence\nArticle title: Sustainable Ai The Economics Of\nDescription: View this shared creation on Muse\n\nArticle text:\nSustainable Ai The Economics Of Content is user generated and unverified. Log in Sign up Sustainable Ai The Economics Of"
     }
   ]
 }

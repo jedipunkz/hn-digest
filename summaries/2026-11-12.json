@@ -1,0 +1,61 @@
+{
+  "date": "2026-11-12",
+  "generated_at": "2026-11-12T06:00:03Z",
+  "articles": [
+    {
+      "rank": 1,
+      "hn_id": 50463372,
+      "title": "What happens to the AI industry if Nvidia falters",
+      "title_ja": "What happens to the AI industry if Nvidia falters",
+      "hn_url": "https://news.ycombinator.com/item?id=50463372",
+      "source_url": "https://finshots.in/archive/what-happens-to-ai-industry-if-nvidia-falters/",
+      "image_url": "https://cdn.finshots.app/images/2026/11/Nvidia-Fall-V3.jpg",
+      "score": 3,
+      "final_score": 6,
+      "comments": 0,
+      "posted_at": "2026-11-12T05:25:17Z",
+      "summary_ja": "Title: What happens to the AI industry if Nvidia falters\nDescription: An explainer on what’s happening with Nvidia and how this tale of two Huangs could reshape the AI industry.\n\nArticle text:\n12 November 2026\n•\nBusiness\nWhat happens to the AI industry if Nvidia falters\nIn today’s Finshots, we look at what’s happening with Nvidia and try to reason about how this tale of two Huangs could reshape the AI industry.\nBut before we begin, if you love keeping up with the buzz in business and finance, make sure to subscribe and join the Finshots club, loved by over 5 lakh readers.\nAlready a subscriber or reading this on the app? You’re all set. Go ahead and enjoy the story!\nLove our insights? Add Finshots as a Preferred Source on Google ⭐\nIt’s not every day that you wake up to the news that the CEO of the world's most valuable chipmaker is at the centre of a Chinese espionage operation. For the u…"
+    },
+    {
+      "rank": 2,
+      "hn_id": 50463558,
+      "title": "Towards Verifiable LLM Infra",
+      "title_ja": "Towards Verifiable LLM Infra",
+      "hn_url": "https://news.ycombinator.com/item?id=50463558",
+      "source_url": "https://haoailab.com/blogs/verifiable-llm-infra/",
+      "image_url": "https://haoailab.com/blogs/verifiable-llm-infra/img/cover.png",
+      "score": 1,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-11-12T05:53:11Z",
+      "summary_ja": "Title: Towards Verifiable LLM Infra\nArticle title: Towards Verifiable LLM Infra | Hao AI Lab @ UCSD\nDescription: Suppose an AI agent is strong enough to build a fast inference engine from scratch; in this second half of the problem, the bottleneck shifts from capability to verification. We introduce vstack, a 5-stage formal verification workflow for coding agents, and veriserve, a prototype verifiable LLM serv\n[truncated]\n\nArticle text:\nTowards Verifiable LLM Infra | Hao AI Lab @ UCSD\nHome\nCoding agents are getting remarkably good at writing LLM infrastructure, from GPU kernels and schedulers to custom serving engines. Suppose an AI agent is strong enough to build a fast inference engine from scratch; in this second half of the problem, the bottleneck shifts from capability to verification : how do we know the engine it wrote is actually correct? Passing latency and throughput benchmarks…"
+    },
+    {
+      "rank": 3,
+      "hn_id": 50463445,
+      "title": "Why AI Coding Agents Lose Context After the PR, and How to Keep It",
+      "title_ja": "Why AI Coding Agents Lose Context After the PR, and How to Keep It",
+      "hn_url": "https://news.ycombinator.com/item?id=50463445",
+      "source_url": "https://www.harness.io/blog/why-ai-coding-agents-lose-context-after-pr",
+      "image_url": "https://cdn.prod.website-files.com/69e786e187c925d08ee02b92/6aeb5399161e9a06350b61e3_6aeb5243bad91f63189b381a_why-ai-coding-agents-lose-context-after-the-pr-and-how-to-keep-it-og.png",
+      "score": 1,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-11-12T05:35:21Z",
+      "summary_ja": "Title: Why AI Coding Agents Lose Context After the PR, and How to Keep It\nArticle title: Why AI Coding Agents Lose Context After the PR\nDescription: AI coding agents lose context once a PR enters the pipeline. See how code context and delivery context work together across the SDLC | Blog\n\nArticle text:\nWhy AI Coding Agents Lose Context After the PR\n--\u003e\n--\u003e\nCosmos Software Factory Agent Continuous Delivery \u0026 GitOps For the complete documentation index, see llms.txt . A Markdown version of this page is available by requesting this URL with the header \"Accept: text/markdown\". Platform Harness Autonomous SDLC Platform Deliver at machine speed.\nExplore Overview Documentation Knowledge Graph Trust Center Popular Use Cases AI DLC Agent DLC Mythos Readiness AI Cost Management Software Delivery Agent Get code and agents from commit to production in minutes.\nDiscover bugs and resilience weaknesses…"
+    },
+    {
+      "rank": 4,
+      "hn_id": 50463399,
+      "title": "Claude Code and Codex reverse engineered my 1994 Jeep's ECU over a $3 Arduino [video]",
+      "title_ja": "Claude Code and Codex reverse engineered my 1994 Jeep's ECU over a $3 Arduino [video]",
+      "hn_url": "https://news.ycombinator.com/item?id=50463399",
+      "source_url": "https://www.youtube.com/watch?v=WPj3aQ-xxpI",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-11-12T05:29:24Z",
+      "summary_ja": "Title: Claude Code and Codex reverse engineered my 1994 Jeep's ECU over a $3 Arduino [video]\nArticle title: - YouTube\nDescription: Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.\n\nArticle text:\n- YouTube About Press Copyright Contact us Creators Advertise Developers Terms Privacy Policy \u0026 Safety How YouTube works Test new features NFL Sunday Ticket © 2026 Google LLC"
+    }
+  ]
+}

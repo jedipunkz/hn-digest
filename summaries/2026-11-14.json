@@ -1,9 +1,23 @@
 {
   "date": "2026-11-14",
-  "generated_at": "2026-11-14T14:49:33Z",
+  "generated_at": "2026-11-14T19:45:53Z",
   "articles": [
     {
       "rank": 1,
+      "hn_id": 50499627,
+      "title": "Thousands turn out in Edinburgh to protest against AI data centres",
+      "title_ja": "Thousands turn out in Edinburgh to protest against AI data centres",
+      "hn_url": "https://news.ycombinator.com/item?id=50499627",
+      "source_url": "https://www.bbc.co.uk/news/articles/c8n50w445zgpo",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a19c/live/42893b00-e03e-11f1-88e1-eb4e155225b3.jpg",
+      "score": 6,
+      "final_score": 7,
+      "comments": 0,
+      "posted_at": "2026-11-14T18:47:10Z",
+      "summary_ja": "Title: Thousands turn out in Edinburgh to protest against AI data centres\nArticle title: Thousands turn out in Edinburgh to protest against AI data centres - BBC News\nDescription: Demonstrators armed with placards - and some dressed in costume - assembled at the top of the Royal Mile before marching towards the Scottish Parliament.\n\nArticle text:\nMore menu More menu Search BBC Home\nThousands turn out in Edinburgh to protest against AI data centres\nImage source, Press Association Image caption, Protesters marched down the Royal Mile towards the Scottish Parliament\nPublished 14 November 2026, 13:25 GMT\nThousands of people have joined a protest in Edinburgh against the building of large-scale AI data centres.\nDemonstrators with placards - and some dressed in costume - assembled at the top of the Royal Mile before marching towards the Scottish Parliament.\nThe event comes at a time of widespr…"
+    },
+    {
+      "rank": 2,
       "hn_id": 50497125,
       "title": "Show HN: Ryph – Event-driven, self-hosted agents for incident response",
       "title_ja": "Show HN: Ryph – Event-driven, self-hosted agents for incident response",
@@ -17,7 +31,7 @@
       "summary_ja": "Title: Show HN: Ryph – Event-driven, self-hosted agents for incident response\nArticle title: GitHub - ryph-hq/ryph: 🤖 Self-hosted coding agents for your team: on call for your incidents, in your chat, on your forge. · GitHub\nDescription: 🤖 Self-hosted coding agents for your team: on call for your incidents, in your chat, on your forge. - ryph-hq/ryph\n\nArticle text:\nGitHub - ryph-hq/ryph: 🤖 Self-hosted coding agents for your team: on call for your incidents, in your chat, on your forge. · GitHub\nSkip to content\nNavigation Menu\nSign in Products Platform GitHub Repository hosting, code review, and collaboration\nCopilot AI coding agent for tasks, projects, and automated work\nBuild \u0026 Ship Actions CI/CD and automation\nCode Quality Quality analysis, fixes, and enforcement\nCodespaces Cloud development environments\nSecure Code Security Vulnerability detection and remediation\nSecret Protection Sec…"
     },
     {
-      "rank": 2,
+      "rank": 3,
       "hn_id": 50494554,
       "title": "Not Everything Needs an LLM",
       "title_ja": "Not Everything Needs an LLM",
@@ -31,7 +45,7 @@
       "summary_ja": "Title: Not Everything Needs an LLM\nArticle title: Not everything needs an LLM\nDescription: Not everything needs an LLM. How PostHog uses decision models to gate expensive LLM calls, route between models, rerank search results, and pick charts.\n\nArticle text:\nNot everything needs an LLM Products Pricing Docs Community Company More Get started – free Home\nCopy page Not everything needs an LLM\n1. Use them to gate expensive LLM calls\nBut remember they make mistakes\nBut don't assume they're interchangeable\n3. Use them for face-value checks\nBut avoid multi-step reasoning\n4. Use them in place of overqualified LLMs\nBut keep LLMs for open-ended jobs\nLLMs love to yap. Ask a simple question and you get a few hundred words of \"it depends.\" It's annoying as hell.\nThis is why we love decision models like Jev for simpler tasks. You ask a structured question and get a typed answer with a probability, wh…"
     },
     {
-      "rank": 3,
+      "rank": 4,
       "hn_id": 50497105,
       "title": "Navigating Open Source Software Development in the Generative AI Era",
       "title_ja": "Navigating Open Source Software Development in the Generative AI Era",
@@ -45,7 +59,7 @@
       "summary_ja": "Title: Navigating Open Source Software Development in the Generative AI Era\nDescription: Navigating Open Source Software Development in the Generative AI Era\n\nArticle text:\n📦 Prime Day is here. Save up to 75% for 2 days only! • SAVE NOW\n--\u003e KubeCon + CloudNativeCon North America • NOV 9-12 • Salt Lake City • REGISTER NOW\nEnglish\nJapan\nChina\nEurope\nSign In\nEnglish |\nJapan |\nChina |\nEurope\nLINUX FOUNDATION RESEARCH\nWe’re investigating the impact of open source collaboration to solve the world’s most pressing challenges.\nHow did a hobby project evolve into the open source engine of global infrastructure? The milestone report by LF Research examines the kernel’s historic and organic evolution as well as its present-day impact.\nJoin the LF Research Forum and participate in our surveys and interviews to give back to your community and earn events \u0026 training discounts!\nInterested in conducting…"
     },
     {
-      "rank": 4,
+      "rank": 5,
       "hn_id": 50492093,
       "title": "Show HN: Memro – Persistent Memory for Claude Code, Cursor and Codex",
       "title_ja": "Show HN: Memro – Persistent Memory for Claude Code, Cursor and Codex",
@@ -57,19 +71,6 @@
       "comments": 1,
       "posted_at": "2026-11-14T00:20:15Z",
       "summary_ja": "Title: Show HN: Memro – Persistent Memory for Claude Code, Cursor and Codex\nArticle title: GitHub - memrohq/memro: Memro — the memory layer for AI context. Server, SDKs, MCP server and integrations. · GitHub\nDescription: Memro — the memory layer for AI context. Server, SDKs, MCP server and integrations. - memrohq/memro\nHN text: Memro is go bases persistent memory system that lets ai agents share context acssion session using mcp, built on top of postgreSQL\n\nArticle text:\nGitHub - memrohq/memro: Memro — the memory layer for AI context. Server, SDKs, MCP server and integrations. · GitHub\nSkip to content\nNavigation Menu\nSign in Products Platform GitHub Repository hosting, code review, and collaboration\nCopilot AI coding agent for tasks, projects, and automated work\nBuild \u0026 Ship Actions CI/CD and automation\nCode Quality Quality analysis, fixes, and enforcement\nCodespaces Cloud development en…"
-    },
-    {
-      "rank": 5,
-      "hn_id": 50491971,
-      "title": "Lego's BrickLink Marketplace Online After Week-Long Outage from 'Cyber Incident'",
-      "title_ja": "Lego's BrickLink Marketplace Online After Week-Long Outage from 'Cyber Incident'",
-      "hn_url": "https://news.ycombinator.com/item?id=50491971",
-      "source_url": "https://www.brickfanatics.com/lego-bricklink-outage-summarised-what-happens-next",
-      "score": 2,
-      "final_score": 3,
-      "comments": 0,
-      "posted_at": "2026-11-14T00:03:47Z",
-      "summary_ja": "Title: Lego's BrickLink Marketplace Online After Week-Long Outage from 'Cyber Incident'"
     },
     {
       "rank": 6,
@@ -113,16 +114,16 @@
     },
     {
       "rank": 9,
-      "hn_id": 50491841,
-      "title": "Show HN: Feedback/AMA MeditionBench; LLMs for mediation and conflict resolution",
-      "title_ja": "Show HN: Feedback/AMA MeditionBench; LLMs for mediation and conflict resolution",
-      "hn_url": "https://news.ycombinator.com/item?id=50491841",
-      "source_url": "",
+      "hn_id": 50491971,
+      "title": "Lego's BrickLink Marketplace Online After Week-Long Outage from 'Cyber Incident'",
+      "title_ja": "Lego's BrickLink Marketplace Online After Week-Long Outage from 'Cyber Incident'",
+      "hn_url": "https://news.ycombinator.com/item?id=50491971",
+      "source_url": "https://www.brickfanatics.com/lego-bricklink-outage-summarised-what-happens-next",
       "score": 2,
-      "final_score": 2,
+      "final_score": 3,
       "comments": 0,
-      "posted_at": "2026-11-13T23:50:03Z",
-      "summary_ja": "Title: Show HN: Feedback/AMA MeditionBench; LLMs for mediation and conflict resolution\nHN text: I am the founder of Human Assisted Intelligence and I believe AI can be used to reduce polarization and improve the way people communicate and reach agreement. At https://mediationbench.com/ , there are many frontier LLMs tested, but it is difficult to keep up. I've been trying to get more free openrouter or huggingface credits.\nAzure for OpenAI and Anthropic have both provided token credits. (Thank You!) The research paper is there as well. There have been efforts to use LLMs to lie and play diplomacy, which are excellent compliments to this work. In v4, the test will get harder as Claude nearly saturated the test. Astra was surprisingly low, perhaps because of alignment or safety efforts. I'd love to get feedback and hear from all of you. I've been working on related ideas for 20 years, so i…"
+      "posted_at": "2026-11-14T00:03:47Z",
+      "summary_ja": "Title: Lego's BrickLink Marketplace Online After Week-Long Outage from 'Cyber Incident'"
     },
     {
       "rank": 10,
@@ -140,6 +141,47 @@
     },
     {
       "rank": 11,
+      "hn_id": 50491841,
+      "title": "Show HN: Feedback/AMA MeditionBench; LLMs for mediation and conflict resolution",
+      "title_ja": "Show HN: Feedback/AMA MeditionBench; LLMs for mediation and conflict resolution",
+      "hn_url": "https://news.ycombinator.com/item?id=50491841",
+      "source_url": "",
+      "score": 2,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-11-13T23:50:03Z",
+      "summary_ja": "Title: Show HN: Feedback/AMA MeditionBench; LLMs for mediation and conflict resolution\nHN text: I am the founder of Human Assisted Intelligence and I believe AI can be used to reduce polarization and improve the way people communicate and reach agreement. At https://mediationbench.com/ , there are many frontier LLMs tested, but it is difficult to keep up. I've been trying to get more free openrouter or huggingface credits.\nAzure for OpenAI and Anthropic have both provided token credits. (Thank You!) The research paper is there as well. There have been efforts to use LLMs to lie and play diplomacy, which are excellent compliments to this work. In v4, the test will get harder as Claude nearly saturated the test. Astra was surprisingly low, perhaps because of alignment or safety efforts. I'd love to get feedback and hear from all of you. I've been working on related ideas for 20 years, so i…"
+    },
+    {
+      "rank": 12,
+      "hn_id": 50499763,
+      "title": "Hacked 2013 Recon Jet sports glasses into a Linux camera/voice AI assistant",
+      "title_ja": "Hacked 2013 Recon Jet sports glasses into a Linux camera/voice AI assistant",
+      "hn_url": "https://news.ycombinator.com/item?id=50499763",
+      "source_url": "https://blog.v0.net/converting-obsolete-sports-tech-into-ai-glasses-part-1/",
+      "image_url": "https://blog.v0.net/content/images/size/w1200/2026/11/IMG_8176.gif",
+      "score": 1,
+      "final_score": 2,
+      "comments": 1,
+      "posted_at": "2026-11-14T19:01:34Z",
+      "summary_ja": "Title: Hacked 2013 Recon Jet sports glasses into a Linux camera/voice AI assistant\nArticle title: Converting obsolete sports tech into AI glasses: Part 1\nDescription: I was recently rummaging through a storage closet, when I discovered a box I didn't recognize. Inside, I found the barely-used Recon Instruments Jet \"smart glasses\" that I had impulsively preordered back in 2013.\nMy original interest in the glasses was not for their designed purpose, but instead\n\nArticle text:\nSign in\nSubscribe\nConverting obsolete sports tech into AI glasses: Part 1\nI was recently rummaging through a storage closet, when I discovered a box I didn't recognize. Inside, I found the barely-used Recon Instruments Jet \"smart glasses\" that I had impulsively preordered back in 2013.\nMy original interest in the glasses was not for their designed purpose , but instead for the potential of hacking them into a HUD for…"
+    },
+    {
+      "rank": 13,
+      "hn_id": 50499898,
+      "title": "Show HN: Smart Node, a self-hosted crew of AI agents for a small business",
+      "title_ja": "Show HN: Smart Node, a self-hosted crew of AI agents for a small business",
+      "hn_url": "https://news.ycombinator.com/item?id=50499898",
+      "source_url": "https://github.com/dklymentiev/smart-node",
+      "image_url": "https://opengraph.githubassets.com/d96f1a0eeb666615bc8325d77df30b918ead4f4d5f4f687caad27111f6198fe4/dklymentiev/smart-node",
+      "score": 1,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-11-14T19:17:50Z",
+      "summary_ja": "Title: Show HN: Smart Node, a self-hosted crew of AI agents for a small business\nArticle title: GitHub - dklymentiev/smart-node: Smart Node: a self-hosted AI crew for small businesses. AGPL-3.0. · GitHub\nDescription: Smart Node: a self-hosted AI crew for small businesses. AGPL-3.0. - dklymentiev/smart-node\n\nArticle text:\nGitHub - dklymentiev/smart-node: Smart Node: a self-hosted AI crew for small businesses. AGPL-3.0. · GitHub\nSkip to content\nNavigation Menu\nSign in Products Platform GitHub Repository hosting, code review, and collaboration\nCopilot AI coding agent for tasks, projects, and automated work\nBuild \u0026 Ship Actions CI/CD and automation\nCode Quality Quality analysis, fixes, and enforcement\nCodespaces Cloud development environments\nSecure Code Security Vulnerability detection and remediation\nSecret Protection Secret scanning and leak prevention\nDevelopers Learn Documentation\nChang…"
+    },
+    {
+      "rank": 14,
       "hn_id": 50492050,
       "title": "Agentic studio 5 head AI built a 3D game engine in 4 hours – one pass",
       "title_ja": "Agentic studio 5 head AI built a 3D game engine in 4 hours – one pass",
@@ -153,7 +195,7 @@
       "summary_ja": "Title: Agentic studio 5 head AI built a 3D game engine in 4 hours – one pass\nArticle title: Devhead - Devhead\nDescription: Devhead Laboratories — Agentic Studio: 5 AI agents, 300+ tools, Vibe Mode. Autonomous software construction for Windows.\n\nArticle text:\n🐙 '\u003e\nGuest Visitor\n🔑 Sign in\n✨ Create account\nDevhead Laboratories 2026©\nDevhead — New Era\nBuild the\nImpossible.\nTools for the modern era. Engines for tomorrow’s era.\nWelcome back. Sign in to continue — you’ll return to this page afterwards.\nWhat color is the left border?\nLook at the borders of the box — the primitives spin and the edges glow.\nCreate account · Full login page"
     },
     {
-      "rank": 12,
+      "rank": 15,
       "hn_id": 50491804,
       "title": "We Dislike LLM Output, Not Because of Comprehension",
       "title_ja": "We Dislike LLM Output, Not Because of Comprehension",
@@ -166,7 +208,47 @@
       "summary_ja": "Title: We Dislike LLM Output, Not Because of Comprehension\n\nArticle text:\nWe Dislike LLM Output, Not Because of Comprehension Home About PGP Key We Dislike LLM Output, Not Because of Comprehension (中文)\n2026-11-08 While LLMs till now still possess significantly different observable (as in functionalism) output patterns from humans ,\ndo note that (I) Humans slop and hallucinate from time to time. We have seen countless\nshitshows emitted by our dearest co-workers; (II) As in the last paragraph of my linked post, \"One can definitely argue that 'theoretically LLMs can do whichever thing human is doing'\" .\nThis is, of course, debatable but hard and non-trivial, but we cannot deny that LLMs are already\nshowing superhuman behaviors and excel in various (honestly mainly math) fields. But there is\nstill more to argue for why we should not just hand everything over to LLMs. We usually argue that we…"
     },
     {
-      "rank": 13,
+      "rank": 16,
+      "hn_id": 50500086,
+      "title": "WhatWeRun, a database of real production AI agent stacks",
+      "title_ja": "WhatWeRun, a database of real production AI agent stacks",
+      "hn_url": "https://news.ycombinator.com/item?id=50500086",
+      "source_url": "https://whatwerun.dev",
+      "image_url": "https://whatwerun.dev/opengraph-image?f1e58f37c5ba8115",
+      "score": 1,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-11-14T19:42:04Z",
+      "summary_ja": "Title: WhatWeRun, a database of real production AI agent stacks\nArticle title: WhatWeRun — Real production AI agent stacks, from the people who run them.\nDescription: A searchable, submission-driven database of real production AI agent stacks. Every field comes from a public writeup. Nothing is made up.\n\nArticle text:\nWhatWeRun — Real production AI agent stacks, from the people who run them. W WhatWe Run Browse Submit Sponsor Email Website Get the Tuesday email A public database\nWhat teams actually run in production.\nReal AI agent stacks, taken from public writeups — engineering blogs, HN threads, and first-person posts. Every field comes from the source. If they didn't say the cost, we don't invent one. Costs keep the source's basis (per task, per run, or monthly), and older writeups are marked so they aren't treated as current.\nBkper's AI gateway, app-building agent and Gemini Flash pa…"
+    },
+    {
+      "rank": 17,
+      "hn_id": 50497213,
+      "title": "AI model for predicting neurophysiological responses to text and pictures",
+      "title_ja": "AI model for predicting neurophysiological responses to text and pictures",
+      "hn_url": "https://news.ycombinator.com/item?id=50497213",
+      "source_url": "https://www.nature.com/articles/s41467-026-75653-x",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-11-14T14:18:09Z",
+      "summary_ja": "Title: AI model for predicting neurophysiological responses to text and pictures\nArticle title: Client Challenge\n\nArticle text:\nClient Challenge\nA required part of this site couldn’t load. This may be due to a browser\nextension, network issues, or browser settings. Please check your\nconnection, disable any ad blockers, or try using a different browser."
+    },
+    {
+      "rank": 18,
+      "hn_id": 50494696,
+      "title": "Ask HN: What are the most useful, concrete AI skills to independently learn?",
+      "title_ja": "Ask HN: What are the most useful, concrete AI skills to independently learn?",
+      "hn_url": "https://news.ycombinator.com/item?id=50494696",
+      "source_url": "",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-11-14T06:56:42Z",
+      "summary_ja": "Title: Ask HN: What are the most useful, concrete AI skills to independently learn?\nHN text: Specifically, what are the most useful, concrete skills to learn as an individual to take economic advantage of the advances in LLMs, agents and associated new technological capabilities? What is accessible to learn just from the internet and experimentation, without a degree program, assuming a preexisting moderately technical background? The clearer and more specific (eg. “Learn how-to x with y”) the better. Thank you!"
+    },
+    {
+      "rank": 19,
       "hn_id": 50497345,
       "title": "How to Keep an App Out of Siri AI on iPhone",
       "title_ja": "How to Keep an App Out of Siri AI on iPhone",
@@ -180,30 +262,44 @@
       "summary_ja": "Title: How to Keep an App Out of Siri AI on iPhone\nArticle title: Exclude Apps From Siri AI on iPhone: iOS 27.2 Excluded Apps\nDescription: iOS 27.2 Excluded Apps keeps chosen apps away from Siri, Search and suggestions. Exact steps, what it turns off, what you lose, and how to undo it.\n\nArticle text:\nSkip to content Private Orchards Home\nHow to Keep an App Out of Siri AI on iPhone\niOS 27.2 added Excluded Apps: one list that keeps an app away from Siri, Search and suggestions. What it turns off, what you lose, and how to set it up.\nSiri\nCalendar\nNotes\nPrivate app\nExcluded\nSiri AI can read across your apps to answer questions about your messages, emails, photos and more. Apple calls it “personal context understanding.” That’s useful, but you may not want it reaching into every app, like a private chat app or a journal.\niOS 27.2, released October 26, added one setting for this. Excluded App…"
     },
     {
-      "rank": 14,
-      "hn_id": 50497213,
-      "title": "AI model for predicting neurophysiological responses to text and pictures",
-      "title_ja": "AI model for predicting neurophysiological responses to text and pictures",
-      "hn_url": "https://news.ycombinator.com/item?id=50497213",
-      "source_url": "https://www.nature.com/articles/s41467-026-75653-x",
+      "rank": 20,
+      "hn_id": 50499693,
+      "title": "An update on AI's most important number",
+      "title_ja": "An update on AI's most important number",
+      "hn_url": "https://news.ycombinator.com/item?id=50499693",
+      "source_url": "https://epochai.substack.com/p/an-update-on-ais-most-important-number",
       "score": 1,
       "final_score": 1,
       "comments": 0,
-      "posted_at": "2026-11-14T14:18:09Z",
-      "summary_ja": "Title: AI model for predicting neurophysiological responses to text and pictures\nArticle title: Client Challenge\n\nArticle text:\nClient Challenge\nA required part of this site couldn’t load. This may be due to a browser\nextension, network issues, or browser settings. Please check your\nconnection, disable any ad blockers, or try using a different browser."
+      "posted_at": "2026-11-14T18:53:22Z",
+      "summary_ja": "Title: An update on AI's most important number"
     },
     {
-      "rank": 15,
-      "hn_id": 50494696,
-      "title": "Ask HN: What are the most useful, concrete AI skills to independently learn?",
-      "title_ja": "Ask HN: What are the most useful, concrete AI skills to independently learn?",
-      "hn_url": "https://news.ycombinator.com/item?id=50494696",
-      "source_url": "",
+      "rank": 21,
+      "hn_id": 50499787,
+      "title": "Tactical Team Changes from AI",
+      "title_ja": "Tactical Team Changes from AI",
+      "hn_url": "https://news.ycombinator.com/item?id=50499787",
+      "source_url": "https://staysaasy.com/tactical-team-changes-from-ai/",
+      "image_url": "https://staysaasy.com/assets/template/stay-saasy-black-ogimage.jpeg",
       "score": 1,
       "final_score": 1,
       "comments": 0,
-      "posted_at": "2026-11-14T06:56:42Z",
-      "summary_ja": "Title: Ask HN: What are the most useful, concrete AI skills to independently learn?\nHN text: Specifically, what are the most useful, concrete skills to learn as an individual to take economic advantage of the advances in LLMs, agents and associated new technological capabilities? What is accessible to learn just from the internet and experimentation, without a degree program, assuming a preexisting moderately technical background? The clearer and more specific (eg. “Learn how-to x with y”) the better. Thank you!"
+      "posted_at": "2026-11-14T19:04:28Z",
+      "summary_ja": "Title: Tactical Team Changes from AI\nArticle title: Tactical Team Changes From AI | Stay SaaSy\nDescription: A view on how AI is changing team structures\n\nArticle text:\nTactical Team Changes From AI | Stay SaaSy\nStay SaaSy\nA guide to scaling product \u0026 engineering teams from $0 to past $100M ARR.\nOne thing that we love to do at Stay SaaSy is provide very direct specifics on what we would do or how we would think about problems. With the different changes going on with AI, we thought that it was timely to put together some thoughts on how team structures and responsibilities are changing at a very tactical level. These takeaways are derived from managing teams, investing in startups, advising companies, and our own network discussions.\nIt’s increasingly feasible for very small teams to fully vet expansions to your product-market fit (e.g. one PM + one engineer; one product-oriented engineer…"
+    },
+    {
+      "rank": 22,
+      "hn_id": 50500018,
+      "title": "Wojak-Bench 3D: Which AI is best at 3D printing?",
+      "title_ja": "Wojak-Bench 3D: Which AI is best at 3D printing?",
+      "hn_url": "https://news.ycombinator.com/item?id=50500018",
+      "source_url": "https://wojak-bench.dev.pion.dev/",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-11-14T19:33:22Z",
+      "summary_ja": "Title: Wojak-Bench 3D: Which AI is best at 3D printing?\nArticle title: wojak-bench 3d\nDescription: two ai models turned the same drawing into a printable figure. which one did it better?\n\nArticle text:\nwojak-bench 3d\nwojak-bench 3d leaderboard blind vote order a figure which figure matches the drawing better?\nnames are hidden until you vote. one vote per browser per pair.\nshare = (wins + 0.5 × ties) / votes, same-prompt pairs only. a and b are assigned randomly; skips count for nothing. it is community preference, not a controlled evaluation, and small samples are not reliable rankings.\nvotes compare photos of physical prints where available, otherwise renders of the print files.\nclearing cookies or using another browser can bypass the one-vote limit.\npointing runs follow one instruction file with equal revision rounds (max 3). the shape-sorter pair predates this: one figure was human-it…"
     }
   ]
 }

@@ -1,9 +1,23 @@
 {
   "date": "2026-11-14",
-  "generated_at": "2026-11-14T00:42:51Z",
+  "generated_at": "2026-11-14T07:25:17Z",
   "articles": [
     {
       "rank": 1,
+      "hn_id": 50494554,
+      "title": "Not Everything Needs an LLM",
+      "title_ja": "Not Everything Needs an LLM",
+      "hn_url": "https://news.ycombinator.com/item?id=50494554",
+      "source_url": "https://posthog.com/newsletter/decision-models",
+      "image_url": "https://res.cloudinary.com/dmukukwp6/image/upload/decision_models_hero_10ccd0f313.png",
+      "score": 4,
+      "final_score": 5,
+      "comments": 1,
+      "posted_at": "2026-11-14T06:25:03Z",
+      "summary_ja": "Title: Not Everything Needs an LLM\nArticle title: Not everything needs an LLM\nDescription: Not everything needs an LLM. How PostHog uses decision models to gate expensive LLM calls, route between models, rerank search results, and pick charts.\n\nArticle text:\nNot everything needs an LLM Products Pricing Docs Community Company More Get started – free Home\nCopy page Not everything needs an LLM\n1. Use them to gate expensive LLM calls\nBut remember they make mistakes\nBut don't assume they're interchangeable\n3. Use them for face-value checks\nBut avoid multi-step reasoning\n4. Use them in place of overqualified LLMs\nBut keep LLMs for open-ended jobs\nLLMs love to yap. Ask a simple question and you get a few hundred words of \"it depends.\" It's annoying as hell.\nThis is why we love decision models like Jev for simpler tasks. You ask a structured question and get a typed answer with a probability, wh…"
+    },
+    {
+      "rank": 2,
       "hn_id": 50492093,
       "title": "Show HN: Memro – Persistent Memory for Claude Code, Cursor and Codex",
       "title_ja": "Show HN: Memro – Persistent Memory for Claude Code, Cursor and Codex",
@@ -17,7 +31,7 @@
       "summary_ja": "Title: Show HN: Memro – Persistent Memory for Claude Code, Cursor and Codex\nArticle title: GitHub - memrohq/memro: Memro — the memory layer for AI context. Server, SDKs, MCP server and integrations. · GitHub\nDescription: Memro — the memory layer for AI context. Server, SDKs, MCP server and integrations. - memrohq/memro\nHN text: Memro is go bases persistent memory system that lets ai agents share context acssion session using mcp, built on top of postgreSQL\n\nArticle text:\nGitHub - memrohq/memro: Memro — the memory layer for AI context. Server, SDKs, MCP server and integrations. · GitHub\nSkip to content\nNavigation Menu\nSign in Products Platform GitHub Repository hosting, code review, and collaboration\nCopilot AI coding agent for tasks, projects, and automated work\nBuild \u0026 Ship Actions CI/CD and automation\nCode Quality Quality analysis, fixes, and enforcement\nCodespaces Cloud development en…"
     },
     {
-      "rank": 2,
+      "rank": 3,
       "hn_id": 50492141,
       "title": "Anthropic Upgrades Claude Code Projects to Run Parallel AI Workers Hands-Free",
       "title_ja": "Anthropic Upgrades Claude Code Projects to Run Parallel AI Workers Hands-Free",
@@ -31,7 +45,7 @@
       "summary_ja": "Title: Anthropic Upgrades Claude Code Projects to Run Parallel AI Workers Hands-Free\nArticle title: Anthropic Upgrades Claude Code Projects to Run Parallel AI Workers Hands-Free | AlphaSignal\nDescription: Claude Code Projects coordinator is now proactive, answering questions and pushing thread status updates in chat.\n\nArticle text:\nAnthropic Upgrades Claude Code Projects to Run Parallel AI Workers Hands-Free | AlphaSignal Skip to main content LATEST EDITORIAL LEADERBOARD TOPICS Search Search LATEST EDITORIAL LEADERBOARD TOPICS Sign in Sign up About Advertise Privacy Anthropic Upgrades Claude Code Projects to Run Parallel AI Workers Hands-Free\nAnthropic ships a proactive coordinator, shareable read-only threads, reminders, and /btw and /fork slash commands to Claude Code Projects.\n5,971 · · Author By AlphaSignal Newsroom Read 4 min Type News Topic Development · Api Subtopic Code Generatio…"
     },
     {
-      "rank": 3,
+      "rank": 4,
       "hn_id": 50491971,
       "title": "Lego's BrickLink Marketplace Online After Week-Long Outage from 'Cyber Incident'",
       "title_ja": "Lego's BrickLink Marketplace Online After Week-Long Outage from 'Cyber Incident'",
@@ -44,7 +58,7 @@
       "summary_ja": "Title: Lego's BrickLink Marketplace Online After Week-Long Outage from 'Cyber Incident'"
     },
     {
-      "rank": 4,
+      "rank": 5,
       "hn_id": 50492050,
       "title": "Agentic studio 5 head AI built a 3D game engine in 4 hours – one pass",
       "title_ja": "Agentic studio 5 head AI built a 3D game engine in 4 hours – one pass",
@@ -58,7 +72,7 @@
       "summary_ja": "Title: Agentic studio 5 head AI built a 3D game engine in 4 hours – one pass\nArticle title: Devhead - Devhead\nDescription: Devhead Laboratories — Agentic Studio: 5 AI agents, 300+ tools, Vibe Mode. Autonomous software construction for Windows.\n\nArticle text:\n🐙 '\u003e\nGuest Visitor\n🔑 Sign in\n✨ Create account\nDevhead Laboratories 2026©\nDevhead — New Era\nBuild the\nImpossible.\nTools for the modern era. Engines for tomorrow’s era.\nWelcome back. Sign in to continue — you’ll return to this page afterwards.\nWhat color is the left border?\nLook at the borders of the box — the primitives spin and the edges glow.\nCreate account · Full login page"
     },
     {
-      "rank": 5,
+      "rank": 6,
       "hn_id": 50491841,
       "title": "Show HN: Feedback/AMA MeditionBench; LLMs for mediation and conflict resolution",
       "title_ja": "Show HN: Feedback/AMA MeditionBench; LLMs for mediation and conflict resolution",
@@ -71,7 +85,7 @@
       "summary_ja": "Title: Show HN: Feedback/AMA MeditionBench; LLMs for mediation and conflict resolution\nHN text: I am the founder of Human Assisted Intelligence and I believe AI can be used to reduce polarization and improve the way people communicate and reach agreement. At https://mediationbench.com/ , there are many frontier LLMs tested, but it is difficult to keep up. I've been trying to get more free openrouter or huggingface credits.\nAzure for OpenAI and Anthropic have both provided token credits. (Thank You!) The research paper is there as well. There have been efforts to use LLMs to lie and play diplomacy, which are excellent compliments to this work. In v4, the test will get harder as Claude nearly saturated the test. Astra was surprisingly low, perhaps because of alignment or safety efforts. I'd love to get feedback and hear from all of you. I've been working on related ideas for 20 years, so i…"
     },
     {
-      "rank": 6,
+      "rank": 7,
       "hn_id": 50492238,
       "title": "Show HN: Portal2Bench – Can AI agents solve Portal 2?",
       "title_ja": "Show HN: Portal2Bench – Can AI agents solve Portal 2?",
@@ -85,7 +99,7 @@
       "summary_ja": "Title: Show HN: Portal2Bench – Can AI agents solve Portal 2?\nArticle title: Portal2Bench: Can AI agents solve Portal 2?\nDescription: Can AI agents solve Portal 2? GPT-6.1 Sol solves 20 of 26 test chambers and GPT-6 Astra solves 20, each within $30 and 300 plans.\n\nArticle text:\nPortal2Bench: Can AI agents solve Portal 2? Portal2Bench\nPortal2Bench measures whether AI agents can solve Portal 2's test chambers. Each chamber is a fresh, independent run, scored solved only if the agent finishes within $30 and 300 plans.\nRead research Soon Get in touch\nGPT-6.1 Sol Codex 20 / 26 GPT-6 Astra Codex 20 / 26 GPT-6.1 Terra Codex 19 / 26 Opus 5.5 Claude Code 11 / 26 Sonnet 5.5 Claude Code 6 / 26 Fable 5.1 Claude Code 3 / 15 GPT-6 Luna Codex 0 / 26 Gemini 4 Argon Antigravity – Fable 5.2 Claude Code – * Every model runs at max effort. Gemini 4 Argon runs at high.\n† Most chambers are still being run, due…"
     },
     {
-      "rank": 7,
+      "rank": 8,
       "hn_id": 50491804,
       "title": "We Dislike LLM Output, Not Because of Comprehension",
       "title_ja": "We Dislike LLM Output, Not Because of Comprehension",
@@ -96,6 +110,19 @@
       "comments": 0,
       "posted_at": "2026-11-13T23:45:46Z",
       "summary_ja": "Title: We Dislike LLM Output, Not Because of Comprehension\n\nArticle text:\nWe Dislike LLM Output, Not Because of Comprehension Home About PGP Key We Dislike LLM Output, Not Because of Comprehension (中文)\n2026-11-08 While LLMs till now still possess significantly different observable (as in functionalism) output patterns from humans ,\ndo note that (I) Humans slop and hallucinate from time to time. We have seen countless\nshitshows emitted by our dearest co-workers; (II) As in the last paragraph of my linked post, \"One can definitely argue that 'theoretically LLMs can do whichever thing human is doing'\" .\nThis is, of course, debatable but hard and non-trivial, but we cannot deny that LLMs are already\nshowing superhuman behaviors and excel in various (honestly mainly math) fields. But there is\nstill more to argue for why we should not just hand everything over to LLMs. We usually argue that we…"
+    },
+    {
+      "rank": 9,
+      "hn_id": 50494696,
+      "title": "Ask HN: What are the most useful, concrete AI skills to independently learn?",
+      "title_ja": "Ask HN: What are the most useful, concrete AI skills to independently learn?",
+      "hn_url": "https://news.ycombinator.com/item?id=50494696",
+      "source_url": "",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-11-14T06:56:42Z",
+      "summary_ja": "Title: Ask HN: What are the most useful, concrete AI skills to independently learn?\nHN text: Specifically, what are the most useful, concrete skills to learn as an individual to take economic advantage of the advances in LLMs, agents and associated new technological capabilities? What is accessible to learn just from the internet and experimentation, without a degree program, assuming a preexisting moderately technical background? The clearer and more specific (eg. “Learn how-to x with y”) the better. Thank you!"
     }
   ]
 }

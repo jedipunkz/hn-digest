@@ -1,0 +1,59 @@
+{
+  "date": "2026-11-15",
+  "generated_at": "2026-11-15T05:06:32Z",
+  "articles": [
+    {
+      "rank": 1,
+      "hn_id": 50504061,
+      "title": "Anthropic, can you please make up your mind with your models?",
+      "title_ja": "Anthropic, can you please make up your mind with your models?",
+      "hn_url": "https://news.ycombinator.com/item?id=50504061",
+      "source_url": "",
+      "score": 4,
+      "final_score": 5,
+      "comments": 0,
+      "posted_at": "2026-11-15T04:36:59Z",
+      "summary_ja": "Title: Anthropic, can you please make up your mind with your models?\nHN text: Anthropic, can you please make up your mind with the models? I don't know if this is related to the IPO, fable 5.2 is WAY more expensive to run, if you put it in xhigh you can use in an 1 or 2 hours the allocation of the whole week... so you gave \"free\" resets for fable... to make \"easy\" on people that the subscription is going to start lasting less and less... So I went back to fable 5.1 and the dumbification has started to happen AGAIN... when I want the nerd that writes 10 pages of DENSE text non stop I go to opus, fable is more expensive because it has better presets, but now fable 5.1 is starting to go into the uber nerd in adderal area too PLUS starting to do dumb things... I'm in this process of running something, get logs, tune, get logs, tune... and I told the thing multiple tmes... hey create scripts…"
+    },
+    {
+      "rank": 2,
+      "hn_id": 50504083,
+      "title": "How Jensen Huang Built the Backdoor Route That Keeps Beijing in the AI Race",
+      "title_ja": "How Jensen Huang Built the Backdoor Route That Keeps Beijing in the AI Race",
+      "hn_url": "https://news.ycombinator.com/item?id=50504083",
+      "source_url": "https://www.wsj.com/tech/jensen-huang-backdoor-ai-data-centers-a5e4499d",
+      "score": 3,
+      "final_score": 3,
+      "comments": 1,
+      "posted_at": "2026-11-15T04:42:37Z",
+      "summary_ja": "Title: How Jensen Huang Built the Backdoor Route That Keeps Beijing in the AI Race"
+    },
+    {
+      "rank": 3,
+      "hn_id": 50504103,
+      "title": "Anthropic CVP (Mythos) Defense Access Requirements Reduced to KYC",
+      "title_ja": "Anthropic CVP (Mythos) Defense Access Requirements Reduced to KYC",
+      "hn_url": "https://news.ycombinator.com/item?id=50504103",
+      "source_url": "https://portal.anthropic.com/login?returnTo=%2Fprograms%2Fcvp#_",
+      "score": 1,
+      "final_score": 1,
+      "comments": 1,
+      "posted_at": "2026-11-15T04:49:04Z",
+      "summary_ja": "Title: Anthropic CVP (Mythos) Defense Access Requirements Reduced to KYC\nArticle title: Log in | Verification Portal\n\nArticle text:\nLog in | Verification Portal Verification Portal\nApply for and manage trust programs\nfor your Claude usage\nBy continuing, you agree to Anthropic’s Commercial Terms (opens in new tab) and Usage Policy (opens in new tab) , and acknowledge our Privacy Policy (opens in new tab) ."
+    },
+    {
+      "rank": 4,
+      "hn_id": 50504021,
+      "title": "Smart AI Keyboard: Translate",
+      "title_ja": "Smart AI Keyboard: Translate",
+      "hn_url": "https://news.ycombinator.com/item?id=50504021",
+      "source_url": "https://play.google.com/store/apps/details?id=smart.ai.keyboard\u0026hl=en_US",
+      "image_url": "https://play-lh.googleusercontent.com/RmCBiVJXnBClwl_ZKj6TUyfbnxjCmCyeXC0GP_1xGshVMj8QQ8el5E07AXKyldG98YicpPkwm-3GaTOzBVk-og=s0-br30",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-11-15T04:28:32Z",
+      "summary_ja": "Title: Smart AI Keyboard: Translate\nArticle title: Smart AI Keyboard: Translate - Apps on Google Play\nDescription: Smart AI typing keyboard: translator, undo, calculator, grammar \u0026 glide typing.\n\nArticle text:\nSmart AI Keyboard: Translate - Apps on Google Play Games Apps Movies \u0026 TV Books Kids google_logo Play Games Apps Movies \u0026 TV Books Kids Gift Cards none search help_outline Sign in with Google\npayment Payments \u0026 subscriptions\nstorefront Third-party app stores\nGames Apps Movies \u0026 TV Books Kids Smart AI Keyboard: Translate\nShare Everyone Learn more About this app\nNo data shared with third parties Learn more about how developers declare sharing\nNo data collected Learn more about how developers declare collection\nMore by AI Engineering and Innovation (AIEI)"
+    }
+  ]
+}

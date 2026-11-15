@@ -1,6 +1,6 @@
 {
   "date": "2026-11-15",
-  "generated_at": "2026-11-15T05:06:32Z",
+  "generated_at": "2026-11-15T13:31:56Z",
   "articles": [
     {
       "rank": 1,
@@ -17,6 +17,20 @@
     },
     {
       "rank": 2,
+      "hn_id": 50506664,
+      "title": "Show HN: OrchesTerra – Generate Terraform from a repo, then catch drift",
+      "title_ja": "Show HN: OrchesTerra – Generate Terraform from a repo, then catch drift",
+      "hn_url": "https://news.ycombinator.com/item?id=50506664",
+      "source_url": "https://www.orchesterra.in/",
+      "image_url": "https://www.orchesterra.in/opengraph-image?8f57f4cdfb9b9453",
+      "score": 2,
+      "final_score": 5,
+      "comments": 0,
+      "posted_at": "2026-11-15T13:06:47Z",
+      "summary_ja": "Title: Show HN: OrchesTerra – Generate Terraform from a repo, then catch drift\nArticle title: OrchesTerra — AI-Native Infrastructure Governance Control Plane\nDescription: Paste a repo. OrchesTerra infers topology, generates Terraform, detects drift, and orchestrates governed reconciliation across AWS, Azure, GCP, and OCI.\n\nArticle text:\nOrchesTerra — AI-Native Infrastructure Governance Control Plane Product Use Cases Features Pricing Managed DevSecOps New Blog Resources Sign in Start trial AI Operating System for Cloud Infrastructure\nUnderstand cloud architecture from any repository.\nPaste a repository and OrchesTerra automatically discovers services, maps dependencies, generates architecture, estimates cloud costs, validates governance, and creates deployment-ready infrastructure.\nReduce architecture discovery from weeks to minutes.\nThe live demo opens a read-only sample workspace (Acme…"
+    },
+    {
+      "rank": 3,
       "hn_id": 50504083,
       "title": "How Jensen Huang Built the Backdoor Route That Keeps Beijing in the AI Race",
       "title_ja": "How Jensen Huang Built the Backdoor Route That Keeps Beijing in the AI Race",
@@ -29,7 +43,61 @@
       "summary_ja": "Title: How Jensen Huang Built the Backdoor Route That Keeps Beijing in the AI Race"
     },
     {
-      "rank": 3,
+      "rank": 4,
+      "hn_id": 50506495,
+      "title": "McDonald's Admits to International Incident",
+      "title_ja": "McDonald's Admits to International Incident",
+      "hn_url": "https://news.ycombinator.com/item?id=50506495",
+      "source_url": "https://twitter.com/McDonalds/status/78133240472403968",
+      "score": 2,
+      "final_score": 3,
+      "comments": 2,
+      "posted_at": "2026-11-15T12:36:57Z",
+      "summary_ja": "Title: McDonald's Admits to International Incident"
+    },
+    {
+      "rank": 5,
+      "hn_id": 50506529,
+      "title": "Skills for Real Scientists – Steer Away AI Slop",
+      "title_ja": "Skills for Real Scientists – Steer Away AI Slop",
+      "hn_url": "https://news.ycombinator.com/item?id=50506529",
+      "source_url": "https://github.com/HiteSit/real-scientist-skills",
+      "image_url": "https://opengraph.githubassets.com/ea6f6c4170ae222d8db5cc4aa4b1c03c125d1716e622e6300cf9f4a71d4f769c/HiteSit/real-scientist-skills",
+      "score": 1,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-11-15T12:42:08Z",
+      "summary_ja": "Title: Skills for Real Scientists – Steer Away AI Slop\nArticle title: GitHub - HiteSit/real-scientist-skills: Agent skills for scientists: one experiment at a time, each result deciding the next, every step tracked. · GitHub\nDescription: Agent skills for scientists: one experiment at a time, each result deciding the next, every step tracked. - HiteSit/real-scientist-skills\n\nArticle text:\nGitHub - HiteSit/real-scientist-skills: Agent skills for scientists: one experiment at a time, each result deciding the next, every step tracked. · GitHub\nSkip to content\nNavigation Menu\nSign in Products Platform GitHub Repository hosting, code review, and collaboration\nCopilot AI coding agent for tasks, projects, and automated work\nBuild \u0026 Ship Actions CI/CD and automation\nCode Quality Quality analysis, fixes, and enforcement\nCodespaces Cloud development environments\nSecure Code Security Vulnerability d…"
+    },
+    {
+      "rank": 6,
+      "hn_id": 50506724,
+      "title": "Stop building new AI agent orchestrators – there are 636",
+      "title_ja": "Stop building new AI agent orchestrators – there are 636",
+      "hn_url": "https://news.ycombinator.com/item?id=50506724",
+      "source_url": "https://github.com/erson/awesome-agent-orchestrators/",
+      "image_url": "https://opengraph.githubassets.com/8d3adb58e5c747fdbc50b3c67d62c666b3dd32919ce3ba746946ca217ea1950a/erson/awesome-agent-orchestrators",
+      "score": 1,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-11-15T13:16:16Z",
+      "summary_ja": "Title: Stop building new AI agent orchestrators – there are 636\nArticle title: GitHub - erson/awesome-agent-orchestrators: Metrics-backed index of AI agent orchestration tools · GitHub\nDescription: Metrics-backed index of AI agent orchestration tools - erson/awesome-agent-orchestrators\n\nArticle text:\nGitHub - erson/awesome-agent-orchestrators: Metrics-backed index of AI agent orchestration tools · GitHub\nSkip to content\nNavigation Menu\nSign in Products Platform GitHub Repository hosting, code review, and collaboration\nCopilot AI coding agent for tasks, projects, and automated work\nBuild \u0026 Ship Actions CI/CD and automation\nCode Quality Quality analysis, fixes, and enforcement\nCodespaces Cloud development environments\nSecure Code Security Vulnerability detection and remediation\nSecret Protection Secret scanning and leak prevention\nDevelopers Learn Documentation\nChangelog Changelog Your sou…"
+    },
+    {
+      "rank": 7,
+      "hn_id": 50506625,
+      "title": "AI Adoption Failures: Why Your Successful AI Pilot Is No Reason to Scale",
+      "title_ja": "AI Adoption Failures: Why Your Successful AI Pilot Is No Reason to Scale",
+      "hn_url": "https://news.ycombinator.com/item?id=50506625",
+      "source_url": "https://age-of-product.com/ai-adoption-failures/",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-11-15T12:59:22Z",
+      "summary_ja": "Title: AI Adoption Failures: Why Your Successful AI Pilot Is No Reason to Scale"
+    },
+    {
+      "rank": 8,
       "hn_id": 50504103,
       "title": "Anthropic CVP (Mythos) Defense Access Requirements Reduced to KYC",
       "title_ja": "Anthropic CVP (Mythos) Defense Access Requirements Reduced to KYC",
@@ -42,7 +110,48 @@
       "summary_ja": "Title: Anthropic CVP (Mythos) Defense Access Requirements Reduced to KYC\nArticle title: Log in | Verification Portal\n\nArticle text:\nLog in | Verification Portal Verification Portal\nApply for and manage trust programs\nfor your Claude usage\nBy continuing, you agree to Anthropic’s Commercial Terms (opens in new tab) and Usage Policy (opens in new tab) , and acknowledge our Privacy Policy (opens in new tab) ."
     },
     {
-      "rank": 4,
+      "rank": 9,
+      "hn_id": 50506703,
+      "title": "Claude Code Helped Me Save 130€ on an iPad Battery Repair",
+      "title_ja": "Claude Code Helped Me Save 130€ on an iPad Battery Repair",
+      "hn_url": "https://news.ycombinator.com/item?id=50506703",
+      "source_url": "https://thinkingground.net/writing/claude-code-helped-me-save-130-on-an-ipad-battery-repair",
+      "image_url": "https://thinkingground.net/writing/claude-code-helped-me-save-130-on-an-ipad-battery-repair/share.png?v=584c0eb2",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-11-15T13:12:28Z",
+      "summary_ja": "Title: Claude Code Helped Me Save 130€ on an iPad Battery Repair\nArticle title: Claude Code Helped Me Save 130€ on an iPad Battery Repair ◉ Thinking Ground\nDescription: Before I fully commit to replacing the battery, I connected the iPad and told Claude to find out what’s going on.\n\nArticle text:\nClaude Code Helped Me Save 130€ on an iPad Battery Repair\nI’ve been using iPads (for something productive) since college and I’ve always loved the form factor. I owned and sold multiple ones so I am very well aware of the features, display and other feature differences.\nOne thing I love about every single version of iPad I owned is the ability to put it down on the table and pick it up a few days later with only a few percent missing in its battery fullness. This “feature” is pure magic and it makes iPad available wherever you need it.\nHowever I’ve been experiencing huge battery drain with my iP…"
+    },
+    {
+      "rank": 10,
+      "hn_id": 50506796,
+      "title": "Europa, the EU's open AI model, is aiming for nearly 1T parameters",
+      "title_ja": "Europa, the EU's open AI model, is aiming for nearly 1T parameters",
+      "hn_url": "https://news.ycombinator.com/item?id=50506796",
+      "source_url": "https://maccus.fr/en/eu-open-ai-model-europa/",
+      "image_url": "https://maccus.fr/wp-content/uploads/2026/11/europa-throughput-en.jpg",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-11-15T13:29:48Z",
+      "summary_ja": "Title: Europa, the EU's open AI model, is aiming for nearly 1T parameters\nArticle title: EUROPA, the EU's open AI model, is aiming for nearly 1 trillion parameters - MACCUS\nDescription: Domyn has shared the training setup for EUROPA, the open European AI model chosen by the Commission: 951.9 billion parameters, tested on JUPITER.\n\nArticle text:\nEUROPA, the EU's open AI model, is aiming for nearly 1 trillion parameters - MACCUS\nSkip to content\nEnglish Français\nMenu\nMenu\nServices\nService Overview\nEUROPA, the EU’s open AI model, is aiming for nearly 1 trillion parameters\nDomyn is testing the setup for EUROPA, the open AI model picked by the European Commission, on the public JUPITER supercomputer.\nThe Italian company Domyn has run training trials for EUROPA, the European Union’s open AI model, on a public supercomputer. The test setup has nearly 1 trillion parameters, more than double the m…"
+    },
+    {
+      "rank": 11,
+      "hn_id": 50506586,
+      "title": "Five Layers of the AI Cake [pdf]",
+      "title_ja": "Five Layers of the AI Cake [pdf]",
+      "hn_url": "https://news.ycombinator.com/item?id=50506586",
+      "source_url": "https://futurumgroup.com/wp-content/uploads/2026/05/Five-Layers-of-the-AI-Cake.pdf",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-11-15T12:51:33Z",
+      "summary_ja": "Title: Five Layers of the AI Cake [pdf]"
+    },
+    {
+      "rank": 12,
       "hn_id": 50504021,
       "title": "Smart AI Keyboard: Translate",
       "title_ja": "Smart AI Keyboard: Translate",

@@ -1,22 +1,9 @@
 {
   "date": "2026-11-15",
-  "generated_at": "2026-11-15T13:31:56Z",
+  "generated_at": "2026-11-15T19:35:25Z",
   "articles": [
     {
       "rank": 1,
-      "hn_id": 50504061,
-      "title": "Anthropic, can you please make up your mind with your models?",
-      "title_ja": "Anthropic, can you please make up your mind with your models?",
-      "hn_url": "https://news.ycombinator.com/item?id=50504061",
-      "source_url": "",
-      "score": 4,
-      "final_score": 5,
-      "comments": 0,
-      "posted_at": "2026-11-15T04:36:59Z",
-      "summary_ja": "Title: Anthropic, can you please make up your mind with your models?\nHN text: Anthropic, can you please make up your mind with the models? I don't know if this is related to the IPO, fable 5.2 is WAY more expensive to run, if you put it in xhigh you can use in an 1 or 2 hours the allocation of the whole week... so you gave \"free\" resets for fable... to make \"easy\" on people that the subscription is going to start lasting less and less... So I went back to fable 5.1 and the dumbification has started to happen AGAIN... when I want the nerd that writes 10 pages of DENSE text non stop I go to opus, fable is more expensive because it has better presets, but now fable 5.1 is starting to go into the uber nerd in adderal area too PLUS starting to do dumb things... I'm in this process of running something, get logs, tune, get logs, tune... and I told the thing multiple tmes... hey create scripts…"
-    },
-    {
-      "rank": 2,
       "hn_id": 50506664,
       "title": "Show HN: OrchesTerra – Generate Terraform from a repo, then catch drift",
       "title_ja": "Show HN: OrchesTerra – Generate Terraform from a repo, then catch drift",
@@ -28,6 +15,19 @@
       "comments": 0,
       "posted_at": "2026-11-15T13:06:47Z",
       "summary_ja": "Title: Show HN: OrchesTerra – Generate Terraform from a repo, then catch drift\nArticle title: OrchesTerra — AI-Native Infrastructure Governance Control Plane\nDescription: Paste a repo. OrchesTerra infers topology, generates Terraform, detects drift, and orchestrates governed reconciliation across AWS, Azure, GCP, and OCI.\n\nArticle text:\nOrchesTerra — AI-Native Infrastructure Governance Control Plane Product Use Cases Features Pricing Managed DevSecOps New Blog Resources Sign in Start trial AI Operating System for Cloud Infrastructure\nUnderstand cloud architecture from any repository.\nPaste a repository and OrchesTerra automatically discovers services, maps dependencies, generates architecture, estimates cloud costs, validates governance, and creates deployment-ready infrastructure.\nReduce architecture discovery from weeks to minutes.\nThe live demo opens a read-only sample workspace (Acme…"
+    },
+    {
+      "rank": 2,
+      "hn_id": 50504061,
+      "title": "Anthropic, can you please make up your mind with your models?",
+      "title_ja": "Anthropic, can you please make up your mind with your models?",
+      "hn_url": "https://news.ycombinator.com/item?id=50504061",
+      "source_url": "",
+      "score": 4,
+      "final_score": 5,
+      "comments": 0,
+      "posted_at": "2026-11-15T04:36:59Z",
+      "summary_ja": "Title: Anthropic, can you please make up your mind with your models?\nHN text: Anthropic, can you please make up your mind with the models? I don't know if this is related to the IPO, fable 5.2 is WAY more expensive to run, if you put it in xhigh you can use in an 1 or 2 hours the allocation of the whole week... so you gave \"free\" resets for fable... to make \"easy\" on people that the subscription is going to start lasting less and less... So I went back to fable 5.1 and the dumbification has started to happen AGAIN... when I want the nerd that writes 10 pages of DENSE text non stop I go to opus, fable is more expensive because it has better presets, but now fable 5.1 is starting to go into the uber nerd in adderal area too PLUS starting to do dumb things... I'm in this process of running something, get logs, tune, get logs, tune... and I told the thing multiple tmes... hey create scripts…"
     },
     {
       "rank": 3,
@@ -57,17 +57,16 @@
     },
     {
       "rank": 5,
-      "hn_id": 50506529,
-      "title": "Skills for Real Scientists – Steer Away AI Slop",
-      "title_ja": "Skills for Real Scientists – Steer Away AI Slop",
-      "hn_url": "https://news.ycombinator.com/item?id=50506529",
-      "source_url": "https://github.com/HiteSit/real-scientist-skills",
-      "image_url": "https://opengraph.githubassets.com/ea6f6c4170ae222d8db5cc4aa4b1c03c125d1716e622e6300cf9f4a71d4f769c/HiteSit/real-scientist-skills",
-      "score": 1,
+      "hn_id": 50509489,
+      "title": "The Weak-Link Asymmetry: AI's Peril and Promise [pdf]",
+      "title_ja": "The Weak-Link Asymmetry: AI's Peril and Promise [pdf]",
+      "hn_url": "https://news.ycombinator.com/item?id=50509489",
+      "source_url": "https://christophertonetti.com/files/papers/JonesTonetti_WeakLinksRisk.pdf",
+      "score": 2,
       "final_score": 2,
       "comments": 0,
-      "posted_at": "2026-11-15T12:42:08Z",
-      "summary_ja": "Title: Skills for Real Scientists – Steer Away AI Slop\nArticle title: GitHub - HiteSit/real-scientist-skills: Agent skills for scientists: one experiment at a time, each result deciding the next, every step tracked. · GitHub\nDescription: Agent skills for scientists: one experiment at a time, each result deciding the next, every step tracked. - HiteSit/real-scientist-skills\n\nArticle text:\nGitHub - HiteSit/real-scientist-skills: Agent skills for scientists: one experiment at a time, each result deciding the next, every step tracked. · GitHub\nSkip to content\nNavigation Menu\nSign in Products Platform GitHub Repository hosting, code review, and collaboration\nCopilot AI coding agent for tasks, projects, and automated work\nBuild \u0026 Ship Actions CI/CD and automation\nCode Quality Quality analysis, fixes, and enforcement\nCodespaces Cloud development environments\nSecure Code Security Vulnerability d…"
+      "posted_at": "2026-11-15T18:44:21Z",
+      "summary_ja": "Title: The Weak-Link Asymmetry: AI's Peril and Promise [pdf]"
     },
     {
       "rank": 6,
@@ -85,32 +84,48 @@
     },
     {
       "rank": 7,
-      "hn_id": 50506625,
-      "title": "AI Adoption Failures: Why Your Successful AI Pilot Is No Reason to Scale",
-      "title_ja": "AI Adoption Failures: Why Your Successful AI Pilot Is No Reason to Scale",
-      "hn_url": "https://news.ycombinator.com/item?id=50506625",
-      "source_url": "https://age-of-product.com/ai-adoption-failures/",
+      "hn_id": 50506529,
+      "title": "Skills for Real Scientists – Steer Away AI Slop",
+      "title_ja": "Skills for Real Scientists – Steer Away AI Slop",
+      "hn_url": "https://news.ycombinator.com/item?id=50506529",
+      "source_url": "https://github.com/HiteSit/real-scientist-skills",
+      "image_url": "https://opengraph.githubassets.com/ea6f6c4170ae222d8db5cc4aa4b1c03c125d1716e622e6300cf9f4a71d4f769c/HiteSit/real-scientist-skills",
       "score": 1,
-      "final_score": 1,
+      "final_score": 2,
       "comments": 0,
-      "posted_at": "2026-11-15T12:59:22Z",
-      "summary_ja": "Title: AI Adoption Failures: Why Your Successful AI Pilot Is No Reason to Scale"
+      "posted_at": "2026-11-15T12:42:08Z",
+      "summary_ja": "Title: Skills for Real Scientists – Steer Away AI Slop\nArticle title: GitHub - HiteSit/real-scientist-skills: Agent skills for scientists: one experiment at a time, each result deciding the next, every step tracked. · GitHub\nDescription: Agent skills for scientists: one experiment at a time, each result deciding the next, every step tracked. - HiteSit/real-scientist-skills\n\nArticle text:\nGitHub - HiteSit/real-scientist-skills: Agent skills for scientists: one experiment at a time, each result deciding the next, every step tracked. · GitHub\nSkip to content\nNavigation Menu\nSign in Products Platform GitHub Repository hosting, code review, and collaboration\nCopilot AI coding agent for tasks, projects, and automated work\nBuild \u0026 Ship Actions CI/CD and automation\nCode Quality Quality analysis, fixes, and enforcement\nCodespaces Cloud development environments\nSecure Code Security Vulnerability d…"
     },
     {
       "rank": 8,
-      "hn_id": 50504103,
-      "title": "Anthropic CVP (Mythos) Defense Access Requirements Reduced to KYC",
-      "title_ja": "Anthropic CVP (Mythos) Defense Access Requirements Reduced to KYC",
-      "hn_url": "https://news.ycombinator.com/item?id=50504103",
-      "source_url": "https://portal.anthropic.com/login?returnTo=%2Fprograms%2Fcvp#_",
+      "hn_id": 50509721,
+      "title": "Show HN: Aegis – A Layer-4 Postgres proxy in Go to block destructive AI SQL",
+      "title_ja": "Show HN: Aegis – A Layer-4 Postgres proxy in Go to block destructive AI SQL",
+      "hn_url": "https://news.ycombinator.com/item?id=50509721",
+      "source_url": "https://github.com/raymondhani/aegis-proxy",
+      "image_url": "https://opengraph.githubassets.com/b6f82a918b75ab4f60c03224750b6af3c47cad9ec5096612f7a55fac9b0d939e/raymondhani/aegis-proxy",
       "score": 1,
-      "final_score": 1,
-      "comments": 1,
-      "posted_at": "2026-11-15T04:49:04Z",
-      "summary_ja": "Title: Anthropic CVP (Mythos) Defense Access Requirements Reduced to KYC\nArticle title: Log in | Verification Portal\n\nArticle text:\nLog in | Verification Portal Verification Portal\nApply for and manage trust programs\nfor your Claude usage\nBy continuing, you agree to Anthropic’s Commercial Terms (opens in new tab) and Usage Policy (opens in new tab) , and acknowledge our Privacy Policy (opens in new tab) ."
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-11-15T19:11:40Z",
+      "summary_ja": "Title: Show HN: Aegis – A Layer-4 Postgres proxy in Go to block destructive AI SQL\nArticle title: GitHub - raymondhani/aegis-proxy: An open-source, wire-transparent security proxy for PostgreSQL that intercepts and blocks destructive SQL queries from AI agents before they hit your database. · GitHub\nDescription: An open-source, wire-transparent security proxy for PostgreSQL that intercepts and blocks destructive SQL queries from AI agents before they hit your database. - raymondhani/aegis-proxy\n\nArticle text:\nGitHub - raymondhani/aegis-proxy: An open-source, wire-transparent security proxy for PostgreSQL that intercepts and blocks destructive SQL queries from AI agents before they hit your database. · GitHub\nSkip to content\nNavigation Menu\nSign in Products Platform GitHub Repository hosting, code review, and collaboration\nCopilot AI coding agent for tasks, projects, and automated work\nBu…"
     },
     {
       "rank": 9,
+      "hn_id": 50509661,
+      "title": "AI models hate Python and love PHP: we asked 12 of them 1,200 times",
+      "title_ja": "AI models hate Python and love PHP: we asked 12 of them 1,200 times",
+      "hn_url": "https://news.ycombinator.com/item?id=50509661",
+      "source_url": "https://blog.jetbrains.com/ai/2026/11/ai-models-hate-python-and-love-php-we-asked-12-of-them-1-200-times/",
+      "image_url": "https://blog.jetbrains.com/wp-content/uploads/2026/11/ai-models-hate-python-love-php-cover-light.png",
+      "score": 1,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-11-15T19:06:03Z",
+      "summary_ja": "Title: AI models hate Python and love PHP: we asked 12 of them 1,200 times\nArticle title: AI models hate Python and love PHP: we asked 12 of them 1,200 times - The JetBrains Blog\nDescription: 1,200 hot takes, 14 \"random\" languages, zero opinions about C#, and one model that argued both sides of Go's error handling. We asked 12 AI models for their most controversial opinion about program\n\nArticle text:\nPlugins \u0026 Services\nJetBrains Platform\n.NET \u0026 Visual Studio\n.NET Tools\nEducation \u0026 Research\nJetBrains Academy\nSupercharge your tools with AI-powered features inside many JetBrains products\nAI models hate Python and love PHP: we asked 12 of them 1,200 times\n1,200 hot takes, 14 “random” languages, zero opinions about C#, and one model that argued both sides of Go’s error handling.\nWe asked 12 AI models for their most controversial opinion about programming languages, 1,200 times in total.\nWe w…"
+    },
+    {
+      "rank": 10,
       "hn_id": 50506703,
       "title": "Claude Code Helped Me Save 130€ on an iPad Battery Repair",
       "title_ja": "Claude Code Helped Me Save 130€ on an iPad Battery Repair",
@@ -124,7 +139,46 @@
       "summary_ja": "Title: Claude Code Helped Me Save 130€ on an iPad Battery Repair\nArticle title: Claude Code Helped Me Save 130€ on an iPad Battery Repair ◉ Thinking Ground\nDescription: Before I fully commit to replacing the battery, I connected the iPad and told Claude to find out what’s going on.\n\nArticle text:\nClaude Code Helped Me Save 130€ on an iPad Battery Repair\nI’ve been using iPads (for something productive) since college and I’ve always loved the form factor. I owned and sold multiple ones so I am very well aware of the features, display and other feature differences.\nOne thing I love about every single version of iPad I owned is the ability to put it down on the table and pick it up a few days later with only a few percent missing in its battery fullness. This “feature” is pure magic and it makes iPad available wherever you need it.\nHowever I’ve been experiencing huge battery drain with my iP…"
     },
     {
-      "rank": 10,
+      "rank": 11,
+      "hn_id": 50509807,
+      "title": "In 19 Minutes, You will understand 10 years of LLMs [video]",
+      "title_ja": "In 19 Minutes, You will understand 10 years of LLMs [video]",
+      "hn_url": "https://news.ycombinator.com/item?id=50509807",
+      "source_url": "https://www.youtube.com/watch?v=cLWAiVIVr4U",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-11-15T19:23:01Z",
+      "summary_ja": "Title: In 19 Minutes, You will understand 10 years of LLMs [video]\nArticle title: - YouTube\nDescription: Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.\n\nArticle text:\n- YouTube About Press Copyright Contact us Creators Advertise Developers Terms Privacy Policy \u0026 Safety How YouTube works Test new features NFL Sunday Ticket © 2026 Google LLC"
+    },
+    {
+      "rank": 12,
+      "hn_id": 50506586,
+      "title": "Five Layers of the AI Cake [pdf]",
+      "title_ja": "Five Layers of the AI Cake [pdf]",
+      "hn_url": "https://news.ycombinator.com/item?id=50506586",
+      "source_url": "https://futurumgroup.com/wp-content/uploads/2026/05/Five-Layers-of-the-AI-Cake.pdf",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-11-15T12:51:33Z",
+      "summary_ja": "Title: Five Layers of the AI Cake [pdf]"
+    },
+    {
+      "rank": 13,
+      "hn_id": 50506625,
+      "title": "AI Adoption Failures: Why Your Successful AI Pilot Is No Reason to Scale",
+      "title_ja": "AI Adoption Failures: Why Your Successful AI Pilot Is No Reason to Scale",
+      "hn_url": "https://news.ycombinator.com/item?id=50506625",
+      "source_url": "https://age-of-product.com/ai-adoption-failures/",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-11-15T12:59:22Z",
+      "summary_ja": "Title: AI Adoption Failures: Why Your Successful AI Pilot Is No Reason to Scale"
+    },
+    {
+      "rank": 14,
       "hn_id": 50506796,
       "title": "Europa, the EU's open AI model, is aiming for nearly 1T parameters",
       "title_ja": "Europa, the EU's open AI model, is aiming for nearly 1T parameters",
@@ -138,20 +192,7 @@
       "summary_ja": "Title: Europa, the EU's open AI model, is aiming for nearly 1T parameters\nArticle title: EUROPA, the EU's open AI model, is aiming for nearly 1 trillion parameters - MACCUS\nDescription: Domyn has shared the training setup for EUROPA, the open European AI model chosen by the Commission: 951.9 billion parameters, tested on JUPITER.\n\nArticle text:\nEUROPA, the EU's open AI model, is aiming for nearly 1 trillion parameters - MACCUS\nSkip to content\nEnglish Français\nMenu\nMenu\nServices\nService Overview\nEUROPA, the EU’s open AI model, is aiming for nearly 1 trillion parameters\nDomyn is testing the setup for EUROPA, the open AI model picked by the European Commission, on the public JUPITER supercomputer.\nThe Italian company Domyn has run training trials for EUROPA, the European Union’s open AI model, on a public supercomputer. The test setup has nearly 1 trillion parameters, more than double the m…"
     },
     {
-      "rank": 11,
-      "hn_id": 50506586,
-      "title": "Five Layers of the AI Cake [pdf]",
-      "title_ja": "Five Layers of the AI Cake [pdf]",
-      "hn_url": "https://news.ycombinator.com/item?id=50506586",
-      "source_url": "https://futurumgroup.com/wp-content/uploads/2026/05/Five-Layers-of-the-AI-Cake.pdf",
-      "score": 1,
-      "final_score": 1,
-      "comments": 0,
-      "posted_at": "2026-11-15T12:51:33Z",
-      "summary_ja": "Title: Five Layers of the AI Cake [pdf]"
-    },
-    {
-      "rank": 12,
+      "rank": 15,
       "hn_id": 50504021,
       "title": "Smart AI Keyboard: Translate",
       "title_ja": "Smart AI Keyboard: Translate",
@@ -163,6 +204,32 @@
       "comments": 0,
       "posted_at": "2026-11-15T04:28:32Z",
       "summary_ja": "Title: Smart AI Keyboard: Translate\nArticle title: Smart AI Keyboard: Translate - Apps on Google Play\nDescription: Smart AI typing keyboard: translator, undo, calculator, grammar \u0026 glide typing.\n\nArticle text:\nSmart AI Keyboard: Translate - Apps on Google Play Games Apps Movies \u0026 TV Books Kids google_logo Play Games Apps Movies \u0026 TV Books Kids Gift Cards none search help_outline Sign in with Google\npayment Payments \u0026 subscriptions\nstorefront Third-party app stores\nGames Apps Movies \u0026 TV Books Kids Smart AI Keyboard: Translate\nShare Everyone Learn more About this app\nNo data shared with third parties Learn more about how developers declare sharing\nNo data collected Learn more about how developers declare collection\nMore by AI Engineering and Innovation (AIEI)"
+    },
+    {
+      "rank": 16,
+      "hn_id": 50504103,
+      "title": "Anthropic CVP (Mythos) Defense Access Requirements Reduced to KYC",
+      "title_ja": "Anthropic CVP (Mythos) Defense Access Requirements Reduced to KYC",
+      "hn_url": "https://news.ycombinator.com/item?id=50504103",
+      "source_url": "https://portal.anthropic.com/login?returnTo=%2Fprograms%2Fcvp#_",
+      "score": 1,
+      "final_score": 1,
+      "comments": 1,
+      "posted_at": "2026-11-15T04:49:04Z",
+      "summary_ja": "Title: Anthropic CVP (Mythos) Defense Access Requirements Reduced to KYC\nArticle title: Log in | Verification Portal\n\nArticle text:\nLog in | Verification Portal Verification Portal\nApply for and manage trust programs\nfor your Claude usage\nBy continuing, you agree to Anthropic’s Commercial Terms (opens in new tab) and Usage Policy (opens in new tab) , and acknowledge our Privacy Policy (opens in new tab) ."
+    },
+    {
+      "rank": 17,
+      "hn_id": 50509835,
+      "title": "AI streamlined my digital life",
+      "title_ja": "AI streamlined my digital life",
+      "hn_url": "https://news.ycombinator.com/item?id=50509835",
+      "source_url": "https://www.pangglow.com/files/blog/run-my-desktop.html?from=hn-agweb#life-hacks",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-11-15T19:26:06Z",
+      "summary_ja": "Title: AI streamlined my digital life\nArticle title: My LLM sessions were confusing me, so I built with-my-dashboards\n\nArticle text:\nArchive\nTags\nFeed\nAbout\nMurphy's Software Blog\nSoftware, AI and getting things done\nMy LLM sessions were confusing me, so I built with-my-dashboards\nHow AI streamlined my digital life\nMy road to a more productive digital life started when I asked Claude Code (CC) to build a web server for me. It's called with-my-dashboards (WMD), a full-stack web application in a single file that has grown into the control panel for my whole desktop. Its generic core is on GitHub , for you to build your own on.\nIt started with reading. Long answers are hard to read inside CC, so I ask it to write them to a markdown file and open that in the browser. CC can do that by itself. What it can't choose is where the page turns up, and that's the problem WMD solved: I wanted every p…"
     }
   ]
 }

@@ -1,0 +1,73 @@
+{
+  "date": "2026-11-16",
+  "generated_at": "2026-11-16T05:04:00Z",
+  "articles": [
+    {
+      "rank": 1,
+      "hn_id": 50513876,
+      "title": "Nvidia's Days as an Open Checkbook for the AI Economy Are Numbered",
+      "title_ja": "Nvidia's Days as an Open Checkbook for the AI Economy Are Numbered",
+      "hn_url": "https://news.ycombinator.com/item?id=50513876",
+      "source_url": "https://www.wsj.com/tech/ai/nvidias-days-as-an-open-checkbook-for-the-ai-economy-are-numbered-90c7b388",
+      "score": 5,
+      "final_score": 6,
+      "comments": 0,
+      "posted_at": "2026-11-16T04:03:51Z",
+      "summary_ja": "Title: Nvidia's Days as an Open Checkbook for the AI Economy Are Numbered"
+    },
+    {
+      "rank": 2,
+      "hn_id": 50514157,
+      "title": "Show HN: A benchmark that diffs the whole database after an AI agent's task",
+      "title_ja": "Show HN: A benchmark that diffs the whole database after an AI agent's task",
+      "hn_url": "https://news.ycombinator.com/item?id=50514157",
+      "source_url": "https://github.com/shubhamjoshipromail-svg/software-world-model",
+      "image_url": "https://opengraph.githubassets.com/b39ff64823e1adfe0b796c4fcdc3e688d21f1c114c20b55853dc95c49c661224/shubhamjoshipromail-svg/software-world-model",
+      "score": 1,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-11-16T04:49:45Z",
+      "summary_ja": "Title: Show HN: A benchmark that diffs the whole database after an AI agent's task\nArticle title: GitHub - shubhamjoshipromail-svg/software-world-model: Benchmark for computer-use agents on self-hosted business apps, graded by whole-database diffs: success, collateral damage, irreversible changes, false completion. · GitHub\nDescription: Benchmark for computer-use agents on self-hosted business apps, graded by whole-database diffs: success, collateral damage, irreversible changes, false completion. - shubhamjoshipromail-svg/software-world-model\n\nArticle text:\nGitHub - shubhamjoshipromail-svg/software-world-model: Benchmark for computer-use agents on self-hosted business apps, graded by whole-database diffs: success, collateral damage, irreversible changes, false completion. · GitHub\nSkip to content\nNavigation Menu\nSign in Products Platform GitHub Repository hosting, code review, and colla…"
+    },
+    {
+      "rank": 3,
+      "hn_id": 50514047,
+      "title": "An update on Cursor's recent security incident",
+      "title_ja": "An update on Cursor's recent security incident",
+      "hn_url": "https://news.ycombinator.com/item?id=50514047",
+      "source_url": "https://cursor.com/blog/security-incident-update",
+      "image_url": "https://ptht05hbb1ssoooe.public.blob.vercel-storage.com/assets/og/opengraph-default.png",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-11-16T04:28:28Z",
+      "summary_ja": "Title: An update on Cursor's recent security incident\nArticle title: An update on our recent security incident · Cursor\nDescription: After an extensive investigation over the past two weeks, we want to share more context on the attack and the related impact.\n\nArticle text:\nAn update on our recent security incident · Cursor Skip to content Cursor Models ↓ Grok\nAn update on our recent security incident\nOn October 29, we shared that we were investigating a security incident and a malicious, unauthorized copy of Anthropic's Claude Code extension that appeared in the Cursor VS Code extension marketplace. After an extensive investigation over the past two weeks, we want to share more context on the attack and the related impact.\nThe vast majority of customers were not affected, and we have contacted each affected customer directly with the details that apply to them.\nProtecting the safety of o…"
+    },
+    {
+      "rank": 4,
+      "hn_id": 50514009,
+      "title": "Artificial Intelligence in Neuromuscular Diseases",
+      "title_ja": "Artificial Intelligence in Neuromuscular Diseases",
+      "hn_url": "https://news.ycombinator.com/item?id=50514009",
+      "source_url": "https://link.springer.com/article/10.1007/s40120-026-01017-8",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-11-16T04:23:10Z",
+      "summary_ja": "Title: Artificial Intelligence in Neuromuscular Diseases\nArticle title: Client Challenge\n\nArticle text:\nClient Challenge\nA required part of this site couldn’t load. This may be due to a browser\nextension, network issues, or browser settings. Please check your\nconnection, disable any ad blockers, or try using a different browser."
+    },
+    {
+      "rank": 5,
+      "hn_id": 50514224,
+      "title": "Google AI Ultra Subscription Not Worth It",
+      "title_ja": "Google AI Ultra Subscription Not Worth It",
+      "hn_url": "https://news.ycombinator.com/item?id=50514224",
+      "source_url": "https://www.reddit.com/r/google_antigravity/comments/1xx9nl3/google_ai_ultra_subscription_not_worth_it/",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-11-16T04:59:22Z",
+      "summary_ja": "Title: Google AI Ultra Subscription Not Worth It"
+    }
+  ]
+}

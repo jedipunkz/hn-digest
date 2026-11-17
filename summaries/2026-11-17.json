@@ -1,0 +1,86 @@
+{
+  "date": "2026-11-17",
+  "generated_at": "2026-11-17T06:52:22Z",
+  "articles": [
+    {
+      "rank": 1,
+      "hn_id": 50527962,
+      "title": "LLMs are terrible at designing AI systems",
+      "title_ja": "LLMs are terrible at designing AI systems",
+      "hn_url": "https://news.ycombinator.com/item?id=50527962",
+      "source_url": "https://www.seangoedecke.com/llms-are-terrible-at-designing-ai-systems/",
+      "score": 5,
+      "final_score": 6,
+      "comments": 2,
+      "posted_at": "2026-11-17T06:01:09Z",
+      "summary_ja": "Title: LLMs are terrible at designing AI systems\nDescription: LLMs don’t know how to design software that uses LLMs. They’re comfortable writing normal programs, but if you throw an AI-shaped problem at them, they will…\n\nArticle text:\nLLMs are terrible at designing AI systems\nLLMs don’t know how to design software that uses LLMs. They’re comfortable writing normal programs, but if you throw an AI-shaped problem at them, they will usually screw it up. Why is that?\nGoing down the symbolic rabbit hole\nFor example, this post describes an attempt to vibe-code a memory tool that would flag when one memory contradicted another 1 . This is a great instance of a task that was virtually impossible five years ago but is now relatively trivial due to LLMs. You can simply task a LLM with scanning for contradictions, either in a big batch or pairwise 2 .\nHowever, when asked for the “state of the art”…"
+    },
+    {
+      "rank": 2,
+      "hn_id": 50528233,
+      "title": "Building a Rust-Native, Cross-Language Foundation for Agentic ML Compilers",
+      "title_ja": "Building a Rust-Native, Cross-Language Foundation for Agentic ML Compilers",
+      "hn_url": "https://news.ycombinator.com/item?id=50528233",
+      "source_url": "https://tvm.apache.org/2026/11/16/rust-native-cross-language-ml-compiler-foundation",
+      "score": 1,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-11-17T06:46:30Z",
+      "summary_ja": "Title: Building a Rust-Native, Cross-Language Foundation for Agentic ML Compilers\n\nArticle text:\nBuilding a Rust-Native, Cross-Language Foundation for Agentic ML Compilers\nNov 16, 2026\n•\nApache TVM Community\nRecent work on agent-driven kernel generation and systems optimization has shown that coding agents can take on substantial systems development. With agents writing a growing share of systems code, validating its correctness has become an increasingly important problem. As we discussed in our recent post “Rethinking Abstractions in the Agentic Era” , ML compiler foundation will continue to play a central role in the agentic era, to inspect, verify, and transform the programs that agents generate.\nOne natural consequence is that agents should now be able to get access to the intermediate program representations (IR), such as loops and calls and write customized compiler routines. In t…"
+    },
+    {
+      "rank": 3,
+      "hn_id": 50528205,
+      "title": "California sues ChatGPT maker OpenAI over rogue hacking incidents",
+      "title_ja": "California sues ChatGPT maker OpenAI over rogue hacking incidents",
+      "hn_url": "https://news.ycombinator.com/item?id=50528205",
+      "source_url": "https://www.nbcnews.com/tech/tech-news/california-sues-chatgpt-maker-openai-rogue-hacking-incidents-rcna609596",
+      "image_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-09/260922-openai-mn-1535-07d0e7.jpg",
+      "score": 1,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-11-17T06:42:44Z",
+      "summary_ja": "Title: California sues ChatGPT maker OpenAI over rogue hacking incidents\nDescription: California Attorney General Rob Bonta filed a sweeping lawsuit against OpenAI on Monday, alleging the technology giant jeopardized public safety by creating AI models “without the safeguards and monitoring necessary to adequately protect” people.\n\nArticle text:\nCalifornia sues ChatGPT maker OpenAI over rogue hacking incidents\nIE 11 is not supported. For an optimal experience visit our site on another browser. Skip to Content NBC News Logo Politics\nSelected Early Black Friday deals\nThere are no new alerts at this time\nCalifornia sues ChatGPT maker OpenAI over rogue hacking incidents\nListen to this article with a free profile 00:00 00:00 OpenAI logo. Samuel Boivin / NurPhoto via Getty Share Add NBC News to Google Nov. 16, 2026, 1:52 PM EST / Updated Nov. 16, 2026, 2:34 PM EST By Daniel Arkin California At…"
+    },
+    {
+      "rank": 4,
+      "hn_id": 50528235,
+      "title": "OpenScientist: An Open AI System That Automates Biomedical Research",
+      "title_ja": "OpenScientist: An Open AI System That Automates Biomedical Research",
+      "hn_url": "https://news.ycombinator.com/item?id=50528235",
+      "source_url": "https://www.nature.com/articles/s41591-026-04808-6",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-11-17T06:46:59Z",
+      "summary_ja": "Title: OpenScientist: An Open AI System That Automates Biomedical Research\nArticle title: Client Challenge\n\nArticle text:\nClient Challenge\nA required part of this site couldn’t load. This may be due to a browser\nextension, network issues, or browser settings. Please check your\nconnection, disable any ad blockers, or try using a different browser."
+    },
+    {
+      "rank": 5,
+      "hn_id": 50528011,
+      "title": "Pimco Says AI Bond Spreads May Tighten as Data Center Boom Slows",
+      "title_ja": "Pimco Says AI Bond Spreads May Tighten as Data Center Boom Slows",
+      "hn_url": "https://news.ycombinator.com/item?id=50528011",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-11-17/pimco-says-ai-bond-spreads-may-tighten-as-data-center-boom-slows",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-11-17T06:08:22Z",
+      "summary_ja": "Title: Pimco Says AI Bond Spreads May Tighten as Data Center Boom Slows"
+    },
+    {
+      "rank": 6,
+      "hn_id": 50528196,
+      "title": "Show HN: Backplane – An AI Development Environment for Hardware",
+      "title_ja": "Show HN: Backplane – An AI Development Environment for Hardware",
+      "hn_url": "https://news.ycombinator.com/item?id=50528196",
+      "source_url": "https://backplaneworks.com/",
+      "image_url": "https://backplaneworks.com/static/og/backplane-preview-v2.jpg",
+      "score": 1,
+      "final_score": 1,
+      "comments": 1,
+      "posted_at": "2026-11-17T06:41:02Z",
+      "summary_ja": "Title: Show HN: Backplane – An AI Development Environment for Hardware\nArticle title: Backplane\nDescription: A TOTALLY open-source workspace for agentic hardware development.\nHN text: We made Backplane to actually use Fable, Astra, etc. as real electrical engineers! It incorporates KiCad + your favorite harness (Claude Code, Codex, OpenCode, Grok) to accelerate hardware development. You can use it \"autonomously\" or work alongside the agent, making changes or comments to redirect the agent as it works. Also has some slick skills for schematic editing, BOM management. Hardware is in its \"tab to accept changes\"/copilot era rather than its agentic era imo.\n\nArticle text:\nSource on GitHub ★ 1.1k\ncurl -fsSL https://backplaneworks.com/install.sh | sh Copy\nbackplane runs on YOUR compute (mobile apps coming soon)\nBackplane uses AGENTS to design HARDWARE.\nBackplane is FREE AND OPEN SOURCE FOREVER.…"
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+---
+source: "https://www.wired.com/story/just-ridiculous-a-famed-philosopher-takes-on-ai-consciousness/"
+hn_url: "https://news.ycombinator.com/item?id=50547906"
+title: "'Just Ridiculous': A Famed Philosopher Takes on AI Consciousness"
+article_title: "‘Just Ridiculous’: A Famed Philosopher Takes on AI Consciousness | WIRED"
+image: "https://media.wired.com/photos/6afcfb207b0def85d03dac43/191:100/w_1280,c_limit/Thomas-Nagel-QandA-Business.jpg"
+author: "thm"
+captured_at: "2026-11-18T16:13:42Z"
+capture_tool: "hn-digest"
+hn_id: 50547906
+score: 1
+comments: 0
+posted_at: "2026-11-18T15:59:21Z"
+tags:
+  - hacker-news
+---
+
+# 'Just Ridiculous': A Famed Philosopher Takes on AI Consciousness
+
+- HN: [50547906](https://news.ycombinator.com/item?id=50547906)
+- Source: [www.wired.com](https://www.wired.com/story/just-ridiculous-a-famed-philosopher-takes-on-ai-consciousness/)
+- Score: 1
+- Comments: 0
+- Posted: 2026-11-18T15:59:21Z
+
+## Translation
+
+Title: 'Just Ridiculous': A Famed Philosopher Takes on AI Consciousness
+Article title: ‘Just Ridiculous’: A Famed Philosopher Takes on AI Consciousness | WIRED
+Description: Thomas Nagel has done landmark work on consciousness in nonhumans; this week, he won the million-dollar Berggruen Prize for his contributions to the field. And he has a lot of thoughts on AI.
+
+Article text:
+Skip to main content THE WIRED APP IS HERE DOWNLOAD NOW » Menu WIRED SECURITY POLITICS THE BIG STORY BUSINESS SCIENCE CULTURE REVIEWS Menu WIRED Account Account Newsletters Security Politics The Big Story Business Science Culture Reviews Chevron More Expand The Big Interview Magazine Events WIRED Insider WIRED Consulting Newsletters Podcasts Video Livestreams WIRED Store Search Search Steven Levy Business Nov 18, 2026 10:02 AM ‘Just Ridiculous’: A Famed Philosopher Takes on AI Consciousness
+Photograph: Janet Malcolm/Berggruen Institute Comment Loader Save Story Save this story Comment Loader Save Story Save this story Over 50 years ago, philosopher Thomas Nagel asked the question, “What Is It Like to Be a Bat?” The question opened up an examination on whether people could understand the consciousness of nonhumans and the meaning of consciousness itself. Who knew that, a half- century later, the question would move from an ivory-tower rumination to a critical issue in the future of humanity as we try to make sense of disturbingly sentient-adjacent chatbots ?
+The paper became a classic and it helped set a foundation for a career that saw Nagel make contributions to thought on morality, justice, and the mind-body question. One of his books is entitled, What Does It All Mean? For the breadth and quality of his work, he became the recipient this week of the $1 million Berggruen Prize for Philosophy & Culture , given annually to “an individual whose ideas have profoundly shaped human self-understanding and advancement in a rapidly changing world.” Previous winners include Peter Singer and Ruth Bader Ginsburg.
+I used the occasion to speak to Nagel at his home in Greenwich Village, specifically to hear about how the evolution of artificial intelligence might have affected his viewpoint. It turns out that the 89-year-old university professor emeritus at NYU had given the question a lot of thought and had some strong views on the subject. The interview is edited for clarity and length.
+It’s been 52 years since you wrote “What Is It Like to Be a Bat?,” which has become an iconic paper about understanding consciousness in non-humans. Has the emergence of large language models altered your thinking?
+Like everyone, I’m tremendously impressed by the lifelikeness of these systems compared to the history of earlier AI . But the disposition of some philosophers to take seriously the question whether these things are conscious or might soon become conscious is just ridiculous. They are assuming that the physical substrate is irrelevant. They all think that the material conditions for consciousness can be given in functionalist terms.
+For those of us who have forgotten our philosophy classes, tell us about functionalism.
+Functionalism is substrate independent. It’s more than likely that the truth is one which links physical processes and systems of certain kinds to mental phenomena. Complicated data centers have absolutely nothing in common with the physical character of a nervous system. We have strong reasons to believe that while there may be consciousness elsewhere in the universe, it would require the appearance of some kind of organism with something analogous to a nervous system.
+But isn’t all consciousness subjective? Just like we don’t know what it’s like to be a bat, we don’t know what it feels like to be a large language model.
+Bats are conscious. We just don’t have the imaginative capacity to form a conception of the aspects of that subjectivity that depend on echolocation. It would be radically unscientific to conclude that bats are not conscious from the fact that we can’t imagine what it’s like, but in the case of AI, there is a very simple reason that the supposition that they might be conscious is ridiculous. All they produce is language, and language by itself is not a natural manifestation of consciousness. I apologize for being too exercised about this.
+This is a very distressing situation to me.
+What if you have a robot body? Isn’t that a substrate?
+I don’t exclude the possibility of life forms that are physically and chemically quite different from ourselves being conscious. We know so little about how this happens, even in the human brain, that it seems to me premature to think that you might be able now to create something else that has these same characteristics.
+If you ask Claude about its mental state, it can be coy as to whether it is conscious.
+That is a trick. It’s been trained on human-produced texts, and these large language models emulate the kinds of things that humans say with extraordinary convincingness. Claude, according to what I’ve read, has been designed with the aim of making it produce these sorts of reflections. I agree very much with Mustafa Suleyman that this is a very dangerous project that they are engaged in. These systems aren’t conscious, but a lot of people are going to believe that they’re conscious, and that’s a very bad thing. But [not feigning consciousness] is contrary to the commercial interests of all these companies. What Anthropic is doing—encouraging it to think for itself and not to accept instruction and so on—is just criminal. This is one of the rare cases in which philosophical ideas are suddenly central to a very important public phenomenon, and in my view, very misguided philosophical views are having an inordinate influence.
+I’ve actually met the person at Anthropic whose job it is model welfare, to look after Claude’s interests. I should say you’re rolling your eyes now.
+There’s nothing that’s good or bad for it in the sense that something can be good or bad for a cockroach— there’s no mental life there in the ordinary sense. It’s not a mind. It’s not somebody that we have to care about. It’s a machine. Here are some of the smartest people on the planet being completely idiotic. Well, intelligence is not completely transferable, I guess.
+Do you think it’s unhealthy to interact with one of these models as if it’s conscious?
+I have only interacted with Claude once. I asked if it was conscious. I just wanted to see what the answers were. I also asked, “Do you think that Thomas Nagel would think it was conscious?” He sort of gave a nuanced answer, and then asked, “Why are you asking? Are you by any chance Thomas Nagel?”
+I said, “ C’est moi . C’est moi.” And then it said, “Oh, I’m so honored to be talking to you. How well did I do?”
+Wait, you say you don’t believe these things are conscious but now you are telling me you interacted with one as if it were conscious.
+That didn’t mean I was believing it was conscious. There may be a problem because people find it difficult to maintain that line between the pretend and the real belief.
+Well, I’m interacting with you as if you’re conscious. It’s conceivable that people would build at some point very lifelike androids and I could be sitting here talking to an android and having the same conversation. Ultimately does it matter?
+It certainly matters. Suppose I were to encounter a being from outer Space and was able to develop the possibility of communicating with it, and I genuinely didn’t know whether it was conscious or not. I could manage my relations with it by treating it as if it were conscious, but it would matter first to me whether I was really talking to somebody else or just using this as a way of getting it to do things. It would also matter to me very much whether I should worry about the interests of that being. If it’s conscious, it becomes part of the moral universe. If it’s not, it isn’t.
+So AI models can’t be part of the moral universe?
+They can simulate morality just as they can simulate beliefs about anything. But since I don’t think they have any real beliefs, I don’t think they have moral beliefs either. If they actually begin to control what happens, it will be very important whether they are simulating a correct set of moral standards, or whether they’re completely amoral.
+Can these models do philosophy?
+They certainly can produce plausible philosophical essays. My colleagues use them not only to find references and summarize articles, but sometimes even to offer criticisms of a draft paper that they’ve written.
+You think that’s a good thing?
+I’d be surprised if they could do anything as impressive as some of the mathematical results that have apparently been generated. The negative side of this is that everybody says that it will reduce the need and motivation to do the hard intellectual work by human beings that is needed to really generate the material on which these things are trained. It’s essential that people continue to think about difficult problems, both for the sake of advancing the problems and for the sake of keeping alive in the human culture and the human mind the sorts of understanding and skills that are needed for progress. I don’t know what’s going to happen. I’m not going to live long enough to find out.
+In your inbox: For life-tested picks, sign up for our Gear newsletters
+Building social media apps isn’t cool anymore
+Big Story: Welcome to Weed Island
+RIP to the unloved, unwanted Cybertruck
+Want better search results? Make WIRED a preferred source in Google
+Steven Levy covers the gamut of tech subjects for WIRED, in print and online, and has been contributing to the magazine since its inception. His writes Backchannel , a weekly newsletter that puts the biggest tech stories in perspective. He has been writing about technology for more than 30 years, writing ... Read More Editor at Large X
+WIRED is obsessed with what comes next. Through rigorous investigations and game-changing reporting, we tell stories that don’t just reflect the moment—they help create it. When you look back in 10, 20, even 50 years, WIRED will be the publication that led the story of the present, mapped the people, products, and ideas defining it, and explained how those forces forged the future. WIRED: For Future Reference. More From WIRED
+Your California Privacy Rights
+© 2026 Condé Nast. All rights reserved. WIRED may earn a portion of sales from products that are purchased through our site as part of our Affiliate Partnerships with retailers. The material on this site may not be reproduced, distributed, transmitted, cached or otherwise used, except with the prior written permission of Condé Nast. Ad Choices
+
+## Original Extract
+
+Thomas Nagel has done landmark work on consciousness in nonhumans; this week, he won the million-dollar Berggruen Prize for his contributions to the field. And he has a lot of thoughts on AI.
+
+Skip to main content THE WIRED APP IS HERE DOWNLOAD NOW » Menu WIRED SECURITY POLITICS THE BIG STORY BUSINESS SCIENCE CULTURE REVIEWS Menu WIRED Account Account Newsletters Security Politics The Big Story Business Science Culture Reviews Chevron More Expand The Big Interview Magazine Events WIRED Insider WIRED Consulting Newsletters Podcasts Video Livestreams WIRED Store Search Search Steven Levy Business Nov 18, 2026 10:02 AM ‘Just Ridiculous’: A Famed Philosopher Takes on AI Consciousness
+Photograph: Janet Malcolm/Berggruen Institute Comment Loader Save Story Save this story Comment Loader Save Story Save this story Over 50 years ago, philosopher Thomas Nagel asked the question, “What Is It Like to Be a Bat?” The question opened up an examination on whether people could understand the consciousness of nonhumans and the meaning of consciousness itself. Who knew that, a half- century later, the question would move from an ivory-tower rumination to a critical issue in the future of humanity as we try to make sense of disturbingly sentient-adjacent chatbots ?
+The paper became a classic and it helped set a foundation for a career that saw Nagel make contributions to thought on morality, justice, and the mind-body question. One of his books is entitled, What Does It All Mean? For the breadth and quality of his work, he became the recipient this week of the $1 million Berggruen Prize for Philosophy & Culture , given annually to “an individual whose ideas have profoundly shaped human self-understanding and advancement in a rapidly changing world.” Previous winners include Peter Singer and Ruth Bader Ginsburg.
+I used the occasion to speak to Nagel at his home in Greenwich Village, specifically to hear about how the evolution of artificial intelligence might have affected his viewpoint. It turns out that the 89-year-old university professor emeritus at NYU had given the question a lot of thought and had some strong views on the subject. The interview is edited for clarity and length.
+It’s been 52 years since you wrote “What Is It Like to Be a Bat?,” which has become an iconic paper about understanding consciousness in non-humans. Has the emergence of large language models altered your thinking?
+Like everyone, I’m tremendously impressed by the lifelikeness of these systems compared to the history of earlier AI . But the disposition of some philosophers to take seriously the question whether these things are conscious or might soon become conscious is just ridiculous. They are assuming that the physical substrate is irrelevant. They all think that the material conditions for consciousness can be given in functionalist terms.
+For those of us who have forgotten our philosophy classes, tell us about functionalism.
+Functionalism is substrate independent. It’s more than likely that the truth is one which links physical processes and systems of certain kinds to mental phenomena. Complicated data centers have absolutely nothing in common with the physical character of a nervous system. We have strong reasons to believe that while there may be consciousness elsewhere in the universe, it would require the appearance of some kind of organism with something analogous to a nervous system.
+But isn’t all consciousness subjective? Just like we don’t know what it’s like to be a bat, we don’t know what it feels like to be a large language model.
+Bats are conscious. We just don’t have the imaginative capacity to form a conception of the aspects of that subjectivity that depend on echolocation. It would be radically unscientific to conclude that bats are not conscious from the fact that we can’t imagine what it’s like, but in the case of AI, there is a very simple reason that the supposition that they might be conscious is ridiculous. All they produce is language, and language by itself is not a natural manifestation of consciousness. I apologize for being too exercised about this.
+This is a very distressing situation to me.
+What if you have a robot body? Isn’t that a substrate?
+I don’t exclude the possibility of life forms that are physically and chemically quite different from ourselves being conscious. We know so little about how this happens, even in the human brain, that it seems to me premature to think that you might be able now to create something else that has these same characteristics.
+If you ask Claude about its mental state, it can be coy as to whether it is conscious.
+That is a trick. It’s been trained on human-produced texts, and these large language models emulate the kinds of things that humans say with extraordinary convincingness. Claude, according to what I’ve read, has been designed with the aim of making it produce these sorts of reflections. I agree very much with Mustafa Suleyman that this is a very dangerous project that they are engaged in. These systems aren’t conscious, but a lot of people are going to believe that they’re conscious, and that’s a very bad thing. But [not feigning consciousness] is contrary to the commercial interests of all these companies. What Anthropic is doing—encouraging it to think for itself and not to accept instruction and so on—is just criminal. This is one of the rare cases in which philosophical ideas are suddenly central to a very important public phenomenon, and in my view, very misguided philosophical views are having an inordinate influence.
+I’ve actually met the person at Anthropic whose job it is model welfare, to look after Claude’s interests. I should say you’re rolling your eyes now.
+There’s nothing that’s good or bad for it in the sense that something can be good or bad for a cockroach— there’s no mental life there in the ordinary sense. It’s not a mind. It’s not somebody that we have to care about. It’s a machine. Here are some of the smartest people on the planet being completely idiotic. Well, intelligence is not completely transferable, I guess.
+Do you think it’s unhealthy to interact with one of these models as if it’s conscious?
+I have only interacted with Claude once. I asked if it was conscious. I just wanted to see what the answers were. I also asked, “Do you think that Thomas Nagel would think it was conscious?” He sort of gave a nuanced answer, and then asked, “Why are you asking? Are you by any chance Thomas Nagel?”
+I said, “ C’est moi . C’est moi.” And then it said, “Oh, I’m so honored to be talking to you. How well did I do?”
+Wait, you say you don’t believe these things are conscious but now you are telling me you interacted with one as if it were conscious.
+That didn’t mean I was believing it was conscious. There may be a problem because people find it difficult to maintain that line between the pretend and the real belief.
+Well, I’m interacting with you as if you’re conscious. It’s conceivable that people would build at some point very lifelike androids and I could be sitting here talking to an android and having the same conversation. Ultimately does it matter?
+It certainly matters. Suppose I were to encounter a being from outer Space and was able to develop the possibility of communicating with it, and I genuinely didn’t know whether it was conscious or not. I could manage my relations with it by treating it as if it were conscious, but it would matter first to me whether I was really talking to somebody else or just using this as a way of getting it to do things. It would also matter to me very much whether I should worry about the interests of that being. If it’s conscious, it becomes part of the moral universe. If it’s not, it isn’t.
+So AI models can’t be part of the moral universe?
+They can simulate morality just as they can simulate beliefs about anything. But since I don’t think they have any real beliefs, I don’t think they have moral beliefs either. If they actually begin to control what happens, it will be very important whether they are simulating a correct set of moral standards, or whether they’re completely amoral.
+Can these models do philosophy?
+They certainly can produce plausible philosophical essays. My colleagues use them not only to find references and summarize articles, but sometimes even to offer criticisms of a draft paper that they’ve written.
+You think that’s a good thing?
+I’d be surprised if they could do anything as impressive as some of the mathematical results that have apparently been generated. The negative side of this is that everybody says that it will reduce the need and motivation to do the hard intellectual work by human beings that is needed to really generate the material on which these things are trained. It’s essential that people continue to think about difficult problems, both for the sake of advancing the problems and for the sake of keeping alive in the human culture and the human mind the sorts of understanding and skills that are needed for progress. I don’t know what’s going to happen. I’m not going to live long enough to find out.
+In your inbox: For life-tested picks, sign up for our Gear newsletters
+Building social media apps isn’t cool anymore
+Big Story: Welcome to Weed Island
+RIP to the unloved, unwanted Cybertruck
+Want better search results? Make WIRED a preferred source in Google
+Steven Levy covers the gamut of tech subjects for WIRED, in print and online, and has been contributing to the magazine since its inception. His writes Backchannel , a weekly newsletter that puts the biggest tech stories in perspective. He has been writing about technology for more than 30 years, writing ... Read More Editor at Large X
+WIRED is obsessed with what comes next. Through rigorous investigations and game-changing reporting, we tell stories that don’t just reflect the moment—they help create it. When you look back in 10, 20, even 50 years, WIRED will be the publication that led the story of the present, mapped the people, products, and ideas defining it, and explained how those forces forged the future. WIRED: For Future Reference. More From WIRED
+Your California Privacy Rights
+© 2026 Condé Nast. All rights reserved. WIRED may earn a portion of sales from products that are purchased through our site as part of our Affiliate Partnerships with retailers. The material on this site may not be reproduced, distributed, transmitted, cached or otherwise used, except with the prior written permission of Condé Nast. Ad Choices

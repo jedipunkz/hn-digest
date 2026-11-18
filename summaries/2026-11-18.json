@@ -1,0 +1,59 @@
+{
+  "date": "2026-11-18",
+  "generated_at": "2026-11-18T06:11:26Z",
+  "articles": [
+    {
+      "rank": 1,
+      "hn_id": 50542217,
+      "title": "I had AI read my field",
+      "title_ja": "I had AI read my field",
+      "hn_url": "https://news.ycombinator.com/item?id=50542217",
+      "source_url": "https://science.caseyhandmer.com/physics/",
+      "score": 8,
+      "final_score": 10,
+      "comments": 3,
+      "posted_at": "2026-11-18T05:26:41Z",
+      "summary_ja": "Title: I had AI read my field\nArticle title: A field of physics, audited by machine\nDescription: 158,059 astrophysics papers mapped in 3D, 659 of the most important checked by AI by recomputing them, and every verified error followed through the papers that cite it.\n\nArticle text:\nPhysics, audited · science.caseyhandmer.com\nStory Errors Explore Subfields Review AI opportunities Method\n◐\nLoading…\nTheoretical astrophysics · a whole field · audited by machine\nI had AI read my entire field.\n158,059 papers and 554,670 citations. Every paper with full text screened, 659 of the most important recomputed and checked, and every verified error followed through the papers that cite it. This is the map, and what it says about whether science corrects itself.\nI spent five years in this field doing my PhD at Caltech, and a few months of that went to errors in the literature that were already known. Th…"
+    },
+    {
+      "rank": 2,
+      "hn_id": 50542329,
+      "title": "Harvard Study: Workers switch apps 900 times a day. After AI, switching drops",
+      "title_ja": "Harvard Study: Workers switch apps 900 times a day. After AI, switching drops",
+      "hn_url": "https://news.ycombinator.com/item?id=50542329",
+      "source_url": "https://arxiv.org/abs/2607.06681",
+      "image_url": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+      "score": 3,
+      "final_score": 3,
+      "comments": 0,
+      "posted_at": "2026-11-18T05:46:40Z",
+      "summary_ja": "Title: Harvard Study: Workers switch apps 900 times a day. After AI, switching drops\nArticle title: [2607.06681] Digital Fragmentation and Generative AI Use Across 103 Million Application Events\nDescription: Abstract page for arXiv paper 2607.06681: Digital Fragmentation and Generative AI Use Across 103 Million Application Events\n\nArticle text:\nSkip to main content\nSearch\nSubmit\nDonate\nLog in\nSearch arXiv\nPress Enter to search · Advanced search\nComputer Science \u003e Human-Computer Interaction\n[Submitted on 7 Jul 2026 ( v1 ), last revised 7 Aug 2026 (this version, v2)]\nTitle: Digital Fragmentation and Generative AI Use Across 103 Million Application Events\nAbstract: Knowledge workers switch between applications thousands of times per day, spending nearly a tenth of the work year transitioning between digital applications in a process called digital fragmentation. Whether this fragmentation r…"
+    },
+    {
+      "rank": 3,
+      "hn_id": 50542368,
+      "title": "Microsoft expands direct competition with OpenAI and Anthropic",
+      "title_ja": "Microsoft expands direct competition with OpenAI and Anthropic",
+      "hn_url": "https://news.ycombinator.com/item?id=50542368",
+      "source_url": "https://www.reuters.com/legal/litigation/microsoft-unveils-ai-models-coding-cybersecurity-it-takes-anthropic-openai-2026-11-17",
+      "score": 2,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-11-18T05:53:47Z",
+      "summary_ja": "Title: Microsoft expands direct competition with OpenAI and Anthropic"
+    },
+    {
+      "rank": 4,
+      "hn_id": 50542343,
+      "title": "Optimizing AI Agents: Prompts vs. Weights (GEPA, GRPO) – Stanford CS329Z [video]",
+      "title_ja": "Optimizing AI Agents: Prompts vs. Weights (GEPA, GRPO) – Stanford CS329Z [video]",
+      "hn_url": "https://news.ycombinator.com/item?id=50542343",
+      "source_url": "https://www.youtube.com/watch?v=e_m99aR7_3Q",
+      "score": 2,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-11-18T05:49:48Z",
+      "summary_ja": "Title: Optimizing AI Agents: Prompts vs. Weights (GEPA, GRPO) – Stanford CS329Z [video]\nArticle title: - YouTube\nDescription: Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.\n\nArticle text:\n- YouTube About Press Copyright Contact us Creators Advertise Developers Terms Privacy Policy \u0026 Safety How YouTube works Test new features NFL Sunday Ticket © 2026 Google LLC"
+    }
+  ]
+}

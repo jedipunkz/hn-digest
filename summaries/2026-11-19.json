@@ -1,6 +1,6 @@
 {
   "date": "2026-11-19",
-  "generated_at": "2026-11-19T16:22:30Z",
+  "generated_at": "2026-11-19T23:26:13Z",
   "articles": [
     {
       "rank": 1,
@@ -18,6 +18,33 @@
     },
     {
       "rank": 2,
+      "hn_id": 50567735,
+      "title": "Court: 4th Amendment Doesn't Cover AI-Generated 'Probable Cause'",
+      "title_ja": "Court: 4th Amendment Doesn't Cover AI-Generated 'Probable Cause'",
+      "hn_url": "https://news.ycombinator.com/item?id=50567735",
+      "source_url": "https://www.techdirt.com/2026/11/19/court-tells-cops-that-the-4th-amendment-doesnt-cover-ai-generated-probable-cause/",
+      "score": 14,
+      "final_score": 18,
+      "comments": 2,
+      "posted_at": "2026-11-19T22:56:59Z",
+      "summary_ja": "Title: Court: 4th Amendment Doesn't Cover AI-Generated 'Probable Cause'"
+    },
+    {
+      "rank": 3,
+      "hn_id": 50567485,
+      "title": "An FBI agent called a Claude user about his chats",
+      "title_ja": "An FBI agent called a Claude user about his chats",
+      "hn_url": "https://news.ycombinator.com/item?id=50567485",
+      "source_url": "https://austinpatrick.substack.com/p/when-should-ai-labs-alert-police",
+      "image_url": "https://substackcdn.com/image/fetch/$s_!NWUr!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,$fp_!0.4762:0.3834:1.05!/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F40d557e9-ee2f-486f-8ce6-c7cf6e819d91_1468x1560.png",
+      "score": 8,
+      "final_score": 16,
+      "comments": 2,
+      "posted_at": "2026-11-19T22:36:51Z",
+      "summary_ja": "Title: An FBI agent called a Claude user about his chats\nArticle title: WHEN SHOULD AI LABS ALERT POLICE? - by Austin Morrissey\nDescription: SECURITY, SURVEILLANCE, SUSPICION\n\nArticle text:\nWHEN SHOULD AI LABS ALERT POLICE? - by Austin Morrissey\nRational Biology\nSubscribe Sign in WHEN SHOULD AI LABS ALERT POLICE?\nSECURITY, SURVEILLANCE, SUSPICION\nAustin Morrissey Nov 17, 2026 13 5 4 Share\nThis is FBI Special Agent Mary Doe. I have a couple questions for you about some of your activity on the AI platform Anthropic. Please give me a call back. You can Google FBI Boston and confirm my identity and phone number before calling back. Thank you.”\nThe night before, at 11PM, agents knocked on the door of the user’s former home in New Hampshire, loud and long enough that the new tenant, a stranger to the user, answered. The tenant, unable to provide information on the former resident’s whereabouts…"
+    },
+    {
+      "rank": 4,
       "hn_id": 50556339,
       "title": "Will Wright's next simulation will use AI to mine content from your memories",
       "title_ja": "Will Wright's next simulation will use AI to mine content from your memories",
@@ -31,7 +58,21 @@
       "summary_ja": "Title: Will Wright's next simulation will use AI to mine content from your memories\nArticle title: Will Wright's next simulation will use AI to mine content from your memories - Ars Technica\nDescription: With MyMems, Wright says he wants to \"turn the simulation inward.\"\n\nArticle text:\nMyMems , Wright says he wants to \\u0022turn the simulation inward.\\u0022\",\"image_url\":\"https:\\/\\/cdn.arstechnica.net\\/wp-content\\/uploads\\/2026\\/11\\/Moonlit-walk-500x500.png\",\"listing_image_url\":\"https:\\/\\/cdn.arstechnica.net\\/wp-content\\/uploads\\/2026\\/11\\/Moonlit-walk-768x432.png\"}'\u003e\nSkip to content\nArs Technica home\nSections\nForum\nSubscribe\nSearch\nAI\nStory text\nSize\nSmall\nStandard\nLarge\nWidth\n*\nStandard\nWide\nLinks\nStandard\nOrange\n* Subscribers only\nLearn more\nPin to story\nTheme\nHyperLight\nSearch\nSign In\nSign in dialog...\nSign in\nStill waiting on Spore 2\nWill Wright’s next simulation will use AI to mine c…"
     },
     {
-      "rank": 3,
+      "rank": 5,
+      "hn_id": 50567719,
+      "title": "AI Agentic harness with explicit risk analysis",
+      "title_ja": "AI Agentic harness with explicit risk analysis",
+      "hn_url": "https://news.ycombinator.com/item?id=50567719",
+      "source_url": "https://github.com/AppliedIngenuity-ai/project-chaperone",
+      "image_url": "https://opengraph.githubassets.com/5612787015cfa2e12acac50996376ec190a59307d0af66c2c70cbff6c4d975a3/AppliedIngenuity-ai/project-chaperone",
+      "score": 4,
+      "final_score": 8,
+      "comments": 1,
+      "posted_at": "2026-11-19T22:55:05Z",
+      "summary_ja": "Title: AI Agentic harness with explicit risk analysis\nArticle title: GitHub - AppliedIngenuity-ai/project-chaperone: Project Chaperone - AI Agentic harness that provides explicit risk analysis and extra runtime rule enforcement for enhanced safety. · GitHub\nDescription: Project Chaperone - AI Agentic harness that provides explicit risk analysis and extra runtime rule enforcement for enhanced safety. - AppliedIngenuity-ai/project-chaperone\n\nArticle text:\nGitHub - AppliedIngenuity-ai/project-chaperone: Project Chaperone - AI Agentic harness that provides explicit risk analysis and extra runtime rule enforcement for enhanced safety. · GitHub\nSkip to content\nNavigation Menu\nSign in Products Platform GitHub Repository hosting, code review, and collaboration\nCopilot AI coding agent for tasks, projects, and automated work\nBuild \u0026 Ship Actions CI/CD and automation\nCode Quality Quality analysis,…"
+    },
+    {
+      "rank": 6,
       "hn_id": 50561282,
       "title": "Arizona says it is investigating OpenAI, other firms over possible rogue agents",
       "title_ja": "Arizona says it is investigating OpenAI, other firms over possible rogue agents",
@@ -44,21 +85,7 @@
       "summary_ja": "Title: Arizona says it is investigating OpenAI, other firms over possible rogue agents"
     },
     {
-      "rank": 4,
-      "hn_id": 50562021,
-      "title": "Elon Musk's SpaceXAI suffers chemical spill at Mississippi AI data center",
-      "title_ja": "Elon Musk's SpaceXAI suffers chemical spill at Mississippi AI data center",
-      "hn_url": "https://news.ycombinator.com/item?id=50562021",
-      "source_url": "https://www.tomshardware.com/tech-industry/data-centers/elon-musks-spacexai-suffers-chemical-spill-at-mississippi-ai-data-center-up-to-6-000-gallons-of-propylene-glycol-heat-transfer-fluid-lost-environment-agency-says-no-threat-to-residents",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/qenN65eHB42UpqUiKhdHSf-1920-80.png",
-      "score": 4,
-      "final_score": 5,
-      "comments": 2,
-      "posted_at": "2026-11-19T16:14:51Z",
-      "summary_ja": "Title: Elon Musk's SpaceXAI suffers chemical spill at Mississippi AI data center\nArticle title: Elon Musk’s SpaceXAI suffers chemical spill at Mississippi AI data center — up to 6,000 gallons of propylene glycol heat transfer fluid lost, environment agency says no threat to residents | Tom's Hardware\nDescription: 5,000 to 6,000 gallons of propylene glycol spilled from the facility before reaching a nearby drainage ditch.\n\nArticle text:\nSkip to main content\nBecome a member for free\nJoin for quick access. Enter your email below and we'll send confirmation plus sign you up to our newsletter.\nBy submitting your information you agree to the\nTerms \u0026 Conditions\nand\nPrivacy Policy\nand are aged 16 or over.\nChoose how you want to join Tom’s Hardware\nMEMBER\nGet started with free access to reviews, badges and discussions.\nUnlock exclusive tools and insights for enthusiasts who want more.\nAccess Benc…"
-    },
-    {
-      "rank": 5,
+      "rank": 7,
       "hn_id": 50561354,
       "title": "AI found a hole in Java, and it starts with 'AAAAAAAA '",
       "title_ja": "AI found a hole in Java, and it starts with 'AAAAAAAA '",
@@ -72,7 +99,21 @@
       "summary_ja": "Title: AI found a hole in Java, and it starts with 'AAAAAAAA '\nArticle title: AI Found A Hole In Java, And It Starts With 'AAAAAAAA...'\nDescription: The bug could let hackers take over systems at banks, hospitals and most Fortune 500 companies.\n\nArticle text:\nAI Found A Hole In Java, And It Starts With 'AAAAAAAA...'\nLatest\nAI found a hole in Java, and it starts with 'AAAAAAAA...'\nThe bug could let hackers take over systems at banks, hospitals and most Fortune 500 companies.\nGabriel Heinzer / Unsplash\nAdd Engadget on Google:\nPreferred Source\nGoogle Discover\nIf the last week is any indication, the coming months and years will be a wild ride for digital infrastructure. After outages at Microsoft , the FAA , banks , Apple and... seemingly everything else, we've now learned that a bug in the programming language Java can be used to take over computer systems.\nResearchers at cybersecurity star…"
     },
     {
-      "rank": 6,
+      "rank": 8,
+      "hn_id": 50562021,
+      "title": "Elon Musk's SpaceXAI suffers chemical spill at Mississippi AI data center",
+      "title_ja": "Elon Musk's SpaceXAI suffers chemical spill at Mississippi AI data center",
+      "hn_url": "https://news.ycombinator.com/item?id=50562021",
+      "source_url": "https://www.tomshardware.com/tech-industry/data-centers/elon-musks-spacexai-suffers-chemical-spill-at-mississippi-ai-data-center-up-to-6-000-gallons-of-propylene-glycol-heat-transfer-fluid-lost-environment-agency-says-no-threat-to-residents",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/qenN65eHB42UpqUiKhdHSf-1920-80.png",
+      "score": 4,
+      "final_score": 5,
+      "comments": 2,
+      "posted_at": "2026-11-19T16:14:51Z",
+      "summary_ja": "Title: Elon Musk's SpaceXAI suffers chemical spill at Mississippi AI data center\nArticle title: Elon Musk’s SpaceXAI suffers chemical spill at Mississippi AI data center — up to 6,000 gallons of propylene glycol heat transfer fluid lost, environment agency says no threat to residents | Tom's Hardware\nDescription: 5,000 to 6,000 gallons of propylene glycol spilled from the facility before reaching a nearby drainage ditch.\n\nArticle text:\nSkip to main content\nBecome a member for free\nJoin for quick access. Enter your email below and we'll send confirmation plus sign you up to our newsletter.\nBy submitting your information you agree to the\nTerms \u0026 Conditions\nand\nPrivacy Policy\nand are aged 16 or over.\nChoose how you want to join Tom’s Hardware\nMEMBER\nGet started with free access to reviews, badges and discussions.\nUnlock exclusive tools and insights for enthusiasts who want more.\nAccess Benc…"
+    },
+    {
+      "rank": 9,
       "hn_id": 50561912,
       "title": "How Meta Uses AI Agents to Scale ML Innovations Across Ads Ranking Models",
       "title_ja": "How Meta Uses AI Agents to Scale ML Innovations Across Ads Ranking Models",
@@ -86,7 +127,7 @@
       "summary_ja": "Title: How Meta Uses AI Agents to Scale ML Innovations Across Ads Ranking Models\nArticle title: How Meta Uses AI Agents to Scale ML Innovations Across Ads Ranking Models - Engineering at Meta\nDescription: Our previous post in this series introduced the Ranking Engineer Agent (REA), an autonomous system that generates hypotheses, designs experiments, and proves new machine learning (ML) techniques on…\n\nArticle text:\nHow Meta Uses AI Agents to Scale ML Innovations Across Ads Ranking Models - Engineering at Meta\nSkip to content\nInfrastructure Systems\nCore Infra\nPhysical Infrastructure\nConnectivity\nVideo Engineering \u0026 AR/VR\nVideo Engineering\nArtificial Intelligence\nML Applications\nHow Meta Uses AI Agents to Scale ML Innovations Across Ads Ranking Models\nOur previous post in this series introduced the Ranking Engineer Agent (REA) , an autonomous system that generates hypotheses, designs exper…"
     },
     {
-      "rank": 7,
+      "rank": 10,
       "hn_id": 50561434,
       "title": "\"Independent\" AI Safety Groups Are Pumping Anthropic's IPO [video]",
       "title_ja": "\"Independent\" AI Safety Groups Are Pumping Anthropic's IPO [video]",
@@ -99,7 +140,7 @@
       "summary_ja": "Title: \"Independent\" AI Safety Groups Are Pumping Anthropic's IPO [video]\nArticle title: - YouTube\nDescription: Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.\n\nArticle text:\n- YouTube About Press Copyright Contact us Creators Advertise Developers Terms Privacy Policy \u0026 Safety How YouTube works Test new features NFL Sunday Ticket © 2026 Google LLC"
     },
     {
-      "rank": 8,
+      "rank": 11,
       "hn_id": 50561944,
       "title": "Show HN: AI Usage Ball – Claude, Codex, Antigravity Quota Left as Mac Orbs",
       "title_ja": "Show HN: AI Usage Ball – Claude, Codex, Antigravity Quota Left as Mac Orbs",
@@ -113,7 +154,7 @@
       "summary_ja": "Title: Show HN: AI Usage Ball – Claude, Codex, Antigravity Quota Left as Mac Orbs\nArticle title: GitHub - aiusageball/ai-usage-ball: Live liquid-orb usage gauges for Claude, Codex \u0026 Antigravity on macOS — source for aiusageball.com · GitHub\nDescription: Live liquid-orb usage gauges for Claude, Codex \u0026 Antigravity on macOS — source for aiusageball.com - aiusageball/ai-usage-ball\n\nArticle text:\nGitHub - aiusageball/ai-usage-ball: Live liquid-orb usage gauges for Claude, Codex \u0026 Antigravity on macOS — source for aiusageball.com · GitHub\nSkip to content\nNavigation Menu\nSign in Products Platform GitHub Repository hosting, code review, and collaboration\nCopilot AI coding agent for tasks, projects, and automated work\nBuild \u0026 Ship Actions CI/CD and automation\nCode Quality Quality analysis, fixes, and enforcement\nCodespaces Cloud development environments\nSecure Code Security Vulnerability detecti…"
     },
     {
-      "rank": 9,
+      "rank": 12,
       "hn_id": 50562094,
       "title": "Will AI Coding Eat Video Game Engines?",
       "title_ja": "Will AI Coding Eat Video Game Engines?",
@@ -127,7 +168,7 @@
       "summary_ja": "Title: Will AI Coding Eat Video Game Engines?\nArticle title: Epic Games Turns to AI Coding for the Unreal Engine - IEEE Spectrum\nDescription: Epic Game’s Unreal Engine 6 shift to Verse and Scene Graph will tap AI coding\n\nArticle text:\n--\u003e\nRaven.config('https://6b64f5cc8af542cbb920e0238864390a@sentry.io/147999').install();\nEpic Games Turns to AI Coding for the Unreal Engine - IEEE Spectrum\nIEEE.org IEEE Xplore IEEE Standards IEEE Job Site More Sites Sign In Join IEEE Will AI Coding Eat Video Game Engines? Share FOR THE TECHNOLOGY INSIDER Search: Explore by topic Aerospace AI Biomedical Climate Tech Computing Consumer Electronics Energy History of Technology Robotics Semiconductors Telecommunications Transportation\nIEEE Spectrum\nFOR THE TECHNOLOGY INSIDER Topics\nEnjoy more free content and benefits by creating an account\nSaving articles to read later requires an IEEE Spectrum account\nThe I…"
     },
     {
-      "rank": 10,
+      "rank": 13,
       "hn_id": 50561796,
       "title": "Sync all apps you build in Codex, Claude, or locally",
       "title_ja": "Sync all apps you build in Codex, Claude, or locally",
@@ -141,20 +182,21 @@
       "summary_ja": "Title: Sync all apps you build in Codex, Claude, or locally\nArticle title: Meet agentic apps: use and sync them in Codex, Claude, and everywhere else\nDescription: Explore data with Python \u0026 SQL, work together with your team, and share insights that lead to action — all in one place with Deepnote.\n\nArticle text:\nBest model for proactive agents? Explore our benchmark Platform The notebook manifesto\nRead about the future of data platforms\nDeepnote AI Hot Improve productivity Data apps \u0026 dashboards Share your insights Python \u0026 SQL Advanced analytics Alerts Monitor your metrics Semantic layer Modules, LookML and dbt Integrations Work with any data source\nETL/ELT pipelines Data transformation Data catalog Document data assets Spark and Snowpark High perf. computing Code reviews Catch bugs early History \u0026 versioning Go back in time Security \u0026 auditing SOC2, HIPAA, and more\nModel training Build…"
     },
     {
-      "rank": 11,
-      "hn_id": 50561703,
-      "title": "Releasing Typemaid on NPM Turning your mermaid diagrams into AI workflows",
-      "title_ja": "Releasing Typemaid on NPM Turning your mermaid diagrams into AI workflows",
-      "hn_url": "https://news.ycombinator.com/item?id=50561703",
-      "source_url": "",
-      "score": 1,
-      "final_score": 1,
+      "rank": 14,
+      "hn_id": 50567778,
+      "title": "Google Search homepage gets AI-heavy redesign with Gemini",
+      "title_ja": "Google Search homepage gets AI-heavy redesign with Gemini",
+      "hn_url": "https://news.ycombinator.com/item?id=50567778",
+      "source_url": "https://9to5google.com/2026/11/19/google-search-homepage-gemini-sidebar-update/",
+      "image_url": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/google-search-gemini-homepage.jpg?quality=82\u0026strip=all\u0026resize=1200,628",
+      "score": 2,
+      "final_score": 2,
       "comments": 0,
-      "posted_at": "2026-11-19T15:52:29Z",
-      "summary_ja": "Title: Releasing Typemaid on NPM Turning your mermaid diagrams into AI workflows\nHN text: I've been privately building a TypeScript SDK called TypeMaid and using it for my own projects over the past month. It's based on Typed DAGs, with Mermaid diagrams to define and visualize AI workflows. I've found this approach surprisingly simple to understand and work with, especially compared to writing workflows entirely in code. I recently open-sourced it and am now working on durability, retries, and persistent execution. I'm curious what others think about using Mermaid to define executable AI workflows. Does this approach make sense, or am I missing something? Would really appreciate any feedback, suggestions, or contributions! Star on github https://github.com/typemaid/typemaid"
+      "posted_at": "2026-11-19T23:00:38Z",
+      "summary_ja": "Title: Google Search homepage gets AI-heavy redesign with Gemini\nDescription: The Google Search homepage is embracing Gemini in a big way, with a new sidebar redesign that puts your chat...\n\nArticle text:\nSkip to main content\nToggle main menu\n9to5Google Logo Go to the 9to5Google home page\nSwitch site\n9to5Mac Logo 9to5Mac\nToggle dark mode\nSearch for:\nSubmit\nToggle search form\nForums\nToggle dark mode\nGoogle Search\nGoogle homepage rolling out AI-focused redesign that includes your Gemini chats [Video]\n0 Comments\nThe Google Search homepage is embracing Gemini in a big way, with a new sidebar redesign that puts your chat history just a click away.\nGoogle’s AI ambitions have been anything but subtle in their integration with Search, but Gemini and Search have had some clear separations. But, with its latest update, Google is very much intertwining the two.\nConfirmed by Google’s Robby Stein on…"
     },
     {
-      "rank": 12,
+      "rank": 15,
       "hn_id": 50561908,
       "title": "Show HN: Read a Claude Code or Codex session file as a page, in the browser",
       "title_ja": "Show HN: Read a Claude Code or Codex session file as a page, in the browser",
@@ -168,21 +210,21 @@
       "summary_ja": "Title: Show HN: Read a Claude Code or Codex session file as a page, in the browser\nArticle title: Claude Code transcript viewer: read, redact and share a .jsonl session\nDescription: Drop a Claude Code, Codex, Cursor or Pi session file. It is parsed in your browser, secrets are replaced before anything leaves your machine, and you get a page to read, download as HTML or share.\n\nArticle text:\nKeepPlain\nDocs\nSecurity\nTeams\nPricing\nGitHub\nSign in\nTranscript viewer for Claude Code, Codex, Cursor and Pi\nRead a Claude Code or Codex session as a page\nDrop the .jsonl file. It is parsed in your browser, secrets are replaced before anything leaves your machine, and you get a page you can read, download or share.\nNo account, no upload. Up to 150 MB. Or paste its text .\nThe download is one file with no script, ready for an issue or a pull request. A link needs a GitHub or Google sign-in: the session…"
     },
     {
-      "rank": 13,
-      "hn_id": 50561397,
-      "title": "Switching LLMs mid-conversation is a ski-rental problem",
-      "title_ja": "Switching LLMs mid-conversation is a ski-rental problem",
-      "hn_url": "https://news.ycombinator.com/item?id=50561397",
-      "source_url": "https://www.edgee.ai/blog/posts/switching-llms-mid-conversation-is-a-ski-rental-problem",
-      "image_url": "https://cdn.edgee.app/blog/inline/6a68b5d5-df68-46e9-a8c7-b560b7b591bb.png",
+      "rank": 16,
+      "hn_id": 50567945,
+      "title": "Hakeem Jeffries Staffer Built an AI Program for Surveillance and Advice",
+      "title_ja": "Hakeem Jeffries Staffer Built an AI Program for Surveillance and Advice",
+      "hn_url": "https://news.ycombinator.com/item?id=50567945",
+      "source_url": "https://www.washingtonsun.com/congress/hakeem-jeffries-ai-caucus-pulse-office-policy",
+      "image_url": "https://static.washingtonsun.com/dims4/default/c7634d3/2147483647/strip/true/crop/1464x824+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fk2-prod-aji.s3.us-east-1.amazonaws.com%2Fbrightspot%2F27%2F25%2F8fb0aa6f4996bd3a44b24c00ea92%2Fhakeem-jeffries.jpg",
       "score": 1,
       "final_score": 1,
       "comments": 0,
-      "posted_at": "2026-11-19T15:30:02Z",
-      "summary_ja": "Title: Switching LLMs mid-conversation is a ski-rental problem\nArticle title: Switching LLMs mid-conversation is a ski-rental problem - Edgee Blog\nDescription: Most LLM routers answer one question: which model should handle this request? For a coding agent that is only half the story. Every switch throws away the prompt cache, so deciding when a session should change model is a ski-rental problem. Self-Learning Routing learns both halves from an organizati\n[truncated]\n\nArticle text:\nSwitching LLMs mid-conversation is a ski-rental problem - Edgee Blog Features Smart Routing \u0026 Budgets Token Compression Team Observability Integrations Plugins Claude Mod On-Premise Edgee vs OpenRouter Edgee vs LiteLLM Models Blog Pricing Documentation Login Open main menu Switching LLMs mid-conversation is a ski-rental problem\nMost work on routing between language models answers one question: which model sho…"
+      "posted_at": "2026-11-19T23:16:47Z",
+      "summary_ja": "Title: Hakeem Jeffries Staffer Built an AI Program for Surveillance and Advice\nArticle title: Hakeem Jeffries Staffer Built an AI Program for Surveillance and Advice - The Washington Sun\nDescription: The minority leader’s office experimented with an AI program coded to advise Jeffries on AI policy, news events and opponents.\n\nArticle text:\nHakeem Jeffries Staffer Built an AI Program for Surveillance and Advice - The Washington Sun\nThe Washington Sun\nNewsletters Expand\nSign up for our newsletters\nSign up for Dana Milbank’s newsletter\nSign up for Matt K. Lewis’ newsletter\nCampaigns Expand\n2026 Election\nSports Expand\nLatest in Sports\nPerspectives\nExpand\nLatest Perspectives\nPodcast\nExpand\nWashington Sun Cast • Episode List\nMilbank \u0026 Lewis • Episode List\nWho Are We? Expand\nAbout The Washington Sun\nMy Account\nLog in\nLog in\nSupport independent journalism. Subscribe for $50 for your first year.…"
     },
     {
-      "rank": 14,
+      "rank": 17,
       "hn_id": 50561466,
       "title": "Show HN: AI Kitchen Designer",
       "title_ja": "Show HN: AI Kitchen Designer",
@@ -196,7 +238,75 @@
       "summary_ja": "Title: Show HN: AI Kitchen Designer\nArticle title: AI Kitchen Design — Redesign Your Kitchen From a Photo\nDescription: Upload a photo of your kitchen and see it redesigned in 18 styles in about 30 seconds. Refresh, remodel, or fully redesign with AI. Your first design is free.\n\nArticle text:\nAI Kitchen Design Kitchen ideas Free tools Blog Pricing Log in Design my kitchen AI kitchen design : See your kitchen remodeled before you spend a dollar.\nUpload a photo of your kitchen and explore cabinet colors, countertops, and full redesigns in 18 styles, from the same angle, in about 30 seconds.\nBrowse styles First design free · No credit card · Cancel anytime\nNew cabinets, appliances and finishes in the same layout.\nRefresh : New paint, counters, backsplash and hardware. Same cabinets and layout.\nRemodel : New cabinets, appliances and finishes in the same layout.\nRedesign : Full transformation…"
     },
     {
-      "rank": 15,
+      "rank": 18,
+      "hn_id": 50567538,
+      "title": "A New Era of Deterministic AI Begins: OLMapp Emerges from Stealth",
+      "title_ja": "A New Era of Deterministic AI Begins: OLMapp Emerges from Stealth",
+      "hn_url": "https://news.ycombinator.com/item?id=50567538",
+      "source_url": "https://olmapp.ai/index.html",
+      "image_url": "https://olmapp.com/OLMLogoWeb.png",
+      "score": 1,
+      "final_score": 1,
+      "comments": 1,
+      "posted_at": "2026-11-19T22:41:05Z",
+      "summary_ja": "Title: A New Era of Deterministic AI Begins: OLMapp Emerges from Stealth\nArticle title: Home | OLMapp\nDescription: OLMapp develops event-based Ontological Language Models for controlled AI, transparent knowledge, and enterprise RAG applications.\n\nArticle text:\n--\u003e\nOLMapp | Ontological Language Models \u0026 Deterministic AI\nHome\nEnterprise\nTechnology\nAbout us\nSandbox --\u003e\nContact us\nArticles\nVideos\nTeam\nSandbox\nOntological Language Model (OLM) is here.\nBeyond\nStatistical LLMs\nToward\nDeterministic\nIntelligence\nOLMapp introduces a new approach to generative AI using event-based ontologies. Operating independently or alongside large language models (LLMs), OLM is designed to deliver factual, non-hallucinating communication and transparent knowledge representation—unlocking the potential of generative AI for the enterprise."
+    },
+    {
+      "rank": 19,
+      "hn_id": 50561906,
+      "title": "Exhibit 99.1: Anthropic's Delaware § 3556 Trust and $140B Standing Gate",
+      "title_ja": "Exhibit 99.1: Anthropic's Delaware § 3556 Trust and $140B Standing Gate",
+      "hn_url": "https://news.ycombinator.com/item?id=50561906",
+      "source_url": "http://dtgmvtlv5qhjf6tss7tss7237fj6uisqamqzkioynxrxgejfn6zzffad.onion/",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-11-19T16:06:10Z",
+      "summary_ja": "Title: Exhibit 99.1: Anthropic's Delaware § 3556 Trust and $140B Standing Gate"
+    },
+    {
+      "rank": 20,
+      "hn_id": 50567716,
+      "title": "Show HN: Wellness Tracker for AI Usage",
+      "title_ja": "Show HN: Wellness Tracker for AI Usage",
+      "hn_url": "https://news.ycombinator.com/item?id=50567716",
+      "source_url": "https://chromewebstore.google.com/detail/prethink-ai/ekolohicgedlnehalkchpnbhpfmgnglk",
+      "image_url": "https://lh3.googleusercontent.com/p5ZXWRTYs7pamQiyA-QYcS5EFvx1Vy8J2-KvGNkESP7d41UGqkZj_cjYW5girIVsl1iZ3iSbswAotCGQUpwm7AMYNg=s128-rj-sc0x00ffffff",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-11-19T22:54:59Z",
+      "summary_ja": "Title: Show HN: Wellness Tracker for AI Usage\nArticle title: PreThink AI - Chrome Web Store\nDescription: Track and improve how you use AI. Patterns, not prompts. Data stays on your device.\nHN text: Hello There, I built a small chrome extension to track my chat-based AI usage. I'm interested in understanding how I use AI conversationally, and how that affects my brain. AI as a means to efficiency is key in the modern world, but I don't believe that our brains are geared to process this level of information and authoritative posture over inconsistent technology, and so I just want to experiment. I would love some users or harsh feedback. Right now, we are not focusing on desktop tools, and it only works via browser -- No data tracked, no auth. Just a simple tracker. Let me know your thoughts! - Harrison\n\nArticle text:\nPreThink AI - Chrome Web Store chrome web store My extensions \u0026 themes\nS…"
+    },
+    {
+      "rank": 21,
+      "hn_id": 50561397,
+      "title": "Switching LLMs mid-conversation is a ski-rental problem",
+      "title_ja": "Switching LLMs mid-conversation is a ski-rental problem",
+      "hn_url": "https://news.ycombinator.com/item?id=50561397",
+      "source_url": "https://www.edgee.ai/blog/posts/switching-llms-mid-conversation-is-a-ski-rental-problem",
+      "image_url": "https://cdn.edgee.app/blog/inline/6a68b5d5-df68-46e9-a8c7-b560b7b591bb.png",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-11-19T15:30:02Z",
+      "summary_ja": "Title: Switching LLMs mid-conversation is a ski-rental problem\nArticle title: Switching LLMs mid-conversation is a ski-rental problem - Edgee Blog\nDescription: Most LLM routers answer one question: which model should handle this request? For a coding agent that is only half the story. Every switch throws away the prompt cache, so deciding when a session should change model is a ski-rental problem. Self-Learning Routing learns both halves from an organizati\n[truncated]\n\nArticle text:\nSwitching LLMs mid-conversation is a ski-rental problem - Edgee Blog Features Smart Routing \u0026 Budgets Token Compression Team Observability Integrations Plugins Claude Mod On-Premise Edgee vs OpenRouter Edgee vs LiteLLM Models Blog Pricing Documentation Login Open main menu Switching LLMs mid-conversation is a ski-rental problem\nMost work on routing between language models answers one question: which model sho…"
+    },
+    {
+      "rank": 22,
+      "hn_id": 50561703,
+      "title": "Releasing Typemaid on NPM Turning your mermaid diagrams into AI workflows",
+      "title_ja": "Releasing Typemaid on NPM Turning your mermaid diagrams into AI workflows",
+      "hn_url": "https://news.ycombinator.com/item?id=50561703",
+      "source_url": "",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-11-19T15:52:29Z",
+      "summary_ja": "Title: Releasing Typemaid on NPM Turning your mermaid diagrams into AI workflows\nHN text: I've been privately building a TypeScript SDK called TypeMaid and using it for my own projects over the past month. It's based on Typed DAGs, with Mermaid diagrams to define and visualize AI workflows. I've found this approach surprisingly simple to understand and work with, especially compared to writing workflows entirely in code. I recently open-sourced it and am now working on durability, retries, and persistent execution. I'm curious what others think about using Mermaid to define executable AI workflows. Does this approach make sense, or am I missing something? Would really appreciate any feedback, suggestions, or contributions! Star on github https://github.com/typemaid/typemaid"
+    },
+    {
+      "rank": 23,
       "hn_id": 50556391,
       "title": "Vals AI – Compare AI models across real-world benchmarks",
       "title_ja": "Vals AI – Compare AI models across real-world benchmarks",
@@ -210,7 +320,34 @@
       "summary_ja": "Title: Vals AI – Compare AI models across real-world benchmarks\nArticle title: Compare AI Models Across Real-World Benchmarks | Vals AI\nDescription: Choose AI models and benchmarks to compare performance, token pricing, cost per test and latency in Vals AI\n\nArticle text:\nCompare AI Models Across Real-World Benchmarks | Vals AI Benchmarks\nSelect models (max 7 ) Claude Fable 5.2 Gemini 4 Neon Claude Sonnet 5.5 Gemini 4 Carbon Claude Opus 5.5 Claude Fable 5.2 Gemini 4 Neon Claude Sonnet 5.5 Gemini 4 Carbon Claude Opus 5.5 Select Benchmarks Vals Index Legal Research Bench Finance Agent v2.1 Tax Agent Bench MedCode Terminal-Bench-Science Code Migration v1.1 Terminal-Bench 4.0 Vibe Code Bench v1.1 Vals Index Legal Research Bench Finance Agent v2.1 Tax Agent Bench MedCode Terminal-Bench-Science Code Migration v1.1 Terminal-Bench 4.0 Vibe Code Bench v1.1 Claude Fable 5.2 Claude Fable 5.2 Gemini…"
     },
     {
-      "rank": 16,
+      "rank": 24,
+      "hn_id": 50567693,
+      "title": "Commerce approved sales of more than 879,000 AI chips to Chinese companies",
+      "title_ja": "Commerce approved sales of more than 879,000 AI chips to Chinese companies",
+      "hn_url": "https://news.ycombinator.com/item?id=50567693",
+      "source_url": "https://www.cnbc.com/2026/11/19/nvidia-amd-china-chip-sales-congress.html",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108555825-1795118102467-gettyimages-2304282548-mast_360_111026.jpeg?v=1795118157\u0026w=1920\u0026h=1080",
+      "score": 1,
+      "final_score": 1,
+      "comments": 2,
+      "posted_at": "2026-11-19T22:52:56Z",
+      "summary_ja": "Title: Commerce approved sales of more than 879,000 AI chips to Chinese companies\nArticle title: Commerce approved sales of more than 879,000 AI chips to China: Mast\nDescription: Members of Congress have pushed in the wake of the Jensen Huang scandal for legislation to tighten export controls on chip sales to China.\n\nArticle text:\nCommerce approved sales of more than 879,000 AI chips to China: Mast Skip Navigation Markets Pre-Markets\nSIGN IN Create free account Markets Business Investing Tech Politics \u0026 Policy Video Watchlist Investing Club PRO Livestream Menu\nCommerce approved sales of more than 879,000 AI chips to Chinese companies, Rep. Mast says\nThe House Foreign Affairs Committee on Thursday released documents showing that a subagency of the Commerce Department approved the sale of more than 879,000 AI chips to Chinese companies.\nThe subagency of the Commerce Department that regulat…"
+    },
+    {
+      "rank": 25,
+      "hn_id": 50567721,
+      "title": "Why We Built Anthropic [video]",
+      "title_ja": "Why We Built Anthropic [video]",
+      "hn_url": "https://news.ycombinator.com/item?id=50567721",
+      "source_url": "https://www.youtube.com/watch?v=sof3vW4mHTs",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-11-19T22:55:16Z",
+      "summary_ja": "Title: Why We Built Anthropic [video]"
+    },
+    {
+      "rank": 26,
       "hn_id": 50561261,
       "title": "Google rebrands its Gemini Spark AI agent as Tasks",
       "title_ja": "Google rebrands its Gemini Spark AI agent as Tasks",
@@ -224,20 +361,7 @@
       "summary_ja": "Title: Google rebrands its Gemini Spark AI agent as Tasks\nArticle title: Google’s Spark AI agent becomes ‘Tasks’ — and now it’s free | The Verge\nDescription: Google is rebranding its Spark AI assistant as “tasks” and making it free for all Gemini users. It’s also rolling out additional capabilities for users in the US, including the ability for Gemini to call businesses and check out with Google Pay.\n\nArticle text:\nGoogle’s Spark AI agent becomes ‘Tasks’ — and now it’s free | The Verge Skip to main content The homepage The Verge The Verge logo. The Verge The Verge logo. Tech\nNotifications Notifications Hamburger Navigation Button Navigation Drawer The Verge The Verge logo. Login / Sign Up\nSearch Light System Dark Tech Expand Amazon\nReviews Expand Smart Home Reviews\nVerge Shopping Expand Buying Guides\nTransportation Expand Electric Cars\nGoogle’s Spark AI agent becomes ‘Tasks’ — and now it…"
     },
     {
-      "rank": 17,
-      "hn_id": 50561906,
-      "title": "Exhibit 99.1: Anthropic's Delaware § 3556 Trust and $140B Standing Gate",
-      "title_ja": "Exhibit 99.1: Anthropic's Delaware § 3556 Trust and $140B Standing Gate",
-      "hn_url": "https://news.ycombinator.com/item?id=50561906",
-      "source_url": "http://dtgmvtlv5qhjf6tss7tss7237fj6uisqamqzkioynxrxgejfn6zzffad.onion/",
-      "score": 1,
-      "final_score": 1,
-      "comments": 0,
-      "posted_at": "2026-11-19T16:06:10Z",
-      "summary_ja": "Title: Exhibit 99.1: Anthropic's Delaware § 3556 Trust and $140B Standing Gate"
-    },
-    {
-      "rank": 18,
+      "rank": 27,
       "hn_id": 50556481,
       "title": "An LLM workflow that reproduces, improves, extends published economics research",
       "title_ja": "An LLM workflow that reproduces, improves, extends published economics research",
@@ -249,6 +373,19 @@
       "comments": 0,
       "posted_at": "2026-11-19T05:46:35Z",
       "summary_ja": "Title: An LLM workflow that reproduces, improves, extends published economics research\nArticle title: An LLM Workflow That Reproduces, Improves, and Extends Published Economics Research | NBER\nDescription: Founded in 1920, the NBER is a private, non-profit, non-partisan organization dedicated to conducting economic research and to disseminating research findings among academics, public policy makers, and business professionals.\n\nArticle text:\nAn LLM Workflow That Reproduces, Improves, and Extends Published Economics Research | NBER\nSkip to main content\nNBER: National Bureau of Economic Research\nSubscribe\nSearch\nResearch\nEXPLORE Research\nFindings\nWorking Papers\nThe Bulletin on the Economics of Alzheimer's Disease and Related Dementias\nThe Bulletin on Entrepreneurship\nThe Bulletin on Retirement and Disability Archives\nThe Bulletin on Aging \u0026 Health Archives\nData \u0026 Business Cycles\nBoston Re…"
+    },
+    {
+      "rank": 28,
+      "hn_id": 50567665,
+      "title": "Wolf at the Door: Apple Rethinking Mac Permissions in the Age of AI",
+      "title_ja": "Wolf at the Door: Apple Rethinking Mac Permissions in the Age of AI",
+      "hn_url": "https://news.ycombinator.com/item?id=50567665",
+      "source_url": "https://macanorak.com/a-wolf-at-the-door-apple-is-rethinking-mac-permissions-for-the-age-of-ai-agents/",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-11-19T22:51:10Z",
+      "summary_ja": "Title: Wolf at the Door: Apple Rethinking Mac Permissions in the Age of AI"
     }
   ]
 }

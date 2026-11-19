@@ -1,0 +1,48 @@
+{
+  "date": "2026-11-19",
+  "generated_at": "2026-11-19T06:12:30Z",
+  "articles": [
+    {
+      "rank": 1,
+      "hn_id": 50556339,
+      "title": "Will Wright's next simulation will use AI to mine content from your memories",
+      "title_ja": "Will Wright's next simulation will use AI to mine content from your memories",
+      "hn_url": "https://news.ycombinator.com/item?id=50556339",
+      "source_url": "https://arstechnica.com/gaming/2026/11/will-wrights-next-simulation-will-use-ai-to-mine-content-from-your-memories/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Moonlit-walk-1152x648.png",
+      "score": 7,
+      "final_score": 14,
+      "comments": 1,
+      "posted_at": "2026-11-19T05:17:36Z",
+      "summary_ja": "Title: Will Wright's next simulation will use AI to mine content from your memories\nArticle title: Will Wright's next simulation will use AI to mine content from your memories - Ars Technica\nDescription: With MyMems, Wright says he wants to \"turn the simulation inward.\"\n\nArticle text:\nMyMems , Wright says he wants to \\u0022turn the simulation inward.\\u0022\",\"image_url\":\"https:\\/\\/cdn.arstechnica.net\\/wp-content\\/uploads\\/2026\\/11\\/Moonlit-walk-500x500.png\",\"listing_image_url\":\"https:\\/\\/cdn.arstechnica.net\\/wp-content\\/uploads\\/2026\\/11\\/Moonlit-walk-768x432.png\"}'\u003e\nSkip to content\nArs Technica home\nSections\nForum\nSubscribe\nSearch\nAI\nStory text\nSize\nSmall\nStandard\nLarge\nWidth\n*\nStandard\nWide\nLinks\nStandard\nOrange\n* Subscribers only\nLearn more\nPin to story\nTheme\nHyperLight\nSearch\nSign In\nSign in dialog...\nSign in\nStill waiting on Spore 2\nWill Wright’s next simulation will use AI to mine c…"
+    },
+    {
+      "rank": 2,
+      "hn_id": 50556481,
+      "title": "An LLM workflow that reproduces, improves, extends published economics research",
+      "title_ja": "An LLM workflow that reproduces, improves, extends published economics research",
+      "hn_url": "https://news.ycombinator.com/item?id=50556481",
+      "source_url": "https://www.nber.org/papers/w35782",
+      "image_url": "https://www.nber.org/sites/default/files/2022-06/NBER-FB-Share-Tile-1200.jpg",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-11-19T05:46:35Z",
+      "summary_ja": "Title: An LLM workflow that reproduces, improves, extends published economics research\nArticle title: An LLM Workflow That Reproduces, Improves, and Extends Published Economics Research | NBER\nDescription: Founded in 1920, the NBER is a private, non-profit, non-partisan organization dedicated to conducting economic research and to disseminating research findings among academics, public policy makers, and business professionals.\n\nArticle text:\nAn LLM Workflow That Reproduces, Improves, and Extends Published Economics Research | NBER\nSkip to main content\nNBER: National Bureau of Economic Research\nSubscribe\nSearch\nResearch\nEXPLORE Research\nFindings\nWorking Papers\nThe Bulletin on the Economics of Alzheimer's Disease and Related Dementias\nThe Bulletin on Entrepreneurship\nThe Bulletin on Retirement and Disability Archives\nThe Bulletin on Aging \u0026 Health Archives\nData \u0026 Business Cycles\nBoston Re…"
+    },
+    {
+      "rank": 3,
+      "hn_id": 50556391,
+      "title": "Vals AI – Compare AI models across real-world benchmarks",
+      "title_ja": "Vals AI – Compare AI models across real-world benchmarks",
+      "hn_url": "https://news.ycombinator.com/item?id=50556391",
+      "source_url": "https://www.vals.ai/comparison",
+      "image_url": "https://www.vals.ai/og.jpg",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-11-19T05:28:34Z",
+      "summary_ja": "Title: Vals AI – Compare AI models across real-world benchmarks\nArticle title: Compare AI Models Across Real-World Benchmarks | Vals AI\nDescription: Choose AI models and benchmarks to compare performance, token pricing, cost per test and latency in Vals AI\n\nArticle text:\nCompare AI Models Across Real-World Benchmarks | Vals AI Benchmarks\nSelect models (max 7 ) Claude Fable 5.2 Gemini 4 Neon Claude Sonnet 5.5 Gemini 4 Carbon Claude Opus 5.5 Claude Fable 5.2 Gemini 4 Neon Claude Sonnet 5.5 Gemini 4 Carbon Claude Opus 5.5 Select Benchmarks Vals Index Legal Research Bench Finance Agent v2.1 Tax Agent Bench MedCode Terminal-Bench-Science Code Migration v1.1 Terminal-Bench 4.0 Vibe Code Bench v1.1 Vals Index Legal Research Bench Finance Agent v2.1 Tax Agent Bench MedCode Terminal-Bench-Science Code Migration v1.1 Terminal-Bench 4.0 Vibe Code Bench v1.1 Claude Fable 5.2 Claude Fable 5.2 Gemini…"
+    }
+  ]
+}

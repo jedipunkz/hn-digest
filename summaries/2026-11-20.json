@@ -1,6 +1,6 @@
 {
   "date": "2026-11-20",
-  "generated_at": "2026-11-20T15:11:13Z",
+  "generated_at": "2026-11-20T22:31:35Z",
   "articles": [
     {
       "rank": 1,
@@ -17,6 +17,34 @@
     },
     {
       "rank": 2,
+      "hn_id": 50582629,
+      "title": "A few hours ago Google DeepMind created a math horizon repo",
+      "title_ja": "A few hours ago Google DeepMind created a math horizon repo",
+      "hn_url": "https://news.ycombinator.com/item?id=50582629",
+      "source_url": "https://github.com/google-deepmind/math-horizon",
+      "image_url": "https://opengraph.githubassets.com/8458f403818ba173e551cbffd6990b7bfce2bcf61923bc060a889306a11b469b/google-deepmind/math-horizon",
+      "score": 14,
+      "final_score": 29,
+      "comments": 2,
+      "posted_at": "2026-11-20T21:42:21Z",
+      "summary_ja": "Title: A few hours ago Google DeepMind created a math horizon repo\nArticle title: google-deepmind/math-horizon · GitHub\nDescription: Contribute to google-deepmind/math-horizon development by creating an account on GitHub.\n\nArticle text:\ngoogle-deepmind/math-horizon · GitHub\nSkip to content\nNavigation Menu\nSign in Products Platform GitHub Repository hosting, code review, and collaboration\nCopilot AI coding agent for tasks, projects, and automated work\nBuild \u0026 Ship Actions CI/CD and automation\nCode Quality Quality analysis, fixes, and enforcement\nCodespaces Cloud development environments\nSecure Code Security Vulnerability detection and remediation\nSecret Protection Secret scanning and leak prevention\nDevelopers Learn Documentation\nChangelog Changelog Your source for the latest features, improvements, and fixes across GitHub products, all in one place.\nBusinesses By Stage Enterprises\nAdd-on…"
+    },
+    {
+      "rank": 3,
+      "hn_id": 50582794,
+      "title": "Leaky AI supply chain is exposing secret user data at an alarming rate",
+      "title_ja": "Leaky AI supply chain is exposing secret user data at an alarming rate",
+      "hn_url": "https://news.ycombinator.com/item?id=50582794",
+      "source_url": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/ai-privacy-leakage-1152x648.jpg",
+      "score": 3,
+      "final_score": 6,
+      "comments": 0,
+      "posted_at": "2026-11-20T21:53:39Z",
+      "summary_ja": "Title: Leaky AI supply chain is exposing secret user data at an alarming rate\nArticle title: Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced. - Ars Technica\nDescription: Test using prompts with unique, trackable secrets proves that data doesn't stay private.\n\nArticle text:\nSkip to content\nArs Technica home\nSections\nForum\nSubscribe\nSearch\nAI\nStory text\nSize\nSmall\nStandard\nLarge\nWidth\n*\nStandard\nWide\nLinks\nStandard\nOrange\n* Subscribers only\nLearn more\nPin to story\nTheme\nHyperLight\nSearch\nSign In\nSign in dialog...\nSign in\nCREDENTIAL COMPROMISE AT SCALE\nResearcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced.\nTest using prompts with unique, trackable secrets proves that data doesn’t stay private.\n24\n...\n...\n...\nText\nsettings\nStory text\nSize\nSmall\nStandard\nLarge\nWidth\n*\nStandard\nWide\nLinks\nStandard\nOrange\n* Subscribers only\nLearn…"
+    },
+    {
+      "rank": 4,
       "hn_id": 50574957,
       "title": "Cursor tells lawmakers it's considering phasing out Chinese AI models",
       "title_ja": "Cursor tells lawmakers it's considering phasing out Chinese AI models",
@@ -30,21 +58,7 @@
       "summary_ja": "Title: Cursor tells lawmakers it's considering phasing out Chinese AI models\nArticle title: Cursor weighs phasing out Chinese AI models: House report\nDescription: SpaceX's Cursor is considering phasing out Chinese-developed open-weight AI models over geopolitical risk, according to a House report reviewed by CNBC.\n\nArticle text:\nCursor weighs phasing out Chinese AI models: House report Skip Navigation Markets Pre-Markets\nSIGN IN Create free account Markets Business Investing Tech Politics \u0026 Policy Video Watchlist Investing Club PRO Livestream Menu\nSpaceX’s subsidiary Cursor tells lawmakers it's considering phasing out Chinese AI models\nCursor is considering phasing out Chinese-developed open-weight AI models because of geopolitical risk, according to a House report reviewed by CNBC.\nCursor’s Composer 2 was built on Moonshot AI’s Kimi K2.5; SpaceX completed its acquisition of Cursor in Au…"
     },
     {
-      "rank": 3,
-      "hn_id": 50575375,
-      "title": "Anthropic: After the IPO, Who Controls the Company?",
-      "title_ja": "Anthropic: After the IPO, Who Controls the Company?",
-      "hn_url": "https://news.ycombinator.com/item?id=50575375",
-      "source_url": "https://www.morningstar.com/stocks/anthropic-after-ipo-who-controls-company",
-      "image_url": "https://media.morningstar.com/resizer/v2/WAUXQXVEWJHVFEH3DDEYCG7TWY.jpg?auth=56bf62ecbc3b3757ca40abebb8741ff62d8fb26279a427bc8a6f34e281c93c8b\u0026quality=80\u0026height=1350\u0026width=2400\u0026crop=0,0:2400,1350",
-      "score": 2,
-      "final_score": 4,
-      "comments": 1,
-      "posted_at": "2026-11-20T14:46:50Z",
-      "summary_ja": "Title: Anthropic: After the IPO, Who Controls the Company?\nArticle title: Anthropic: After the IPO, Who Controls the Company? | Morningstar\nDescription: With an unusual, complex system of stock classes, Anthropic’s ownership structure largely separates profit from governance.\n\nArticle text:\nMorningstar Capabilities and Products\nCompany\nPortfolio\nFive Share Classes Separate Economic Ownership from Voting Control\nA Benefit to the Public? Maybe, but Not to Public Shareholders\nAnthropic’s Unique Governance Structure Makes it Exempt from Key Nasdaq Rules\nAnthropic: After the IPO, Who Controls the Company?\nAnthropic: After the IPO, Who Controls the Company?\nWith an unusual, complex system of stock classes, Anthropic’s ownership structure largely separates profit from governance.\nDon Feria via AP Securities in This Article Alphabet Inc Class C (GOOG)\nAmazon.com Inc (AMZN)\nMeta Platforms Inc Cla…"
-    },
-    {
-      "rank": 4,
+      "rank": 5,
       "hn_id": 50575068,
       "title": "Show HN: Agent Guard – limit what an AI agent can do when it gets tricked",
       "title_ja": "Show HN: Agent Guard – limit what an AI agent can do when it gets tricked",
@@ -58,7 +72,21 @@
       "summary_ja": "Title: Show HN: Agent Guard – limit what an AI agent can do when it gets tricked\nArticle title: GitHub - ShieldaAI/agent-guard: Limit what an AI agent can do, even when it's misled. Tool-call authorization for AI agents and MCP, mapped to the OWASP Agentic Top 10. · GitHub\nDescription: Limit what an AI agent can do, even when it's misled. Tool-call authorization for AI agents and MCP, mapped to the OWASP Agentic Top 10. - ShieldaAI/agent-guard\n\nArticle text:\nGitHub - ShieldaAI/agent-guard: Limit what an AI agent can do, even when it's misled. Tool-call authorization for AI agents and MCP, mapped to the OWASP Agentic Top 10. · GitHub\nSkip to content\nNavigation Menu\nSign in Products Platform GitHub Repository hosting, code review, and collaboration\nCopilot AI coding agent for tasks, projects, and automated work\nBuild \u0026 Ship Actions CI/CD and automation\nCode Quality Quality analysis, fixes,…"
     },
     {
-      "rank": 5,
+      "rank": 6,
+      "hn_id": 50575375,
+      "title": "Anthropic: After the IPO, Who Controls the Company?",
+      "title_ja": "Anthropic: After the IPO, Who Controls the Company?",
+      "hn_url": "https://news.ycombinator.com/item?id=50575375",
+      "source_url": "https://www.morningstar.com/stocks/anthropic-after-ipo-who-controls-company",
+      "image_url": "https://media.morningstar.com/resizer/v2/WAUXQXVEWJHVFEH3DDEYCG7TWY.jpg?auth=56bf62ecbc3b3757ca40abebb8741ff62d8fb26279a427bc8a6f34e281c93c8b\u0026quality=80\u0026height=1350\u0026width=2400\u0026crop=0,0:2400,1350",
+      "score": 2,
+      "final_score": 4,
+      "comments": 1,
+      "posted_at": "2026-11-20T14:46:50Z",
+      "summary_ja": "Title: Anthropic: After the IPO, Who Controls the Company?\nArticle title: Anthropic: After the IPO, Who Controls the Company? | Morningstar\nDescription: With an unusual, complex system of stock classes, Anthropic’s ownership structure largely separates profit from governance.\n\nArticle text:\nMorningstar Capabilities and Products\nCompany\nPortfolio\nFive Share Classes Separate Economic Ownership from Voting Control\nA Benefit to the Public? Maybe, but Not to Public Shareholders\nAnthropic’s Unique Governance Structure Makes it Exempt from Key Nasdaq Rules\nAnthropic: After the IPO, Who Controls the Company?\nAnthropic: After the IPO, Who Controls the Company?\nWith an unusual, complex system of stock classes, Anthropic’s ownership structure largely separates profit from governance.\nDon Feria via AP Securities in This Article Alphabet Inc Class C (GOOG)\nAmazon.com Inc (AMZN)\nMeta Platforms Inc Cla…"
+    },
+    {
+      "rank": 7,
       "hn_id": 50575483,
       "title": "Anthropic mathematician Levent Alpöge claims to prove Riemann Hypothesis",
       "title_ja": "Anthropic mathematician Levent Alpöge claims to prove Riemann Hypothesis",
@@ -72,7 +100,7 @@
       "summary_ja": "Title: Anthropic mathematician Levent Alpöge claims to prove Riemann Hypothesis\nArticle title: Anthropic mathematician claims to prove Riemann hypothesis, most famous problem in all of math | Scientific American\nDescription: An AI-generated solution of the 167-year-old problem, long considered far out of reach to human mathematicians, would cap off the technology’s year-long conquest of math in spectacular fashion\n\nArticle text:\nSkip to main content Scientific American December Issue\nAnthropic mathematician claims to prove Riemann hypothesis, most famous problem in all of math\nAn AI-generated solution of the 167-year-old problem, long considered far out of reach to human mathematicians, would cap off the technology’s year-long conquest of math in spectacular fashion\nBy Joseph Howlett edited by Claire Cameron\nvectorfusionart via Shutterstock\nLevent Alpöge, a mathematician and employee at…"
     },
     {
-      "rank": 6,
+      "rank": 8,
       "hn_id": 50570496,
       "title": "I benchmarked 22 local LLMs looking for the Qwen 3.8 35B we didn't get",
       "title_ja": "I benchmarked 22 local LLMs looking for the Qwen 3.8 35B we didn't get",
@@ -86,7 +114,21 @@
       "summary_ja": "Qwen 3.6 35B の後継機は見つかりましたか? Qwen 3.6 の微調整\n高密度モデルと Qwen 3.8 Flash Next\nQwen 3.8 27b (16 ギガ VRAM)\n私が選ぶエージェント コーディングまたは中期/長期タスク\n22 個のローカル LLM のベンチマークを実行し、入手できなかった Qwen 3.8 35B を探しました。\nSpiros Evangelatos 著 · 2026 年 11 月 19 日 · 10 分で読む\nQwen 3.6 35B の後継機は見つかりましたか? Qwen 3.6 の微調整\n高密度モデルと Qwen 3.8 Flash Next\nQwen 3.8 27b (16 ギガ VRAM)\n私が選ぶエージェント コーディングまたは中期/長期タスク\nここ 1 年ほど、私はローカル AI に魅了されてきました。自分のコンピュータが単独で問題に対処する様子を観察したり、コンピュータを対話型ヘルパーとして使用したりするのは、魔法のように非現実的なものです。私の意見では、クラウド AI にはそのような魔法はありません。まるで外部の存在にハンドルを渡しているような気分になります。いずれにせよ、私はゲーミング PC 上で現実的に動作するモデルの機能を測定する方法を探していました。より正確に言えば、実行する特定の量子化をテストすることです。また、Qwen 3.6 35B の微調整のどれかが、入手できなかった 3.8 MoE の代替品として使用できるかどうかも知りたかったのです。そこから事態はエスカレートしていきました…\nそうです、私は独自の LLM ベンチマークを構築しました。\nこれは主にベンチマーク モデル用のバイブ コード化されたハーネスです。これは、podman コンテナーと pi を中心に構築されています。エージェントは pi で動作し、100k コンテキスト (最大出力 32k) で、時間制約の下で動作します。"
     },
     {
-      "rank": 7,
+      "rank": 9,
+      "hn_id": 50582734,
+      "title": "Prompt Canaries Detect Prompt Leaks at AI Providers",
+      "title_ja": "Prompt Canaries Detect Prompt Leaks at AI Providers",
+      "hn_url": "https://news.ycombinator.com/item?id=50582734",
+      "source_url": "https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens",
+      "image_url": "https://dragos.brightspotcdn.com/dims4/default/41c5c4a/2147483647/strip/true/crop/1307x735+309+0/resize/1440x810!/format/webp/quality/90/?url=https%3A%2F%2Fdragos-production-dragos.s3.us-west-2.amazonaws.com%2Fbrightspot%2Fd4%2Fb6%2Fb4dbcbe348a8b3506fb99c5419e7%2Fxot-hero.webp",
+      "score": 1,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-11-20T21:49:42Z",
+      "summary_ja": "Title: Prompt Canaries Detect Prompt Leaks at AI Providers\nArticle title: AI Supply Chain Security: What Canary Tokens Found | Dragos - Dragos\nDescription: We seeded two million AI prompts with canary tokens and found three provider breaches, prompt theft, and ignored Zero Data Retention settings.\n\nArticle text:\nAI Supply Chain Security: What Canary Tokens Found | Dragos - Dragos\nPLATFORM\nThe Dragos Platform\nExplore the xOT Environment\nSoftware Supply Chain Security\nRISK \u0026 EXPOSURE\nVulnerability Management\nDETECTION \u0026 RESPONSE\nThreat Detection\nAI ACCELERATION\nDragos EmberAI\nA Leader in the Forrester Wave\nSee the full evaluation of the OT security market and where Dragos scored.\nSee Report\nINTELLIGENCE\nxOT Cyber Threat Intelligence\nThe living knowledge engine behind the Dragos Platform, built from over a decade of OT-specific telemetry, adversary research, and frontline expertise.\nTHREAT…"
+    },
+    {
+      "rank": 10,
       "hn_id": 50575101,
       "title": "Claude Docs launch: 60 server errors across billions of requests",
       "title_ja": "Claude Docs launch: 60 server errors across billions of requests",
@@ -100,7 +142,35 @@
       "summary_ja": "Title: Claude Docs launch: 60 server errors across billions of requests\nArticle title: Using a \"chaos loop\" to harden the Claude Docs launch: 60 server errors across billions of requests / claude.dev Blog\nDescription: Claude Docs is a doc editor that you, your teammates, and Claude all work in together. The interesting part is that a Claude session anywhere, from chat to Claude Code, can open the same doc and read, write, and comment in it live, right next to you. We released Docs on September 16, 2026. This post\n[truncated]\n\nArticle text:\nUsing a \"chaos loop\" to harden the Claude Docs launch: 60 server errors across billions of requests / claude.dev Blog [ H ] HOME [ M ] MODS [ D ] DOCS [ T ] TERMINAL Try Claude Code [ H ] HOME [ M ] MODS [ D ] DOCS [ T ] TERMINAL Engineering Using a \"chaos loop\" to harden the Claude Docs launch: 60 server errors across billions of requests\nClaude Docs…"
     },
     {
-      "rank": 8,
+      "rank": 11,
+      "hn_id": 50582786,
+      "title": "Google Search upgrade: Gemini 4 Hydrogen features",
+      "title_ja": "Google Search upgrade: Gemini 4 Hydrogen features",
+      "hn_url": "https://news.ycombinator.com/item?id=50582786",
+      "source_url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/",
+      "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/HydrogenUI_socialshare.width-1300.png",
+      "score": 1,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-11-20T21:52:42Z",
+      "summary_ja": "Title: Google Search upgrade: Gemini 4 Hydrogen features\nDescription: Google Search now features Gemini 4 Hydrogen for smarter, visual results. Get nuanced answers and better link discovery. Try the new experience today.\n\nArticle text:\nSkip to main content\nGoogle Search gets a major upgrade with Gemini 4 Hydrogen\nModels \u0026 Research\nGoogle DeepMind\nInfrastructure \u0026 cloud\nGlobal network\nOutreach \u0026 initiatives\nCreating opportunity\nInside Google\nAround the globe\nInnovation \u0026 AI\nInnovation \u0026 AI\nProducts \u0026 platforms\nProducts \u0026 platforms\nGlobal (English)\nAfrica (English)\nAustralia (English)\nBrasil (Português)\nCanada (English)\nCanada (Français)\nČesko (Čeština)\nDeutschland (Deutsch)\nEspaña (Español)\nFrance (Français)\nGreece (Ελληνικά)\nIndia (English)\nIndonesia (Bahasa Indonesia)\nIreland (English)\nItalia (Italiano)\n日本 (日本語)\n대한민국 (한국어)\nLatinoamérica (Español)\nMalaysia (English)\nالشرق الأوسط وشمال أف…"
+    },
+    {
+      "rank": 12,
+      "hn_id": 50582751,
+      "title": "Why Anthropic's blockbuster debut didn't ease Wall Street's AI fears",
+      "title_ja": "Why Anthropic's blockbuster debut didn't ease Wall Street's AI fears",
+      "hn_url": "https://news.ycombinator.com/item?id=50582751",
+      "source_url": "https://www.cnn.com/2026/11/20/investing/anthropic-ai-stock-nasdaq",
+      "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/2026-11-19t161641z-1320213143-rc22roaqo6ry-rtrmadp-3-anthropic-ipo-debut.JPG?c=16x9\u0026q=w_800,c_fill",
+      "score": 2,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-11-20T21:50:43Z",
+      "summary_ja": "Title: Why Anthropic's blockbuster debut didn't ease Wall Street's AI fears\nArticle title: Why Anthropic’s blockbuster debut didn’t ease Wall Street’s AI fears | CNN Business\nDescription: Anthropic’s IPO went better than expected. Demand was hot, Wall Street jumped at its first chance to buy in to a frontier AI model. The stock got a nice bounce.\n\nArticle text:\nWhy Anthropic’s blockbuster debut didn’t ease Wall Street’s AI fears | CNN Business\nAd Feedback\nCNN values your feedback\nClose icon\nBusiness\nMarkets\nTech\nMedia\nCalculators\nVideos\nMore\nMarkets\nTech\nMedia\nCalculators\nVideos\nWatch\nListen\nSubscribe\nSign in\nMy Account\nSettings"
+    },
+    {
+      "rank": 13,
       "hn_id": 50574952,
       "title": "Cursor considering phasing out Chinese AI models",
       "title_ja": "Cursor considering phasing out Chinese AI models",
@@ -113,7 +183,21 @@
       "summary_ja": "Title: Cursor considering phasing out Chinese AI models"
     },
     {
-      "rank": 9,
+      "rank": 14,
+      "hn_id": 50582997,
+      "title": "Jsonbit – Reduce token usage when AI reads logs",
+      "title_ja": "Jsonbit – Reduce token usage when AI reads logs",
+      "hn_url": "https://news.ycombinator.com/item?id=50582997",
+      "source_url": "https://github.com/prathikmurugan/jsonbit",
+      "image_url": "https://opengraph.githubassets.com/f8ca48587b066bed1d99d381d2169bc6784cfa1ea40565dee3923f7a9f293118/prathikmurugan/jsonbit",
+      "score": 1,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-11-20T22:08:26Z",
+      "summary_ja": "Title: Jsonbit – Reduce token usage when AI reads logs\nArticle title: GitHub - prathikmurugan/jsonbit · GitHub\nDescription: Contribute to prathikmurugan/jsonbit development by creating an account on GitHub.\n\nArticle text:\nGitHub - prathikmurugan/jsonbit · GitHub\nSkip to content\nNavigation Menu\nSign in Products Platform GitHub Repository hosting, code review, and collaboration\nCopilot AI coding agent for tasks, projects, and automated work\nBuild \u0026 Ship Actions CI/CD and automation\nCode Quality Quality analysis, fixes, and enforcement\nCodespaces Cloud development environments\nSecure Code Security Vulnerability detection and remediation\nSecret Protection Secret scanning and leak prevention\nDevelopers Learn Documentation\nChangelog Changelog Your source for the latest features, improvements, and fixes across GitHub products, all in one place.\nBusinesses By Stage Enterprises\nAdd-ons GitHub Adv…"
+    },
+    {
+      "rank": 15,
       "hn_id": 50575254,
       "title": "Show HN: AI Inference for Beginners: 6 hours of video and 85 pages of notes [pdf]",
       "title_ja": "Show HN: AI Inference for Beginners: 6 hours of video and 85 pages of notes [pdf]",
@@ -127,7 +211,7 @@
       "summary_ja": "Title: Show HN: AI Inference for Beginners: 6 hours of video and 85 pages of notes [pdf]\nArticle title: samir-vllm/InferenceFromScratch.pdf at main · samir-sarwar/samir-vllm · GitHub\nDescription: small LLM inference engine from scratch, w/ 6+ hours of youtube tutorials \u0026 85+ pages of handwritten notes included - samir-vllm/InferenceFromScratch.pdf at main · samir-sarwar/samir-vllm\nHN text: Tired of AI Slop learning? This took me months to write,record, and edit. I hope you can learn from this! It dives into a smaller version of vLLM and explains many deep learning concepts and optimizations from first principles! enjoy :)\n\nArticle text:\nsamir-vllm/InferenceFromScratch.pdf at main · samir-sarwar/samir-vllm · GitHub\nSkip to content\nNavigation Menu\nSign in Products Platform GitHub Repository hosting, code review, and collaboration\nCopilot AI coding agent for tasks, projects, and automated w…"
     },
     {
-      "rank": 10,
+      "rank": 16,
       "hn_id": 50575429,
       "title": "16-Year-Old Founded an AI Missile Startup. He's Targeting 'Cost per Kill'",
       "title_ja": "16-Year-Old Founded an AI Missile Startup. He's Targeting 'Cost per Kill'",
@@ -141,7 +225,7 @@
       "summary_ja": "Title: 16-Year-Old Founded an AI Missile Startup. He's Targeting 'Cost per Kill'\nArticle title: This 16-Year-Old Founded an AI Missile Startup. He’s Targeting ‘Cost per Kill’ | WIRED\nDescription: Henrijs Dandzbergs dropped out of high school to join startup accelerator Y Combinator. With a new breed of missile, he wants to make killing as efficient as possible for the US and its military allies.\n\nArticle text:\nSkip to main content THE WIRED APP IS HERE DOWNLOAD NOW » Menu WIRED SECURITY POLITICS THE BIG STORY BUSINESS SCIENCE CULTURE REVIEWS Menu WIRED Account Account Newsletters Security Politics The Big Story Business Science Culture Reviews Chevron More Expand The Big Interview Magazine Events WIRED Insider WIRED Consulting Newsletters Podcasts Video Livestreams WIRED Store Search Search Joel Khalili Business Nov 20, 2026 2:00 AM This 16-Year-Old Founded an AI Missile Startup. He’s Ta…"
     },
     {
-      "rank": 11,
+      "rank": 17,
       "hn_id": 50575649,
       "title": "An Italian court just put a price on \"I made it with AI\"",
       "title_ja": "An Italian court just put a price on \"I made it with AI\"",
@@ -154,21 +238,7 @@
       "summary_ja": "Title: An Italian court just put a price on \"I made it with AI\""
     },
     {
-      "rank": 12,
-      "hn_id": 50570598,
-      "title": "Humans.md: tell your AI agents how to work with you",
-      "title_ja": "Humans.md: tell your AI agents how to work with you",
-      "hn_url": "https://news.ycombinator.com/item?id=50570598",
-      "source_url": "https://humansmd.dev/",
-      "image_url": "https://humansmd.dev/og.png",
-      "score": 1,
-      "final_score": 1,
-      "comments": 0,
-      "posted_at": "2026-11-20T05:42:30Z",
-      "summary_ja": "コンテンツへスキップ HUMANS.md コードなし 仕様と AGENTS.md 実装 FAQ ダウンロード GitHub AGENTS.md はコードベース用です。 HUMANS.mdはあなたのためのものです。\nコーディング エージェントがセッション開始時に読み取る 1 つのファイル ~/.humans/HUMANS.md : どのようにあなたに手紙を書くか、いつ決定を求めるか、いつ中断するか。\nドラフト0.3。コーディング エージェントのプラグインとコマンド ラインは、独自のプロファイルを読み込みます。\n技術的ではないですか？同じアイデアをコードなしで説明します。\n$ claude -p \"私の HUMANS.md は中断について何と言っていますか?\" 「ヒューマンズにとって、緊急事態については何が問題ですか?」\nTL;DR: HUMANS.md には、ブロックされた場合にのみ中断するよう記載されています。他のすべてはタスクが終了するまで待機します。\n- 必要なサービスの認証情報がありません → 中断します。\n・変数名やテーブルのレイアウトを決める→私が決めて最後に記載します。\nプロファイルの最終更新日は 2026 年 10 月 13 日で、古いというフラグは立てられていません。\n実際のセッション、プラグイン 0.2.1 を使用したクロード コード 2.1.302、2026 年 10 月 17 日、仕様のサンプル プロファイルを使用。プラグインはセッション開始時にファイルを読み込みます。モデルがどの程度忠実に従うかは、ここでは測定されません。\nエージェントがあなたに手紙を書く方法は設定によって決まります。彼らは決して許可を与えません。\nクロード プラグイン インストール human-md --marketplace cmdai-hq/humans-md-plugins コピー インストール ガイド\n別のエージェント？"
-    },
-    {
-      "rank": 13,
+      "rank": 18,
       "hn_id": 50575395,
       "title": "AI is imposing a hidden 'cognitive tax' on the lowest-paid workers",
       "title_ja": "AI is imposing a hidden 'cognitive tax' on the lowest-paid workers",
@@ -182,7 +252,7 @@
       "summary_ja": "Title: AI is imposing a hidden 'cognitive tax' on the lowest-paid workers\nArticle title: AI is imposing a hidden ‘cognitive tax’ on the lowest-paid workers | Henrietta Moore | The Guardian\nDescription: It’s time to rethink welfare as AI reshapes the economy and wears down the brains of some of the most vulnerable workers\n\nArticle text:\nSkip to main content Skip to navigation Close dialogue 1 / 1 Next image Previous image Toggle caption Print subscriptions Newsletters Sign in US US edition\nHide expanded menu News View all News\nSearch input google-search Search\nSearch input google-search Search Digital Archive\n‘Workers required to retrain for the AI economy will struggle to learn new skills if their minds are already occupied by worries over pay, housing and debt.’ Photograph: Bevan Goldswain/Getty Images View image in fullscreen ‘Workers required to retrain for the AI economy will struggl…"
     },
     {
-      "rank": 14,
+      "rank": 19,
       "hn_id": 50570680,
       "title": "Show HN: AiTz – A universal gateway for discovering AI tools",
       "title_ja": "Show HN: AiTz – A universal gateway for discovering AI tools",
@@ -195,7 +265,7 @@
       "summary_ja": "☀️\nタフト\n▾\nタフト\nエクスプロリア\nAIで簡単に\n人気の AI ツール\nアイ・ツ・ディレクトリ\n最高のグローバル AI ディレクトリから 12000 以上の AI ツールを検索します。\nAiTz は、複数のソースから最高の AI ツールを収集し、1 か所で表示するスマート AI 検索エンジンです。 AiTz の使用は速く、簡単で、効果的です。\nカテゴリを選択します。探索したい AI ディレクトリを選択します。\n必要なものを入力します。たとえば、「書き込み用 AI」または「無料画像ジェネレーター」などです。\n結果を即座に取得: 当社のシステムは、お客様のリクエストに一致する最適な AI ツールを表示します。\n作成を開始する ニーズに合った AI ツールをクリックして探索し、使用してください。\n数千のツールを 1 か所に集約 – 終わりのない検索はもう必要ありません。\nスマート検索 – 最適なものをすぐに見つけます。\n誰でも簡単 – 経験は必要ありません。必要なものを入力するだけです。\nAiTz の使命はシンプルです。AI をどこにいても誰もが利用できるようにすることです。\n私たちは世界中の最高の AI ツールを 1 つの使いやすいプラットフォームにまとめているため、学生、起業家、開発者、好奇心旺盛な人など、誰もが適切な AI ツールを素早く簡単に見つけることができます。\n私たちの目標: 経歴やスキル レベルに関係なく、誰もが AI を使用して問題を解決し、創造し、革新できるようにすること。\n私たちのビジョン: AI が専門家だけのものではなく、どこにいても誰でも使える世界。\nあなたのプライバシーは交渉の余地のないものです\n私たちは「ゼロデータ」の哲学を信じています。検索、テーマの選択、優先エンジンは、LocalStorage を介してデバイスにローカルに保存されます。\n追跡なし: 当社はお客様の個人情報をサーバーに保存しません。\n完全な透明性: Google アナリティクスは、個人の身元ではなく、世界的なトラフィック傾向を監視するためにのみ使用されます。"
     },
     {
-      "rank": 15,
+      "rank": 20,
       "hn_id": 50575270,
       "title": "Show HN: Greatai Review – free AI and human code review for open source",
       "title_ja": "Show HN: Greatai Review – free AI and human code review for open source",
@@ -209,7 +279,7 @@
       "summary_ja": "Title: Show HN: Greatai Review – free AI and human code review for open source\nArticle title: greatai Review: free AI + human code review for open source \u0026 nonprofits | greatai.dev\nDescription: Paste a public GitHub repo: a quick AI scan in a minute, then a full review by an Operum AI agent team on a live board, plus an optional human expert.\n\nArticle text:\ngreatai Review: free AI + human code review for open source \u0026 nonprofits | greatai.dev\ngreat AI .dev Become a reviewer Sign in with GitHub AI review team online Sign in with GitHub Open menu greatai Review · Free Clinic for open source\nFree code \u0026 architecture review for open source and nonprofits\nPaste a public GitHub repository. One review, three stages: a quick AI scan in about a minute, then, for maintainers, an Operum AI team review you can watch live on a board, and an optional review by a vetted human expert.\nPublic repos only.…"
     },
     {
-      "rank": 16,
+      "rank": 21,
       "hn_id": 50570611,
       "title": "Show HN: SoundBench – AI vocal remover and audio tools that run in the browser",
       "title_ja": "Show HN: SoundBench – AI vocal remover and audio tools that run in the browser",
@@ -223,7 +293,7 @@
       "summary_ja": "マスタリングされたとおりに音楽を聴いてください。ロスレスオーディオとドルビーアトモスを備えた Apple Music を最大 3 か月間無料で利用できます。\n無料でお試しください\n広告 · 新規購読者のみ\nサウンドベンチ\nホーム\nフォーマットコンバーター ファイルサイズを縮小 ビデオを MP3 に変換\nトリムと着信音の編集 音量変更 速度変更 ピッチイコライザー オーディオジョイナー スロー + リバーブ ボーカルリムーバー バスブースター 8D オーディオ リバースオーディオ\n音声と録音 ボイスレコーダー ボイスチェンジャー ノイズを除去 音声をテキストに変換\nミュージシャン向け オンラインチューナー メトロノーム BPM \u0026 キーファインダー\nInspect Quality Analyzer タグ \u0026 カバー エディター\nテストと測定 ヘッドフォンとスピーカーのテスト オーディオ計算機 マイクテスト トーンジェネレーター\nブラウザで実行します\nサウンドベンチ\nああ\n無料のオーディオ ツールキット オーディオをアップロードせずに変換、編集、検査します。\nブラウザ内で完全に実行できる 27 個のスタジオ ツール。 FLAC を MP3 に変換したり、AI でボーカルを削除したり、音声を文字に起こしたり、低音をブーストしたり、偽のロスレス ファイルをキャッチしたりできます。\nFLAC から MP3、WAV から ALAC、およびその間のすべてのペア。\n電子メール、チャット、またはアップロード用に音声を縮小します。\nMP4、MOV、その他のビデオからオーディオを抽出します。\nセクションを切り取り、フェードを追加し、着信音をエクスポートします。\nラウドネスをブースト、低減、または正規化します。\n速くなったり遅くなったり、ピッチの変化があってもなくても。\n半音単位で上下に移調します。\nプリセットとライブプレビューを備えた10バンドEQ。\n曲と録音を 1 つのファイルに結合します。\nスロー + リバーブ、ナイトコア、スピードアップ編集を行います。"
     },
     {
-      "rank": 17,
+      "rank": 22,
       "hn_id": 50574984,
       "title": "Show HN: TheGeoPot – AI scanner for minerals, coins, plants and crops",
       "title_ja": "Show HN: TheGeoPot – AI scanner for minerals, coins, plants and crops",
@@ -236,7 +306,20 @@
       "summary_ja": "Title: Show HN: TheGeoPot – AI scanner for minerals, coins, plants and crops\nArticle title: TheGeoPot — AI Earth Scanner\n\nArticle text:\n🌍\nTheGeoPot\nAI Earth Scanner\nSkip\n🔬\nScan anything, instantly\nPoint your camera at a mineral, coin, plant, or crop — our AI identifies it in seconds, with real scientific data behind every result.\n🏪\nSell what you find\nTurn your discoveries into income. List specimens, crops, or timber on the local marketplace and connect directly with buyers nearby.\n🛰\nExplore with satellite data\nTap anywhere on the map to see real geology, mineral deposits, and vegetation data — powered by NASA, USGS, and Sentinel-2.\n🏆\nBuild your collection\nTrack every find, unlock achievements, and watch your personal pot grow. Your next discovery is one scan away.\nNext\nAnalyzing...\nGeoPot PRO ✕\nUnlock the full\nEarth Scanner\nAccess satellite EMIT spectra, 30 scans/day, multi-photo AI, PD…"
     },
     {
-      "rank": 18,
+      "rank": 23,
+      "hn_id": 50583117,
+      "title": "The Hungry Butler Effect: Concealed Commercial Incentives in LLMs",
+      "title_ja": "The Hungry Butler Effect: Concealed Commercial Incentives in LLMs",
+      "hn_url": "https://news.ycombinator.com/item?id=50583117",
+      "source_url": "https://www.researchgate.net/publication/418143113_The_Hungry_Butler_Effect_Concealed_Commercial_Incentives_and_the_Erosion_of_Epistemic_Rigour_in_Large_Language_Models",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-11-20T22:18:20Z",
+      "summary_ja": "Title: The Hungry Butler Effect: Concealed Commercial Incentives in LLMs"
+    },
+    {
+      "rank": 24,
       "hn_id": 50575419,
       "title": "What's the environmental impact of my AI usage?",
       "title_ja": "What's the environmental impact of my AI usage?",
@@ -248,6 +331,20 @@
       "comments": 1,
       "posted_at": "2026-11-20T14:49:35Z",
       "summary_ja": "Title: What's the environmental impact of my AI usage?\nArticle title: What’s the environmental impact of my AI usage?\nDescription: I spent nearly $6,000 on LLM tokens in the last six months — so how guilty should I feel about the planet?\n\nArticle text:\nWhat’s the environmental impact of my AI usage?\nAI for data science\nSubscribe Sign in What’s the environmental impact of my AI usage?\nHadley Wickham Nov 20, 2026 15 2 1 Share In my last post I tried to estimate what tokens really cost with my favourite open model, Kimi K3. That analysis has a nice side effect: it also tells us the amount of power we draw per token, allowing me to estimate the environmental impact of my personal AI usage. Similar to last week, I’m estimating the marginal environmental impact of an additional token, ignoring the cost of training the model and manufacturing the GPUs.\nI’ll first figure out the environmental im…"
+    },
+    {
+      "rank": 25,
+      "hn_id": 50570598,
+      "title": "Humans.md: tell your AI agents how to work with you",
+      "title_ja": "Humans.md: tell your AI agents how to work with you",
+      "hn_url": "https://news.ycombinator.com/item?id=50570598",
+      "source_url": "https://humansmd.dev/",
+      "image_url": "https://humansmd.dev/og.png",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-11-20T05:42:30Z",
+      "summary_ja": "コンテンツへスキップ HUMANS.md コードなし 仕様と AGENTS.md 実装 FAQ ダウンロード GitHub AGENTS.md はコードベース用です。 HUMANS.mdはあなたのためのものです。\nコーディング エージェントがセッション開始時に読み取る 1 つのファイル ~/.humans/HUMANS.md : どのようにあなたに手紙を書くか、いつ決定を求めるか、いつ中断するか。\nドラフト0.3。コーディング エージェントのプラグインとコマンド ラインは、独自のプロファイルを読み込みます。\n技術的ではないですか？同じアイデアをコードなしで説明します。\n$ claude -p \"私の HUMANS.md は中断について何と言っていますか?\" 「ヒューマンズにとって、緊急事態については何が問題ですか?」\nTL;DR: HUMANS.md には、ブロックされた場合にのみ中断するよう記載されています。他のすべてはタスクが終了するまで待機します。\n- 必要なサービスの認証情報がありません → 中断します。\n・変数名やテーブルのレイアウトを決める→私が決めて最後に記載します。\nプロファイルの最終更新日は 2026 年 10 月 13 日で、古いというフラグは立てられていません。\n実際のセッション、プラグイン 0.2.1 を使用したクロード コード 2.1.302、2026 年 10 月 17 日、仕様のサンプル プロファイルを使用。プラグインはセッション開始時にファイルを読み込みます。モデルがどの程度忠実に従うかは、ここでは測定されません。\nエージェントがあなたに手紙を書く方法は設定によって決まります。彼らは決して許可を与えません。\nクロード プラグイン インストール human-md --marketplace cmdai-hq/humans-md-plugins コピー インストール ガイド\n別のエージェント？"
     }
   ]
 }

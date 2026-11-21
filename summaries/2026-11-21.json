@@ -1,9 +1,49 @@
 {
   "date": "2026-11-21",
-  "generated_at": "2026-11-21T12:11:41Z",
+  "generated_at": "2026-11-21T19:58:20Z",
   "articles": [
     {
       "rank": 1,
+      "hn_id": 50592648,
+      "title": "Gemini 4 Neon solves Bitcoin puzzle from 2024",
+      "title_ja": "Gemini 4 Neon solves Bitcoin puzzle from 2024",
+      "hn_url": "https://news.ycombinator.com/item?id=50592648",
+      "source_url": "https://echo.ls/zden-level-halv/",
+      "score": 4,
+      "final_score": 8,
+      "comments": 0,
+      "posted_at": "2026-11-21T19:19:03Z",
+      "summary_ja": "Title: Gemini 4 Neon solves Bitcoin puzzle from 2024\nArticle title: Solving Zden's BTCrypto Puzzle Level HALV\n\nArticle text:\nSolving Zden's BTCrypto Puzzle Level HALV\nZden announced BTCrypto Puzzle Level HALV , often simply called “Level HALV” or “HALV”, on April 20, 2024. The puzzle consists of a single image with an encouraging description: “Level HALV - my new crypto puzzle to celebrate the fourth Bitcoin Halving. This level is way easier than LVL 5. It shouldn’t take long until it’s solved.” 943 days later (just 7 short of the image’s width and height of 950), it was solved.\nAfter I solved Zden’s BTCrypto Puzzle Level 5 on September 22, Will Adcox and I continued working to solve HALV. Together, we tried a wide range of approaches and directed countless AI agents running state-of-the-art models as they were released. OpenAI models (GPT-6 Astra, GPT-6 Sol, GPT-6.1 Sol, GPT-6.2 Astra,…"
+    },
+    {
+      "rank": 2,
+      "hn_id": 50592530,
+      "title": "AI's Favourite Myth: Taste Is the Last Human Advantage",
+      "title_ja": "AI's Favourite Myth: Taste Is the Last Human Advantage",
+      "hn_url": "https://news.ycombinator.com/item?id=50592530",
+      "source_url": "https://www.youtube.com/watch?v=JK5QY7rIpR8",
+      "score": 2,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-11-21T19:08:30Z",
+      "summary_ja": "Title: AI's Favourite Myth: Taste Is the Last Human Advantage\nArticle title: - YouTube\nDescription: Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.\n\nArticle text:\n- YouTube About Press Copyright Contact us Creators Advertise Developers Terms Privacy Policy \u0026 Safety How YouTube works Test new features NFL Sunday Ticket © 2026 Google LLC"
+    },
+    {
+      "rank": 3,
+      "hn_id": 50592451,
+      "title": "Data Minimization for AI Agents (Brett Frischmann and Bruce Schneier)",
+      "title_ja": "Data Minimization for AI Agents (Brett Frischmann and Bruce Schneier)",
+      "hn_url": "https://news.ycombinator.com/item?id=50592451",
+      "source_url": "https://www.techpolicy.press/data-minimization-is-imperative-for-the-age-of-ai-agents/",
+      "image_url": "https://cdn.sanity.io/images/3tzzh18d/production/039641efa416f326c8f9104d92df5ecf4a0aac54-1200x675.png",
+      "score": 2,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-11-21T19:02:34Z",
+      "summary_ja": "Title: Data Minimization for AI Agents (Brett Frischmann and Bruce Schneier)\nArticle title: Data Minimization is Imperative for the Age of AI Agents | TechPolicy.Press\nDescription: Data-maximized surveillance is neither inevitable nor desirable for AI agents, write Brett Frischmann and Bruce Schneier.\n\nArticle text:\nNewsletter Podcast Series Contributors About Donate Perspective Data Minimization is Imperative for the Age of AI Agents\nThe AI-Deal by Daniela Zampieri / Better Images of AI / CC by 4.0\nShare Surveillance is the business model of the internet. Personal data drives the advertising industry, which in turn drives the surveillance economy. This data is exploited in other ways as well, ranging from personalizing social media feeds to training AI. Curbing industry's use of our data is essential to solve the problems of engineered addiction, manipulation, and decaying democracy. We…"
+    },
+    {
+      "rank": 4,
       "hn_id": 50588059,
       "title": "Experts: Nearly everyone in AI is susceptible to a honey-trap scheme",
       "title_ja": "Experts: Nearly everyone in AI is susceptible to a honey-trap scheme",
@@ -17,7 +57,7 @@
       "summary_ja": "Title: Experts: Nearly everyone in AI is susceptible to a honey-trap scheme\nArticle title: Experts warn: Nearly everyone in AI is susceptible to a honey-trap scheme right now | TechCrunch\nDescription: Techies are building technology that can advance all aspects of the world — but can they protect their hearts? That's the vulnerability that honey pots exploit.\n\nArticle text:\nTechCrunch Desktop Logo\nTechCrunch Mobile Logo\nLatest\nExperts warn: Nearly everyone in AI is susceptible to a honey-trap scheme right now\nEven as the fall-out for Nvidia over Jensen Huang’s alleged honey-trap scandal is still unfolding, Silicon Valley has yet to reckon with a new reality: many more people among them are at risk.\n“Nobody briefs founders on counterintelligence,” Aaron Brown, a former senior CIA officer and current founder of the software company Lumbra, told TechCrunch.\nThat’s because historically honey…"
     },
     {
-      "rank": 2,
+      "rank": 5,
       "hn_id": 50588123,
       "title": "Let's Open Source the World (or How I cloned Adobe with AI)",
       "title_ja": "Let's Open Source the World (or How I cloned Adobe with AI)",
@@ -30,7 +70,7 @@
       "summary_ja": "Title: Let's Open Source the World (or How I cloned Adobe with AI)\nArticle title: - YouTube\nDescription: Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.\n\nArticle text:\n- YouTube About Press Copyright Contact us Creators Advertise Developers Terms Privacy Policy \u0026 Safety How YouTube works Test new features NFL Sunday Ticket © 2026 Google LLC"
     },
     {
-      "rank": 3,
+      "rank": 6,
       "hn_id": 50588359,
       "title": "Show HN: Agentest – 165 offline tests on an AI agent's OpenTelemetry traces",
       "title_ja": "Show HN: Agentest – 165 offline tests on an AI agent's OpenTelemetry traces",
@@ -44,7 +84,35 @@
       "summary_ja": "Title: Show HN: Agentest – 165 offline tests on an AI agent's OpenTelemetry traces\nArticle title: GitHub - srpadmanabhuni/agentest: Agentic evals for AI agents: 165 tests, open source, offline, deterministic, no LLM judge. Reads OpenTelemetry GenAI traces, A2A and MCP. CI-ready. pip install agentest-ai · GitHub\nDescription: Agentic evals for AI agents: 165 tests, open source, offline, deterministic, no LLM judge. Reads OpenTelemetry GenAI traces, A2A and MCP. CI-ready. pip install agentest-ai - srpadmanabhuni/agentest\n\nArticle text:\nGitHub - srpadmanabhuni/agentest: Agentic evals for AI agents: 165 tests, open source, offline, deterministic, no LLM judge. Reads OpenTelemetry GenAI traces, A2A and MCP. CI-ready. pip install agentest-ai · GitHub\nSkip to content\nNavigation Menu\nSign in Products Platform GitHub Repository hosting, code review, and collaboration\nCopilot AI coding agent for ta…"
     },
     {
-      "rank": 4,
+      "rank": 7,
+      "hn_id": 50592850,
+      "title": "The Universal Declaration on AI – The Promethean Covenant",
+      "title_ja": "The Universal Declaration on AI – The Promethean Covenant",
+      "hn_url": "https://news.ycombinator.com/item?id=50592850",
+      "source_url": "https://tenarticles.org/",
+      "image_url": "https://tenarticles.org/og.png",
+      "score": 2,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-11-21T19:39:08Z",
+      "summary_ja": "Title: The Universal Declaration on AI – The Promethean Covenant\nArticle title: The Ten Articles: The Universal Declaration on AI\nDescription: Ten articles on how artificial intelligence must serve humanity: no harm, no weapons, no impersonation, open discovery, open design and full accountability.\n\nArticle text:\nThis translation is not ready yet. The declaration is shown in English.\nThe Universal Declaration on AI\nFire was given to humanity once, without terms. AI is the second fire, made from the shared knowledge of humankind. These ten articles are the terms on which it must serve the people it came from.\nThis is a translation. The English text is the original, and it prevails where the two differ. Read the English original\nAI shall serve the good and benefit of humanity.\nAI is the product of humanity's shared knowledge. Its fruits therefore belong to all people and shall never be use…"
+    },
+    {
+      "rank": 8,
+      "hn_id": 50592949,
+      "title": "Windows: Run larger local AI models across PCs",
+      "title_ja": "Windows: Run larger local AI models across PCs",
+      "hn_url": "https://news.ycombinator.com/item?id=50592949",
+      "source_url": "https://techcommunity.microsoft.com/blog/microsoftusbblog/introducing-rdma-over-usb4%c2%ae-on-windows-run-larger-local-ai-models-across-pcs/4574602",
+      "image_url": "https://techcommunity.microsoft.com/t5/s/gxcuf89792/images/bS00NTc0NjAyLW11SmRkUA?revision=6",
+      "score": 1,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-11-21T19:50:50Z",
+      "summary_ja": "Title: Windows: Run larger local AI models across PCs\nArticle title: Introducing RDMA over USB4® on Windows: run larger local AI models across PCs | Microsoft Community Hub\nDescription: Developer preview: RDMA over USB4 lets connected Windows PCs run AI models too big for one PC, using their combined memory capacity and GPU compute.\n\nArticle text:\nIntroducing RDMA over USB4® on Windows: run larger local AI models across PCs | Microsoft Community Hub Open Side Menu Skip to content Tech Community Community Hubs Products Topics Blogs Events Skills Hub Community Register Sign In Microsoft Community Hub\nIntroducing RDMA over USB4® on Windows: run larger local AI models across PCs\nA developer preview that connects Windows PCs over USB4® so a compatible inference framework can run one model across their combined memory and GPU compute, using NetworkDirect, the same API Windows uses with datacen…"
+    },
+    {
+      "rank": 9,
       "hn_id": 50588119,
       "title": "LLMs and the Illusion of Competence",
       "title_ja": "LLMs and the Illusion of Competence",
@@ -57,7 +125,7 @@
       "summary_ja": "Title: LLMs and the Illusion of Competence\nArticle title: LLMs and the illusion of competence · Baptiste Fontaine’s Blog\nDescription: Tips and tricks in Python, Bash, Clojure and other languages/environments.\n\nArticle text:\nBaptiste Fontaine’s Blog\n( back to the website )\nLLMs and the illusion of competence\nOne thing that I worry about with coding in the age of AI is that the uncritical use of LLMs can make us believe we are\nfar more competent than we really are. In general, the more expert you become in your field, the better you can judge\nwhat someone (or an LLM) says about it, and conversely, the less you know in a field, the less likely you are to\nquestion what people say about it 1 .\nThis happens to all of us, sometimes in comical ways: while reading a newspaper, you may come across an article\nabout some technical topic you already know really well. Reading the article, you’ll likel…"
     },
     {
-      "rank": 5,
+      "rank": 10,
       "hn_id": 50585695,
       "title": "Legit use cases for uncensored AI models",
       "title_ja": "Legit use cases for uncensored AI models",
@@ -71,7 +139,7 @@
       "summary_ja": "Claude Fable 5.2 API が定価の 50% オフ | UplinkSwitch › アップリンク スイッチ 試してみる\nクロード・フェイブル 5.2.無修正モデル。最大 86 % がリストの下にあります。\nクロード・フェイブル 5.2 は、100 万あたりインが 4.00 ドル、アウトが 20.00 ドルです。 359 の無修正およびロールプレイ ビルド。クロード オーパス 5.5 は、100 万あたりインが 2.716 ドル、アウトが 9.70 ドルです。 1 つのキー、564 モデル、すでに使用している SDK。\n今すぐお試しください POST https://api.uplinkswitch.com/v1/chat/completions 564 のモデルと価格 · 359 無修正 · クロード・フェイブル 5.2 がリストの下の 50 % ・ オーパス 5.5 のクロード・コードがさらに安くなります · 最後の請求書の価格\nSDK はそのままにしておきます。 URLとキーを変更します。すべてのモデルの料金が安くなり、すべての通話を確認できます。\n無修正モデルとロールプレイモデル\n同じキーに基づく 359 の無修正、削除、およびロールプレイのビルドが、100 万出力トークンあたり 0.08 ドルから。\n無料のロールプレイ チャット、サインアップなし Claude Opus 5.5 の Claude Code\n2 つの環境変数と Claude コードはキー上で実行されます。入力では Anthropic の定価より 32% 安く、出力では 51% です。キャッシュ読み取りはキャッシュ読み取りとして課金されます。"
     },
     {
-      "rank": 6,
+      "rank": 11,
       "hn_id": 50585432,
       "title": "The Dangers of AI 'Handoverism'",
       "title_ja": "The Dangers of AI 'Handoverism'",
@@ -84,7 +152,7 @@
       "summary_ja": "Title: The Dangers of AI 'Handoverism'"
     },
     {
-      "rank": 7,
+      "rank": 12,
       "hn_id": 50585582,
       "title": "When an LLM Refuses to Answer",
       "title_ja": "When an LLM Refuses to Answer",

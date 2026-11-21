@@ -1,0 +1,46 @@
+{
+  "date": "2026-11-21",
+  "generated_at": "2026-11-21T03:48:12Z",
+  "articles": [
+    {
+      "rank": 1,
+      "hn_id": 50585695,
+      "title": "Legit use cases for uncensored AI models",
+      "title_ja": "無修正 AI モデルの正当な使用例",
+      "hn_url": "https://news.ycombinator.com/item?id=50585695",
+      "source_url": "https://uplinkswitch.ai",
+      "image_url": "https://uplinkswitch.ai/opengraph-image",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-11-21T03:44:14Z",
+      "summary_ja": "Claude Fable 5.2 API が定価の 50% オフ | UplinkSwitch › アップリンク スイッチ 試してみる\nクロード・フェイブル 5.2.無修正モデル。最大 86 % がリストの下にあります。\nクロード・フェイブル 5.2 は、100 万あたりインが 4.00 ドル、アウトが 20.00 ドルです。 359 の無修正およびロールプレイ ビルド。クロード オーパス 5.5 は、100 万あたりインが 2.716 ドル、アウトが 9.70 ドルです。 1 つのキー、564 モデル、すでに使用している SDK。\n今すぐお試しください POST https://api.uplinkswitch.com/v1/chat/completions 564 のモデルと価格 · 359 無修正 · クロード・フェイブル 5.2 がリストの下の 50 % ・ オーパス 5.5 のクロード・コードがさらに安くなります · 最後の請求書の価格\nSDK はそのままにしておきます。 URLとキーを変更します。すべてのモデルの料金が安くなり、すべての通話を確認できます。\n無修正モデルとロールプレイモデル\n同じキーに基づく 359 の無修正、削除、およびロールプレイのビルドが、100 万出力トークンあたり 0.08 ドルから。\n無料のロールプレイ チャット、サインアップなし Claude Opus 5.5 の Claude Code\n2 つの環境変数と Claude コードはキー上で実行されます。入力では Anthropic の定価より 32% 安く、出力では 51% です。キャッシュ読み取りはキャッシュ読み取りとして課金されます。"
+    },
+    {
+      "rank": 2,
+      "hn_id": 50585432,
+      "title": "The Dangers of AI 'Handoverism'",
+      "title_ja": "AI「ハンドオーバーリズム」の危険性",
+      "hn_url": "https://news.ycombinator.com/item?id=50585432",
+      "source_url": "https://www.ft.com/content/45194ea4-4fa7-4c38-a5b2-137eb7402d57",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-11-21T02:50:11Z",
+      "summary_ja": "Title: The Dangers of AI 'Handoverism'"
+    },
+    {
+      "rank": 3,
+      "hn_id": 50585582,
+      "title": "When an LLM Refuses to Answer",
+      "title_ja": "LLM が応答を拒否した場合",
+      "hn_url": "https://news.ycombinator.com/item?id=50585582",
+      "source_url": "https://towardsdev.com/when-an-ai-refuses-to-answer-315d3277075c?sk=bae249916084db4096b5a2ba6dda13f4",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-11-21T03:21:33Z",
+      "summary_ja": "LLM が応答を拒否した場合"
+    }
+  ]
+}

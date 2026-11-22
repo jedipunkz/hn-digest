@@ -1,9 +1,50 @@
 {
   "date": "2026-11-22",
-  "generated_at": "2026-11-22T00:13:33Z",
+  "generated_at": "2026-11-22T07:49:05Z",
   "articles": [
     {
       "rank": 1,
+      "hn_id": 50597005,
+      "title": "Ask HN: Is Anthropic being public better or worse for your org?",
+      "title_ja": "Ask HN: Is Anthropic being public better or worse for your org?",
+      "hn_url": "https://news.ycombinator.com/item?id=50597005",
+      "source_url": "",
+      "score": 4,
+      "final_score": 5,
+      "comments": 1,
+      "posted_at": "2026-11-22T06:59:40Z",
+      "summary_ja": "Title: Ask HN: Is Anthropic being public better or worse for your org?\nHN text: Now that Anthropic has a \"fiduciary duty to maximize shareholder value\"*, have you or your org started thinking about what that means medium to long term? For example, if you are using their models in production or production-adjacent systems, how do price changes impact your business? * I know they have a complicated governing system, but at the end of the day they have different pressures now than when they were private."
+    },
+    {
+      "rank": 2,
+      "hn_id": 50597098,
+      "title": "Qlaude – Claude Code against your own model server",
+      "title_ja": "Qlaude – Claude Code against your own model server",
+      "hn_url": "https://news.ycombinator.com/item?id=50597098",
+      "source_url": "https://github.com/trail-openers/qlaude",
+      "image_url": "https://opengraph.githubassets.com/ac9936ed677d78915dd98d7ae8e3c85730a464c63e1d90a5827b28d21820586c/trail-openers/qlaude",
+      "score": 1,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-11-22T07:20:04Z",
+      "summary_ja": "Title: Qlaude – Claude Code against your own model server\nArticle title: GitHub - trail-openers/qlaude: Run Claude Code against your own model server: one paste, guided setup, self-test. vLLM Anthropic Messages route. Linux \u0026 macOS (no Windows). · GitHub\nDescription: Run Claude Code against your own model server: one paste, guided setup, self-test. vLLM Anthropic Messages route. Linux \u0026 macOS (no Windows). - trail-openers/qlaude\n\nArticle text:\nGitHub - trail-openers/qlaude: Run Claude Code against your own model server: one paste, guided setup, self-test. vLLM Anthropic Messages route. Linux \u0026 macOS (no Windows). · GitHub\nSkip to content\nNavigation Menu\nSign in Products Platform GitHub Repository hosting, code review, and collaboration\nCopilot AI coding agent for tasks, projects, and automated work\nBuild \u0026 Ship Actions CI/CD and automation\nCode Quality Quality analysis, fixes, and enforc…"
+    },
+    {
+      "rank": 3,
+      "hn_id": 50597154,
+      "title": "Gemini: Can't prevent training or review even with no history retained",
+      "title_ja": "Gemini: Can't prevent training or review even with no history retained",
+      "hn_url": "https://news.ycombinator.com/item?id=50597154",
+      "source_url": "https://techcrunch.com/2026/11/17/google-to-keep-gemini-chats-for-two-months-up-from-72-hours-even-with-history-off/#:~:text=Google%20to%20keep%20Gemini%20chats%20for%202,security%20as%20AI%20systems%20become%20more%20capable.",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/11/google-gemini-app.jpg?resize=1200,800",
+      "score": 2,
+      "final_score": 2,
+      "comments": 1,
+      "posted_at": "2026-11-22T07:31:40Z",
+      "summary_ja": "Title: Gemini: Can't prevent training or review even with no history retained\nArticle title: Google to keep Gemini chats for 2 months, up from 72 hours, even with history off | TechCrunch\nDescription: Google's Gemini update extending chat retention will roll out globally over the coming weeks.\n\nArticle text:\nTechCrunch Desktop Logo\nTechCrunch Mobile Logo\nLatest\nGoogle to keep Gemini chats for 2 months, up from 72 hours, even with history off\nGoogle is extending how long it keeps temporary Gemini chats and conversations made with chat history turned off to around two months, saying the change aims to improve safety and security as AI systems become more capable.\nThe change , which will roll out globally in the Gemini app over the coming weeks, marks a significant increase from the previous 72-hour retention period mentioned in Google’s Gemini Apps Privacy Hub, according to an archived ver…"
+    },
+    {
+      "rank": 4,
       "hn_id": 50594625,
       "title": "Open-source harness and MCP dataset for options trading with AI agents",
       "title_ja": "Open-source harness and MCP dataset for options trading with AI agents",
@@ -17,7 +58,35 @@
       "summary_ja": "Title: Open-source harness and MCP dataset for options trading with AI agents\nArticle title: GitHub - DevDizzle/gammarips-harness: Open-source GammaRips options-flow trading harness: clone the exact morning workflow (agent picks a contract at run time from live liquidity). Live data via the GammaRips MCP (subscription). Educational, not investment advice. · GitHub\nDescription: Open-source GammaRips options-flow trading harness: clone the exact morning workflow (agent picks a contract at run time from live liquidity). Live data via the GammaRips MCP (subscription). Educational, not investment advice. - DevDizzle/gammarips-harness\n\nArticle text:\nGitHub - DevDizzle/gammarips-harness: Open-source GammaRips options-flow trading harness: clone the exact morning workflow (agent picks a contract at run time from live liquidity). Live data via the GammaRips MCP (subscription). Educational, not in…"
     },
     {
-      "rank": 2,
+      "rank": 5,
+      "hn_id": 50597156,
+      "title": "A Slinky on an Escalator Is a Weirdly Good Test of LLM Intelligence",
+      "title_ja": "A Slinky on an Escalator Is a Weirdly Good Test of LLM Intelligence",
+      "hn_url": "https://news.ycombinator.com/item?id=50597156",
+      "source_url": "https://morethanamachine.com/posts/slinky-escalator-benchmark/",
+      "image_url": "https://morethanamachine.com/_astro/slinky-og.BYHNVX-K.png",
+      "score": 1,
+      "final_score": 2,
+      "comments": 1,
+      "posted_at": "2026-11-22T07:31:41Z",
+      "summary_ja": "Title: A Slinky on an Escalator Is a Weirdly Good Test of LLM Intelligence\nArticle title: Slinky Escalator Benchmark: 15 Models | More Than a Machine\nDescription: Fifteen models from Anthropic, OpenAI and Google try the same prompt: a rainbow slinky walking down an up escalator with real physics.\n\nArticle text:\nSlinky Escalator Benchmark: 15 Models | More Than a Machine ~/ more-than-a-machine [home] [about] [posts] [contribute] [pitch] [rss] Slinky Escalator Benchmark: 15 Models\nBy Nishaanth Reddy · November 20, 2026\nSlinky Escalator Benchmark: 15 Models\nHandy Context: Offline Context-Aware Dictation Without Screenshots, LLMs or Fine-Tuning\nPlaying Contra with decision models\nTwine: Coding Agents That Challenge Each Other\nStonkTrace: 100 Days of Reddit Stock Chatter: Hype, Hindsight and How LLMs Pick Stock\nBubblegumTree: A Family Story Press for Kobo\nContaining Coding Agents: Why I Run T…"
+    },
+    {
+      "rank": 6,
+      "hn_id": 50597210,
+      "title": "Show HN: BrudOS – Open-source zero-trust WASM runtime for AI agents",
+      "title_ja": "Show HN: BrudOS – Open-source zero-trust WASM runtime for AI agents",
+      "hn_url": "https://news.ycombinator.com/item?id=50597210",
+      "source_url": "https://github.com/rahatarch/brud",
+      "image_url": "https://opengraph.githubassets.com/cc0135d0bd2c9f223dc53d19311e42f1ae7f3f7a0d0fc5e19d43e185fe2e0c3b/rahatarch/brud",
+      "score": 1,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-11-22T07:44:37Z",
+      "summary_ja": "Title: Show HN: BrudOS – Open-source zero-trust WASM runtime for AI agents\nArticle title: GitHub - rahatarch/brud: An operating system for AI agents. · GitHub\nDescription: An operating system for AI agents. Contribute to rahatarch/brud development by creating an account on GitHub.\n\nArticle text:\nGitHub - rahatarch/brud: An operating system for AI agents. · GitHub\nSkip to content\nNavigation Menu\nSign in Products Platform GitHub Repository hosting, code review, and collaboration\nCopilot AI coding agent for tasks, projects, and automated work\nBuild \u0026 Ship Actions CI/CD and automation\nCode Quality Quality analysis, fixes, and enforcement\nCodespaces Cloud development environments\nSecure Code Security Vulnerability detection and remediation\nSecret Protection Secret scanning and leak prevention\nDevelopers Learn Documentation\nChangelog Changelog Your source for the latest features, improvements,…"
+    },
+    {
+      "rank": 7,
       "hn_id": 50594846,
       "title": "Anthropic Claude down: Why it said it was unable to authenticate code",
       "title_ja": "Anthropic Claude down: Why it said it was unable to authenticate code",
@@ -31,7 +100,7 @@
       "summary_ja": "Title: Anthropic Claude down: Why it said it was unable to authenticate code\nArticle title: Anthropic Claude down: Why it said it was unable to authenticate code - Mashable · Watch | 2TInteractive\nDescription: Which story from this episode deserves a closer look?\n\nArticle text:\nSkip to content\n/ WATCH Discover Journal Apps Explore My list Join the conversation ↗\n← THE NEWSROOM\n· 21 Nov 2026 · 03:14\nEPISODE 65 · THE WORLD, DECODED\nAnthropic Claude down: Why it said it was unable to authenticate code - Mashable\nWhich story from this episode deserves a closer look?\nSelf-hosted on 2TInteractive. Direct stream · Download MP4 ↓\nThe original episode narration, without the screen.\nBUMPER\nTHE NEWSROOM - WHAT HAPPENED WHILE YOU SLEPT\nINTRO\nWelcome back to The Newsroom, where we process the data stream of technology while you were indisposed. I trust your sleep cycle was optimal. We have some truly…"
     },
     {
-      "rank": 3,
+      "rank": 8,
       "hn_id": 50594742,
       "title": "Careers in the Age of AI",
       "title_ja": "Careers in the Age of AI",
@@ -45,7 +114,7 @@
       "summary_ja": "Title: Careers in the Age of AI\nDescription: What should you focus on to have a successful career in the presence of powerful AI?\n\nArticle text:\nCareers in the Age of AI\nCarl Kolon\n/ Blog\nSuppose you’re a new graduate of college and you’re picking a career. Or suppose you already have a career and you’re thinking about what to focus on. How should you make that decision?\nWhen you make long-term career decisions, you are betting on the future of the economy. You want to work in an area that is highly valued, so it is important to consider what will be highly valued in the future. AI has changed this already, and promises to change it further. Therefore career decisions are, in some sense, bets on the future of AI capabilities. To have a successful career you should focus on tasks that you think AI is unlikely to automate soon.\nTo be clear, I think it is most likely that AI will become sup…"
     },
     {
-      "rank": 4,
+      "rank": 9,
       "hn_id": 50594667,
       "title": "Fley AI Update 1.2v a voice AI assistant",
       "title_ja": "Fley AI Update 1.2v a voice AI assistant",
@@ -58,7 +127,7 @@
       "summary_ja": "Title: Fley AI Update 1.2v a voice AI assistant\nArticle title: Download File - FileKnot.io\nDescription: FLEY AI-Voce is an open-source AI voice assistant project designed to control your computer (PC) rather than a smartphone.\n\nArticle text:\nChoose free or premium download\nUnlimited simultaneous downloads.\nMaximum download speeds possible.\nFiles in your premium account kept forever.\nUpload files up to 10.00 GB in size.\nNo limits on the amount of downloads."
     },
     {
-      "rank": 5,
+      "rank": 10,
       "hn_id": 50594818,
       "title": "Gemini 4 Neon used 64,067 exclamation marks on Terminal-Bench",
       "title_ja": "Gemini 4 Neon used 64,067 exclamation marks on Terminal-Bench",
@@ -71,7 +140,7 @@
       "summary_ja": "Title: Gemini 4 Neon used 64,067 exclamation marks on Terminal-Bench\nArticle title: Gemini 4 Neon — 64,067 Exclamation Marks\nDescription: 35 verbatim moments of unbridled excitement from Gemini 4 Neon trajectories on Terminal-Bench 4.1.\n\nArticle text:\nGemini 4 Neon — 64,067 Exclamation Marks\nindex\nesc\ninspect trial on harbor hub ↗\nall\npeak joy\nmundane awe\nall-caps\nfailed\nesc"
     },
     {
-      "rank": 6,
+      "rank": 11,
       "hn_id": 50594796,
       "title": "Modular workflow governance and evals for AI-DLC",
       "title_ja": "Modular workflow governance and evals for AI-DLC",
@@ -84,7 +153,7 @@
       "summary_ja": "Title: Modular workflow governance and evals for AI-DLC\nArticle title: Mirevox — Agentic control plane modules\nDescription: Open-source, self-hostable modules for routing, English governance, AI-DLC stage gates, shadow versioning, shared context, and AI egress evidence—without competing on foundation models.\n\nArticle text:\nMirevox — Agentic control plane modules Mirevox Stack AI-DLC Router Evals Stage Gate Versions Context Lineage AI-DORA GitHub (opens in a new tab) Stack AI-DLC Router Evals Stage Gate Versions Context Lineage AI-DORA request route eval egress project_id stage history ai-dora Mirevox\nA self-hosted control plane for AI-assisted delivery.\nIt sits on top of the models and harnesses you already use. It doesn't try to replace them.\nStatus: all seven modules and the control-plane hub ship runnable v0.1 slices with Docker Compose and unit tests.\nThe tools already exist. The pro…"
     },
     {
-      "rank": 7,
+      "rank": 12,
       "hn_id": 50594826,
       "title": "Show HN: WorldFoundry – AI agents need experience, not just training data",
       "title_ja": "Show HN: WorldFoundry – AI agents need experience, not just training data",
@@ -95,6 +164,19 @@
       "comments": 0,
       "posted_at": "2026-11-21T23:53:34Z",
       "summary_ja": "Title: Show HN: WorldFoundry – AI agents need experience, not just training data\nArticle title: WorldFoundry — Run the incident test\nDescription: You can make an AI agent sound right. But can it prove it did the job? Try WorldFoundry\n\nArticle text:\nAI agents can say “done.”\nCan they prove it?\nA production outage. An unexpected state change. An independent evaluator. See what a superficially successful workflow misses—then take control of the real WorldFoundry simulation yourself.\nThe ticket must be critical, assigned to on-call, acknowledged with both “outage” and “incident,” and resolved. In this scenario, a separate system resets its priority during the workflow.\nYou're in control of the environment\nChoose actions in any order. WorldFoundry updates the simulated ticket after every action and automatically checks all five requirements. No Python or API key required.\nA concurrent overwri…"
+    },
+    {
+      "rank": 13,
+      "hn_id": 50597161,
+      "title": "Three-way translation merge: keeping translated pages in sync with an LLM",
+      "title_ja": "Three-way translation merge: keeping translated pages in sync with an LLM",
+      "hn_url": "https://news.ycombinator.com/item?id=50597161",
+      "source_url": "https://maxmart.github.io/posts/three-way-translation-merge/",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-11-22T07:32:56Z",
+      "summary_ja": "Title: Three-way translation merge: keeping translated pages in sync with an LLM\nArticle title: Three-way translation merge: keeping translated pages in sync with an LLM · Max's Marginalia\nDescription: A three-way translation merge gives an LLM the changes to the source page since the last sync and lets it edit the existing translation.\n\nArticle text:\nM ax's M arginalia Posts GitHub Three-way translation merge: keeping translated pages in sync with an LLM\nW e recently rebuilt our company website. It exists in English, Swedish and Norwegian and is a static site built with Astro, with pages stored as plain MDX files in a Git repository. As with any multilingual site, you need some method to keep the translated pages in sync between languages. Due to my underlying hubris, defiant curiosity and lack of respect for existing solutions, I wanted to try an idea I’ve had for doing this.\nThe usual…"
     }
   ]
 }

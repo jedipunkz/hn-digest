@@ -1,6 +1,6 @@
 {
   "date": "2026-11-23",
-  "generated_at": "2026-11-23T11:54:24Z",
+  "generated_at": "2026-11-23T23:28:57Z",
   "articles": [
     {
       "rank": 1,
@@ -18,6 +18,34 @@
     },
     {
       "rank": 2,
+      "hn_id": 50620528,
+      "title": "US to blacklist Asian AI firm Megaspeed",
+      "title_ja": "US to blacklist Asian AI firm Megaspeed",
+      "hn_url": "https://news.ycombinator.com/item?id=50620528",
+      "source_url": "https://www.bbc.co.uk/news/articles/cv98xpg5dg5zo",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4a66/live/7c413f70-e78a-11f1-a5c2-c57ab9df3111.jpg",
+      "score": 6,
+      "final_score": 7,
+      "comments": 0,
+      "posted_at": "2026-11-23T22:48:25Z",
+      "summary_ja": "Title: US to blacklist Asian AI firm Megaspeed\nArticle title: US to blacklist Asian AI firm Megaspeed after Nvidia scandal - BBC News\nDescription: Megaspeed has been accused of funneling AI chips to China after a former executive's affair with Jensen Huang became public.\n\nArticle text:\nMore menu More menu Search BBC Home\nUS to blacklist Asian AI firm Megaspeed after Nvidia scandal\nImage source, Getty Images By Kali Hays Technology reporter Published 23 November 2026, 22:15 GMT\nThe US has said it intends to ban a Singaporean artificial intelligence (AI) company allegedly tied to the Nvidia scandal from doing business in America.\nThe Department of Commerce announced it planned to add Megaspeed Ltd to a list of entities that are blacklisted from buying or selling goods in the US.\nThe company is mainly a developer of data centres, but in recent weeks a former executive of Megaspeed was accus…"
+    },
+    {
+      "rank": 3,
+      "hn_id": 50620992,
+      "title": "The AI bubble hasn't burst, but it has significantly deflated",
+      "title_ja": "The AI bubble hasn't burst, but it has significantly deflated",
+      "hn_url": "https://news.ycombinator.com/item?id=50620992",
+      "source_url": "https://www.rnz.co.nz/news/world/2757034/the-ai-bubble-hasn-t-burst-but-it-has-significantly-deflated",
+      "image_url": "https://media.rnztools.nz/rnz/image/upload/s--Ev4ce0I3--/t_tohu-badge-facebook/f_auto/q_auto/4JEOBNM_AFP__20261013__D36R6ZH__v1__HighRes__FranceUsTechnologyNvidiaPortrait_jpg",
+      "score": 3,
+      "final_score": 6,
+      "comments": 0,
+      "posted_at": "2026-11-23T23:25:26Z",
+      "summary_ja": "Title: The AI bubble hasn't burst, but it has significantly deflated\nArticle title: The AI bubble hasn't burst, but it has significantly deflated | RNZ\nDescription: Analysis - Silver linings aren't always easy to spot during a time of crisis.\n\nArticle text:\nThe AI bubble hasn't burst, but it has significantly deflated | RNZ Skip to main content\nLink: https://www.rnz.co.nz/news/eyJhbGciOiJIUzI1NiJ9._v4.laWzzQVil69j0DGqQk4Ywh3JMAvc5jXoA1Fn8ldP8DY/world/2757034%2Fthe-ai-bubble-hasn-t-burst-but-it-has-significantly-deflated\nThe AI bubble hasn't burst, but it has significantly deflated\nAnalysis - Silver linings aren't always easy to spot during a time of crisis.\nBut the global stock market unravelling of the past six weeks, which has hammered the investment boom driving artificial intelligence, could inadvertently save us from an even greater calamity.\nFor the past four years, a stock market…"
+    },
+    {
+      "rank": 4,
       "hn_id": 50606249,
       "title": "AI will eliminate many jobs. What should your children study now?",
       "title_ja": "AI will eliminate many jobs. What should your children study now?",
@@ -31,7 +59,7 @@
       "summary_ja": "AIによって多くの仕事がなくなるだろう。あなたの子供たちは今何を勉強すべきですか？ |メインコンテンツにスキップ\nRNZ / 人生 / 人間関係 / 家族\nリンク: https://www.rnz.co.nz/life/relationships/family%2Fai-will-eliminate-many-jobs-what-Should-your-children-study-now\nAIによって多くの仕事がなくなるだろう。あなたの子供たちは今何を勉強すべきですか？\n「私が人生をかけて解決したい問題は何ですか? 司法へのアクセスを改善したいですか? 人々がより長く健康に暮らせるよう支援したいですか?」問題に焦点を当てていても、問題は解決しません。\nKara Alaimo for CNN 2026 年 11 月 23 日 10 分で読む キャプション: 読解などの基本的なスキルは、他の高度なスキルを構築するための基礎となります。写真提供: Unsplash 多くのテクノロジーリーダーは、今後 10 年以内に人工知能は経済的に役立つすべての分野で人間を上回る性能を発揮できるようになるだろうと主張しています。\nこれは、ダニエル・サスキンド氏の新著「私の子供たちは何をすべきですか？」の中での警告です。 AI 時代への人間ガイド 。\nそれが起こるかどうかに関係なく、私たちの大人である私たちの子供たちは、AIによってますます推進される世界で生きていくことになるでしょう。ロンドンのグレシャム大学経営学部教授サスキンド氏は、その未来がどうなるかを知るのは難しいと語る。\nしかし、大人が子どもたちに備えをするための措置を講じることはできます。私は彼に、親が子供たちが成長するためのスキルを身につけるのをどのように支援できるか、そしてなぜ大人自身が学校に戻ることを考える必要があるのか​​について話しました。\n次世代は、AI に想像を絶することを要求するだけでなく、基本的な数学スキルも学ばなければなりません。"
     },
     {
-      "rank": 3,
+      "rank": 5,
       "hn_id": 50610152,
       "title": "AI may have solved math's greatest mystery. Can humans understand the answer?",
       "title_ja": "AI may have solved math's greatest mystery. Can humans understand the answer?",
@@ -44,7 +72,7 @@
       "summary_ja": "Title: AI may have solved math's greatest mystery. Can humans understand the answer?"
     },
     {
-      "rank": 4,
+      "rank": 6,
       "hn_id": 50610136,
       "title": "Show HN: Crazy simple AI agent orchestration with Markdown and Containers",
       "title_ja": "Show HN: Crazy simple AI agent orchestration with Markdown and Containers",
@@ -58,7 +86,7 @@
       "summary_ja": "Title: Show HN: Crazy simple AI agent orchestration with Markdown and Containers\nArticle title: GitHub - ameesme/shoebox: Crazy simple filesystem-based AI agent orchestration. · GitHub\nDescription: Crazy simple filesystem-based AI agent orchestration. - ameesme/shoebox\nHN text: I was sick and tired of the bloated mess that Hermes Agent has become, often dealing with hard-to-triage bugs that made managing agents a part-time job. I don't need a self-improving magical agent, I need; - A primary agent to chat to, with sub-agent delegation - Isolated sub-agent workspaces, tools, binaries and skills - Kanban and cron-tasks to manage tasks - An easy way to chat (Telegram, Web UI) I built shoebox, crazy simple filesystem-based AI agent orchestration that uses a basic folder-structure to determine which agents to run, what they should do, and what capabilities they have. Been running this on prod…"
     },
     {
-      "rank": 5,
+      "rank": 7,
       "hn_id": 50610285,
       "title": "Why Did Anthropic's Shares Drop 8.5% After Record IPO?",
       "title_ja": "Why Did Anthropic's Shares Drop 8.5% After Record IPO?",
@@ -72,7 +100,34 @@
       "summary_ja": "Title: Why Did Anthropic's Shares Drop 8.5% After Record IPO?\nArticle title: Why Did Anthropic’s Shares Drop 8.5% After Record IPO? | Disruption Banking\nDescription: Anthropic shares fell 8.5% on November 20 to close at $88.91. The decline came one day after the company completed the largest initial public offering in Anthropic shares drop 8.5% after record IPO as profit-taking, AI sell-off and massive infrastructure concerns weigh on the stock.\n\nArticle text:\n‹\n›\nBREAKING INTEL\nWhy Did Anthropic’s Shares Drop 8.5% After Record IPO? •\nCan Banks Prepare for the Quantum Threat Before It Arrives? •\nBlack Swan Summit Cambodia Takes Bakong Cross-Border With Stablecoin and Bond Tokenization Pilots •\nWhy Did an HSBC Whistleblower Urge a Probe of Correspondent Banking After the Deutsche Bank Leak? •\nWhy Did Anthropic’s IPO Fail To Rescue The KOSPI? •\nHow Strong Will The Mexican Peso (MXN) Be in…"
     },
     {
-      "rank": 6,
+      "rank": 8,
+      "hn_id": 50620328,
+      "title": "Latent Introspection: LLMs Can Detect Prior Concept Injections",
+      "title_ja": "Latent Introspection: LLMs Can Detect Prior Concept Injections",
+      "hn_url": "https://news.ycombinator.com/item?id=50620328",
+      "source_url": "https://arxiv.org/abs/2602.20031",
+      "image_url": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+      "score": 3,
+      "final_score": 3,
+      "comments": 0,
+      "posted_at": "2026-11-23T22:29:48Z",
+      "summary_ja": "Title: Latent Introspection: LLMs Can Detect Prior Concept Injections\nArticle title: [2602.20031] Latent Introspection: Models Can Detect Prior Concept Injections\nDescription: Abstract page for arXiv paper 2602.20031: Latent Introspection: Models Can Detect Prior Concept Injections\n\nArticle text:\nSkip to main content\nSearch\nSubmit\nDonate\nLog in\nSearch arXiv\nPress Enter to search · Advanced search\nComputer Science \u003e Artificial Intelligence\n[Submitted on 23 Feb 2026 ( v1 ), last revised 7 Nov 2026 (this version, v3)]\nTitle: Latent Introspection: Models Can Detect Prior Concept Injections\nAbstract: We uncover a latent capacity for introspection in a Qwen 32B model, demonstrating that the model can detect when concepts have been injected into its earlier context and identify which concept was injected. While the model denies injection in sampled outputs, logit lens analysis reveals clear det…"
+    },
+    {
+      "rank": 9,
+      "hn_id": 50606270,
+      "title": "LiberNT: An AI-Fueled Fork of ReactOS Focused on Windows 11 Compatibility",
+      "title_ja": "LiberNT: An AI-Fueled Fork of ReactOS Focused on Windows 11 Compatibility",
+      "hn_url": "https://news.ycombinator.com/item?id=50606270",
+      "source_url": "https://www.phoronix.com/news/LiberNT",
+      "score": 3,
+      "final_score": 3,
+      "comments": 0,
+      "posted_at": "2026-11-23T01:23:15Z",
+      "summary_ja": "LiberNT: Windows 11 との互換性に焦点を当てた ReactOS の AI 燃料フォーク"
+    },
+    {
+      "rank": 10,
       "hn_id": 50606302,
       "title": "Virgin Mobile Canada Cyber Security Incident",
       "title_ja": "Virgin Mobile Canada Cyber Security Incident",
@@ -86,20 +141,7 @@
       "summary_ja": "重要なサイバーセキュリティアップデート - Virgin Plus\nコンテンツにスキップ\nフッターにスキップ\nアクセシビリティ\nインターネット\nおい！インターネットをお探しですか? Bell の友人は、高速で信頼性の高い純粋なファイバー インターネットを提供します。\nインターネットプランを見る\nインターネット\nおい！インターネットをお探しですか? Bell Aliant の友人たちは、高速で信頼性の高い純粋なファイバー インターネットを提供します。\nインターネットプランを見る\nインターネット\nおい！インターネットをお探しですか? Bell の友人は、高速で信頼性の高い純粋なファイバー インターネットを提供します。\nインターネットプランを見る\n既存の Virgin Plus インターネット メンバー: 引き続きサポートさせていただきます。ご質問がありますか、または計画を変更する必要がありますか?\n私のアカウントをチェックしてください\nテレビ\nお住まいの地域の新規顧客にはテレビ サービスを提供しておりませんが、ベルの友人たちは提供しています。\nさらに詳しく\n既存の Virgin Plus インターネットおよび TV メンバー - Virgin TV サービスを追加または変更することができます。\n私のアカウントにログインしてください\nInternet Explorer はサポートされなくなりました。\n注意: Internet Explorer は 2022 年 6 月 15 日に廃止されます。ブラウジング エクスペリエンスを向上させ、当社 Web サイトのすべての機能を適切に表示するには、より新しいインターネット ブラウザを使用してください。\nサイバーセキュリティに関する重要なアップデート\n2026 年 11 月 17 日、正体不明の人物が、特定の顧客の個人情報を含む内部の Virgin Plus システムに不正アクセスしました。"
     },
     {
-      "rank": 7,
-      "hn_id": 50606270,
-      "title": "LiberNT: An AI-Fueled Fork of ReactOS Focused on Windows 11 Compatibility",
-      "title_ja": "LiberNT: An AI-Fueled Fork of ReactOS Focused on Windows 11 Compatibility",
-      "hn_url": "https://news.ycombinator.com/item?id=50606270",
-      "source_url": "https://www.phoronix.com/news/LiberNT",
-      "score": 3,
-      "final_score": 3,
-      "comments": 0,
-      "posted_at": "2026-11-23T01:23:15Z",
-      "summary_ja": "LiberNT: Windows 11 との互換性に焦点を当てた ReactOS の AI 燃料フォーク"
-    },
-    {
-      "rank": 8,
+      "rank": 11,
       "hn_id": 50610369,
       "title": "Binding of Isaac developer removes AI music from Repentance Plus",
       "title_ja": "Binding of Isaac developer removes AI music from Repentance Plus",
@@ -113,7 +155,21 @@
       "summary_ja": "Title: Binding of Isaac developer removes AI music from Repentance Plus\nArticle title: Binding of Isaac developer removes AI music from Repentance Plus | The Verge\nDescription: Creator Edmund McMillen claims he ‘had no idea’ AI music\n\nArticle text:\nBinding of Isaac developer removes AI music from Repentance Plus | The Verge Skip to main content The homepage The Verge The Verge logo. The Verge The Verge logo. Tech\nNotifications Notifications Hamburger Navigation Button Navigation Drawer The Verge The Verge logo. Login / Sign Up\nSearch Light System Dark Tech Expand Amazon\nReviews Expand Smart Home Reviews\nVerge Shopping Expand Buying Guides\nTransportation Expand Electric Cars\nBinding of Isaac developer removes AI music from Repentance Plus Notifications Notifications Comments Drawer Notifications Comments Loading comments Getting the conversation ready... Gaming Close Gaming Posts from thi…"
     },
     {
-      "rank": 9,
+      "rank": 12,
+      "hn_id": 50620311,
+      "title": "Show HN: Judge-audit – open-source calibration audits for AI judges",
+      "title_ja": "Show HN: Judge-audit – open-source calibration audits for AI judges",
+      "hn_url": "https://news.ycombinator.com/item?id=50620311",
+      "source_url": "https://github.com/kunko-ai-labs/judge-audit",
+      "image_url": "https://opengraph.githubassets.com/b059cbcd0c4cbf418297cd160b4ae5548a8c56bac2fd200910962d1e4d729b53/kunko-ai-labs/judge-audit",
+      "score": 1,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-11-23T22:28:32Z",
+      "summary_ja": "Title: Show HN: Judge-audit – open-source calibration audits for AI judges\nArticle title: GitHub - kunko-ai-labs/judge-audit: Independent calibration audits for AI judges. The Moody's for AI judgment. · GitHub\nDescription: Independent calibration audits for AI judges. The Moody's for AI judgment. - kunko-ai-labs/judge-audit\n\nArticle text:\nGitHub - kunko-ai-labs/judge-audit: Independent calibration audits for AI judges. The Moody's for AI judgment. · GitHub\nSkip to content\nNavigation Menu\nSign in Products Platform GitHub Repository hosting, code review, and collaboration\nCopilot AI coding agent for tasks, projects, and automated work\nBuild \u0026 Ship Actions CI/CD and automation\nCode Quality Quality analysis, fixes, and enforcement\nCodespaces Cloud development environments\nSecure Code Security Vulnerability detection and remediation\nSecret Protection Secret scanning and leak prevention\nDevelo…"
+    },
+    {
+      "rank": 13,
       "hn_id": 50610333,
       "title": "Show HN: Claude Hot Path, one-file Claude clients in 7 languages, no SDK",
       "title_ja": "Show HN: Claude Hot Path, one-file Claude clients in 7 languages, no SDK",
@@ -127,7 +183,21 @@
       "summary_ja": "Title: Show HN: Claude Hot Path, one-file Claude clients in 7 languages, no SDK\nArticle title: GitHub - AndyCross/claude-hot-path: The fastest way from your code to Claude. One file, no SDK. · GitHub\nDescription: The fastest way from your code to Claude. One file, no SDK. - AndyCross/claude-hot-path\n\nArticle text:\nGitHub - AndyCross/claude-hot-path: The fastest way from your code to Claude. One file, no SDK. · GitHub\nSkip to content\nNavigation Menu\nSign in Products Platform GitHub Repository hosting, code review, and collaboration\nCopilot AI coding agent for tasks, projects, and automated work\nBuild \u0026 Ship Actions CI/CD and automation\nCode Quality Quality analysis, fixes, and enforcement\nCodespaces Cloud development environments\nSecure Code Security Vulnerability detection and remediation\nSecret Protection Secret scanning and leak prevention\nDevelopers Learn Documentation\nChangelog Chang…"
     },
     {
-      "rank": 10,
+      "rank": 14,
+      "hn_id": 50620710,
+      "title": "Voyager OS – AI Made",
+      "title_ja": "Voyager OS – AI Made",
+      "hn_url": "https://news.ycombinator.com/item?id=50620710",
+      "source_url": "https://github.com/LetMePlaySong/VOYAGER-OS-AI-MADE-",
+      "image_url": "https://opengraph.githubassets.com/a924d1e782f42eb84d5ff0125f70df44d9760c4563c604971d314e5ea660a2d9/LetMePlaySong/VOYAGER-OS-AI-MADE-",
+      "score": 1,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-11-23T23:02:31Z",
+      "summary_ja": "Title: Voyager OS – AI Made\nArticle title: GitHub - LetMePlaySong/VOYAGER-OS-AI-MADE-: Voyager OS is a from-scratch, bootable 64-bit operating system written entirely in C and C++ — no host OS at runtime. It boots via Limine on BIOS/UEFI and ships a full GUI desktop: file manager, web browser, media player, editors, networking, and sound. Bu\n[truncated]\nDescription: Voyager OS is a from-scratch, bootable 64-bit operating system written entirely in C and C++ — no host OS at runtime. It boots via Limine on BIOS/UEFI and ships a full GUI desktop: file manager, web browser, media player, editors, networking, and sound. Built completely by AI. QEMU recommended; Virt\n[truncated]\n\nArticle text:\nGitHub - LetMePlaySong/VOYAGER-OS-AI-MADE-: Voyager OS is a from-scratch, bootable 64-bit operating system written entirely in C and C++ — no host OS at runtime. It boots via Limine on BIOS/UEFI and ship…"
+    },
+    {
+      "rank": 15,
       "hn_id": 50610406,
       "title": "South Korean minister says he is too old to tackle AI exam cheating",
       "title_ja": "South Korean minister says he is too old to tackle AI exam cheating",
@@ -140,21 +210,7 @@
       "summary_ja": "Title: South Korean minister says he is too old to tackle AI exam cheating"
     },
     {
-      "rank": 11,
-      "hn_id": 50606332,
-      "title": "Token Bill – Estimate and Compare LLM API Costs",
-      "title_ja": "Token Bill – Estimate and Compare LLM API Costs",
-      "hn_url": "https://news.ycombinator.com/item?id=50606332",
-      "source_url": "https://tokenbill.dev/",
-      "image_url": "https://tokenbill.dev/og.png",
-      "score": 1,
-      "final_score": 1,
-      "comments": 0,
-      "posted_at": "2026-11-23T01:31:11Z",
-      "summary_ja": "トークンビル\nメニュー\nコスト計算機\n請求書を見積もる\nLLM API のコスト · 2026 年 11 月 23 日現在の価格 AI 機能の月額料金はいくらですか?\nトラフィックとプロンプトのサイズを設定します。 24 モデルの価格は、ロングコンテキストの追加料金、バッチ割引、およびモデルが適合するかどうかを決定する仕様とともに並べて表示されます。\nリクエストあたり 0.0003 ドル。任意の行を選択して項目化します。\nClaude Haiku 5.5 の価格通知\nこのワークロードの Claude Haiku 5.5 の月額コストが少なくとも 10% 増減した場合、または同じティアのモデルが少なくとも 20% 安くなった場合には、メールでお知らせします。価格は公式ページからのみ入手できます。\nワークロード: 1 日あたり 2,000 リクエスト、それぞれ 1,500 入力トークンと 300 出力トークン。\n確認用のメールを 1 通送信し、後はアラートのみを送信します。すべてのメールには、ワンクリックでアドレスを削除できる購読解除機能が付いています。プライバシーポリシー\n月間1億800万トークン。 Claude Haiku 5.5 が最も安価なオプションです。 GPT-6 アストラの価格は 100 倍です。\n電卓のさらに先を行く\n同じ価格で、別のビュー: 最高の価値を見つけたり、モデルを並べて比較したり、より安く支払う方法を学んだりできます。\n最も価値のある4つのピック\nどのモデルに価格の価値があるのでしょうか？\n価格に見合った品質。安いモデルに勝るものはありません。\n開く →\n24 モデル · $0.10 から\n全モデルの価格\n100 万トークンごとに、1 つのソート可能なテーブル内のすべての追跡モデル。\n開く →\n29 件の比較\n2 つのモデルを比較する\n人々が最も尋ねるペアの対戦価格。\n開く→\n7つのプロバイダー\nプロバイダー別の料金\nOpenAI、Anthropic、Google など、それぞれの最も安価なモデル。"
-    },
-    {
-      "rank": 12,
+      "rank": 16,
       "hn_id": 50610441,
       "title": "Gostudio.ai – AI photo and video studio with 38 one-click tools",
       "title_ja": "Gostudio.ai – AI photo and video studio with 38 one-click tools",
@@ -168,7 +224,21 @@
       "summary_ja": "Title: Gostudio.ai – AI photo and video studio with 38 one-click tools\nArticle title: GoStudio.ai — Your Photos. Your Videos. Your AI Studio.\nDescription: GoStudio.ai is an AI photo and video studio — restore, edit, enhance, and generate with the right AI model for each job. One studio, no model hunting.\n\nArticle text:\nGoStudio.ai — Your Photos. Your Videos. Your AI Studio. AI Images AI Videos Pricing About Us Reviews Contact Us Login Login Your Photos. Your Videos. Your AI Studio.\nCreate a photo. Fix a photo. Turn it into a video. One studio does it all. Handpicked AI models and one-click tools — skip the prompts, the model hunting, the subscriptions.\n10 free credits · no credit card · Money-back guarantee\nUpload image to edit or drag \u0026 drop Edit Drop your photo and describe what to change — relight, swap the background, age it 30 years…\nImage Video Image editor Generate What you can do…"
     },
     {
-      "rank": 13,
+      "rank": 17,
+      "hn_id": 50606332,
+      "title": "Token Bill – Estimate and Compare LLM API Costs",
+      "title_ja": "Token Bill – Estimate and Compare LLM API Costs",
+      "hn_url": "https://news.ycombinator.com/item?id=50606332",
+      "source_url": "https://tokenbill.dev/",
+      "image_url": "https://tokenbill.dev/og.png",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-11-23T01:31:11Z",
+      "summary_ja": "トークンビル\nメニュー\nコスト計算機\n請求書を見積もる\nLLM API のコスト · 2026 年 11 月 23 日現在の価格 AI 機能の月額料金はいくらですか?\nトラフィックとプロンプトのサイズを設定します。 24 モデルの価格は、ロングコンテキストの追加料金、バッチ割引、およびモデルが適合するかどうかを決定する仕様とともに並べて表示されます。\nリクエストあたり 0.0003 ドル。任意の行を選択して項目化します。\nClaude Haiku 5.5 の価格通知\nこのワークロードの Claude Haiku 5.5 の月額コストが少なくとも 10% 増減した場合、または同じティアのモデルが少なくとも 20% 安くなった場合には、メールでお知らせします。価格は公式ページからのみ入手できます。\nワークロード: 1 日あたり 2,000 リクエスト、それぞれ 1,500 入力トークンと 300 出力トークン。\n確認用のメールを 1 通送信し、後はアラートのみを送信します。すべてのメールには、ワンクリックでアドレスを削除できる購読解除機能が付いています。プライバシーポリシー\n月間1億800万トークン。 Claude Haiku 5.5 が最も安価なオプションです。 GPT-6 アストラの価格は 100 倍です。\n電卓のさらに先を行く\n同じ価格で、別のビュー: 最高の価値を見つけたり、モデルを並べて比較したり、より安く支払う方法を学んだりできます。\n最も価値のある4つのピック\nどのモデルに価格の価値があるのでしょうか？\n価格に見合った品質。安いモデルに勝るものはありません。\n開く →\n24 モデル · $0.10 から\n全モデルの価格\n100 万トークンごとに、1 つのソート可能なテーブル内のすべての追跡モデル。\n開く →\n29 件の比較\n2 つのモデルを比較する\n人々が最も尋ねるペアの対戦価格。\n開く→\n7つのプロバイダー\nプロバイダー別の料金\nOpenAI、Anthropic、Google など、それぞれの最も安価なモデル。"
+    },
+    {
+      "rank": 18,
       "hn_id": 50610434,
       "title": "AI Riemann Hypothesis proof is true, independent mathematicians confirm",
       "title_ja": "AI Riemann Hypothesis proof is true, independent mathematicians confirm",
@@ -182,7 +252,35 @@
       "summary_ja": "Title: AI Riemann Hypothesis proof is true, independent mathematicians confirm\nArticle title: The AI Riemann hypothesis proof is true, independent mathematicians confirm | Scientific American\nDescription: Researchers have verified a claimed solution to the most important unsolved problem in math\n\nArticle text:\nSkip to main content Scientific American December Issue\nThe AI Riemann hypothesis proof is true, independent mathematicians confirm\nResearchers have verified a claimed solution to the most important unsolved problem in math\nBy Clara Moskowitz edited by Lee Billings\nEditor's Note: This story was updated on Nov. 21 to reflect further confirmation of the proof.\nMathematicians are now certain the earth-shattering artificial-intelligence-created proof of the Riemann hypothesis is real.\nOn Friday Anthropic mathematician Levent Alpöge claimed to have used the company’s Claude AI model to…"
     },
     {
-      "rank": 14,
+      "rank": 19,
+      "hn_id": 50620802,
+      "title": "What Is NotiBuddy? Approve AI Agents from Your iPhone with Face ID",
+      "title_ja": "What Is NotiBuddy? Approve AI Agents from Your iPhone with Face ID",
+      "hn_url": "https://news.ycombinator.com/item?id=50620802",
+      "source_url": "https://notibuddy.app/blog/what-is-notibuddy",
+      "image_url": "https://notibuddy.app/og-card.png",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-11-23T23:09:43Z",
+      "summary_ja": "Title: What Is NotiBuddy? Approve AI Agents from Your iPhone with Face ID\nArticle title: What is NotiBuddy? Approve AI Agents from Your iPhone with Face ID\nDescription: Approve AI coding agents, scripts, and CI deploys from your iPhone or Apple Watch with Face ID, code diffs, and native screens—end-to-end encrypted, no account.\n\nArticle text:\nSkip to content NotiBuddy How it works Screens Setup guides by tool Plans Setup Blog Help English English Español (México) Deutsch Français (France) Français (Canada) Español (España) Download on the App Store ← All blog posts Overview Guide · November 2026 · notibuddy 0.4.0+ · 5 min read What is NotiBuddy? Approve AI Agents from Your iPhone with Face ID\nApprove AI coding agents, scripts, and CI deploys from your iPhone or Apple Watch with Face ID, code diffs, and native screens—end-to-end encrypted, no account.\nYou start a big refactor in Claude Co…"
+    },
+    {
+      "rank": 20,
+      "hn_id": 50620958,
+      "title": "Securing AI agents against intent hijacking with Semantic governance policies",
+      "title_ja": "Securing AI agents against intent hijacking with Semantic governance policies",
+      "hn_url": "https://news.ycombinator.com/item?id=50620958",
+      "source_url": "https://developers.googleblog.com/did-the-user-ask-for-this-securing-ai-agents-against-intent-hijacking-with-semantic-governance-policies/",
+      "image_url": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/intent-hijacking-header-fullname-.2e16d0ba.fill-1200x600.png",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-11-23T23:22:48Z",
+      "summary_ja": "Title: Securing AI agents against intent hijacking with Semantic governance policies\nArticle title: Did the user ask for this? Securing AI agents against intent hijacking with Semantic governance policies\n- Google Developers Blog\nDescription: Learn how Semantic governance policies protect AI agents from intent hijacking by validating tool calls against user intent to block prompt injection attacks.\n\nArticle text:\nCommunity/Events\nLearn\nBlog\nYouTube\nSearch\nCommunity/Events\nDid the user ask for this? Securing AI agents against intent hijacking with Semantic governance policies\nAI agents are useful because they act. They read your email, check your calendar, pay a bill or post a message to a channel. To act on your behalf, they work with two kinds of context: trusted context, meaning your request and the instructions the agent's developer gave it, and untrusted context, the constant stream…"
+    },
+    {
+      "rank": 21,
       "hn_id": 50606414,
       "title": "Writing an LLM from scratch, part 32f – Interventions: weight decay",
       "title_ja": "Writing an LLM from scratch, part 32f – Interventions: weight decay",

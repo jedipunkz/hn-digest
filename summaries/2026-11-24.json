@@ -1,0 +1,102 @@
+{
+  "date": "2026-11-24",
+  "generated_at": "2026-11-24T08:43:18Z",
+  "articles": [
+    {
+      "rank": 1,
+      "hn_id": 50625205,
+      "title": "Anthropic CEO Dario Amodei Sold $280M in Shares as Part of Record IPO",
+      "title_ja": "Anthropic CEO のダリオ・アモデイ、記録的な IPO の一環として 2 億 8,000 万ドルの株式を売却",
+      "hn_url": "https://news.ycombinator.com/item?id=50625205",
+      "source_url": "https://www.forbes.com/sites/siladityaray/2026/11/24/anthropic-ceo-dario-amodei-sold-280-million-in-shares-as-part-of-record-ipo",
+      "score": 6,
+      "final_score": 7,
+      "comments": 0,
+      "posted_at": "2026-11-24T08:10:10Z",
+      "summary_ja": "Anthropic CEO ダリオ・アモデイ、記録的な IPO の一環として 2 億 8,000 万ドルの株式を売却"
+    },
+    {
+      "rank": 2,
+      "hn_id": 50625209,
+      "title": "Linux Foundation Welcomes Trace for Verifiable Runtime Evidence for AI Workloads",
+      "title_ja": "Linux Foundation、AI ワークロードの検証可能なランタイム証拠のための Trace を歓迎",
+      "hn_url": "https://news.ycombinator.com/item?id=50625209",
+      "source_url": "https://www.linuxfoundation.org/press/linux-foundation-welcomes-trace-to-advance-verifiable-runtime-evidence-for-ai-workloads",
+      "image_url": "https://www.linuxfoundation.org/hubfs/Press%20Release%20Images%20-%20GL%20(19).png",
+      "score": 1,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-11-24T08:10:17Z",
+      "summary_ja": "📦 プライムデーがやってきました。 2日間限定で最大75％オフ！ • 今すぐ保存\n--\u003e オープンソース サミット ジャパン • 12 月 7 ～ 9 日 • 日本、東京 • 今すぐ登録\n英語\n日本\n中国\nヨーロッパ\nサインイン\n英語 |\n日本 |\n中国 |\nヨーロッパ\n4 分で読めます\nLinux Foundation、AI ワークロードの検証可能なランタイム証拠を推進する TRACE を歓迎\nTwitter でフォローしてください\nFacebook でフォローしてください\nLinkedIn でフォローしてください\nAMD、Intel、Microsoft、OPAQUE、TII によってサポートされる新しいオープン仕様により、AI エージェントの信頼できるハードウェア証明済みランタイムとコンプライアンスの証拠が可能になります\nLinux Foundation は、AI エージェントと機密ワークロードのハードウェア認証済みランタイムおよびコンプライアンス証拠のための新しいオープン仕様である TRACE の貢献を OPAQUE から発表しました。\nAMD、Intel、Microsoft、OPAQUE、TII が共同開発した TRACE は、ポータブルで検証可能な実行時の証拠に対するニーズの高まりに対応し、断片化したエコシステムでの共通標準の確立を支援します。\nLinux Foundation は、持続可能性と長期的な成長をサポートするために、TRACE にベンダー中立のガバナンスを提供します。\nサンフランシスコ、2026 年 8 月 25 日 – オープンソースを通じて大規模なイノベーションを可能にする非営利団体である Linux Foundation は、OPAQUE からの TRACE (Trust、Runtime Attestation、および Compliance Evidence) の貢献を発表しました。"
+    },
+    {
+      "rank": 3,
+      "hn_id": 50624984,
+      "title": "More restrictive policy for LLM usage in LibreOffice development",
+      "title_ja": "LibreOffice開発におけるLLMの使用に対するより制限的なポリシー",
+      "hn_url": "https://news.ycombinator.com/item?id=50624984",
+      "source_url": "https://blog.documentfoundation.org/blog/2026/11/24/updated-and-more-restrictive-policy-for-llm-usage-in-libreoffice-development/",
+      "score": 2,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-11-24T07:44:42Z",
+      "summary_ja": "LibreOffice 開発における LLM の使用に関する更新された (そしてより制限的な) ポリシー - TDF Community Blog\nコンテンツにスキップ\n2026年11月24日火曜日\nTDF コミュニティ ブログ\nLibreOffice開発におけるLLMの使用に関する更新された(そしてより制限された)ポリシー\nLibreOffice (スイート) には AI 機能は組み込まれていません。コンテンツを変更したり、データを共有したり、モデルをトレーニングするために作業内容を使用したりすることはありません。 AI 機能が必要な場合は、拡張機能を介して追加できますが、ソフトウェア自体には AI 機能は含まれていません。\nソフトウェア開発に関して: ソース コードに取り組む際の大規模言語モデル (LLM) の使用についての議論が進行中です。一部のフリー オープン ソース ソフトウェア (FOSS) プロジェクトは、LLM 支援コードの提出を処理する方法を検討する一方で、一般からの投稿を完全に締め切ることを選択しており、事実上「招待専用」クラブとなっています。私たちは、このような劇的な変化が起こらないことを願っています。\nLibreOffice のような大規模なソフトウェア プロジェクトでは、AI 支援コーディング ツールの影響を避けることは不可能です。セキュリティ問題の報告では LLM の使用がますます増えており、LLM の承認を拒否することはソフトウェアやユーザーにとって利益になりません。サードパーティの依存関係、および依存するコンパイラにも、AI 支援コードが含まれています。私たちは、ある時点で LLM が使用されたという理由だけで、ソフトウェアをすべての人にとってより良いものにする貴重なコードの貢献を拒否したくありません。\nしかし、私たちは人間が生成したコードに重点を置いており、開発における LLM の使用に関するポリシーをさらに厳格にしました。"
+    },
+    {
+      "rank": 4,
+      "hn_id": 50625268,
+      "title": "Show HN: AI Agent Infrastructure and Memory Compaction Specifications",
+      "title_ja": "HN を表示: AI エージェントのインフラストラクチャとメモリ圧縮の仕様",
+      "hn_url": "https://news.ycombinator.com/item?id=50625268",
+      "source_url": "https://github.com/grfdsasdvef/awesome-ai-agent-infrastructure",
+      "image_url": "https://opengraph.githubassets.com/fbd9856eca313c621ef2a7aec7eaf413c833c061c535d8ada3a14278ec9e0dee/grfdsasdvef/awesome-ai-agent-infrastructure",
+      "score": 1,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-11-24T08:16:42Z",
+      "summary_ja": "GitHub - grfdsasdvef/awesome-ai-agent-infrastructor: 厳選されたアーキテクチャ仕様、メモリ圧縮、xgrammar デコード、SWE ベンチ評価 · GitHub\nコンテンツにスキップ\nナビゲーションメニュー\nサインイン 製品 プラットフォーム GitHub リポジトリ ホスティング、コード レビュー、コラボレーション\nタスク、プロジェクト、自動化作業用の Copilot AI コーディング エージェント\nビルドと出荷アクションの CI/CD と自動化\nコード品質 品質分析、修正、適用\nCodespaces クラウド開発環境\nセキュアコードのセキュリティ脆弱性の検出と修復\n機密保護 機密スキャンと漏洩防止\n開発者向け学習ドキュメント\n変更ログ 変更ログ GitHub 製品全体の最新機能、改善点、修正のソースがすべて 1 か所にまとめられています。\n事業段階別事業紹介\nアドオン GitHub Advanced Security エンタープライズ グレードのコード セキュリティ\nCopilot for business エンタープライズグレードの AI 機能\nプレミアム サポート エンタープライズ レベルの 24 時間年中無休のサポート\nリソース Learn \u0026 Connect ドキュメント\nGitHub Universe GitHub Universe 開発者による、開発者のためのイベント - トーク、ワークショップ、GitHub の次の展開。\n検索 / サインイン サインアップ 外観設定\n別のタブまたはウィンドウでサインインしました。リロードしてセッションを更新します。\n別のタブまたはウィンドウでサインアウトしました。リロードしてセッションを更新します。\n別のタブまたはウィンドウでアカウントを切り替えました。リロードしてセッションを更新します。"
+    },
+    {
+      "rank": 5,
+      "hn_id": 50625293,
+      "title": "Will AI Solve Biology?",
+      "title_ja": "AIは生物学を解決するのか?",
+      "hn_url": "https://news.ycombinator.com/item?id=50625293",
+      "source_url": "https://romainbrette.fr/will-ai-solve-biology/",
+      "image_url": "https://s0.wp.com/i/blank.jpg",
+      "score": 2,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-11-24T08:20:16Z",
+      "summary_ja": "すべてを続けてください\nロマン・ブレット\n研究\n原生動物の知性\nAnthropic の CEO であるダリオ・アモデイ氏は、長期的にはもちろん、今後 5 年以内にほとんどの生物学的問題は AI によって解決されるだろうと繰り返し主張してきました。私の直感では、これは単なる商業プロパガンダだと思いますが、アモデイはそれを心から信じているようです。それに、アモデイさんの学歴は実は私と似ていて（計算神経科学と生物物理学）、彼の主張には少し興味がありました。そこで、私は彼の 2024 年のエッセイ「Machines oflaving Grace」を読んで、彼が何を意味するのかをより正確に理解しました。\n悲しいことに、この議論はほとんどが次の 2 つの誤った考えの変形です。1) AI はより賢くなっています。推定すると、それはすぐにあらゆる場所で人間の知性を超えるでしょう。 2) AI は誰もが解決できないと考えていた問題を解決してきたため、最終的にはすべての問題を解決します。\n彼はエッセイの冒頭で最初の議論を非常に明確に述べています:「純粋な知性という点では、ほとんどの関連分野においてノーベル賞受賞者よりも賢い[でしょう]。これは、未解決の数学的定理を証明したり、非常に優れた小説を書いたり、難しいコードベースをゼロから書いたりできることを意味します。」ここでの問題は、「知性」という言葉が、まったく異なる能力を指す包括的な流行語であるということです。アモデイ氏は、たとえば数学と生物学の違いを理解していないようだ。 AI の大きな躍進は、正式な領域、つまり、ゲーム、コーディング、数学など、全世界がルールによって定義される領域で行われてきました。しかし、物理法則や生物学の法則は現実世界の法則ではなく、現実世界のモデルであり、不確実で未定義の世界を理解するために人間によって作られた暫定的な抽象構造です。この 2 つを混同することは、基本的にモデル a を混同することになります。\n\nそして現実には、それは基本的な認識論的な間違いです。科学を行うこととゲームを解くことは別のことです。"
+    },
+    {
+      "rank": 6,
+      "hn_id": 50625037,
+      "title": "Building AI applications without stitching together multiple back end services",
+      "title_ja": "複数のバックエンド サービスをつなぎ合わせずに AI アプリケーションを構築する",
+      "hn_url": "https://news.ycombinator.com/item?id=50625037",
+      "source_url": "https://www.purple8.ai/",
+      "image_url": "https://www.purple8.ai/opengraph-image?f110f07e90fd4e00",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-11-24T07:49:57Z",
+      "summary_ja": "Purple8 - AI ネイティブ インフラストラクチャ Purple8 クラウドおよびセルフホスト プラン (ビルダー向けに月額 $39 から · インスタント無料サンドボックス): 価格を見る → Purple 8 製品 アーキテクチャ 価格 開発者向けドキュメント ↗ ベンチマーク お問い合わせ Purple 8\n複雑さが軽減されます。無限の可能性。リアルインパクト。\nAI 用に構築され、AI によって操作され、人間によって監視されます。\n読み取り、記憶、理由、回答、実行、保護、証明、複雑な問題を解決するために構築された 1 つのエンジン。\n完全な AI ネイティブ アプリケーション バックエンド (19 の名前空間にわたる 170 以上の MCP ツール) と 70 以上の形式のドキュメント インテリジェンス - ビルダーおよびスタートアップ向けには Purple8 Cloud (月額 39 ドルから)、企業向けにはセルフホスト / ソブリン VPC およびエアギャップとして利用可能です。\nインセプション\nプログラム Purple8 は、NVIDIA Inception プログラム Purple 8 AI ネイティブ実行インフラストラクチャのメンバーです。 AI 用に構築され、AI によって操作され、人間によって監視されます。\n読む・思い出す・理由・答える・走る・守る・証明する\nPurple8 Inc. は、NVIDIA Inception プログラムのメンバーです\n© 2026 Purple8 Inc. 無断複写・転載を禁じます。\n© 2025 NVIDIA、NVIDIA ロゴ、および NVIDIA Inception は、米国およびその他の国における NVIDIA Corporation の商標および/または登録商標です。"
+    },
+    {
+      "rank": 7,
+      "hn_id": 50625336,
+      "title": "Show HN: Harny – AI coding agent for VSCodium/VS Code tuned for small/local LLMs",
+      "title_ja": "Show HN: Harny – 小規模/ローカル LLM 向けに調整された VSCodium/VS Code 用の AI コーディング エージェント",
+      "hn_url": "https://news.ycombinator.com/item?id=50625336",
+      "source_url": "https://harny.dev/",
+      "image_url": "https://harny.dev/assets/img/harny_wall.jpg",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-11-24T08:26:49Z",
+      "summary_ja": "コンテンツにスキップ\nハーニー\nLLM AI ハーネス\nデモ\nなぜ\nモード\nパラレル\nコンテキスト\nツール\n見る\nガード\nMCP\nスキル\nプロバイダー\nインストール\nハーニーをゲット\nSYS.HARNY_CORE // オンライン\nSPLTEKが開発\nCORR_HARVESTER · アクティブ\n--:--:-- ローカル\nSPLTEK・LLM AIハーネス\nアクティビティ バーに常駐する完全なエージェント。プロジェクトを読み取り、ファイルを編集し、\nツール呼び出しを使用して、コマンドを実行し、Web を検索し、フォルダーごとに 1 つの永続的な会話を維持します。\nそしてライブストリーミング。\nご自身のモデルをご持参ください。クラウド、またはラップトップ上のモデル。 1 つのプロトコル:\nOpenAI チャット完了 API。\nOpen VSX からインストールする\nVS コード マーケットプレイス\nGitHub のソース\nツール 13\nプロバイダー 8\n単体テスト 3000+\nMITライセンス\nハーニー\n? + ⚙\n▸\nセッション\n? + ⚙\nハーニー・デヴ ×\nsrc/llm/http.ts でバックオフを使用して再試行し、スイートを実行します。\nビルド · deepseek-v4.1-フラッシュ · 6.9k 入力 · 74 出力 · ⚡ 6.1k ·\n経過 2.3 秒 · 最初のトークン 676 ミリ秒\n▸ 考え中…\nこのパスでは再試行は行われません。429 または 5xx はユーザーに直接返されます。ループは次のようにする必要があります\nクライアントに留まるので、予算は私たちのものとなり、ターンの期限前に停止する必要があります。"
+    }
+  ]
+}

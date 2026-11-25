@@ -1,0 +1,101 @@
+{
+  "date": "2026-11-25",
+  "generated_at": "2026-11-25T03:30:20Z",
+  "articles": [
+    {
+      "rank": 1,
+      "hn_id": 50637725,
+      "title": "Google mandates MCP for AI agents accessing Workspace and restricts direct API",
+      "title_ja": "Google mandates MCP for AI agents accessing Workspace and restricts direct API",
+      "hn_url": "https://news.ycombinator.com/item?id=50637725",
+      "source_url": "https://workspaceupdates.googleblog.com/2026/11/mcp-servers-cli-standardized-usage-tiers-now-available.html",
+      "score": 2,
+      "final_score": 4,
+      "comments": 1,
+      "posted_at": "2026-11-25T02:40:48Z",
+      "summary_ja": "Title: Google mandates MCP for AI agents accessing Workspace and restricts direct API\nArticle title: Google Workspace Updates: Simplifying agent access while keeping organizations in control: MCP servers, CLI, standardized usage tiers, and admin policies\n\nArticle text:\nGoogle Workspace Updates: Simplifying agent access while keeping organizations in control: MCP servers, CLI, standardized usage tiers, and admin policies\nContent \u0026 Collaboration ▾\nGoogle Drive\nAdmin \u0026 Security ▾\nAdmin console\nEducation ▾\nGoogle Workspace for Education\nMore ▾\nGoogle Workspace Marketplace\nSimplifying agent access while keeping organizations in control: MCP servers, CLI, standardized usage tiers, and admin policies\nAs AI agents transform how people work, we want to make it simple for developers to build agentic workflows while keeping organizations in control of their data in Google Workspace. We are making W…"
+    },
+    {
+      "rank": 2,
+      "hn_id": 50637917,
+      "title": "Skip cloud GPUs: batch ML locally on Mac GPU and Neural Engine (up to 11x MLX)",
+      "title_ja": "Skip cloud GPUs: batch ML locally on Mac GPU and Neural Engine (up to 11x MLX)",
+      "hn_url": "https://news.ycombinator.com/item?id=50637917",
+      "source_url": "https://github.com/mikewolfd/fast-silicon",
+      "image_url": "https://opengraph.githubassets.com/48c1daa293e6a8e17a41b8bfa26c84a8c5e6dc5837d6ca851f940501ac84a568/mikewolfd/fast-silicon",
+      "score": 2,
+      "final_score": 4,
+      "comments": 0,
+      "posted_at": "2026-11-25T03:08:03Z",
+      "summary_ja": "Title: Skip cloud GPUs: batch ML locally on Mac GPU and Neural Engine (up to 11x MLX)\nArticle title: GitHub - mikewolfd/fast-silicon: Hardware-limit Apple Silicon (M4 / M5+ Metal 4 MPP + 16-core ANE + CPU SME) ML inference and embedding workspace · GitHub\nDescription: Hardware-limit Apple Silicon (M4 / M5+ Metal 4 MPP + 16-core ANE + CPU SME) ML inference and embedding workspace - mikewolfd/fast-silicon\n\nArticle text:\nGitHub - mikewolfd/fast-silicon: Hardware-limit Apple Silicon (M4 / M5+ Metal 4 MPP + 16-core ANE + CPU SME) ML inference and embedding workspace · GitHub\nSkip to content\nNavigation Menu\nSign in Products Platform GitHub Repository hosting, code review, and collaboration\nCopilot AI coding agent for tasks, projects, and automated work\nBuild \u0026 Ship Actions CI/CD and automation\nCode Quality Quality analysis, fixes, and enforcement\nCodespaces Cloud development environments\nSecur…"
+    },
+    {
+      "rank": 3,
+      "hn_id": 50637987,
+      "title": "Open detection rules for AI agent attack frameworks",
+      "title_ja": "Open detection rules for AI agent attack frameworks",
+      "hn_url": "https://news.ycombinator.com/item?id=50637987",
+      "source_url": "https://github.com/ThreatDefence/agentic-attack-detections",
+      "image_url": "https://repository-images.githubusercontent.com/1464795219/d1137601-3acd-4e93-a98c-f5d3bb45ef7a",
+      "score": 1,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-11-25T03:18:00Z",
+      "summary_ja": "Title: Open detection rules for AI agent attack frameworks\nArticle title: GitHub - ThreatDefence/agentic-attack-detections: Detection rules and IOCs for AI agent attack frameworks: ARTEX, Cairn, PentAGI, HexStrike, CyberStrikeAI, Strix, Hermes Agent, Agent Zero, RedAmon, Xalgorix, Pentest Swarm AI. KQL hunts for Microsoft Sentinel and Defender XDR, Sigma, Suricata, Zeek,\n[truncated]\nDescription: Detection rules and IOCs for AI agent attack frameworks: ARTEX, Cairn, PentAGI, HexStrike, CyberStrikeAI, Strix, Hermes Agent, Agent Zero, RedAmon, Xalgorix, Pentest Swarm AI. KQL hunts for Microsoft Sentinel and Defender XDR, Sigma, Suricata, Zeek, YARA, Splunk, Elastic, STIX 2.1. - ThreatDefence/a\n[truncated]\n\nArticle text:\nGitHub - ThreatDefence/agentic-attack-detections: Detection rules and IOCs for AI agent attack frameworks: ARTEX, Cairn, PentAGI, HexStrike, CyberStrikeAI, Strix, Hermes Age…"
+    },
+    {
+      "rank": 4,
+      "hn_id": 50637722,
+      "title": "Overhyped AI Gateway Features Part 1: Semantic Caching",
+      "title_ja": "Overhyped AI Gateway Features Part 1: Semantic Caching",
+      "hn_url": "https://news.ycombinator.com/item?id=50637722",
+      "source_url": "https://blog.howardjohn.info/posts/overhyped-ai-gateway-1-semantic-caching/",
+      "score": 2,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-11-25T02:40:23Z",
+      "summary_ja": "Title: Overhyped AI Gateway Features Part 1: Semantic Caching\nArticle title: Overhyped AI Gateway Features Part 1: Semantic Caching | howardjohn's blog\nDescription: This is part one of a series.\nOverhyped AI Gateway Features Part 1: Semantic Caching (this post)\nOverhyped AI Gateway Features Part 2: Prompt Compression (coming soon!)\nOverhyped AI Gateway Features Part 3: coming soon!\nOver the past few years of working on an AI/LLM Gateway, I've seen a lot of feat\n[truncated]\n\nArticle text:\nPosts\nOverhyped AI Gateway Features Part 1: Semantic Caching\nOverhyped AI Gateway Features Part 1: Semantic Caching (this post)\nOverhyped AI Gateway Features Part 2: Prompt Compression (coming soon!)\nOverhyped AI Gateway Features Part 3: coming soon!\nOver the past few years of working on an AI/LLM Gateway , I've seen a lot of features go through the hype cycle, treated as magic silver-bullets to cut cost…"
+    },
+    {
+      "rank": 5,
+      "hn_id": 50637995,
+      "title": "Show HN: Carry – Save every AI conversations as Markdown, in a folder you Own",
+      "title_ja": "Show HN: Carry – Save every AI conversations as Markdown, in a folder you Own",
+      "hn_url": "https://news.ycombinator.com/item?id=50637995",
+      "source_url": "https://carry.md/",
+      "image_url": "https://carry.md/og.png",
+      "score": 1,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-11-25T03:19:02Z",
+      "summary_ja": "Title: Show HN: Carry – Save every AI conversations as Markdown, in a folder you Own\nArticle title: Carry — AI Chat Backup, Search \u0026 Continuation\nDescription: Automatically back up ChatGPT, Claude, Gemini and Grok conversations as Markdown in a folder you own. Search saved chats and continue in another AI.\nHN text: Carry let's you automatically save your chats from Gemini, ChatGPT, Claude and Grok as Markdown in a local folder on you computer. You can easily search across all apps and handoff to other if needed with one click.\n\nArticle text:\nCarry — AI Chat Backup, Search \u0026 Continuation Skip to content Black Friday Save $20 on a lifetime license — $59 $79 through Dec 1. $20 off through Dec 1 See offer\nCarry . Platforms ChatGPT Chats, projects, Deep Research and files\nClaude Chats, projects, uploads and Cowork\nGemini Chats, Deep Research and files\nGrok Chats, projects and generated files…"
+    },
+    {
+      "rank": 6,
+      "hn_id": 50637871,
+      "title": "Top open problems in mathematics ranked by LLM-assessed importance",
+      "title_ja": "Top open problems in mathematics ranked by LLM-assessed importance",
+      "hn_url": "https://news.ycombinator.com/item?id=50637871",
+      "source_url": "https://www.proofatlas.ai/open-problems/",
+      "score": 2,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-11-25T03:01:36Z",
+      "summary_ja": "Title: Top open problems in mathematics ranked by LLM-assessed importance\nArticle title: Top 500 Open Math Problems: LLM-assessed Importance — ProofAtlas\nDescription: Top 500 open problems in mathematics, ranked by LLM-assessed importance, with exact statements, dated status notes, sources, and ranking uncertainty.\n\nArticle text:\nSkip to content ProofAtlas Advances Advances Formalizations Formalizations Open problems Problems Mathlib Mathlib Papers \u0026 manuscripts Papers Trust Trust Active research Research Search ProofAtlas\nProofAtlas › Open problems\nTop 500 by importance Top 100 by fame\nThe ProofAtlas ranking\nTop 500 open problems in mathematics\nranked by LLM-assessed importance\nExplore questions in mathematics, computation, and mathematical physics, with exact statements, status notes, and sources.\nThis is a model-based assessment of mathematical importance, not an expert consensus or a…"
+    },
+    {
+      "rank": 7,
+      "hn_id": 50637706,
+      "title": "AI Analytics. Team Approved. Agent Ready",
+      "title_ja": "AI Analytics. Team Approved. Agent Ready",
+      "hn_url": "https://news.ycombinator.com/item?id=50637706",
+      "source_url": "https://www.decube.io/ai-analytics",
+      "image_url": "https://cdn.prod.website-files.com/63ccf2efea97bef692d278ea/69cb690cf12ae1d9c497f032_Open-graph-image-updated_2026-OPT.jpg",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-11-25T02:37:52Z",
+      "summary_ja": "Title: AI Analytics. Team Approved. Agent Ready\nArticle title: AI Analytics \u0026 Semantic Layer: Plain-English Answers on Approved Metrics | Decube\nDescription: Decube AI Analytics answers revenue, margin and pipeline questions in plain English from approved metrics, in Decube or ChatGPT, Claude and Copilot via MCP.\n\nArticle text:\nAI Analytics \u0026 Semantic Layer: Plain-English Answers on Approved Metrics | Decube\nProducts AI Analytics New Ask in plain English. Get answers you can trust.\nDiscover, understand, and organize assets thoroughly.\nSimplify governance and build trust in your data.\nTrace data flow at every step from source to use.\nGovern AI with trusted context and control.\nUnlock data insights with AI-driven suggestions.\nBuild and share trusted data products.\nCatch data issues before they impact teams.\nConnect data and business via shared vocabulary.\nKeep data pipelines reliable and o…"
+    }
+  ]
+}

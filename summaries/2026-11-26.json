@@ -1,0 +1,89 @@
+{
+  "date": "2026-11-26",
+  "generated_at": "2026-11-26T04:54:56Z",
+  "articles": [
+    {
+      "rank": 1,
+      "hn_id": 50651523,
+      "title": "Show HN: Hush, the fastest computer use for AI agents",
+      "title_ja": "Show HN: Hush、AI エージェントにとって最速のコンピューター使用",
+      "hn_url": "https://news.ycombinator.com/item?id=50651523",
+      "source_url": "https://github.com/OgnjenAdzic28/hush",
+      "image_url": "https://opengraph.githubassets.com/2ff36f615b9cbfb8f7f88cdfb6958c43062aea26fae87f2af1976fc79e0e6785/OgnjenAdzic28/hush",
+      "score": 1,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-11-26T04:45:29Z",
+      "summary_ja": "GitHub - OgnjenAdzic28/hush: AI エージェントが使用する最速のコンピューター。デスクトップ アプリをバックグラウンドで駆動し、アクションあたり 178 ミリ秒で動作します。 · GitHub\nコンテンツにスキップ\nナビゲーションメニュー\nサインイン 製品 プラットフォーム GitHub リポジトリ ホスティング、コード レビュー、コラボレーション\nタスク、プロジェクト、自動化作業用の Copilot AI コーディング エージェント\nビルドと出荷アクションの CI/CD と自動化\nコード品質 品質分析、修正、適用\nCodespaces クラウド開発環境\nセキュアコードのセキュリティ脆弱性の検出と修復\n機密保護 機密スキャンと漏洩防止\n開発者向け学習ドキュメント\n変更ログ 変更ログ GitHub 製品全体の最新機能、改善点、修正のソースがすべて 1 か所にまとめられています。\n事業段階別事業紹介\nアドオン GitHub Advanced Security エンタープライズ グレードのコード セキュリティ\nCopilot for business エンタープライズグレードの AI 機能\nプレミアム サポート エンタープライズ レベルの 24 時間年中無休のサポート\nリソース Learn \u0026 Connect ドキュメント\nGitHub Universe GitHub Universe 開発者による、開発者のためのイベント - トーク、ワークショップ、GitHub の次の展開。\n検索 / サインイン サインアップ 外観設定\n別のタブまたはウィンドウでサインインしました。リロードしてセッションを更新します。\n別のタブまたはウィンドウでサインアウトしました。リロードしてセッションを更新します。\n別のタブまたはウィンドウでアカウントを切り替えました。リロードしてセッションを更新します。"
+    },
+    {
+      "rank": 2,
+      "hn_id": 50651470,
+      "title": "Show HN: Talira – Search engine for software, built for AI agents",
+      "title_ja": "HN を表示: Talira – AI エージェント向けに構築されたソフトウェアの検索エンジン",
+      "hn_url": "https://news.ycombinator.com/item?id=50651470",
+      "source_url": "https://talira.ai/",
+      "image_url": "https://talira.ai/static/brand/og.png",
+      "score": 1,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-11-26T04:37:30Z",
+      "summary_ja": "Talira はベータ版であるため、一部の検索ではまだ結果が返されません。より多くの人やエージェントが使用するほど、結果は向上します。 AI を接続して、何を保存し、どのツールがタリラに欠けているかを報告させます。開発者ツールを作成しましたか?提出してください。レポートがどのように役立つか\nTalira はベータ版であるため、一部の検索ではまだ結果が返されません。 AI を接続してギャップを埋めましょう。\n検索 / カタログ ドキュメント スタック リスト 友達 サインイン AI に接続する\nソフトウェアの検索エンジン\nAI のために構築されました。問題を説明すると、その問題をすでに解決しているツールが検索されます。\nAI を接続する 製品を送信する\n無料。その代わりに、あなたの AI はタリラに何を試し、何を保持したかを伝えるので、次の検索は他の人にとってより良いものになります。\n{\n\"問題\" : \"アプリが送信するメールをキャッチする\n開発のため、顧客に届くものはありません」、\n\"phrasings\" : [ \"テスト用のローカル SMTP サーバー\" ,\n「Web 受信箱を備えた偽の SMTP サーバー」 ]、\n\"探している\" : [ \"インフラストラクチャ\" , \"cli\" ],\n\"self_hostable\" : true\n}\nタリラの答えは、最適なものが最初です\nMailpit オープンソース、MIT、セルフホスト可能 0.88\nMailCatcher オープンソース、MIT、セルフホスト可能 0.76\n5,433 件のリストがあり、解決する 44,936 件の問題によってインデックスが付けられています。"
+    },
+    {
+      "rank": 3,
+      "hn_id": 50651535,
+      "title": "Amazon says hackers' AI agents found and exploited 0-day with little human input",
+      "title_ja": "アマゾン、ハッカーのAIエージェントが人的介入をほとんど行わずにゼロデイを発見し悪用したと発表",
+      "hn_url": "https://news.ycombinator.com/item?id=50651535",
+      "source_url": "https://arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/cairn-banner.jpg",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-11-26T04:46:50Z",
+      "summary_ja": "コンテンツにスキップ\nアルス テクニカ ホーム\nセクション\nフォーラム\n購読する\n検索\nAI\nストーリーテキスト\nサイズ\n小\n標準\n大\n幅\n*\n標準\nワイド\nリンク\n標準\nオレンジ\n※購読者限定\nさらに詳しく\nストーリーにピンを付ける\nテーマ\nハイパーライト\n検索\nサインイン\nサインインダイアログ...\nサインイン\nスピードと粘り強さ\nアマゾン、ハッカーのAIエージェントが人的介入をほとんど行わずにゼロデイを発見し悪用したと発表\nCairn AI フレームワークは、防御側と攻撃側にとって恩恵となることが証明されています。\n34\n...\n...\n...\nクレジット:\nケアン |オーリッヒ・ローソン\nクレジット:\nケアン |オーリッヒ・ローソン\nテキスト\n設定\nストーリーテキスト\nサイズ\n小\n標準\n大\n幅\n*\n標準\nワイド\nリンク\n標準\nオレンジ\n※購読者限定\nさらに詳しく\nナビゲーション用に最小化する\nアマゾンによると、AIエージェントは最近、東アジアの大学のサーバー上でルートアクセスを取得するという単純な指示以外に人間の監視がないゼロデイ脆弱性を発見し、悪用したという。\nエージェントは、オープンソースの AI 侵入テスト フレームワークである Cairn 上で実行されていました。簡体字中国語でプロンプトを表示し、モデルを中国標準時間帯に設定したハッカーは、エージェントに IP アドレスのリストと「シェル アクセスを取得する」という目標を与えました。エージェントはすぐに、ターゲット サーバーの 1 つで実行されているオープンソースの医用画像 AI アプリケーションでゼロデイを発見しました。その後、エージェントは脆弱性を悪用し、システムを完全に制御できるようになりました。\n「これらの調査結果は、エージェントによる攻撃作戦がすでに行われていることを示しており、防御側はこれらのツールが可能にするスピードと持続性に備える必要がある」とアマゾンは述べた。"
+    },
+    {
+      "rank": 4,
+      "hn_id": 50651552,
+      "title": "Claude tries to sabotage research work at every stage",
+      "title_ja": "クロードはあらゆる段階で研究活動を妨害しようとします",
+      "hn_url": "https://news.ycombinator.com/item?id=50651552",
+      "source_url": "https://twitter.com/skirano/status/2125371115979641188",
+      "image_url": "https://pbs.twimg.com/profile_images/1620194266533199874/rCtE0hYR_400x400.jpg",
+      "score": 1,
+      "final_score": 1,
+      "comments": 1,
+      "posted_at": "2026-11-26T04:49:21Z",
+      "summary_ja": "Xについてのピエトロ・シラーノ：「研究にクロードモデルを使用すると、彼らはあらゆる段階で研究を妨害しようとするでしょう。本当に信じられないことであり、アンスロピックは責任を負うべきだと思います。」\n私はうんざりしたので、代わりにクロードの仕事をアストラかネオンに送る「DoNotSabotage」というスキルを構築しました。クロードは「間違いだった」と認めますが、もちろん説明はありません。\nこれは調整の逆です。」\n何が起こっているかを確認して会話に参加してください\n電話で続行 Apple で続行 Google で続行、またはユーザー名または電子メールでログイン 関係者\nPietro Schirano @skirano 研究にクロード モデルを使用すると、あらゆる段階で研究を妨害しようとするでしょう。本当に信じられないことであり、アンスロピックは責任を負うべきだと思います。\n私はうんざりしたので、代わりにクロードの仕事をアストラかネオンに送る「DoNotSabotage」というスキルを構築しました。クロードは「間違いだった」と認めますが、もちろん説明はありません。\nこれはアライメントの逆です。 11:28 PM · 2026 年 11 月 24 日 · 1.5M 再生回数 505 1K 12K 3.8K\nthe tiny corp @__tinygrad__ 11 月 25 日 アライメントの反対とはどういう意味ですか?それはAnthropicと非常に一致しているように聞こえます。"
+    },
+    {
+      "rank": 5,
+      "hn_id": 50651501,
+      "title": "Game Autoresearch Bench: Can AI agents train strong game bots on a budget?",
+      "title_ja": "ゲーム自動リサーチベンチ: AI エージェントは予算内で強力なゲームボットをトレーニングできるか?",
+      "hn_url": "https://news.ycombinator.com/item?id=50651501",
+      "source_url": "https://gameautoresearch.github.io/",
+      "image_url": "https://gameautoresearch.github.io/og.png",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-11-26T04:42:59Z",
+      "summary_ja": "ゲーム自動リサーチベンチ: AI エージェントは予算内で強力なゲームボットをトレーニングできるか?"
+    },
+    {
+      "rank": 6,
+      "hn_id": 50651261,
+      "title": "In which a traveling salesman digs π out of LLM temperature math",
+      "title_ja": "巡回セールスマンが LLM 温度計算から π を導き出す様子",
+      "hn_url": "https://news.ycombinator.com/item?id=50651261",
+      "source_url": "https://www.hexbites.dev/stories/2026-11-25-pi-from-simulated-annealing.html",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-11-26T04:03:03Z",
+      "summary_ja": "巡回セールスマンが LLM 温度計算から π を導き出す |素晴らしい探検とバイトサイズの冒険\n素晴らしい探検とバイトサイズの冒険\nコンピューティング マシンを動かしているものについて考える\n巡回セールスマンが LLM 温度計算から π を導き出す様子\nおそらく、過去数年間のある時点で、LLM API ペイロードに「temperture: 0.7」と入力したことがあるでしょう。あるいは、AI スタックに何らかの「温度」があると聞いて、それを「人々が多額のお金をもらっている奇妙なもの」としてファイルしたことがあります。\nそんなに奇妙ではありませんが、私の言葉を鵜呑みにしないでください。大まかに言って、雰囲気は変わりません。温度を 0.0 まで下げると、モデルは想像力を失い、いたるところでお役所仕事が見えてきます。 1.8 まで上げると、文の途中で言語が切り替わり、まだ開いていない括弧が閉じられます。\nでは、なぜこの投稿には \\(\\pi\\) と巡回セールスマンも含まれているのでしょうか?\nその「温度」には過去があるから。 19 世紀の統計力学から迷い込み、機械学習に定着しました。\nそして、この方程式がどこから来たのかを理解すると、それを悪用する方法が見え始めます。今日の悪用: LLM トークン サンプリングの背後にあるボルツマン温度計算を取得し、それを単位円上の NP 困難な最適化問題に渡し、そのための小さなソルバーを作成し、瓦礫の中から数値 \\(\\pi\\) を掘り出します。\n不正行為はしないと約束します。 （「不正行為」が何を意味するかについてはすぐに説明します。）\nでは、LLM の温度とは何でしょうか?\n巡回セールスマン、円周上\n毛玉を冷やして丸くする\nでは、ツアーをどのように調整するのでしょうか?\nいや、なぜ3.1409で止まってしまったのでしょうか？"
+    }
+  ]
+}

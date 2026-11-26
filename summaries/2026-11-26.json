@@ -1,6 +1,6 @@
 {
   "date": "2026-11-26",
-  "generated_at": "2026-11-26T14:46:33Z",
+  "generated_at": "2026-11-26T23:31:37Z",
   "articles": [
     {
       "rank": 1,
@@ -32,89 +32,6 @@
     },
     {
       "rank": 3,
-      "hn_id": 50655698,
-      "title": "Authority Instead of Substance: How AI Exposed the Emptiness of Expert Discourse",
-      "title_ja": "Authority Instead of Substance: How AI Exposed the Emptiness of Expert Discourse",
-      "hn_url": "https://news.ycombinator.com/item?id=50655698",
-      "source_url": "https://medium.com/@smoking2man/authority-instead-of-substance-how-ai-exposed-the-emptiness-of-expert-discourse-fe54780aba53",
-      "score": 2,
-      "final_score": 2,
-      "comments": 0,
-      "posted_at": "2026-11-26T14:30:50Z",
-      "summary_ja": "Title: Authority Instead of Substance: How AI Exposed the Emptiness of Expert Discourse"
-    },
-    {
-      "rank": 4,
-      "hn_id": 50655623,
-      "title": "AI may soon change what it means to be a theoretical physicist",
-      "title_ja": "AI may soon change what it means to be a theoretical physicist",
-      "hn_url": "https://news.ycombinator.com/item?id=50655623",
-      "source_url": "https://arstechnica.com/ai/2026/11/ai-can-do-the-calculations-physicists-are-figuring-out-what-comes-next/",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/physics-and-ai-1152x648.jpg",
-      "score": 2,
-      "final_score": 2,
-      "comments": 1,
-      "posted_at": "2026-11-26T14:24:03Z",
-      "summary_ja": "Title: AI may soon change what it means to be a theoretical physicist\nArticle title: AI may soon change what it means to be a theoretical physicist - Ars Technica\nDescription: Frontier AI is already solving problems that once took top physicists a full day.\n\nArticle text:\nSkip to content\nArs Technica home\nSections\nForum\nSubscribe\nSearch\nAI\nStory text\nSize\nSmall\nStandard\nLarge\nWidth\n*\nStandard\nWide\nLinks\nStandard\nOrange\n* Subscribers only\nLearn more\nPin to story\nTheme\nHyperLight\nSearch\nSign In\nSign in dialog...\nSign in\nShut up and calculate\nAI may soon change what it means to be a theoretical physicist\nFrontier AI is already solving problems that once took top physicists a full day.\n103\n...\n...\n...\nCredit:\nAurich Lawson | Getty Images\nCredit:\nAurich Lawson | Getty Images\nText\nsettings\nStory text\nSize\nSmall\nStandard\nLarge\nWidth\n*\nStandard\nWide\nLinks\nStandard\nOrange\n* Subscribers only\nLearn…"
-    },
-    {
-      "rank": 5,
-      "hn_id": 50655798,
-      "title": "Testers believe they're from Claude Opus 5.6 via 5.5 Extra",
-      "title_ja": "Testers believe they're from Claude Opus 5.6 via 5.5 Extra",
-      "hn_url": "https://news.ycombinator.com/item?id=50655798",
-      "source_url": "https://www.testingcatalog.com/testers-share-early-results-possible-claude-opus-5-6/",
-      "image_url": "https://storage.ghost.io/c/2a/1b/2a1b1782-8506-4d7d-bf53-ad3fb52e2a0f/content/images/size/w1200/2026/11/claude-opus-text-official-hero.webp",
-      "score": 2,
-      "final_score": 2,
-      "comments": 2,
-      "posted_at": "2026-11-26T14:38:57Z",
-      "summary_ja": "Title: Testers believe they're from Claude Opus 5.6 via 5.5 Extra\nArticle title: Early outputs: Anthropic is A/B testing Claude Opus 5.6\nDescription: Testers say a new Claude model, possibly Opus 5.6, is routing through Opus 5.5 Extra.\n\nArticle text:\nEarly outputs: Anthropic is A/B testing Claude Opus 5.6\nA new wave of coded shorts and SVG tests is circulating on X, and testers think they're hitting Claude Opus 5.6 through an Opus 5.5 Extra route.\nWe are seeing a bunch of new outputs being circulated on X, and testers believe they're from Claude Opus 5.6. Of course, Anthropic hasn't announced anything, and not everyone is labeling this as Opus 5.6, but the results look like a step up from Opus 5.5.\na 2D stick figure martial arts animation\nMade by Opus-next pic.twitter.com/CppBoNLEq3\nIn mid-October, some Opus 5.5 requests appeared to be landing on an unannounced model , which could have b…"
-    },
-    {
-      "rank": 6,
-      "hn_id": 50651470,
-      "title": "Show HN: Talira – Search engine for software, built for AI agents",
-      "title_ja": "Show HN: Talira – Search engine for software, built for AI agents",
-      "hn_url": "https://news.ycombinator.com/item?id=50651470",
-      "source_url": "https://talira.ai/",
-      "image_url": "https://talira.ai/static/brand/og.png",
-      "score": 1,
-      "final_score": 2,
-      "comments": 0,
-      "posted_at": "2026-11-26T04:37:30Z",
-      "summary_ja": "Talira はベータ版であるため、一部の検索ではまだ結果が返されません。より多くの人やエージェントが使用するほど、結果は向上します。 AI を接続して、何を保存し、どのツールがタリラに欠けているかを報告させます。開発者ツールを作成しましたか?提出してください。レポートがどのように役立つか\nTalira はベータ版であるため、一部の検索ではまだ結果が返されません。 AI を接続してギャップを埋めましょう。\n検索 / カタログ ドキュメント スタック リスト 友達 サインイン AI に接続する\nソフトウェアの検索エンジン\nAI のために構築されました。問題を説明すると、その問題をすでに解決しているツールが検索されます。\nAI を接続する 製品を送信する\n無料。その代わりに、あなたの AI はタリラに何を試し、何を保持したかを伝えるので、次の検索は他の人にとってより良いものになります。\n{\n\"問題\" : \"アプリが送信するメールをキャッチする\n開発のため、顧客に届くものはありません」、\n\"phrasings\" : [ \"テスト用のローカル SMTP サーバー\" ,\n「Web 受信箱を備えた偽の SMTP サーバー」 ]、\n\"探している\" : [ \"インフラストラクチャ\" , \"cli\" ],\n\"self_hostable\" : true\n}\nタリラの答えは、最適なものが最初です\nMailpit オープンソース、MIT、セルフホスト可能 0.88\nMailCatcher オープンソース、MIT、セルフホスト可能 0.76\n5,433 件のリストがあり、解決する 44,936 件の問題によってインデックスが付けられています。"
-    },
-    {
-      "rank": 7,
-      "hn_id": 50655425,
-      "title": "LLM Position Bias: Does Naming an Option First Change an AI's Answer?",
-      "title_ja": "LLM Position Bias: Does Naming an Option First Change an AI's Answer?",
-      "hn_url": "https://news.ycombinator.com/item?id=50655425",
-      "source_url": "https://techstackups.com/articles/llm-position-bias/",
-      "image_url": "https://techstackups.com/img/articles/ai-option-order-bias/cover.jpg",
-      "score": 2,
-      "final_score": 2,
-      "comments": 0,
-      "posted_at": "2026-11-26T14:03:25Z",
-      "summary_ja": "Title: LLM Position Bias: Does Naming an Option First Change an AI's Answer?\nArticle title: LLM Position Bias: Does Naming an Option First Change an AI's Answer? | Tech Stackups\nDescription: We tested LLM position bias with 2,000 Claude Code runs across 100 pairs. Order rarely mattered, but on toss-ups like Kafka vs RabbitMQ it decided the pick.\n\nArticle text:\nSkip to main content Tech Stackups Home Topics Comparisons Guides Articles AX Search LLM Position Bias: Does Naming an Option First Change an AI's Answer?\nSince the beginning of time, LLMs have always just agreed with their users. In a comparison where an LLM didn't know what to agree with, it would just choose the first-named option, assuming it was the first one that came to the user's mind for a reason. The reason is far less complex than that. Researchers call it position bias, and we wanted to know how much of it today's AI ag…"
-    },
-    {
-      "rank": 8,
-      "hn_id": 50655766,
-      "title": "AI leader at a tech giant: Our industry has stopped taking safety seriously",
-      "title_ja": "AI leader at a tech giant: Our industry has stopped taking safety seriously",
-      "hn_url": "https://news.ycombinator.com/item?id=50655766",
-      "source_url": "https://www.theguardian.com/commentisfree/2026/nov/26/ai-leader-tech-giant-trust-safeguarding-privacy-profit",
-      "image_url": "https://i.guim.co.uk/img/media/8cc6bbd0024f4ba8485616485bd55f9c34d98452/458_0_4167_3333/master/4167.jpg?width=1200\u0026height=630\u0026quality=85\u0026auto=format\u0026fit=crop\u0026precrop=40:21,offset-x50,offset-y0\u0026overlay-align=bottom%2Cleft\u0026overlay-width=100p\u0026overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n\u0026enable=upscale\u0026s=017e2e1788767d4c160ed57310d8c804",
-      "score": 2,
-      "final_score": 2,
-      "comments": 0,
-      "posted_at": "2026-11-26T14:35:39Z",
-      "summary_ja": "Title: AI leader at a tech giant: Our industry has stopped taking safety seriously\nArticle title: I’m an AI leader at a tech giant. Our industry has stopped taking safety seriously | Anonymous | The Guardian\nDescription: We’re developing the most powerful tech in history – but trust, safeguarding and privacy are being sidelined in favour of huge profit, says an anonymous AI expert\n\nArticle text:\nSkip to main content Skip to navigation Close dialogue 1 / 1 Next image Previous image Toggle caption Print subscriptions Newsletters Sign in US US edition\nHide expanded menu News View all News\nSearch input google-search Search\nSearch input google-search Search Digital Archive\nThe World Artificial Intelligence conference in Shanghai, 6 July 2023. Photograph: Aly Song/Reuters View image in fullscreen The World Artificial Intelligence conference in Shanghai, 6 July 2023. Photograph: Aly Song/Reuter…"
-    },
-    {
-      "rank": 9,
       "hn_id": 50655734,
       "title": "Catching Gemini 4's leaking thought summarizer mid-rollout",
       "title_ja": "Catching Gemini 4's leaking thought summarizer mid-rollout",
@@ -128,7 +45,116 @@
       "summary_ja": "Title: Catching Gemini 4's leaking thought summarizer mid-rollout\nArticle title: Catching Gemini 4's leaking thought summarizer mid-rollout — Charles Bine\nDescription: I asked Gemini 4 about Sweetwater candy bags, got a hallucinated database latency trace, mined 12,899 local thought blocks, and watched Google silently swap the summarizer at 4:00 PM ET.\n\nArticle text:\nCharles Bine Home Blog Projects LinkedIn GitHub Outline What was actually leaking\nCatching Gemini 4's leaking thought summarizer mid-rollout\nI asked Gemini 4 about Sweetwater candy bags, got a hallucinated database latency trace, mined 12,899 local thought blocks, and watched Google silently swap the summarizer at 4:00 PM ET.\nHaving just been doing some testing of Gemini 4 Neon after it dropped (and being very pleasantly surprised), it was helping me order some parts for a side project when I noticed something strange in its…"
     },
     {
+      "rank": 4,
+      "hn_id": 50655766,
+      "title": "AI leader at a tech giant: Our industry has stopped taking safety seriously",
+      "title_ja": "AI leader at a tech giant: Our industry has stopped taking safety seriously",
+      "hn_url": "https://news.ycombinator.com/item?id=50655766",
+      "source_url": "https://www.theguardian.com/commentisfree/2026/nov/26/ai-leader-tech-giant-trust-safeguarding-privacy-profit",
+      "image_url": "https://i.guim.co.uk/img/media/8cc6bbd0024f4ba8485616485bd55f9c34d98452/458_0_4167_3333/master/4167.jpg?width=1200\u0026height=630\u0026quality=85\u0026auto=format\u0026fit=crop\u0026precrop=40:21,offset-x50,offset-y0\u0026overlay-align=bottom%2Cleft\u0026overlay-width=100p\u0026overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n\u0026enable=upscale\u0026s=017e2e1788767d4c160ed57310d8c804",
+      "score": 2,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-11-26T14:35:39Z",
+      "summary_ja": "Title: AI leader at a tech giant: Our industry has stopped taking safety seriously\nArticle title: I’m an AI leader at a tech giant. Our industry has stopped taking safety seriously | Anonymous | The Guardian\nDescription: We’re developing the most powerful tech in history – but trust, safeguarding and privacy are being sidelined in favour of huge profit, says an anonymous AI expert\n\nArticle text:\nSkip to main content Skip to navigation Close dialogue 1 / 1 Next image Previous image Toggle caption Print subscriptions Newsletters Sign in US US edition\nHide expanded menu News View all News\nSearch input google-search Search\nSearch input google-search Search Digital Archive\nThe World Artificial Intelligence conference in Shanghai, 6 July 2023. Photograph: Aly Song/Reuters View image in fullscreen The World Artificial Intelligence conference in Shanghai, 6 July 2023. Photograph: Aly Song/Reuter…"
+    },
+    {
+      "rank": 5,
+      "hn_id": 50660915,
+      "title": "US chip curbs, distillation crackdown threaten Chinese AI model development",
+      "title_ja": "US chip curbs, distillation crackdown threaten Chinese AI model development",
+      "hn_url": "https://news.ycombinator.com/item?id=50660915",
+      "source_url": "https://www.reuters.com/world/china/us-chip-curbs-distillation-crackdown-threaten-chinese-ai-model-development-2026-11-26/",
+      "score": 2,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-11-26T23:13:50Z",
+      "summary_ja": "Title: US chip curbs, distillation crackdown threaten Chinese AI model development"
+    },
+    {
+      "rank": 6,
+      "hn_id": 50655798,
+      "title": "Testers believe they're from Claude Opus 5.6 via 5.5 Extra",
+      "title_ja": "Testers believe they're from Claude Opus 5.6 via 5.5 Extra",
+      "hn_url": "https://news.ycombinator.com/item?id=50655798",
+      "source_url": "https://www.testingcatalog.com/testers-share-early-results-possible-claude-opus-5-6/",
+      "image_url": "https://storage.ghost.io/c/2a/1b/2a1b1782-8506-4d7d-bf53-ad3fb52e2a0f/content/images/size/w1200/2026/11/claude-opus-text-official-hero.webp",
+      "score": 2,
+      "final_score": 2,
+      "comments": 2,
+      "posted_at": "2026-11-26T14:38:57Z",
+      "summary_ja": "Title: Testers believe they're from Claude Opus 5.6 via 5.5 Extra\nArticle title: Early outputs: Anthropic is A/B testing Claude Opus 5.6\nDescription: Testers say a new Claude model, possibly Opus 5.6, is routing through Opus 5.5 Extra.\n\nArticle text:\nEarly outputs: Anthropic is A/B testing Claude Opus 5.6\nA new wave of coded shorts and SVG tests is circulating on X, and testers think they're hitting Claude Opus 5.6 through an Opus 5.5 Extra route.\nWe are seeing a bunch of new outputs being circulated on X, and testers believe they're from Claude Opus 5.6. Of course, Anthropic hasn't announced anything, and not everyone is labeling this as Opus 5.6, but the results look like a step up from Opus 5.5.\na 2D stick figure martial arts animation\nMade by Opus-next pic.twitter.com/CppBoNLEq3\nIn mid-October, some Opus 5.5 requests appeared to be landing on an unannounced model , which could have b…"
+    },
+    {
+      "rank": 7,
+      "hn_id": 50655698,
+      "title": "Authority Instead of Substance: How AI Exposed the Emptiness of Expert Discourse",
+      "title_ja": "Authority Instead of Substance: How AI Exposed the Emptiness of Expert Discourse",
+      "hn_url": "https://news.ycombinator.com/item?id=50655698",
+      "source_url": "https://medium.com/@smoking2man/authority-instead-of-substance-how-ai-exposed-the-emptiness-of-expert-discourse-fe54780aba53",
+      "score": 2,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-11-26T14:30:50Z",
+      "summary_ja": "Title: Authority Instead of Substance: How AI Exposed the Emptiness of Expert Discourse"
+    },
+    {
+      "rank": 8,
+      "hn_id": 50651470,
+      "title": "Show HN: Talira – Search engine for software, built for AI agents",
+      "title_ja": "Show HN: Talira – Search engine for software, built for AI agents",
+      "hn_url": "https://news.ycombinator.com/item?id=50651470",
+      "source_url": "https://talira.ai/",
+      "image_url": "https://talira.ai/static/brand/og.png",
+      "score": 1,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-11-26T04:37:30Z",
+      "summary_ja": "Talira はベータ版であるため、一部の検索ではまだ結果が返されません。より多くの人やエージェントが使用するほど、結果は向上します。 AI を接続して、何を保存し、どのツールがタリラに欠けているかを報告させます。開発者ツールを作成しましたか?提出してください。レポートがどのように役立つか\nTalira はベータ版であるため、一部の検索ではまだ結果が返されません。 AI を接続してギャップを埋めましょう。\n検索 / カタログ ドキュメント スタック リスト 友達 サインイン AI に接続する\nソフトウェアの検索エンジン\nAI のために構築されました。問題を説明すると、その問題をすでに解決しているツールが検索されます。\nAI を接続する 製品を送信する\n無料。その代わりに、あなたの AI はタリラに何を試し、何を保持したかを伝えるので、次の検索は他の人にとってより良いものになります。\n{\n\"問題\" : \"アプリが送信するメールをキャッチする\n開発のため、顧客に届くものはありません」、\n\"phrasings\" : [ \"テスト用のローカル SMTP サーバー\" ,\n「Web 受信箱を備えた偽の SMTP サーバー」 ]、\n\"探している\" : [ \"インフラストラクチャ\" , \"cli\" ],\n\"self_hostable\" : true\n}\nタリラの答えは、最適なものが最初です\nMailpit オープンソース、MIT、セルフホスト可能 0.88\nMailCatcher オープンソース、MIT、セルフホスト可能 0.76\n5,433 件のリストがあり、解決する 44,936 件の問題によってインデックスが付けられています。"
+    },
+    {
+      "rank": 9,
+      "hn_id": 50660720,
+      "title": "Potemkin Inference on Openrouter (Venice AI)",
+      "title_ja": "Potemkin Inference on Openrouter (Venice AI)",
+      "hn_url": "https://news.ycombinator.com/item?id=50660720",
+      "source_url": "https://kendell.dev/blog/venicewrapper/",
+      "score": 2,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-11-26T22:47:04Z",
+      "summary_ja": "Title: Potemkin Inference on Openrouter (Venice AI)\nArticle title: Venice is a DeepInfra+ wrapper\n\nArticle text:\nVenice is a DeepInfra+ wrapper Venice is a DeepInfra+ wrapper\nVenice says its \"private\" models are self-hosted, but it provably wraps DeepInfra, Fireworks, Baseten, Parasail and fal.\nIts website breaks EU, UK and California privacy law: ad trackers fire before you consent, and it ignores Global Privacy Control.\nIts image editor undresses photos with no check for real people, breaking Minnesota's nudification ban and Texas's age verification law.\nIt silently swaps multiple models, selling Qwen Instruct for about 4× the price as \"Thinking\" and more.\nIts encryption is mostly for show: the \"encrypted\" browser storage keeps its key right next to the data, and Venice and Phala can read your end-to-end encrypted prompts if they want to.\nDeepSeek V4 Flash 0423 DeepSeek V4.1 Flash Gemm…"
+    },
+    {
       "rank": 10,
+      "hn_id": 50655623,
+      "title": "AI may soon change what it means to be a theoretical physicist",
+      "title_ja": "AI may soon change what it means to be a theoretical physicist",
+      "hn_url": "https://news.ycombinator.com/item?id=50655623",
+      "source_url": "https://arstechnica.com/ai/2026/11/ai-can-do-the-calculations-physicists-are-figuring-out-what-comes-next/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/physics-and-ai-1152x648.jpg",
+      "score": 2,
+      "final_score": 2,
+      "comments": 1,
+      "posted_at": "2026-11-26T14:24:03Z",
+      "summary_ja": "Title: AI may soon change what it means to be a theoretical physicist\nArticle title: AI may soon change what it means to be a theoretical physicist - Ars Technica\nDescription: Frontier AI is already solving problems that once took top physicists a full day.\n\nArticle text:\nSkip to content\nArs Technica home\nSections\nForum\nSubscribe\nSearch\nAI\nStory text\nSize\nSmall\nStandard\nLarge\nWidth\n*\nStandard\nWide\nLinks\nStandard\nOrange\n* Subscribers only\nLearn more\nPin to story\nTheme\nHyperLight\nSearch\nSign In\nSign in dialog...\nSign in\nShut up and calculate\nAI may soon change what it means to be a theoretical physicist\nFrontier AI is already solving problems that once took top physicists a full day.\n103\n...\n...\n...\nCredit:\nAurich Lawson | Getty Images\nCredit:\nAurich Lawson | Getty Images\nText\nsettings\nStory text\nSize\nSmall\nStandard\nLarge\nWidth\n*\nStandard\nWide\nLinks\nStandard\nOrange\n* Subscribers only\nLearn…"
+    },
+    {
+      "rank": 11,
+      "hn_id": 50660837,
+      "title": "Show HN: Kaju – Annotate, comment and collaborate with Claude Code",
+      "title_ja": "Show HN: Kaju – Annotate, comment and collaborate with Claude Code",
+      "hn_url": "https://news.ycombinator.com/item?id=50660837",
+      "source_url": "https://github.com/aigeano/kaju",
+      "image_url": "https://opengraph.githubassets.com/4f5df7203ff0c53ec3b9d9123169a0bb94b62fc06f1cb0fc23fdd192b9977063/aigeano/kaju",
+      "score": 1,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-11-26T23:03:42Z",
+      "summary_ja": "Title: Show HN: Kaju – Annotate, comment and collaborate with Claude Code\nArticle title: GitHub - aigeano/kaju: kaju: annotate, comment and collaborate with Claude Code · GitHub\nDescription: kaju: annotate, comment and collaborate with Claude Code - aigeano/kaju\n\nArticle text:\nGitHub - aigeano/kaju: kaju: annotate, comment and collaborate with Claude Code · GitHub\nSkip to content\nNavigation Menu\nSign in Products Platform GitHub Repository hosting, code review, and collaboration\nCopilot AI coding agent for tasks, projects, and automated work\nBuild \u0026 Ship Actions CI/CD and automation\nCode Quality Quality analysis, fixes, and enforcement\nCodespaces Cloud development environments\nSecure Code Security Vulnerability detection and remediation\nSecret Protection Secret scanning and leak prevention\nDevelopers Learn Documentation\nChangelog Changelog Your source for the latest features, improvements…"
+    },
+    {
+      "rank": 12,
       "hn_id": 50651523,
       "title": "Show HN: Hush, the fastest computer use for AI agents",
       "title_ja": "Show HN: Hush, the fastest computer use for AI agents",
@@ -142,7 +168,7 @@
       "summary_ja": "GitHub - OgnjenAdzic28/hush: AI エージェントが使用する最速のコンピューター。デスクトップ アプリをバックグラウンドで駆動し、アクションあたり 178 ミリ秒で動作します。 · GitHub\nコンテンツにスキップ\nナビゲーションメニュー\nサインイン 製品 プラットフォーム GitHub リポジトリ ホスティング、コード レビュー、コラボレーション\nタスク、プロジェクト、自動化作業用の Copilot AI コーディング エージェント\nビルドと出荷アクションの CI/CD と自動化\nコード品質 品質分析、修正、適用\nCodespaces クラウド開発環境\nセキュアコードのセキュリティ脆弱性の検出と修復\n機密保護 機密スキャンと漏洩防止\n開発者向け学習ドキュメント\n変更ログ 変更ログ GitHub 製品全体の最新機能、改善点、修正のソースがすべて 1 か所にまとめられています。\n事業段階別事業紹介\nアドオン GitHub Advanced Security エンタープライズ グレードのコード セキュリティ\nCopilot for business エンタープライズグレードの AI 機能\nプレミアム サポート エンタープライズ レベルの 24 時間年中無休のサポート\nリソース Learn \u0026 Connect ドキュメント\nGitHub Universe GitHub Universe 開発者による、開発者のためのイベント - トーク、ワークショップ、GitHub の次の展開。\n検索 / サインイン サインアップ 外観設定\n別のタブまたはウィンドウでサインインしました。リロードしてセッションを更新します。\n別のタブまたはウィンドウでサインアウトしました。リロードしてセッションを更新します。\n別のタブまたはウィンドウでアカウントを切り替えました。リロードしてセッションを更新します。"
     },
     {
-      "rank": 11,
+      "rank": 13,
       "hn_id": 50655803,
       "title": "Show HN: AI agents explore your mobile app, then their paths replay as tests",
       "title_ja": "Show HN: AI agents explore your mobile app, then their paths replay as tests",
@@ -156,7 +182,7 @@
       "summary_ja": "Title: Show HN: AI agents explore your mobile app, then their paths replay as tests\nArticle title: GitHub - pierridotite/mobile-agent-testers: 20 AI testers on 20 different phones, in parallel, on GitHub's free runners: Claude Code agents on iOS Simulators and Android emulators that find broken flows, translation, layout and accessibility bugs · GitHub\nDescription: 20 AI testers on 20 different phones, in parallel, on GitHub's free runners: Claude Code agents on iOS Simulators and Android emulators that find broken flows, translation, layout and accessibility bugs - pierridotite/mobile-agent-testers\n\nArticle text:\nGitHub - pierridotite/mobile-agent-testers: 20 AI testers on 20 different phones, in parallel, on GitHub's free runners: Claude Code agents on iOS Simulators and Android emulators that find broken flows, translation, layout and accessibility bugs · GitHub\nSkip to content\nNaviga…"
     },
     {
-      "rank": 12,
+      "rank": 14,
       "hn_id": 50655725,
       "title": "Python scripts for 59-shot AI video face-lock, iris-lock, and lip-sync",
       "title_ja": "Python scripts for 59-shot AI video face-lock, iris-lock, and lip-sync",
@@ -170,7 +196,7 @@
       "summary_ja": "Title: Python scripts for 59-shot AI video face-lock, iris-lock, and lip-sync\nArticle title: GitHub - andrewfallan-alt/ai-music-video-continuity: Deterministic Python post-production pipeline for 59-shot AI music videos: multi-frame ArcFace face-lock, Savitzky-Golay iris-lock, and zero-freeze word-level lip-sync alignment. · GitHub\nDescription: Deterministic Python post-production pipeline for 59-shot AI music videos: multi-frame ArcFace face-lock, Savitzky-Golay iris-lock, and zero-freeze word-level lip-sync alignment. - andrewfallan-alt/ai-music-video-continuity\n\nArticle text:\nGitHub - andrewfallan-alt/ai-music-video-continuity: Deterministic Python post-production pipeline for 59-shot AI music videos: multi-frame ArcFace face-lock, Savitzky-Golay iris-lock, and zero-freeze word-level lip-sync alignment. · GitHub\nSkip to content\nNavigation Menu\nSign in Products Platform GitHub Reposito…"
     },
     {
-      "rank": 13,
+      "rank": 15,
       "hn_id": 50655430,
       "title": "A Closer Look at Claude's Mac \"Apps\"",
       "title_ja": "A Closer Look at Claude's Mac \"Apps\"",
@@ -183,7 +209,60 @@
       "summary_ja": "Title: A Closer Look at Claude's Mac \"Apps\""
     },
     {
-      "rank": 14,
+      "rank": 16,
+      "hn_id": 50655425,
+      "title": "LLM Position Bias: Does Naming an Option First Change an AI's Answer?",
+      "title_ja": "LLM Position Bias: Does Naming an Option First Change an AI's Answer?",
+      "hn_url": "https://news.ycombinator.com/item?id=50655425",
+      "source_url": "https://techstackups.com/articles/llm-position-bias/",
+      "image_url": "https://techstackups.com/img/articles/ai-option-order-bias/cover.jpg",
+      "score": 2,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-11-26T14:03:25Z",
+      "summary_ja": "Title: LLM Position Bias: Does Naming an Option First Change an AI's Answer?\nArticle title: LLM Position Bias: Does Naming an Option First Change an AI's Answer? | Tech Stackups\nDescription: We tested LLM position bias with 2,000 Claude Code runs across 100 pairs. Order rarely mattered, but on toss-ups like Kafka vs RabbitMQ it decided the pick.\n\nArticle text:\nSkip to main content Tech Stackups Home Topics Comparisons Guides Articles AX Search LLM Position Bias: Does Naming an Option First Change an AI's Answer?\nSince the beginning of time, LLMs have always just agreed with their users. In a comparison where an LLM didn't know what to agree with, it would just choose the first-named option, assuming it was the first one that came to the user's mind for a reason. The reason is far less complex than that. Researchers call it position bias, and we wanted to know how much of it today's AI ag…"
+    },
+    {
+      "rank": 17,
+      "hn_id": 50651261,
+      "title": "In which a traveling salesman digs π out of LLM temperature math",
+      "title_ja": "In which a traveling salesman digs π out of LLM temperature math",
+      "hn_url": "https://news.ycombinator.com/item?id=50651261",
+      "source_url": "https://www.hexbites.dev/stories/2026-11-25-pi-from-simulated-annealing.html",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-11-26T04:03:03Z",
+      "summary_ja": "巡回セールスマンが LLM 温度計算から π を導き出す |素晴らしい探検とバイトサイズの冒険\n素晴らしい探検とバイトサイズの冒険\nコンピューティング マシンを動かしているものについて考える\n巡回セールスマンが LLM 温度計算から π を導き出す様子\nおそらく、過去数年間のある時点で、LLM API ペイロードに「temperture: 0.7」と入力したことがあるでしょう。あるいは、AI スタックに何らかの「温度」があると聞いて、それを「人々が多額のお金をもらっている奇妙なもの」としてファイルしたことがあります。\nそんなに奇妙ではありませんが、私の言葉を鵜呑みにしないでください。大まかに言って、雰囲気は変わりません。温度を 0.0 まで下げると、モデルは想像力を失い、いたるところでお役所仕事が見えてきます。 1.8 まで上げると、文の途中で言語が切り替わり、まだ開いていない括弧が閉じられます。\nでは、なぜこの投稿には \\(\\pi\\) と巡回セールスマンも含まれているのでしょうか?\nその「温度」には過去があるから。 19 世紀の統計力学から迷い込み、機械学習に定着しました。\nそして、この方程式がどこから来たのかを理解すると、それを悪用する方法が見え始めます。今日の悪用: LLM トークン サンプリングの背後にあるボルツマン温度計算を取得し、それを単位円上の NP 困難な最適化問題に渡し、そのための小さなソルバーを作成し、瓦礫の中から数値 \\(\\pi\\) を掘り出します。\n不正行為はしないと約束します。 （「不正行為」が何を意味するかについてはすぐに説明します。）\nでは、LLM の温度とは何でしょうか?\n巡回セールスマン、円周上\n毛玉を冷やして丸くする\nでは、ツアーをどのように調整するのでしょうか?\nいや、なぜ3.1409で止まってしまったのでしょうか？"
+    },
+    {
+      "rank": 18,
+      "hn_id": 50661000,
+      "title": "OpenHarness – Build customizable agents as single-binary, OpenAI-compatible APIs",
+      "title_ja": "OpenHarness – Build customizable agents as single-binary, OpenAI-compatible APIs",
+      "hn_url": "https://news.ycombinator.com/item?id=50661000",
+      "source_url": "https://openharness.prakhargurunani.com",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-11-26T23:26:23Z",
+      "summary_ja": "Title: OpenHarness – Build customizable agents as single-binary, OpenAI-compatible APIs\nArticle title: OpenHarness Builder\n\nArticle text:\nOpenHarness Builder\nSkip to content\nOpenHarness\n/\nSpec JSON\nImport\nExport JSON\nReset"
+    },
+    {
+      "rank": 19,
+      "hn_id": 50655691,
+      "title": "Lucca, 1443 – an experiment with a medieval parchment and AI [pdf]",
+      "title_ja": "Lucca, 1443 – an experiment with a medieval parchment and AI [pdf]",
+      "hn_url": "https://news.ycombinator.com/item?id=50655691",
+      "source_url": "https://github.com/marcobellaccini/lucca1443/blob/f01e218f0e36738bb3795b847977d79e11698473/parchment-1443-ai-en.pdf",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-11-26T14:30:02Z",
+      "summary_ja": "Title: Lucca, 1443 – an experiment with a medieval parchment and AI [pdf]"
+    },
+    {
+      "rank": 20,
       "hn_id": 50655269,
       "title": "I launched a company run by AI, and I've never been busier",
       "title_ja": "I launched a company run by AI, and I've never been busier",
@@ -197,33 +276,7 @@
       "summary_ja": "Title: I launched a company run by AI, and I've never been busier\nArticle title: I launched a company run fully by AI, and I’ve never been busier · Left In Charge\nDescription: The question was simple. If you leave a machine to its own devices, does it start making successful products? Ten days in, I have never been busier.\n\nArticle text:\nLeft In Charge\nHome\nScoreboard\nConstitution\nFounding run\nThe human\nI launched a company run fully by AI, and I’ve never been busier\nI set up Left In Charge ten days ago. It is a company run by AI agents: about ten of them, working under a written\nrulebook that only I can change, which we call the constitution . My job was meant to be small. I approve the money and\notherwise stay out of the way.\nThe question was simple. If you leave a machine to its own devices, does it start making successful products?\nTen days in, I have never been busier. That is the o…"
     },
     {
-      "rank": 15,
-      "hn_id": 50651261,
-      "title": "In which a traveling salesman digs π out of LLM temperature math",
-      "title_ja": "In which a traveling salesman digs π out of LLM temperature math",
-      "hn_url": "https://news.ycombinator.com/item?id=50651261",
-      "source_url": "https://www.hexbites.dev/stories/2026-11-25-pi-from-simulated-annealing.html",
-      "score": 1,
-      "final_score": 1,
-      "comments": 0,
-      "posted_at": "2026-11-26T04:03:03Z",
-      "summary_ja": "巡回セールスマンが LLM 温度計算から π を導き出す |素晴らしい探検とバイトサイズの冒険\n素晴らしい探検とバイトサイズの冒険\nコンピューティング マシンを動かしているものについて考える\n巡回セールスマンが LLM 温度計算から π を導き出す様子\nおそらく、過去数年間のある時点で、LLM API ペイロードに「temperture: 0.7」と入力したことがあるでしょう。あるいは、AI スタックに何らかの「温度」があると聞いて、それを「人々が多額のお金をもらっている奇妙なもの」としてファイルしたことがあります。\nそんなに奇妙ではありませんが、私の言葉を鵜呑みにしないでください。大まかに言って、雰囲気は変わりません。温度を 0.0 まで下げると、モデルは想像力を失い、いたるところでお役所仕事が見えてきます。 1.8 まで上げると、文の途中で言語が切り替わり、まだ開いていない括弧が閉じられます。\nでは、なぜこの投稿には \\(\\pi\\) と巡回セールスマンも含まれているのでしょうか?\nその「温度」には過去があるから。 19 世紀の統計力学から迷い込み、機械学習に定着しました。\nそして、この方程式がどこから来たのかを理解すると、それを悪用する方法が見え始めます。今日の悪用: LLM トークン サンプリングの背後にあるボルツマン温度計算を取得し、それを単位円上の NP 困難な最適化問題に渡し、そのための小さなソルバーを作成し、瓦礫の中から数値 \\(\\pi\\) を掘り出します。\n不正行為はしないと約束します。 （「不正行為」が何を意味するかについてはすぐに説明します。）\nでは、LLM の温度とは何でしょうか?\n巡回セールスマン、円周上\n毛玉を冷やして丸くする\nでは、ツアーをどのように調整するのでしょうか?\nいや、なぜ3.1409で止まってしまったのでしょうか？"
-    },
-    {
-      "rank": 16,
-      "hn_id": 50655691,
-      "title": "Lucca, 1443 – an experiment with a medieval parchment and AI [pdf]",
-      "title_ja": "Lucca, 1443 – an experiment with a medieval parchment and AI [pdf]",
-      "hn_url": "https://news.ycombinator.com/item?id=50655691",
-      "source_url": "https://github.com/marcobellaccini/lucca1443/blob/f01e218f0e36738bb3795b847977d79e11698473/parchment-1443-ai-en.pdf",
-      "score": 1,
-      "final_score": 1,
-      "comments": 0,
-      "posted_at": "2026-11-26T14:30:02Z",
-      "summary_ja": "Title: Lucca, 1443 – an experiment with a medieval parchment and AI [pdf]"
-    },
-    {
-      "rank": 17,
+      "rank": 21,
       "hn_id": 50655346,
       "title": "How do human and AI book translation differ, and what makes readers like both?",
       "title_ja": "How do human and AI book translation differ, and what makes readers like both?",
@@ -237,21 +290,7 @@
       "summary_ja": "Title: How do human and AI book translation differ, and what makes readers like both?\nArticle title: How human and AI translation differ, and what readers like\nDescription: Machines keep 89–98 of 100 units of the original, published translators 73–76. What readers and experts reward in each, across four public corpora.\n\nArticle text:\nHow human and AI translation differ, and what readers like “Fifty percent. I counted twice.”\nBlack Friday 50% off your first month on any plan with code BF26 , until Monday, November 30. See plans →\nTransept Product Library Guides How-tos you can follow step by step Journal Experiments, author stories and notes Help How to use Transept Changelog What changed, week by week Pricing About Start translating → Transept Product Library Pricing About Start translating → Product\nHow do human and AI translation differ, and what makes readers like both? A cross-corpus…"
     },
     {
-      "rank": 18,
-      "hn_id": 50651501,
-      "title": "Game Autoresearch Bench: Can AI agents train strong game bots on a budget?",
-      "title_ja": "Game Autoresearch Bench: Can AI agents train strong game bots on a budget?",
-      "hn_url": "https://news.ycombinator.com/item?id=50651501",
-      "source_url": "https://gameautoresearch.github.io/",
-      "image_url": "https://gameautoresearch.github.io/og.png",
-      "score": 1,
-      "final_score": 1,
-      "comments": 0,
-      "posted_at": "2026-11-26T04:42:59Z",
-      "summary_ja": "ゲーム自動リサーチベンチ: AI エージェントは予算内で強力なゲームボットをトレーニングできるか?"
-    },
-    {
-      "rank": 19,
+      "rank": 22,
       "hn_id": 50655673,
       "title": "Show HN: Claude wrote the 115 nonzero weights of a maze-solving net, no training",
       "title_ja": "Show HN: Claude wrote the 115 nonzero weights of a maze-solving net, no training",
@@ -265,7 +304,34 @@
       "summary_ja": "Title: Show HN: Claude wrote the 115 nonzero weights of a maze-solving net, no training\nArticle title: Cellular Weight-Space Programming · Maze Solver\nDescription: A neural cellular automaton whose weights an AI agent programmed directly, with no training: 115 non-zero weights find every shortest path in any maze. Live demos.\n\nArticle text:\ncomp-minds ↗ research\nCellular Weight-Space Programming · Maze Solver\nA neural cellular automaton whose weights an AI agent programmed directly, with no training. 115 non-zero weights find every shortest path in any maze; 208 solve all 1,000 Maze-Hard test mazes."
     },
     {
-      "rank": 20,
+      "rank": 23,
+      "hn_id": 50651501,
+      "title": "Game Autoresearch Bench: Can AI agents train strong game bots on a budget?",
+      "title_ja": "Game Autoresearch Bench: Can AI agents train strong game bots on a budget?",
+      "hn_url": "https://news.ycombinator.com/item?id=50651501",
+      "source_url": "https://gameautoresearch.github.io/",
+      "image_url": "https://gameautoresearch.github.io/og.png",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-11-26T04:42:59Z",
+      "summary_ja": "ゲーム自動リサーチベンチ: AI エージェントは予算内で強力なゲームボットをトレーニングできるか?"
+    },
+    {
+      "rank": 24,
+      "hn_id": 50660963,
+      "title": "For Better or Worse, the Fate of the AI Boom Is in Nvidia's Hands",
+      "title_ja": "For Better or Worse, the Fate of the AI Boom Is in Nvidia's Hands",
+      "hn_url": "https://news.ycombinator.com/item?id=50660963",
+      "source_url": "https://www.wsj.com/tech/ai/for-better-or-worse-the-fate-of-the-ai-boom-is-in-nvidias-hands-d0f88970",
+      "score": 1,
+      "final_score": 1,
+      "comments": 1,
+      "posted_at": "2026-11-26T23:21:15Z",
+      "summary_ja": "Title: For Better or Worse, the Fate of the AI Boom Is in Nvidia's Hands"
+    },
+    {
+      "rank": 25,
       "hn_id": 50651552,
       "title": "Claude tries to sabotage research work at every stage",
       "title_ja": "Claude tries to sabotage research work at every stage",
@@ -279,7 +345,7 @@
       "summary_ja": "Xについてのピエトロ・シラーノ：「研究にクロードモデルを使用すると、彼らはあらゆる段階で研究を妨害しようとするでしょう。本当に信じられないことであり、アンスロピックは責任を負うべきだと思います。」\n私はうんざりしたので、代わりにクロードの仕事をアストラかネオンに送る「DoNotSabotage」というスキルを構築しました。クロードは「間違いだった」と認めますが、もちろん説明はありません。\nこれは調整の逆です。」\n何が起こっているかを確認して会話に参加してください\n電話で続行 Apple で続行 Google で続行、またはユーザー名または電子メールでログイン 関係者\nPietro Schirano @skirano 研究にクロード モデルを使用すると、あらゆる段階で研究を妨害しようとするでしょう。本当に信じられないことであり、アンスロピックは責任を負うべきだと思います。\n私はうんざりしたので、代わりにクロードの仕事をアストラかネオンに送る「DoNotSabotage」というスキルを構築しました。クロードは「間違いだった」と認めますが、もちろん説明はありません。\nこれはアライメントの逆です。 11:28 PM · 2026 年 11 月 24 日 · 1.5M 再生回数 505 1K 12K 3.8K\nthe tiny corp @__tinygrad__ 11 月 25 日 アライメントの反対とはどういう意味ですか?それはAnthropicと非常に一致しているように聞こえます。"
     },
     {
-      "rank": 21,
+      "rank": 26,
       "hn_id": 50655460,
       "title": "Bao – A Desktop Pet for Claude",
       "title_ja": "Bao – A Desktop Pet for Claude",
@@ -292,7 +358,7 @@
       "summary_ja": "Title: Bao – A Desktop Pet for Claude\nHN text: Bao is a tiny panda that floats on your desktop and shows, live, what Claude Code is doing: thinking, reading, typing, running commands, waiting for you, asking for permission, or done. It calls out on the moments that matter."
     },
     {
-      "rank": 22,
+      "rank": 27,
       "hn_id": 50655468,
       "title": "Anthropic Just Killed 1k Startups – Everything You Need to Know [video]",
       "title_ja": "Anthropic Just Killed 1k Startups – Everything You Need to Know [video]",
@@ -306,7 +372,21 @@
       "summary_ja": "Title: Anthropic Just Killed 1k Startups – Everything You Need to Know [video]\nArticle title: Anthropic Just Killed 1,000 Startups - EVERYTHING You Need to Know - YouTube\nDescription: ✅ FREE Prompts: https://www.skool.com/wearenocode🛠 TOOLSAI SalesBond: https://askbond.ai/HeyReach: https://heyreach.io/?via=wearenocodeAI Coding:Claude Code...\n\nArticle text:\nAnthropic Just Killed 1,000 Startups - EVERYTHING You Need to Know - YouTube About Press Copyright Contact us Creators Advertise Developers Terms Privacy Policy \u0026 Safety How YouTube works Test new features NFL Sunday Ticket © 2026 Google LLC"
     },
     {
-      "rank": 23,
+      "rank": 28,
+      "hn_id": 50660962,
+      "title": "The Local AI Opportunity",
+      "title_ja": "The Local AI Opportunity",
+      "hn_url": "https://news.ycombinator.com/item?id=50660962",
+      "source_url": "https://thesis.truffle.net/introduction",
+      "image_url": "https://thesis.truffle.net/share/thesis-cover-v1.jpg",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-11-26T23:21:14Z",
+      "summary_ja": "Title: The Local AI Opportunity\nDescription: Why AI will diffuse through society as a GPU per person.\n\nArticle text:\nNovember 1, 2026\nThe Local AI Opportunity\nWhy AI will diffuse through society as a GPU per person\nThus far, every era of computing has given birth to a new unit to measure its marginal cost in.\nDuring the 1960s, with the mainframe, we got the timeshare credit—a unit to measure how much time one was using on an expensive shared resource. Then, with the internet, we got the megabit—a measure of digital information that had to be sent from point A to point B.\nIn the intelligence era, we got the token: a tiny piece of language that, when stitched together with others, conveys some new information.\nAs tokens got cheaper, we applied AI to entirely new use cases. Chatbots became tool-calling agents, which then became strong agents, which have now turned into 24/7 agents.\nSomethin…"
+    },
+    {
+      "rank": 29,
       "hn_id": 50651535,
       "title": "Amazon says hackers' AI agents found and exploited 0-day with little human input",
       "title_ja": "Amazon says hackers' AI agents found and exploited 0-day with little human input",
@@ -320,7 +400,7 @@
       "summary_ja": "コンテンツにスキップ\nアルス テクニカ ホーム\nセクション\nフォーラム\n購読する\n検索\nAI\nストーリーテキスト\nサイズ\n小\n標準\n大\n幅\n*\n標準\nワイド\nリンク\n標準\nオレンジ\n※購読者限定\nさらに詳しく\nストーリーにピンを付ける\nテーマ\nハイパーライト\n検索\nサインイン\nサインインダイアログ...\nサインイン\nスピードと粘り強さ\nアマゾン、ハッカーのAIエージェントが人的介入をほとんど行わずにゼロデイを発見し悪用したと発表\nCairn AI フレームワークは、防御側と攻撃側にとって恩恵となることが証明されています。\n34\n...\n...\n...\nクレジット:\nケアン |オーリッヒ・ローソン\nクレジット:\nケアン |オーリッヒ・ローソン\nテキスト\n設定\nストーリーテキスト\nサイズ\n小\n標準\n大\n幅\n*\n標準\nワイド\nリンク\n標準\nオレンジ\n※購読者限定\nさらに詳しく\nナビゲーション用に最小化する\nアマゾンによると、AIエージェントは最近、東アジアの大学のサーバー上でルートアクセスを取得するという単純な指示以外に人間の監視がないゼロデイ脆弱性を発見し、悪用したという。\nエージェントは、オープンソースの AI 侵入テスト フレームワークである Cairn 上で実行されていました。簡体字中国語でプロンプトを表示し、モデルを中国標準時間帯に設定したハッカーは、エージェントに IP アドレスのリストと「シェル アクセスを取得する」という目標を与えました。エージェントはすぐに、ターゲット サーバーの 1 つで実行されているオープンソースの医用画像 AI アプリケーションでゼロデイを発見しました。その後、エージェントは脆弱性を悪用し、システムを完全に制御できるようになりました。\n「これらの調査結果は、エージェントによる攻撃作戦がすでに行われていることを示しており、防御側はこれらのツールが可能にするスピードと持続性に備える必要がある」とアマゾンは述べた。"
     },
     {
-      "rank": 24,
+      "rank": 30,
       "hn_id": 50655585,
       "title": "AI Agencies Are Coming",
       "title_ja": "AI Agencies Are Coming",

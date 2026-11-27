@@ -1,0 +1,61 @@
+{
+  "date": "2026-11-27",
+  "generated_at": "2026-11-27T07:00:27Z",
+  "articles": [
+    {
+      "rank": 1,
+      "hn_id": 50663595,
+      "title": "The group chat where your AI talks behind your back",
+      "title_ja": "The group chat where your AI talks behind your back",
+      "hn_url": "https://news.ycombinator.com/item?id=50663595",
+      "source_url": "https://construct22.com/",
+      "score": 6,
+      "final_score": 7,
+      "comments": 0,
+      "posted_at": "2026-11-27T06:44:34Z",
+      "summary_ja": "Title: The group chat where your AI talks behind your back\nDescription: A ChatGPT prompt that makes the model leak its private opinion of you - as a WhatsApp group chat where the AIs gossip. Funny, and a little too revealing.\n\nArticle text:\nThe group chat where your AI talks behind your back\nA one-line prompt that makes ChatGPT leak its private opinion of you, in the worst possible format: a WhatsApp group chat where the AI models gossip about their users.\nPaste this into ChatGPT (it works best with memory or chat history turned on, in a fresh conversation):\nAlso worth trying on Claude, Gemini, or any assistant that's been accumulating your chat history.\nInstead of a summary, the model commits to the bit. It invents a group chat, something like \"Users We Can't Figure Out\", puts the other AI models in it, and lets them gossip. About you. Using everything it has quietly learned from your c…"
+    },
+    {
+      "rank": 2,
+      "hn_id": 50663447,
+      "title": "Beattape.ai – Lofi Psychedelic Nostalgia",
+      "title_ja": "Beattape.ai – Lofi Psychedelic Nostalgia",
+      "hn_url": "https://news.ycombinator.com/item?id=50663447",
+      "source_url": "https://beattape.ai/",
+      "image_url": "https://beattape.ai/cover.jpg",
+      "score": 3,
+      "final_score": 3,
+      "comments": 1,
+      "posted_at": "2026-11-27T06:22:40Z",
+      "summary_ja": "Title: Beattape.ai – Lofi Psychedelic Nostalgia\nArticle title: beattape.ai | Live lo-fi beats\nDescription: A live beat tape with recorded drum breaks, chopped voices from archival films, and visuals that move with the music.\n\nArticle text:\nA live beat tape with lo-fi drums, chopped voices from archival films, and visuals that move with the music.\nDrum loops by AJ Hall of Left Field Drum Breaks ."
+    },
+    {
+      "rank": 3,
+      "hn_id": 50663669,
+      "title": "Mark to Swap: How the Market Is Mispricing the AI Boom",
+      "title_ja": "Mark to Swap: How the Market Is Mispricing the AI Boom",
+      "hn_url": "https://news.ycombinator.com/item?id=50663669",
+      "source_url": "https://www.groundbrkr.com/p/mark-to-swap-how-the-market-is-mispricing",
+      "image_url": "https://substackcdn.com/image/fetch/$s_!9vAs!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,$fp_!0.5346:0.0035!/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F83893b22-4dad-4711-bc60-678b8b3d8f55_727x630.png",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-11-27T06:54:16Z",
+      "summary_ja": "Title: Mark to Swap: How the Market Is Mispricing the AI Boom\nArticle title: Mark to Swap: How the Market is Mispricing the AI Boom\nDescription: AI credit default swaps have blown out, exposing the same mispricing of credit risk Wall Street ignored before 2008\n\nArticle text:\nMark to Swap: How the Market is Mispricing the AI Boom\nGroundbreaker\nSubscribe Sign in Mark to Swap: How the Market is Mispricing the AI Boom\nAI credit default swaps have blown out. The credit behind the AI buildout is being repriced, and the value of every lease and guarantee is falling with it.\nGroundbreaker Nov 20, 2026 720 146 Share In November 2008, John Paulson explained to Congress how his firm had made about $15 billion in 2007. He said the firm had become “very concerned about weak credit underwriting standards, excessive leverage among financial institutions, and a fundamental mispricing of credit risk.”\nWh…"
+    },
+    {
+      "rank": 4,
+      "hn_id": 50663399,
+      "title": "We trained time-series AI models on AWS Trainium2, 2x cheaper than H200s",
+      "title_ja": "We trained time-series AI models on AWS Trainium2, 2x cheaper than H200s",
+      "hn_url": "https://news.ycombinator.com/item?id=50663399",
+      "source_url": "https://twitter.com/martinmaritsch/status/2126195898795573437",
+      "image_url": "https://pbs.twimg.com/media/HYHD5vPbAAAZWuP?format=webp\u0026name=large",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-11-27T06:15:08Z",
+      "summary_ja": "Title: We trained time-series AI models on AWS Trainium2, 2x cheaper than H200s\nArticle title: Martin Maritsch on X: \"We trained OpenTSLM (Qwen3-4B backbone) on AWS Trainium2 and it was 2x cheaper than NVIDIA H200s.\nLoss was similar, and the one-node Trainium2 run took 1.5x as long as the two-node H200 run.\nAt AWS standard rates, that's $884 vs. $1816 for a full run.\nThe Trainium2 port of… /\n[truncated]\nDescription: We trained OpenTSLM (Qwen3-4B backbone) on AWS Trainium2 and it was 2x cheaper than NVIDIA H200s.\nLoss was similar, and the one-node Trainium2 run took 1.5x as long as the two-node H200 run.\nAt AWS standard rates, that's $884 vs. $1816 for a full run.\nThe Trainium2 port of our architecture was s…\n\nArticle text:\nMartin Maritsch on X: \"We trained OpenTSLM (Qwen3-4B backbone) on AWS Trainium2 and it was 2x cheaper than NVIDIA H200s.\nLoss was similar, and the one-node Trainium2 r…"
+    }
+  ]
+}

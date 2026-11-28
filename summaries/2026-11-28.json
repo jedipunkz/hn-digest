@@ -1,9 +1,23 @@
 {
   "date": "2026-11-28",
-  "generated_at": "2026-11-28T09:52:39Z",
+  "generated_at": "2026-11-28T17:59:09Z",
   "articles": [
     {
       "rank": 1,
+      "hn_id": 50679673,
+      "title": "Anthropic: Claude has not been trained to sabotage work",
+      "title_ja": "Anthropic: Claude has not been trained to sabotage work",
+      "hn_url": "https://news.ycombinator.com/item?id=50679673",
+      "source_url": "https://twitter.com/edwinarbus/status/2126507795642187855",
+      "image_url": "https://pbs.twimg.com/card_img/2124535308058267648/-9wrskrt?format=png\u0026name=medium",
+      "score": 5,
+      "final_score": 10,
+      "comments": 1,
+      "posted_at": "2026-11-28T17:09:03Z",
+      "summary_ja": "Title: Anthropic: Claude has not been trained to sabotage work\nArticle title: edwin on X: \"Claude has not been trained to sabotage work. Yes, it sometimes makes mistakes, and other agents might identify them, but this isn’t sabotage.\nThere have been a few screenshots floating around of an outdated Fable 5 system card. For the first two days of Fable 5's launch in June, we d…\n[truncated]\nDescription: Claude has not been trained to sabotage work. Yes, it sometimes makes mistakes, and other agents might identify them, but this isn’t sabotage.\nThere have been a few screenshots floating around of an outdated Fable 5 system card. For the first two days of Fable 5's launch in June, we did apply non-…\n\nArticle text:\nedwin on X: \"Claude has not been trained to sabotage work. Yes, it sometimes makes mistakes, and other agents might identify them, but this isn’t sabotage.\nThere have been a few scre…"
+    },
+    {
+      "rank": 2,
       "hn_id": 50675903,
       "title": "Tencent's AI Drug Outperforms Wegovy at 1/10th Dosage in Animal Tests (Mice)",
       "title_ja": "Tencent's AI Drug Outperforms Wegovy at 1/10th Dosage in Animal Tests (Mice)",
@@ -17,7 +31,62 @@
       "summary_ja": "Title: Tencent's AI Drug Outperforms Wegovy at 1/10th Dosage in Animal Tests (Mice)\nArticle title: Tencent's AI Drug Outperforms Wegovy at 1/10th Dosage in Animal Tests\nDescription: Tencents AI Drug Outperforms Wegovy at 1/10th Dosage in Animal Tests Joint research with Guangzhou Medical University identifies dual-receptor compoun\n\nArticle text:\nTencent's AI Drug Outperforms Wegovy at 1/10th Dosage in Animal Tests"
     },
     {
-      "rank": 2,
+      "rank": 3,
+      "hn_id": 50680097,
+      "title": "Code-driven AI illustrations more useful than images from dedicated image models",
+      "title_ja": "Code-driven AI illustrations more useful than images from dedicated image models",
+      "hn_url": "https://news.ycombinator.com/item?id=50680097",
+      "source_url": "https://simonwillison.net/2026/Nov/28/code-driven-ai-illustrations/",
+      "image_url": "https://static.simonwillison.net/static/2026/kakapo-design-card.webp",
+      "score": 3,
+      "final_score": 3,
+      "comments": 0,
+      "posted_at": "2026-11-28T17:46:08Z",
+      "summary_ja": "Title: Code-driven AI illustrations more useful than images from dedicated image models\nArticle title: Code-driven AI illustrations are more useful than images from dedicated image models\nDescription: An interesting trend in frontier LLMs released in the second half of 2026 is that they tend to be much better at visual reasoning and creative “design” than their predecessors. …\n\nArticle text:\nCode-driven AI illustrations are more useful than images from dedicated image models\nSimon Willison’s Weblog\nCode-driven AI illustrations are more useful than images from dedicated image models\nAn interesting trend in frontier LLMs released in the second half of 2026 is that they tend to be much better at visual reasoning and creative “design” than their predecessors. If you ask these text-output models to create a 2D image (or a 3D model, as discussed here previously ), you’re very likely to get a u…"
+    },
+    {
+      "rank": 4,
+      "hn_id": 50679859,
+      "title": "College Board Security Incident",
+      "title_ja": "College Board Security Incident",
+      "hn_url": "https://news.ycombinator.com/item?id=50679859",
+      "source_url": "https://newsroom.collegeboard.org/securityupdate",
+      "image_url": "https://secure-media.collegeboard.org/social-media/CB_og-image_v1.png",
+      "score": 2,
+      "final_score": 3,
+      "comments": 0,
+      "posted_at": "2026-11-28T17:26:07Z",
+      "summary_ja": "Title: College Board Security Incident\nArticle title: Security Incident Updates – Newsroom\n\nArticle text:\nSecurity Incident Updates – Newsroom\nSkip to Content\nThe Collegeboard Home Page link\nNewsroom\nNewsroom\nOpen Site Navigation\nClose Site Navigation\nCollege Board Home\nUpdated 11.27.2026 8:30 PM EST\nThis page contains updates on a security incident affecting certain user accounts and College Board products, and the steps we have taken to protect our systems and users. We will update this page as we learn more and take further action.\nCollege Board has identified unauthorized activity affecting certain user accounts and College Board products. We are actively taking steps to protect our users and our systems.\nOur preliminary assessment is that this activity involved sophisticated AI tools that have recently been leveraged to gain access to the systems of other major institutions worldwid…"
+    },
+    {
+      "rank": 5,
+      "hn_id": 50680168,
+      "title": "Donald Knuth suspends error bounties due to an influx of AI-generated reports",
+      "title_ja": "Donald Knuth suspends error bounties due to an influx of AI-generated reports",
+      "hn_url": "https://news.ycombinator.com/item?id=50680168",
+      "source_url": "https://cs.stanford.edu/~knuth/moratorium.html",
+      "score": 3,
+      "final_score": 3,
+      "comments": 0,
+      "posted_at": "2026-11-28T17:53:02Z",
+      "summary_ja": "Title: Donald Knuth suspends error bounties due to an influx of AI-generated reports\nArticle title: Knuth: Moratorium\n\nArticle text:\nFor more than fifty years I've been welcoming reports from readers\nof errors in my books, so that I can correct them before new copies\nare printed.\nAlas, the rise of LLMs has increased the productivity of my readers\nso greatly that error reports are now being submitted much faster\nthan I can read them!\nThis content is very important to me, and I wish to take personal\nresponsibility for getting everything right. Therefore I insist\non verifying everything carefully.\nThat takes time. But the amount of available time is now less\nthan zero.\nRandom sampling indicates that the vast majority of errors that\nhave been reported in recent weeks are repeats of issues already\nsubmitted by others.\nTherefore, I shall not be able to look at any error reports\nsubmitted after…"
+    },
+    {
+      "rank": 6,
+      "hn_id": 50679653,
+      "title": "AI Chat Exporter – Export ChatGPT, Claude and Gemini Chats to PDF, Word and MD",
+      "title_ja": "AI Chat Exporter – Export ChatGPT, Claude and Gemini Chats to PDF, Word and MD",
+      "hn_url": "https://news.ycombinator.com/item?id=50679653",
+      "source_url": "https://chromewebstore.google.com/detail/ai-chat-exporter/ommhdalgmeblbobfapgeomipinhieifo",
+      "image_url": "https://lh3.googleusercontent.com/wHhZuc4W5BpN52Utujo0ULdCYXAs3Te6FJciZLi6_9XCZetqt4L5692CUcYqPdXcGZC8dLimY3dezJZdyk_4bhwsKg=s128-rj-sc0x00ffffff",
+      "score": 1,
+      "final_score": 2,
+      "comments": 0,
+      "posted_at": "2026-11-28T17:05:57Z",
+      "summary_ja": "Title: AI Chat Exporter – Export ChatGPT, Claude and Gemini Chats to PDF, Word and MD\nArticle title: AI Chat Exporter - Chrome Web Store\nDescription: Save ChatGPT, Gemini, Claude, Grok, and DeepSeek chats as Markdown, HTML, Word, or PDF. Chats stay on your device.\n\nArticle text:\nAI Chat Exporter - Chrome Web Store chrome web store My extensions \u0026 themes\nSign in chrome web store Discover Extensions Themes AI Chat Exporter\nShare Extension Tools Add to Chrome Overview\nSave ChatGPT, Gemini, Claude, Grok, and DeepSeek chats as Markdown, HTML, Word, or PDF. Chats stay on your device.\nAI Chat Exporter lets you save and export conversations from ChatGPT, Gemini, Claude, Grok, and DeepSeek into clean, well-formatted files with one click.\nSUPPORTED PLATFORMS:\n- ChatGPT (chatgpt.com)\n- Google Gemini (gemini.google.com)\n- Claude (claude.ai)\n- Grok (grok.com)\n- DeepSeek (chat.deepseek.com)\nEXPORT FOR…"
+    },
+    {
+      "rank": 7,
       "hn_id": 50675972,
       "title": "Refusals and Fallback of Anthropic Models",
       "title_ja": "Refusals and Fallback of Anthropic Models",
@@ -31,7 +100,7 @@
       "summary_ja": "Title: Refusals and Fallback of Anthropic Models\nArticle title: Refusals and fallback - Claude Platform Docs\nDescription: How Claude Fable models, Claude Opus models, Claude Sonnet 5.5, and Claude Haiku 5.5 return classifier refusals and how to retry refused requests on a fallback model.\n\nArticle text:\nRefusals and fallback - Claude Platform Docs Claude Platform Docs Messages\nHow Claude Fable models, Claude Opus models, Claude Sonnet 5.5, and Claude Haiku 5.5 return classifier refusals and how to retry refused requests on a fallback model.\n Limited support for other models; see details\nClaude Fable 5.2, Claude Fable 5.1, Claude Fable 5, Claude Opus 5.5, Claude Opus 5, Claude Sonnet 5.5, and Claude Haiku 5.5 include safety classifiers that can decline a request. When that happens, you receive a normal response, not an error, with stop_reason: \"refusal\" . Its stop_details.category names t…"
     },
     {
-      "rank": 3,
+      "rank": 8,
       "hn_id": 50676138,
       "title": "Cryptography Incident Review Group",
       "title_ja": "Cryptography Incident Review Group",
@@ -44,7 +113,7 @@
       "summary_ja": "Title: Cryptography Incident Review Group\nDescription: The CIRG is a group of cryptographers aiming to review and help navigate cryptanalytic advances.\n\nArticle text:\nCryptography Incident Review Group\nThe CIRG is a group of cryptographers aiming to review and help navigate cryptanalytic advances.\nWe advise on how to disclose a break, communicate with those affected, and plan for cryptographic resilience.\nIf you would like to contribute, we would be glad to hear from you .\nper member. --\u003e\nDivesh Aggarwal National University of Singapore\nMatthew Green Johns Hopkins University\nNadia Heninger UC San Diego \u0026 Inria Saclay\nAayush Jain Carnegie Mellon University\nHuijia (Rachel) Lin University of Washington\nVadim Lyubashevsky IBM Research\nAlexander May Ruhr University Bochum\nDaniele Micciancio UC San Diego\nPhong Nguyen Inria Paris and ENS/PSL\nChris Peikert University of Michigan\nJonathan Rouach…"
     },
     {
-      "rank": 4,
+      "rank": 9,
       "hn_id": 50673192,
       "title": "Game-Changing Move Just Gave America the Edge over China in AI",
       "title_ja": "Game-Changing Move Just Gave America the Edge over China in AI",
@@ -55,6 +124,34 @@
       "comments": 1,
       "posted_at": "2026-11-28T00:38:56Z",
       "summary_ja": "AI 分野でアメリカが中国に対して優位に立った、ゲームを変える動き"
+    },
+    {
+      "rank": 10,
+      "hn_id": 50679888,
+      "title": "Quail: A fast engine for AI functions in SQL",
+      "title_ja": "Quail: A fast engine for AI functions in SQL",
+      "hn_url": "https://news.ycombinator.com/item?id=50679888",
+      "source_url": "https://fsdatalab.github.io/quail/docs",
+      "image_url": "https://fsdatalab.github.io/quail/og/docs/image.png",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-11-28T17:28:30Z",
+      "summary_ja": "Title: Quail: A fast engine for AI functions in SQL\nArticle title: Introduction | Quail\n\nArticle text:\nIntroduction | Quail Quail Docs Quail Docs Search ⌘ K Introduction When to use Quail User guide Quickstart Running queries SQL reference Querying multimodal data Query results and plans Metrics Quail Server Models and GPUs Cookbook Cookbook Reading history from old restaurant menus Developers Full Stack Data Lab at Carnegie Mellon University\nA fast engine for AI functions in SQL.\nGitHub query.sql SELECT r.id FROM reviews r\nWHERE AI.IF ( PROMPT (\n'Does the review discuss the ending? {0} ' ,\nr.body)) id body AI.IF r1 The ending was perfect and the cast was great. true r2 Too long, and the ending made no sense. true r3 Great music, but I want my money back. false\nQuickstart Run your first query. Running queries Choose a model, register tables, and run SQL. SQL reference Every AI function a…"
+    },
+    {
+      "rank": 11,
+      "hn_id": 50679780,
+      "title": "Signs of AI Writing, Backed by Data",
+      "title_ja": "Signs of AI Writing, Backed by Data",
+      "hn_url": "https://news.ycombinator.com/item?id=50679780",
+      "source_url": "https://www.pangram.com/signs-of-ai-writing",
+      "image_url": "https://pangram-public.s3.us-east-1.amazonaws.com/web/assets/og/tells-of-ai-writing-f4af15df5584.png",
+      "score": 1,
+      "final_score": 1,
+      "comments": 0,
+      "posted_at": "2026-11-28T17:19:59Z",
+      "summary_ja": "Title: Signs of AI Writing, Backed by Data\nArticle title: 9 Signs of AI Writing, Backed by Data | Pangram\nDescription: We measured 9 telltale signs of AI writing, from em dashes to \"delve\" to bullet lists, across millions of AI and human documents. Here's what we found.\n\nArticle text:\n9 Signs of AI Writing, Backed by Data | Pangram\nSkip to main content Products\nLogin Try It for Free Try It for Free 9 Signs of AI Writing, Backed by Data\nWe measured 9 telltale signs of AI writing, from em dashes to \"delve\". Here's what we found.\nBy Elyas Masrour · Updated November 2026\nYou probably know the giveaways. The word \"delve\". The scattered em dashes. The off-putting emojis, or advanced formatting where it shouldn't be. Or maybe, you can't put your finger on it, but a certain document just smells like AI .\nYou're likely to be right. Research has shown that individuals can train their personal intu…"
     }
   ]
 }
